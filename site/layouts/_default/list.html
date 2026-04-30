@@ -39,8 +39,12 @@
         {{ range where $curated.items "category" $catId }}
         <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
             <div class="tool-header">
-                {{ $modelDomain := replaceRE "^https?://([^/]+).*" "$1" .url }}
-                <img src="https://www.google.com/s2/favicons?domain={{ $modelDomain }}&sz=64" alt="" style="width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ $modelIcon := or .icon_url .icon }}
+                {{ if $modelIcon }}
+                <img src="{{ $modelIcon }}" alt="" style="width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ else }}
+                <img src="" alt="" style="display:none;width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ end }}
                 <div class="tool-icon" style="display:none">{{ if eq .source "OpenRouter" }}⚡{{ else }}🌍{{ end }}</div>
                 <div>
                     <div class="tool-name">{{ .name }}</div>
@@ -118,9 +122,13 @@
         {{ range $tools }}
         <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
             <div class="tool-header">
-                {{ $toolDomain := replaceRE "^https?://([^/]+).*" "$1" .url }}
+                {{ $toolIconUrl := .icon_url }}
                 {{ $toolIcon := or .icon .emoji $emoji "🤖" }}
-                <img src="https://www.google.com/s2/favicons?domain={{ $toolDomain }}&sz=64" alt="" style="width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ if $toolIconUrl }}
+                <img src="{{ $toolIconUrl }}" alt="" style="width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ else }}
+                <img src="" alt="" style="display:none;width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ end }}
                 <div class="tool-icon" style="display:none">{{ $toolIcon }}</div>
                 <div class="tool-name">{{ .name }}</div>
             </div>
@@ -198,9 +206,13 @@
         {{ range $sortedAgents }}
         <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
             <div class="tool-header">
-                {{ $toolDomain := replaceRE "^https?://([^/]+).*" "$1" .url }}
+                {{ $toolIconUrl := .icon_url }}
                 {{ $toolIcon := or .icon .emoji $emoji "🤖" }}
-                <img src="https://www.google.com/s2/favicons?domain={{ $toolDomain }}&sz=64" alt="" style="width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ if $toolIconUrl }}
+                <img src="{{ $toolIconUrl }}" alt="" style="width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ else }}
+                <img src="" alt="" style="display:none;width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                {{ end }}
                 <div class="tool-icon" style="display:none">{{ $toolIcon }}</div>
                 <div class="tool-name">{{ .name }}</div>
             </div>

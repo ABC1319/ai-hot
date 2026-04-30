@@ -6,6 +6,11 @@ import os
 import urllib.request
 from datetime import datetime, timezone
 
+try:
+    from scripts.icon_resolver import resolve_icon
+except ModuleNotFoundError:  # script execution from repo root
+    from icon_resolver import resolve_icon
+
 DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'data')
 MODELS_PATH = os.path.join(DATA_DIR, 'models.json')
 OUTPUT_PATH = os.path.join(DATA_DIR, 'models_curated.json')
@@ -27,12 +32,14 @@ CURATED_ITEMS = [
     {'category': 'top', 'source': 'openrouter', 'id': 'anthropic/claude-opus-4.7', 'label': '长文与复杂任务', 'why': '复杂任务稳定性强，长上下文和专业写作很能打'},
     {'category': 'top', 'source': 'openrouter', 'id': 'x-ai/grok-4.20', 'label': '热点与推理', 'why': '新一代旗舰之一，热度高、讨论度强'},
     {'category': 'top', 'source': 'openrouter', 'id': 'z-ai/glm-5.1', 'label': '国产主力', 'why': '国产新一代通用模型代表，更新积极'},
-    {'category': 'top', 'source': 'openrouter', 'id': 'deepseek/deepseek-v3.2', 'label': '高性价比', 'why': '推理/代码/成本平衡优秀，采用度高'},
+    {'category': 'top', 'source': 'openrouter-latest', 'provider_prefix': 'deepseek', 'family': 'deepseek-v', 'variant': 'pro', 'label': '国产旗舰', 'why': 'DeepSeek 最新 V 系列主力，热度、上下文和性价比都应放主榜'},
+    {'category': 'top', 'source': 'openrouter', 'id': 'minimax/minimax-m2.7', 'label': '国产长上下文主力', 'why': 'MiniMax 最新 M2.7，不是观察项，应该作为国产一线主力展示'},
+    {'category': 'top', 'source': 'openrouter', 'id': 'inclusionai/ling-2.6-1t:free', 'label': '国产新热门', 'why': 'Ling-2.6 在 OpenRouter 热度高且有免费 1T 版本，模型页必须收录'},
 
     # 编程
     {'category': 'coding', 'source': 'openrouter-latest', 'provider_prefix': 'openai', 'family': 'gpt', 'variant': 'pro', 'label': '重度编码', 'why': 'OpenAI 最新 Pro 线，适合复杂工程任务和严肃编程场景'},
     {'category': 'coding', 'source': 'openrouter', 'id': 'anthropic/claude-sonnet-4.6', 'label': '开发者高频', 'why': 'Claude Code 生态热门底座，真实开发采用广'},
-    {'category': 'coding', 'source': 'openrouter', 'id': 'qwen/qwen3.6-plus', 'label': '国产编码主力', 'why': '代码与通用兼顾，近期更新快'},
+    {'category': 'coding', 'source': 'openrouter-latest', 'provider_prefix': 'qwen', 'family': 'qwen3.6', 'variant': 'plus', 'label': '国产编码主力', 'why': 'Qwen 新代际主力，代码与通用兼顾，更新快'},
     {'category': 'coding', 'source': 'huggingface', 'url': 'https://huggingface.co/Qwen/Qwen3-Coder-Next', 'label': '开源代码旗舰', 'why': '开源阵营里实用度高，开发者关注度高'},
     {'category': 'coding', 'source': 'huggingface', 'url': 'https://huggingface.co/moonshotai/Kimi-K2.6', 'label': '中文代码协作', 'why': '中文理解、长上下文协作和最近热度都很强'},
 
@@ -65,9 +72,8 @@ CURATED_ITEMS = [
     {'category': 'open', 'source': 'huggingface', 'url': 'https://huggingface.co/moonshotai/Kimi-K2.6', 'label': '开源新热门', 'why': '近期讨论度与关注度都很高'},
 
     # 新锐关注
-    {'category': 'watch', 'source': 'openrouter', 'id': 'deepseek/deepseek-v4-pro', 'label': 'DeepSeek V4', 'why': '今天最重要的国产模型发布之一，应该进入模型页重点关注位'},
-    {'category': 'watch', 'source': 'openrouter', 'id': 'minimax/minimax-m2.7', 'label': '新锐国产', 'why': '近期迭代积极，值得持续跟踪'},
-    {'category': 'watch', 'source': 'openrouter', 'id': 'xiaomi/mimo-32b', 'label': '小米 MiMo', 'why': 'OpenRouter 上热度和实力都不该缺席，国产新锐里必须补上'},
+    {'category': 'watch', 'source': 'openrouter-latest', 'provider_prefix': 'xiaomi', 'family': 'mimo', 'variant': 'pro', 'label': '小米 MiMo', 'why': '小米 MiMo 最新 Pro 线，国产新厂商里值得持续观察'},
+    {'category': 'watch', 'source': 'openrouter', 'id': 'inclusionai/ling-2.6-flash', 'label': 'Ling 快模', 'why': 'Ling-2.6 Flash 速度和免费生态值得盯，但主推版本已放主榜'},
     {'category': 'watch', 'source': 'openrouter', 'id': 'mistralai/mistral-small-2603', 'label': '轻量强者', 'why': '轻量级模型里很能打'},
     {'category': 'watch', 'source': 'openrouter', 'id': 'nvidia/nemotron-3-super-120b-a12b', 'label': 'NVIDIA 新动向', 'why': '大厂新模型线，值得长期观察'},
     {'category': 'watch', 'source': 'huggingface', 'url': 'https://huggingface.co/Qwen/Qwen3.6-35B-A3B', 'label': 'Qwen 新代际', 'why': 'Qwen 新代际开源模型，热度上升中'},
@@ -86,9 +92,23 @@ HF_ALLOWED_URLS = {item['url'] for item in CURATED_ITEMS if item['source'] == 'h
 
 
 def fetch_openrouter_models():
+    fixture = os.environ.get('OPENROUTER_MODELS_FIXTURE')
+    if fixture:
+        with open(fixture, 'r', encoding='utf-8') as f:
+            payload = json.load(f)
+        data = payload.get('data', payload) if isinstance(payload, dict) else payload
+        return {m['id']: m for m in data}
+
     req = urllib.request.Request(OPENROUTER_URL, headers={'User-Agent': 'Mozilla/5.0'})
     with urllib.request.urlopen(req, timeout=30) as resp:
-        return {m['id']: m for m in json.load(resp)['data']}
+        data = json.load(resp)['data']
+
+    # Keep a local snapshot so deployment/cron runs never regress to stale or fake data
+    # when OpenRouter is briefly unavailable, and so site/data stays in sync.
+    snapshot_path = os.path.join(DATA_DIR, 'openrouter_models_snapshot.json')
+    with open(snapshot_path, 'w', encoding='utf-8') as f:
+        json.dump({'data': data, 'updated_at': datetime.now(timezone.utc).isoformat()}, f, ensure_ascii=False, indent=2)
+    return {m['id']: m for m in data}
 
 
 def load_local_models():
@@ -140,11 +160,13 @@ def provider_label_from_model(model):
 
 ARCHIVE_VARIANT_KEYWORDS = {
     'pro': ['pro'],
+    'plus': ['plus'],
+    'flash': ['flash'],
     'image': ['image'],
     'base': [],
 }
 
-STALE_VARIANT_KEYWORDS = ['mini', 'nano', 'chat', 'audio', 'codex']
+STALE_VARIANT_KEYWORDS = ['mini', 'nano', 'chat', 'audio', 'codex', 'flash']
 
 
 def openrouter_created(model):
@@ -326,7 +348,7 @@ def format_context_meta(context_length):
 def build_item(spec, openrouter_map, hf_map):
     if spec['source'] == 'openrouter':
         model = openrouter_map[spec['id']]
-        return {
+        item = {
             'category': spec['category'],
             'source': 'OpenRouter',
             'name': clean_name(model.get('name') or spec['id']),
@@ -338,9 +360,11 @@ def build_item(spec, openrouter_map, hf_map):
             'meta': format_context_meta(model.get('context_length')),
             'tags': modalities_from_or(model),
         }
+        item['icon_url'] = resolve_icon(item, 'model')
+        return item
 
     if spec['source'] == 'manual':
-        return {
+        item = {
             'category': spec['category'],
             'source': '官方补充',
             'name': spec['name'],
@@ -352,6 +376,8 @@ def build_item(spec, openrouter_map, hf_map):
             'meta': spec.get('meta', '官方发布'),
             'tags': spec.get('tags', []),
         }
+        item['icon_url'] = resolve_icon(item, 'model')
+        return item
 
     hf = hf_map[spec['url']]
     tags = []
@@ -368,7 +394,7 @@ def build_item(spec, openrouter_map, hf_map):
     elif hf.get('pipeline_tag') == 'image-to-3d':
         tags.append('3D')
 
-    return {
+    item = {
         'category': spec['category'],
         'source': 'HuggingFace',
         'name': hf.get('display_name') or hf.get('name', '').split('/')[-1],
@@ -380,6 +406,8 @@ def build_item(spec, openrouter_map, hf_map):
         'meta': f"❤️ {hf.get('likes', 0)}" if hf.get('likes') else '开源热门模型',
         'tags': tags,
     }
+    item['icon_url'] = resolve_icon(item, 'model')
+    return item
 
 
 def generate_curated_models():

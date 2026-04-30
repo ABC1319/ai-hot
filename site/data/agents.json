@@ -9,7 +9,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "🦞",
-    "stars": 362093
+    "stars": 362093,
+    "icon_url": "https://github.com/openclaw.png?size=128"
   },
   {
     "id": "hermes-agent",
@@ -21,7 +22,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "🤖",
-    "stars": 109378
+    "stars": 109378,
+    "icon_url": "https://github.com/NousResearch.png?size=128"
   },
   {
     "id": "claude-code",
@@ -32,7 +34,8 @@
     "pricing": "API按量",
     "difficulty": 2,
     "trending": true,
-    "icon": "🟠"
+    "icon": "🟠",
+    "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },
   {
     "id": "cursor-agent",
@@ -43,7 +46,8 @@
     "pricing": "Pro $20/月",
     "difficulty": 1,
     "trending": true,
-    "icon": "⌨️"
+    "icon": "⌨️",
+    "icon_url": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64"
   },
   {
     "id": "codex-agent",
@@ -54,7 +58,8 @@
     "pricing": "ChatGPT Pro $200/月",
     "difficulty": 1,
     "trending": true,
-    "icon": "🟢"
+    "icon": "🟢",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
   },
   {
     "id": "devin",
@@ -65,7 +70,8 @@
     "pricing": "$500/月",
     "difficulty": 2,
     "trending": true,
-    "icon": "🧑‍💻"
+    "icon": "🧑‍💻",
+    "icon_url": "https://www.google.com/s2/favicons?domain=devin.ai&sz=64"
   },
   {
     "id": "swe-agent",
@@ -76,7 +82,8 @@
     "pricing": "开源免费",
     "difficulty": 3,
     "icon": "🔬",
-    "stars": 19030
+    "stars": 19030,
+    "icon_url": "https://github.com/princeton-nlp.png?size=128"
   },
   {
     "id": "gpt-researcher",
@@ -88,7 +95,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "🔍",
-    "stars": 26601
+    "stars": 26601,
+    "icon_url": "https://github.com/assafelovic.png?size=128"
   },
   {
     "id": "storm",
@@ -99,7 +107,8 @@
     "pricing": "开源免费",
     "difficulty": 2,
     "icon": "🌪️",
-    "stars": 28100
+    "stars": 28100,
+    "icon_url": "https://github.com/stanford-oval.png?size=128"
   },
   {
     "id": "open-deep-research",
@@ -111,7 +120,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "🤗",
-    "stars": 26805
+    "stars": 26805,
+    "icon_url": "https://github.com/huggingface.png?size=128"
   },
   {
     "id": "autogpt",
@@ -122,7 +132,8 @@
     "pricing": "开源免费",
     "difficulty": 3,
     "icon": "🚀",
-    "stars": 183662
+    "stars": 183662,
+    "icon_url": "https://github.com/Significant-Gravitas.png?size=128"
   },
   {
     "id": "babyagi",
@@ -133,7 +144,8 @@
     "pricing": "开源免费",
     "difficulty": 3,
     "icon": "👶",
-    "stars": 22235
+    "stars": 22235,
+    "icon_url": "https://github.com/yoheinakajima.png?size=128"
   },
   {
     "id": "agentgpt",
@@ -143,7 +155,8 @@
     "type": "自动化 Agent",
     "pricing": "免费 + Pro",
     "difficulty": 1,
-    "icon": "🤖"
+    "icon": "🤖",
+    "icon_url": "https://www.google.com/s2/favicons?domain=agentgpt.reworkd.ai&sz=64"
   },
   {
     "id": "superagi",
@@ -154,7 +167,8 @@
     "pricing": "开源免费",
     "difficulty": 3,
     "icon": "⚡",
-    "stars": 17473
+    "stars": 17473,
+    "icon_url": "https://github.com/TransformerOptimus.png?size=128"
   },
   {
     "id": "crewai",
@@ -166,7 +180,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "👥",
-    "stars": 49499
+    "stars": 49499,
+    "icon_url": "https://github.com/crewAIInc.png?size=128"
   },
   {
     "id": "metagpt",
@@ -177,7 +192,8 @@
     "pricing": "开源免费",
     "difficulty": 3,
     "icon": "🏢",
-    "stars": 67327
+    "stars": 67327,
+    "icon_url": "https://github.com/geekan.png?size=128"
   },
   {
     "id": "chatdev",
@@ -188,7 +204,8 @@
     "pricing": "开源免费",
     "difficulty": 3,
     "icon": "💬",
-    "stars": 32811
+    "stars": 32811,
+    "icon_url": "https://github.com/OpenBMB.png?size=128"
   },
   {
     "id": "autogen",
@@ -200,7 +217,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "🔄",
-    "stars": 57319
+    "stars": 57319,
+    "icon_url": "https://github.com/microsoft.png?size=128"
   },
   {
     "id": "langgraph",
@@ -212,7 +230,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "🔗",
-    "stars": 29966
+    "stars": 29966,
+    "icon_url": "https://github.com/langchain-ai.png?size=128"
   },
   {
     "id": "browser-use",
@@ -224,7 +243,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "🌐",
-    "stars": 89383
+    "stars": 89383,
+    "icon_url": "https://github.com/browser-use.png?size=128"
   },
   {
     "id": "webvoyager",
@@ -235,7 +255,8 @@
     "pricing": "开源免费",
     "difficulty": 3,
     "icon": "🗺️",
-    "stars": 1075
+    "stars": 1075,
+    "icon_url": "https://github.com/MinorJerry.png?size=128"
   },
   {
     "id": "fabric",
@@ -246,7 +267,8 @@
     "pricing": "开源免费",
     "difficulty": 2,
     "icon": "🧵",
-    "stars": 40771
+    "stars": 40771,
+    "icon_url": "https://github.com/danielmiessler.png?size=128"
   },
   {
     "id": "aider",
@@ -258,7 +280,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "💻",
-    "stars": 43688
+    "stars": 43688,
+    "icon_url": "https://github.com/Aider-AI.png?size=128"
   },
   {
     "id": "opencode",
@@ -270,7 +293,8 @@
     "difficulty": 2,
     "trending": true,
     "icon": "📝",
-    "stars": 12134
+    "stars": 12134,
+    "icon_url": "https://github.com/opencode-ai.png?size=128"
   },
   {
     "id": "dify",
@@ -282,7 +306,8 @@
     "difficulty": 1,
     "trending": true,
     "icon": "🏗️",
-    "stars": 138737
+    "stars": 138737,
+    "icon_url": "https://github.com/langgenius.png?size=128"
   },
   {
     "id": "coze",
@@ -293,7 +318,8 @@
     "pricing": "免费 + Pro",
     "difficulty": 1,
     "trending": true,
-    "icon": "🎯"
+    "icon": "🎯",
+    "icon_url": "https://www.google.com/s2/favicons?domain=coze.com&sz=64"
   },
   {
     "id": "n8n-ai",
@@ -304,7 +330,8 @@
     "pricing": "开源 + Cloud",
     "difficulty": 2,
     "trending": true,
-    "icon": "⚡"
+    "icon": "⚡",
+    "icon_url": "https://www.google.com/s2/favicons?domain=n8n.io&sz=64"
   },
   {
     "id": "manus",
@@ -315,7 +342,8 @@
     "pricing": "免费试用",
     "difficulty": 1,
     "trending": true,
-    "icon": "✋"
+    "icon": "✋",
+    "icon_url": "https://www.google.com/s2/favicons?domain=manus.im&sz=64"
   },
   {
     "id": "genspark",
@@ -325,7 +353,8 @@
     "type": "研究 Agent",
     "pricing": "免费",
     "difficulty": 1,
-    "icon": "✨"
+    "icon": "✨",
+    "icon_url": "https://www.google.com/s2/favicons?domain=genspark.ai&sz=64"
   },
   {
     "id": "flowise",
@@ -339,7 +368,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "🌊",
-    "stars": 52145
+    "stars": 52145,
+    "icon_url": "https://github.com/FlowiseAI.png?size=128"
   },
   {
     "id": "goose",
@@ -353,7 +383,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "🪿",
-    "stars": 42982
+    "stars": 42982,
+    "icon_url": "https://github.com/aaif-goose.png?size=128"
   },
   {
     "id": "plandex",
@@ -367,7 +398,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "🔮",
-    "stars": 15275
+    "stars": 15275,
+    "icon_url": "https://github.com/plandex-ai.png?size=128"
   },
   {
     "id": "pydantic-ai",
@@ -381,7 +413,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "🐍",
-    "stars": 16547
+    "stars": 16547,
+    "icon_url": "https://github.com/pydantic.png?size=128"
   },
   {
     "id": "voltagent",
@@ -395,7 +428,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "⚡",
-    "stars": 8402
+    "stars": 8402,
+    "icon_url": "https://github.com/VoltAgent.png?size=128"
   },
   {
     "id": "tabby",
@@ -409,7 +443,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "🏷️",
-    "stars": 33442
+    "stars": 33442,
+    "icon_url": "https://github.com/TabbyML.png?size=128"
   },
   {
     "id": "opencli",
@@ -423,7 +458,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "⚡",
-    "stars": 16762
+    "stars": 16762,
+    "icon_url": "https://github.com/jackwener.png?size=128"
   },
   {
     "id": "inkos",
@@ -437,7 +473,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "✍️",
-    "stars": 4767
+    "stars": 4767,
+    "icon_url": "https://github.com/Narcooo.png?size=128"
   },
   {
     "id": "openmontage",
@@ -451,7 +488,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "🎬",
-    "stars": 2951
+    "stars": 2951,
+    "icon_url": "https://github.com/calesthio.png?size=128"
   },
   {
     "id": "wecom-cli",
@@ -465,7 +503,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "💼",
-    "stars": 1775
+    "stars": 1775,
+    "icon_url": "https://github.com/WecomTeam.png?size=128"
   },
   {
     "id": "onecli",
@@ -479,7 +518,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-21",
     "icon": "🔐",
-    "stars": 1850
+    "stars": 1850,
+    "icon_url": "https://github.com/onecli.png?size=128"
   },
   {
     "id": "gemini-cli",
@@ -493,7 +533,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🔮",
-    "stars": 102078
+    "stars": 102078,
+    "icon_url": "https://github.com/google-gemini.png?size=128"
   },
   {
     "id": "mempalace",
@@ -507,7 +548,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🏰",
-    "stars": 48883
+    "stars": 48883,
+    "icon_url": "https://github.com/MemPalace.png?size=128"
   },
   {
     "id": "openmythos",
@@ -521,7 +563,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🧠",
-    "stars": 8024
+    "stars": 8024,
+    "icon_url": "https://github.com/kyegomez.png?size=128"
   },
   {
     "id": "graphify",
@@ -535,7 +578,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🌐",
-    "stars": 32623
+    "stars": 32623,
+    "icon_url": "https://github.com/safishamsi.png?size=128"
   },
   {
     "id": "browser-harness",
@@ -549,7 +593,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🤖",
-    "stars": 4671
+    "stars": 4671,
+    "icon_url": "https://github.com/browser-use.png?size=128"
   },
   {
     "id": "autoresearch",
@@ -563,7 +608,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🔬",
-    "stars": 75443
+    "stars": 75443,
+    "icon_url": "https://github.com/karpathy.png?size=128"
   },
   {
     "id": "crucix",
@@ -577,7 +623,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🔍",
-    "stars": 8944
+    "stars": 8944,
+    "icon_url": "https://github.com/calesthio.png?size=128"
   },
   {
     "id": "agency-agents-zh",
@@ -591,7 +638,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🎭",
-    "stars": 7542
+    "stars": 7542,
+    "icon_url": "https://github.com/jnMetaCode.png?size=128"
   },
   {
     "id": "hyperframes",
@@ -605,7 +653,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🎬",
-    "stars": 8952
+    "stars": 8952,
+    "icon_url": "https://github.com/heygen-com.png?size=128"
   },
   {
     "id": "camel",
@@ -619,7 +668,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🐫",
-    "stars": 16753
+    "stars": 16753,
+    "icon_url": "https://github.com/camel-ai.png?size=128"
   },
   {
     "id": "mindsearch",
@@ -633,7 +683,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🔍",
-    "stars": 6848
+    "stars": 6848,
+    "icon_url": "https://github.com/InternLM.png?size=128"
   },
   {
     "id": "agentuniverse",
@@ -647,7 +698,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "icon": "🌌",
-    "stars": 2206
+    "stars": 2206,
+    "icon_url": "https://github.com/agentuniverse-ai.png?size=128"
   },
   {
     "id": "ralph",
@@ -659,7 +711,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:10.188701",
-    "icon": "⚡"
+    "icon": "⚡",
+    "icon_url": "https://github.com/snarktank.png?size=128"
   },
   {
     "id": "pentagi",
@@ -671,7 +724,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:10.188713",
-    "icon": "⚡"
+    "icon": "⚡",
+    "icon_url": "https://github.com/vxcontrol.png?size=128"
   },
   {
     "id": "agent-skills",
@@ -683,7 +737,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:11.145867",
-    "icon": "🛠️"
+    "icon": "🛠️",
+    "icon_url": "https://github.com/addyosmani.png?size=128"
   },
   {
     "id": "cmux",
@@ -695,7 +750,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:11.145883",
-    "icon": "🛠️"
+    "icon": "🛠️",
+    "icon_url": "https://github.com/manaflow-ai.png?size=128"
   },
   {
     "id": "figma-context-mcp",
@@ -707,7 +763,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:11.145887",
-    "icon": "🛠️"
+    "icon": "🛠️",
+    "icon_url": "https://github.com/GLips.png?size=128"
   },
   {
     "id": "ai-website-cloner-template",
@@ -719,7 +776,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:11.145890",
-    "icon": "🛠️"
+    "icon": "🛠️",
+    "icon_url": "https://github.com/JCodesMore.png?size=128"
   },
   {
     "id": "botsharp",
@@ -731,7 +789,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:12.090146",
-    "icon": "🤖"
+    "icon": "🤖",
+    "icon_url": "https://github.com/SciSharp.png?size=128"
   },
   {
     "id": "llmstack",
@@ -743,7 +802,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:12.090157",
-    "icon": "🛠️"
+    "icon": "🛠️",
+    "icon_url": "https://github.com/trypromptly.png?size=128"
   },
   {
     "id": "memora",
@@ -755,7 +815,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:13.127162",
-    "icon": "🤖"
+    "icon": "🤖",
+    "icon_url": "https://github.com/ELZAI.png?size=128"
   },
   {
     "id": "awesome-claw",
@@ -767,7 +828,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:13.127173",
-    "icon": "🤖"
+    "icon": "🤖",
+    "icon_url": "https://github.com/sameeerkashyap.png?size=128"
   },
   {
     "id": "cpprag",
@@ -779,7 +841,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:13.127176",
-    "icon": "🛠️"
+    "icon": "🛠️",
+    "icon_url": "https://github.com/dimitrovakulenko.png?size=128"
   },
   {
     "id": "agent",
@@ -791,7 +854,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:13.127181",
-    "icon": "🤖"
+    "icon": "🤖",
+    "icon_url": "https://github.com/heelenzhang.png?size=128"
   },
   {
     "id": "agentbigbrain",
@@ -803,7 +867,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:13.127188",
-    "icon": "⚡"
+    "icon": "⚡",
+    "icon_url": "https://github.com/AgentBigBrain.png?size=128"
   },
   {
     "id": "ragflow",
@@ -815,7 +880,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:14.050225",
-    "icon": "🤖"
+    "icon": "🤖",
+    "icon_url": "https://github.com/infiniflow.png?size=128"
   },
   {
     "id": "cc-switch",
@@ -827,7 +893,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:14.050236",
-    "icon": "🛠️"
+    "icon": "🛠️",
+    "icon_url": "https://github.com/farion1231.png?size=128"
   },
   {
     "id": "awesome-openclaw-skills",
@@ -839,7 +906,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:14.050246",
-    "icon": "🤖"
+    "icon": "🤖",
+    "icon_url": "https://github.com/VoltAgent.png?size=128"
   },
   {
     "id": "vibetest-use",
@@ -851,7 +919,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:15.010265",
-    "icon": "⚡"
+    "icon": "⚡",
+    "icon_url": "https://github.com/browser-use.png?size=128"
   },
   {
     "id": "bua",
@@ -863,7 +932,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:15.010278",
-    "icon": "🌐"
+    "icon": "🌐",
+    "icon_url": "https://github.com/nottelabs.png?size=128"
   },
   {
     "id": "langgraph_browser_use",
@@ -875,7 +945,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:15.010282",
-    "icon": "🌐"
+    "icon": "🌐",
+    "icon_url": "https://github.com/luckystarufo.png?size=128"
   },
   {
     "id": "browser-use-agent",
@@ -887,7 +958,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:15.010287",
-    "icon": "🌐"
+    "icon": "🌐",
+    "icon_url": "https://github.com/vikas434.png?size=128"
   },
   {
     "id": "agent-sdk-golang",
@@ -899,7 +971,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:15.010296",
-    "icon": "🌐"
+    "icon": "🌐",
+    "icon_url": "https://github.com/timwhitez.png?size=128"
   },
   {
     "id": "autodidact",
@@ -911,7 +984,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:16.223656",
-    "icon": "📚"
+    "icon": "📚",
+    "icon_url": "https://github.com/dCaples.png?size=128"
   },
   {
     "id": "research-agent-llm",
@@ -923,7 +997,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:16.223667",
-    "icon": "📚"
+    "icon": "📚",
+    "icon_url": "https://github.com/zhuangzhen17cs.png?size=128"
   },
   {
     "id": "opendeepresearcher-agentic-llm-research-framework",
@@ -935,7 +1010,8 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-24T08:21:16.223671",
-    "icon": "📚"
+    "icon": "📚",
+    "icon_url": "https://github.com/stkwer.png?size=128"
   },
   {
     "id": "cherry-studio",
@@ -947,6 +1023,7 @@
     "difficulty": 2,
     "source": "github",
     "last_seen": "2026-04-28T10:54:23.223400",
-    "icon": "⚡"
+    "icon": "⚡",
+    "icon_url": "https://github.com/CherryHQ.png?size=128"
   }
 ]

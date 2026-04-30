@@ -38,7 +38,8 @@
       "codeium",
       "tabnine"
     ],
-    "score": 40
+    "score": 40,
+    "icon_url": "https://www.google.com/s2/favicons?domain=cursor.com&sz=64"
   },
   {
     "id": "github-copilot",
@@ -78,7 +79,8 @@
       "codeium",
       "tabnine"
     ],
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
   },
   {
     "id": "claude-code",
@@ -96,7 +98,8 @@
     ],
     "featured": true,
     "use_cases": "终端编程、代码重构、PR生成、自动化开发",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },
   {
     "id": "codex-cli",
@@ -114,7 +117,8 @@
     ],
     "featured": true,
     "score": 50,
-    "stars": 76914
+    "stars": 76914,
+    "icon_url": "https://github.com/openai.png?size=128"
   },
   {
     "id": "codeium",
@@ -131,7 +135,8 @@
       "#autocomplete"
     ],
     "featured": true,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=codeium.com&sz=64"
   },
   {
     "id": "continue",
@@ -149,7 +154,8 @@
     ],
     "featured": true,
     "use_cases": "VS Code/JetBrains AI助手、自定义模型、私有部署",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=continue.dev&sz=64"
   },
   {
     "id": "windsurf",
@@ -166,7 +172,8 @@
       "#agent"
     ],
     "featured": true,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=codeium.com&sz=64"
   },
   {
     "id": "trae",
@@ -184,7 +191,8 @@
       "#free"
     ],
     "featured": true,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=trae.ai&sz=64"
   },
   {
     "id": "midjourney",
@@ -223,7 +231,8 @@
       "stable-diffusion",
       "adobe-firefly"
     ],
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=64"
   },
   {
     "id": "stable-diffusion",
@@ -262,7 +271,8 @@
       "dalle3",
       "comfyui"
     ],
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=stability.ai&sz=64"
   },
   {
     "id": "flux",
@@ -281,7 +291,8 @@
     "trending": true,
     "featured": true,
     "use_cases": "开源图像生成、本地部署、商业应用",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=blackforestlabs.ai&sz=64"
   },
   {
     "id": "comfyui",
@@ -321,7 +332,8 @@
       "automatic1111"
     ],
     "score": 80,
-    "stars": 109593
+    "stars": 109593,
+    "icon_url": "https://github.com/comfyanonymous.png?size=128"
   },
   {
     "id": "dalle3",
@@ -359,7 +371,8 @@
       "stable-diffusion",
       "adobe-firefly"
     ],
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
   },
   {
     "id": "可灵",
@@ -377,7 +390,8 @@
     ],
     "trending": true,
     "featured": true,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=klingai.com&sz=64"
   },
   {
     "id": "pika",
@@ -393,7 +407,8 @@
       "#easy"
     ],
     "featured": true,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=pika.art&sz=64"
   },
   {
     "id": "sora",
@@ -409,7 +424,8 @@
       "#openai"
     ],
     "featured": true,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=sora.com&sz=64"
   },
   {
     "id": "chatgpt",
@@ -448,7 +464,8 @@
       "gemini",
       "kimi"
     ],
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
   },
   {
     "id": "claude",
@@ -487,7 +504,8 @@
       "gemini",
       "deepseek"
     ],
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },
   {
     "id": "gemini",
@@ -504,7 +522,8 @@
       "#multimodal"
     ],
     "featured": true,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
   },
   {
     "id": "deepseek",
@@ -545,7 +564,8 @@
       "claude",
       "kimi"
     ],
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=64"
   },
   {
     "id": "kimi",
@@ -584,7 +604,8 @@
       "chatgpt",
       "deepseek"
     ],
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=moonshot.cn&sz=64"
   },
   {
     "id": "豆包",
@@ -602,7 +623,8 @@
       "#bytedance"
     ],
     "featured": true,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=doubao.com&sz=64"
   },
   {
     "id": "通义千问",
@@ -619,7 +641,8 @@
       "#alibaba"
     ],
     "featured": true,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64"
   },
   {
     "id": "文心一言",
@@ -636,7 +659,8 @@
       "#baidu"
     ],
     "featured": true,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=yiyan.baidu.com&sz=64"
   },
   {
     "id": "perplexity",
@@ -674,7 +698,8 @@
       "claude",
       "bing-copilot"
     ],
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
   },
   {
     "id": "秘塔搜索",
@@ -691,7 +716,8 @@
       "#free"
     ],
     "featured": true,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=metaso.cn&sz=64"
   },
   {
     "id": "jasper",
@@ -707,7 +733,8 @@
       "#marketing"
     ],
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=jasper.ai&sz=64"
   },
   {
     "id": "notion-ai",
@@ -746,7 +773,8 @@
       "claude",
       "grammarly"
     ],
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=notion.so&sz=64"
   },
   {
     "id": "gamma",
@@ -764,7 +792,8 @@
     ],
     "featured": true,
     "use_cases": "PPT自动生成、演示文稿、报告制作",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=gamma.app&sz=64"
   },
   {
     "id": "aippt",
@@ -780,7 +809,8 @@
       "#chinese"
     ],
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=aippt.cn&sz=64"
   },
   {
     "id": "notebooklm",
@@ -799,7 +829,8 @@
     ],
     "featured": true,
     "use_cases": "笔记整理、知识管理、文档问答、学习辅助",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=notebooklm.google.com&sz=64"
   },
   {
     "id": "dify",
@@ -839,7 +870,8 @@
       "langchain",
       "fastgpt"
     ],
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=dify.ai&sz=64"
   },
   {
     "id": "coze",
@@ -878,7 +910,8 @@
       "langchain",
       "botpress"
     ],
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=coze.com&sz=64"
   },
   {
     "id": "langchain",
@@ -896,7 +929,8 @@
       "#python"
     ],
     "featured": true,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=langchain.com&sz=64"
   },
   {
     "id": "autogen",
@@ -914,7 +948,8 @@
     ],
     "featured": true,
     "score": 80,
-    "stars": 57319
+    "stars": 57319,
+    "icon_url": "https://github.com/microsoft.png?size=128"
   },
   {
     "id": "crewai",
@@ -931,7 +966,8 @@
       "#easy"
     ],
     "featured": true,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=crewai.com&sz=64"
   },
   {
     "id": "ollama",
@@ -971,7 +1007,8 @@
       "gpt4all",
       "jan"
     ],
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=ai.meta.com&sz=64"
   },
   {
     "id": "lmstudio",
@@ -988,7 +1025,8 @@
       "#free"
     ],
     "featured": true,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=lmstudio.ai&sz=64"
   },
   {
     "id": "vllm",
@@ -1006,7 +1044,8 @@
     ],
     "featured": true,
     "score": 80,
-    "stars": 77664
+    "stars": 77664,
+    "icon_url": "https://github.com/vllm-project.png?size=128"
   },
   {
     "id": "whisper",
@@ -1024,7 +1063,8 @@
     ],
     "featured": true,
     "score": 80,
-    "stars": 98183
+    "stars": 98183,
+    "icon_url": "https://github.com/openai.png?size=128"
   },
   {
     "id": "fish-speech",
@@ -1042,7 +1082,8 @@
     ],
     "featured": true,
     "score": 80,
-    "stars": 29869
+    "stars": 29869,
+    "icon_url": "https://github.com/fishaudio.png?size=128"
   },
   {
     "id": "suno",
@@ -1059,7 +1100,8 @@
     ],
     "featured": true,
     "use_cases": "歌曲创作、背景音乐、短视频配乐、音乐灵感",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=suno.com&sz=64"
   },
   {
     "id": "udio",
@@ -1075,7 +1117,8 @@
       "#generation"
     ],
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=udio.com&sz=64"
   },
   {
     "id": "aider",
@@ -1093,7 +1136,8 @@
     "featured": true,
     "free_quota": "完全免费",
     "use_cases": "终端编程、Git集成、多文件编辑、代码审查",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=aider.chat&sz=64"
   },
   {
     "id": "tabnine",
@@ -1108,7 +1152,8 @@
     ],
     "url": "https://tabnine.com",
     "free_quota": "基础补全免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=tabnine.com&sz=64"
   },
   {
     "id": "replit-ai",
@@ -1123,7 +1168,8 @@
     ],
     "url": "https://replit.com",
     "free_quota": "基础功能免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=replit.com&sz=64"
   },
   {
     "id": "sourcegraph-cody",
@@ -1138,7 +1184,8 @@
     ],
     "url": "https://sourcegraph.com/cody",
     "free_quota": "个人免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=64"
   },
   {
     "id": "supermaven",
@@ -1155,7 +1202,8 @@
     "trending": true,
     "free_quota": "个人免费",
     "use_cases": "极速代码补全、低延迟、IDE集成",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=supermaven.com&sz=64"
   },
   {
     "id": "codestral",
@@ -1170,7 +1218,8 @@
     ],
     "url": "https://mistral.ai",
     "free_quota": "API免费额度",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=64"
   },
   {
     "id": "glm-4",
@@ -1185,7 +1234,8 @@
     ],
     "url": "https://chatglm.cn",
     "free_quota": "对话免费",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=chatglm.cn&sz=64"
   },
   {
     "id": "baichuan",
@@ -1200,7 +1250,8 @@
     ],
     "url": "https://ying.baichuan-ai.com",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=ying.baichuan-ai.com&sz=64"
   },
   {
     "id": "hailuo",
@@ -1215,7 +1266,8 @@
     ],
     "url": "https://hailuoai.com",
     "free_quota": "基础免费",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=hailuoai.com&sz=64"
   },
   {
     "id": "pi-ai",
@@ -1230,7 +1282,8 @@
     ],
     "url": "https://pi.ai",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=pi.ai&sz=64"
   },
   {
     "id": "you-com",
@@ -1245,7 +1298,8 @@
     ],
     "url": "https://you.com",
     "free_quota": "基础搜索免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=you.com&sz=64"
   },
   {
     "id": "phind",
@@ -1260,7 +1314,8 @@
     ],
     "url": "https://phind.com",
     "free_quota": "基础搜索免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=phind.com&sz=64"
   },
   {
     "id": "grammarly",
@@ -1296,7 +1351,8 @@
       "notion-ai",
       "quillbot"
     ],
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=grammarly.com&sz=64"
   },
   {
     "id": "writesonic",
@@ -1311,7 +1367,8 @@
     ],
     "url": "https://writesonic.com",
     "free_quota": "免费试用",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=writesonic.com&sz=64"
   },
   {
     "id": "copy-ai",
@@ -1326,7 +1383,8 @@
     ],
     "url": "https://copy.ai",
     "free_quota": "免费2000字/月",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=copy.ai&sz=64"
   },
   {
     "id": "quillbot",
@@ -1341,7 +1399,8 @@
     ],
     "url": "https://quillbot.com",
     "free_quota": "基础改写免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=quillbot.com&sz=64"
   },
   {
     "id": "秘塔写作猫",
@@ -1356,7 +1415,8 @@
     ],
     "url": "https://xiezuocat.com",
     "free_quota": "基础功能免费",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=xiezuocat.com&sz=64"
   },
   {
     "id": "火山写作",
@@ -1371,7 +1431,8 @@
     ],
     "url": "https://writingo.net",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=writingo.net&sz=64"
   },
   {
     "id": "leonardo-ai",
@@ -1388,7 +1449,8 @@
     "trending": true,
     "free_quota": "每日150张免费",
     "use_cases": "游戏素材、角色设计、产品图、概念艺术",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=64"
   },
   {
     "id": "ideogram",
@@ -1403,7 +1465,8 @@
     ],
     "url": "https://ideogram.ai",
     "free_quota": "每日25张免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=ideogram.ai&sz=64"
   },
   {
     "id": "playground-ai",
@@ -1418,7 +1481,8 @@
     ],
     "url": "https://playground.com",
     "free_quota": "每日500张免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=playground.com&sz=64"
   },
   {
     "id": "哩布哩布",
@@ -1433,7 +1497,8 @@
     ],
     "url": "https://liblib.ai",
     "free_quota": "每日免费额度",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=liblib.ai&sz=64"
   },
   {
     "id": "luma-dream",
@@ -1448,7 +1513,8 @@
     ],
     "url": "https://lumalabs.ai/dream-machine",
     "free_quota": "每月30次免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=64"
   },
   {
     "id": "vidu",
@@ -1463,7 +1529,8 @@
     ],
     "url": "https://www.vidu.com",
     "free_quota": "免费试用",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=vidu.com&sz=64"
   },
   {
     "id": "beautiful-ai",
@@ -1478,7 +1545,8 @@
     ],
     "url": "https://beautiful.ai",
     "free_quota": "基础功能免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=beautiful.ai&sz=64"
   },
   {
     "id": "tome",
@@ -1493,7 +1561,8 @@
     ],
     "url": "https://tome.app",
     "free_quota": "基础功能免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=tome.app&sz=64"
   },
   {
     "id": "slides-ai",
@@ -1508,7 +1577,8 @@
     ],
     "url": "https://slidesai.io",
     "free_quota": "每月3次免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=slidesai.io&sz=64"
   },
   {
     "id": "通义效率",
@@ -1523,7 +1593,8 @@
     ],
     "url": "https://tongyi.aliyun.com/xiaolv",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=tongyi.aliyun.com&sz=64"
   },
   {
     "id": "wps-ai",
@@ -1538,7 +1609,8 @@
     ],
     "url": "https://ai.wps.cn",
     "free_quota": "基础功能免费",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=ai.wps.cn&sz=64"
   },
   {
     "id": "kagi",
@@ -1553,7 +1625,8 @@
     ],
     "url": "https://kagi.com",
     "free_quota": "无免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=kagi.com&sz=64"
   },
   {
     "id": "天工AI搜索",
@@ -1568,7 +1641,8 @@
     ],
     "url": "https://www.tiangong.cn",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=tiangong.cn&sz=64"
   },
   {
     "id": "博查AI",
@@ -1583,7 +1657,8 @@
     ],
     "url": "https://bochaai.com",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=bochaai.com&sz=64"
   },
   {
     "id": "elevenlabs",
@@ -1621,7 +1696,8 @@
       "google-tts",
       "fish-audio"
     ],
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=64"
   },
   {
     "id": "azure-tts",
@@ -1636,7 +1712,8 @@
     ],
     "url": "https://azure.microsoft.com/ai",
     "free_quota": "每月50万字符免费",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=64"
   },
   {
     "id": "coqui-ai",
@@ -1651,7 +1728,8 @@
     ],
     "url": "https://coqui.ai",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=coqui.ai&sz=64"
   },
   {
     "id": "chat-tts",
@@ -1668,7 +1746,8 @@
     "trending": true,
     "free_quota": "完全免费",
     "score": 80,
-    "stars": 39137
+    "stars": 39137,
+    "icon_url": "https://github.com/2noise.png?size=128"
   },
   {
     "id": "musicfy",
@@ -1683,7 +1762,8 @@
     ],
     "url": "https://musicfy.lol",
     "free_quota": "基础功能免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=musicfy.lol&sz=64"
   },
   {
     "id": "aiva",
@@ -1698,7 +1778,8 @@
     ],
     "url": "https://aiva.ai",
     "free_quota": "免费下载3首/月",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=aiva.ai&sz=64"
   },
   {
     "id": "mubert",
@@ -1713,7 +1794,8 @@
     ],
     "url": "https://mubert.com",
     "free_quota": "基础功能免费",
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=mubert.com&sz=64"
   },
   {
     "id": "autogpt",
@@ -1730,7 +1812,8 @@
     "trending": true,
     "free_quota": "完全免费",
     "use_cases": "自主任务执行、网络搜索、文件操作、自动化",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=agpt.co&sz=64"
   },
   {
     "id": "babyagi",
@@ -1746,7 +1829,8 @@
     "url": "https://github.com/yoheinakajima/babyagi",
     "free_quota": "完全免费",
     "score": 80,
-    "stars": 22235
+    "stars": 22235,
+    "icon_url": "https://github.com/yoheinakajima.png?size=128"
   },
   {
     "id": "metagpt",
@@ -1762,7 +1846,8 @@
     "url": "https://github.com/geekan/MetaGPT",
     "free_quota": "完全免费",
     "score": 80,
-    "stars": 67327
+    "stars": 67327,
+    "icon_url": "https://github.com/geekan.png?size=128"
   },
   {
     "id": "gpt4all",
@@ -1777,7 +1862,8 @@
     ],
     "url": "https://gpt4all.io",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=gpt4all.io&sz=64"
   },
   {
     "id": "jan-ai",
@@ -1792,7 +1878,8 @@
     ],
     "url": "https://jan.ai",
     "free_quota": "完全免费",
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=jan.ai&sz=64"
   },
   {
     "id": "text-generation-webui",
@@ -1808,7 +1895,8 @@
     "url": "https://github.com/oobabooga/text-generation-webui",
     "free_quota": "完全免费",
     "score": 80,
-    "stars": 46842
+    "stars": 46842,
+    "icon_url": "https://github.com/oobabooga.png?size=128"
   },
   {
     "id": "koboldcpp",
@@ -1824,7 +1912,8 @@
     "url": "https://github.com/LostRuins/koboldcpp",
     "free_quota": "完全免费",
     "score": 80,
-    "stars": 10243
+    "stars": 10243,
+    "icon_url": "https://github.com/LostRuins.png?size=128"
   },
   {
     "id": "tensorrt-llm",
@@ -1840,7 +1929,8 @@
     "url": "https://github.com/NVIDIA/TensorRT-LLM",
     "free_quota": "完全免费",
     "score": 80,
-    "stars": 13448
+    "stars": 13448,
+    "icon_url": "https://github.com/NVIDIA.png?size=128"
   },
   {
     "id": "tgi",
@@ -1856,7 +1946,8 @@
     "url": "https://github.com/huggingface/text-generation-inference",
     "free_quota": "完全免费",
     "score": 80,
-    "stars": 10842
+    "stars": 10842,
+    "icon_url": "https://github.com/huggingface.png?size=128"
   },
   {
     "id": "sglang",
@@ -1874,7 +1965,8 @@
     "free_quota": "完全免费",
     "use_cases": "高性能推理、API服务、模型部署",
     "score": 80,
-    "stars": 26247
+    "stars": 26247,
+    "icon_url": "https://github.com/sgl-project.png?size=128"
   },
   {
     "id": "doubao-seedance",
@@ -1889,7 +1981,8 @@
     ],
     "url": "https://jimeng.jianying.com",
     "free_quota": "每日免费额度",
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=jimeng.jianying.com&sz=64"
   },
   {
     "name": "Duolingo Max",
@@ -1909,7 +2002,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=inclusionai.com&sz=64"
   },
   {
     "name": "Khan Academy AI",
@@ -1929,7 +2023,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=khanacademy.org&sz=64"
   },
   {
     "name": "Socratic by Google",
@@ -1949,7 +2044,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
   },
   {
     "name": "Quizlet AI",
@@ -1969,7 +2065,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=quizlet.com&sz=64"
   },
   {
     "name": "Photomath",
@@ -1989,7 +2086,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=photomath.com&sz=64"
   },
   {
     "name": "Elsa Speak",
@@ -2009,7 +2107,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 40
+    "score": 40,
+    "icon_url": "https://www.google.com/s2/favicons?domain=elsaspeak.com&sz=64"
   },
   {
     "name": "Century Tech",
@@ -2029,7 +2128,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=century.tech&sz=64"
   },
   {
     "name": "Gradescope",
@@ -2049,7 +2149,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=gradescope.com&sz=64"
   },
   {
     "name": "Ada Health",
@@ -2069,7 +2170,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=ada.com&sz=64"
   },
   {
     "name": "Babylon Health",
@@ -2089,7 +2191,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=babylonhealth.com&sz=64"
   },
   {
     "name": "Woebot",
@@ -2109,7 +2212,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=woebot.io&sz=64"
   },
   {
     "name": "Your.MD",
@@ -2129,7 +2233,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=your.md&sz=64"
   },
   {
     "name": "Fitbit AI",
@@ -2149,7 +2254,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=fitbit.com&sz=64"
   },
   {
     "name": "Tempus",
@@ -2169,7 +2275,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=tempus.com&sz=64"
   },
   {
     "name": "DoNotPay",
@@ -2189,7 +2296,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=donotpay.com&sz=64"
   },
   {
     "name": "LawGeex",
@@ -2209,7 +2317,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=lawgeex.com&sz=64"
   },
   {
     "name": "Kira Systems",
@@ -2229,7 +2338,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=kirasystems.com&sz=64"
   },
   {
     "name": "CaseText",
@@ -2249,7 +2359,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=casetext.com&sz=64"
   },
   {
     "name": "Juro",
@@ -2269,7 +2380,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=juro.com&sz=64"
   },
   {
     "name": "Luminance",
@@ -2289,7 +2401,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=luminance.com&sz=64"
   },
   {
     "name": "Wealthfront",
@@ -2309,7 +2422,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=wealthfront.com&sz=64"
   },
   {
     "name": "Betterment",
@@ -2329,7 +2443,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=betterment.com&sz=64"
   },
   {
     "name": "Kavout",
@@ -2349,7 +2464,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=kavout.com&sz=64"
   },
   {
     "name": "Upstart",
@@ -2369,7 +2485,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=upstart.com&sz=64"
   },
   {
     "name": "AlphaSense",
@@ -2389,7 +2506,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=alpha-sense.com&sz=64"
   },
   {
     "name": "Sentieo",
@@ -2409,7 +2527,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=sentieo.com&sz=64"
   },
   {
     "name": "Kensho",
@@ -2429,7 +2548,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=kensho.com&sz=64"
   },
   {
     "name": "Zest AI",
@@ -2449,7 +2569,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=zest.ai&sz=64"
   },
   {
     "name": "Canva AI",
@@ -2469,7 +2590,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64"
   },
   {
     "name": "Figma AI",
@@ -2489,7 +2611,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=figma.com&sz=64"
   },
   {
     "name": "Adobe Firefly",
@@ -2509,7 +2632,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=64"
   },
   {
     "name": "Runway ML",
@@ -2529,7 +2653,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=64"
   },
   {
     "name": "Looka",
@@ -2549,7 +2674,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=looka.com&sz=64"
   },
   {
     "name": "MarketMuse",
@@ -2569,7 +2695,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=marketmuse.com&sz=64"
   },
   {
     "name": "Persado",
@@ -2589,7 +2716,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=persado.com&sz=64"
   },
   {
     "name": "Phrasee",
@@ -2609,7 +2737,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=phrasee.co&sz=64"
   },
   {
     "name": "Albert AI",
@@ -2629,7 +2758,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=albert.ai&sz=64"
   },
   {
     "name": "Intercom AI",
@@ -2649,7 +2779,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=intercom.com&sz=64"
   },
   {
     "name": "Zendesk AI",
@@ -2669,7 +2800,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=zendesk.com&sz=64"
   },
   {
     "name": "Drift",
@@ -2689,7 +2821,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=drift.com&sz=64"
   },
   {
     "name": "Ada",
@@ -2709,7 +2842,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=ada.cx&sz=64"
   },
   {
     "name": "Freshdesk AI",
@@ -2729,7 +2863,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=freshdesk.com&sz=64"
   },
   {
     "name": "Kustomer",
@@ -2749,7 +2884,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=kustomer.com&sz=64"
   },
   {
     "name": "Tableau AI",
@@ -2769,7 +2905,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=tableau.com&sz=64"
   },
   {
     "name": "Power BI AI",
@@ -2789,7 +2926,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=powerbi.microsoft.com&sz=64"
   },
   {
     "name": "Alteryx",
@@ -2809,7 +2947,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=alteryx.com&sz=64"
   },
   {
     "name": "DataRobot",
@@ -2829,7 +2968,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=datarobot.com&sz=64"
   },
   {
     "name": "H2O.ai",
@@ -2849,7 +2989,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=h2o.ai&sz=64"
   },
   {
     "name": "Sisense",
@@ -2869,7 +3010,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=sisense.com&sz=64"
   },
   {
     "name": "Qlik Sense",
@@ -2889,7 +3031,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=qlik.com&sz=64"
   },
   {
     "name": "ThoughtSpot",
@@ -2909,7 +3052,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=thoughtspot.com&sz=64"
   },
   {
     "name": "DeepL",
@@ -2929,7 +3073,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 40
+    "score": 40,
+    "icon_url": "https://www.google.com/s2/favicons?domain=deepl.com&sz=64"
   },
   {
     "name": "Google Translate",
@@ -2949,7 +3094,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
   },
   {
     "name": "Microsoft Translator",
@@ -2969,7 +3115,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=translator.microsoft.com&sz=64"
   },
   {
     "name": "Smartling",
@@ -2989,7 +3136,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=inclusionai.com&sz=64"
   },
   {
     "name": "Lilt",
@@ -3009,7 +3157,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=lilt.com&sz=64"
   },
   {
     "name": "Unbabel",
@@ -3029,7 +3178,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=unbabel.com&sz=64"
   },
   {
     "name": "Otter.ai",
@@ -3049,7 +3199,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 40
+    "score": 40,
+    "icon_url": "https://www.google.com/s2/favicons?domain=otter.ai&sz=64"
   },
   {
     "name": "Fireflies.ai",
@@ -3069,7 +3220,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=fireflies.ai&sz=64"
   },
   {
     "name": "Grain",
@@ -3089,7 +3241,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=grain.com&sz=64"
   },
   {
     "name": "Fathom",
@@ -3109,7 +3262,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 80
+    "score": 80,
+    "icon_url": "https://www.google.com/s2/favicons?domain=fathom.video&sz=64"
   },
   {
     "name": "Avoma",
@@ -3129,7 +3283,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=avoma.com&sz=64"
   },
   {
     "name": "Chorus.ai",
@@ -3149,7 +3304,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=chorus.ai&sz=64"
   },
   {
     "name": "Resume.io",
@@ -3169,7 +3325,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=resume.io&sz=64"
   },
   {
     "name": "Kickresume",
@@ -3189,7 +3346,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=kickresume.com&sz=64"
   },
   {
     "name": "Jobscan",
@@ -3209,7 +3367,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 40
+    "score": 40,
+    "icon_url": "https://www.google.com/s2/favicons?domain=jobscan.co&sz=64"
   },
   {
     "name": "Teal",
@@ -3229,7 +3388,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=tealhq.com&sz=64"
   },
   {
     "name": "Rezi",
@@ -3249,7 +3409,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=rezi.ai&sz=64"
   },
   {
     "name": "Zety",
@@ -3269,7 +3430,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=zety.com&sz=64"
   },
   {
     "name": "Shopify AI",
@@ -3289,7 +3451,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 60
+    "score": 60,
+    "icon_url": "https://www.google.com/s2/favicons?domain=shopify.com&sz=64"
   },
   {
     "name": "Klaviyo",
@@ -3309,7 +3472,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=klaviyo.com&sz=64"
   },
   {
     "name": "Dynamic Yield",
@@ -3329,7 +3493,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=dynamicyield.com&sz=64"
   },
   {
     "name": "Bloomreach",
@@ -3349,7 +3514,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=bloomreach.com&sz=64"
   },
   {
     "name": "Nosto",
@@ -3369,7 +3535,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://www.google.com/s2/favicons?domain=nosto.com&sz=64"
   },
   {
     "name": "Clerk.io",
@@ -3389,7 +3556,8 @@
     "stars": null,
     "trending": false,
     "featured": false,
-    "score": 70
+    "score": 70,
+    "icon_url": "https://www.google.com/s2/favicons?domain=clerk.io&sz=64"
   },
   {
     "id": "codeburn",
@@ -3409,7 +3577,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "score": 80,
-    "stars": 3296
+    "stars": 3296,
+    "icon_url": "https://github.com/getagentseal.png?size=128"
   },
   {
     "id": "quotio",
@@ -3434,7 +3603,8 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "stars": 4307,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://github.com/nguyenphutrong.png?size=128"
   },
   {
     "id": "9router",
@@ -3459,6 +3629,7 @@
     "source": "hermes_discover",
     "last_seen": "2026-04-22",
     "stars": 2870,
-    "score": 50
+    "score": 50,
+    "icon_url": "https://github.com/decolua.png?size=128"
   }
 ]
