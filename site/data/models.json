@@ -5466,6 +5466,31 @@
     "collected_at": "2026-04-29T13:34:26.244359"
   },
   {
+    "id": "hf-ibm-granite--granite-4.1-30b-base",
+    "name": "ibm-granite/granite-4.1-30b-base",
+    "display_name": "granite-4.1-30b-base",
+    "url": "https://huggingface.co/ibm-granite/granite-4.1-30b-base",
+    "author": "ibm-granite",
+    "pipeline_tag": "text-generation",
+    "likes": 20,
+    "downloads": 111,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "granite",
+      "text-generation",
+      "language",
+      "granite-4.1",
+      "arxiv:2603.17074",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-06T13:19:41.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-01T13:13:50.768423"
+  },
+  {
     "id": "hf-crynux-network--sdxl-turbo",
     "name": "crynux-network/sdxl-turbo",
     "display_name": "sdxl-turbo",
@@ -5791,6 +5816,63 @@
     "created_at": "2026-05-01T07:48:53.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T08:06:10.827448"
+  },
+  {
+    "id": "hf-kaitchup--Qwen3.6-27B-autoround-nvfp4-linearattn-mtp-BF16",
+    "name": "kaitchup/Qwen3.6-27B-autoround-nvfp4-linearattn-mtp-BF16",
+    "display_name": "Qwen3.6-27B-autoround-nvfp4-linearattn-mtp-BF16",
+    "url": "https://huggingface.co/kaitchup/Qwen3.6-27B-autoround-nvfp4-linearattn-mtp-BF16",
+    "author": "kaitchup",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-01T13:04:16.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-01T13:13:50.687248"
+  },
+  {
+    "id": "hf-ryaluous--marcopasqualino005",
+    "name": "ryaluous/marcopasqualino005",
+    "display_name": "marcopasqualino005",
+    "url": "https://huggingface.co/ryaluous/marcopasqualino005",
+    "author": "ryaluous",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-01T13:03:56.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-01T13:13:50.687255"
+  },
+  {
+    "id": "hf-pharmacypractice16--Wan2.1-T2V-1.3B-Diffusers",
+    "name": "pharmacypractice16/Wan2.1-T2V-1.3B-Diffusers",
+    "display_name": "Wan2.1-T2V-1.3B-Diffusers",
+    "url": "https://huggingface.co/pharmacypractice16/Wan2.1-T2V-1.3B-Diffusers",
+    "author": "pharmacypractice16",
+    "pipeline_tag": "text-to-video",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "diffusers",
+      "safetensors",
+      "video",
+      "video-generation",
+      "text-to-video",
+      "en",
+      "zh",
+      "license:apache-2.0",
+      "diffusers:WanPipeline",
+      "region:us"
+    ],
+    "created_at": "2026-05-01T12:57:10.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-01T13:13:50.687297"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -22242,78 +22324,5 @@
     "created_at": "2026-04-29T07:53:17.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T08:05:56.388834"
-  },
-  {
-    "id": "hf-sungkwang2--V1L3-v8HP-MIX6v16",
-    "name": "sungkwang2/V1L3-v8HP-MIX6v16",
-    "display_name": "V1L3-v8HP-MIX6v16",
-    "url": "https://huggingface.co/sungkwang2/V1L3-v8HP-MIX6v16",
-    "author": "sungkwang2",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-29T07:53:02.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-29T08:05:56.388835"
-  },
-  {
-    "id": "hf-Yujie-AI--Llama3_8B_LLaVA-aim_v5-coeff2.0-samples500-merge_ratio0.1",
-    "name": "Yujie-AI/Llama3_8B_LLaVA-aim_v5-coeff2.0-samples500-merge_ratio0.1",
-    "display_name": "Llama3_8B_LLaVA-aim_v5-coeff2.0-samples500-merge_ratio0.1",
-    "url": "https://huggingface.co/Yujie-AI/Llama3_8B_LLaVA-aim_v5-coeff2.0-samples500-merge_ratio0.1",
-    "author": "Yujie-AI",
-    "pipeline_tag": "image-text-to-text",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "llava_next",
-      "image-text-to-text",
-      "conversational",
-      "arxiv:1910.09700",
-      "text-generation-inference",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-29T07:52:45.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-29T08:05:56.388837"
-  },
-  {
-    "id": "hf-Setur--ro_cosine",
-    "name": "Setur/ro_cosine",
-    "display_name": "ro_cosine",
-    "url": "https://huggingface.co/Setur/ro_cosine",
-    "author": "Setur",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-29T07:52:05.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-29T08:05:56.388841"
-  },
-  {
-    "id": "hf-rrsoares--deeps",
-    "name": "rrsoares/deeps",
-    "display_name": "deeps",
-    "url": "https://huggingface.co/rrsoares/deeps",
-    "author": "rrsoares",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:mit",
-      "region:us"
-    ],
-    "created_at": "2026-04-29T07:51:41.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-29T08:05:56.388843"
   }
 ]

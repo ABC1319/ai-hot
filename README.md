@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-01 10:21:01
+🕐 **最近更新**：2026-05-01 16:07:52
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,17 +24,17 @@
    - 据知情人士透露，Anthropic 要求投资者在未来 48 小时内提交该人工智能公司最新融资的分配情况
    - `TechCrunch AI · 2026-04-30`
 
-3. [马斯克诉奥特曼案中最疯狂的部分发生在陪审团离开房间时](https://aihot.bt199.com/news/072b4665a19a/)
+3. [微软希望律师信任其在 Word 文档中的新 AI 代理](https://aihot.bt199.com/news/a28baaadcf88/)
+   - 微软正在 Word 中推出一款专为法律团队设计的新人工智能代理。法律代理人处理文档编辑、谈判历史记录和复杂文档，以帮助法…
+   - `The Verge AI · 2026-05-01`
+
+4. [廉价的海底跳跃潜水器可能会推动深海科学和采矿业的发展](https://aihot.bt199.com/news/889806c7134e/)
+   - 美国国家海洋和大气管理局 (NOAA) 的雷尼尔号研究船正好位于澳大利亚和南美洲之间，目前正在执行一项任务，绘制 8,0…
+   - `MIT Tech Review · 2026-05-01`
+
+5. [马斯克诉奥特曼案中最疯狂的部分发生在陪审团离开房间时](https://aihot.bt199.com/news/072b4665a19a/)
    - 好吧，我不是律师，所以我只了解了刚刚发生的事情的一半。但鉴于当时的背景，我相当肯定埃隆·马斯克的律师可能刚刚搞砸了。马斯…
    - `The Verge AI · 2026-04-30`
-
-4. [独家电子书：推销无脑克隆人的秘密初创公司内部](https://aihot.bt199.com/news/3d55333608bd/)
-   - 永生的终极计划是拥有一个全新的身体。这本仅限订阅者阅读的电子书探讨了 R3 Bio，这是一家小型初创公司，该公司提出了一…
-   - `MIT Tech Review · 2026-04-30`
-
-5. [这家初创公司的新机械解释工具可让您调试法学硕士](https://aihot.bt199.com/news/9ec0466f0177/)
-   - 总部位于旧金山的初创公司 Goodfire 刚刚发布了一款名为 Silico 的新工具，它可以让研究人员和工程师在训练期…
-   - `MIT Tech Review · 2026-04-30`
 
 6. [为什么最近的供应链攻击专门针对安全公司 Checkmarx 和 Bitwarden](https://aihot.bt199.com/news/dc28630cd03a/)
    - 安全公司发现自己尤其容易受到威胁
@@ -123,6 +123,7 @@
 ---
 
 MIT License
+
 
 
 
