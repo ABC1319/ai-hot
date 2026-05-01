@@ -1143,17 +1143,15 @@
     "pricing": "按量计费",
     "api": true,
     "provider_kind": "manual",
-    "source": "openrouter",
+    "source": "manual",
     "latest_models": [
       "IBM: Granite 4.1 8B",
       "IBM: Granite 4.0 Micro"
     ],
-    "model_count": 2,
-    "last_updated": "2026-04-30",
-    "modalities": [
-      "文本"
-    ],
-    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 IBM: Granite 4.1 8B",
+    "model_count": 0,
+    "last_updated": "",
+    "modalities": [],
+    "live_summary": "站内手工维护，待补充实时模型索引",
     "icon_url": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64"
   }
 ]

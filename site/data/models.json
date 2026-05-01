@@ -5409,6 +5409,40 @@
     "collected_at": "2026-04-30T08:14:19.766207"
   },
   {
+    "id": "hf-nvidia--MiniMax-M2.7-NVFP4",
+    "name": "nvidia/MiniMax-M2.7-NVFP4",
+    "display_name": "MiniMax-M2.7-NVFP4",
+    "url": "https://huggingface.co/nvidia/MiniMax-M2.7-NVFP4",
+    "author": "nvidia",
+    "pipeline_tag": "text-generation",
+    "likes": 21,
+    "downloads": 14728,
+    "tags": [
+      "Model Optimizer",
+      "safetensors",
+      "minimax_m2",
+      "nvidia",
+      "ModelOpt",
+      "MiniMax",
+      "quantized",
+      "NVFP4",
+      "nvfp4",
+      "text-generation",
+      "conversational",
+      "custom_code",
+      "base_model:MiniMaxAI/MiniMax-M2.7",
+      "base_model:quantized:MiniMaxAI/MiniMax-M2.7",
+      "license:other",
+      "8-bit",
+      "modelopt",
+      "region:us",
+      "deploy:azure"
+    ],
+    "created_at": "2026-04-13T22:04:24.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-01T08:06:10.894168"
+  },
+  {
     "id": "hf-tencent--Hy3-preview-Base",
     "name": "tencent/Hy3-preview-Base",
     "display_name": "Hy3-preview-Base",
@@ -5724,6 +5758,39 @@
     "created_at": "2026-04-30T01:57:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-30T02:13:43.905216"
+  },
+  {
+    "id": "hf-jack-song-123--J",
+    "name": "jack-song-123/J",
+    "display_name": "J",
+    "url": "https://huggingface.co/jack-song-123/J",
+    "author": "jack-song-123",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-01T07:52:59.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-01T08:06:10.827426"
+  },
+  {
+    "id": "hf-lowersa--web-agent-demo",
+    "name": "lowersa/web-agent-demo",
+    "display_name": "web-agent-demo",
+    "url": "https://huggingface.co/lowersa/web-agent-demo",
+    "author": "lowersa",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-01T07:48:53.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-01T08:06:10.827448"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -22248,57 +22315,5 @@
     "created_at": "2026-04-29T07:51:41.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T08:05:56.388843"
-  },
-  {
-    "id": "hf-cheewong--DPPhysics",
-    "name": "cheewong/DPPhysics",
-    "display_name": "DPPhysics",
-    "url": "https://huggingface.co/cheewong/DPPhysics",
-    "author": "cheewong",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-29T07:51:09.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-29T08:05:56.388845"
-  },
-  {
-    "id": "hf-Ekayaa-Technologies--CLARA",
-    "name": "Ekayaa-Technologies/CLARA",
-    "display_name": "CLARA",
-    "url": "https://huggingface.co/Ekayaa-Technologies/CLARA",
-    "author": "Ekayaa-Technologies",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "safetensors",
-      "mistral3",
-      "region:us"
-    ],
-    "created_at": "2026-04-29T07:51:06.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-29T08:05:56.388847"
-  },
-  {
-    "id": "hf-doma-dev--invert-polarity-9d9611ad-e7c0-4427-a1e4-b0b7907a7fe6",
-    "name": "doma-dev/invert-polarity-9d9611ad-e7c0-4427-a1e4-b0b7907a7fe6",
-    "display_name": "invert-polarity-9d9611ad-e7c0-4427-a1e4-b0b7907a7fe6",
-    "url": "https://huggingface.co/doma-dev/invert-polarity-9d9611ad-e7c0-4427-a1e4-b0b7907a7fe6",
-    "author": "doma-dev",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "safetensors",
-      "mistral",
-      "region:us"
-    ],
-    "created_at": "2026-04-29T07:51:06.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-29T08:05:56.388852"
   }
 ]

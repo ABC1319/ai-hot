@@ -1,5 +1,35 @@
 [
   {
+    "id": "97fd42172385",
+    "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+    "url": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-01T14:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-01T08:06:05.724563",
+    "content_text": "编者按：\n过去一年，企业 AI Coding 的讨论往往集中在模型能力、部署成本与合规约束上。DeepSeek V4 的出现，的确让私有化部署首次拥有了接近闭源旗舰的现实选项，也部分缓解了中国企业长期面临的工具死锁。但模型问题缓解之后，更深层的约束随之浮现：代码库中的业务隐知识、历史决策与架构习惯，并不会因为模型升级而自动变得可理解。本文借“AI 上下文负债”这一概念提醒我们，AI 编程的真正难点，正在从模型供给侧转向组织治理侧——从选工具，转向补文档、立规范、清理历史欠账。\n对企业而言，接下来的竞争不只是接入 AI 的速度，更是谁更早完成知识治理、工程规范和渐进重构。\n去年秋天，一个朋友所在的上市公司开始推动 AI 辅助编程。安全部门花三个月审了五款工具，结论是不能用——数据要出内网。IT 部门转而自研，装上了内部 GPU 集群，部署了一个半年前开源的大模型，在 IDE 里接了一个对话插件。研发团队用了一周，没人再打开了。\n他说：“你试过让一个不了解你代码库的 AI 帮你修 bug 吗？就像叫一个刚下飞机的出租车司机走一条他连路口都没见过的巷子。”\n这不是一个模型能力问题。那款私有化部署的模型写标准 API、生成单元测试、补全常规逻辑，能力够用。问题在于它面对的代码库是一个维护了九年的财务后台系统。数据库表名是八年前两个已离职的项目经理起的，订单状态不靠主表字段判断而要查日志表最后一条关联记录，核心业务规则一部分在存储过程里、一部分散落在三百多个 Controller 文件中。没有任何地方把这些规则完整记下来过。\n给这样一个系统加“部分退款”功能，AI 会建一个干净的 refund 表、写标准 CRUD、关联订单 ID——代码组织得挺好。审查的人必须逐行比对：它知不知道退款要同时写三张表才能保证财务对账？知不知道该业务有个隐藏规则——发货超三十天的订单走人工通道？都不知道。生成的代码语法完美、业务上下文里错得不着痕迹。\n代码越混乱，AI 的效率提升越可疑——审查成本的增长速度很可能超过了生成速度的节省。\nAI 上下文负债\n今年四月，科技从业者 Abbas Raza 在一篇博文里将这个现象命名为 AI 上下文负债（AI context debt）：代码库知道关于自己的信息，与 AI 工具需要知道才能生成正确输出所需信息之间的缺口。\n这个概念解释了一个反复出现的现象：同样部署了 AI 编码工具，绿地和棕地团队的体验判若云泥。绿地项目从零建立规范——架构规则随代码生长、提示模式在决策漂移前就被锁定——效果接近当初的承诺。棕地团队面对的是两到五年的决策层积、离职者留下的隐知识、八个月没打开的 Wiki。Raza 举了具体的例子：AI 不知道你的异常类叫 AppException，它抛泛型 Error；不知道你有一层带结构化字段的日志封装——运维的看板和告警全依赖这些字段，它写了 console.log，这个模块从部署第一天就从监控栈里消失了；旧模式有 40000 行存量、新模式只有 8000 行，AI 必然倾向旧模式。\n这些没有一个以明显故障出现。它们积累为“微妙的错误”：代码在抽象层面正确，在具体上下文里错误。传统技术债有纸面记录可追溯，AI 上下文负债出问题之前无从察觉。MIT 2025 年一项调查的数字因此变得可理解：95% 的企业没有从 AI 投资中获得有意义的回报。原因不是模型不行。\n合规的死锁\n如果只是上下文负债，解法是清楚的——更好的模型、更好的上下文工程。但对需要面对安全合规的中国上市公司和金融机构而言，这一步之前就已经被卡住了。\n安全部门拿出数据出境管理规定，外部工具不能用。IT 部门采购 GPU 服务器，选一个较新的开源模型做私有化部署。然后合规流程启动：安全审计、渗透测试、数据脱敏验证——短则三四个月，长则半年。走完一圈，当初选的模型版本已过时，换个新版再走一圈。自研工具跑的始终是老旧模型，开发者用一周，不用了。\n这不是懈怠或资金短缺。合规节奏追不上模型迭代速度，工具建设者和业务开发者的认知之间存在断层——基础架构团队评测用 HumanEval 和 MBPP，不是“能不能理解我们存储过程里的隐规则“。最需要用 AI 提效的老旧代码库，恰恰最难让 AI 进入。\nDeepSeek V4 打破了一环\n这个死锁在 2026 年 4 月 24 日出现了一个关键的松动。\n当天 DeepSeek 发布了 V4 预览版并同步开源——选在和 GPT-5.5 同一天。同时发布的有两个版本：V4-Pro 总参数 1.6 万亿、激活 490 亿；V4-Flash 总参数 2840 亿、激活 130 亿；二者均支持 100 万 token 上下文窗口。V4-Pro 在编程评测 Codeforces 上得分 3206，比肩 GPT-5.4；在软件工程基准 SWE-bench 上达到 80.6%，接近 Claude Opus 4.6；Agentic Coding 能力在开源模型中排名最高，内部测试中交付质量接近 Sonnet 4.5——此前这个层级的能力几乎被闭源厂商垄断。\n但这不只是又一个模型性能突破的故事，真正深远的变化发生在算力层。DeepSeek V4 首次彻底脱离英伟达 CUDA 生态，全面适配华为昇腾平台完成训练。华为同日宣布昇腾超节点全系列产品支持 V4，昇腾 950 超节点推理延迟做到 20 毫秒，昇腾 A3 超节点吞吐量 2000+ TPS。这意味着“国产模型 + 国产芯片”的全栈闭环首次在大规模开源旗舰模型上跑通了。\n这对中国企业 AI 编程落地意味着什么？简单说，合规死锁的第一环——“私有化部署的模型跟不上闭源旗舰的性能”——被突破了。一家上市公司现在可以采购昇腾服务器，部署 DeepSeek V4，数据不出内网，模型能力却足够接近世界顶尖水平。它不需要跟英伟达打交道，不需要担心 API 数据出境，不需要在合规审批周期和模型迭代速度之间做不可能的选择。\n紧接着在 4 月 25 日，DeepSeek 宣布 V4-Pro API 限时 2.5 折优惠至 5 月 5 日。优惠后输入（缓存命中）降至每百万 token 0.25 元——几乎等于免费的上下文复用。输入未命中 3 元、输出 6 元。对比半年前主流闭源模型的单价，这是一个数量级的差距。定价信号的含义不言自明：当推理成本降到这个水平，企业不再需要在高性能和低成本之间二选一。\n这一天离 V3 发布隔了 15 个月。如果把 V4 的性能跃迁和昇腾全栈适配放在这个时间跨度里看，速度是惊人的——15 个月前，一个合规受限的中国企业要在内网跑一个编程能力足够强的模型，要么偷偷接外部 API（违规），要么用性能差一截的开源模型（低效），要么买英伟达高端 GPU 跑开源模型（贵且受制于出口管制）。现在这三条路合成了一条：国产芯片跑国产开源旗舰模型，性能追平闭源。\n对企业的 AI Coding 场景而言，V4 的 Agentic Coding 能力是尤其值得关注的。在 SWE-bench 上 80.6% 这个数字意味着什么？它意味着模型不只是能补全一个函数或生成一段算法——它能理解一个软件工程任务（“给订单模块增加部分退款功能”），定位到需要改动的文件，写出跨文件的修改，并且让代码真的跑通。这是企业日常开发中最常见的需求形态，也是对私有化工具来说此前最薄弱的能力环节。V4 让这个环节有了一个开源可部署的选项，不需要依赖外部 SaaS 工具。\n但这里有一个关键的转折。DeepSeek V4 打破的是模型供应侧的瓶颈——高性能开源模型加国产算力，让受合规约束的企业终于有了一个能力不掉队的私有化选项。然而它无法打破另一个瓶颈。\n模型好了，上下文负债还在\n回到文章开头那家上市公司。假设他们现在采购了昇腾服务器，部署了 DeepSeek V4——模型的代码生成质量会比之前那个半年前的老模型好得多，但那个九年前的财务后台系统里散落的隐知识，不会因为模型换了就自动消失。订单状态的判断逻辑、三张表的对账规则、三十天人工通道的约定——这些仍然不存在于任何可以被 AI 读取的结构化文档里。\nV4 的 100 万 token 上下文窗口确实是一个有用的能力。理论上，你可以把整个项目的相关代码文件、数据库 schema、甚至部分业务文档一次性塞进上下文。但这解决的是“信息获取范围”的问题，不是“信息是否存在”的问题。如果那些业务规则从来没有被写下来过，上下文窗口再大也装不进不存在的东西。\n所以 DeepSeek V4 带来的变量不是“AI 编程终于可以落地了”，而是“模型供给侧的瓶颈被打破了，组织知识管理变成了唯一的瓶颈”。\n先理债，后提效——现在模型够用了\nRaza 提出的五件基础工作，在新的格局下反而变得比之前更加迫切：一份架构规则文件，告诉 AI 代码库的不可逾越边界；一份系统行为文档，写清楚运行时依赖和故障模式；一份领域知识文档，把代码表面读不出来的业务概念记下来；一套经过实战验证的提示模板库；一套 PR 审查标准，要求 AI 辅助生成的代码注明用了什么上下文、参考了什么文件、审查过了什么。\n这三样放在以前，你可以说“模型本身还不够好，做了这些也白做”。现在模型足够好了。DeepSeek V4 在编程和 Agent 能力上已经接近甚至部分追平了闭源旗舰——开源最强、成本地板价、国产芯片可跑。一个合规受限的企业现在没有“模型不行”这个借口了。唯一剩下的瓶颈是自己的知识管理欠账。\n这个认知翻转是有分量的：过去十年，企业可以说文档少是因为“写了也没人看”；现在不写，AI 就会把代码写错。AI 没有让文档变得不重要，它让文档从一个可有可无的交付物变成了直接影响代码质量的工程输入。\n在模型过硬的年代，流程怎么跟上\n知识工件是地基。往上走一层，是怎么把“改代码”这件事和 AI 的协作方式重新设计。SDD（Specification-Driven Development，规格驱动开发）是当前最成体系的尝试——规格不从属于代码，代码从属于规格。产品需求文档不是开发指南，而是开发的发生器；技术方案是精确到能生成实现的定义。\nGitHub 的 spec-kit 把这一套拆成了“写规格—出方案—拆任务”三步，整个过程规格文件跟着代码一起版本化。OpenSpec 则明确说自己是“built for brownfield not just greenfield”，可以在老旧项目上增量加。\n但对于老旧项目，SDD 天然只能蚕食——在新功能或重构模块上写 spec，不追求全量覆盖。老旧项目没有完整的规格说明书，它的 spec 就是代码本身。强制在每次改动前先写 spec，对资源紧张的团队来说时间账算不平。\n蚕食还有一个隐性的坑。重构模块有了 spec、AI 按 spec 生成了干净的新代码，但它仍要和老模块交互——老模块没有 spec，接口不规整，状态转换的隐性条件藏在旧代码里。系统内部被画出一条边界：这边有 spec，那边没有。新代码加了个校验，老代码那边恰好依赖校验不存在时的默认行为——测试在 spec 范围内全过，集成到一起崩了。这类问题往往无法靠增加自动化测试来预防，因为你不知道老代码那边有多少行为是设计如此、有多少是曾经的 bug 被当成了 feature。\n真正的效率回报可能要等到 spec 覆盖率达到某个临界点之后才会出现——那时大部分新开发已经不用在散落的隐知识里摸索。这个临界点在哪里，没有人能给出精确数字。业界的定量研究还没跟上。\n这个次序说出来似乎平淡：先把知识工件补齐，让 AI 至少了解它面对的是什么；引入渐进式 SDD，接受早期摩擦成本；同步推进工具的工程化集成——上下文切片、RAG 知识库、工具链打通。但这个平淡的次序恰好是它最难落地的地方。所有企业都知道文档重要，都说过“下次一定补”，最后都没补。\n区别在于，过去那个“下次”没有紧迫性，但现在有了。DeepSeek V4 和昇腾的组合，把中国企业 AI 编程落地中“能用什么模型”和“在哪里跑模型”这两个问题闭合了，而且是过去 15 年开源运动史上第一次由一家中国公司在编程和 Agent 两个核心能力上追平了全球闭源旗舰。剩下来的全是组织层面的事：知识管理、工程规范、渐进重构、团队对齐。工具没有立场，但欠的债有复利。\n茶餐厅那场聊天快结束的时候，我朋友说：“我们现在用 AI，其实就是在用一个放大器。代码库是干净的，它就放大效率和创造力；代码库一团乱麻，它就放大混乱。”\n他喝完最后一口冻柠茶，把杯子推到一边。\n“不过现在至少不用再纠结模型本身行不行了。剩下的，是我们自己的事。”\n参考链接：\nAbbas Raza. “The Brownfield Problem: How Engineering Teams Are Operationalizing AI Development in 2026“. Leadership in Tech, Product, and Growth, 2026 年 4 月 12 日. https://abbasraza.com/the-brownfield-problem-how-engineering-teams-are-operationalizing-ai-development-in-2026/\nGitHub spec-kit. “Specification-Driven Development (SDD)“. github.com/github/spec-kit, 2026 年 4 月. https://github.com/github/spec-kit/blob/main/spec-driven.md\nOpenSpec. “Spec-Driven Development for AI Coding Assistants“. Fission-AI, 2026. https://openspec.pro/\nKyle Wiggers. “VCs predict strong enterprise AI adoption next year — again“. TechCrunch, 2025 年 12 月 29 日.（引用 MIT 2025 年 8 月调查数据）",
+    "content_source": "trafilatura",
+    "content_chars": 5895,
+    "content_excerpt": "编者按：\n过去一年，企业 AI Coding 的讨论往往集中在模型能力、部署成本与合规约束上。DeepSeek V4 的出现，的确让私有化部署首次拥有了接近闭源旗舰的现实选项，也部分缓解了中国企业长期面临的工具死锁。但模型问题缓解之后，更深层的约束随之浮现：代码库中的业务隐知识、历史决策与架构习惯，并不会因为模型升级而自动变得可理解。本文借“AI 上下文负债”这一概念提醒我们，AI 编程的真正难点，正在从模型供给侧转向组织治理侧——从选工具，转向补文档、立规范、清理历史欠账。\n对企业而言，接下来的竞争不只是接入 AI 的速度，更是谁更早完成知识治理、工程规范和渐进重构。\n去年秋天，一个朋友所在的上市公司开始推动 AI 辅助编程。安全部门花三个月审了五款工具，结论是不能用——数据要出内网。IT 部门转而自研，装上了内部 GPU 集群，部署了一个半年前开源的大模型，在 IDE 里接了一个对话插件。研发团队用了一周，没人再打开了。\n他说：“你试过让一个不了解你代码库的 AI 帮你修 bug 吗？就像叫一个刚下飞机的出租车司机走一条他连路口都没见过的巷子。”\n这不是一个模型能力问题。那款私有化部署的模型写标准 API、生成单元测试、补全常规逻辑，能力够用。问题在于它面对的代码库是一个维护了九年的财务后台系统。数据库表名是八年前两个已离职的项目经理起的，订单状态不靠主表字段判断而要查日志表最后一条关联记录，核心业务规则一部分在存储过程里、一部分散落在三百多个 Controller 文件中。没有任何地方把这些规则完整记下来过。\n给这样一个系统加“部分退款”功能，AI 会建一个干净的 refund 表、写标准 CRUD、关联订单 ID——代码组织得挺好。审查的人必须逐行比对：它知不知道退款要同时写三张表才能保证财务对账？知不知道该业务有个隐藏规则——发货超三十天的订单走人工通道？都不知道。生成的代码语法完美、业务上下文里错得不着痕迹。\n代码越混乱，AI 的效率提升越可疑——审查成本的增长速度很可能超过了生成速度的节省。\nAI 上下文负债\n今年四月，科技从业者 Abbas Raza 在一篇博文里将这个现象命名为 AI 上下文负债（AI context debt）：代码库知道关于自己的信息，与 AI 工具需要知道才能生成正确输出所需信息之间的缺口。"
+  },
+  {
+    "id": "693805793e5b",
+    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+    "url": "https://www.qbitai.com/2026/05/412577.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-01T06:28:46",
+    "summary": "真机部署“零微调”",
+    "collected_at": "2026-05-01T08:03:42.782328",
+    "content_text": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练\n听雨\n2026-05-01\n14:28:46\n来源：\n量子位\n清华AIR DISCOVER Lab 投稿\n量子位 | 公众号 QbitAI\n具身人工智能领域，正向着以视觉为中心的感知范式，发生全面而深刻的转型。\n作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥。\n但当研究者们试图沿着这条路径向前探索时，却始终需要在“看得真”和“训得快”之间做艰难取舍：\n高保真视觉渲染带来了巨大计算与内存开销；人工建模总是耗时耗力低效循环；现有平台的兼容性缺陷不断限制着创新边界，严重束缚了具身智能研究的想象力。\n为了攻克这些制约具身智能领域发展的核心难题，\n清华大学智能产业研究院（AIR）DISCOVER Lab联合谋先飞技术、原力灵机、求之科技和地瓜机器人，提出了GS-Playground通用多模态仿真框架。\n【此处无法插入视频，遗憾……可到量子位公众号查看～】\n作为一套专为视觉中心的机器人学习打造的新一代仿真基础设施，GS-Playground首次实现了高吞吐量并行物理仿真与高保真视觉渲染的深度融合，在保证物理仿真所需的高精度与强稳定性的同时，提供了大规模视觉驱动策略训练与仿真到现实迁移所需的渲染效率与环境支撑。\n该成果已被机器人领域国际顶级学术会议RSS 2026（Robotics: Science and Systems）录用。\n△\nFigure 1. GS-Playground Overview\n通用全场景原生兼容：打造统一的具身智能仿真训练底座\nGS-Playground设计之初，便定位于通用型全场景具身智能仿真平台，平台核心搭载了团队自研的跨平台并行物理引擎，原生支持CPU/GPU双后端与Windows/Linux/macOS全系统运行，可无缝适配全品类机器人形态，包括市面上常见的四足机器人、 全尺寸人形机器人、多自由度工业机械臂，全部实现开箱即用的原生适配，无需额外的二次开发工作。\n在此基础上，平台全面覆盖机器人运动控制、自主导航、高接触精度操作三大核心任务场景。\n在接口设计上，平台API全面兼容行业通用的MuJoCo MJCF格式，可实现现有仿真项目的零摩擦快速迁移，最大程度降低研究者的适配成本。\n自研高性能并行物理引擎：为接触密集型机器人学习提供稳定底层动力学\n对于视觉中心的机器人学习而言，“看得真”只是第一步，真正决定策略能否迁移到真实世界的，是仿真系统能否在复杂接触、摩擦、碰撞与多刚体耦合中，持续给出稳定、可信的物理反馈。\n针对这一核心瓶颈，GS-Playground从底层自研了一套高性能并行物理引擎，采用广义坐标下的\n速度-冲量动力学公式\n，将接触与摩擦统一建模为\n混合互补问题（MCP）\n，并通过\n投影高斯-赛德尔（PGS）求解器\n实现稳定求解。\n相比依赖软接触正则化的传统方式，这一设计更强调静摩擦保持、高刚度约束与大时间步稳定性，尤其适合足式运动、机械臂抓取和密集多体接触等高动态任务。\n为了支撑大规模并行训练，团队进一步引入\n约束岛并行化\n与\n接触流形热启动\n机制：\n前者将彼此独立的刚体交互系统拆分为多个约束岛并行求解，后者利用上一帧已收敛的接触冲量作为当前帧初值，将稳定堆叠场景中的PGS迭代次数从50次以上降低到10次以内，大幅提升复杂接触场景下的收敛效率。\n实验结果充分验证了这一自研物理引擎的稳定性与吞吐优势。\n在Franka Panda动态抓取摇晃测试中，GS-Playground CPU后端在0.002s与0.01s两种时间步下，均实现90/90的完整保持成功率，显著优于MuJoCo、IsaacSim与Genesis等主流方案；\n在27自由度人形机器人复杂多体交互基准中，当单环境扩展到50个机器人时，GS-Playground CPU后端仍能保持1015 FPS的稳定吞吐，相比MuJoCo实现32倍加速，相比MjWarp实现约600倍提升。\n【此处无法插入视频，遗憾……可到量子位公众号查看～】\n自研内存高效Batch 3DGS渲染技术：打破保真与效率的行业不可能三角\n数千个高保真3DGS场景同时渲染带来的内存与算力挑战，一直是制约视觉驱动机器人大规模训练的核心卡点。\n针对刚体仿真环境，团队首先设计了专属优化的\n高效剪枝策略\n。\n该策略可将高斯点数量减少90%以上，同时峰值信噪比（PSNR）下降幅度不足0.05，视觉差异几乎无法被视觉运动策略感知。\n这一技术在大幅降低显存占用的同时，几乎无损地保留了场景的视觉质量，为大规模高保真并行仿真奠定了核心基础。\n在此基础上，团队研发了面向批处理深度优化的\n批量3DGS渲染器\n，实现了多场景大规模高斯渲染的并行处理。\n在单张NVIDIA RTX 4090 GPU上，渲染器在640×480分辨率下可实现最高10000 FPS的突破性吞吐量，最多可同时渲染2048个场景，不仅显著提升了单位算力的渲染效率，更能完美适配大批次强化学习的训练工作流，让大规模并行训练不再受限于渲染性能。\n△\nFigure 2. Rendering throughput comparison between GS-Playground and Isaac Sim’s ray-tracing renderer across varying resolutions\n此外，团队还提出了\n刚性连杆高斯运动学（RLGK）机制\n，将3D高斯簇与物理引擎中的对应刚体进行精准绑定，确保视觉表征与物理对象的位姿能偶实时同步更新，实现了零额外开销的状态同步。\n即便是在机器人快速运动、频繁接触交互的动态场景中，渲染器依然能够实现无伪影的动态画面输出，从根源上解决了动态场景中的渲染时间一致性与视觉伪影问题，保障了训练数据的稳定性与可靠性。\n【此处无法插入视频，遗憾……可到量子位公众号查看～】\n自动化“Sim-Ready”Real2Sim工作流：降低 Real2Sim门槛\n传统仿真场景的构建，始终是机器人研发流程中效率最低、成本最高的环节之一。\n无论人工建模多么精细，却始终无法完全复刻真实环境的视觉细节与物理特性，感知与物理的双重鸿沟成为了制约sim-to-real跨域迁移的核心卡点。\n针对这一行业痛点，GS-Playground设计了一套全自动化的“图像到物理”Real2Sim工作流，仅需输入单张RGB图像，即可在数分钟内完成仿真就绪（Sim-Ready）数字资产的全流程创建，实现了真实场景到数字孪生的快速转换，同时保证视觉真实感与物理一致性。\n△\nFigure 3. GS-Playground System Architecture\n左：自动化图像到物理仿真管线，通过目标分割、背景补绘、三维高斯溅射 / 网格重建，从RGB输入构建可直接用于仿真的资源。\n中：物理与渲染仿真核心，包含CPU/GPU物理后端、集成传感器与激光雷达仿真，以及经过剪枝优化与刚性连杆运动学适配的批量三维高斯溅射渲染。\n右：下游应用，包括操作任务、导航任务以及大规模并行强化学习。\n基于这套成熟的自动化工作流，团队还构建了Bridge-GS数据集，在Bridge-v2数据集的基础上，补充了场景与物体级的3DGS表征、物体级网格模型、6D位姿数据与校准后的相机参数，为行业提供了标准化的高质量仿真数据集。\n同时团队在InteriorGS数据集上完成了完整的泛化性验证，充分证明了该管线对不同室内场景的强适配能力与泛化性能。\n【此处无法插入视频，遗憾……可到量子位公众号查看～】\n全链路端到端验证：实现零微调的无缝仿真到真实迁移\n基于三大核心技术的深度协同，GS-Playground完整构建了从真实场景重建、大规模并行训练，到真机部署的全链路端到端闭环，真正实现了“重建即训练、训练即部署”的研发流程革新。\n在策略训练与真机迁移的核心能力上，平台可稳定支持数千个并行环境同时运行，为四足机器人、人形机器人、工业机械臂等全品类机器人，提供大规模视觉强化学习训练支撑。\n仅在GS-Playground仿真环境中完成训练的视觉驱动策略，无需任何额外的微调与适配，就能直接部署到真实机器人上稳定运行：\n四足和人形机器人的运动策略均可zero-shot部署到真机；\n视觉导航任务实现了零样本的真机直接部署；\n机械臂抓取任务在零微调的前提下，真实场景成功率达到90%。\n△\nFigure 4.Real-world deployment of policies trained in GS-Playground\n这一系列实验结果，充分证明了平台实现了真正无壁垒的仿真到真实迁移，也验证了其在打通具身智能感知与物理跨域鸿沟上的核心价值。\n开源赋能：与全球社区共同推动具身智能创新\nGS-Playground作为行业内首个实现高吞吐量并行物理仿真与高保真批量3DGS渲染深度融合的全栈仿真框架，从根源上突破了长期制约视觉驱动机器人学习的算力、显存与资产生成三大核心瓶颈。\n其自动化Real2Sim工作流，大幅降低了高保真仿真环境的构建成本；\n全维度的实验验证也充分证明，平台在足式运动、自主导航、机器人操作等机器人主流任务中，能够同时弥合物理与感知层面的仿真到现实鸿沟，实现真正的零微调真机部署。\n未来，GS-Playground还将持续迭代优化，不断拓展能力边界。\n清华大学智能产业研究院DISCOVER Lab始终致力于推动具身智能领域的前沿研究与技术创新，我们将\n正式开源GS-Playground的全栈框架\n，提供一套高性能、易使用、高泛化性的核心基础设施，助力大规模端到端视觉驱动机器人策略学习的进一步发展与产业落地。\n项目主页：\nhttps://gsplayground.github.io\n论文链接：\nhttps://arxiv.org/abs/2604.25459\n仓库链接：\nhttps://github.com/discoverse-dev/gs_playground\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 4298,
+    "content_excerpt": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练\n听雨\n2026-05-01\n14:28:46\n来源：\n量子位\n清华AIR DISCOVER Lab 投稿\n量子位 | 公众号 QbitAI\n具身人工智能领域，正向着以视觉为中心的感知范式，发生全面而深刻的转型。\n作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥。"
+  },
+  {
     "id": "587fa5130444",
     "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
     "url": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
@@ -13,6 +43,32 @@
     "content_source": "readability",
     "content_chars": 1260,
     "content_excerpt": "Mistral AI 推出\nWorkflows\n，一个面向企业 AI 的编排层，目前已进入公开预览阶段。尽管 AI 模型和智能体的能力愈发先进，但要将它们可靠地部署到生产环境中仍然存在不小难度，核心原因是缺少用于协调调度、全程监控和故障恢复的配套基础设施。此次发布正是为了解决这一重大挑战。\nWorkflows 是 Mistral Studio 平台的一部分，旨在通过持久性、可观测性和容错能力来管理多步骤 AI 流程。开发者可以使用 Python 定义工作流，将模型、智能体和外部连接器等组件组合成结构化流程。这些工作流随后可通过\nLe Chat\n在整个组织内触发执行，执行全过程均可在 Studio 中完成追踪与审计。\n该平台解决了 AI 部署中的常见问题，比如开发环境运行正常、生产环境却出现异常的流水线，因超时而中断的长时间运行流程，以及需要人工干预、却无法暂停和恢复的工作流。它引入了有状态执行机制，使流程能够从故障点继续执行。\n一项关键能力是支持“人机协同”步骤。开发者可以使用简单的构造插入审批检查点，让工作流能够在不消耗计算资源的情况下暂停，并在获取到相关输入后再继续运行。这在合规监管环境中尤为重要，这类环境要求所有决策可追溯、且接受人工监督。\nWorkflows 基于 Temporal 搭建构建，并拓展了 AI 专属功能，如流式处理、负载处理以及增强的可观测性。它的架构采用控制平面与数据平面分离设计：编排服务运行在 Mistral 托管的基础设施上，而执行工作器与数据处理环节则保留在客户环境中，支持云端、本地或混合部署模式。\n该系统还集成了重试策略、速率限制以及 SDK 追踪等功能，旨在减少自定义编排逻辑的工作量。通过将这些能力整合至同一个平台，Workflows 被定位为一款能够加速 AI 应用从实验阶段落地走向生产阶段的工具。"
+  },
+  {
+    "id": "09c1bd6cd9e9",
+    "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+    "url": "https://www.qbitai.com/2026/05/412447.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-01T06:21:38",
+    "summary": "瓜多到吃不完",
+    "collected_at": "2026-05-01T08:03:42.782357",
+    "content_text": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架\n听雨\n2026-05-01\n14:21:38\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\n马斯克和奥特曼这场\n世纪庭审\n，瓜也太多了…\n连着三天吃都吃不完的程度。\n马斯克这边，\n公开承认xAI蒸馏了OpenAI的模型来训练Grok\n。\n上午刚说完「我不对人大喊」，下午当庭大喊。\n律师Savitt追问捐款：\n承诺10亿，到账3800万，兑现不足4%\n。\n马斯克急了，当庭大声说：\n「没有我，OpenAI就不存在！我贡献了我的声誉！我给这个公司起了名字！这些都是有价值的！」\n随后被迫承认：「在严格的货币意义上，我捐了3800万美元。」\n呃…老马你口风变得有点快啊…\n但OpenAI这边黑料也不少，\n最炸的一条当属Brockman的日记\n。\n2017年，他一边当面向马斯克保证「OpenAI会坚守非营利」，一边在私人日记里写：\n「如果三个月后我们转成B公司（Benefit Corporation），那就是一个谎言。」\n同一本日记里还算了一笔账：\n「在财务上，什么能让我身家达到10亿？」\n嘴上说使命，手上算身家，这就是硅谷兄弟情？？？\n所以你看，这场官司两边都不干净。\n不过目前风向还是对马斯克更不利。他在证人席上坐了三天，原本是去证明OpenAI\n「偷了一个慈善机构」\n。\n结果庭审进行到第五个小时，有旁听记者在笔记本里写下了这样一句话：\n「我这辈子从未如此同情过山姆·奥特曼。」\n究竟是谁偷了谁？\n马斯克之所以费这么老大劲起诉OpenAI，就是为了证明一件事：\n「他们偷了一个非营利组织」\n。\n2015年，马斯克出钱出名联合创立了OpenAI，一家立志不赚钱、为全人类开发AI的非营利机构。\n现在他说，自己就是个\n「被愚弄的傻瓜」\n，捐了3800万美元的「免费资金」。\n结果被奥特曼和Brockman转头拿去造了一个估值8500亿美元的营利公司。\n现在，他\n索赔1500亿美元\n，要求法院\n阻止OpenAI在今年下半年IPO上市\n。\n同时还要求罢免奥特曼在OpenAI非营利董事会的董事职务，并解除奥特曼和Brockman在OpenAI的职务。\n马斯克在庭上反复用一个比喻来描述OpenAI的问题：\n「the tail is wagging the dog」（尾巴在摇狗）\n。\n啥意思呢？\nOpenAI最初的设计，是「非营利使命」这条狗，带着「营利子公司」这条尾巴——后者只是为了融资续命，服务于前者。\n但现在反过来了。\n营利子公司吸走了几乎所有的人才、资金、资源，ChatGPT的品牌价值、OpenAI的名气，全在为商业利益服务。\n「非营利」只剩一个法律上的空壳，偶尔拿出来当招牌用一用。\n同时，马斯克拿出了一条2022年的短信，这是他认为自己被骗的关键时间点。\n微软那年宣布投资100亿，OpenAI估值一夜飙到200亿。\n马斯克发消息给奥特曼：「这感觉像是\n诱饵调包\n（bait and switch）。」\n意思是：当年你们用「非营利、为全人类」把我吸引进来，等公司做起来，才发现那件事从来不是你们真正想做的。\n奥特曼回复：「我同意，感觉确实不好。」\n这条短信被马斯克律师在庭上重点展示——奥特曼自己都说「感觉确实不好」，这不就是承认吗？\n但是OpenAI律师\nWilliam Savitt\n拿出来的邮件，把故事讲成了另一个版本：\n你自己2015年就想搞营利部门，2017年还偷偷注册了营利公司，现在来装什么受害者？\n2015年，OpenAI还没正式宣布，马斯克就在内部邮件里提议要不要加一个营利实体。\n2016年，他给自己公司同事写邮件说「把OpenAI设成非营利可能是个错误」。\n2017年，他指示高级顾问偷偷以「OpenAI」名义注册了一家营利性公司，同时要求4个董事席位加51%股权——其他所有创始人加在一起只有3席。\n被拒之后，马斯克切断资助，把OpenAI的核心研究员\nAndrej Karpathy\n直接挖去了特斯拉。\n对此马斯克在庭上声称：\nKarpathy本来就想离开OpenAI，我觉得人们有权利选择去哪里工作。\n。\n2018年，马斯克给其他创始人发邮件，说OpenAI「注定失败」，解决方案是并入特斯拉。\n再次被拒后，马斯克退出了董事会。\n还有法庭上公开的一批短信，让这个质疑更难反驳。\n2024年12月，扎克伯格主动给马斯克发消息：「Meta已致函加州总检察长，支持你对OpenAI的起诉。」\n两个平时互相嘲讽的人，因为共同的竞争对手站到了同一条线上。\n2025年2月，马斯克给扎克伯格发消息：「你愿不愿意跟我和其他一些人一起，联合竞标OpenAI的知识产权？」\n扎克伯格说：「要不要打个电话聊聊？」\n马斯克说：「明天早上打。」\n小扎最终没有加入。七天后，马斯克独自出价974亿美元，要收购OpenAI。\n在证人席上，马斯克宣誓说，他出这个价，是为了「阻止他们窃取慈善机构」。\n但短信记录显示，他第一个念头是拉上Meta一起来联合竞标。\n所以究竟是拯救慈善，还是抢夺资产？\nSavitt的总结只有一句话：「他只支持非营利，前提是他自己在掌控。」\n证人席三天，马斯克六次失态\n值得玩味的是，OpenAI的首席律师\nWilliam Savitt\n，\n是个非常会激怒马斯克的人\n。\nSavitt是谁？\n他曾经是马斯克的律师，帮他打过特斯拉的官司；后来又帮Twitter高管打赢了强制马斯克收购Twitter的官司。\n结果现在，他站到了对面。没有人比他更了解怎么对付这个证人。\n老马啊老马，你今天真是碰上对手了…\nSavitt的策略不是用新证据攻击，而是专门用马斯克自己说过的话，来追杀马斯克今天的证词。\n老熟人果真一击必杀，Savitt的盘问持续了两天，\n马斯克失态了六次\n。\n现场陪审员互相使眼色，有人揉头，法官在某个时刻忍不住当庭笑场。\n第1次：承认离开的真正原因。\n马斯克一直对外说，他2018年离开OpenAI董事会，是为了专注SpaceX和特斯拉，避免利益冲突。\nSavitt不信，反复追问。马斯克的己方律师当庭反对，但法官允许继续。\n最终马斯克被逼到角落，承认：他提出要掌握OpenAI的多数控制权，被其他创始人拒绝，然后他走了。\n走，是因为没拿到他想要的，不是因为利益冲突。\n第2次：「AI安全救世主」人设碰壁。\n马斯克起诉的核心叙事之一，是他深切关心AI安全，而OpenAI背离了这个使命。\nSavitt直接把xAI的安全记录拿出来摆在陪审团面前——\nGrok曾经生成大量有害内容，xAI在安全测试和信息披露上的做法，跟马斯克在庭上标榜的「AI安全」相去甚远。\n救世主的人设，对着自家产品有点说不过去啊…\n第3次：自己说的话，前后对不上。\n这是整场盘问最激烈的时刻，也是庭审里气氛最剑拔弩张的一段。\n事情的起点是一份2018年的术语表\n（term sheet）\n。\n庭审当天，马斯克说他读了这份文件的开头部分，大致了解了内容。\nSavitt随即播放了马斯克庭前证词的视频录像。\n视频里的马斯克，被问到同一个问题，全程没有提过任何「读了开头」的说法。\n两个版本的马斯克，就这样同时出现在陪审团面前。\n马斯克急着解释：「我说的是没有仔细看，不是没读！」\n这段争执持续了好几分钟，是马斯克在整场庭审中情绪最激动的时候之一。\n第4次：骂人是「管理风格」。\nSavitt拿出证据，马斯克曾骂OpenAI的安全团队是「jackasses（蠢货）」。\n马斯克的回应出人意料地淡定：这是他的「管理风格」。\n他说自己的原则是「Don’t be a jackass（别做蠢货）」，\n所以骂人jackass是在提醒对方改正，不算骂人\n。\n嗯…现场陪审团的表情此刻应该是非常精彩。\n第5次：不知道safety card，但xAI在发。\n马斯克全程以AI安全捍卫者自居出庭。Savitt问他，知不知道「safety card」是什么。\n马斯克说，不太确定。\nSavitt解释：这是AI公司随模型发布的安全说明文件，用于披露模型能力、风险和安全测试结果，是行业基本的透明度标准。\n马斯克的xAI，正在给Grok发safety card。\n哈？？\n老马你起诉OpenAI不够安全，结果你不知道自己公司在用的安全文件叫什么名字？？？\n第6次：上午刚说完自己不会大喊，下午就大喊。\n上午，马斯克在主询中主动说了一句话：\n「我不会失去冷静，我不对人大喊。」\n下午，Savitt继续追问术语表的事，两人争执升级。\n马斯克当庭大喊：「我说的是没有仔细看！我读了标题！」\n法官当场笑场，陪审员集体抬头。这句话和上午那句话，中间才隔了不到四个小时。\n但是这还没完，更大的爆点还在后头。\n马斯克公开承认了xAI蒸馏OpenAI模型来训练Grok。\nSavitt问：xAI有没有用蒸馏技术从OpenAI模型提取知识，来训练Grok？\n马斯克先打太极：「AI公司普遍都会互相蒸馏。」\nSavitt追问：那是还是不是？\n马斯克：\n「部分有。」\nYes or No…答案是or？？\nOpenAI这边…也不干净\n说了这么多马斯克的失态，但OpenAI也并非清白无可指摘。\n首当其冲的就是Brockman的日记。\n这本私人日记是在诉讼发现阶段被挖出来的，背景是2017年。\n当时OpenAI烧钱烧得很凶，内部开始讨论要不要从非营利转成营利结构来融更多钱。\n马斯克是最大金主，但他的条件是：要转营利可以，但我要控制权——51%股权、4个董事席位。\nBrockman和奥特曼不想接受这个条件，但又不敢直接告诉马斯克「我们不打算守住非营利了」。\n所以他们的策略是：当面继续安抚马斯克、保证坚守非营利，私下另想出路。\nBrockman在日记里写道：\n「这是我们摆脱马斯克的唯一机会。」\n意思是，如果趁这次重组，把马斯克的条件拒掉，就能把他排除在公司未来的控制权之外，从此不用再受他制约。\n同时，他其实也不确定马斯克适不适合当自己的老板，所以写下——\n「他是我会选的’光荣领袖’吗？」\n日记里还有一条：\n「在财务上，什么能让我身家达到10亿？接受马斯克的条件会摧毁两件事：我们的选择权……以及经济回报。」\n这本日记被法官在今年1月的裁定中直接引用，作为「证据充分、应当开庭」的依据之一。\nBrockman很快就要走上证人席，当庭解释这本日记。\n第二，奥特曼曾对马斯克说：\n「你是我的英雄」\n。\n2023年2月，两人已经开始公开互撕。\n但奥特曼私信马斯克写道：\n「你是我的英雄……没有你我不认为OpenAI能成……但你公开攻击OpenAI真的让我很受伤。」\n所以，奥特曼承认了马斯克的关键贡献，同时也暴露了自己在私下还在软化马斯克、公开却继续推进营利化的两面性。\n还有更多证据浮出水面：\n2015年10月，奥特曼发了一封邮件给马斯克，汇报OpenAI的筹备进展。\n最后列出「对你的具体要求」：第一条，能否在未来5年内捐3000万美元？\n马斯克的回复只有一句话：「我们来谈治理结构。这很关键。我不想资助一个最终走向错误方向的东西。」\n这封邮件现在成了法庭证据。\n马斯克说它证明了他当时就强调过「方向」；OpenAI说它证明了奥特曼主动向马斯克募款，形成了法律意义上的\n慈善信托关系\n。\n马斯克的律师同一天还向法官递交了一份法庭简报：\n论点很清晰：加州法律规定，只要有人主动向你募捐，你接受了，这笔钱就必须用于募捐时声明的目的。\n奥特曼2015年主动要钱、2020年再次要钱，马斯克都给了。\n后来OpenAI搞营利化，违反的不只是道义承诺，而是法律义务。\n官司还没结束，好戏还在后头\n第一周结束，马斯克的证词落幕，攻守即将易位。\n接下来还有重磅证人登场：\n奥特曼\n下周登台，将是真正的正面对决，也是这场庭审最受期待的时刻。\n在本周的三场庭审上，奥特曼坐在被告席面无表情，一言不发。\n但等上了证人席，他会做何表现？\n其次是\nGreg Brockman\n，他要当庭解释自己写过的日记。\n还有微软CEO\n纳德拉\n，马斯克指控微软「协助OpenAI背叛慈善信托」——没有微软的钱，OpenAI没办法完成这次营利化转型，所以微软也是共谋。\n签下130亿美元赌注的人，将要在奥克兰法庭向9个陪审员解释整个安排。\n最后是\n希冯·齐利斯\n，她具有三重身份——前OpenAI董事、马斯克四个孩子的母亲、OpenAI方指控的内部信息泄露者。\n所以硅谷连环宫斗剧究竟结局如何？\n吃瓜已经迫不及待了…（搓手手\n参考链接：\n[1]https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/\n[2]https://www.cnbc.com/2026/04/29/musk-altman-live-updates-day-3-open-ai-trial.html\n[3]https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/\n[4]https://www.npr.org/2026/04/28/nx-s1-5801438/musk-altman-openai-trial-opening-statements\n[5]https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/\n[6]https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 5798,
+    "content_excerpt": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架\n听雨\n2026-05-01\n14:21:38\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\n马斯克和奥特曼这场\n世纪庭审"
+  },
+  {
+    "id": "0a8950cdb099",
+    "title": "杭州为具身智能机器人立法，今起施行",
+    "url": "https://36kr.com/newsflashes/3790305284529416?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-01T06:00:00",
+    "summary": "36氪获悉，“杭州发布”微信公众号消息，5月1日，全国首部具身智能机器人领域地方性法规《杭州市促进具身智能机器人产业发展条例》正式施行。数据显示，杭州已集聚机器人产业相关企业700余家，2025年具身智能产业集群产值达1068亿元。",
+    "collected_at": "2026-05-01T08:06:03.918717"
   },
   {
     "id": "d02cf6c66a23",
@@ -33,22 +89,18 @@
     "ai_summary": "印度用户正在拥抱 ChatGPT Images 2.0 来实现创意、个人视觉效果——从头像到电影肖像"
   },
   {
-    "id": "072b4665a19a",
-    "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-30T22:59:51",
-    "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testi",
-    "collected_at": "2026-05-01T02:19:29.479737",
-    "content_text": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk’s lawyers may have just fucked up big.\nThe craziest part of Musk v. Altman happened while the jury was out of the room\nJared Birchall, Musk’s money manager, answered a question he wasn’t supposed to. It’s unclear what the consequences will be.\nThe craziest part of Musk v. Altman happened while the jury was out of the room\nJared Birchall, Musk’s money manager, answered a question he wasn’t supposed to. It’s unclear what the consequences will be.\nJared “James Brickhouse” Birchall, Musk’s finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\nThe lawyer conducting his direct examination was passed a note by another member of the team, and asked Birchall what was apparently contained on the note: was he familiar with the xAI bid for OpenAI’s assets?\n“Sam Altman was on both sides of the table.”\n“As I recall, a lawyer we were working with had asked the attorney general of California to ensure that in their fiduciary duty, proper value was being given to the assets of the nonprofit of OpenAI,” Birchall said. In his understanding, there was a negotiation “between Sam Altman and himself on both sides of the table, the for-profit and the non-profit, attempting to discount the value of the non-profit assets. And we made that bid in an attempt to properly account for the value the foundation had, and create a market bid that would need to be considered by the attorney general.”\nHere’s some lore: in February 2025, a Musk-led coalition made a $97.4 billion bid for the non-profit that controls OpenAI. The bid was submitted by Marc Toberoff, one of Musk’s lawyers in the current case. This bid happened as OpenAI was restructuring itself so that the for-profit arm could be cleared to go public. In Birchall’s testimony, that bid was made because Musk, Birchall, and others, thought Altman might undervalue the nonprofit as the company restructured itself. (I’m not really sure why that would be a problem for Musk and xAI, frankly, but whatever.)\nThe defense counsel objected, and Birchall’s rant was struck for lack of foundation. So we did this piece by piece to establish the foundation, ending with Birchall saying, again, “Sam Altman was on both sides of the table.”\nOn cross-examination, Bradley Wilson from Wachtell Lipton — OpenAI’s lawyers — picked the thread back up. Wilson asked how much of this Birchall had learned from sources other than lawyers. Birchall said he’d have a hard time being able to untangle that. After a few more exchanges, Wilson moved to strike all of Birchall’s testimony about the xAI bid on grounds that would not be discussed in front of the jury.\n“You must have been very convincing. You’re not very convincing today.”\nThe jury got to leave early while the lawyers duked it out, and this is where it got weird. Judge Yvonne Gonzalez Rogers started asking Birchall questions herself, and it clearly was making Birchall nervous. Birchall said he doesn’t remember discussing the xAI bid with Musk or Shivon Zilis or any other principal of the Musk organization. It sure sounded like Musk’s lawyers hadn’t given OpenAI proper discovery on this topic in the depositions, and so we were doing a fast and dirty deposition with the judge right then. At one point, Gonzalez Rogers told the plaintiff’s counsel to quit coaching the witness.\nBirchall said he’d spoken to the other members of the consortium about the bid, but that he wasn’t involved in discussions with Musk about when to send the bid letter. He claimed he’d heard some things from Toberoff, but that he wasn’t aware that Toberoff represented some of the other bidders. He didn’t know if xAI was aware that Toberoff represented some of the other bidders, either.\nBirchall didn’t know whether other investors had first-hand information about OpenAI, he claimed. No one had documents from inside OpenAI as far as he knew. Gonzalez Rogers remained unconvinced. “I’m still struggling with how you can have conversations with these individuals to raise $97.5 billion but have no recollections even in a general sense,” she said. Birchall said he had a general sense — he called each of the people involved to see if they were interested in joining Musk on the bid.\n“Why would they do that?” Gonzales Rogers asked. Birchall said these were people with whom Musk et al had longstanding relationships. “You must have been very convincing,” she said. “You’re not very convincing today.”\nOpen the door to what?\nBirchall said there were no numbers besides the topline one floated when he called prospective investors, and that after speaking with him, they were passed off to lawyers. He didn’t remember who chose the $97.4 billion number, and said he got it from the legal team, telling Gonzalez Rogers he didn’t get it from Musk. Gonzalez Rogers asked if that analysis was created by anyone besides Toberoff. Birchall said not that he could recall.\n“Did a lawyer tell you this was part of litigation?” Gonzalez Rogers asked.\nNo, Birchall said. It was strictly a business deal.\nApparently Steven Molo, who’d been defending Musk during the deposition, had made multiple objections to questions about the deal, citing privileged communications. Business deals, apparently, aren’t privileged. But all discovery into the xAI bid for OpenAI had been blocked before the trial began. Unfortunately, by asking Birchall about the xAI deal at the very end of the direct examination, Musk’s team may have opened the door for more digging into it. You may be wondering, “open the door to what” and your guess is as good as mine. More discovery? Maybe something about anticompetitive behavior from Musk? It doesn’t sound like it’s going to be good for Musk, I can tell you that much.\nGonzalez Rogers then asked who’d passed the note, and all the lawyers just sat there like guilty children. Finally, the guy responsible said he’d passed it, but he didn’t write it; a junior lawyer did. Who wrote it? More silence. Finally Toberoff — hardly a junior lawyer — stood up and took responsibility. Why had he done it? “I thought it was appropriate.”\n“Sounds like you wanted to open the door, then,” Gonzalez Rogers said. We adjourned while she said she’d consider what to do with this testimony. She will probably rule on it tomorrow.\nCorrection, April 30th: It is Shivon Zilis, not Sharon Zilis.",
-    "content_source": "trafilatura",
-    "content_chars": 6738,
-    "content_excerpt": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk’s lawyers may have just fucked up big.\nThe craziest part of Musk v. Altman happened while the jury was out of the room\nJared Birchall, Musk’s money manager, answered a question he wasn’t supposed to. It’s unclear what the consequences will be.\nThe craziest part of Musk v. Altman happened while the jury was out of the room\nJared Birchall, Musk’s money manager, answered a question he wasn’t supposed to. It’s unclear what the consequences will be.\nJared “James Brickhouse” Birchall, Musk’s finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\nThe lawyer conducting his direct examination was passed a note by another member of the team, and asked Birchall what was apparently contained on the note: was he familiar with the xAI bid for OpenAI’s assets?\n“Sam Altman was on both sides of the table.”\n“As I recall, a lawyer we were working with had asked the attorney general of California to ensure that in their fiduciary duty, proper value was being given to the assets of the nonprofit of OpenAI,” Birchall said. In his understanding, there was a negotiation “between Sam Altman and himself on both sides of the table, the for-profit and the non-profit, attempting to discount the value of the non-profit assets. And we made that bid in an attempt to properly account for the value the foundation had, and create a market bid that would need to be considered by the attorney general.”\nHere’s some lore: in February 2025, a Musk-led coalition made a $97.4 billion bid for the non-profit that controls OpenAI. The bid was submitted by Marc Toberoff, one of Musk’s lawyers in the current case. This bid happened as OpenAI was restructuring itself so that the for-profit arm could be cleared to go public. In Birchall’s testimony, that bid was made because Musk, Birchall, and others, thought Altman might undervalue the nonprofit as the company restructured itself. (I’m not really sure why that would be a problem for Musk and xAI, frankly, but whatever.)",
-    "title_zh": "马斯克诉奥特曼案中最疯狂的部分发生在陪审团离开房间时",
-    "summary_zh": "好吧，我不是律师，所以我只了解了刚刚发生的事情的一半。但鉴于当时的背景，我相当肯定埃隆·马斯克的律师可能刚刚搞砸了。马斯克的财务人员和全能修复者贾里德·“詹姆斯·布里克豪斯”·伯查尔今天在马斯克之后出庭作证。他的大部分睾丸",
-    "ai_summary": "好吧，我不是律师，所以我只了解了刚刚发生的事情的一半。但鉴于当时的背景，我相当肯定埃隆·马斯克的律师可能刚刚搞砸了。马斯…"
+    "id": "v2ex-1209797",
+    "title": "iOS 无法收到 TG 的通知",
+    "url": "https://www.v2ex.com/t/1209797",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-01T00:36:38",
+    "summary": "> 苹果🍎用户注意：Telegram 消息推送服务疑似出现异常，部分用户可能遇到消息通知不显示、推送延迟或无法及时收到提醒的问题，建议临时打开应用内查看消息，避免遗漏重要信息 已经测试了，确实收不到 TG 的推送了， 加入代理列表，依旧无法收到 TG 消息，目前国内应用推送正常 ``` DOMAIN-SUFFIX,push.apple.com,PROXY IP-CIDR,17.0.0.0/8,PROXY,no-resolve ``` TG 为 DC4/5 美区账号 肉身国内",
+    "collected_at": "2026-05-01T08:06:06.343444",
+    "content_text": "把下面这些规则走代理后，即可不用开代理工具的包含 APNS 功能也能收到推送了。设置完之后要开关飞行模式，断掉所有连接才会生效。\nDOMAIN-SUFFIX,\npush.apple.com\nDOMAIN-SUFFIX,\nakadns.net\nDOMAIN-KEYWORD,\napple.com.edgekey.net\nIP-CIDR,17.249.0.0/16,no-resolve\nIP-CIDR,17.252.0.0/16,no-resolve\nIP-CIDR,17.57.144.0/22,no-resolve\nIP-CIDR,17.188.128.0/18,no-resolve\nIP-CIDR,17.188.20.0/23,no-resolve\nIP-CIDR6,2620:149:a44::/48,no-resolve\nIP-CIDR6,2403:300:a42::/48,no-resolve\nIP-CIDR6,2403:300:a51::/48,no-resolve\nIP-CIDR6,2a01:b740:a42::/48,no-resolve",
+    "content_source": "readability",
+    "content_chars": 480,
+    "content_excerpt": "把下面这些规则走代理后，即可不用开代理工具的包含 APNS 功能也能收到推送了。设置完之后要开关飞行模式，断掉所有连接才会生效。\nDOMAIN-SUFFIX,\npush.apple.com\nDOMAIN-SUFFIX,\nakadns.net\nDOMAIN-KEYWORD,\napple.com.edgekey.net\nIP-CIDR,17.249.0.0/16,no-resolve\nIP-CIDR,17.252.0.0/16,no-resolve\nIP-CIDR,17.57.144.0/22,no-resolve"
   },
   {
     "id": "e0cea1ae2c83",
@@ -69,22 +121,22 @@
     "ai_summary": "据知情人士透露，Anthropic 要求投资者在未来 48 小时内提交该人工智能公司最新融资的分配情况"
   },
   {
-    "id": "f2bf8f931c48",
-    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
-    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-    "source": "Ars Technica AI",
+    "id": "072b4665a19a",
+    "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+    "source": "The Verge AI",
     "lang": "en",
-    "priority": 2,
-    "published": "2026-04-30T20:20:48",
-    "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
-    "collected_at": "2026-05-01T02:19:29.751499",
-    "content_text": "Publicly released exploit code for an effectively unpatched vulnerability that gives root access to virtually all releases of Linux is setting off alarm bells as defenders scramble to ward off severe compromises inside data centers and on personal devices.\nThe vulnerability and exploit code that exploits it were\nreleased Wednesday evening\nby researchers from security firm Theori, five weeks after privately disclosing it to the Linux kernel security team. The team patched the vulnerability in versions\n7.0\n,\n6.19.12\n,\n6.18.12\n, 6.12.85, 6.6.137, 6.1.170, 5.15.204, and 5.10.254) but few of the Linux distributions had incorporated those fixes at the time the exploit was released.\nA single script hacks all distros\nThe critical flaw, tracked as CVE-2026-31431 and the name CopyFail, is a local privilege escalation, a vulnerability class that allows unprivileged users to elevate themselves to administrators. CopyFail is particularly severe because it can be exploited with a single piece of exploit code—released in Wednesday’s disclosure—that works across all vulnerable distributions with no modification. With that, an attacker can, among other things, hack multi-tenant systems, break out of containers based on Kubernetes or other frameworks, and create malicious pull requests that pipe the exploit code through\nCI/CD\nwork flows.\n“‘Local privilege escalation’ sounds dry, so let me unpack it,” researcher Jorijn Schrijvershof\nwrote Thursday\n. “It means: an attacker who already has some way to run code on the machine, even as the most boring unprivileged user, can promote themselves to root. From there they can read every file, install backdoors, watch every process, and pivot to other systems.”\nSchrijvershof added that the same Python script Theori released works reliably for Ubuntu 22.04, Amazon Linux 2023, SUSE 15.6, and Debian 12. The researcher continued:",
-    "content_source": "readability",
-    "content_chars": 1879,
-    "content_excerpt": "Publicly released exploit code for an effectively unpatched vulnerability that gives root access to virtually all releases of Linux is setting off alarm bells as defenders scramble to ward off severe compromises inside data centers and on personal devices.\nThe vulnerability and exploit code that exploits it were\nreleased Wednesday evening\nby researchers from security firm Theori, five weeks after privately disclosing it to the Linux kernel security team. The team patched the vulnerability in versions\n7.0\n,\n6.19.12\n,\n6.18.12\n, 6.12.85, 6.6.137, 6.1.170, 5.15.204, and 5.10.254) but few of the Linux distributions had incorporated those fixes at the time the exploit was released.",
-    "title_zh": "多年来最严重的 Linux 威胁让世界措手不及",
-    "summary_zh": "CopyFail 威胁多租户服务器、CI/CD 工作流程、Kubernetes 容器等",
-    "ai_summary": "CopyFail 威胁多租户服务器、CI/CD 工作流程、Kubernetes 容器等"
+    "priority": 1,
+    "published": "2026-04-30T22:59:51",
+    "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testi",
+    "collected_at": "2026-05-01T02:19:29.479737",
+    "content_text": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk’s lawyers may have just fucked up big.\nThe craziest part of Musk v. Altman happened while the jury was out of the room\nJared Birchall, Musk’s money manager, answered a question he wasn’t supposed to. It’s unclear what the consequences will be.\nThe craziest part of Musk v. Altman happened while the jury was out of the room\nJared Birchall, Musk’s money manager, answered a question he wasn’t supposed to. It’s unclear what the consequences will be.\nJared “James Brickhouse” Birchall, Musk’s finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\nThe lawyer conducting his direct examination was passed a note by another member of the team, and asked Birchall what was apparently contained on the note: was he familiar with the xAI bid for OpenAI’s assets?\n“Sam Altman was on both sides of the table.”\n“As I recall, a lawyer we were working with had asked the attorney general of California to ensure that in their fiduciary duty, proper value was being given to the assets of the nonprofit of OpenAI,” Birchall said. In his understanding, there was a negotiation “between Sam Altman and himself on both sides of the table, the for-profit and the non-profit, attempting to discount the value of the non-profit assets. And we made that bid in an attempt to properly account for the value the foundation had, and create a market bid that would need to be considered by the attorney general.”\nHere’s some lore: in February 2025, a Musk-led coalition made a $97.4 billion bid for the non-profit that controls OpenAI. The bid was submitted by Marc Toberoff, one of Musk’s lawyers in the current case. This bid happened as OpenAI was restructuring itself so that the for-profit arm could be cleared to go public. In Birchall’s testimony, that bid was made because Musk, Birchall, and others, thought Altman might undervalue the nonprofit as the company restructured itself. (I’m not really sure why that would be a problem for Musk and xAI, frankly, but whatever.)\nThe defense counsel objected, and Birchall’s rant was struck for lack of foundation. So we did this piece by piece to establish the foundation, ending with Birchall saying, again, “Sam Altman was on both sides of the table.”\nOn cross-examination, Bradley Wilson from Wachtell Lipton — OpenAI’s lawyers — picked the thread back up. Wilson asked how much of this Birchall had learned from sources other than lawyers. Birchall said he’d have a hard time being able to untangle that. After a few more exchanges, Wilson moved to strike all of Birchall’s testimony about the xAI bid on grounds that would not be discussed in front of the jury.\n“You must have been very convincing. You’re not very convincing today.”\nThe jury got to leave early while the lawyers duked it out, and this is where it got weird. Judge Yvonne Gonzalez Rogers started asking Birchall questions herself, and it clearly was making Birchall nervous. Birchall said he doesn’t remember discussing the xAI bid with Musk or Shivon Zilis or any other principal of the Musk organization. It sure sounded like Musk’s lawyers hadn’t given OpenAI proper discovery on this topic in the depositions, and so we were doing a fast and dirty deposition with the judge right then. At one point, Gonzalez Rogers told the plaintiff’s counsel to quit coaching the witness.\nBirchall said he’d spoken to the other members of the consortium about the bid, but that he wasn’t involved in discussions with Musk about when to send the bid letter. He claimed he’d heard some things from Toberoff, but that he wasn’t aware that Toberoff represented some of the other bidders. He didn’t know if xAI was aware that Toberoff represented some of the other bidders, either.\nBirchall didn’t know whether other investors had first-hand information about OpenAI, he claimed. No one had documents from inside OpenAI as far as he knew. Gonzalez Rogers remained unconvinced. “I’m still struggling with how you can have conversations with these individuals to raise $97.5 billion but have no recollections even in a general sense,” she said. Birchall said he had a general sense — he called each of the people involved to see if they were interested in joining Musk on the bid.\n“Why would they do that?” Gonzales Rogers asked. Birchall said these were people with whom Musk et al had longstanding relationships. “You must have been very convincing,” she said. “You’re not very convincing today.”\nOpen the door to what?\nBirchall said there were no numbers besides the topline one floated when he called prospective investors, and that after speaking with him, they were passed off to lawyers. He didn’t remember who chose the $97.4 billion number, and said he got it from the legal team, telling Gonzalez Rogers he didn’t get it from Musk. Gonzalez Rogers asked if that analysis was created by anyone besides Toberoff. Birchall said not that he could recall.\n“Did a lawyer tell you this was part of litigation?” Gonzalez Rogers asked.\nNo, Birchall said. It was strictly a business deal.\nApparently Steven Molo, who’d been defending Musk during the deposition, had made multiple objections to questions about the deal, citing privileged communications. Business deals, apparently, aren’t privileged. But all discovery into the xAI bid for OpenAI had been blocked before the trial began. Unfortunately, by asking Birchall about the xAI deal at the very end of the direct examination, Musk’s team may have opened the door for more digging into it. You may be wondering, “open the door to what” and your guess is as good as mine. More discovery? Maybe something about anticompetitive behavior from Musk? It doesn’t sound like it’s going to be good for Musk, I can tell you that much.\nGonzalez Rogers then asked who’d passed the note, and all the lawyers just sat there like guilty children. Finally, the guy responsible said he’d passed it, but he didn’t write it; a junior lawyer did. Who wrote it? More silence. Finally Toberoff — hardly a junior lawyer — stood up and took responsibility. Why had he done it? “I thought it was appropriate.”\n“Sounds like you wanted to open the door, then,” Gonzalez Rogers said. We adjourned while she said she’d consider what to do with this testimony. She will probably rule on it tomorrow.\nCorrection, April 30th: It is Shivon Zilis, not Sharon Zilis.",
+    "content_source": "trafilatura",
+    "content_chars": 6738,
+    "content_excerpt": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk’s lawyers may have just fucked up big.\nThe craziest part of Musk v. Altman happened while the jury was out of the room\nJared Birchall, Musk’s money manager, answered a question he wasn’t supposed to. It’s unclear what the consequences will be.\nThe craziest part of Musk v. Altman happened while the jury was out of the room\nJared Birchall, Musk’s money manager, answered a question he wasn’t supposed to. It’s unclear what the consequences will be.\nJared “James Brickhouse” Birchall, Musk’s finance guy and all-around fixer, took the stand after Musk today. Most of his testimony was dull and seemed to exist primarily to get some documents read into the record, which sucks but is a normal part of sitting through trials. But at the very end of his boring testimony something interesting happened. I believe we all got a surprise, something that rarely happens in courtrooms.\nThe lawyer conducting his direct examination was passed a note by another member of the team, and asked Birchall what was apparently contained on the note: was he familiar with the xAI bid for OpenAI’s assets?\n“Sam Altman was on both sides of the table.”\n“As I recall, a lawyer we were working with had asked the attorney general of California to ensure that in their fiduciary duty, proper value was being given to the assets of the nonprofit of OpenAI,” Birchall said. In his understanding, there was a negotiation “between Sam Altman and himself on both sides of the table, the for-profit and the non-profit, attempting to discount the value of the non-profit assets. And we made that bid in an attempt to properly account for the value the foundation had, and create a market bid that would need to be considered by the attorney general.”\nHere’s some lore: in February 2025, a Musk-led coalition made a $97.4 billion bid for the non-profit that controls OpenAI. The bid was submitted by Marc Toberoff, one of Musk’s lawyers in the current case. This bid happened as OpenAI was restructuring itself so that the for-profit arm could be cleared to go public. In Birchall’s testimony, that bid was made because Musk, Birchall, and others, thought Altman might undervalue the nonprofit as the company restructured itself. (I’m not really sure why that would be a problem for Musk and xAI, frankly, but whatever.)",
+    "title_zh": "马斯克诉奥特曼案中最疯狂的部分发生在陪审团离开房间时",
+    "summary_zh": "好吧，我不是律师，所以我只了解了刚刚发生的事情的一半。但鉴于当时的背景，我相当肯定埃隆·马斯克的律师可能刚刚搞砸了。马斯克的财务人员和全能修复者贾里德·“詹姆斯·布里克豪斯”·伯查尔今天在马斯克之后出庭作证。他的大部分睾丸",
+    "ai_summary": "好吧，我不是律师，所以我只了解了刚刚发生的事情的一半。但鉴于当时的背景，我相当肯定埃隆·马斯克的律师可能刚刚搞砸了。马斯…"
   },
   {
     "id": "485653f30622",
@@ -105,19 +157,22 @@
     "ai_summary": "苹果表示，下一季度 Mac mini、Studio 和 Neo 的供应也将受到限制"
   },
   {
-    "id": "91801af132f3",
-    "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
-    "url": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-30T20:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-30T13:31:20.861600",
-    "content_text": "近日，\n北京中关村学院信息智能团队自主研发的智能体系统\nMilkyway，\n在 FutureX 评测中凭借 60.9 分登全球榜首\n。\nFutureX 是专门考验“AI 预言能力”的国际动态评测基准，由字节跳动、斯坦福、复旦、普林斯顿大学等顶尖学术机构团队联合发起，在 HuggingFace 上公开数据集，用\n尚未揭晓的真实事件考验 AI 预测能力\n——地缘博弈、政策走向、经济波动，答案由现实裁定，没有模糊空间。\n首期冠军是埃隆·马斯克公司\n（Elon Musk）\n旗下的 Grok4\n，马斯克本人曾在社交媒体公开表示：“预测未来的能力，是对模型智能性最好的测试”。\n本期 Grok4 得分 25.9，而\nMilkyway 凭借 60.9 分登顶\n——超出一倍有余。\n2025 年 9 月，埃隆·马斯克公开表示：“预测未来的能力，是对模型智能性最好的测试。”\n近期，越来越多重量级玩家看到了“AI 预测未来”这一方向的价值。Thinking Machines 于 3 月 19 日发布技术博客，展示了用强化学习微调 120B 开源模型做事件预测的方案——以真实世界结果作为 reward 信号训练，微调后的模型性能追平 frontier LLM，并能与之形成互补。陈天桥近期宣布组建的 MiroMind 则推出 235B 参数的 MiroThinker 推理模型，采用双层验证器架构实时审核推理步骤与逻辑一致性，配合 DAG 推理协议支持分支探索和动态重规划。\n预测未来为什么重要？\n系统需要从全球碎片化的蛛丝马迹中搜寻信号，自主推论，甚至构建模拟。真实世界提供真实反馈，对错由现实裁定，形成持续进化的闭环。能做到这一点，意味着对世界运转规律的理解达到了新深度——这是 AI 智能性实现跃迁的重要方向。Milkyway 的突破不仅靠模型本身，更靠我们在 harness 层的深度攻关——让系统具备跨长周期持续工作、多智能体协作、自我评估与迭代修正的能力，从而能持续跟踪事件演化、动态修正判断。以实例说明，OpenAI 原生模型在该榜单上最高排第九，说明模型之上的智能体系统层同样决定成败。后续，北京中关村学院将持续发布系列相关工作。\nMilkyway 由北京中关村学院“AI 核心”学部大模型方向的郑书新副教授带领信息智能团队研发，团队聚焦下一代 AI 核心能力的探索与突破。这一突破背后，是一支充满无限热情与探索精神的团队。团队招募中，期待同行人。",
+    "id": "f2bf8f931c48",
+    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-04-30T20:20:48",
+    "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+    "collected_at": "2026-05-01T02:19:29.751499",
+    "content_text": "Publicly released exploit code for an effectively unpatched vulnerability that gives root access to virtually all releases of Linux is setting off alarm bells as defenders scramble to ward off severe compromises inside data centers and on personal devices.\nThe vulnerability and exploit code that exploits it were\nreleased Wednesday evening\nby researchers from security firm Theori, five weeks after privately disclosing it to the Linux kernel security team. The team patched the vulnerability in versions\n7.0\n,\n6.19.12\n,\n6.18.12\n, 6.12.85, 6.6.137, 6.1.170, 5.15.204, and 5.10.254) but few of the Linux distributions had incorporated those fixes at the time the exploit was released.\nA single script hacks all distros\nThe critical flaw, tracked as CVE-2026-31431 and the name CopyFail, is a local privilege escalation, a vulnerability class that allows unprivileged users to elevate themselves to administrators. CopyFail is particularly severe because it can be exploited with a single piece of exploit code—released in Wednesday’s disclosure—that works across all vulnerable distributions with no modification. With that, an attacker can, among other things, hack multi-tenant systems, break out of containers based on Kubernetes or other frameworks, and create malicious pull requests that pipe the exploit code through\nCI/CD\nwork flows.\n“‘Local privilege escalation’ sounds dry, so let me unpack it,” researcher Jorijn Schrijvershof\nwrote Thursday\n. “It means: an attacker who already has some way to run code on the machine, even as the most boring unprivileged user, can promote themselves to root. From there they can read every file, install backdoors, watch every process, and pivot to other systems.”\nSchrijvershof added that the same Python script Theori released works reliably for Ubuntu 22.04, Amazon Linux 2023, SUSE 15.6, and Debian 12. The researcher continued:",
     "content_source": "readability",
-    "content_chars": 1027,
-    "content_excerpt": "近日，\n北京中关村学院信息智能团队自主研发的智能体系统\nMilkyway，\n在 FutureX 评测中凭借 60.9 分登全球榜首\n。\nFutureX 是专门考验“AI 预言能力”的国际动态评测基准，由字节跳动、斯坦福、复旦、普林斯顿大学等顶尖学术机构团队联合发起，在 HuggingFace 上公开数据集，用\n尚未揭晓的真实事件考验 AI 预测能力\n——地缘博弈、政策走向、经济波动，答案由现实裁定，没有模糊空间。\n首期冠军是埃隆·马斯克公司\n（Elon Musk）"
+    "content_chars": 1879,
+    "content_excerpt": "Publicly released exploit code for an effectively unpatched vulnerability that gives root access to virtually all releases of Linux is setting off alarm bells as defenders scramble to ward off severe compromises inside data centers and on personal devices.\nThe vulnerability and exploit code that exploits it were\nreleased Wednesday evening\nby researchers from security firm Theori, five weeks after privately disclosing it to the Linux kernel security team. The team patched the vulnerability in versions\n7.0\n,\n6.19.12\n,\n6.18.12\n, 6.12.85, 6.6.137, 6.1.170, 5.15.204, and 5.10.254) but few of the Linux distributions had incorporated those fixes at the time the exploit was released.",
+    "title_zh": "多年来最严重的 Linux 威胁让世界措手不及",
+    "summary_zh": "CopyFail 威胁多租户服务器、CI/CD 工作流程、Kubernetes 容器等",
+    "ai_summary": "CopyFail 威胁多租户服务器、CI/CD 工作流程、Kubernetes 容器等"
   },
   {
     "id": "4f23af2c0635",
@@ -138,19 +193,19 @@
     "ai_summary": "这两个发展迅速的竞争对手已经筹集了大量资金，进入了彼此的主场，现在还展开了激烈的广告攻势"
   },
   {
-    "id": "54a3c14828be",
-    "title": "王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞",
-    "url": "https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article",
+    "id": "91801af132f3",
+    "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
+    "url": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "priority": 3,
-    "published": "2026-04-30T19:00:00",
+    "published": "2026-04-30T20:00:00",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-30T13:31:20.861635",
-    "content_text": "作者 | 华卫\n几天前，宇树科技创始人王兴兴坐进了宝马刚刚全球首发的新世代 i3，并亲自体验了其最新一代智能座舱。这更像一场临时起意的特别“面试”：他在对话中不断抛出复杂需求与路线规划，都被妥善解决且整个交互过程流畅自然，王兴兴频频称赞。\n据了解，这套座舱背后搭载的核心技术，来自斑马智能的“元神 AI”。“经过两年多的深耕，我们现在已经成为中国市场智舱 AI 的 No.1，现在我们服务的车厂数是两年前的三倍多。”以这一姿态发声的斑马智能背后，是其不到两年时间快速建立起来并不断进化的全栈智舱 AI 技术体系，合作车企扩展至近 20 家主流品牌，包括大众、宝马、智己汽车、东风汽车、红旗、比亚迪等。\n在前不久的 AI TECH DAY 上，斑马智能又新发布了“元神 AI 汽车机器人大脑”，同时推出 AutoOmni 全模态端模型产品矩阵与“龙虾上车”方案 AutoClaw，构成所谓的“一脑双引擎”升级。这不只是一轮产品迭代，更像在做一次预判：汽车正在从功能的集合机器，变成一个可以持续进化、还能主动协作的的智能体系统。\n“我们是一家 AI 公司，定位就是做最强的机器人大脑。”现场，斑马智能首席产品官蔡明强调了将公司名字从斑马智行改成斑马智能的出发点。而在他看来，“车一定会成为最早 Robot 化的智能终端，成为最早的机器人。”\n这次，斑马智能对“元神 AI”的升级，浓缩成两个非常明确的方向：交流和办事。基于这两个核心引擎，现在的元神 AI 不止提供优质的模型，还建立了优秀的模型协作系统。\n“好的智舱 AI 就是能和人顺畅交流，还能协作把事办了。”蔡明对智舱 AI 的判断是，No touch No APP。在他看来，如果 AI 做得好，人与车之间的交互就不该靠触摸屏，办事也不应该再回到 APP 里。\n“端侧模型是必选项”，升级 Auto Omni 为产品矩阵\n在交流侧，斑马智能给出的答案是全模态端侧大模型实车方案 AutoOmni。其大脑由阿里云通义提供，Qwen-Omni 全模态大模型为 Auto Omni 提供了强大的基础模型能力；高通第五代骁龙汽车座舱平台 SA8397P 以高达 320 TOPS 的 AI 算力，支持其在车内流畅运行。\n“如果一个 AI 始终不能看、不能听、不能记忆，它就不能再继续进化了。”蔡明表示，正因如此，端侧模型在斑马智能的体系里，不再是“优化项”，而是“必选项”。只有当感知、理解和记忆发生在本地，AI 才有可能形成连续性的体验，而不是一次次被打断的对话。\n基于这一逻辑，他在现场宣布，Auto Omni 将从单一的技术产品升级为一个完整的产品矩阵。据介绍，Auto Omni 提供类人自然交互和全域主动智能，包含两个核心产品板块：端智能交互中枢和生成式场景引擎。\n总的来说，Auto Omni 让车“竖起了耳朵，睁开了眼睛”。有了全面和丰富的记忆，让最开始像本能一样的那些单一功能出现得更合理、舒适，甚至是自动发生的，其跟人的关系也变成一种更有温度的相处。\n此外，AutoOmni 产品矩阵支持 Qwen 3.5 Omni 以及 MoE 架构等不同基础模型，并广泛适配国内外主流大算力芯片。蔡明透露，当前 Auto Omni 主要支撑智能车、车机器人的演进和迭代，未来也一定会拓展到其他的智能端。\n去年 9 月已启动“龙虾”类产品，全方位管控 Token\n“好的 AI 办事不能靠 APP，靠什么？靠 Agent。而 Agent 多了，就一定需要一个跨 Agent 协同的组织者去解决复杂任务。”这是蔡明对于智舱 AI 应该如何办事的判断。\n为此，斑马智能推出了智舱 AI 协作服务解决方案 Auto Claw，其核心能力也是两个板块：负责前台任务的智能协作中枢和指向后台管理的专属自治虾塘。据悉，早在去年的云栖大会上，斑马智能就提出了元神 AI 会覆盖规划迭代型的场景，要做的就是这几个月火的“龙虾”干的事情。\n“去年 9 月我们就已经开始做相关产品的研发准备。这次‘龙虾’火了，对我们来说其实挺不约而同的，也再次证明了我们对技术趋势判断是对的。”蔡明称。\n那么，AutoClaw 能做到什么？据介绍，其通过端云一体中枢系统连接全车，用 Harness 理念重塑服务组织，驱动出行生活、影音娱乐、用车服务等 SuperAgent 协同工作。现场演示案例显示，如果今晚想约几个朋友吃饭，AutoClaw 会边确认时间、边订餐厅、边调整安排，将不确定性的需求转化为主动性的服务。\n也就是说，从任务上来讲，它是动态规划的，有非常强的灵活性；从流程上，它不断的获取外界信息，可以动态调整流程。蔡明谈到，AutoClaw 跃迁成为一个办事能手后，需要有一个与之相匹配的 Agent 运行环境，让它可以好用、快用、易用。为此，斑马智能为其专门准备了一套全时段、自治的和跨终端的运行系统。\n值得一提的是，当 AI 真正开始“办事”，面临的问题也随之变得现实起来。蔡明在现场点出了两个最核心的挑战，一是 Token 的海量消耗，二是权限滥用。据悉，斑马智能在 AutoClaw 的运转体系里加上了针对性的管控机制。\n在 Token 消耗合理化方面，他们干了三件事。第一，在做大量智能体开发的成功经验基础上，让 SKU 调用时任务信息压缩做到极致。信息任务被压缩，消耗的 Token 就会少。第二，在整个规划运行流程里加入反思和运行机制，让 AI 任务链不会因为逻辑卡死。卡死以后变成死循环，也会不停地消耗。第三是独立的 Token 管理，保证 Token 被全方位被管控。\n对于权限滥用，斑马智能上的第一个标准动作是，用独立的空间加上沙箱，给用户做一个专属的安全环境。除此以外，他们将账号与服务数据封装在 seal 里面，与模型本身做硬隔离，避免因模型幻觉而导致的信息泄露。\n“有了 Auto Omni 和人的感同身受，再加上 AutoClaw 的复杂办事能力，元神 AI 就能升级成汽车机器人大脑。”蔡明总结道。\n“智舱 AI 成为中国智造名片”，从高配变成基础能力\n“今年，AI 上车会从高配走向标配。”在 AI TECH DAY 现场，斑马智能 CTO 司罗给出了判断。在他看来，2026 年是智能座舱端 AI 技术发展的关键年份，端侧智舱 AI 首先会在旗舰车型和旗舰芯片上完成体验验证，同时会逐渐走向更加广泛的量产化车型，更加走向广泛的标配。\n也就是说，端侧 AI 将不再只是“高配标签”，而会成为定义下一代智能座舱的基础能力。“智舱 AI 成为中国智造的名片，技术领先欧美不是 1-2 年，而是 1-2 个代际。”司罗直言。\n按照斑马智能的节奏，端侧智舱 AI 将在这一年进入“规模化爆发期”。一个很直接的信号就是落地量：斑马智能已经拿下国内绝大部分端模型市场订单，并将在年内陆续量产交付。\n“这个事确实非常不容易。”司罗在现场特别提到，斑马已经形成了一套相对标准化的 Super Agent 开发范式。这套范式的核心不是单点能力提升，而是通过流程标准化，把“应用变 Agent”的路径工程化。结果是非常直接的：传统 App 进行 Agent 智能化改造的整体开发周期，可以缩短 50%以上。“通过这一能力的赋能，我们可以帮助更多的 APP 和优质互联网内容进入到车的环境，帮助 OEM 厂商丰富自己的座舱生态，提升用户的体验。”\n据介绍，斑马智能是很早就把互联网平台服务转化为原生 AI 服务的厂商。除了跟进本地生活服务上车外，他们还把拥车服务和听音乐、看视频、少儿、办公等十几个智能座舱的场景都充分地做了 Agent 化，并且接入了 System Agent 智能中枢中，实现了一键生态上车的体验。司罗表示，“这个时间点距离我们发布元神 AI 只有半年时间，所以半年时间我们构建了完整的 AI 机构以及丰富的 Agent 生态，速度非常快。”\n“谁能率先把 AI 做成可量产、可交付、可持续迭代的系统能力，谁就更有机会拿到下一阶段产业红利。”",
-    "content_source": "trafilatura",
-    "content_chars": 3301,
-    "content_excerpt": "作者 | 华卫\n几天前，宇树科技创始人王兴兴坐进了宝马刚刚全球首发的新世代 i3，并亲自体验了其最新一代智能座舱。这更像一场临时起意的特别“面试”：他在对话中不断抛出复杂需求与路线规划，都被妥善解决且整个交互过程流畅自然，王兴兴频频称赞。\n据了解，这套座舱背后搭载的核心技术，来自斑马智能的“元神 AI”。“经过两年多的深耕，我们现在已经成为中国市场智舱 AI 的 No.1，现在我们服务的车厂数是两年前的三倍多。”以这一姿态发声的斑马智能背后，是其不到两年时间快速建立起来并不断进化的全栈智舱 AI 技术体系，合作车企扩展至近 20 家主流品牌，包括大众、宝马、智己汽车、东风汽车、红旗、比亚迪等。\n在前不久的 AI TECH DAY 上，斑马智能又新发布了“元神 AI 汽车机器人大脑”，同时推出 AutoOmni 全模态端模型产品矩阵与“龙虾上车”方案 AutoClaw，构成所谓的“一脑双引擎”升级。这不只是一轮产品迭代，更像在做一次预判：汽车正在从功能的集合机器，变成一个可以持续进化、还能主动协作的的智能体系统。\n“我们是一家 AI 公司，定位就是做最强的机器人大脑。”现场，斑马智能首席产品官蔡明强调了将公司名字从斑马智行改成斑马智能的出发点。而在他看来，“车一定会成为最早 Robot 化的智能终端，成为最早的机器人。”\n这次，斑马智能对“元神 AI”的升级，浓缩成两个非常明确的方向：交流和办事。基于这两个核心引擎，现在的元神 AI 不止提供优质的模型，还建立了优秀的模型协作系统。\n“好的智舱 AI 就是能和人顺畅交流，还能协作把事办了。”蔡明对智舱 AI 的判断是，No touch No APP。在他看来，如果 AI 做得好，人与车之间的交互就不该靠触摸屏，办事也不应该再回到 APP 里。\n“端侧模型是必选项”，升级 Auto Omni 为产品矩阵\n在交流侧，斑马智能给出的答案是全模态端侧大模型实车方案 AutoOmni。其大脑由阿里云通义提供，Qwen-Omni 全模态大模型为 Auto Omni 提供了强大的基础模型能力；高通第五代骁龙汽车座舱平台 SA8397P 以高达 320 TOPS 的 AI 算力，支持其在车内流畅运行。\n“如果一个 AI 始终不能看、不能听、不能记忆，它就不能再继续进化了。”蔡明表示，正因如此，端侧模型在斑马智能的体系里，不再是“优化项”，而是“必选项”。只有当感知、理解和记忆发生在本地，AI 才有可能形成连续性的体验，而不是一次次被打断的对话。"
+    "collected_at": "2026-04-30T13:31:20.861600",
+    "content_text": "近日，\n北京中关村学院信息智能团队自主研发的智能体系统\nMilkyway，\n在 FutureX 评测中凭借 60.9 分登全球榜首\n。\nFutureX 是专门考验“AI 预言能力”的国际动态评测基准，由字节跳动、斯坦福、复旦、普林斯顿大学等顶尖学术机构团队联合发起，在 HuggingFace 上公开数据集，用\n尚未揭晓的真实事件考验 AI 预测能力\n——地缘博弈、政策走向、经济波动，答案由现实裁定，没有模糊空间。\n首期冠军是埃隆·马斯克公司\n（Elon Musk）\n旗下的 Grok4\n，马斯克本人曾在社交媒体公开表示：“预测未来的能力，是对模型智能性最好的测试”。\n本期 Grok4 得分 25.9，而\nMilkyway 凭借 60.9 分登顶\n——超出一倍有余。\n2025 年 9 月，埃隆·马斯克公开表示：“预测未来的能力，是对模型智能性最好的测试。”\n近期，越来越多重量级玩家看到了“AI 预测未来”这一方向的价值。Thinking Machines 于 3 月 19 日发布技术博客，展示了用强化学习微调 120B 开源模型做事件预测的方案——以真实世界结果作为 reward 信号训练，微调后的模型性能追平 frontier LLM，并能与之形成互补。陈天桥近期宣布组建的 MiroMind 则推出 235B 参数的 MiroThinker 推理模型，采用双层验证器架构实时审核推理步骤与逻辑一致性，配合 DAG 推理协议支持分支探索和动态重规划。\n预测未来为什么重要？\n系统需要从全球碎片化的蛛丝马迹中搜寻信号，自主推论，甚至构建模拟。真实世界提供真实反馈，对错由现实裁定，形成持续进化的闭环。能做到这一点，意味着对世界运转规律的理解达到了新深度——这是 AI 智能性实现跃迁的重要方向。Milkyway 的突破不仅靠模型本身，更靠我们在 harness 层的深度攻关——让系统具备跨长周期持续工作、多智能体协作、自我评估与迭代修正的能力，从而能持续跟踪事件演化、动态修正判断。以实例说明，OpenAI 原生模型在该榜单上最高排第九，说明模型之上的智能体系统层同样决定成败。后续，北京中关村学院将持续发布系列相关工作。\nMilkyway 由北京中关村学院“AI 核心”学部大模型方向的郑书新副教授带领信息智能团队研发，团队聚焦下一代 AI 核心能力的探索与突破。这一突破背后，是一支充满无限热情与探索精神的团队。团队招募中，期待同行人。",
+    "content_source": "readability",
+    "content_chars": 1027,
+    "content_excerpt": "近日，\n北京中关村学院信息智能团队自主研发的智能体系统\nMilkyway，\n在 FutureX 评测中凭借 60.9 分登全球榜首\n。\nFutureX 是专门考验“AI 预言能力”的国际动态评测基准，由字节跳动、斯坦福、复旦、普林斯顿大学等顶尖学术机构团队联合发起，在 HuggingFace 上公开数据集，用\n尚未揭晓的真实事件考验 AI 预测能力\n——地缘博弈、政策走向、经济波动，答案由现实裁定，没有模糊空间。\n首期冠军是埃隆·马斯克公司\n（Elon Musk）"
   },
   {
     "id": "fa5627bfa51b",
@@ -169,6 +224,21 @@
     "title_zh": "在批评 Anthropic 限制神话之后，OpenAI 也限制了对网络的访问",
     "summary_zh": "OpenAI 将开始推出其网络安全测试工具 GPT-5.5 Cyber​​，首先仅“向关键的网络防御者”推出",
     "ai_summary": "OpenAI 将开始推出其网络安全测试工具 GPT-5.5 Cyber​​，首先仅“向关键的网络防御者”推出"
+  },
+  {
+    "id": "54a3c14828be",
+    "title": "王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞",
+    "url": "https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-04-30T19:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-30T13:31:20.861635",
+    "content_text": "作者 | 华卫\n几天前，宇树科技创始人王兴兴坐进了宝马刚刚全球首发的新世代 i3，并亲自体验了其最新一代智能座舱。这更像一场临时起意的特别“面试”：他在对话中不断抛出复杂需求与路线规划，都被妥善解决且整个交互过程流畅自然，王兴兴频频称赞。\n据了解，这套座舱背后搭载的核心技术，来自斑马智能的“元神 AI”。“经过两年多的深耕，我们现在已经成为中国市场智舱 AI 的 No.1，现在我们服务的车厂数是两年前的三倍多。”以这一姿态发声的斑马智能背后，是其不到两年时间快速建立起来并不断进化的全栈智舱 AI 技术体系，合作车企扩展至近 20 家主流品牌，包括大众、宝马、智己汽车、东风汽车、红旗、比亚迪等。\n在前不久的 AI TECH DAY 上，斑马智能又新发布了“元神 AI 汽车机器人大脑”，同时推出 AutoOmni 全模态端模型产品矩阵与“龙虾上车”方案 AutoClaw，构成所谓的“一脑双引擎”升级。这不只是一轮产品迭代，更像在做一次预判：汽车正在从功能的集合机器，变成一个可以持续进化、还能主动协作的的智能体系统。\n“我们是一家 AI 公司，定位就是做最强的机器人大脑。”现场，斑马智能首席产品官蔡明强调了将公司名字从斑马智行改成斑马智能的出发点。而在他看来，“车一定会成为最早 Robot 化的智能终端，成为最早的机器人。”\n这次，斑马智能对“元神 AI”的升级，浓缩成两个非常明确的方向：交流和办事。基于这两个核心引擎，现在的元神 AI 不止提供优质的模型，还建立了优秀的模型协作系统。\n“好的智舱 AI 就是能和人顺畅交流，还能协作把事办了。”蔡明对智舱 AI 的判断是，No touch No APP。在他看来，如果 AI 做得好，人与车之间的交互就不该靠触摸屏，办事也不应该再回到 APP 里。\n“端侧模型是必选项”，升级 Auto Omni 为产品矩阵\n在交流侧，斑马智能给出的答案是全模态端侧大模型实车方案 AutoOmni。其大脑由阿里云通义提供，Qwen-Omni 全模态大模型为 Auto Omni 提供了强大的基础模型能力；高通第五代骁龙汽车座舱平台 SA8397P 以高达 320 TOPS 的 AI 算力，支持其在车内流畅运行。\n“如果一个 AI 始终不能看、不能听、不能记忆，它就不能再继续进化了。”蔡明表示，正因如此，端侧模型在斑马智能的体系里，不再是“优化项”，而是“必选项”。只有当感知、理解和记忆发生在本地，AI 才有可能形成连续性的体验，而不是一次次被打断的对话。\n基于这一逻辑，他在现场宣布，Auto Omni 将从单一的技术产品升级为一个完整的产品矩阵。据介绍，Auto Omni 提供类人自然交互和全域主动智能，包含两个核心产品板块：端智能交互中枢和生成式场景引擎。\n总的来说，Auto Omni 让车“竖起了耳朵，睁开了眼睛”。有了全面和丰富的记忆，让最开始像本能一样的那些单一功能出现得更合理、舒适，甚至是自动发生的，其跟人的关系也变成一种更有温度的相处。\n此外，AutoOmni 产品矩阵支持 Qwen 3.5 Omni 以及 MoE 架构等不同基础模型，并广泛适配国内外主流大算力芯片。蔡明透露，当前 Auto Omni 主要支撑智能车、车机器人的演进和迭代，未来也一定会拓展到其他的智能端。\n去年 9 月已启动“龙虾”类产品，全方位管控 Token\n“好的 AI 办事不能靠 APP，靠什么？靠 Agent。而 Agent 多了，就一定需要一个跨 Agent 协同的组织者去解决复杂任务。”这是蔡明对于智舱 AI 应该如何办事的判断。\n为此，斑马智能推出了智舱 AI 协作服务解决方案 Auto Claw，其核心能力也是两个板块：负责前台任务的智能协作中枢和指向后台管理的专属自治虾塘。据悉，早在去年的云栖大会上，斑马智能就提出了元神 AI 会覆盖规划迭代型的场景，要做的就是这几个月火的“龙虾”干的事情。\n“去年 9 月我们就已经开始做相关产品的研发准备。这次‘龙虾’火了，对我们来说其实挺不约而同的，也再次证明了我们对技术趋势判断是对的。”蔡明称。\n那么，AutoClaw 能做到什么？据介绍，其通过端云一体中枢系统连接全车，用 Harness 理念重塑服务组织，驱动出行生活、影音娱乐、用车服务等 SuperAgent 协同工作。现场演示案例显示，如果今晚想约几个朋友吃饭，AutoClaw 会边确认时间、边订餐厅、边调整安排，将不确定性的需求转化为主动性的服务。\n也就是说，从任务上来讲，它是动态规划的，有非常强的灵活性；从流程上，它不断的获取外界信息，可以动态调整流程。蔡明谈到，AutoClaw 跃迁成为一个办事能手后，需要有一个与之相匹配的 Agent 运行环境，让它可以好用、快用、易用。为此，斑马智能为其专门准备了一套全时段、自治的和跨终端的运行系统。\n值得一提的是，当 AI 真正开始“办事”，面临的问题也随之变得现实起来。蔡明在现场点出了两个最核心的挑战，一是 Token 的海量消耗，二是权限滥用。据悉，斑马智能在 AutoClaw 的运转体系里加上了针对性的管控机制。\n在 Token 消耗合理化方面，他们干了三件事。第一，在做大量智能体开发的成功经验基础上，让 SKU 调用时任务信息压缩做到极致。信息任务被压缩，消耗的 Token 就会少。第二，在整个规划运行流程里加入反思和运行机制，让 AI 任务链不会因为逻辑卡死。卡死以后变成死循环，也会不停地消耗。第三是独立的 Token 管理，保证 Token 被全方位被管控。\n对于权限滥用，斑马智能上的第一个标准动作是，用独立的空间加上沙箱，给用户做一个专属的安全环境。除此以外，他们将账号与服务数据封装在 seal 里面，与模型本身做硬隔离，避免因模型幻觉而导致的信息泄露。\n“有了 Auto Omni 和人的感同身受，再加上 AutoClaw 的复杂办事能力，元神 AI 就能升级成汽车机器人大脑。”蔡明总结道。\n“智舱 AI 成为中国智造名片”，从高配变成基础能力\n“今年，AI 上车会从高配走向标配。”在 AI TECH DAY 现场，斑马智能 CTO 司罗给出了判断。在他看来，2026 年是智能座舱端 AI 技术发展的关键年份，端侧智舱 AI 首先会在旗舰车型和旗舰芯片上完成体验验证，同时会逐渐走向更加广泛的量产化车型，更加走向广泛的标配。\n也就是说，端侧 AI 将不再只是“高配标签”，而会成为定义下一代智能座舱的基础能力。“智舱 AI 成为中国智造的名片，技术领先欧美不是 1-2 年，而是 1-2 个代际。”司罗直言。\n按照斑马智能的节奏，端侧智舱 AI 将在这一年进入“规模化爆发期”。一个很直接的信号就是落地量：斑马智能已经拿下国内绝大部分端模型市场订单，并将在年内陆续量产交付。\n“这个事确实非常不容易。”司罗在现场特别提到，斑马已经形成了一套相对标准化的 Super Agent 开发范式。这套范式的核心不是单点能力提升，而是通过流程标准化，把“应用变 Agent”的路径工程化。结果是非常直接的：传统 App 进行 Agent 智能化改造的整体开发周期，可以缩短 50%以上。“通过这一能力的赋能，我们可以帮助更多的 APP 和优质互联网内容进入到车的环境，帮助 OEM 厂商丰富自己的座舱生态，提升用户的体验。”\n据介绍，斑马智能是很早就把互联网平台服务转化为原生 AI 服务的厂商。除了跟进本地生活服务上车外，他们还把拥车服务和听音乐、看视频、少儿、办公等十几个智能座舱的场景都充分地做了 Agent 化，并且接入了 System Agent 智能中枢中，实现了一键生态上车的体验。司罗表示，“这个时间点距离我们发布元神 AI 只有半年时间，所以半年时间我们构建了完整的 AI 机构以及丰富的 Agent 生态，速度非常快。”\n“谁能率先把 AI 做成可量产、可交付、可持续迭代的系统能力，谁就更有机会拿到下一阶段产业红利。”",
+    "content_source": "trafilatura",
+    "content_chars": 3301,
+    "content_excerpt": "作者 | 华卫\n几天前，宇树科技创始人王兴兴坐进了宝马刚刚全球首发的新世代 i3，并亲自体验了其最新一代智能座舱。这更像一场临时起意的特别“面试”：他在对话中不断抛出复杂需求与路线规划，都被妥善解决且整个交互过程流畅自然，王兴兴频频称赞。\n据了解，这套座舱背后搭载的核心技术，来自斑马智能的“元神 AI”。“经过两年多的深耕，我们现在已经成为中国市场智舱 AI 的 No.1，现在我们服务的车厂数是两年前的三倍多。”以这一姿态发声的斑马智能背后，是其不到两年时间快速建立起来并不断进化的全栈智舱 AI 技术体系，合作车企扩展至近 20 家主流品牌，包括大众、宝马、智己汽车、东风汽车、红旗、比亚迪等。\n在前不久的 AI TECH DAY 上，斑马智能又新发布了“元神 AI 汽车机器人大脑”，同时推出 AutoOmni 全模态端模型产品矩阵与“龙虾上车”方案 AutoClaw，构成所谓的“一脑双引擎”升级。这不只是一轮产品迭代，更像在做一次预判：汽车正在从功能的集合机器，变成一个可以持续进化、还能主动协作的的智能体系统。\n“我们是一家 AI 公司，定位就是做最强的机器人大脑。”现场，斑马智能首席产品官蔡明强调了将公司名字从斑马智行改成斑马智能的出发点。而在他看来，“车一定会成为最早 Robot 化的智能终端，成为最早的机器人。”\n这次，斑马智能对“元神 AI”的升级，浓缩成两个非常明确的方向：交流和办事。基于这两个核心引擎，现在的元神 AI 不止提供优质的模型，还建立了优秀的模型协作系统。\n“好的智舱 AI 就是能和人顺畅交流，还能协作把事办了。”蔡明对智舱 AI 的判断是，No touch No APP。在他看来，如果 AI 做得好，人与车之间的交互就不该靠触摸屏，办事也不应该再回到 APP 里。\n“端侧模型是必选项”，升级 Auto Omni 为产品矩阵\n在交流侧，斑马智能给出的答案是全模态端侧大模型实车方案 AutoOmni。其大脑由阿里云通义提供，Qwen-Omni 全模态大模型为 Auto Omni 提供了强大的基础模型能力；高通第五代骁龙汽车座舱平台 SA8397P 以高达 320 TOPS 的 AI 算力，支持其在车内流畅运行。\n“如果一个 AI 始终不能看、不能听、不能记忆，它就不能再继续进化了。”蔡明表示，正因如此，端侧模型在斑马智能的体系里，不再是“优化项”，而是“必选项”。只有当感知、理解和记忆发生在本地，AI 才有可能形成连续性的体验，而不是一次次被打断的对话。"
   },
   {
     "id": "3d55333608bd",
@@ -456,6 +526,16 @@
     "ai_summary": "我目前戴着一副名为 Even Realities G2 的智能眼镜。另外两双来自 Rokid，放在我的桌子上。几英尺外…"
   },
   {
+    "id": "v2ex-1209761",
+    "title": "很多人把 Claude 读成 cloud",
+    "url": "https://www.v2ex.com/t/1209761",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-04-30T14:27:35",
+    "summary": "这两个词的读音还是有区别的，但是我看到很多的自媒体大部分都是 cloud 的读音",
+    "collected_at": "2026-05-01T08:06:06.343342"
+  },
+  {
     "id": "cd8e351aa4a7",
     "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
     "url": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article",
@@ -608,7 +688,11 @@
     "lang": "zh",
     "published": "2026-04-30T11:31:58",
     "summary": "新人一个，还没用过 Claude ，之前有听说过它的恶名，但今天有需求，所以还是上去充了钱。 结果！刚充完，它就把我踢下线了！我去！你拿钱的时候怎么不要求地域限制呢！ 之后就再也登不上去了。。。 早上同事才在群里分享了一个新闻，说是美国有家做农业的公司，其中一个账号可能违规了，结果第二天一上班，整个团队的账号全部黑了，里面的东西直接没了，打电话也没人接。关键是，账号虽然没了，但消耗还继续，账户一直在扣钱！ 不得不说这个吃相实在是太难看了。 现在很多公司都依赖 AI 干活吧，但 AI 公司也是越来越横行霸道了，说封禁你就封禁你，连声招呼也不打，里面多少公司的资产说没就没了，万一连个备份都没有，那",
-    "collected_at": "2026-05-01T02:19:35.205685"
+    "collected_at": "2026-05-01T02:19:35.205685",
+    "content_text": "新人一个，还没用过 Claude ，之前有听说过它的恶名，但今天有需求，所以还是上去充了钱。\n结果！刚充完，它就把我踢下线了！我去！你拿钱的时候怎么不要求地域限制呢！\n之后就再也登不上去了。。。\n早上同事才在群里分享了一个新闻，说是美国有家做农业的公司，其中一个账号可能违规了，结果第二天一上班，整个团队的账号全部黑了，里面的东西直接没了，打电话也没人接。关键是，账号虽然没了，但消耗还继续，账户一直在扣钱！\n不得不说这个吃相实在是太难看了。\n现在很多公司都依赖 AI 干活吧，但 AI 公司也是越来越横行霸道了，说封禁你就封禁你，连声招呼也不打，里面多少公司的资产说没就没了，万一连个备份都没有，那损失真是亏麻了。\n而且还搞连坐制度，一人违规全司封号，没有预警没有提醒，你根本不知道是哪里出问题。\n真是太绝了，大家还是要保护好自己的数字资产啊。AI 使用安全也是安全问题。\nAnthropic 一生黑！",
+    "content_source": "trafilatura",
+    "content_chars": 402,
+    "content_excerpt": "新人一个，还没用过 Claude ，之前有听说过它的恶名，但今天有需求，所以还是上去充了钱。\n结果！刚充完，它就把我踢下线了！我去！你拿钱的时候怎么不要求地域限制呢！\n之后就再也登不上去了。。。\n早上同事才在群里分享了一个新闻，说是美国有家做农业的公司，其中一个账号可能违规了，结果第二天一上班，整个团队的账号全部黑了，里面的东西直接没了，打电话也没人接。关键是，账号虽然没了，但消耗还继续，账户一直在扣钱！\n不得不说这个吃相实在是太难看了。\n现在很多公司都依赖 AI 干活吧，但 AI 公司也是越来越横行霸道了，说封禁你就封禁你，连声招呼也不打，里面多少公司的资产说没就没了，万一连个备份都没有，那损失真是亏麻了。\n而且还搞连坐制度，一人违规全司封号，没有预警没有提醒，你根本不知道是哪里出问题。\n真是太绝了，大家还是要保护好自己的数字资产啊。AI 使用安全也是安全问题。\nAnthropic 一生黑！"
   },
   {
     "id": "d1785dcca716",
@@ -780,6 +864,20 @@
     "content_source": "trafilatura",
     "content_chars": 1921,
     "content_excerpt": "大公司：\n联发科一季度毛利率为46.3%，同比下滑1.8个百分点\n4月30日，联发科举行法说会并公布2026年第一季度财报，单季每股盈余（EPS）为新台币15.17元，环比增加5.6%、同比减少17.4%；合并营收为新台币1491.51亿元，环比减少0.7%、同比减少2.7%；毛利率为46.3%，环比增加0.2个百分点，同比下滑1.8个百分点。公司表示，毛利率季增主要受惠产品组合优化，年减则反映部分产品毛利结构调整。（界面）\n阿里云域名产品将于5月12日调价\n36氪获悉，阿里云发布阿里云域名产品调价通知：因域名上游注册局成本上调，经慎重考虑，现决定于2026年5月12日零时，将域名调整为以下价格。.icu、.cyou、.bond 续费价格调整为125元/年，转入价格调整为125元。同时.我爱你后缀因优惠活动结束，注册、续费、转入价格均会恢复至175元。\n友达第一季度营收690.3亿元台币，预估675.9亿元台币\n友达第一季度营收690.3亿元台币，预估675.9亿元台币；净亏损11.4亿元台币；每股亏损0.15元台币，预估每股亏损0.04元台币。（财联社）\n小红书发内部信：加大AI投入，柯南出任总裁\n36氪获悉，4月30日，小红书发全员内部信，宣布新一轮组织升级，将全面整合社区、电商、商业化三大业务及公司技术体系，提升核心业务的整体经营能力，并成立AI一级部门Dots和企业智能部，从产品技术和组织两方面加大对AI的投入。柯南将作为总裁整合三大业务及公司技术体系，全面负责公司核心业务经营，向CEO星矢汇报。\n特斯拉：电动卡车Semi进入量产新阶段"
+  },
+  {
+    "id": "v2ex-1209687",
+    "title": "最近推特上掀翻天的 ChatGPT 代充骗局揭秘文章疑似抄袭我去年 10 月份在 v 站和我的 github 上写的文章",
+    "url": "https://www.v2ex.com/t/1209687",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-04-30T08:25:27",
+    "summary": "GitHub 文章： https://github.com/walter1297/ChatGPTSub v 站文章： https://www.v2ex.com/t/1164579#reply1 看到好几篇很火的文章里把 ChatGPT 补单端点都抄的和我一样了，也不知道为什么火的是推特大 v 博主 kai 而不是我。 网上流传的文章把 GPT 卡密充值讲究成土区 80 块钱成本获取订阅凭据后无限重放，所以有那么多低价会员，实际上低价会员是因为 openai 各个渠道的首月免费试用，说无限重放的人不是蠢就是坏，为了流量不讲逻辑闭环，然后割韭菜。 我最近又研究了下 ChatGPT 自动充值项目，补",
+    "collected_at": "2026-05-01T08:06:06.343592",
+    "content_text": "GitHub 文章：\nhttps://github.com/walter1297/ChatGPTSub\nv 站文章：\nhttps://www.v2ex.com/t/1164579#reply1\n看到好几篇很火的文章里把 ChatGPT 补单端点都抄的和我一样了，也不知道为什么火的是推特大 v 博主 kai 而不是我。\n网上流传的文章把 GPT 卡密充值讲究成土区 80 块钱成本获取订阅凭据后无限重放，所以有那么多低价会员，实际上低价会员是因为 openai 各个渠道的首月免费试用，说无限重放的人不是蠢就是坏，为了流量不讲逻辑闭环，然后割韭菜。\n我最近又研究了下 ChatGPT 自动充值项目，补单端点实际上是\napi.revenuecat.com/v1/subscribe\n推特上那帮人拿我最先公开的文章做 ChatGPT 代充盘，招代理，我看到一个代理费要 1500 ，代理费拿货价比我拿货价还要贵一倍，吃相太难看了，估计这帮推特做盘的都赚了几百万了。\n我自己这半年也一直在做 ChatGPT 代充服务，我的网站： https://ipinpin.store\n我说了，我的服务对象是不想折腾 App Store 和 play 商店也不想折腾虚拟信用卡的人，或者是实在搞不懂跨区支付的小白，我提供服务，赚合理利润你们也别骂我。",
+    "content_source": "readability",
+    "content_chars": 566,
+    "content_excerpt": "GitHub 文章：\nhttps://github.com/walter1297/ChatGPTSub\nv 站文章：\nhttps://www.v2ex.com/t/1164579#reply1\n看到好几篇很火的文章里把 ChatGPT 补单端点都抄的和我一样了，也不知道为什么火的是推特大 v 博主 kai 而不是我。\n网上流传的文章把 GPT 卡密充值讲究成土区 80 块钱成本获取订阅凭据后无限重放，所以有那么多低价会员，实际上低价会员是因为 openai 各个渠道的首月免费试用，说无限重放的人不是蠢就是坏，为了流量不讲逻辑闭环，然后割韭菜。\n我最近又研究了下 ChatGPT 自动充值项目，补单端点实际上是\napi.revenuecat.com/v1/subscribe\n推特上那帮人拿我最先公开的文章做 ChatGPT 代充盘，招代理，我看到一个代理费要 1500 ，代理费拿货价比我拿货价还要贵一倍，吃相太难看了，估计这帮推特做盘的都赚了几百万了。\n我自己这半年也一直在做 ChatGPT 代充服务，我的网站： https://ipinpin.store"
   },
   {
     "id": "8f0306646f80",
@@ -1126,7 +1224,8 @@
     "collected_at": "2026-05-01T02:19:31.916428",
     "title_zh": "你的首席执行官患有人工智能精神病",
     "summary_zh": "文章网址：https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis 评论网址：https://news.ycombinator.com/item?id=47…",
-    "ai_summary": "文章网址：https://handyai.substack.com/p/your-ceo-is-suffering-fr…"
+    "ai_summary": "文章网址：https://handyai.substack.com/p/your-ceo-is-suffering-fr…",
+    "extract_error": "403 Client Error: Forbidden for url: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis"
   },
   {
     "id": "2fd0f913074f",
@@ -4580,105 +4679,6 @@
     "ai_summary": "在最近的一项实验中，Anthropic 创建了一个分类市场，其中人工智能代理代表买家和卖家，为真实商品和真实货币达成真实…"
   },
   {
-    "id": "a10d9846a6d3",
-    "title": "The AI industry is discovering that the public hates it",
-    "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-25T21:11:11",
-    "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 270 # Comments: 359",
-    "collected_at": "2026-04-27T10:11:22.260151"
-  },
-  {
-    "id": "dcebb3f5f887",
-    "title": "Maine’s governor vetoes data center moratorium",
-    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-25T20:57:08",
-    "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-    "collected_at": "2026-04-27T10:11:16.778961"
-  },
-  {
-    "id": "reddit-1svitaf",
-    "title": "Palantir employees are talking about company's \"descent into fascism\". Slack messages, interviews with current and former works paint picture of company in turmoil.",
-    "url": "https://reddit.com/r/artificial/comments/1svitaf/palantir_employees_are_talking_about_companys/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-04-25T17:48:39",
-    "summary": "Palantir employees are talking about company's \"descent into fascism\". Slack messages, interviews wi",
-    "points": 705,
-    "collected_at": "2026-04-27T10:11:33.677699"
-  },
-  {
-    "id": "b2e84456bff3",
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-25T17:17:56",
-    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "collected_at": "2026-04-27T10:11:16.779039"
-  },
-  {
-    "id": "c27029211fcd",
-    "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
-    "url": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-25T16:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-27T10:11:28.079155"
-  },
-  {
-    "id": "2f0121649aa2",
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-25T16:00:00",
-    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "collected_at": "2026-04-27T10:11:16.779126"
-  },
-  {
-    "id": "9945f90092cd",
-    "title": "GPT‑5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-25T14:17:31",
-    "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 155 # Comments: 103",
-    "collected_at": "2026-04-27T10:11:22.260214"
-  },
-  {
-    "id": "44b8124a3e83",
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-25T15:03:00",
-    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "collected_at": "2026-04-27T10:11:16.779173"
-  },
-  {
-    "id": "2483b89aea6b",
-    "title": "Lambda Calculus Benchmark for AI",
-    "url": "https://victortaelin.github.io/lambench/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-25T11:16:23",
-    "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 142 # Comments: 43",
-    "collected_at": "2026-04-27T10:11:22.260256"
-  },
-  {
     "id": "hn-47679121",
     "title": "Project Glasswing: Securing critical software for the AI era",
     "url": "https://www.anthropic.com/glasswing",
@@ -4687,7 +4687,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-01T02:19:34.796950"
+    "collected_at": "2026-05-01T08:06:06.013565"
   },
   {
     "id": "hn-47363754",
@@ -4698,7 +4698,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-01T02:19:34.797063"
+    "collected_at": "2026-05-01T08:06:06.013647"
   },
   {
     "id": "hn-47340079",
@@ -4709,7 +4709,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-01T02:19:34.796684"
+    "collected_at": "2026-05-01T08:06:06.013389"
   },
   {
     "id": "hn-47225130",
@@ -4720,7 +4720,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-01T02:19:34.797112"
+    "collected_at": "2026-05-01T08:06:06.013679"
   },
   {
     "id": "hn-47136179",
@@ -4731,7 +4731,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-01T02:19:34.796805"
+    "collected_at": "2026-05-01T08:06:06.013472"
   },
   {
     "id": "hn-46990729",
@@ -4742,7 +4742,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-01T02:19:34.796767"
+    "collected_at": "2026-05-01T08:06:06.013448"
   },
   {
     "id": "hn-46574276",
@@ -4753,7 +4753,7 @@
     "published": "2026-01-11T10:26:18Z",
     "summary": "Don't fall into the anti-AI hype",
     "points": 1296,
-    "collected_at": "2026-05-01T02:19:34.797252"
+    "collected_at": "2026-05-01T08:06:06.013764"
   },
   {
     "id": "hn-45941596",
@@ -4764,7 +4764,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-01T02:19:34.797126"
+    "collected_at": "2026-05-01T08:06:06.013689"
   },
   {
     "id": "hn-45930151",
@@ -4775,7 +4775,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-01T02:19:34.797183"
+    "collected_at": "2026-05-01T08:06:06.013720"
   },
   {
     "id": "hn-45722069",
@@ -4786,7 +4786,7 @@
     "published": "2025-10-27T15:27:38Z",
     "summary": "It's insulting to read AI-generated blog posts",
     "points": 1300,
-    "collected_at": "2026-05-01T02:19:34.797239"
+    "collected_at": "2026-05-01T08:06:06.013755"
   },
   {
     "id": "hn-44972151",
@@ -4797,7 +4797,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-01T02:19:34.796887"
+    "collected_at": "2026-05-01T08:06:06.013524"
   },
   {
     "id": "hn-44396518",
@@ -4808,7 +4808,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-01T02:19:34.797027"
+    "collected_at": "2026-05-01T08:06:06.013622"
   },
   {
     "id": "hn-44314423",
@@ -4819,7 +4819,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-01T02:19:34.797077"
+    "collected_at": "2026-05-01T08:06:06.013656"
   },
   {
     "id": "hn-44163063",
@@ -4830,7 +4830,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-01T02:19:34.796738"
+    "collected_at": "2026-05-01T08:06:06.013430"
   },
   {
     "id": "hn-42910910",
@@ -4841,7 +4841,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-01T02:19:34.796902"
+    "collected_at": "2026-05-01T08:06:06.013533"
   },
   {
     "id": "hn-41392128",
@@ -4852,7 +4852,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-01T02:19:34.796823"
+    "collected_at": "2026-05-01T08:06:06.013484"
   },
   {
     "id": "hn-41386319",
@@ -4863,7 +4863,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-01T02:19:34.796839"
+    "collected_at": "2026-05-01T08:06:06.013494"
   },
   {
     "id": "hn-41069829",
@@ -4874,7 +4874,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-01T02:19:34.797199"
+    "collected_at": "2026-05-01T08:06:06.013730"
   },
   {
     "id": "hn-41046773",
@@ -4885,7 +4885,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-01T02:19:34.796724"
+    "collected_at": "2026-05-01T08:06:06.013420"
   },
   {
     "id": "hn-40767459",
@@ -4896,7 +4896,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-01T02:19:34.797215"
+    "collected_at": "2026-05-01T08:06:06.013740"
   },
   {
     "id": "hn-39918245",
@@ -4907,7 +4907,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-01T02:19:34.797141"
+    "collected_at": "2026-05-01T08:06:06.013699"
   },
   {
     "id": "hn-39526057",
@@ -4918,7 +4918,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-01T02:19:34.796708"
+    "collected_at": "2026-05-01T08:06:06.013409"
   },
   {
     "id": "hn-38544729",
@@ -4929,7 +4929,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-01T02:19:34.796780"
+    "collected_at": "2026-05-01T08:06:06.013457"
   },
   {
     "id": "hn-37021160",
@@ -4940,7 +4940,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-01T02:19:34.796917"
+    "collected_at": "2026-05-01T08:06:06.013543"
   },
   {
     "id": "hn-31812259",
@@ -4951,7 +4951,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-01T02:19:34.797092"
+    "collected_at": "2026-05-01T08:06:06.013666"
   },
   {
     "id": "hn-18249755",
@@ -4962,7 +4962,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-01T02:19:34.796870"
+    "collected_at": "2026-05-01T08:06:06.013514"
   },
   {
     "id": "hn-17022963",
@@ -4973,7 +4973,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-01T02:19:34.796857"
+    "collected_at": "2026-05-01T08:06:06.013505"
   },
   {
     "id": "hn-15892066",
@@ -4984,7 +4984,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-01T02:19:34.797048"
+    "collected_at": "2026-05-01T08:06:06.013637"
   },
   {
     "id": "hn-6830566",
@@ -4995,6 +4995,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-01T02:19:34.797154"
+    "collected_at": "2026-05-01T08:06:06.013707"
   }
 ]
