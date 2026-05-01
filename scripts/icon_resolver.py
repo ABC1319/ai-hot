@@ -46,6 +46,29 @@ PROVIDER_ICON_DOMAINS = {
     'runway': 'runwayml.com',
     'black-forest-labs': 'blackforestlabs.ai',
     'huggingface': 'huggingface.co',
+    'arcee-ai': 'arcee.ai',
+    'rekaai': 'reka.ai',
+    'liquid': 'liquid.ai',
+    'aion-labs': 'aionlabs.ai',
+    'allenai': 'allenai.org',
+    'relace': 'relace.ai',
+    'thedrummer': 'thedrummer.cc',
+    'nousresearch': 'nousresearch.com',
+    'morph': 'morphllm.com',
+    'cohere': 'cohere.com',
+    'microsoft': 'microsoft.com',
+    'sao10k': 'huggingface.co/Sao10K',
+    'inflection': 'inflection.ai',
+    'poolside': 'poolside.ai',
+    'baidu': 'yiyan.baidu.com',
+    'tencent': 'cloud.tencent.com',
+    'openrouter': 'openrouter.ai',
+    'together': 'together.ai',
+    'groq': 'groq.com',
+    'siliconflow': 'siliconflow.cn',
+    'volcengine': 'volcengine.com',
+    'aws-bedrock': 'aws.amazon.com',
+    'azure-openai': 'azure.microsoft.com',
 }
 
 NAME_ICON_DOMAINS = {
@@ -81,6 +104,15 @@ NAME_ICON_DOMAINS = {
     'nvidia': 'nvidia.com',
     'hugging face': 'huggingface.co',
     'huggingface': 'huggingface.co',
+    'baidu': 'yiyan.baidu.com',
+    'tencent': 'cloud.tencent.com',
+    'openrouter': 'openrouter.ai',
+    'together': 'together.ai',
+    'groq': 'groq.com',
+    'siliconflow': 'siliconflow.cn',
+    'volcengine': 'volcengine.com',
+    'aws bedrock': 'aws.amazon.com',
+    'azure openai': 'azure.microsoft.com',
 }
 
 BAD_ICON_PATTERNS = (
@@ -147,6 +179,18 @@ def resolve_icon(item: dict, kind: str) -> str:
     provider = item.get('provider') or item.get('author') or ''
     source = item.get('source') or ''
 
+    # Providers are curated records. Prefer an explicit brand/logo URL if present;
+    # otherwise resolve from the stable provider id/name before looking at a page URL.
+    if kind == 'provider':
+        for key in ('icon_url', 'logo_url', 'logo'):
+            value = str(item.get(key) or '').strip()
+            if value.startswith(('http://', 'https://')) and not is_bad_icon(value):
+                return value
+        pid = str(item.get('id') or '').lower()
+        domain = PROVIDER_ICON_DOMAINS.get(pid) or provider_domain_from_text(f'{name} {provider} {source}')
+        if domain:
+            return google_favicon(domain)
+
     # OpenRouter model -> provider brand icon, not OpenRouter.
     prefix = provider_prefix_from_openrouter_url(url)
     if prefix:
@@ -175,7 +219,15 @@ def resolve_icon(item: dict, kind: str) -> str:
     if host and host not in {'github.com', 'openrouter.ai'}:
         return google_favicon(host)
 
-    return google_favicon('aihot.bt199.com')
+    # Deliberately return an empty string instead of the site favicon. The quality
+    # gate treats missing icon_url as actionable, while aihot favicon fallback hides
+    # regressions on list pages.
+    return ''
+
+
+def is_bad_icon(icon: str) -> bool:
+    low = (icon or '').lower()
+    return any(p in low for p in BAD_ICON_PATTERNS) or 'aihot.bt199.com/favicon' in low
 
 
 def apply_to_file(path: Path, kind: str) -> int:
@@ -205,10 +257,11 @@ def sync_site_data(filename: str):
 
 def main():
     changed = 0
+    changed += apply_to_file(DATA / 'providers.json', 'provider')
     changed += apply_to_file(DATA / 'models_curated.json', 'model')
     changed += apply_to_file(DATA / 'tools.json', 'tool')
     changed += apply_to_file(DATA / 'agents.json', 'agent')
-    for name in ['models_curated.json', 'tools.json', 'agents.json']:
+    for name in ['providers.json', 'models_curated.json', 'tools.json', 'agents.json']:
         sync_site_data(name)
     print(f'resolved icon_url for {changed} entries')
 

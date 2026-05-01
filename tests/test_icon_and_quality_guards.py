@@ -23,6 +23,16 @@ class IconAndQualityGuardTests(unittest.TestCase):
         item = {'name': 'Example', 'url': 'https://github.com/owner/repo'}
         self.assertEqual(resolve_icon(item, 'tool'), 'https://github.com/owner.png?size=128')
 
+    def test_provider_uses_curated_provider_icon_not_url_fallback(self):
+        item = {'id': 'baidu', 'name': 'Baidu Qianfan', 'url': 'https://cloud.baidu.com/product/wenxinworkshop'}
+        icon = resolve_icon(item, 'provider')
+        self.assertIn('yiyan.baidu.com', icon)
+        self.assertNotIn('aihot.bt199.com/favicon', icon)
+
+    def test_unresolved_item_does_not_hide_regression_with_site_favicon(self):
+        item = {'name': 'Unknown Internal', 'url': 'https://example.invalid/no-brand'}
+        self.assertNotIn('aihot.bt199.com/favicon', resolve_icon(item, 'model'))
+
     def test_generate_curated_models_has_ling_and_real_icons_from_fixture_without_mutating_repo_data(self):
         fixture = {
             'data': [

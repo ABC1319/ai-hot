@@ -25,7 +25,8 @@
       "文本",
       "视频"
     ],
-    "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 MiMo-V2.5-Pro"
+    "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 MiMo-V2.5-Pro",
+    "icon_url": "https://www.google.com/s2/favicons?domain=xiaomimimo.com&sz=64"
   },
   {
     "id": "openai",
@@ -53,7 +54,8 @@
       "多模态"
     ],
     "live_summary": "OpenRouter 已收录 64 个该作者/厂商相关模型，最近更新为 GPT-5.5 Pro",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
   },
   {
     "id": "anthropic",
@@ -80,7 +82,8 @@
       "多模态"
     ],
     "live_summary": "OpenRouter 已收录 14 个该作者/厂商相关模型，最近更新为 Claude Opus 4.7",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },
   {
     "id": "google",
@@ -108,7 +111,8 @@
       "多模态"
     ],
     "live_summary": "OpenRouter 已收录 31 个该作者/厂商相关模型，最近更新为 Gemma 4 26B A4B (free)",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
   },
   {
     "id": "deepseek",
@@ -134,7 +138,8 @@
       "文本"
     ],
     "live_summary": "OpenRouter 已收录 13 个该作者/厂商相关模型，最近更新为 DeepSeek V4 Pro",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=64"
   },
   {
     "id": "alibaba",
@@ -161,7 +166,8 @@
       "文本"
     ],
     "live_summary": "OpenRouter 已收录 52 个该作者/厂商相关模型，最近更新为 Qwen3.5 Plus 2026-04-20",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=alibabacloud.com&sz=64"
   },
   {
     "id": "baidu",
@@ -187,7 +193,8 @@
       "文本"
     ],
     "live_summary": "OpenRouter 已收录 6 个该作者/厂商相关模型，最近更新为 Qianfan-OCR-Fast (free)",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=yiyan.baidu.com&sz=64"
   },
   {
     "id": "bytedance",
@@ -213,7 +220,8 @@
       "多模态"
     ],
     "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 Seed-2.0-Lite",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=seed.bytedance.com&sz=64"
   },
   {
     "id": "tencent",
@@ -237,7 +245,8 @@
       "文本"
     ],
     "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 Hy3 preview (free)",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=cloud.tencent.com&sz=64"
   },
   {
     "id": "moonshot",
@@ -263,7 +272,8 @@
       "文本"
     ],
     "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 Kimi K2.6",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=moonshot.cn&sz=64"
   },
   {
     "id": "zhipu",
@@ -290,7 +300,8 @@
       "视频"
     ],
     "live_summary": "OpenRouter 已收录 13 个该作者/厂商相关模型，最近更新为 GLM 5.1",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=z.ai&sz=64"
   },
   {
     "id": "minimax",
@@ -316,7 +327,8 @@
       "多模态"
     ],
     "live_summary": "OpenRouter 已收录 8 个该作者/厂商相关模型，最近更新为 MiniMax M2.7",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=minimax.io&sz=64"
   },
   {
     "id": "mistral",
@@ -344,7 +356,8 @@
       "音频"
     ],
     "live_summary": "OpenRouter 已收录 24 个该作者/厂商相关模型，最近更新为 Mistral Small 4",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=64"
   },
   {
     "id": "meta",
@@ -371,7 +384,8 @@
       "文本"
     ],
     "live_summary": "OpenRouter 已收录 14 个该作者/厂商相关模型，最近更新为 Llama Guard 4 12B",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ai.meta.com&sz=64"
   },
   {
     "id": "xai",
@@ -397,7 +411,8 @@
       "文本"
     ],
     "live_summary": "OpenRouter 已收录 11 个该作者/厂商相关模型，最近更新为 Grok 4.3",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=x.ai&sz=64"
   },
   {
     "id": "nvidia",
@@ -424,7 +439,8 @@
       "文本"
     ],
     "live_summary": "OpenRouter 已收录 11 个该作者/厂商相关模型，最近更新为 Nemotron 3 Nano Omni (free)",
-    "provider_kind": "model_author"
+    "provider_kind": "model_author",
+    "icon_url": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=64"
   },
   {
     "id": "arcee-ai",
@@ -449,7 +465,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=arcee.ai&sz=64"
   },
   {
     "id": "rekaai",
@@ -472,7 +489,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=reka.ai&sz=64"
   },
   {
     "id": "liquid",
@@ -497,7 +515,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=liquid.ai&sz=64"
   },
   {
     "id": "aion-labs",
@@ -522,7 +541,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aionlabs.ai&sz=64"
   },
   {
     "id": "allenai",
@@ -545,7 +565,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=allenai.org&sz=64"
   },
   {
     "id": "relace",
@@ -568,7 +589,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=relace.ai&sz=64"
   },
   {
     "id": "amazon",
@@ -593,7 +615,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64"
   },
   {
     "id": "perplexity",
@@ -618,7 +641,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64"
   },
   {
     "id": "thedrummer",
@@ -643,7 +667,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=thedrummer.cc&sz=64"
   },
   {
     "id": "nousresearch",
@@ -668,7 +693,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=nousresearch.com&sz=64"
   },
   {
     "id": "morph",
@@ -691,7 +717,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=morphllm.com&sz=64"
   },
   {
     "id": "cohere",
@@ -716,7 +743,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=cohere.com&sz=64"
   },
   {
     "id": "microsoft",
@@ -739,7 +767,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64"
   },
   {
     "id": "sao10k",
@@ -764,7 +793,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=huggingface.co/Sao10K&sz=64"
   },
   {
     "id": "inflection",
@@ -787,7 +817,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=inflection.ai&sz=64"
   },
   {
     "id": "inclusionai",
@@ -810,7 +841,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=inclusionai.com&sz=64"
   },
   {
     "id": "zenmux",
@@ -831,7 +863,8 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "站内手工维护，待补充实时模型索引",
-    "provider_kind": "manual"
+    "provider_kind": "manual",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zenmux.ai&sz=64"
   },
   {
     "id": "siliconflow",
@@ -852,7 +885,8 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "平台型提供商，展示的是接入能力与生态，不直接等同于某个模型作者",
-    "provider_kind": "platform"
+    "provider_kind": "platform",
+    "icon_url": "https://www.google.com/s2/favicons?domain=siliconflow.cn&sz=64"
   },
   {
     "id": "volcengine",
@@ -875,7 +909,8 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "平台型提供商，展示的是接入能力与生态，不直接等同于某个模型作者",
-    "provider_kind": "platform"
+    "provider_kind": "platform",
+    "icon_url": "https://www.google.com/s2/favicons?domain=volcengine.com&sz=64"
   },
   {
     "id": "aws-bedrock",
@@ -900,7 +935,8 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "平台型提供商，展示的是接入能力与生态，不直接等同于某个模型作者",
-    "provider_kind": "platform"
+    "provider_kind": "platform",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64"
   },
   {
     "id": "azure-openai",
@@ -923,7 +959,8 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "平台型提供商，展示的是接入能力与生态，不直接等同于某个模型作者",
-    "provider_kind": "platform"
+    "provider_kind": "platform",
+    "icon_url": "https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=64"
   },
   {
     "id": "openrouter",
@@ -944,7 +981,8 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "平台型提供商，展示的是接入能力与生态，不直接等同于某个模型作者",
-    "provider_kind": "platform"
+    "provider_kind": "platform",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64"
   },
   {
     "id": "together",
@@ -965,7 +1003,8 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "平台型提供商，展示的是接入能力与生态，不直接等同于某个模型作者",
-    "provider_kind": "platform"
+    "provider_kind": "platform",
+    "icon_url": "https://www.google.com/s2/favicons?domain=together.ai&sz=64"
   },
   {
     "id": "groq",
@@ -990,7 +1029,8 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "平台型提供商，展示的是接入能力与生态，不直接等同于某个模型作者",
-    "provider_kind": "platform"
+    "provider_kind": "platform",
+    "icon_url": "https://www.google.com/s2/favicons?domain=groq.com&sz=64"
   },
   {
     "id": "~anthropic",
@@ -1015,7 +1055,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },
   {
     "id": "~openai",
@@ -1038,7 +1079,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
   },
   {
     "id": "~google",
@@ -1061,7 +1103,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
   },
   {
     "id": "poolside",
@@ -1084,7 +1127,8 @@
     "model_count": 0,
     "last_updated": "",
     "modalities": [],
-    "live_summary": "站内手工维护，待补充实时模型索引"
+    "live_summary": "站内手工维护，待补充实时模型索引",
+    "icon_url": "https://www.google.com/s2/favicons?domain=poolside.ai&sz=64"
   },
   {
     "id": "ibm-granite",
@@ -1109,6 +1153,7 @@
     "modalities": [
       "文本"
     ],
-    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 IBM: Granite 4.1 8B"
+    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 IBM: Granite 4.1 8B",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64"
   }
 ]

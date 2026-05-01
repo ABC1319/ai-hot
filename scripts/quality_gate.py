@@ -19,6 +19,49 @@ def fail(msg):
     print('❌', msg)
     return 1
 
+BAD_ICON_SUBSTRINGS = (
+    'aihot.bt199.com/favicon',
+    'github.com/favicon',
+    'www.github.com/favicon',
+)
+
+
+def has_bad_icon(icon, *, allow_openrouter=False):
+    icon = str(icon or '').lower()
+    if not icon:
+        return False
+    if any(bad in icon for bad in BAD_ICON_SUBSTRINGS):
+        return True
+    if not allow_openrouter and 'openrouter.ai/favicon' in icon:
+        return True
+    return False
+
+
+def check_icon_url_records(errors, filename, *, allow_openrouter=False):
+    path = DATA / filename
+    if not path.exists():
+        errors.append(f'{filename} missing')
+        return []
+    data = json.loads(path.read_text(encoding='utf-8'))
+    records = data.get('items') if isinstance(data, dict) else data
+    records = records or []
+    missing_icon_url = []
+    bad_icons = []
+    for item in records:
+        label = item.get('name') or item.get('id')
+        icon_url = str(item.get('icon_url') or '')
+        icon = str(item.get('icon') or item.get('logo') or item.get('logo_url') or '')
+        if not icon_url:
+            missing_icon_url.append(label)
+        if has_bad_icon(icon_url, allow_openrouter=allow_openrouter) or has_bad_icon(icon, allow_openrouter=allow_openrouter):
+            bad_icons.append(label)
+    if missing_icon_url:
+        errors.append(f'{filename} missing icon_url: {missing_icon_url[:10]}')
+    if bad_icons:
+        errors.append(f'{filename} fake/generic icons: {bad_icons[:10]}')
+    return records
+
+
 def check_models_curated(errors):
     path = DATA / 'models_curated.json'
     if not path.exists():
@@ -42,15 +85,13 @@ def check_models_curated(errors):
     if stale_hits:
         errors.append(f'models contain superseded old versions: {stale_hits[:10]}')
 
-    bad_icons = []
+    model_bad_icons = []
     for x in items:
         icon = str(x.get('icon_url') or x.get('icon') or '')
-        if not icon:
-            bad_icons.append(x.get('name'))
-        elif 'openrouter.ai/favicon' in icon or 'github.com/favicon' in icon:
-            bad_icons.append(x.get('name'))
-    if bad_icons:
-        errors.append(f'models fake/missing icons: {bad_icons[:10]}')
+        if not icon or has_bad_icon(icon):
+            model_bad_icons.append(x.get('name'))
+    if model_bad_icons:
+        errors.append(f'models fake/missing icons: {model_bad_icons[:10]}')
 
     category_ids = [c.get('id') for c in data.get('categories') or []]
     expected = ['top', 'coding', 'multimodal', 'image', 'video', 'open', 'watch']
@@ -70,7 +111,12 @@ def main():
     errors=[]
     check_models_curated(errors)
 
-    agents=json.loads((DATA/'agents.json').read_text(encoding='utf-8'))
+    providers = check_icon_url_records(errors, 'providers.json', allow_openrouter=True)
+    if providers[:5] and not all(str(p.get('icon_url') or '').strip() for p in providers[:5]):
+        errors.append('providers first entries do not all expose icon_url')
+    check_icon_url_records(errors, 'models_curated.json')
+    check_icon_url_records(errors, 'tools.json')
+    agents = check_icon_url_records(errors, 'agents.json')
     missing=[a.get('name') for a in agents if not (a.get('icon') or a.get('logo') or a.get('emoji') or a.get('icon_url'))]
     if missing:
         errors.append(f'agents missing icons: {missing[:10]}')
@@ -82,27 +128,13 @@ def main():
     if english_agents:
         errors.append(f'agents descriptions not Chinese enough: {english_agents[:10]}')
 
-    for filename in ['tools.json', 'agents.json']:
-        records = json.loads((DATA / filename).read_text(encoding='utf-8'))
-        bad_icons = []
-        missing_icon_url = []
-        for item in records:
-            icon_url = str(item.get('icon_url') or '')
-            icon = str(item.get('icon') or item.get('logo') or '')
-            if not icon_url:
-                missing_icon_url.append(item.get('name') or item.get('id'))
-            if (icon_url and ('github.com/favicon' in icon_url or 'openrouter.ai/favicon' in icon_url)) or (icon and ('github.com/favicon' in icon or 'openrouter.ai/favicon' in icon)):
-                bad_icons.append(item.get('name') or item.get('id'))
-        if missing_icon_url:
-            errors.append(f'{filename} missing icon_url: {missing_icon_url[:10]}')
-        if bad_icons:
-            errors.append(f'{filename} fake icons: {bad_icons[:10]}')
-
     list_tpl = (ROOT / 'site' / 'layouts' / '_default' / 'list.html').read_text(encoding='utf-8')
     if 'https://www.google.com/s2/favicons?domain={{ $modelDomain }}' in list_tpl or 'https://www.google.com/s2/favicons?domain={{ $toolDomain }}' in list_tpl:
         errors.append('models/tools/agents templates still derive generic favicons from item URL instead of using icon_url')
     if '.icon_url' not in list_tpl:
         errors.append('list template does not render icon_url')
+    if 'aihot.bt199.com/favicon' in list_tpl or 'github.com/favicon' in list_tpl:
+        errors.append('list template contains forbidden favicon fallback')
 
     hot=json.loads((DATA/'hot.json').read_text(encoding='utf-8'))
     items=hot.get('top_20') or hot.get('items') or []

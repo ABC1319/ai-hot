@@ -307,8 +307,11 @@
             {{ range where site.Data.providers "provider_kind" "model_author" }}
             <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
                 <div class="tool-header">
-                    <img src="https://www.google.com/s2/favicons?domain={{ .url }}&sz=32" alt="" style="width:32px;height:32px;border-radius:6px" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-                    <div class="tool-icon" style="display:none">🏢</div>
+                    {{ $providerIcon := or .icon_url .logo_url .logo }}
+                    {{ if $providerIcon }}
+                    <img src="{{ $providerIcon }}" alt="" style="width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                    {{ end }}
+                    <div class="tool-icon" {{ if $providerIcon }}style="display:none"{{ end }}>🏢</div>
                     <div>
                         <div class="tool-name">{{ .name }}</div>
                         <div class="hot-meta" style="font-size:12px;margin-top:2px">{{ .type }}{{ if .last_updated }} · 最近上新 {{ .last_updated }}{{ end }}</div>
@@ -343,8 +346,11 @@
             {{ range where site.Data.providers "provider_kind" "platform" }}
             <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
                 <div class="tool-header">
-                    <img src="https://www.google.com/s2/favicons?domain={{ .url }}&sz=32" alt="" style="width:32px;height:32px;border-radius:6px" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-                    <div class="tool-icon" style="display:none">🏢</div>
+                    {{ $providerIcon := or .icon_url .logo_url .logo }}
+                    {{ if $providerIcon }}
+                    <img src="{{ $providerIcon }}" alt="" style="width:32px;height:32px;border-radius:6px;background:var(--bg3)" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+                    {{ end }}
+                    <div class="tool-icon" {{ if $providerIcon }}style="display:none"{{ end }}>🏢</div>
                     <div>
                         <div class="tool-name">{{ .name }}</div>
                         <div class="hot-meta" style="font-size:12px;margin-top:2px">{{ .type }} · 平台能力视角</div>
