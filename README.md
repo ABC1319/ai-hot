@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-02 20:59:43
+🕐 **最近更新**：2026-05-03 02:53:36
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,12 +16,12 @@
 
 ## 🔥 今日热点
 
-1. [Meta 收购机器人初创公司以增强其人形人工智能雄心](https://aihot.bt199.com/news/0809bbe44568/)
-   - 该公司表示，Meta 收购了人形初创公司 Assured Robot Intelligence，以增强其机器人人工智能模…
-   - `TechCrunch AI · 2026-05-01`
+1. [经过测试和排名的最佳人工智能听写应用程序](https://aihot.bt199.com/news/f620eec25f20/)
+   - 人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用
+   - `TechCrunch AI · 2026-05-02`
 
-2. [你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。](https://aihot.bt199.com/news/f15b72a01048/)
-   - 本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…
+2. [Meta 收购机器人初创公司以增强其人形人工智能雄心](https://aihot.bt199.com/news/0809bbe44568/)
+   - 该公司表示，Meta 收购了人形初创公司 Assured Robot Intelligence，以增强其机器人人工智能模…
    - `TechCrunch AI · 2026-05-01`
 
 3. [马斯克诉奥特曼第一周：埃隆·马斯克说他被骗了，警告人工智能可能会杀死我们所有人，并承认 xAI 提炼了 OpenAI 的模型](https://aihot.bt199.com/news/572f1821c4c2/)
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

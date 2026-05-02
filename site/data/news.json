@@ -1,5 +1,56 @@
 [
   {
+    "id": "f620eec25f20",
+    "title": "The best AI dictation apps, tested and ranked",
+    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-02T16:00:00",
+    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    "collected_at": "2026-05-02T18:52:06.126016",
+    "content_text": "AI dictation apps have come a long way in a short time. For years they were slow and inaccurate — unless you spoke with a particular accent and enunciated clearly.\nAdvances in large language models (LLMs) and speech-to-text models have changed that, producing systems that can decipher speech more accurately while retaining enough context to format the text correctly. Developers have also built in features to automatically remove filler words, fix stumbles, and handle punctuation — outputting text that needs far fewer edits.\nWith dozens of such apps now on the market, we’ve rounded up our picks for the best and most useful dictation apps available right now.\nWispr Flow\nWispr Flow\nis a well-funded AI dictation app that lets you add custom words and instructions for dictation. It has native apps for macOS, Windows, and iOS; an Android version is in the works.\nThe app lets you customize how it transcribes your text by choosing from “formal,” “casual,” and “very casual” styles for different kinds of writing, such as personal messaging, work, and email. And if you use it with vibe-coding tools like Cursor, you can turn on a feature to automatically recognize variables or tag files in the chat.\nThe app lets you transcribe up to 2,000 words per week for free on desktop, and 1,000 words per month on iOS. Paid subscription plans offer unlimited transcription and start at $15 per month.\nImage Credits:\nWispr Flow\nWillow\nWillow\nadvertises itself as a big time-saver for those who don’t like to type. Alongside common features like automatic editing and formatting, the app uses large language models to generate a full passage of text from just a few dictated words.\nWillow also takes a more privacy-focused approach by storing all transcripts locally on your device and lets you opt out of model training entirely. It also lets you add custom vocabulary to help it adapt to your industry’s terminology, or your local dialect.\nImage Credits:\nWillow\nWillow lets you dictate 2,000 words per month on its desktop app for free. Individual subscription plans start at $15 per month, unlocking unlimited dictation and enabling the app to remember your writing style.\nMonologue\nIf privacy if your priority,\nMonologue\nlets you download its AI model directly to your device for transcriptions, keeping your data off the cloud entirely. What’s more, the app lets you customize its tone depending on the app you use it with.\nMonologue lets you transcribe 1,000 words per month for free; a subscription costs $10 per month or $100 per year. The company also sends its most active users a physical shortcut device called the Monokey to use with the app.\nSuperwhisper\nSuperwhisper\nis primarily a dictation app, but it can also transcribe from audio or video files. The app lets you choose and download AI models, including several of its own at different speeds and accuracy levels, along with Nvidia’s Parakeet speech-recognition models.\nThe app also lets you write custom prompts to steer the output, and you can view both processed and unprocessed transcripts directly from your system keyboard.\nVIDEO\nThe basic voice-to-text feature is free to use, and you get 15 minutes to test Pro features such as translation and transcription. The paid tier lets you use your own AI API keys and connect cloud and local models without any usage caps.\nThe monthly plan costs $8.49 per month, the annual plan costs $84.99 per month, or you can pay $249.99 for a lifetime subscription.\nVoiceTypr\nThe\nVoiceTypr\napp takes an offline-first, no-subscription approach, letting you use local models for transcription. It also has a\nGitHub repository\nfor those who want to host and run the open source version themselves. VoiceTypr supports over 99 languages and works on both Mac and Windows.\nThe app is available to try for three days for free, and after that, it will allow you to buy a lifetime license. The app costs $35 for one device, $56 for two, and $98 for four devices.\nAqua\nAqua\nis a Y Combinator-backed voice-typing app for Windows and macOS that claims to be one of the fastest tools in the category in terms of latency (the delay between when you speak and when text appears on screen).\nBesides handling grammar and punctuation, Aqua also lets you autofill text by saying phrases — you can say “my address” and have Aqua type it in, for example.\nThe app also offers its own speech-to-text API, letting other apps plug into Aqua’s transcription engine.\nVIDEO\nThe free tier gets you 1,000 words per month. Paid plans start at $8 per month bill annually and unlock unlimited words and 800 custom dictionary values.\nHandy\nHandy\nis an open-source, free transcription tool that runs on Mac, Windows, and Linux. The app is pretty basic and doesn’t offer much customization, but if you want to start using your voice more and don’t want to pay, it is a good option.\nThe app has a basic settings menu that lets you toggle push-to-talk and change the hotkey to activate transcription.\nTypeless\nTypeless\nstands out for its high free word count. The company claims it doesn’t retain any data or use it to train AI models. Typeless also offers to rewrite sentences you may have fumbled.\nThe app lets you dictate up to 4,000 words per week (roughly 16,000 words per month) on its free tier. You can pay $12 per month (billed annually) to unlock unlimited words and get access to new features. Typeless is available for Windows and macOS only.\nVoiceInk\nVoiceInk\nis an\nopen-source\nprivate dictation app for Mac. The app supports global shortcuts for recording start/stop, along with a push-to-talk mode. It reads the context on screen and adjusts its output accordingly.\nThe app can automatically detect certain apps and URLs and apply custom formatting or rules to each. It also has an assistant mode that can answer your questions. The app costs $25 for lifetime access for one device, $39 for two devices, and $49 for three devices.\nDictato\nDictato\nis a dictionary app for Mac priced at €9.99 — roughly $12 — that gives you lifetime access and two years of feature updates. The app works with offline models like Parakeet, Whisper, and Apple Speech Analyzer, and uses Apple Intelligence for light reading and filler word removal. Thanks to these local models, the app claims a super fast 80ms latency, meaning text appears almost instantly after you speak.\nAudioPen\nAudioPen\nbegan as\na web-based voice notes app\n, but it has evolved over the years. Its Mac version now lets you dictate text and rewrite it in your preferred format and style, switching between different styles at any time. Besides live transcription, AudioPen allows you to store audio notes across platforms, combine notes for summaries, upload audio files, and rewrite existing notes using AI. The app costs $33 for three months, $99 for a year, and $159 for two years.\nVIDEO",
+    "content_source": "readability",
+    "content_chars": 6825,
+    "content_excerpt": "AI dictation apps have come a long way in a short time. For years they were slow and inaccurate — unless you spoke with a particular accent and enunciated clearly.\nAdvances in large language models (LLMs) and speech-to-text models have changed that, producing systems that can decipher speech more accurately while retaining enough context to format the text correctly. Developers have also built in features to automatically remove filler words, fix stumbles, and handle punctuation — outputting text that needs far fewer edits.\nWith dozens of such apps now on the market, we’ve rounded up our picks for the best and most useful dictation apps available right now.\nWispr Flow\nWispr Flow\nis a well-funded AI dictation app that lets you add custom words and instructions for dictation. It has native apps for macOS, Windows, and iOS; an Android version is in the works.\nThe app lets you customize how it transcribes your text by choosing from “formal,” “casual,” and “very casual” styles for different kinds of writing, such as personal messaging, work, and email. And if you use it with vibe-coding tools like Cursor, you can turn on a feature to automatically recognize variables or tag files in the chat.\nThe app lets you transcribe up to 2,000 words per week for free on desktop, and 1,000 words per month on iOS. Paid subscription plans offer unlimited transcription and start at $15 per month.\nImage Credits:\nWispr Flow",
+    "title_zh": "经过测试和排名的最佳人工智能听写应用程序",
+    "summary_zh": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+    "ai_summary": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用"
+  },
+  {
+    "id": "6110753a9b31",
+    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+    "url": "https://arxiv.org/abs/2509.00462",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-02T15:28:13",
+    "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 300 # Comments: 156",
+    "collected_at": "2026-05-02T18:52:07.364494",
+    "content_text": "Computer Science > Computers and Society\nTitle:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights\nView PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.\nBibliographic and Citation Tools\nCode, Data and Media Associated with this Article\nDemos\nRecommenders and Search Tools\narXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+    "content_source": "trafilatura",
+    "content_chars": 2639,
+    "content_excerpt": "Computer Science > Computers and Society\nTitle:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights\nView PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.\nBibliographic and Citation Tools\nCode, Data and Media Associated with this Article\nDemos\nRecommenders and Search Tools\narXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.",
+    "title_zh": "人工智能在算法招聘中的自我偏好：经验证据和见解",
+    "summary_zh": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycombinator.com/item?id=47987256 积分：300 # 评论：156",
+    "ai_summary": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycom…"
+  },
+  {
+    "id": "18ac41b8b3d0",
+    "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+    "url": "https://36kr.com/p/3789475357400068?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-02T13:17:06",
+    "summary": "文｜肖漫 编辑｜李勤 当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。 这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。 基于移动基座模",
+    "collected_at": "2026-05-02T18:52:09.328969",
+    "content_text": "文｜肖漫\n编辑｜李勤\n当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。\n卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。\n“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。\n在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。\n这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。\n基于移动基座模型，卓驭已经开始尝试打破传统Tier 1“卖硬件、收开发费”的单一逻辑。在第二增长曲线中，通过将乘用车技术拓展至 Robotaxi、RoboVan 等 L4 级领域，卓驭正在探索一种基于订阅、利润分成以及“动作令牌（Action Token）”的新商业形态。\n近日，36氪汽车与卓驭科技副总裁于贝贝聊了聊物理AI的底层逻辑、商业化可能性，以及在这场即将开始的淘汰赛中，卓驭又该如何建立护城河。\n以下是36氪汽车和卓驭科技副总裁于贝贝的交流内容，经编辑：\n36氪：能否详细介绍一下原生多模态基础模型？\n于贝贝：\n原生多模态这个概念的提出，可以追溯到去年我们开始做VLA 1.0，那时的做法比较接近视觉与动作对齐的模型，将大语言模型从后面附加上去的，因此存在很多问题，比如对语言和语义理解的局限性，以及响应延迟等。\n我们认为把所有信息都转译到一个语言空间里去理解，然后再尝试通过这个语言转译的结果去理解物理世界，是一种反常识的做法。\n真正合理的路径是，视觉、音频、动作都是一个模态、规则或推理也是一个模态，这些都应该在预训练阶段就一并加入，让模型能够天生地、在多种模态的共同空间里去理解物理世界，这才是更合适的做法。\n36氪：现在有把语言模态拿掉吗？\n于贝贝：\n当前我们车端模型确实还没有开放语言这一路输入。这和小鹏发布的VLA 2.0其实是类似的，我们做的是类似方向的东西，都在向这个范式切换，底层的骨干网络已经改变了。\n36氪：卓驭也进入了VLA2.0的阶段？\n于贝贝：\n是的。业界正处于一个范式切换的转折点，摆在我们面前的选择是：到底是沿着以前做专家模型这类小模型的范式继续做下去，还是果断切到大模型的范式上来。\n我们比较看好大模型的范式。如果放在移动物理AI的语境下来看，希望移动能力能够在各种各样的载具上使用，这本质上就到达了规模化应用的阶段。\n大语言模型的历史经验告诉我们，以前做视觉语言模型时，也有人做专家模型，有人做通用模型，也就是所谓的基座模型。\n现在来看，最终跑出来的是做基座模型的这一批人。以前那些专注于看病的专家模型，其实都没有真正跑出来。在物理AI领域，我们相信演进的规律是一样的，因此我们也会坚定地走基础模型的范式。\n36氪：厂商很多玩家都在这么干，但目前也还未能真正训练出一个可以让各种不同载体统一接入的模型，本质上大家仍然是在解决车上的问题。\n于贝贝：\n这是分阶段推进的。2025年，大家基本上都切换到了数据驱动，这意味着模型的基础能力已经达到了大概70分的水平。此时，想把它再提升到90分，那20分的差距仍然需要做后训练、采集数据和做泛化，但是其间的差距已经从当初的40分到80分，缩小为现在70分到90分的差距了。\n后续，随着模型基础能力进一步提高，我们的目标肯定是做到零样本泛化，也就是所谓的“开箱即用”。\n如果模型能力能够开箱就达到95分，那么后面的后训练、泛化、开城等工作几乎都可以忽略不计。虽然现在还没有到开箱95分的水平，但已经达到了开箱70分。\n36氪：在现阶段，卓驭是否已经把各种场景都统一到同一个模型里实际运行过了，并认为它已经可以在各个领域都量产且实现泛化，还是说处于一个比较早期的阶段？\n于贝贝：\n在这个时间点，还远不能说已经做到了开箱即用。什么才是物理AI最终的终极范式，什么样的架构才能真正理解物理世界，目前业界尚无定论。\n36氪：您怎么看待当前大多数方案厂商都在向物理AI方向转型的现象？这是不是向资本市场讲一个更有想象空间的故事？\n于贝贝：\n我们认为这已经不单单是商业或战略上的选择，最终应该会上升为一种生存法则层面的事情。如果不上这条技术路线，很可能今后就跑不出来了。\n这和大语言模型爆发前夜一样，以前涌现出很多看病的专家模型，但通用大模型一出来，就把它们都替代掉了，以前的那些最终都没有跑出来。\n36氪：在这个范式下做一个通用模型，但在其他场景下的数据，或者其他前期训练所需的条件，是不是还不够充分？\n于贝贝：\n我们现在在训练自己的基础模型时，30%的数据来自于车辆采集的真实数据，30%来自于机器人，另外40%来自于互联网。\n这种移动能力的数据，事实上在互联网上，只需要获取第一人称视角的、在移动中的视频即可，这不一定非得是乘用车或商用车，也可以人走路时拍摄的视频，这类数据的规模庞大，并且相对容易获取。\n很多企业都宣称要做移动物理AI，模型能力固然是一方面，但更重要的，具身智能必须部署到一个具体的硬件上去，它的分发过程是很难的。它不像数字AI，可以通过手机实现一传十、十传百的病毒式传播，从一个用户迅速扩展到上亿用户，传播极快。\n所以，\n建立一个分发平台和分发网络，也是其中非常关键的一环，这关乎如何把这个能力具体地部署到移动载具、部署到物理实体上。\n36氪：卓驭在分发上是怎么做的？\n于贝贝：\n我们有自己的一套方法，比如与合作伙伴合作，定义硬件的标准，将这个硬件标准定义出来之后，通过合作伙伴进行硬件授权与分发，这属于硬件分发的部分。\n在软件分发方面，比如我们的移动能力SDK，可以将模型能力封装成SDK，提供给那些不具备后训练模型能力的合作伙伴去使用。也可以将其包装成“移动AI”，也就是把模型做得足够好之后，将其开源，让其他方可以基于这个模型去做后训练，这又是一种分发方式。\n还可以直接做成“移动智能体”，未来对于一些低安全、低实时性的应用，比如扫地机器人或割草机，只需要把视频流传输到云端，由云端计算好之后，直接下发一条轨迹给这个小机器，这或许就是另一种分发方式了。\n36氪：这几种分发的方式，是否对应着卓驭的商业收费模式？\n于贝贝：\n是的，而且它们面向的商业场景也都不太一样。\n传统的方式，像做乘用车或商用车，就是销售硬件、销售软件许可，并收取开发费和非重复性工程费用，我们内部称作第一增长曲线的业务。\n第二增长曲线，则是将乘用车上已经验证过的技术，拓展到Robotaxi、RoboVan等领域。虽然也卖硬件，也可能收取开发费，但一般不收取软件许可费。\n软件部分是通过利润分成来获取收益的，比如L4级业务，作为服务提供方，需要持续参与软件的迭代，甚至要参与到运营中去，所以需要一个持续性的收入，这就演变成了订阅和分润的模式。\n36氪：听起来第二增长曲线更挣钱。\n于贝贝：\n相比第一增长曲线的收入，其利润结构是要更好的。\n我们可能会有不同的算法分发方式，以“移动智能体”为例，这种分发方式就有点像是在分发所谓的“动作令牌”。\n相当于某个消费级电子设备将视频流传输给云端推理的模型，模型再下发一条轨迹，其收费模式可能就是按照该消费级设备的使用次数、行驶里程来收取类似“动作令牌”的费用，这又是另一种形式的订阅。\n36氪：后续运维各方面的东西，都是卓驭来做吗？\n于贝贝：\n对于L2的系统，本身不涉及到运维。只有到了L4级别才涉及运维，需要有一个所谓的远程监控系统，始终监控着车辆的运行过程，在必要时进行远程接管接入。\n这有点像过去的安吉星服务，使用这个服务时是需要交费的。一旦车辆启用了L4功能，无论是干线物流还是乘用车，只要启用了L4，就需要额外交一部分费用。\n甚至以后，乘用车的传感器配置、算力配置都能够支持L4级别时，平时车主可能还是用L2+系统，当他需要启用L4功能时，就需要为L4模式下每公里的行驶，额外再支付一点费用，因为始终会有一个系统在监控着它。\n36氪：你认为L2和L4会是完全不一样的商业模式？\n于贝贝：\n没错，L2和L4是完全不同的商业模式。从我们的观点来看，我们认为L4应该是先在城区落地，然后再拓展到高速场景。\n从工程安全角度来看，同样性质的一个事故，在高速上产生的伤害程度，要远比在城区产生的伤害严重得多。\n36氪：行业玩家都在往物理AI方向做，这是新一轮淘汰赛的开始吗？\n于贝贝：\n新一轮的行业洗牌可能即将开始。所有做自动驾驶的公司，应该都会在不久的将来，转变为移动物理AI公司。\n如果是在移动物理AI这个赛道上进行竞争，这本身就变成了一种跨界竞争，甚至可能都不是这个行业内既有玩家之间的竞争了，还需要和一些本来做数字AI，现在也想转型做具身智能、做物理AI的玩家去竞争。\n36氪：那卓驭的护城河究竟是什么？\n于贝贝：\n我们认为有两点。第一，是模型能力。现在大家的迭代范式，乃至最终采用什么样的模型架构，都还没有定论。也许我们认为以后特别高级的3D DiT或V-JEPA等全新架构会跑出来，但这些都是未知数。\n第二，分发能力其实是一个非常高的门槛。如何建立一个分发平台和分发网络，创建一个生态，联合不同的合作伙伴共同进行分发，这一定是一个非常高的门槛。",
+    "content_source": "readability",
+    "content_chars": 3828,
+    "content_excerpt": "文｜肖漫\n编辑｜李勤\n当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。\n卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。\n“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。\n在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。\n这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。\n基于移动基座模型，卓驭已经开始尝试打破传统Tier 1“卖硬件、收开发费”的单一逻辑。在第二增长曲线中，通过将乘用车技术拓展至 Robotaxi、RoboVan 等 L4 级领域，卓驭正在探索一种基于订阅、利润分成以及“动作令牌（Action Token）”的新商业形态。\n近日，36氪汽车与卓驭科技副总裁于贝贝聊了聊物理AI的底层逻辑、商业化可能性，以及在这场即将开始的淘汰赛中，卓驭又该如何建立护城河。\n以下是36氪汽车和卓驭科技副总裁于贝贝的交流内容，经编辑："
+  },
+  {
     "id": "reddit-1t1l564",
     "title": "We open-sourced our AI agent config management tool — 888 stars, nearly 100 forks — requesting community feedback",
     "url": "https://reddit.com/r/artificial/comments/1t1l564/we_opensourced_our_ai_agent_config_management/",
@@ -15,19 +66,19 @@
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1l564/we_opensourced_our_ai_agent_config_management/"
   },
   {
-    "id": "reddit-1t1judm",
-    "title": "Qwen3.6-27B at 72 tok/s on RTX 3090 on Windows using native vLLM (no WSL, no Docker), portable launcher and installer",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/",
-    "source": "r/LocalLLaMA",
-    "lang": "en",
-    "published": "2026-05-02T08:12:35",
-    "summary": "The angle here is native Windows, no WSL. Simple installation, open source, no telemetry. Not selling or promoting anything: https://github.com/devnen/qwen3.6-windows-server **Numbers (RTX 3090, Windows 10):** - 72 tok/s short prompt - 64.5 tok/s long prompt (~25k tokens) - 53.4 tok/s at 127k ctx (s",
-    "points": 34,
-    "collected_at": "2026-05-02T09:53:55.870592",
-    "title_zh": "使用本机 vLLM（无 WSL、无 Docker）、便携式启动器和安装程序，在 Windows 上的 RTX 3090 上以 72 tok/s 运行 Qwen3.6-27B",
-    "summary_zh": "这里的角度是原生Windows，没有WSL。安装简单，开源，无需遥测。不销售或促销任何东西：https://github.com/devnen/qwen3.6-windows-server **数字（RTX 3090、Windows 10）…",
-    "ai_summary": "这里的角度是原生Windows，没有WSL。安装简单，开源，无需遥测。不销售或促销任何东西：https://github…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/"
+    "id": "f6641dfb11ab",
+    "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+    "url": "https://36kr.com/p/3792155815304450?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-02T13:01:36",
+    "summary": "文｜周鑫雨 编辑｜杨轩 规模化落地，今年的具身公司都在谈这个。 数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。 激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。 在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营",
+    "collected_at": "2026-05-02T18:52:09.329114",
+    "content_text": "文｜周鑫雨\n编辑｜杨轩\n规模化落地，今年的具身公司都在谈这个。\n数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。\n激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。\n在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：\n2036年，要实现140亿美元的营收规模。\n在全球范围内打响品牌，也让这家公司，将发布会开进了硅谷。美西时间2026年4月28日，在云集Adobe、TikTok、IBM等公司的圣何塞，魔法原子发起了全球具身智能创新大会（GEIS）。\n魔法原子机器人MagicBot Z1现场给张艺兴表演。作者拍摄\n在会上，魔法原子发布了从底层模型本体的一系列新产品：\n世界模型Magic-Mix\n：魔法原子自研的“自主进化模型”。Magix-Mix由两个引擎构成：让机器人学会理解真实世界的Magic-WAM，以及可以离线生成大批量许年数据的Magic-Creator——这意味着，Mix可以在“数据生成-模型训练-真实世界反馈-数据在生成”的闭环中持续自主迭代。\nMagic-Mix架构。图源：魔法原子\n灵巧手MagicHand H01\n：搭载了20 DOF（自由度，人手约24-27 DOF）和44个高分辨率三维触觉传感器，主打工业制造、服务护理等场景的精细操作。\nMagicHand H01。图源：魔法原子\n人形机器人MagicBot X1\n：一款身高180cm、体重70kg、全身搭载31个主动DOF、极限关节扭矩达450N·m的机器人。基于无限续航双电系统，X1可以7*24连续作业。产品分为标准版和科研版，前者商业部署效率高、开箱即用，后者则面向高校、实验室、开发者和产业伙伴，支持底层二次开发和外形定制。\nMagicBot X1。图源：魔法原子\n在会上，Openmind、PrismaX、Chestnut Roborics等来自硅谷的具身大脑和本体公司，也出现在现场。有关大脑、本体、数据的解决方案，这些公司给出了不同的解决思路。\n以下是《智能涌现》关于现场讨论的整理：\n用机器合成数据训练，效果会比真实世界数据更好吗？\n高质量数据的稀缺，一直是掣肘具身模型训练的瓶颈。当前真机数据采集一直存在成本高、周期长、场景覆盖等问题。\n机器合成数据，就是解决方案之一。然而，合成数据的局限性在于真实信息的缺失，比如摩擦系数、延迟、触觉反馈等。这也造成业界对“sim-to-real-gap”的担忧。\n混合数据训练，是当下中美具身智能企业提出的主流解决方案。比如，魔法原子总裁顾诗韬介绍，魔法原子日均采集约16000条数据，再通过数据合成实现1万倍的体量扩展。她提到，由于产品迭代快、60%-70%的工序依赖人工，\n新能源汽车制造业，是数据采集的富矿\n。\n判断使用真实数据，还是机器合成数据，行业的共识是：基于具体训练目的和应用场景。\n亚马逊前沿AI与机器人研究院科学家Haozhi Qi提到，合成数据适用于让机器学习单一的反应基本技能，但\n难以让机器获得类似于做早餐之类的长程技能\n。此时，引入真实数据训练是有必要的，因为构建一个足够丰富的模拟环境，成本很高。\n英伟达GEAR Lab高级研究科学家Zhengyi Luo则透露，团队目前采用50%的模拟数据，用于基础训练；15%的动捕数据、25%的互联网视频数据，用于理解人类的动作；同时，训练还会添加10%的高质量真实世界数据。他还提到，有些公司甚至会使用社交媒体上的数据，来指导机器人的本体设计。\nVLA（视觉-语言-行动）是具身“大脑”最好的解决方案吗？\n由于强大的任务泛化能力，当下VLA已经成为具身模型最主流的架构范式。\n但事实上，当人类用手指旋转一个篮球时，只用依靠触觉和本体感知，并不需要视觉——这意味着，VLA在这两个感知系统上，存在短板。\n在GEIS大会上，亚马逊前沿AI与机器人研究院科学家Haozhi Qi认为，\nVLA的流行，与硬件传感器的发展程度有关\n：当下，视觉传感器趋于成熟，但触觉传感器还在初级开发阶段。\n因此，在他看来，具身系统需要通过其他感觉的输入，来补足不太成熟的传感系统，从而维持本体的操作。因此，\n通过视觉和语言补足触觉缺陷的VLA，成了当下最好的解决方案之一\n。不过，未来随着传感器和硬件层面的发展，算法也会随之迭代。\n灵巧手的三大路线之争：连杆、腱绳与直驱\n当下，有关灵巧手设计的核心迷思是：要不要像人手？围绕这一命题，诞生了连杆、腱绳、直驱三种设计方案。\n其中，“连杆”最不像人手，但胜在成本低、易于控制；“腱绳”最像人手，可以做精细化操作，但成本高、控制难。“直驱”则是一种折中方案，将驱动单元直接集成在每个关节上，但成本不低，同时力传导效率和热管理上仍然面临工程层面的挑战。\n混合架构路线，则是近期兴起的灵巧手技术解决方案。\nChestnut Robotics创始人、前Tesla Optimus灵巧手核心成员Evan Tao介绍，当下团队已经选择了混合架构路线，以可以完成精细化操作的腱绳结构为主，辅以AI控制和自主学习系统。未来的方案，“都会在灵活度和工程可靠性之间寻求平衡。”他提到。\n机器人如何真正规模化落地？\n在数据层，引入真实世界数据，依然被认为是让机器人真正理解应用场景、学习复杂任务操作的关键。\n比如，XGSynBot CEO Zizheng Li提到，他们采取的混合数据策略，依然引入了少量高质真实世界数据，控制成本的同时，也能提升模型能力和泛化水平。\n在系统层，XGSynBot CEO Zizheng Li认为，机器人需要从“单一功能设备”向“多任务通用平台”演进，比如XGSynBot的机械臂，带有6个Quick-chage的模块化系统，这样做的好处是，一台机器人可以在不同工序间灵活切换，提高落地场景的广泛性。\n最后，OpenMind创始人、斯坦福大学生物工程副教授Jan Liphardt总结：\n机器人进入真实世界，越早越好\n。\n他发现，实验室环境无法模拟所有复杂的现实场景，比如过亮的光线、泥泞潮湿的地面、生锈的门铰链、多个系统同时运行的负载——这些复杂的真实场景，往往导致机器人在离开实验室后，出现系统故障。\n因此，机器人落地前，不应该仅仅待在实验室中。Jan Liphardt建议，尽早让机器人在家庭、学校、机场、幼儿园和其他公共场景的实际部署中，收集交互数据，持续迭代。",
+    "content_source": "readability",
+    "content_chars": 2783,
+    "content_excerpt": "文｜周鑫雨\n编辑｜杨轩\n规模化落地，今年的具身公司都在谈这个。\n数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。\n激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。\n在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：\n2036年，要实现140亿美元的营收规模。\n在全球范围内打响品牌，也让这家公司，将发布会开进了硅谷。美西时间2026年4月28日，在云集Adobe、TikTok、IBM等公司的圣何塞，魔法原子发起了全球具身智能创新大会（GEIS）。\n魔法原子机器人MagicBot Z1现场给张艺兴表演。作者拍摄\n在会上，魔法原子发布了从底层模型本体的一系列新产品："
   },
   {
     "id": "reddit-1t1kyx5",
@@ -45,19 +96,19 @@
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1kyx5/the_opensource_ai_agent_config_repo_the_community/"
   },
   {
-    "id": "reddit-1t1jlet",
-    "title": "OpenCode + LLM to create a 1:1 Settlers of Catan clone. Guess which model I did it with!",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1jlet/opencode_llm_to_create_a_11_settlers_of_catan/",
+    "id": "reddit-1t1judm",
+    "title": "Qwen3.6-27B at 72 tok/s on RTX 3090 on Windows using native vLLM (no WSL, no Docker), portable launcher and installer",
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/",
     "source": "r/LocalLLaMA",
     "lang": "en",
-    "published": "2026-05-02T07:57:51",
-    "summary": "Hey all! I've been waiting to make this post until I was completely done with the game so I can have a live preview, but this weekend is going to be pretty busy for me and I'm getting antsy to share what I've been working on with you! I've been working on a 1:1 recreation of my favorite board game,",
-    "points": 14,
-    "collected_at": "2026-05-02T09:53:55.871557",
-    "title_zh": "OpenCode + LLM 创建 1:1 卡坦岛克隆。猜猜我用哪个模型做的！",
-    "summary_zh": "嘿大家！我一直在等待发布这篇文章，直到我完全完成了游戏，这样我就可以进行实时预览，但是这个周末对我来说将会非常忙碌，我迫不及待地想与大家分享我一直在做的事情！我一直在致力于对我最喜欢的棋盘游戏进行 1:1 重现",
-    "ai_summary": "嘿大家！我一直在等待发布这篇文章，直到我完全完成了游戏，这样我就可以进行实时预览，但是这个周末对我来说将会非常忙碌，我迫…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1jlet/opencode_llm_to_create_a_11_settlers_of_catan/"
+    "published": "2026-05-02T08:12:35",
+    "summary": "The angle here is native Windows, no WSL. Simple installation, open source, no telemetry. Not selling or promoting anything: https://github.com/devnen/qwen3.6-windows-server **Numbers (RTX 3090, Windows 10):** - 72 tok/s short prompt - 64.5 tok/s long prompt (~25k tokens) - 53.4 tok/s at 127k ctx (s",
+    "points": 34,
+    "collected_at": "2026-05-02T09:53:55.870592",
+    "title_zh": "使用本机 vLLM（无 WSL、无 Docker）、便携式启动器和安装程序，在 Windows 上的 RTX 3090 上以 72 tok/s 运行 Qwen3.6-27B",
+    "summary_zh": "这里的角度是原生Windows，没有WSL。安装简单，开源，无需遥测。不销售或促销任何东西：https://github.com/devnen/qwen3.6-windows-server **数字（RTX 3090、Windows 10）…",
+    "ai_summary": "这里的角度是原生Windows，没有WSL。安装简单，开源，无需遥测。不销售或促销任何东西：https://github…",
+    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1judm/qwen3627b_at_72_toks_on_rtx_3090_on_windows_using/"
   },
   {
     "id": "reddit-1t1k9mr",
@@ -75,19 +126,19 @@
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1k9mr/prompt_engineering_certs_are_a_joke_so_we_built_a/"
   },
   {
-    "id": "reddit-1t1jc1d",
-    "title": "Have Qwen said anything about further Qwen 3.6 models?",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1jc1d/have_qwen_said_anything_about_further_qwen_36/",
+    "id": "reddit-1t1jlet",
+    "title": "OpenCode + LLM to create a 1:1 Settlers of Catan clone. Guess which model I did it with!",
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1jlet/opencode_llm_to_create_a_11_settlers_of_catan/",
     "source": "r/LocalLLaMA",
     "lang": "en",
-    "published": "2026-05-02T07:42:18",
-    "summary": "Have Qwen hinted at whether other models (9B, 122B, 397B) would be getting the 3.6 treatment? Or have they in any way confirmed or hinted at \"this is it\"? Genuinely curious if I missed anything, as I haven't seen or heard anything either way, and like many of us, I'm very keen to get the 122B model,",
-    "points": 31,
-    "collected_at": "2026-05-02T09:53:55.870792",
-    "title_zh": "Qwen 有没有透露过更多 Qwen 3.6 型号的消息？",
-    "summary_zh": "Qwen 是否暗示过其他型号（9B、122B、397B）是否会得到 3.6 的待遇？或者他们是否以任何方式证实或暗示“就是这样”？真的很好奇我是否错过了任何东西，因为我没有看到或听到任何东西，并且像我们许多人一样，我非常渴望获得 122B…",
-    "ai_summary": "Qwen 是否暗示过其他型号（9B、122B、397B）是否会得到 3.6 的待遇？或者他们是否以任何方式证实或暗示“就…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1jc1d/have_qwen_said_anything_about_further_qwen_36/"
+    "published": "2026-05-02T07:57:51",
+    "summary": "Hey all! I've been waiting to make this post until I was completely done with the game so I can have a live preview, but this weekend is going to be pretty busy for me and I'm getting antsy to share what I've been working on with you! I've been working on a 1:1 recreation of my favorite board game,",
+    "points": 14,
+    "collected_at": "2026-05-02T09:53:55.871557",
+    "title_zh": "OpenCode + LLM 创建 1:1 卡坦岛克隆。猜猜我用哪个模型做的！",
+    "summary_zh": "嘿大家！我一直在等待发布这篇文章，直到我完全完成了游戏，这样我就可以进行实时预览，但是这个周末对我来说将会非常忙碌，我迫不及待地想与大家分享我一直在做的事情！我一直在致力于对我最喜欢的棋盘游戏进行 1:1 重现",
+    "ai_summary": "嘿大家！我一直在等待发布这篇文章，直到我完全完成了游戏，这样我就可以进行实时预览，但是这个周末对我来说将会非常忙碌，我迫…",
+    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1jlet/opencode_llm_to_create_a_11_settlers_of_catan/"
   },
   {
     "id": "reddit-1t1jdp7",
@@ -105,19 +156,19 @@
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1jdp7/what_is_the_basic_minimum_while_you_prompt/"
   },
   {
-    "id": "reddit-1t1itn1",
-    "title": "Unsloth solved bug in Mistral Medium 3.5 implementation",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1itn1/unsloth_solved_bug_in_mistral_medium_35/",
+    "id": "reddit-1t1jc1d",
+    "title": "Have Qwen said anything about further Qwen 3.6 models?",
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1jc1d/have_qwen_said_anything_about_further_qwen_36/",
     "source": "r/LocalLLaMA",
     "lang": "en",
-    "published": "2026-05-02T07:13:13",
-    "summary": "[https://unsloth.ai/docs/models/mistral-3.5](https://unsloth.ai/docs/models/mistral-3.5) \"May 1, 2026 Update: We worked with Mistral to fix Mistral Medium 3.5 inference affecting some implementations, and released updated GGUFs with the fix (NOT related to Unsloth or our quants). The issue was cause",
-    "points": 51,
-    "collected_at": "2026-05-02T09:53:55.870446",
-    "title_zh": "Unsloth 解决了 Mistral Medium 3.5 实施中的错误",
-    "summary_zh": "[https://unsloth.ai/docs/models/mistral-3.5](https://unsloth.ai/docs/models/mistral-3.5)“2026 年 5 月 1 日更新：我们与 Mistral 合作…",
-    "ai_summary": "[https://unsloth.ai/docs/models/mistral-3.5](https://unsloth…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1itn1/unsloth_solved_bug_in_mistral_medium_35/"
+    "published": "2026-05-02T07:42:18",
+    "summary": "Have Qwen hinted at whether other models (9B, 122B, 397B) would be getting the 3.6 treatment? Or have they in any way confirmed or hinted at \"this is it\"? Genuinely curious if I missed anything, as I haven't seen or heard anything either way, and like many of us, I'm very keen to get the 122B model,",
+    "points": 31,
+    "collected_at": "2026-05-02T09:53:55.870792",
+    "title_zh": "Qwen 有没有透露过更多 Qwen 3.6 型号的消息？",
+    "summary_zh": "Qwen 是否暗示过其他型号（9B、122B、397B）是否会得到 3.6 的待遇？或者他们是否以任何方式证实或暗示“就是这样”？真的很好奇我是否错过了任何东西，因为我没有看到或听到任何东西，并且像我们许多人一样，我非常渴望获得 122B…",
+    "ai_summary": "Qwen 是否暗示过其他型号（9B、122B、397B）是否会得到 3.6 的待遇？或者他们是否以任何方式证实或暗示“就…",
+    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1jc1d/have_qwen_said_anything_about_further_qwen_36/"
   },
   {
     "id": "cca20052a3e9",
@@ -135,19 +186,19 @@
     "content_excerpt": "梦晨 发自 凹非寺\n苹果大失误！把自用的Claude.md打包到了官方App里。\n这下直接被坐实了：\n苹果内部在使用Claude Code构建生产级应用\n。\n这么大的公司，也在Vibe Coding？\n苹果内部在使用Claude Code构建生产级应用\n项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……\n这家全球最注重保密的科技公司，还是把自己的秘密泄露了。\n事故发生后后，"
   },
   {
-    "id": "reddit-1t1i4yg",
-    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1i4yg/a_darkmoney_campaign_is_paying_influencers_to/",
+    "id": "reddit-1t1itn1",
+    "title": "Unsloth solved bug in Mistral Medium 3.5 implementation",
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1itn1/unsloth_solved_bug_in_mistral_medium_35/",
     "source": "r/LocalLLaMA",
     "lang": "en",
-    "published": "2026-05-02T06:35:02",
-    "summary": ">Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China. So Local LLM is important .... always! Need to support who giving us more Open source & weights. [Last month",
-    "points": 85,
-    "collected_at": "2026-05-02T09:53:55.870398",
-    "title_zh": "黑钱活动正在向有影响力的人士付费，将中国人工智能视为威胁",
-    "summary_zh": ">Build American AI 是一个与超级政治行动委员会有联系的非营利组织，由 OpenAI 和 Andreessen Horowitz 的高管资助，该组织正在资助一项运动，以传播支持人工智能的信息并引发人们对中国的恐惧。所以本地法…",
-    "ai_summary": ">Build American AI 是一个与超级政治行动委员会有联系的非营利组织，由 OpenAI 和 Andrees…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1i4yg/a_darkmoney_campaign_is_paying_influencers_to/"
+    "published": "2026-05-02T07:13:13",
+    "summary": "[https://unsloth.ai/docs/models/mistral-3.5](https://unsloth.ai/docs/models/mistral-3.5) \"May 1, 2026 Update: We worked with Mistral to fix Mistral Medium 3.5 inference affecting some implementations, and released updated GGUFs with the fix (NOT related to Unsloth or our quants). The issue was cause",
+    "points": 51,
+    "collected_at": "2026-05-02T09:53:55.870446",
+    "title_zh": "Unsloth 解决了 Mistral Medium 3.5 实施中的错误",
+    "summary_zh": "[https://unsloth.ai/docs/models/mistral-3.5](https://unsloth.ai/docs/models/mistral-3.5)“2026 年 5 月 1 日更新：我们与 Mistral 合作…",
+    "ai_summary": "[https://unsloth.ai/docs/models/mistral-3.5](https://unsloth…",
+    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1itn1/unsloth_solved_bug_in_mistral_medium_35/"
   },
   {
     "id": "reddit-1t1hsah",
@@ -163,6 +214,21 @@
     "summary_zh": "AI 并没有删除生产数据库，因为它变得邪恶了。它之所以这么做，是因为它正在做人工智能系统每天训练要做的事情：推断用户的意图。对情况进行分类。根据自己的判断行事。将人的话视为输入，而不是权威。当它起作用时，我们称之为",
     "ai_summary": "AI 并没有删除生产数据库，因为它变得邪恶了。它之所以这么做，是因为它正在做人工智能系统每天训练要做的事情：推断用户的意…",
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1hsah/the_override_problem_the_same_ai_behavior_that/"
+  },
+  {
+    "id": "reddit-1t1i4yg",
+    "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t1i4yg/a_darkmoney_campaign_is_paying_influencers_to/",
+    "source": "r/LocalLLaMA",
+    "lang": "en",
+    "published": "2026-05-02T06:35:02",
+    "summary": ">Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China. So Local LLM is important .... always! Need to support who giving us more Open source & weights. [Last month",
+    "points": 85,
+    "collected_at": "2026-05-02T09:53:55.870398",
+    "title_zh": "黑钱活动正在向有影响力的人士付费，将中国人工智能视为威胁",
+    "summary_zh": ">Build American AI 是一个与超级政治行动委员会有联系的非营利组织，由 OpenAI 和 Andreessen Horowitz 的高管资助，该组织正在资助一项运动，以传播支持人工智能的信息并引发人们对中国的恐惧。所以本地法…",
+    "ai_summary": ">Build American AI 是一个与超级政治行动委员会有联系的非营利组织，由 OpenAI 和 Andrees…",
+    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1i4yg/a_darkmoney_campaign_is_paying_influencers_to/"
   },
   {
     "id": "v2ex-1209960",
@@ -325,19 +391,14 @@
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1a8gf/qwen3627bnvfp4_images/"
   },
   {
-    "id": "reddit-1t18zba",
-    "title": "Pentagon inks deals with seven AI companies for classified military work | Trump administration",
-    "url": "https://reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-05-01T23:08:36",
-    "summary": "Pentagon inks deals with seven AI companies for classified military work | Trump administration",
-    "points": 6,
-    "collected_at": "2026-05-02T09:53:57.360229",
-    "title_zh": "五角大楼与七家人工智能公司就机密军事工作达成协议特朗普政府",
-    "summary_zh": "五角大楼与七家人工智能公司就机密军事工作达成协议特朗普政府",
-    "ai_summary": "五角大楼与七家人工智能公司就机密军事工作达成协议特朗普政府",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/"
+    "id": "v2ex-1209926",
+    "title": "glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？",
+    "url": "https://www.v2ex.com/t/1209926",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-01T23:38:05",
+    "summary": "https://i.v2ex.co/7ksTRf68.png 真的假的？",
+    "collected_at": "2026-05-02T18:52:11.519116"
   },
   {
     "id": "reddit-1t1a3j7",
@@ -353,6 +414,36 @@
     "summary_zh": "自我们宣布新规则以来已经过去 1 周了：[https://www.reddit.com/r/LocalLLaMA/comments/1su3ao4/rlocalllama\\_rule\\_updates/](https://www.reddi…",
     "ai_summary": "自我们宣布新规则以来已经过去 1 周了：[https://www.reddit.com/r/LocalLLaMA/com…",
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1a3j7/new_rules_1_week_checkin/"
+  },
+  {
+    "id": "reddit-1t18zba",
+    "title": "Pentagon inks deals with seven AI companies for classified military work | Trump administration",
+    "url": "https://reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/",
+    "source": "r/artificial",
+    "lang": "en",
+    "published": "2026-05-01T23:08:36",
+    "summary": "Pentagon inks deals with seven AI companies for classified military work | Trump administration",
+    "points": 6,
+    "collected_at": "2026-05-02T09:53:57.360229",
+    "title_zh": "五角大楼与七家人工智能公司就机密军事工作达成协议特朗普政府",
+    "summary_zh": "五角大楼与七家人工智能公司就机密军事工作达成协议特朗普政府",
+    "ai_summary": "五角大楼与七家人工智能公司就机密军事工作达成协议特朗普政府",
+    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/"
+  },
+  {
+    "id": "reddit-1t19iil",
+    "title": "Been using Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro As Daily Driver",
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t19iil/been_using_qwen3627bq8_k_xl_vscode_rtx_6000_pro/",
+    "source": "r/LocalLLaMA",
+    "lang": "en",
+    "published": "2026-05-01T23:31:32",
+    "summary": "So in response to the Great Token Reconning of 2026, I decided to try out Qwen 3.6 as a daily driver, and although it's only been about a day, I have to say I'm thoroughly impressed. I had to download the VSCode insiders edition and set up the local models to support - super easy. Then I messed arou",
+    "points": 162,
+    "collected_at": "2026-05-02T09:53:55.870750",
+    "title_zh": "一直使用 Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro 作为日常驱动",
+    "summary_zh": "因此，为了响应 2026 年的 Great Token Reconning，我决定作为日常驾驶员尝试一下 Qwen 3.6，虽然只有大约一天的时间，但我不得不说给我留下了深刻的印象。我必须下载 VSCode insiders 版本并设置本地…",
+    "ai_summary": "因此，为了响应 2026 年的 Great Token Reconning，我决定作为日常驾驶员尝试一下 Qwen 3.…",
+    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t19iil/been_using_qwen3627bq8_k_xl_vscode_rtx_6000_pro/"
   },
   {
     "id": "0809bbe44568",
@@ -371,21 +462,6 @@
     "title_zh": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
     "summary_zh": "该公司表示，Meta 收购了人形初创公司 Assured Robot Intelligence，以增强其机器人人工智能模型",
     "ai_summary": "该公司表示，Meta 收购了人形初创公司 Assured Robot Intelligence，以增强其机器人人工智能模…"
-  },
-  {
-    "id": "reddit-1t19iil",
-    "title": "Been using Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro As Daily Driver",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1t19iil/been_using_qwen3627bq8_k_xl_vscode_rtx_6000_pro/",
-    "source": "r/LocalLLaMA",
-    "lang": "en",
-    "published": "2026-05-01T23:31:32",
-    "summary": "So in response to the Great Token Reconning of 2026, I decided to try out Qwen 3.6 as a daily driver, and although it's only been about a day, I have to say I'm thoroughly impressed. I had to download the VSCode insiders edition and set up the local models to support - super easy. Then I messed arou",
-    "points": 162,
-    "collected_at": "2026-05-02T09:53:55.870750",
-    "title_zh": "一直使用 Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro 作为日常驱动",
-    "summary_zh": "因此，为了响应 2026 年的 Great Token Reconning，我决定作为日常驾驶员尝试一下 Qwen 3.6，虽然只有大约一天的时间，但我不得不说给我留下了深刻的印象。我必须下载 VSCode insiders 版本并设置本地…",
-    "ai_summary": "因此，为了响应 2026 年的 Great Token Reconning，我决定作为日常驾驶员尝试一下 Qwen 3.…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t19iil/been_using_qwen3627bq8_k_xl_vscode_rtx_6000_pro/"
   },
   {
     "id": "reddit-1t17kf3",
@@ -4526,72 +4602,6 @@
     "ai_summary": "山姆·奥尔特曼 (Sam Altman) 和埃隆·马斯克 (Elon Musk) 将在一场高风险的审判中展开对决，这场审…"
   },
   {
-    "id": "reddit-1sx6vlm",
-    "title": "CVPR Workshop Decisions [D]",
-    "url": "https://reddit.com/r/MachineLearning/comments/1sx6vlm/cvpr_workshop_decisions_d/",
-    "source": "r/MachineLearning",
-    "lang": "en",
-    "published": "2026-04-27T15:22:10",
-    "summary": "Is it crazy if decisions aren't out yet for some CVPR workshops or is it normal? I don't want to annoy the organizers if it's the norm, but we're about 5 weeks out and I need to get travel approved, etc., if papers are accepted.",
-    "points": 5,
-    "collected_at": "2026-04-28T10:53:45.223113",
-    "title_zh": "CVPR 研讨会决定 [D]",
-    "summary_zh": "如果某些 CVPR 研讨会尚未做出决定，这是疯狂还是正常？如果这是常态的话，我不想惹恼组织者，但我们还有大约 5 周的时间，如果论文被接受，我需要获得旅行批准等",
-    "ai_summary": "如果某些 CVPR 研讨会尚未做出决定，这是疯狂还是正常？如果这是常态的话，我不想惹恼组织者，但我们还有大约 5 周的时…"
-  },
-  {
-    "id": "01d2196eff05",
-    "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-27T14:29:23",
-    "summary": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to autom",
-    "collected_at": "2026-04-28T10:16:37.873270",
-    "title_zh": "Canva 在其人工智能工具取代设计中的“巴勒斯坦”后道歉",
-    "summary_zh": "Canva 的一项新人工智能功能被发现取代了设计中的“巴勒斯坦”一词。 Magic Layers 功能 - 旨在将平面图像分解为单独的可编辑组件 - 不应该对用户设计进行可见的更改，但 X 用户 @ros_ie9 发现它可以自动",
-    "ai_summary": "Canva 的一项新人工智能功能被发现取代了设计中的“巴勒斯坦”一词。 Magic Layers 功能 - 旨在将平面图…"
-  },
-  {
-    "id": "v2ex-1208943",
-    "title": "买 mac 还是转 Linux 系统",
-    "url": "https://www.v2ex.com/t/1208943",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-04-27T13:40:21",
-    "summary": "CPU - Intel Core i7-8550U @ 1.80GHz （睿频 4.0GHz ） - 4 核 8 线程, 8MB L3 缓存 内存 - 16GB DDR4 （已用 4.4GB ，可用 11GB ） - 7.7GB Swap 显卡 - 集显: Intel UHD Graphics 620 - 独显: NVIDIA GeForce MX110 (GM108M) 硬盘 ┌──────┬──────────────────────────────────────┬───────┬────────────────────┐ │ 设备 │ 型号 │ 容量 │ 挂载点 │ ├──────┼─",
-    "collected_at": "2026-04-28T10:16:43.727054"
-  },
-  {
-    "id": "reddit-1sx3p40",
-    "title": "How do you test AI agents in production? The unpredictability is overwhelming.[D]",
-    "url": "https://reddit.com/r/MachineLearning/comments/1sx3p40/how_do_you_test_ai_agents_in_production_the/",
-    "source": "r/MachineLearning",
-    "lang": "en",
-    "published": "2026-04-27T13:28:18",
-    "summary": "I’ve been in QA for almost a decade. My mental model for quality was always: given input X, assert output Y. Now I’m on a team that’s shipping an LLM-based agent that handles multi-step tasks. I genuinely do not know how to test this in a way that feels rigorous. The thing works. But the output isn’",
-    "points": 34,
-    "collected_at": "2026-04-28T10:53:45.222661",
-    "title_zh": "如何在生产环境中测试人工智能代理？不可预测性是压倒性的。[D]",
-    "summary_zh": "我从事质量检查已经近十年了。我的质量心理模型始终是：给定输入 X，断言输出 Y。现在，我所在的团队正在开发基于 LLM 的代理，该代理可以处理多步骤任务。我真的不知道如何以一种感觉严格的方式来测试它。这东西有效。但输出是",
-    "ai_summary": "我从事质量检查已经近十年了。我的质量心理模型始终是：给定输入 X，断言输出 Y。现在，我所在的团队正在开发基于 LLM…"
-  },
-  {
-    "id": "705b1c5bdea9",
-    "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-    "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-27T13:16:55",
-    "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-    "collected_at": "2026-04-28T10:16:37.690479",
-    "title_zh": "经过数月的调查，中国阻止了 Meta 20 亿美元的 Manus 交易",
-    "summary_zh": "中国已要求 Meta 解除其价值数十亿美元的 Manus 收购案，这对扎克伯格进军人工智能领域的进程可能造成阻碍",
-    "ai_summary": "中国已要求 Meta 解除其价值数十亿美元的 Manus 收购案，这对扎克伯格进军人工智能领域的进程可能造成阻碍"
-  },
-  {
     "id": "hn-47679121",
     "title": "Project Glasswing: Securing critical software for the AI era",
     "url": "https://www.anthropic.com/glasswing",
@@ -4600,21 +4610,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-02T12:58:26.819202"
-  },
-  {
-    "id": "d26cae5cca28",
-    "title": "OpenAI could be making a phone with AI agents replacing apps",
-    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-27T13:08:59",
-    "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
-    "collected_at": "2026-04-28T10:16:37.690516",
-    "title_zh": "OpenAI 可能会用人工智能代理取代应用程序来制造手机",
-    "summary_zh": "关于 OpenAI 的硬件计划有很多传言，其中涉及推出一对耳机。行业分析师郭明池的一份新报告表明，这家人工智能公司可能正在与联发科、高通和立讯精密合作开发手机",
-    "ai_summary": "关于 OpenAI 的硬件计划有很多传言，其中涉及推出一对耳机。行业分析师郭明池的一份新报告表明，这家人工智能公司可能正…"
+    "collected_at": "2026-05-02T18:52:11.070252"
   },
   {
     "id": "hn-47363754",
@@ -4625,7 +4621,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-02T12:58:26.819307"
+    "collected_at": "2026-05-02T18:52:11.070371"
   },
   {
     "id": "hn-47340079",
@@ -4636,7 +4632,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-02T12:58:26.818952"
+    "collected_at": "2026-05-02T18:52:11.069975"
   },
   {
     "id": "hn-47225130",
@@ -4647,7 +4643,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-02T12:58:26.819353"
+    "collected_at": "2026-05-02T18:52:11.070425"
   },
   {
     "id": "hn-47136179",
@@ -4658,7 +4654,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-02T12:58:26.819068"
+    "collected_at": "2026-05-02T18:52:11.070099"
   },
   {
     "id": "hn-46990729",
@@ -4669,7 +4665,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-02T12:58:26.819032"
+    "collected_at": "2026-05-02T18:52:11.070060"
   },
   {
     "id": "hn-46574276",
@@ -4680,7 +4676,7 @@
     "published": "2026-01-11T10:26:18Z",
     "summary": "Don't fall into the anti-AI hype",
     "points": 1296,
-    "collected_at": "2026-05-02T12:58:26.819475"
+    "collected_at": "2026-05-02T18:52:11.070565"
   },
   {
     "id": "hn-45941596",
@@ -4691,7 +4687,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-02T12:58:26.819366"
+    "collected_at": "2026-05-02T18:52:11.070440"
   },
   {
     "id": "hn-45930151",
@@ -4702,7 +4698,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-02T12:58:26.819409"
+    "collected_at": "2026-05-02T18:52:11.070491"
   },
   {
     "id": "hn-45722069",
@@ -4713,7 +4709,7 @@
     "published": "2025-10-27T15:27:38Z",
     "summary": "It's insulting to read AI-generated blog posts",
     "points": 1300,
-    "collected_at": "2026-05-02T12:58:26.819462"
+    "collected_at": "2026-05-02T18:52:11.070550"
   },
   {
     "id": "hn-44972151",
@@ -4724,7 +4720,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-02T12:58:26.819142"
+    "collected_at": "2026-05-02T18:52:11.070185"
   },
   {
     "id": "hn-44396518",
@@ -4735,7 +4731,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-02T12:58:26.819273"
+    "collected_at": "2026-05-02T18:52:11.070333"
   },
   {
     "id": "hn-44314423",
@@ -4746,7 +4742,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-02T12:58:26.819321"
+    "collected_at": "2026-05-02T18:52:11.070387"
   },
   {
     "id": "hn-44163063",
@@ -4757,7 +4753,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-02T12:58:26.819004"
+    "collected_at": "2026-05-02T18:52:11.070031"
   },
   {
     "id": "hn-42910910",
@@ -4768,7 +4764,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-02T12:58:26.819156"
+    "collected_at": "2026-05-02T18:52:11.070200"
   },
   {
     "id": "hn-41392128",
@@ -4779,7 +4775,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-02T12:58:26.819085"
+    "collected_at": "2026-05-02T18:52:11.070118"
   },
   {
     "id": "hn-41386319",
@@ -4790,7 +4786,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-02T12:58:26.819099"
+    "collected_at": "2026-05-02T18:52:11.070134"
   },
   {
     "id": "hn-41069829",
@@ -4801,7 +4797,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-02T12:58:26.819423"
+    "collected_at": "2026-05-02T18:52:11.070507"
   },
   {
     "id": "hn-41046773",
@@ -4812,7 +4808,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-02T12:58:26.818990"
+    "collected_at": "2026-05-02T18:52:11.070015"
   },
   {
     "id": "hn-40767459",
@@ -4823,7 +4819,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-02T12:58:26.819438"
+    "collected_at": "2026-05-02T18:52:11.070524"
   },
   {
     "id": "hn-39918245",
@@ -4834,7 +4830,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-02T12:58:26.819380"
+    "collected_at": "2026-05-02T18:52:11.070456"
   },
   {
     "id": "hn-39526057",
@@ -4845,7 +4841,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-02T12:58:26.818975"
+    "collected_at": "2026-05-02T18:52:11.069998"
   },
   {
     "id": "hn-38544729",
@@ -4856,7 +4852,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-02T12:58:26.819045"
+    "collected_at": "2026-05-02T18:52:11.070075"
   },
   {
     "id": "hn-37021160",
@@ -4867,7 +4863,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-02T12:58:26.819170"
+    "collected_at": "2026-05-02T18:52:11.070217"
   },
   {
     "id": "hn-31812259",
@@ -4878,7 +4874,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-02T12:58:26.819334"
+    "collected_at": "2026-05-02T18:52:11.070403"
   },
   {
     "id": "hn-18249755",
@@ -4889,7 +4885,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-02T12:58:26.819127"
+    "collected_at": "2026-05-02T18:52:11.070167"
   },
   {
     "id": "hn-17022963",
@@ -4900,7 +4896,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-02T12:58:26.819115"
+    "collected_at": "2026-05-02T18:52:11.070152"
   },
   {
     "id": "hn-15892066",
@@ -4911,7 +4907,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-02T12:58:26.819293"
+    "collected_at": "2026-05-02T18:52:11.070355"
   },
   {
     "id": "hn-6830566",
@@ -4922,6 +4918,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-02T12:58:26.819392"
+    "collected_at": "2026-05-02T18:52:11.070471"
   }
 ]

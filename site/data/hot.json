@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-05-02T12:59:43.454410",
+  "updated_at": "2026-05-02T18:53:36.315113",
   "total": 7,
   "hot_list": [
+    {
+      "title": "经过测试和排名的最佳人工智能听写应用程序",
+      "name": "经过测试和排名的最佳人工智能听写应用程序",
+      "title_zh": "经过测试和排名的最佳人工智能听写应用程序",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-02",
+      "time": "2026-05-02",
+      "description": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "subtitle": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "ai_summary": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "category": "资讯",
+      "news_id": "f620eec25f20",
+      "internal_url": "https://aihot.bt199.com/news/f620eec25f20/",
+      "type_label": "📰 新闻"
+    },
     {
       "title": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
       "name": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
@@ -18,24 +36,6 @@
       "category": "资讯",
       "news_id": "0809bbe44568",
       "internal_url": "https://aihot.bt199.com/news/0809bbe44568/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "name": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "title_zh": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-01",
-      "time": "2026-05-01",
-      "description": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "subtitle": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "ai_summary": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "category": "资讯",
-      "news_id": "f15b72a01048",
-      "internal_url": "https://aihot.bt199.com/news/f15b72a01048/",
       "type_label": "📰 新闻"
     },
     {
@@ -131,6 +131,24 @@
   ],
   "top_20": [
     {
+      "title": "经过测试和排名的最佳人工智能听写应用程序",
+      "name": "经过测试和排名的最佳人工智能听写应用程序",
+      "title_zh": "经过测试和排名的最佳人工智能听写应用程序",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-02",
+      "time": "2026-05-02",
+      "description": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "subtitle": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "ai_summary": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "category": "资讯",
+      "news_id": "f620eec25f20",
+      "internal_url": "https://aihot.bt199.com/news/f620eec25f20/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
       "name": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
       "title_zh": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
@@ -146,24 +164,6 @@
       "category": "资讯",
       "news_id": "0809bbe44568",
       "internal_url": "https://aihot.bt199.com/news/0809bbe44568/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "name": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "title_zh": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-01",
-      "time": "2026-05-01",
-      "description": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "subtitle": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "ai_summary": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "category": "资讯",
-      "news_id": "f15b72a01048",
-      "internal_url": "https://aihot.bt199.com/news/f15b72a01048/",
       "type_label": "📰 新闻"
     },
     {
@@ -265,6 +265,24 @@
   },
   "items": [
     {
+      "title": "经过测试和排名的最佳人工智能听写应用程序",
+      "name": "经过测试和排名的最佳人工智能听写应用程序",
+      "title_zh": "经过测试和排名的最佳人工智能听写应用程序",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-02",
+      "time": "2026-05-02",
+      "description": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "subtitle": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "ai_summary": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+      "category": "资讯",
+      "news_id": "f620eec25f20",
+      "internal_url": "https://aihot.bt199.com/news/f620eec25f20/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
       "name": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
       "title_zh": "Meta 收购机器人初创公司以增强其人形人工智能雄心",
@@ -280,24 +298,6 @@
       "category": "资讯",
       "news_id": "0809bbe44568",
       "internal_url": "https://aihot.bt199.com/news/0809bbe44568/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "name": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "title_zh": "你知道你不能偷窃慈善机构吗？不用担心。埃隆·马斯克会提醒你。",
-      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-01",
-      "time": "2026-05-01",
-      "description": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "subtitle": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "ai_summary": "本周，埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的诉讼中在证人席上度过了三天的大部分时间，而且事情已经…",
-      "category": "资讯",
-      "news_id": "f15b72a01048",
-      "internal_url": "https://aihot.bt199.com/news/f15b72a01048/",
       "type_label": "📰 新闻"
     },
     {
