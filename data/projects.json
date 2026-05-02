@@ -4783,6 +4783,30 @@
     "collected_at": "2026-05-01T13:13:50.366108"
   },
   {
+    "id": "github-1224399582",
+    "name": "fevziegeyurtsevenler/LLM-Security-Nedir",
+    "display_name": "LLM-Security-Nedir",
+    "url": "https://github.com/fevziegeyurtsevenler/LLM-Security-Nedir",
+    "description": "Fevzi Ege Yurtsevenler tarafından hazırlanan, Türkiye'nin ilk kapsamlı LLM Güvenliği giriş rehberi. Yapay zeka güvenliğinin temellerini ve yeni saldırı yüzeylerini keşfedin.",
+    "stars": 9,
+    "forks": 0,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-security-turkey",
+      "artificial-intelligence",
+      "cyber-security",
+      "llm",
+      "llm-security",
+      "yapay-zeka-guvenligi"
+    ],
+    "created_at": "2026-04-29T08:41:19Z",
+    "updated_at": "2026-05-02T02:01:25Z",
+    "license": "",
+    "source": "github-search",
+    "collected_at": "2026-05-02T10:22:42.314278"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",
