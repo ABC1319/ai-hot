@@ -4359,6 +4359,33 @@
     "collected_at": "2026-04-28T10:16:45.050896"
   },
   {
+    "id": "github-1226349980",
+    "name": "DevelopersGlobal/ai-agent-skills",
+    "display_name": "ai-agent-skills",
+    "url": "https://github.com/DevelopersGlobal/ai-agent-skills",
+    "description": "AI agent skills for production grade applications",
+    "stars": 22,
+    "forks": 3,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "antigravity",
+      "artificial-intelligence",
+      "claude",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "cursor",
+      "skills"
+    ],
+    "created_at": "2026-05-01T09:27:28Z",
+    "updated_at": "2026-05-03T18:39:06Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-03T18:48:43.601215"
+  },
+  {
     "id": "github-1189361447",
     "name": "sparkorbit/sparkorbit",
     "display_name": "sparkorbit",
