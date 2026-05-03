@@ -426,10 +426,11 @@ GitHub rushed to fix a critical vulnerability in less than six hours
 A critical remote code execution vulnerability was discovered using an AI model and patched within hours.
 A critical remote code execution vulnerability was discovered using an AI model and patched within hours.
 “Our security team immediately began validating the bug bounty report.&lt;/p&gt;</description></item><item><title>glm-5.1, kimi-k2.6 在 code arena React 项目上排名 5 和 6，是不是真的好用？</title><link>https://aihot.bt199.com/news/v2ex-1209926/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1209926/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;&lt;a href="https://i.v2ex.co/7ksTRf68.png"&gt;https://i.v2ex.co/7ksTRf68.png&lt;/a&gt; 真的假的？&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.v2ex.com/t/1209926"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>GoAPIs 中转站开业 🚀 主打稳定，注册送$10 美金额度</title><link>https://aihot.bt199.com/news/v2ex-1209249/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1209249/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;@
+malagebidi #8 谬奖了，我修改一下之前的错误：
+这个错了： 「 Elo 胜率公式：胜率 = 1 / (1 + 10^(分差/400))」
+应该是： 「 Elo 得分公式：得分 = 1 / (1 + 10^(分差/400))」
+因为 Elo 打分时有「胜」「负」「平」这 3 种。&lt;/p&gt;</description></item><item><title>GoAPIs 中转站开业 🚀 主打稳定，注册送$10 美金额度</title><link>https://aihot.bt199.com/news/v2ex-1209249/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1209249/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;我们是谁？&lt;/p&gt;
 &lt;p&gt;GoAPIs 中转站 👉 直达链接：https://goapis.vip/&lt;/p&gt;
 &lt;ul&gt;
@@ -870,11 +871,7 @@ Bun operates its own fork of Zig, and recently achieved a 4x performance improve
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://explore.zoom.us/en/terms/"&gt;Hacker News原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>阿里发布数字员工产品QoderWake，可承担工程师、运营、销售等岗位角色</title><link>https://aihot.bt199.com/news/bc65f788d627/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/bc65f788d627/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;36氪获悉，4月30日，阿里发布数字员工QoderWake和Qoder移动端两款Agent产品，全面覆盖企业和个人场景的需求。&lt;/p&gt;
-&lt;p&gt;QoderWake能在真实工作中承担软件工程师、运营和分析师等岗位角色。&lt;/p&gt;</description></item><item><title>埃隆·马斯克 (Elon Musk) 和萨姆·奥尔特曼 (Sam Altman) 关于 OpenAI 未来的法庭之战</title><link>https://aihot.bt199.com/news/74cdffe7e5df/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/74cdffe7e5df/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;山姆·奥尔特曼 (Sam Altman) 和埃隆·马斯克 (Elon Musk) 将在一场高风险的审判中展开对决，这场审…&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"&gt;The Verge AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的备受瞩目的审判中出庭作证</title><link>https://aihot.bt199.com/news/21149ecd89ea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/21149ecd89ea/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;QoderWake能在真实工作中承担软件工程师、运营和分析师等岗位角色。&lt;/p&gt;</description></item><item><title>埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的备受瞩目的审判中出庭作证</title><link>https://aihot.bt199.com/news/21149ecd89ea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/21149ecd89ea/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman.
 Elon Musk takes the stand in high-profile trial against OpenAI
 The first witness in Musk v.&lt;/p&gt;
@@ -900,7 +897,8 @@ Dozens of Baidu’s Apollo Go robotaxis froze in traffic last month, sparking al
 The restrictions will prevent companies from adding new driverless cars to their fleets, expanding into new cities, or starting new test projects.&lt;/p&gt;</description></item><item><title>百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台</title><link>https://aihot.bt199.com/news/c13a536af5f2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c13a536af5f2/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;4 月 27 日，百度文库网盘联合发布通用智能体 GenFlow 4.0，并全面升级 Office Agent。&lt;/p&gt;
 &lt;p&gt;新版本主打两个方向：一是让个人用户在电脑和手机上都能使用 AI 完成办公、学习和内容创作；二是让团队用户把 AI Agent 直接接入网盘里的数据，形成一个可协同工作的“AI 工作台”。&lt;/p&gt;</description></item><item><title>百小应</title><link>https://aihot.bt199.com/tools/baichuan/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/tools/baichuan/</guid><description>&lt;!-- AUTO-GENERATED: tool page --&gt;
-&lt;p&gt;百小应 是一款偏 对话 场景的 AI 工具。这里整理了它的价格、免费额度、优缺点、适合人群和替代方案，方便直接判断是否值得用。&lt;/p&gt;</description></item><item><title>毕业了朋友们，今日 Last Day</title><link>https://aihot.bt199.com/news/v2ex-1209605/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1209605/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;百小应 是一款偏 对话 场景的 AI 工具。这里整理了它的价格、免费额度、优缺点、适合人群和替代方案，方便直接判断是否值得用。&lt;/p&gt;</description></item><item><title>本田将对自动驾驶AI软件初创公司helm_ai追加投资</title><link>https://aihot.bt199.com/news/81cb0486bff0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/81cb0486bff0/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！&lt;/p&gt;</description></item><item><title>毕业了朋友们，今日 Last Day</title><link>https://aihot.bt199.com/news/v2ex-1209605/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1209605/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;北京 92 年大龄女程序员被裁员了，今天是 lastday ，写了 12 年前端开发，大龄打工人也难逃职场风波。&lt;/p&gt;
 &lt;p&gt;现在 AI 时代太卷了，裁员理由岗位不需要你了，岗位被取消了，扎心啊老铁。&lt;/p&gt;</description></item><item><title>编码的局部模型已经达到了在实际工作中可行的一定阈值</title><link>https://aihot.bt199.com/news/reddit-1sxn7x2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1sxn7x2/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;我们通过代理工具在 Terminal-Bench 2.0（89 个任务，“terminal-bench-2.git @…&lt;/p&gt;
@@ -940,8 +938,10 @@ The restrictions will prevent companies from adding new driverless cars to their
 &lt;p&gt;来源：InfoQ AI。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.infoq.cn/video/wV4Nmb5vpxaChAdobOUl?utm_source=rss&amp;amp;utm_medium=article"&gt;InfoQ AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>当 AI 会写 SQL 之后，数据分析师更值钱的能力正在换成叙事与业务判断</title><link>https://aihot.bt199.com/news/e65e2348a6c5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e65e2348a6c5/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;当大模型开始能直接写 SQL、总结报表、分类非结构化数据，数据分析师最先感受到的不是“效率提升”这么简单，而是岗位价值坐标在变。这篇文章围绕 Snowflake 一组分享做了整理，试图回答一个现实问题：如果 AI 连分析工作的基础动作都做得越来越像样，人还剩下什么不可替代。&lt;/p&gt;</description></item><item><title>当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面</title><link>https://aihot.bt199.com/news/97fd42172385/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/97fd42172385/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://www.infoq.cn/video/wV4Nmb5vpxaChAdobOUl?utm_source=rss&amp;amp;utm_medium=article"&gt;InfoQ AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>大家现在都是用什么办法订阅 gpt pro 的？</title><link>https://aihot.bt199.com/news/v2ex-1209979/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1209979/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;这两天 plus 过期了，之前是找代充的，最近这几天有点封得太狠了。&lt;/p&gt;
+&lt;p&gt;不太敢找代充买 pro 。&lt;/p&gt;
+&lt;p&gt;现在什么办法可以稳定买 pro 啊，早上研究了一圈，太麻烦了，想花钱都这么难。&lt;/p&gt;</description></item><item><title>当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面</title><link>https://aihot.bt199.com/news/97fd42172385/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/97fd42172385/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;编者按：
 过去一年，企业 AI Coding 的讨论往往集中在模型能力、部署成本与合规约束上。&lt;/p&gt;
 &lt;p&gt;DeepSeek V4 的出现，的确让私有化部署首次拥有了接近闭源旗舰的现实选项，也部分缓解了中国企业长期面临的工具死锁。&lt;/p&gt;</description></item><item><title>当您提示时，基本最低限度是多少</title><link>https://aihot.bt199.com/news/reddit-1t1jdp7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1t1jdp7/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -1300,7 +1300,11 @@ NVIDIA
 Anthropic and OpenAI’s finances
 , and
 the AI bubble writ large
-.&lt;/p&gt;</description></item><item><title>人工智能时代的网络不安全</title><link>https://aihot.bt199.com/news/6100f49737ff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6100f49737ff/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+.&lt;/p&gt;</description></item><item><title>人工智能生成的演员和剧本现在没有资格获得奥斯卡奖</title><link>https://aihot.bt199.com/news/4ce3b826e9fa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/4ce3b826e9fa/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;The organization behind the Academy Awards
+released new Oscar rules
+on Friday, including several that address the use of generative artificial intelligence.
+The Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards.&lt;/p&gt;</description></item><item><title>人工智能时代的网络不安全</title><link>https://aihot.bt199.com/news/6100f49737ff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6100f49737ff/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;在人工智能进入堆栈之前，网络安全就已经面临压力。&lt;/p&gt;
 &lt;p&gt;现在，随着人工智能扩大攻击面并增加新的复杂性，传统方法的局限性变得越来越…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -1578,11 +1582,7 @@ zkDTVM&lt;/p&gt;</description></item><item><title>文心一言</title><link>http
 &lt;p&gt;五角大楼与七家人工智能公司就机密军事工作达成协议特朗普政府&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/"&gt;r/artificial原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>喜剧演员毒害人工智能训练数据的策略</title><link>https://aihot.bt199.com/news/reddit-1sx7sjl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1sx7sjl/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;显然，防止人工智能复制你的声音的最佳防御措施是草莓芒果叉车超大薯条&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://reddit.com/r/artificial/comments/1sx7sjl/a_comedians_strategy_for_poisoning_ai_training/"&gt;r/artificial原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>下载：北极的未来和人形数据</title><link>https://aihot.bt199.com/news/99c79c91bb23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/99c79c91bb23/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/"&gt;r/artificial原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>下载：北极的未来和人形数据</title><link>https://aihot.bt199.com/news/99c79c91bb23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/99c79c91bb23/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;This is today&amp;rsquo;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;rsquo;s going on in the world of technology.
 Digging for clues about the North Pole’s past
 In the past, getting to the North Pole involved a treacherous trip through ice many meters thick.&lt;/p&gt;
