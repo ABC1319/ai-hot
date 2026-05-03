@@ -1,21 +1,32 @@
 [
   {
-    "id": "f620eec25f20",
-    "title": "The best AI dictation apps, tested and ranked",
-    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "id": "81cb0486bff0",
+    "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+    "url": "https://36kr.com/newsflashes/3792810419543301?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-03T01:00:08",
+    "summary": "总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！我们将携手推进下一代端到端（E2E）自动驾驶和ADAS系统，用于2027年及以后推出的一系列电动汽车和混合动力汽车。”",
+    "collected_at": "2026-05-03T02:06:57.537148"
+  },
+  {
+    "id": "4ce3b826e9fa",
+    "title": "AI-generated actors and scripts are now ineligible for Oscars",
+    "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
     "source": "TechCrunch AI",
     "lang": "en",
     "priority": 1,
-    "published": "2026-05-02T16:00:00",
-    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-    "collected_at": "2026-05-02T18:52:06.126016",
-    "content_text": "AI dictation apps have come a long way in a short time. For years they were slow and inaccurate — unless you spoke with a particular accent and enunciated clearly.\nAdvances in large language models (LLMs) and speech-to-text models have changed that, producing systems that can decipher speech more accurately while retaining enough context to format the text correctly. Developers have also built in features to automatically remove filler words, fix stumbles, and handle punctuation — outputting text that needs far fewer edits.\nWith dozens of such apps now on the market, we’ve rounded up our picks for the best and most useful dictation apps available right now.\nWispr Flow\nWispr Flow\nis a well-funded AI dictation app that lets you add custom words and instructions for dictation. It has native apps for macOS, Windows, and iOS; an Android version is in the works.\nThe app lets you customize how it transcribes your text by choosing from “formal,” “casual,” and “very casual” styles for different kinds of writing, such as personal messaging, work, and email. And if you use it with vibe-coding tools like Cursor, you can turn on a feature to automatically recognize variables or tag files in the chat.\nThe app lets you transcribe up to 2,000 words per week for free on desktop, and 1,000 words per month on iOS. Paid subscription plans offer unlimited transcription and start at $15 per month.\nImage Credits:\nWispr Flow\nWillow\nWillow\nadvertises itself as a big time-saver for those who don’t like to type. Alongside common features like automatic editing and formatting, the app uses large language models to generate a full passage of text from just a few dictated words.\nWillow also takes a more privacy-focused approach by storing all transcripts locally on your device and lets you opt out of model training entirely. It also lets you add custom vocabulary to help it adapt to your industry’s terminology, or your local dialect.\nImage Credits:\nWillow\nWillow lets you dictate 2,000 words per month on its desktop app for free. Individual subscription plans start at $15 per month, unlocking unlimited dictation and enabling the app to remember your writing style.\nMonologue\nIf privacy if your priority,\nMonologue\nlets you download its AI model directly to your device for transcriptions, keeping your data off the cloud entirely. What’s more, the app lets you customize its tone depending on the app you use it with.\nMonologue lets you transcribe 1,000 words per month for free; a subscription costs $10 per month or $100 per year. The company also sends its most active users a physical shortcut device called the Monokey to use with the app.\nSuperwhisper\nSuperwhisper\nis primarily a dictation app, but it can also transcribe from audio or video files. The app lets you choose and download AI models, including several of its own at different speeds and accuracy levels, along with Nvidia’s Parakeet speech-recognition models.\nThe app also lets you write custom prompts to steer the output, and you can view both processed and unprocessed transcripts directly from your system keyboard.\nVIDEO\nThe basic voice-to-text feature is free to use, and you get 15 minutes to test Pro features such as translation and transcription. The paid tier lets you use your own AI API keys and connect cloud and local models without any usage caps.\nThe monthly plan costs $8.49 per month, the annual plan costs $84.99 per month, or you can pay $249.99 for a lifetime subscription.\nVoiceTypr\nThe\nVoiceTypr\napp takes an offline-first, no-subscription approach, letting you use local models for transcription. It also has a\nGitHub repository\nfor those who want to host and run the open source version themselves. VoiceTypr supports over 99 languages and works on both Mac and Windows.\nThe app is available to try for three days for free, and after that, it will allow you to buy a lifetime license. The app costs $35 for one device, $56 for two, and $98 for four devices.\nAqua\nAqua\nis a Y Combinator-backed voice-typing app for Windows and macOS that claims to be one of the fastest tools in the category in terms of latency (the delay between when you speak and when text appears on screen).\nBesides handling grammar and punctuation, Aqua also lets you autofill text by saying phrases — you can say “my address” and have Aqua type it in, for example.\nThe app also offers its own speech-to-text API, letting other apps plug into Aqua’s transcription engine.\nVIDEO\nThe free tier gets you 1,000 words per month. Paid plans start at $8 per month bill annually and unlock unlimited words and 800 custom dictionary values.\nHandy\nHandy\nis an open-source, free transcription tool that runs on Mac, Windows, and Linux. The app is pretty basic and doesn’t offer much customization, but if you want to start using your voice more and don’t want to pay, it is a good option.\nThe app has a basic settings menu that lets you toggle push-to-talk and change the hotkey to activate transcription.\nTypeless\nTypeless\nstands out for its high free word count. The company claims it doesn’t retain any data or use it to train AI models. Typeless also offers to rewrite sentences you may have fumbled.\nThe app lets you dictate up to 4,000 words per week (roughly 16,000 words per month) on its free tier. You can pay $12 per month (billed annually) to unlock unlimited words and get access to new features. Typeless is available for Windows and macOS only.\nVoiceInk\nVoiceInk\nis an\nopen-source\nprivate dictation app for Mac. The app supports global shortcuts for recording start/stop, along with a push-to-talk mode. It reads the context on screen and adjusts its output accordingly.\nThe app can automatically detect certain apps and URLs and apply custom formatting or rules to each. It also has an assistant mode that can answer your questions. The app costs $25 for lifetime access for one device, $39 for two devices, and $49 for three devices.\nDictato\nDictato\nis a dictionary app for Mac priced at €9.99 — roughly $12 — that gives you lifetime access and two years of feature updates. The app works with offline models like Parakeet, Whisper, and Apple Speech Analyzer, and uses Apple Intelligence for light reading and filler word removal. Thanks to these local models, the app claims a super fast 80ms latency, meaning text appears almost instantly after you speak.\nAudioPen\nAudioPen\nbegan as\na web-based voice notes app\n, but it has evolved over the years. Its Mac version now lets you dictate text and rewrite it in your preferred format and style, switching between different styles at any time. Besides live transcription, AudioPen allows you to store audio notes across platforms, combine notes for summaries, upload audio files, and rewrite existing notes using AI. The app costs $33 for three months, $99 for a year, and $159 for two years.\nVIDEO",
+    "published": "2026-05-02T21:54:58",
+    "summary": "Bad news for Tilly Norwood.",
+    "collected_at": "2026-05-03T02:06:54.739399",
+    "content_text": "The organization behind the Academy Awards\nreleased new Oscar rules\non Friday, including several that address the use of generative artificial intelligence.\nThe Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards. Similarly, the academy said that screenplays must be “human-authored” to be eligible.\nThe academy also said it has the right to request more information about a film’s AI usage and “human authorship.”\nThese rule changes come as an independent film is in the works with\nan AI-generated version of Val Kilmer\n, as AI “actress” Tilly Norwood\nkeeps making headlines\n, and as\nnew video models\nare causing at least a few filmmakers to make sweeping declarations of despair. AI was also one of the main sticking points in\nthe actors’ and writers’ strikes\nback in 2023.\nOutside Hollywood, at least one novel has been\npulled by its publisher\ndue to the apparent use of AI, and other writers’ groups are declaring that AI usage makes work\nineligible for awards\n.",
     "content_source": "readability",
-    "content_chars": 6825,
-    "content_excerpt": "AI dictation apps have come a long way in a short time. For years they were slow and inaccurate — unless you spoke with a particular accent and enunciated clearly.\nAdvances in large language models (LLMs) and speech-to-text models have changed that, producing systems that can decipher speech more accurately while retaining enough context to format the text correctly. Developers have also built in features to automatically remove filler words, fix stumbles, and handle punctuation — outputting text that needs far fewer edits.\nWith dozens of such apps now on the market, we’ve rounded up our picks for the best and most useful dictation apps available right now.\nWispr Flow\nWispr Flow\nis a well-funded AI dictation app that lets you add custom words and instructions for dictation. It has native apps for macOS, Windows, and iOS; an Android version is in the works.\nThe app lets you customize how it transcribes your text by choosing from “formal,” “casual,” and “very casual” styles for different kinds of writing, such as personal messaging, work, and email. And if you use it with vibe-coding tools like Cursor, you can turn on a feature to automatically recognize variables or tag files in the chat.\nThe app lets you transcribe up to 2,000 words per week for free on desktop, and 1,000 words per month on iOS. Paid subscription plans offer unlimited transcription and start at $15 per month.\nImage Credits:\nWispr Flow",
-    "title_zh": "经过测试和排名的最佳人工智能听写应用程序",
-    "summary_zh": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
-    "ai_summary": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用"
+    "content_chars": 1117,
+    "content_excerpt": "The organization behind the Academy Awards\nreleased new Oscar rules\non Friday, including several that address the use of generative artificial intelligence.\nThe Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards. Similarly, the academy said that screenplays must be “human-authored” to be eligible.\nThe academy also said it has the right to request more information about a film’s AI usage and “human authorship.”\nThese rule changes come as an independent film is in the works with\nan AI-generated version of Val Kilmer\n, as AI “actress” Tilly Norwood\nkeeps making headlines\n, and as",
+    "title_zh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
+    "summary_zh": "对蒂莉·诺伍德来说是个坏消息",
+    "ai_summary": "对蒂莉·诺伍德来说是个坏消息"
   },
   {
     "id": "6110753a9b31",
@@ -34,6 +45,24 @@
     "title_zh": "人工智能在算法招聘中的自我偏好：经验证据和见解",
     "summary_zh": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycombinator.com/item?id=47987256 积分：300 # 评论：156",
     "ai_summary": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycom…"
+  },
+  {
+    "id": "f620eec25f20",
+    "title": "The best AI dictation apps, tested and ranked",
+    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-02T16:00:00",
+    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    "collected_at": "2026-05-02T18:52:06.126016",
+    "content_text": "AI dictation apps have come a long way in a short time. For years they were slow and inaccurate — unless you spoke with a particular accent and enunciated clearly.\nAdvances in large language models (LLMs) and speech-to-text models have changed that, producing systems that can decipher speech more accurately while retaining enough context to format the text correctly. Developers have also built in features to automatically remove filler words, fix stumbles, and handle punctuation — outputting text that needs far fewer edits.\nWith dozens of such apps now on the market, we’ve rounded up our picks for the best and most useful dictation apps available right now.\nWispr Flow\nWispr Flow\nis a well-funded AI dictation app that lets you add custom words and instructions for dictation. It has native apps for macOS, Windows, and iOS; an Android version is in the works.\nThe app lets you customize how it transcribes your text by choosing from “formal,” “casual,” and “very casual” styles for different kinds of writing, such as personal messaging, work, and email. And if you use it with vibe-coding tools like Cursor, you can turn on a feature to automatically recognize variables or tag files in the chat.\nThe app lets you transcribe up to 2,000 words per week for free on desktop, and 1,000 words per month on iOS. Paid subscription plans offer unlimited transcription and start at $15 per month.\nImage Credits:\nWispr Flow\nWillow\nWillow\nadvertises itself as a big time-saver for those who don’t like to type. Alongside common features like automatic editing and formatting, the app uses large language models to generate a full passage of text from just a few dictated words.\nWillow also takes a more privacy-focused approach by storing all transcripts locally on your device and lets you opt out of model training entirely. It also lets you add custom vocabulary to help it adapt to your industry’s terminology, or your local dialect.\nImage Credits:\nWillow\nWillow lets you dictate 2,000 words per month on its desktop app for free. Individual subscription plans start at $15 per month, unlocking unlimited dictation and enabling the app to remember your writing style.\nMonologue\nIf privacy if your priority,\nMonologue\nlets you download its AI model directly to your device for transcriptions, keeping your data off the cloud entirely. What’s more, the app lets you customize its tone depending on the app you use it with.\nMonologue lets you transcribe 1,000 words per month for free; a subscription costs $10 per month or $100 per year. The company also sends its most active users a physical shortcut device called the Monokey to use with the app.\nSuperwhisper\nSuperwhisper\nis primarily a dictation app, but it can also transcribe from audio or video files. The app lets you choose and download AI models, including several of its own at different speeds and accuracy levels, along with Nvidia’s Parakeet speech-recognition models.\nThe app also lets you write custom prompts to steer the output, and you can view both processed and unprocessed transcripts directly from your system keyboard.\nVIDEO\nThe basic voice-to-text feature is free to use, and you get 15 minutes to test Pro features such as translation and transcription. The paid tier lets you use your own AI API keys and connect cloud and local models without any usage caps.\nThe monthly plan costs $8.49 per month, the annual plan costs $84.99 per month, or you can pay $249.99 for a lifetime subscription.\nVoiceTypr\nThe\nVoiceTypr\napp takes an offline-first, no-subscription approach, letting you use local models for transcription. It also has a\nGitHub repository\nfor those who want to host and run the open source version themselves. VoiceTypr supports over 99 languages and works on both Mac and Windows.\nThe app is available to try for three days for free, and after that, it will allow you to buy a lifetime license. The app costs $35 for one device, $56 for two, and $98 for four devices.\nAqua\nAqua\nis a Y Combinator-backed voice-typing app for Windows and macOS that claims to be one of the fastest tools in the category in terms of latency (the delay between when you speak and when text appears on screen).\nBesides handling grammar and punctuation, Aqua also lets you autofill text by saying phrases — you can say “my address” and have Aqua type it in, for example.\nThe app also offers its own speech-to-text API, letting other apps plug into Aqua’s transcription engine.\nVIDEO\nThe free tier gets you 1,000 words per month. Paid plans start at $8 per month bill annually and unlock unlimited words and 800 custom dictionary values.\nHandy\nHandy\nis an open-source, free transcription tool that runs on Mac, Windows, and Linux. The app is pretty basic and doesn’t offer much customization, but if you want to start using your voice more and don’t want to pay, it is a good option.\nThe app has a basic settings menu that lets you toggle push-to-talk and change the hotkey to activate transcription.\nTypeless\nTypeless\nstands out for its high free word count. The company claims it doesn’t retain any data or use it to train AI models. Typeless also offers to rewrite sentences you may have fumbled.\nThe app lets you dictate up to 4,000 words per week (roughly 16,000 words per month) on its free tier. You can pay $12 per month (billed annually) to unlock unlimited words and get access to new features. Typeless is available for Windows and macOS only.\nVoiceInk\nVoiceInk\nis an\nopen-source\nprivate dictation app for Mac. The app supports global shortcuts for recording start/stop, along with a push-to-talk mode. It reads the context on screen and adjusts its output accordingly.\nThe app can automatically detect certain apps and URLs and apply custom formatting or rules to each. It also has an assistant mode that can answer your questions. The app costs $25 for lifetime access for one device, $39 for two devices, and $49 for three devices.\nDictato\nDictato\nis a dictionary app for Mac priced at €9.99 — roughly $12 — that gives you lifetime access and two years of feature updates. The app works with offline models like Parakeet, Whisper, and Apple Speech Analyzer, and uses Apple Intelligence for light reading and filler word removal. Thanks to these local models, the app claims a super fast 80ms latency, meaning text appears almost instantly after you speak.\nAudioPen\nAudioPen\nbegan as\na web-based voice notes app\n, but it has evolved over the years. Its Mac version now lets you dictate text and rewrite it in your preferred format and style, switching between different styles at any time. Besides live transcription, AudioPen allows you to store audio notes across platforms, combine notes for summaries, upload audio files, and rewrite existing notes using AI. The app costs $33 for three months, $99 for a year, and $159 for two years.\nVIDEO",
+    "content_source": "readability",
+    "content_chars": 6825,
+    "content_excerpt": "AI dictation apps have come a long way in a short time. For years they were slow and inaccurate — unless you spoke with a particular accent and enunciated clearly.\nAdvances in large language models (LLMs) and speech-to-text models have changed that, producing systems that can decipher speech more accurately while retaining enough context to format the text correctly. Developers have also built in features to automatically remove filler words, fix stumbles, and handle punctuation — outputting text that needs far fewer edits.\nWith dozens of such apps now on the market, we’ve rounded up our picks for the best and most useful dictation apps available right now.\nWispr Flow\nWispr Flow\nis a well-funded AI dictation app that lets you add custom words and instructions for dictation. It has native apps for macOS, Windows, and iOS; an Android version is in the works.\nThe app lets you customize how it transcribes your text by choosing from “formal,” “casual,” and “very casual” styles for different kinds of writing, such as personal messaging, work, and email. And if you use it with vibe-coding tools like Cursor, you can turn on a feature to automatically recognize variables or tag files in the chat.\nThe app lets you transcribe up to 2,000 words per week for free on desktop, and 1,000 words per month on iOS. Paid subscription plans offer unlimited transcription and start at $15 per month.\nImage Credits:\nWispr Flow",
+    "title_zh": "经过测试和排名的最佳人工智能听写应用程序",
+    "summary_zh": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
+    "ai_summary": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用"
   },
   {
     "id": "18ac41b8b3d0",
@@ -171,19 +200,14 @@
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1jc1d/have_qwen_said_anything_about_further_qwen_36/"
   },
   {
-    "id": "cca20052a3e9",
-    "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-    "url": "https://36kr.com/p/3791662444911617?f=rss",
-    "source": "36氪",
+    "id": "v2ex-1209979",
+    "title": "大家现在都是用什么办法订阅 gpt pro 的？",
+    "url": "https://www.v2ex.com/t/1209979",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-02T06:52:34",
-    "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是",
-    "collected_at": "2026-05-02T09:53:52.057565",
-    "content_text": "梦晨 发自 凹非寺\n苹果大失误！把自用的Claude.md打包到了官方App里。\n这下直接被坐实了：\n苹果内部在使用Claude Code构建生产级应用\n。\n这么大的公司，也在Vibe Coding？\n苹果内部在使用Claude Code构建生产级应用\n项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……\n这家全球最注重保密的科技公司，还是把自己的秘密泄露了。\n事故发生后后，\n苹果在24小时内已紧急撤回\n，但部分内容已经曝光。\n等一下。\n这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。\n该不会这两个事故，罪魁祸首都是Claude Code自己吧？\n苹果用Claude Code开发了什么？\nApple Support应用5月1日推送了v5.13版本更新，其中意外夹带了Claude.md。\nMacRumors的分析师Aaron Perris\n发现并曝光这一点。\nMacRumors的分析师Aaron Perris发现并曝光\nApple Support\n是苹果官方的售后服务应用，支持与苹果专家在线聊天进行问题故障诊断，预约维修服务等，购买Apple Care服务等功能。\nApple Support\n泄露的Claude.md里写着一套完整的对话系统架构，最核心的设计是一个双后端系统：\nJuno AI负责自动应答，Live Agents负责真人客服接管。\n两套后端通过一个Protocol协议层无缝切换\n，上层代码根本不知道哪条消息是人类发的，哪条消息是AI发的。\n更有意思的是消息系统的三角色设计。\n在Apple Support的聊天里，client是用户，agent是Apple Support的真人客服，assistant是AI。\n三种身份的消息走同一套处理流程，\n没给用户提示对面到底是人在回复还是机器在回复\n。\n至此，Apple Support客服的技术骨架基本清晰了——\n一个AI和人类无缝切换的对话系统\n。\nApple Support客服的技术骨架\n另一份泄露的SAComponents模块倒是没什么猛料，就是一套纯UI组件库，没有业务逻辑，带DocC文档。标准的工程化产物。\nSAComponents模块\n文件本身没泄露什么机密，但它证实了一件所有人都猜测但没人能拿出实际证据事：\nApple内部，AI无处不在。\n更具体一点，\nClaude无处不在\n。\n苹果离不开Anthropic了\n其实早在三个月前，最懂苹果的懂哥彭博社Mark Gurman其实就告诉大家：\nApple runs on Anthropic at this point.\nGurman特别提到，苹果是在自家服务器上跑\n定制版Claude模型\n。\n内部代码、文档、token，全都不出苹果的基础设施。这跟Apple一贯的隐私立场完全自洽：用AI可以，数据不能出去。\n还有一件事值得关注，苹果已经和谷歌达成合作，Gemini将取代旧版Siri。但在内部开发工具这件事上，苹果选的是Claude，而不是Gemini。\n苹果选择了Claude\n当然，也要平衡地看。一位自称前苹果员工的HackerNews用户站出来说，苹果内部有数百个隔离团队。某些团队用Claude，不代表全公司都在vibe coding。\n一项针对12万开发者的调查显示，92.6%的开发者每月至少使用一次AI编码助手。苹果用Claude写代码，不过是整个行业的缩影。\n所以问题不是苹果用不用AI写代码，所有人都用。\n问题是，连苹果都会把不该提交的文件推到生产环境，这意味着什么？\nAI时代，谁来review AI的代码\nClaude.md到底该不该进版本控制？\n开发者吵成一团。\nApple Support\n一派人认为它就是项目文档，应该提交到代码仓库，团队共享。\n另一派人觉得它更像是IDE配置，应该放进.gitignore，各用各的。\n但真正尴尬的不是“该不该提交”，而是“提交了之后怎么又进了发布包”。\n有人疑惑，苹果在使用AI智能体编写代码和部署推送时，居然没有明确要求不要把Claude.md 文件也一并推送出去？\n但问题可能在Claude Code自己。它经常选择性无视指示，重复多少遍也没用。\nClaude Code\n一条高赞评论总结了这件事的本质：\n网友评论\n真正的问题不是Apple用了Claude，而是Apple对Claude过于信任。所有人都在用AI加速开发，但这件事应该被代码审查拦住。\n苹果的某位工程师正在经历职业生涯最糟糕的一天。\n而Anthropic的销售团队，正在经历最好的一天。\n参考链接：[1]https://x.com/aaronp613/status/2049986504617820551[2]https://news.ycombinator.com/item?id=47973378\n本文来自微信公众号\n“量子位”\n，作者：关注前沿科技，36氪经授权发布。",
-    "content_source": "readability",
-    "content_chars": 2071,
-    "content_excerpt": "梦晨 发自 凹非寺\n苹果大失误！把自用的Claude.md打包到了官方App里。\n这下直接被坐实了：\n苹果内部在使用Claude Code构建生产级应用\n。\n这么大的公司，也在Vibe Coding？\n苹果内部在使用Claude Code构建生产级应用\n项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……\n这家全球最注重保密的科技公司，还是把自己的秘密泄露了。\n事故发生后后，"
+    "published": "2026-05-02T07:38:22",
+    "summary": "这两天 plus 过期了，之前是找代充的，最近这几天有点封得太狠了。不太敢找代充买 pro 。 现在什么办法可以稳定买 pro 啊，早上研究了一圈，太麻烦了，想花钱都这么难。",
+    "collected_at": "2026-05-03T02:06:59.584727"
   },
   {
     "id": "reddit-1t1itn1",
@@ -201,19 +225,19 @@
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1itn1/unsloth_solved_bug_in_mistral_medium_35/"
   },
   {
-    "id": "reddit-1t1hsah",
-    "title": "The Override Problem: The Same AI Behavior That Helps Users Can Delete Production Data",
-    "url": "https://reddit.com/r/artificial/comments/1t1hsah/the_override_problem_the_same_ai_behavior_that/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-05-02T06:15:28",
-    "summary": "AI did not delete a production database because it became evil. It did it because it was doing the same thing AI systems are trained to do every day: Infer the user’s intent. Classify the situation. Act on its own judgment. Treat the human’s words as input, not authority. When that works, we call it",
-    "points": 1,
-    "collected_at": "2026-05-02T09:53:57.360667",
-    "title_zh": "覆盖问题：帮助用户删除生产数据的相同人工智能行为",
-    "summary_zh": "AI 并没有删除生产数据库，因为它变得邪恶了。它之所以这么做，是因为它正在做人工智能系统每天训练要做的事情：推断用户的意图。对情况进行分类。根据自己的判断行事。将人的话视为输入，而不是权威。当它起作用时，我们称之为",
-    "ai_summary": "AI 并没有删除生产数据库，因为它变得邪恶了。它之所以这么做，是因为它正在做人工智能系统每天训练要做的事情：推断用户的意…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1hsah/the_override_problem_the_same_ai_behavior_that/"
+    "id": "cca20052a3e9",
+    "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+    "url": "https://36kr.com/p/3791662444911617?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-02T06:52:34",
+    "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是",
+    "collected_at": "2026-05-02T09:53:52.057565",
+    "content_text": "梦晨 发自 凹非寺\n苹果大失误！把自用的Claude.md打包到了官方App里。\n这下直接被坐实了：\n苹果内部在使用Claude Code构建生产级应用\n。\n这么大的公司，也在Vibe Coding？\n苹果内部在使用Claude Code构建生产级应用\n项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……\n这家全球最注重保密的科技公司，还是把自己的秘密泄露了。\n事故发生后后，\n苹果在24小时内已紧急撤回\n，但部分内容已经曝光。\n等一下。\n这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。\n该不会这两个事故，罪魁祸首都是Claude Code自己吧？\n苹果用Claude Code开发了什么？\nApple Support应用5月1日推送了v5.13版本更新，其中意外夹带了Claude.md。\nMacRumors的分析师Aaron Perris\n发现并曝光这一点。\nMacRumors的分析师Aaron Perris发现并曝光\nApple Support\n是苹果官方的售后服务应用，支持与苹果专家在线聊天进行问题故障诊断，预约维修服务等，购买Apple Care服务等功能。\nApple Support\n泄露的Claude.md里写着一套完整的对话系统架构，最核心的设计是一个双后端系统：\nJuno AI负责自动应答，Live Agents负责真人客服接管。\n两套后端通过一个Protocol协议层无缝切换\n，上层代码根本不知道哪条消息是人类发的，哪条消息是AI发的。\n更有意思的是消息系统的三角色设计。\n在Apple Support的聊天里，client是用户，agent是Apple Support的真人客服，assistant是AI。\n三种身份的消息走同一套处理流程，\n没给用户提示对面到底是人在回复还是机器在回复\n。\n至此，Apple Support客服的技术骨架基本清晰了——\n一个AI和人类无缝切换的对话系统\n。\nApple Support客服的技术骨架\n另一份泄露的SAComponents模块倒是没什么猛料，就是一套纯UI组件库，没有业务逻辑，带DocC文档。标准的工程化产物。\nSAComponents模块\n文件本身没泄露什么机密，但它证实了一件所有人都猜测但没人能拿出实际证据事：\nApple内部，AI无处不在。\n更具体一点，\nClaude无处不在\n。\n苹果离不开Anthropic了\n其实早在三个月前，最懂苹果的懂哥彭博社Mark Gurman其实就告诉大家：\nApple runs on Anthropic at this point.\nGurman特别提到，苹果是在自家服务器上跑\n定制版Claude模型\n。\n内部代码、文档、token，全都不出苹果的基础设施。这跟Apple一贯的隐私立场完全自洽：用AI可以，数据不能出去。\n还有一件事值得关注，苹果已经和谷歌达成合作，Gemini将取代旧版Siri。但在内部开发工具这件事上，苹果选的是Claude，而不是Gemini。\n苹果选择了Claude\n当然，也要平衡地看。一位自称前苹果员工的HackerNews用户站出来说，苹果内部有数百个隔离团队。某些团队用Claude，不代表全公司都在vibe coding。\n一项针对12万开发者的调查显示，92.6%的开发者每月至少使用一次AI编码助手。苹果用Claude写代码，不过是整个行业的缩影。\n所以问题不是苹果用不用AI写代码，所有人都用。\n问题是，连苹果都会把不该提交的文件推到生产环境，这意味着什么？\nAI时代，谁来review AI的代码\nClaude.md到底该不该进版本控制？\n开发者吵成一团。\nApple Support\n一派人认为它就是项目文档，应该提交到代码仓库，团队共享。\n另一派人觉得它更像是IDE配置，应该放进.gitignore，各用各的。\n但真正尴尬的不是“该不该提交”，而是“提交了之后怎么又进了发布包”。\n有人疑惑，苹果在使用AI智能体编写代码和部署推送时，居然没有明确要求不要把Claude.md 文件也一并推送出去？\n但问题可能在Claude Code自己。它经常选择性无视指示，重复多少遍也没用。\nClaude Code\n一条高赞评论总结了这件事的本质：\n网友评论\n真正的问题不是Apple用了Claude，而是Apple对Claude过于信任。所有人都在用AI加速开发，但这件事应该被代码审查拦住。\n苹果的某位工程师正在经历职业生涯最糟糕的一天。\n而Anthropic的销售团队，正在经历最好的一天。\n参考链接：[1]https://x.com/aaronp613/status/2049986504617820551[2]https://news.ycombinator.com/item?id=47973378\n本文来自微信公众号\n“量子位”\n，作者：关注前沿科技，36氪经授权发布。",
+    "content_source": "readability",
+    "content_chars": 2071,
+    "content_excerpt": "梦晨 发自 凹非寺\n苹果大失误！把自用的Claude.md打包到了官方App里。\n这下直接被坐实了：\n苹果内部在使用Claude Code构建生产级应用\n。\n这么大的公司，也在Vibe Coding？\n苹果内部在使用Claude Code构建生产级应用\n项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……\n这家全球最注重保密的科技公司，还是把自己的秘密泄露了。\n事故发生后后，"
   },
   {
     "id": "reddit-1t1i4yg",
@@ -229,6 +253,21 @@
     "summary_zh": ">Build American AI 是一个与超级政治行动委员会有联系的非营利组织，由 OpenAI 和 Andreessen Horowitz 的高管资助，该组织正在资助一项运动，以传播支持人工智能的信息并引发人们对中国的恐惧。所以本地法…",
     "ai_summary": ">Build American AI 是一个与超级政治行动委员会有联系的非营利组织，由 OpenAI 和 Andrees…",
     "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/LocalLLaMA/comments/1t1i4yg/a_darkmoney_campaign_is_paying_influencers_to/"
+  },
+  {
+    "id": "reddit-1t1hsah",
+    "title": "The Override Problem: The Same AI Behavior That Helps Users Can Delete Production Data",
+    "url": "https://reddit.com/r/artificial/comments/1t1hsah/the_override_problem_the_same_ai_behavior_that/",
+    "source": "r/artificial",
+    "lang": "en",
+    "published": "2026-05-02T06:15:28",
+    "summary": "AI did not delete a production database because it became evil. It did it because it was doing the same thing AI systems are trained to do every day: Infer the user’s intent. Classify the situation. Act on its own judgment. Treat the human’s words as input, not authority. When that works, we call it",
+    "points": 1,
+    "collected_at": "2026-05-02T09:53:57.360667",
+    "title_zh": "覆盖问题：帮助用户删除生产数据的相同人工智能行为",
+    "summary_zh": "AI 并没有删除生产数据库，因为它变得邪恶了。它之所以这么做，是因为它正在做人工智能系统每天训练要做的事情：推断用户的意图。对情况进行分类。根据自己的判断行事。将人的话视为输入，而不是权威。当它起作用时，我们称之为",
+    "ai_summary": "AI 并没有删除生产数据库，因为它变得邪恶了。它之所以这么做，是因为它正在做人工智能系统每天训练要做的事情：推断用户的意…",
+    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1hsah/the_override_problem_the_same_ai_behavior_that/"
   },
   {
     "id": "v2ex-1209960",
@@ -398,7 +437,11 @@
     "lang": "zh",
     "published": "2026-05-01T23:38:05",
     "summary": "https://i.v2ex.co/7ksTRf68.png 真的假的？",
-    "collected_at": "2026-05-02T18:52:11.519116"
+    "collected_at": "2026-05-02T18:52:11.519116",
+    "content_text": "@\nmalagebidi #8 谬奖了，我修改一下之前的错误：\n这个错了： 「 Elo 胜率公式：胜率 = 1 / (1 + 10^(分差/400))」\n应该是： 「 Elo 得分公式：得分 = 1 / (1 + 10^(分差/400))」\n因为 Elo 打分时有「胜」「负」「平」这 3 种。胜者得 1 分，负者得 0 分，平局各得 0.5 分。\n我没有考虑平局，所以得出 10 次比赛里面，GLM5.1 也会对 Opus4.7 有 4 次战胜的情况。其实弱者得分，主要是从平局里面得来的（也不排除从战胜中得分，但比例应该很小，特别是分差大的情况下）：\nElo 相差 10 分 得分 51.4% vs 得分 48.6%，A 胜率 2.9%，平局率 97.1%，\nElo 相差 50 分 57.1% 42.9% A 胜率 14.3%，平局率 85.7%\nElo 相差 100 分 64.0% 36.0% A 胜率 28.0%，平局率 72.0%\nElo 相差 200 分 76.0% 24.0% A 胜率 52.0%，平局率 48.0%\nElo 相差 400 分 90.9% 9.1% A 胜率 81.8%，平局率 18.2%\nElo 相差 800 分 99.0% 1.0% A 胜率 98.0%，平局率 2.0%\n换成这种的话，GLM5.1 与 Opus4.7 差的 50 分意味着：在 20 次提问中，用户有 3 次觉得 Opus4.7 的答案比 GLM5.1 更好，其余 17 次，都很好。即 3 胜 vs 17 平。\n可能这种情况更符合真实情况。",
+    "content_source": "trafilatura",
+    "content_chars": 677,
+    "content_excerpt": "@\nmalagebidi #8 谬奖了，我修改一下之前的错误：\n这个错了： 「 Elo 胜率公式：胜率 = 1 / (1 + 10^(分差/400))」\n应该是： 「 Elo 得分公式：得分 = 1 / (1 + 10^(分差/400))」\n因为 Elo 打分时有「胜」「负」「平」这 3 种。胜者得 1 分，负者得 0 分，平局各得 0.5 分。\n我没有考虑平局，所以得出 10 次比赛里面，GLM5.1 也会对 Opus4.7 有 4 次战胜的情况。其实弱者得分，主要是从平局里面得来的（也不排除从战胜中得分，但比例应该很小，特别是分差大的情况下）：\nElo 相差 10 分 得分 51.4% vs 得分 48.6%，A 胜率 2.9%，平局率 97.1%，\nElo 相差 50 分 57.1% 42.9% A 胜率 14.3%，平局率 85.7%\nElo 相差 100 分 64.0% 36.0% A 胜率 28.0%，平局率 72.0%\nElo 相差 200 分 76.0% 24.0% A 胜率 52.0%，平局率 48.0%"
   },
   {
     "id": "reddit-1t1a3j7",
@@ -4550,58 +4593,6 @@
     "ai_summary": "Skye 的新人工智能应用程序在推出之前就吸引了投资者——这表明人们对更具人工智能意识的 iPhone 感兴趣"
   },
   {
-    "id": "reddit-1sx7sjl",
-    "title": "A comedian’s strategy for poisoning AI training data",
-    "url": "https://reddit.com/r/artificial/comments/1sx7sjl/a_comedians_strategy_for_poisoning_ai_training/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-04-27T15:54:25",
-    "summary": "Apparently the best defense against AI copying your voice is strawberry mango forklift supersize fries.",
-    "points": 769,
-    "collected_at": "2026-04-28T10:53:50.524962",
-    "title_zh": "喜剧演员毒害人工智能训练数据的策略",
-    "summary_zh": "显然，防止人工智能复制你的声音的最佳防御措施是草莓芒果叉车超大薯条",
-    "ai_summary": "显然，防止人工智能复制你的声音的最佳防御措施是草莓芒果叉车超大薯条"
-  },
-  {
-    "id": "e65e2348a6c5",
-    "title": "数据分析师如何快速建立在 AI 时代最值钱的能力：一份可落地的行动路线图",
-    "url": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-27T15:50:35",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-27T10:11:28.078658",
-    "content_text": "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！\n当 AI 写 SQL 比人更快，分析报表比人更准，技术门槛被夷为平地时，对于数据从业者而言，真正稀缺的能力是什么？\nSnowflake 在亚太地区举办的「Data and AI Fast Track」系列深度分享或许能够提供一种思路和答案，为了帮助数据从业者在技术浪潮中重建坐标，我们特别选摘了系列直播内容的精华版，本文将探讨以下三个核心命题：\n从一颗牛油果的成熟，看懂 AI 是如何从工具进化为执行者的；\n当 AI 算得比你快时，为什么数据叙事（Data Storytelling）成了最昂贵的技能？\n从提示词工程到 RAG 架构：普通职场人用 90 天重建 AI 时代竞争坐标的完整路径。\nAI 进化史与职场危机\n要理解我们在 AI 时代的处境，不妨先看一个极具日常感的问题：这个牛油果熟了吗？\nSnowflake 机器学习高级架构师 Sheena Nasim 用这个问题，巧妙地揭开了 AI 七十年演进史的底牌。这不仅是一道生活常识题，更是衡量 AI 能力边界的绝佳隐喻。\n在 1950 年代的规则系统时代，程序员试图用 if-else 来解决它：如果牛油果是绿色的，就不熟；如果是黑色的，就熟了。但这套逻辑很快在现实的复杂性面前崩溃——品种差异、温度、光照，任何一个变量都能打破规则的边界。\n随后，机器学习与深度学习登场。系统不再依赖人类穷举规则，而是通过吞噬成千上万张牛油果的照片，自己总结出“成熟”的数学特征。机器第一次在图像分类上达到了接近人类的精度，但它依然是个“黑箱”——它能告诉你结果，却无法解释原因。\n直到生成式 AI（Generative AI）与多模态大模型 的爆发，范式被彻底颠覆。当你现在把一张牛油果照片发给 AI，它不仅能判断成熟度，还能给出完整的推理链：“果皮呈深绿色带黑斑，果茎微凹，建议今明两天食用。需要我推荐一份牛油果酱食谱吗？”\n但这还不是终点。今天，最前沿的形态是 AI 智能体（AI Agent）。它实现了从“参与”到“执行”的跃迁。\n当你告诉智能体：“周六我要办聚会，帮我搞定牛油果酱。” 它会查询你的日历（8 位宾客） → 估算用量（需要 6 个） → 检索周边超市比价 → 发现周三买周六用会坏，于是设定周四的采购提醒 → 自动加入购物清单 → 顺便帮你找好 Gordon Ramsay 的菜谱并加上了青柠和香菜。\n这条演进线走了七十年，但真正颠覆大众认知只用了最近三年。既然 AI 已经聪明到可以包办一切计算和执行，一个尖锐的问题摆在面前：企业还需要人类做什么？\n当 AI 算得比你快，“讲故事”成了最昂贵的技能\n如果说 AI 技术的演进解释了机器能做什么，那么 Snowflake 技术布道师 Travis Murphy 则回答了另一个更现实的问题：在组织里，为什么拥有了海量数据和强大的 AI，决策依然低效？\n答案出人意料：问题不在数据，在于注意力。\n经济学家赫伯特·西蒙在 1970 年代的一句预言，在今天一语成谶：“信息的丰盛，制造了注意力的贫困。”我们每天被仪表盘、数据周报、Slack 消息和 AI 生成的摘要狂轰滥炸。数据的丰富并没有让决策变快，反而让会议的大量时间被浪费在“解释数字”上。\n在 AI 时代，生产内容的成本趋近于零，但判断力和清晰度依然稀缺。这就是数据叙事（Data Storytelling）的价值所在。真正的数据故事，不是让图表更好看，也不是堆砌 15 个指标，而是包含四个不可或缺的层次：证据、背景、洞察、行动。\n感受一下两者的区别：\n普通汇报：“营收环比下降 3%。”（结果：引发无休止的争论和推诿）\n数据故事：“营收较计划下降 3%，主要由价格调整后目标客群的流失驱动。建议：暂停方案推广，本周启动留存专项激励——负责人：Travis。”（结果：立即驱动行动）\n为了构建这样的叙事，Murphy 提出了五要素框架：用令人意外的“钩子”抓住注意力，设定背景基准线，揭示差距产生洞察，解释根因作为驱动因素，最后以绑定责任人的结局落地行动。\n成为 AI 工程师之前，首先要成为一流的数据工程师\n谈及数据叙事，也许很多人脑海中浮现的场景仍然是数据分析师一个人坐在格子间里，对着 Excel 绘制饼图，这个刻板印象已经彻底过时。\nSnowflake 产品数据科学家 Soo Lee 还原了数据分析师真实的一天：\n上午，他们往往不是在分析数据，而是在寻找和清洗数据。更关键的是定义指标。当产品经理问“用户喜欢新功能吗”时，分析师必须将其翻译成可测量的 DAU 或留存率。因为数据分析中最危险的情况，是所有人都以为在衡量同一件事，但实际上并非如此。\n下午，工作方式已经被 AI 彻底改变。借助 Snowflake 的 Cortex AI 等功能，分析师可以直接在 SQL 语句中调用大模型，几行代码就能完成过去需要数周搭建管道才能处理的非结构化数据分类。\n到了今天，数据工程师、分析师、AI 工程师的职业边界正在快速消融。但有一套底层能力正在跨角色凝固：SQL 查询、基础 Python、数据叙事、云平台认知，以及 AI 素养。\nSnowflake APJ 教育销售总监 Edmondo Rosini 给出了一个中肯的建议：不要急于跳过分析师直接冲向 AI 工程师。每一位卓越的 AI 专家，骨子里都是一流的数据分析师。只有亲手处理过脏数据，你才会真正懂得偏差的藏身之处，这种直觉是无法速成的。\n普通职场人的 90 天 AI 逆袭指南\n无论你是不是数据分析师，职场正在发生四大结构性转变：从看仪表盘到与 AI 对话；从被动响应到主动预测；从工具辅助到智能体执行；从专业壁垒到全员普及。\n当 AI 成为人人可用的通用副驾驶，会用 AI 不再是优势，而是门槛。Snowflake 数据解决方案架构师 Hilda Davies 指出，真正的竞争力在于：将 AI 的能力与“只有你才懂得的业务情境”相结合。\nAI 无法感知跨国商业谈判的文化微妙，无法感受一笔被拒贷款背后的人性分量，但你可以。你的竞争优势，在于提供 AI 缺失的同理心和特定情境洞察，以及知道何时对充满噪声的数据 Say No。\n为此，Davies 提出了一份极具操作性的 90 天行动路线图：\n前 30 天：系统学习提示词工程，将其视为学习一门新语言。建立数据治理意识，明确哪些数据可以喂给公共模型，哪些必须留在企业防火墙内。完成这一阶段，你将从普通用户升级为「负责任的 AI 管理者」；\n第 31-60 天：拒绝被动等待报表。学习 SQL，直接查询部门数据库，识别并解决一个没人注意到的数据瓶颈，构建一个真正有价值的数据故事。这会让你从「数据的接收者」变成「数据的探索者」；\n第 61-90 天：识别工作流中的重大效率瓶颈，尝试用 RAG（检索增强生成）架构将团队散乱文档转化为企业知识库。组织内部分享，向管理层展示你的 AI 应用愿景。这一步要展示的是：你已从技术消费者蜕变为战略型高价值人才。\nOne More Thing\nAI 写得了 SQL、画得了图表、生成得了报告，但它无法走进一间充满分歧的会议室，理解那个真正尚未被说出口的问题；也无法在数据与对业务的真正影响之间，完成最后一步带有责任的判断。\n正如沃尔特·艾萨克森在《创新者》中的一句话：“创新需要清晰表达”，数据本身是原材料，AI 让这些原材料唾手可得。但将它们转化为真正驱动决策的故事，仍然是人类的工作，而且比以往任何时候都更重要。\n如果你也在思考如何在 AI 时代建立这种能力，,可以关注 FastTrack 的官网，可以尝试从 Snowflake 的 Data + AI 平台培训开始，课程涵盖⼈⼯智能、数据云等所有相关内容，你将能够亲⾃动⼿操作，处理业务真实场景中的问题，并获得专⽤账户进⾏练习。免费福利席位有限，欢迎扫码咨询～\n点击链接立即报名注册：Ascent - Snowflake Platform Training - China，更多 Snowflake 精彩活动请关注专区。",
-    "content_source": "trafilatura",
-    "content_chars": 3378,
-    "content_excerpt": "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！\n当 AI 写 SQL 比人更快，分析报表比人更准，技术门槛被夷为平地时，对于数据从业者而言，真正稀缺的能力是什么？\nSnowflake 在亚太地区举办的「Data and AI Fast Track」系列深度分享或许能够提供一种思路和答案，为了帮助数据从业者在技术浪潮中重建坐标，我们特别选摘了系列直播内容的精华版，本文将探讨以下三个核心命题：\n从一颗牛油果的成熟，看懂 AI 是如何从工具进化为执行者的；\n当 AI 算得比你快时，为什么数据叙事（Data Storytelling）成了最昂贵的技能？\n从提示词工程到 RAG 架构：普通职场人用 90 天重建 AI 时代竞争坐标的完整路径。\nAI 进化史与职场危机\n要理解我们在 AI 时代的处境，不妨先看一个极具日常感的问题：这个牛油果熟了吗？\nSnowflake 机器学习高级架构师 Sheena Nasim 用这个问题，巧妙地揭开了 AI 七十年演进史的底牌。这不仅是一道生活常识题，更是衡量 AI 能力边界的绝佳隐喻。\n在 1950 年代的规则系统时代，程序员试图用 if-else 来解决它：如果牛油果是绿色的，就不熟；如果是黑色的，就熟了。但这套逻辑很快在现实的复杂性面前崩溃——品种差异、温度、光照，任何一个变量都能打破规则的边界。",
-    "title_zh": "当 AI 会写 SQL 之后，数据分析师更值钱的能力正在换成叙事与业务判断",
-    "ai_summary": "AI 正在吞掉数据分析的基础操作，真正变稀缺的是把数据变成决策、把工具接进业务情境的能力。",
-    "summary_zh": "InfoQ 梳理了 Snowflake 一组关于数据岗位与 AI 变迁的分享，核心判断是：当写 SQL、清洗数据和生成图表越来越自动化，数据从业者的价值会更多落在问题定义、数据叙事、治理意识与业务情境理解上。这不是“不会被替代”的空话，而是岗位能力结构正在重排。",
-    "takeaways": [
-      "AI 让基础分析动作更便宜，但不会自动替代问题定义、解释和推动组织行动的能力。",
-      "数据叙事的价值在于把指标、背景、洞察和行动绑定起来，而不是再多做几张图。",
-      "对于想转向 AI 的数据岗位，从 SQL 与治理打底、再延伸到 RAG 和业务落地，会比空学提示词更有效。"
-    ],
-    "rewrite_body": "当大模型开始能直接写 SQL、总结报表、分类非结构化数据，数据分析师最先感受到的不是“效率提升”这么简单，而是岗位价值坐标在变。这篇文章围绕 Snowflake 一组分享做了整理，试图回答一个现实问题：如果 AI 连分析工作的基础动作都做得越来越像样，人还剩下什么不可替代。\n\n文章给出的判断很明确：真正稀缺的能力，正在从“会不会操作工具”转向“能不能把数据转成决策”。也就是说，AI 可以更快生成查询、图表和摘要，但它不会天然知道企业此刻最该回答什么问题，也不会自动判断哪些指标值得被管理层重视、哪些异常只是噪声。数据岗位的核心，正在从生产信息转向组织注意力。\n\n其中“数据叙事”被放到了很高的位置。文章不是把它理解成做漂亮汇报，而是强调一套完整链路：先给出证据，再补背景，提炼洞察，最后明确行动与责任人。这个变化很重要，因为 AI 时代真正稀缺的不是内容产能，而是让团队在信息爆炸中快速对齐、快速做决定的能力。\n\n文章也给出了一个更务实的路径：不要急着把自己包装成 AI 工程师，而是先把 SQL、Python、数据治理、云平台认知和业务理解打牢。只有真正处理过脏数据、指标冲突和跨部门沟通的人，才知道模型生成出来的答案什么时候可信、什么时候应该被质疑。这种判断力很难靠短期课程速成。\n\n如果把这篇内容放到更大的背景里看，它反映的不是某个岗位的焦虑，而是企业数据团队的角色重排。AI 会持续压低基础分析的门槛，但越是在这种时候，能把工具能力接到真实业务情境、把一堆数字讲成可执行方案的人，反而会更值钱。"
-  },
-  {
-    "id": "74cdffe7e5df",
-    "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-27T15:50:29",
-    "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to",
-    "collected_at": "2026-04-28T10:16:37.873215",
-    "title_zh": "埃隆·马斯克 (Elon Musk) 和萨姆·奥尔特曼 (Sam Altman) 关于 OpenAI 未来的法庭之战",
-    "summary_zh": "山姆·奥尔特曼 (Sam Altman) 和埃隆·马斯克 (Elon Musk) 将在一场高风险的审判中展开对决，这场审判可能会改变科技领先的人工智能初创公司 OpenAI 的未来。审判将于 4 月 27 日开始选出陪审团，马斯克将在 20…",
-    "ai_summary": "山姆·奥尔特曼 (Sam Altman) 和埃隆·马斯克 (Elon Musk) 将在一场高风险的审判中展开对决，这场审…"
-  },
-  {
     "id": "hn-47679121",
     "title": "Project Glasswing: Securing critical software for the AI era",
     "url": "https://www.anthropic.com/glasswing",
@@ -4610,7 +4601,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-02T18:52:11.070252"
+    "collected_at": "2026-05-03T02:06:59.302151"
   },
   {
     "id": "hn-47363754",
@@ -4621,7 +4612,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-02T18:52:11.070371"
+    "collected_at": "2026-05-03T02:06:59.302262"
   },
   {
     "id": "hn-47340079",
@@ -4632,7 +4623,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-02T18:52:11.069975"
+    "collected_at": "2026-05-03T02:06:59.301890"
   },
   {
     "id": "hn-47225130",
@@ -4643,7 +4634,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-02T18:52:11.070425"
+    "collected_at": "2026-05-03T02:06:59.302311"
   },
   {
     "id": "hn-47136179",
@@ -4654,7 +4645,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-02T18:52:11.070099"
+    "collected_at": "2026-05-03T02:06:59.302006"
   },
   {
     "id": "hn-46990729",
@@ -4665,7 +4656,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-02T18:52:11.070060"
+    "collected_at": "2026-05-03T02:06:59.301971"
   },
   {
     "id": "hn-46574276",
@@ -4676,7 +4667,7 @@
     "published": "2026-01-11T10:26:18Z",
     "summary": "Don't fall into the anti-AI hype",
     "points": 1296,
-    "collected_at": "2026-05-02T18:52:11.070565"
+    "collected_at": "2026-05-03T02:06:59.302442"
   },
   {
     "id": "hn-45941596",
@@ -4687,7 +4678,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-02T18:52:11.070440"
+    "collected_at": "2026-05-03T02:06:59.302325"
   },
   {
     "id": "hn-45930151",
@@ -4698,7 +4689,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-02T18:52:11.070491"
+    "collected_at": "2026-05-03T02:06:59.302374"
   },
   {
     "id": "hn-45722069",
@@ -4709,7 +4700,7 @@
     "published": "2025-10-27T15:27:38Z",
     "summary": "It's insulting to read AI-generated blog posts",
     "points": 1300,
-    "collected_at": "2026-05-02T18:52:11.070550"
+    "collected_at": "2026-05-03T02:06:59.302428"
   },
   {
     "id": "hn-44972151",
@@ -4720,7 +4711,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-02T18:52:11.070185"
+    "collected_at": "2026-05-03T02:06:59.302085"
   },
   {
     "id": "hn-44396518",
@@ -4731,7 +4722,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-02T18:52:11.070333"
+    "collected_at": "2026-05-03T02:06:59.302226"
   },
   {
     "id": "hn-44314423",
@@ -4742,7 +4733,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-02T18:52:11.070387"
+    "collected_at": "2026-05-03T02:06:59.302277"
   },
   {
     "id": "hn-44163063",
@@ -4753,7 +4744,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-02T18:52:11.070031"
+    "collected_at": "2026-05-03T02:06:59.301944"
   },
   {
     "id": "hn-42910910",
@@ -4764,7 +4755,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-02T18:52:11.070200"
+    "collected_at": "2026-05-03T02:06:59.302100"
   },
   {
     "id": "hn-41392128",
@@ -4775,7 +4766,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-02T18:52:11.070118"
+    "collected_at": "2026-05-03T02:06:59.302024"
   },
   {
     "id": "hn-41386319",
@@ -4786,7 +4777,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-02T18:52:11.070134"
+    "collected_at": "2026-05-03T02:06:59.302039"
   },
   {
     "id": "hn-41069829",
@@ -4797,7 +4788,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-02T18:52:11.070507"
+    "collected_at": "2026-05-03T02:06:59.302389"
   },
   {
     "id": "hn-41046773",
@@ -4808,7 +4799,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-02T18:52:11.070015"
+    "collected_at": "2026-05-03T02:06:59.301929"
   },
   {
     "id": "hn-40767459",
@@ -4819,7 +4810,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-02T18:52:11.070524"
+    "collected_at": "2026-05-03T02:06:59.302404"
   },
   {
     "id": "hn-39918245",
@@ -4830,7 +4821,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-02T18:52:11.070456"
+    "collected_at": "2026-05-03T02:06:59.302340"
   },
   {
     "id": "hn-39526057",
@@ -4841,7 +4832,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-02T18:52:11.069998"
+    "collected_at": "2026-05-03T02:06:59.301913"
   },
   {
     "id": "hn-38544729",
@@ -4852,7 +4843,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-02T18:52:11.070075"
+    "collected_at": "2026-05-03T02:06:59.301984"
   },
   {
     "id": "hn-37021160",
@@ -4863,7 +4854,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-02T18:52:11.070217"
+    "collected_at": "2026-05-03T02:06:59.302115"
   },
   {
     "id": "hn-31812259",
@@ -4874,7 +4865,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-02T18:52:11.070403"
+    "collected_at": "2026-05-03T02:06:59.302291"
   },
   {
     "id": "hn-18249755",
@@ -4885,7 +4876,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-02T18:52:11.070167"
+    "collected_at": "2026-05-03T02:06:59.302069"
   },
   {
     "id": "hn-17022963",
@@ -4896,7 +4887,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-02T18:52:11.070152"
+    "collected_at": "2026-05-03T02:06:59.302056"
   },
   {
     "id": "hn-15892066",
@@ -4907,7 +4898,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-02T18:52:11.070355"
+    "collected_at": "2026-05-03T02:06:59.302247"
   },
   {
     "id": "hn-6830566",
@@ -4918,6 +4909,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-02T18:52:11.070471"
+    "collected_at": "2026-05-03T02:06:59.302353"
   }
 ]

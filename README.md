@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-03 02:53:36
+🕐 **最近更新**：2026-05-03 10:08:17
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -20,25 +20,25 @@
    - 人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用
    - `TechCrunch AI · 2026-05-02`
 
-2. [Meta 收购机器人初创公司以增强其人形人工智能雄心](https://aihot.bt199.com/news/0809bbe44568/)
-   - 该公司表示，Meta 收购了人形初创公司 Assured Robot Intelligence，以增强其机器人人工智能模…
-   - `TechCrunch AI · 2026-05-01`
-
-3. [马斯克诉奥特曼第一周：埃隆·马斯克说他被骗了，警告人工智能可能会杀死我们所有人，并承认 xAI 提炼了 OpenAI 的模型](https://aihot.bt199.com/news/572f1821c4c2/)
+2. [马斯克诉奥特曼第一周：埃隆·马斯克说他被骗了，警告人工智能可能会杀死我们所有人，并承认 xAI 提炼了 OpenAI 的模型](https://aihot.bt199.com/news/572f1821c4c2/)
    - 在埃隆·马斯克和 OpenAI 之间具有里程碑意义的审判的第一周，马斯克穿着挺括的黑色西装，打着领带出庭，辩称 Open…
    - `MIT Tech Review · 2026-05-01`
 
-4. [人工智能时代的网络不安全](https://aihot.bt199.com/news/6100f49737ff/)
+3. [人工智能时代的网络不安全](https://aihot.bt199.com/news/6100f49737ff/)
    - 在人工智能进入堆栈之前，网络安全就已经面临压力。现在，随着人工智能扩大攻击面并增加新的复杂性，传统方法的局限性变得越来越…
    - `MIT Tech Review · 2026-05-01`
 
-5. [五角大楼与 OpenAI、谷歌和 Nvidia 达成机密人工智能协议，但不与 Anthropic 达成](https://aihot.bt199.com/news/103feabc1f38/)
+4. [五角大楼与 OpenAI、谷歌和 Nvidia 达成机密人工智能协议，但不与 Anthropic 达成](https://aihot.bt199.com/news/103feabc1f38/)
    - 据周五发布的公告称，五角大楼已与 OpenAI、谷歌、微软、亚马逊、Nvidia、埃隆·马斯克的 xAI 以及初创公司…
    - `The Verge AI · 2026-05-01`
 
-6. [埃隆·马斯克在法庭上度过了糟糕的一周](https://aihot.bt199.com/news/25346cb6d7fa/)
+5. [埃隆·马斯克在法庭上度过了糟糕的一周](https://aihot.bt199.com/news/25346cb6d7fa/)
    - 埃隆·马斯克是想要进行这次试验的人。他花了几个月的时间声称 OpenAI“窃取了一家非营利组织”，并表示他是目前科技领域…
    - `The Verge AI · 2026-05-01`
+
+6. [人工智能生成的演员和剧本现在没有资格获得奥斯卡奖](https://aihot.bt199.com/news/4ce3b826e9fa/)
+   - 对蒂莉·诺伍德来说是个坏消息
+   - `TechCrunch AI · 2026-05-02`
 
 7. [为什么最近的供应链攻击专门针对安全公司 Checkmarx 和 Bitwarden](https://aihot.bt199.com/news/dc28630cd03a/)
    - 安全公司发现自己尤其容易受到威胁
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
