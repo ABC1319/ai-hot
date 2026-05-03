@@ -117,11 +117,7 @@ TOP 3大新闻
 &lt;p&gt;Agent 从 Demo 到工程化还差什么？&lt;/p&gt;
 &lt;p&gt;研发体系不重构，还能撑多久？&lt;/p&gt;
 &lt;p&gt;6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。&lt;/p&gt;</description></item><item><title>Agent 控制层开始分化：Anthropic、OpenAI、微软和谷歌正在押注四种收费模式</title><link>https://aihot.bt199.com/news/ca1e53a86983/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ca1e53a86983/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;AI 代理的竞争正在从“模型能不能调用工具”推进到“谁来负责长期运行”。文章所说的控制层（harness）指的是模型之外的一整套生产系统：上下文管理、工具路由、沙箱执行、会话状态、权限边界、错误恢复、可观测性和追踪。&lt;/p&gt;</description></item><item><title>Agi 科技界的梦想</title><link>https://aihot.bt199.com/news/reddit-1sxelsd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1sxelsd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;如果他们实现了自己的梦想和通用人工智能，选择普通人类而不是精英，那会怎样呢？&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://reddit.com/r/artificial/comments/1sxelsd/agi_the_dream_of_the_tech_world/"&gt;r/artificial原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>AI outperforms doctors in Harvard trial of emergency triage diagnoses</title><link>https://aihot.bt199.com/news/reddit-1t0p7ej/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1t0p7ej/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;AI 代理的竞争正在从“模型能不能调用工具”推进到“谁来负责长期运行”。文章所说的控制层（harness）指的是模型之外的一整套生产系统：上下文管理、工具路由、沙箱执行、会话状态、权限边界、错误恢复、可观测性和追踪。&lt;/p&gt;</description></item><item><title>AI outperforms doctors in Harvard trial of emergency triage diagnoses</title><link>https://aihot.bt199.com/news/reddit-1t0p7ej/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1t0p7ej/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;AI outperforms doctors in Harvard trial of emergency triage diagnoses。&lt;/p&gt;
 &lt;p&gt;来源：r/artificial。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -514,12 +510,7 @@ As part of the campaign, Manus was paying content creators to build out Instagra
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"&gt;Hacker News原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Microsoft VibeVoice：开源前沿语音 AI</title><link>https://aihot.bt199.com/news/104b57e9a431/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/104b57e9a431/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;2026-03-06: 🚀 VibeVoice ASR is now part of a Transformers release! You can now use our speech recognition model directly through the Hugging Face Transformers library for seamless integration into your projects.
-2026-01-21: 📣 We open-sourced VibeVoice-ASR, a unified speech-to-text model designed to handle 60-minute long-form audio in a single pass, generating structured transcriptions containing Who (Speaker), When (Timestamps), and What (Content), with support for User-Customized Context.&lt;/p&gt;</description></item><item><title>Microsoft 推出“TRELLIS.2”：一种开源、4b 参数、图像到 3D 模型，可生成多达 1536³ PBR 纹理资源，基于具有 16 倍空间压缩的原生 3D VAES 构建，可提供高效、可扩展、高保真资源生成。</title><link>https://aihot.bt199.com/news/reddit-1sxf2u0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1sxf2u0/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;TRELLIS.2 是一种最先进的大型 3D 生成模型（4B 参数），专为高保真图像到 3D 生成而设计。&lt;/p&gt;
-&lt;p&gt;它利用一种称为…&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://reddit.com/r/LocalLLaMA/comments/1sxf2u0/microsoft_presents_trellis2_an_opensource/"&gt;r/LocalLLaMA原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Mike：开源法律人工智能</title><link>https://aihot.bt199.com/news/7a51950f7124/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7a51950f7124/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+2026-01-21: 📣 We open-sourced VibeVoice-ASR, a unified speech-to-text model designed to handle 60-minute long-form audio in a single pass, generating structured transcriptions containing Who (Speaker), When (Timestamps), and What (Content), with support for User-Customized Context.&lt;/p&gt;</description></item><item><title>Mike：开源法律人工智能</title><link>https://aihot.bt199.com/news/7a51950f7124/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7a51950f7124/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Assistant
 A chat interface that reads your documents, cites verbatim, runs multi-step workflows, and drafts and edits contracts end-to-end.&lt;/p&gt;
 &lt;p&gt;Plug in your own Claude or Gemini keys, and keep full control of the models you use.
@@ -591,12 +582,7 @@ Parallel offers a suite of web search and research APIs specifically for AI agen
 &lt;p&gt;与往常一样，您的时间很宝贵，所…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://reddit.com/r/LocalLLaMA/comments/1t0vp3w/pflash_10x_prefill_speedup_over_llamacpp_at_128k/"&gt;r/LocalLLaMA原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Project Aurelia — 一个 3 模型架构 (80B + 13B + 9B)，通过毫米波雷达对我的实时心率、通过激光雷达进行空间感知以及通过加速度计对振动做出物理反应。一切都在框架桌面 + eGPU 上</title><link>https://aihot.bt199.com/news/reddit-1sxfot8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1sxfot8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;大家好，我利用业余时间构建了一个多代理系统，并且刚刚开源了存储库。&lt;/p&gt;
-&lt;p&gt;我厌倦了标准的文本输入/文本输出聊天模式，并希望构建一…&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://reddit.com/r/artificial/comments/1sxfot8/project_aurelia_a_3model_architecture_80b_13b_9b/"&gt;r/artificial原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Project Glasswing: Securing critical software for the AI era</title><link>https://aihot.bt199.com/news/hn-47679121/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/hn-47679121/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://reddit.com/r/LocalLLaMA/comments/1t0vp3w/pflash_10x_prefill_speedup_over_llamacpp_at_128k/"&gt;r/LocalLLaMA原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Project Glasswing: Securing critical software for the AI era</title><link>https://aihot.bt199.com/news/hn-47679121/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/hn-47679121/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Project Glasswing: Securing critical software for the AI era。&lt;/p&gt;
 &lt;p&gt;来源：Hacker News。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -647,7 +633,25 @@ Sauce AI for Test Authoring
 &lt;a href="https://jameshard.ing/pilot"&gt;Hacker News原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Slack 长时运行多智能体系统的上下文管理方案</title><link>https://aihot.bt199.com/news/e4f6cbca05cf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e4f6cbca05cf/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;为了在长时间运行的智能体系统中保持效率，Slack 工程师放弃了累积聊天记录的做法，转而采用
 结构化记忆、验证与蒸馏事实
-的方式来维持长时间运行智能体系统的连贯性与准确性。&lt;/p&gt;</description></item><item><title>Spotify 添加“已验证”徽章以区分人类艺术家和人工智能</title><link>https://aihot.bt199.com/news/9aa5e638efd8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/9aa5e638efd8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+的方式来维持长时间运行智能体系统的连贯性与准确性。&lt;/p&gt;</description></item><item><title>Specsmaxxing – 关于克服 AI 精神病，以及为什么我在 YAML 中编写规范</title><link>https://aihot.bt199.com/news/6dce65869e71/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6dce65869e71/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Documentation Index
+Fetch the complete documentation index at:
+&lt;a href="https://acai.sh/llms.txt"&gt;https://acai.sh/llms.txt&lt;/a&gt;
+Use this file to discover all available pages before exploring further.
+Does this look familiar?
+Wow.&lt;/p&gt;
+&lt;p&gt;Claude.&lt;/p&gt;
+&lt;p&gt;Mind-blowing.&lt;/p&gt;
+&lt;p&gt;The whole feature works great.&lt;/p&gt;
+&lt;p&gt;But I forgot to mention one
+very
+important edge case.
+You’re absolutely right! Let me fix that.
+Ah, and I just noticed.&lt;/p&gt;
+&lt;p&gt;You used&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://acai.sh/blog/specsmaxxing"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Spotify 添加“已验证”徽章以区分人类艺术家和人工智能</title><link>https://aihot.bt199.com/news/9aa5e638efd8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/9aa5e638efd8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;文章网址：https://www.bbc.com/news/articles/c5yerr4m1yno 评论网址：htt…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -693,9 +697,7 @@ The Wall Street Journal reports that OpenAI “considered” flagging the 18-yea
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Ubuntu 的人工智能计划让 Linux 用户寻找“终止开关”</title><link>https://aihot.bt199.com/news/f68cdc4ceeae/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/f68cdc4ceeae/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;Canonical’s plan to add AI features to Ubuntu has some users asking for “a version of Ubuntu that does not include these features,” while others say they’ll stick with older versions of the Linux distro or even switch to a different one.&lt;/p&gt;</description></item><item><title>Ubuntu 也要加入 AI 功能，但 Canonical 强调不会把系统变成“AI 产品”</title><link>https://aihot.bt199.com/news/5c286e0b1694/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/5c286e0b1694/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;Canonical 正在为 Ubuntu 制定一套 AI 功能路线。根据 Ubuntu 开发商 Canonical 工程副总裁 Jon Seager 的说法，相关能力会在 2026 年陆续进入这款主流 Linux 发行版。&lt;/p&gt;
-&lt;p&gt;这些功能大致分为两类：一类是在后台用模型增强现有系统能力，另一类是为愿意使用 AI 的用户提供更“AI 原生”的工作流。前者可能包括更好的语音转文字、文字转语音等无障碍工具，后者则可能覆盖故障排查和个人自动化。&lt;/p&gt;</description></item><item><title>Unsloth 解决了 Mistral Medium 3.5 实施中的错误</title><link>https://aihot.bt199.com/news/reddit-1t1itn1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1t1itn1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Canonical’s plan to add AI features to Ubuntu has some users asking for “a version of Ubuntu that does not include these features,” while others say they’ll stick with older versions of the Linux distro or even switch to a different one.&lt;/p&gt;</description></item><item><title>Unsloth 解决了 Mistral Medium 3.5 实施中的错误</title><link>https://aihot.bt199.com/news/reddit-1t1itn1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1t1itn1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;[https://unsloth.ai/docs/models/mistral-3.5](https://unsloth…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -775,7 +777,17 @@ The restrictions will prevent companies from adding new driverless cars to their
 &lt;p&gt;在工程优化的维度中，答案是毋庸置疑的。&lt;/p&gt;</description></item><item><title>不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账</title><link>https://aihot.bt199.com/news/5a072659feb0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/5a072659feb0/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;“现在的挑战是，有钱也买不到东西。&lt;/p&gt;
 &lt;p&gt;从 DRAM 到闪存颗粒，再到硬盘和磁带，几乎所有跟存储相关的环节都面临严重供给压力。&lt;/p&gt;
-&lt;p&gt;现在去下单硬盘，20T、24T 硬盘的交付周期普遍在 52 到 72 周。&lt;/p&gt;</description></item><item><title>不谈空话，谈合作丨这场AI+产业对接会只聊落地</title><link>https://aihot.bt199.com/news/e9998a6be99d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e9998a6be99d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;现在去下单硬盘，20T、24T 硬盘的交付周期普遍在 52 到 72 周。&lt;/p&gt;</description></item><item><title>不好！1930年的AI都来抢程序员饭碗了</title><link>https://aihot.bt199.com/news/1d43b720a45e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1d43b720a45e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;不好！&lt;/p&gt;
+&lt;p&gt;1930年的AI都来抢程序员饭碗了
+衡宇
+2026-05-03
+17:42:55
+来源：
+量子位
+Jay 发自 凹非寺
+量子位 | 公众号 QbitAI
+劳动节，马上100岁的vintage大模型也得劳动。&lt;/p&gt;</description></item><item><title>不谈空话，谈合作丨这场AI+产业对接会只聊落地</title><link>https://aihot.bt199.com/news/e9998a6be99d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e9998a6be99d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;“世界咖啡”[AI+]产业对接会正式定档北京亦庄。&lt;/p&gt;
 &lt;p&gt;搞噱头还是做实事，我们需要一个华丽转身
 这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。&lt;/p&gt;</description></item><item><title>参议院司法委员会推进霍利的 GUARD 法案，强制人工智能聊天机器人用户进行身份验证</title><link>https://aihot.bt199.com/news/reddit-1t16w2v/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1t16w2v/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -902,13 +914,7 @@ You’ll get to browse through the clothing you were captured wearing and create
 You’ll get to browse through the clothing you were captured wearing and create new outfits.
 A video shared by Google shows how Photos organizes your outfits and individual pieces of clothing into a virtual “wardrobe.” You can browse through the outfits you were captured wearing, as well as create new ones by choosing from tops, bottoms, skirts, dresses, and shoes to put together a new look.
 You can also select the button in the bottom right corner of each outfit to virtually try them on.
-Though Google launched an AI virtual try-on feature last year, it only allowed you to try on clothing you’re shopping for in Search.&lt;/p&gt;</description></item><item><title>谷歌员工要求桑达尔·皮查伊对机密军事人工智能使用说不</title><link>https://aihot.bt199.com/news/b674898a18bb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b674898a18bb/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post.&lt;/p&gt;
-&lt;p&gt;Its organizers claim many of the signers work in Google’s DeepMind AI lab, and include more than 20 principals, directors, and vice presidents.
-Google employees ask Sundar Pichai to say no to classified military AI use
-After a report that Google is in talks with the Pentagon, hundreds of employees signed a letter against the idea.
-After a report that Google is in talks with the Pentagon, hundreds of employees signed a letter against the idea.
-According to the Post, the letter says that “The only way to guarantee that Google does not become associated with such harms is to reject any classified workloads.&lt;/p&gt;</description></item><item><title>谷歌云超过 $20B，但表示增长受到容量限制</title><link>https://aihot.bt199.com/news/14fce012f392/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/14fce012f392/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Though Google launched an AI virtual try-on feature last year, it only allowed you to try on clothing you’re shopping for in Search.&lt;/p&gt;</description></item><item><title>谷歌云超过 $20B，但表示增长受到容量限制</title><link>https://aihot.bt199.com/news/14fce012f392/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/14fce012f392/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Google Cloud, the business under parent company Alphabet that provides enterprise AI solutions, had a blowout first quarter, with revenues topping $20 billion for the time, a 63% increase from the same period last year.&lt;/p&gt;
 &lt;p&gt;However, investors on the company’s earnings call expressed concern about the constraints surrounding the business and how Google decides to allocate cloud capacity.
 In the first quarter of 2026, the company said its cloud growth was driven by strong performance in the Google Cloud Platform, which grew at a higher rate than the Google Cloud division’s overall revenue growth.&lt;/p&gt;</description></item><item><title>谷歌云推出 Agents CLI，简化 AI 智能体开发全流程</title><link>https://aihot.bt199.com/news/c4904f8ae6f4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c4904f8ae6f4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -1161,15 +1167,17 @@ The Academy of Motion Picture Arts and Sciences said that only performances “c
 &lt;p&gt;文章网址：https://californiawaterblog.com/2026/04/26/ai-water-use…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>人工智能在算法招聘中的自我偏好：经验证据和见解</title><link>https://aihot.bt199.com/news/6110753a9b31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6110753a9b31/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>人工智能音乐正在涌入流媒体服务——但谁想要它呢？</title><link>https://aihot.bt199.com/news/3800b60792a2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3800b60792a2/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.&lt;/p&gt;
+&lt;p&gt;For more on how AI is changing music and the music industry, follow Terrence O’Brien.&lt;/p&gt;
+&lt;p&gt;The Stepback arrives in our subscribers’ inboxes at 8AM ET.&lt;/p&gt;
+&lt;p&gt;Opt in for The Stepback here.
+AI music is flooding streaming services — but who wants it?
+They won’t ban it.&lt;/p&gt;</description></item><item><title>人工智能在算法招聘中的自我偏好：经验证据和见解</title><link>https://aihot.bt199.com/news/6110753a9b31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6110753a9b31/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Computer Science &amp;gt; Computers and Society
 Title:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights
 View PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation.&lt;/p&gt;
-&lt;p&gt;This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias &amp;ndash; the tendency of LLMs to favor their own generated content &amp;ndash; but its real-world implications have not been empirically evaluated.&lt;/p&gt;</description></item><item><title>任何使用 Tensordock GPU 实例并遇到虚拟机故障问题的人 [D]</title><link>https://aihot.bt199.com/news/reddit-1sxdh95/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1sxdh95/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;我有一个 GPU 分布式实例虚拟机（服务器信息中指定的三层数据中心），两天前我尝试启动它，而我一直在支付存储费用，以免丢…&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://reddit.com/r/MachineLearning/comments/1sxdh95/anyone_using_tensordock_gpu_instances_and_having/"&gt;r/MachineLearning原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>如果人工智能将变得更聪明 10 倍，我们如何防止互联网在合成噪音下崩溃？</title><link>https://aihot.bt199.com/news/reddit-1sxka9a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1sxka9a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias &amp;ndash; the tendency of LLMs to favor their own generated content &amp;ndash; but its real-world implications have not been empirically evaluated.&lt;/p&gt;</description></item><item><title>如果人工智能将变得更聪明 10 倍，我们如何防止互联网在合成噪音下崩溃？</title><link>https://aihot.bt199.com/news/reddit-1sxka9a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/reddit-1sxka9a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;我完全赞成加速。&lt;/p&gt;
 &lt;p&gt;我认为我们越快实现通用人工智能越好。&lt;/p&gt;
 &lt;p&gt;但这里有一个瓶颈，没有人谈论足够的训练数据。&lt;/p&gt;
@@ -1272,6 +1280,17 @@ Google Gemini 2.5 Pro&lt;/p&gt;</description></item><item><title>他用AI办了�
 听雨
 2026-05-01
 14:21:38
+来源：
+量子位
+听雨 发自 凹非寺
+量子位 | 公众号 QbitAI
+马斯克和奥特曼这场
+世纪庭审&lt;/p&gt;</description></item><item><title>太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架</title><link>https://aihot.bt199.com/news/b79d29ec8217/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b79d29ec8217/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;太抓马了！&lt;/p&gt;
+&lt;p&gt;马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架
+听雨
+2026-05-03
+17:43:20
 来源：
 量子位
 听雨 发自 凹非寺
@@ -1433,7 +1452,11 @@ zkDTVM&lt;/p&gt;</description></item><item><title>我的第一个 Linux 内核�
 &lt;p&gt;五角大楼与七家人工智能公司就机密军事工作达成协议特朗普政府&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/"&gt;r/artificial原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>下载：北极的未来和人形数据</title><link>https://aihot.bt199.com/news/99c79c91bb23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/99c79c91bb23/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://reddit.com/r/artificial/comments/1t18zba/pentagon_inks_deals_with_seven_ai_companies_for/"&gt;r/artificial原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>五一假期写代码不想打字？ Mac 语音输入工具 Voilà，送 20 个免费授权</title><link>https://aihot.bt199.com/news/v2ex-1210036/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1210036/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Demo
+为什么做这个
+去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。&lt;/p&gt;
+&lt;p&gt;市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。&lt;/p&gt;</description></item><item><title>下载：北极的未来和人形数据</title><link>https://aihot.bt199.com/news/99c79c91bb23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/99c79c91bb23/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;This is today&amp;rsquo;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;rsquo;s going on in the world of technology.
 Digging for clues about the North Pole’s past
 In the past, getting to the North Pole involved a treacherous trip through ice many meters thick.&lt;/p&gt;
