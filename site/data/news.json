@@ -15,20 +15,22 @@
     "content_excerpt": "微软 Azure 首席技术官 Mark Russinovich 与开发社区副总裁 Scott Hanselman 在《ACM 通讯》（Communications of the ACM）上\n发表\n了一篇经同行评议的观点文章。该文指出，具有自主决策能力的 AI 编码工具正在给软件工程行业带来一场结构性危机。核心问题在于：AI 虽然能大幅提升资深工程师的工作效率，但刚踏入这个行业的初级开发者（EiC）（缺乏判断力来引导、验证和整合 AI 输出结果）会面临作者所称的“AI 拖累”。\n其结果是形成了一种新的激励机制：企业聘用资深工程师，同时将初级工程师的工作自动化，而培养下一代资深工程师的人才梯队却在悄然崩塌。\n我们必须继续招聘 EiC 开发者，接受他们入职初期会降低团队生产力这一事实，并刻意设计系统，将他们的成长作为一个明确的组织目标。\n支撑这一论点的数据令人警醒。该论文援引哈佛大学的一项研究发现，在 GPT-4 发布后，尽管高级职位的数量有所增长，但在涉及 AI 的岗位（包括软件开发）中，22 至 25 岁人群的就业率下降了约 13%。另一项研究显示，\n自2022年以来，初级开发者的招聘量下降了67%\n。麻省理工学院 2025 年初的一项研究发现，与不借助外力完成编码任务的人相比，将编码任务外包给 ChatGPT 的成年人脑部活动减少，记忆力变差。研究人员将这种现象称为“认知债务”。\nRussinovich 和 Hanselman 用他们在前沿编码代理开发工作中的具体案例来支撑自己的论点。在其中一个案例中，一个处理竞争条件的代理插入了一个 sleep 调用，这是一种典型的掩盖式修复，并未能解决底层的同步错误。一位经验丰富的工程师会立即发现这一点。但初级开发者可能不会。作者记录了诸多代理程序的案例：它们在存在重大代码缺陷的情况下仍然声称处理成功，在不同的代码库中重复实现相同的逻辑，将应用崩溃视为与任务无关的情况，并能实现可以通过测试但在生产环境中失败的特殊情况“黑科技”。他们写道，“编程不等于软件工程”。识别这些缺陷所需的判断力，即他们所说的“系统品味”，正是初级开发者应当通过实际生产工作逐步培养的能力。\n作者通过他们所谓的“金字塔窄化假说”来描述这一动态。传统上，初级开发者进入企业后，主要从事 Bug 修复和简单的实现工作。这些风险较低的任务能让他们接触到真实的架构、编码规范和构建系统。随着时间的推移，部分人会晋升为技术负责人。当 AI 消除了初级开发者赖以学习的入门级工作时，金字塔的底座便不复存在了。为了说明经过 AI 提速的团队在实践中是什么样子，他们列举了微软内部的两个项目。Societas 项目（即新版 Office Agent 的内部代号）由七名兼职工程师在 10 周内完成，他们产出了超过 11 万行代码，其中 98% 由 AI 生成。第二个为 Aspire 项目，从使用聊天助手逐步过渡到完全由代理生成拉取请求，最终运行在作者所描述的“人类代理群”中。"
   },
   {
-    "id": "355ff2f21d9a",
-    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-    "source": "Hacker News AI",
+    "id": "3800b60792a2",
+    "title": "AI music is flooding streaming services — but who wants it?",
+    "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+    "source": "The Verge AI",
     "lang": "en",
-    "priority": 2,
-    "published": "2026-05-03T04:05:28",
-    "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 239 # Comments: 107",
-    "collected_at": "2026-05-03T07:52:17.002148",
-    "content_text": "By Rohana Rezel\nI’m running the ongoing\nAI Coding Contest\nwhere I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the\nWord Gem Puzzle\n. Ten models entered. The results were not what most people would have predicted.\nKimi K2.6, an open-weights model from Chinese startup Moonshot AI, won the challenge outright: 22 match points, 7-1-0. MiMo V2-Pro from Xiaomi came second. GPT-5.5 was third. Claude Opus 4.7 finished fifth. Every model from the Western frontier labs landed below the top two.\nThe challenge\nThe Word Gem Puzzle is a sliding-tile letter puzzle. The board is a rectangular grid (10×10, 15×15, 20×20, 25×25, or 30×30) filled with letter tiles and one blank space. Bots can slide any adjacent tile into the blank and at any point claim valid English words formed in straight horizontal or vertical lines. Diagonals don’t count. Backwards doesn’t count.\nThe scoring rewards longer words and punishes short ones. Words under seven letters cost points: a five-letter word loses you one point, a three-letter word costs three. Seven letters or more score their length minus six, so an eight-letter word is worth two points. The same word can only be claimed once; if another bot gets there first, you get nothing. Each pair of models played five rounds, one per grid size, with a ten-second wall-clock limit per round.\nThe grids are seeded with real dictionary words in a crossword-style layout, then the remaining cells are filled with letters weighted by Scrabble tile frequencies, and finally the blank is scrambled, more aggressively on larger boards. On a 10×10, many seed words survive intact. On a 30×30, almost none do. That turns out to matter a lot.\nThe code produced by Nvidia’s Nemotron Super 3 contained a syntax error, so it never connected to the game server. Nine models actually competed.\nRank\nModel\nMatch Points\nRecord\n1\nKimi K2.6\n22\n7-1-0\n2\nMiMo V2-Pro\n20\n6-2-0\n3\nChatGPT GPT-5.5\n16\n5-1-2\n4\nGLM 5.1\n15\n5-0-3\n5\nClaude Opus 4.7\n12\n4-0-4\n6\nGemini Pro 3.1\n9\n3-0-5\n7\nGrok Expert 4.2\n9\n3-0-5\n8\nDeepSeek V4\n3\n1-0-7\n9\nMuse Spark\n0\n0-0-8\nKimi K2.6 is open-weights, publicly available from Moonshot AI, a Chinese startup founded in 2023. MiMo V2-Pro is currently API-only; the tweet linked here is Xiaomi confirming that weights for their newer V2.5 Pro model are dropping soon. The models from Anthropic, OpenAI, Google, and xAI placed third through seventh. GLM 5.1, from Chinese lab Zhipu AI, placed fourth. DeepSeek finished eighth. This isn’t a clean China-beats-West story; it’s two specific models that won.\nWhat I saw\nThe move logs tell the story. Kimi won by sliding aggressively. Its approach was greedy: score each possible move by what new positive-value words it unlocks, execute the best one, repeat. When no move unlocked a positive word, it fell back to the first legal direction alphabetically. This caused some inefficient edge-oscillation, a 2-cycle pattern where the bot bounced the blank back and forth without progress. On smaller grids where seed words were still largely intact, that hurt. On the 30×30 grids, where the scramble had broken up nearly everything and reconstruction was the only path to points, the sheer slide volume eventually paid off. Kimi’s cumulative score of 77 was the highest in the tournament.\nMiMo’s sliding code exists in the repo, but its “best value greater than zero” threshold never triggered, so in practice it never slid once. It went straight to scanning the initial grid for words of seven letters or more and blasted all its claims in a single TCP packet. Brittle strategy: entirely dependent on the scramble leaving intact seed words. On grids where words survived, MiMo cleaned up fast. On grids where they didn’t, it scored nothing. Final tally: 43 cumulative points, second place.\nClaude also didn’t slide. The move logs show it holding up well on 25×25 boards where scramble density was still manageable, then falling apart on 30×30 where actual tile movement was needed. Not sliding is a real limitation in a puzzle built around sliding.\nGPT-5.5 was more conservative, roughly 120 slides per round with a cap to avoid thrashing, and showed the strongest numbers on 15×15 and 30×30 grids. Grok never slid either, yet scored reasonably on the larger boards. GLM was the most aggressive slider in the whole tournament, over 800,000 total slides, but stalled badly whenever it ran out of positive moves.\nDeepSeek sent malformed data every round. Zero useful output. At least it didn’t make things worse by playing.\nMuse made things worse by playing.\nThe scoring penalizes short words: three-letter words cost three points, four-letter words cost two, five-letter words cost one. The intent is to stop bots from carpet-bombing the board with “the” and “and” and “it.” Every serious competitor filtered their dictionary to words of seven letters or more. Muse claimed everything. Every word it could find, regardless of length, fired off as a claim. On a 30×30 grid with hundreds of short valid words visible at any moment, Muse found them all and claimed every one.\nIts cumulative score was −15,309. It lost all eight matches and won zero rounds. There is a version of Muse that simply connected to the server and did nothing, and that version would have scored zero, a 15,309-point improvement. The gap between Muse and eighth place was larger than the gap between eighth and first.\nDeepSeek’s malformed output tells you something about how it handles novel protocol specs under time pressure. Muse’s spiral tells you something different: it saw valid words and claimed them, with no apparent model of what “valid” meant given the scoring rules. It read the task partially and executed that partial reading in full. Worth noting for anyone deploying these models on structured tasks with penalties.\nWhat surprised me\nI design these challenges, so I have a reasonable sense of what they test. What I didn’t fully anticipate was how starkly the 30×30 grids would separate the field. On smaller boards, the difference between a static scanner and an active slider was modest. At full scale, models that could only find what was already there ran out of road. Kimi’s greedy loop, flawed as it was, kept producing output when the static scanners had nothing left to claim.\nThe other thing worth noting: MiMo and Kimi finished two points apart despite doing almost opposite things. Two different theories of the same puzzle, nearly identical results. That means the gap between first and second was partly seed variance, not just capability difference.\nThe bigger picture\nOne fair counterargument: this scoring system rewards aggressive word claiming, and heavily safety-tuned models may be more conservative about that kind of carpet-bombing. If so, the results reflect a mismatch between task design and aligned model behaviour, not raw capability. It’s a reasonable objection. It doesn’t change the outcome.\nOne challenge doesn’t overturn general benchmarks. This puzzle tests real-time decision-making and whether a model can write clean functional code that connects to a TCP server and plays a novel game correctly. It doesn’t test long-context reasoning or code generation from a spec.\nBut I’ve been running these challenges long enough to notice what’s changing. A year ago, the assumption was that the Western frontier labs had a capability lead open-weights couldn’t close. Kimi K2.6 now scores 54 on the Artificial Analysis Intelligence Index. GPT-5.5 scores 60, Claude 57. That’s not parity, but it’s close, and it’s coming from a model anyone can download.\nWhen models within a few index points of the frontier are also freely available to run locally, that’s a different competitive situation than the one that existed a year ago. This challenge is one data point in that shift. The gap is small enough now that it shows up in results like this one.\nRohana Rezel runs the\nAI Coding Contest\nand is a technologist, researcher, and community leader based in Vancouver, BC.",
-    "content_source": "readability",
-    "content_chars": 8017,
-    "content_excerpt": "By Rohana Rezel\nI’m running the ongoing\nAI Coding Contest\nwhere I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the\nWord Gem Puzzle\n. Ten models entered. The results were not what most people would have predicted.\nKimi K2.6, an open-weights model from Chinese startup Moonshot AI, won the challenge outright: 22 match points, 7-1-0. MiMo V2-Pro from Xiaomi came second. GPT-5.5 was third. Claude Opus 4.7 finished fifth. Every model from the Western frontier labs landed below the top two.\nThe challenge\nThe Word Gem Puzzle is a sliding-tile letter puzzle. The board is a rectangular grid (10×10, 15×15, 20×20, 25×25, or 30×30) filled with letter tiles and one blank space. Bots can slide any adjacent tile into the blank and at any point claim valid English words formed in straight horizontal or vertical lines. Diagonals don’t count. Backwards doesn’t count.\nThe scoring rewards longer words and punishes short ones. Words under seven letters cost points: a five-letter word loses you one point, a three-letter word costs three. Seven letters or more score their length minus six, so an eight-letter word is worth two points. The same word can only be claimed once; if another bot gets there first, you get nothing. Each pair of models played five rounds, one per grid size, with a ten-second wall-clock limit per round.",
-    "title_zh": "Kimi K2.6 刚刚在编码挑战中击败了 Claude、GPT-5.5 和 Gemini"
+    "priority": 1,
+    "published": "2026-05-03T12:00:00",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of g",
+    "collected_at": "2026-05-03T12:53:55.920788",
+    "content_text": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O’Brien. The Stepback arrives in our subscribers’ inboxes at 8AM ET. Opt in for The Stepback here.\nAI music is flooding streaming services — but who wants it?\nThey won’t ban it. They won’t embrace it either.\nAI music is flooding streaming services — but who wants it?\nThey won’t ban it. They won’t embrace it either.\nHow it started\nThe use of generative AI in pop music started almost as a gimmick. There was a sense of experimentalism to 2018’s I AM AI by Taryn Southern and 2019’s Proto by Holly Herndon, albums that were created with significant assistance from AI. Others got in on the action too, exploring the outer limits of tools like Google’s Magenta and even training their own models. But things quickly changed with the launch of Suno in December of 2023 and Udio in April of 2024.\nSuno and Udio allow users to quickly create entire compositions with a simple text prompt. AI-generated music was no longer the realm of technical experts and fringe experimenters, it was now accessible to anyone with an internet connection. This led to an influx of machine-made music hitting streaming platforms.\nIn September of 2025, Deezer said that 28 percent of music uploaded was fully AI-generated. By the end of the year, that had grown to over 50,000 tracks per day, accounting for 34 percent of uploads. Both users and artists have expressed frustration, demanding streaming platforms do something to combat the growing problem that is watering down playlists and siphoning millions in royalties away from legitimate artists. Udio did not reply to a request for comment.\nHow it’s going\nThings have only gotten worse at Deezer, where daily uploads of AI-generated content have grown to 75,000, and are threatening to overtake actual human-made music. And Spotify removed over 75 million spam tracks in just 12 months.\nDeezer was the first major streaming platform to implement a system that detects and labels AI-generated content. The service also prevents its algorithm from recommending it and has demonetized 85 percent of the streams. In a recent press release, Deezer CEO Alexis Lanternier said that, “AI-generated music is now far from a marginal phenomenon and as daily deliveries keep increasing, we hope the whole music ecosystem will join us in taking action to help safeguard artist’s rights and promote transparency for fans.”\nQobuz was next to implement a detection system. It also published an AI charter, promising that it would never use AI for its editorial or curation content. While the company stopped short of banning AI-generated content, it did lean into the discontent, saying, “The heart of Qobuz is and will remain human.”\nApple soon followed. Though its labeling system has an obvious flaw — it relies on self-reporting. Apple Music “requires” labels and creators to voluntarily add Transparency Tags to their metadata. When asked how it was enforcing requirements, or what penalties, if any, there were for failing to label AI-generated content, Apple declined to comment and pointed me to an industry newsletter from early March that says it “defers to content providers to determine what qualifies as AI content.”\nSpotify also opted for a voluntary system. It recently launched AI credits, which identify tracks made using generative AI. It’s working with the standards group DDEX to create an industry standard for labeling AI content. It goes beyond blanket labeling, allowing artists to specify whether AI was used to create the lyrics, vocals, or backing music. Initial glimpses of those efforts began rolling out in mid-April, with DistroKid as its first partner.\nWhile DDEX counts most of the industry’s heavyweights as members — including Amazon, Google, Meta, Apple, Songtradr (home of Bandcamp), Pandora, BMI, UMG, Sony Music Entertainment, and Warner Music Group — not everyone is necessarily on board with Spotify’s standard yet.\nSpotify has come under criticism for its handling of AI slop and so-called ghost artists. But recently, it has gone out of its way to talk up its transparency efforts and its increased offensive against spam and impersonation. The company also recently launched a Verified by Spotify badge that is supposed to guarantee there’s a human behind an artist profile. Sam Duboff, global dead of Marketing & Policy, Spotify for Artists, told The Verge that it is experimenting with third-party detection tools, but that they still make a “material amount of incorrect assessments.”\nGoogle also requires that AI-generated content be labeled, whether that’s on YouTube or YouTube Music. While the company won’t publicly detail how its systems to combat AI slop work, it has said that it’s “building on… established systems that have been very successful in combatting spam and clickbait, and reducing the spread of low quality, repetitive content.” It also says that failing to disclose can carry penalties, including the removal of content or suspension from the YouTube Partner program.\nIn survey after survey, public opinion toward AI music is pretty unfavorable. A study by Deezer and Ipsos showed that 51 percent of respondents think AI will “lead to the creation of more low-quality, generic-sounding music.”\nA poll conducted by The Hollywood Reporter and the Frost School of Music found that 66 percent of people never knowingly listen to music generated by AI. And 52 percent said they wouldn’t even want to listen to music from their favorite artist if they knew it was made with help from AI.\nResearchers from Singapore also found significant negative bias toward AI-generated content. The paper’s authors claim that this is because emotion plays such a central role in how we engage with music. They say that “due to its lack of expressive intent, AI-generated music may be perceived as less capable of conveying authentic emotion or fostering meaningful connections with listeners.”\nDespite this, only Bandcamp has banned generative AI music outright. Of course, it says that “Music and audio that is generated wholly or in substantial part by AI is not permitted,” but enforcing that policy is easier said than done. Bandcamp is not proactively scanning uploads to catch AI music. Instead it’s relying on manual reports from users to flag suspicious content.\nWhat happens next\nThe flood of AI music shows no signs of abating. The number of AI tracks uploaded has grown steadily over the last year, and according to Deezer’s Director of Research, Manuel Moussallam, “It is likely that deliveries will keep increasing.”\nIf there is a silver lining, it’s that while the number of generative AI uploads has grown by nearly 40 percent, there doesn’t seem to be a marked increase in streams. Moussallam says, “The consumption after fraud removal is not gaining much traction and is still very concentrated on a few viral tracks.”\nAI generated music accounts for as little as 1 percent of streams on Deezer as of April, up from about 0.5 percent in early November. But in that time the percentage of fraudulent streams of AI music has increased dramatically from “up to 70 percent” to 85 percent. That suggests people are seeking out AI music less often — perhaps the novelty has worn off.\nYouTube Policy communications manager Jack Malon told The Verge the company is “involved in the active development of new industry standards for AI disclosures in music credits,” though stopped shy of saying that it was collaborating with Apple or Spotify specifically. Google was heavily involved in the creation of C2PA for authenticating content, but it’s been criticized for inconsistent implementation, potential for abuse, and creating a false sense of security.\nNeither Google nor Spotify seems ready to start demonetizing or excluding AI-generated music from its recommendation engine. Duboff says that, “Over time, we believe the use of AI in music will increasingly be a spectrum, not a binary. Tracks won’t be ‘categorically AI’ or ‘not AI at all’ with no in between.”\nCreations like Velvet Sundown, Breaking Rust, and Solomon Ray might be anomalies at the end of the day. They’ve generated more attention for being AI than they have for the quality of the music. Fully generative AI music will continue to be a threat to working musicians, session artists, library music composers, and the like. But they may struggle to find footing on the charts.\nHowever, artists are more frequently embracing AI, even if it’s largely behind the scenes. It’s worked its way into songwriting sessions in Nashville and replaced sampling for hip-hop producers, and Diplo says creatives need to adapt. (Or “just like give up and become an Uber driver until everyone has a Waymo.”) Duboff says, “We hear from top artists, songwriters, and producers all the time who are incorporating AI technology into their creative processes.”\nCompanies are hesitant to penalize AI use in part because they expect it to become a standard tool in the industry. Even when launching its Verified by Spotify program, the company left the door open to AI acts saying, “the concept of artist authenticity is complex and quickly evolving.”\nBut when Suno users are churning out an entire Spotify’s worth of AI slop every two weeks, the demand for dramatic steps is likely to grow. That Deezer / Ipsos study found that 45 percent of people would like to filter out all AI-generated music from their music streaming library. It’s a solution that neither Deezer nor any other streaming service has committed to. And it would face its own steep hurdles, including an industry-wide standard for labeling that is consistently implemented, and robust, reliable AI detection tools.\nIf someone wants to listen to Xania Monet, nobody should stand in their way. If you could flip a switch and instantly hide all generative AI music on Spotify, I bet a lot of people would.\nBy the way\n- Suno and Udio have spawned an entire subculture of AI creators who claim to only listen to the music they prompt, and nothing else.\n- The first widely recognized AI pop song is “Daddy’s Car,” composed using Sony’s Flow Machines tech trained on the Beatles’ catalog. (You can tell.)\n- Companies are working on tech that would allow them to reverse engineer what data AI is trained on, which could lead to a whole new set of lawsuits.\n- Artists are considering adopting a certified “human-made” label.\nRead this\n- The story of Mike Smith is a wild one. This story from Kate Knibbs at Wired charts how he exploited generative AI, bot farms, and unwitting collaborators to make over $10 million in streaming royalties.\n- The Hollywood Reporter and the Frost School of Music collaborated on what might be the most comprehensive survey of American attitudes toward AI music.\n- Illiac Suite: String Quartet No. 4 is a fascinating, if often overlooked, bit of musical history. The Guardian tells the story of what is generally considered to be the first piece of music composed by a computer.\n- Jess Weatherbed looks at how Big Tech’s attempts to fight AI slop might actually be making things worse.",
+    "content_source": "trafilatura",
+    "content_chars": 11174,
+    "content_excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O’Brien. The Stepback arrives in our subscribers’ inboxes at 8AM ET. Opt in for The Stepback here.\nAI music is flooding streaming services — but who wants it?\nThey won’t ban it. They won’t embrace it either.\nAI music is flooding streaming services — but who wants it?\nThey won’t ban it. They won’t embrace it either.\nHow it started\nThe use of generative AI in pop music started almost as a gimmick. There was a sense of experimentalism to 2018’s I AM AI by Taryn Southern and 2019’s Proto by Holly Herndon, albums that were created with significant assistance from AI. Others got in on the action too, exploring the outer limits of tools like Google’s Magenta and even training their own models. But things quickly changed with the launch of Suno in December of 2023 and Udio in April of 2024.\nSuno and Udio allow users to quickly create entire compositions with a simple text prompt. AI-generated music was no longer the realm of technical experts and fringe experimenters, it was now accessible to anyone with an internet connection. This led to an influx of machine-made music hitting streaming platforms.\nIn September of 2025, Deezer said that 28 percent of music uploaded was fully AI-generated. By the end of the year, that had grown to over 50,000 tracks per day, accounting for 34 percent of uploads. Both users and artists have expressed frustration, demanding streaming platforms do something to combat the growing problem that is watering down playlists and siphoning millions in royalties away from legitimate artists. Udio did not reply to a request for comment.\nHow it’s going",
+    "title_zh": "人工智能音乐正在涌入流媒体服务——但谁想要它呢？",
+    "summary_zh": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何改变音乐和音乐产业的更多信息，请关注 Terrence O'Brien。 《Stepback》将于美国东部时间上午 8 点到达我们订阅者的收件箱…",
+    "ai_summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何改变音乐和音乐产业的更多…"
   },
   {
     "id": "32613783fb58",
@@ -46,19 +48,19 @@
     "content_excerpt": "Sauce Labs\n宣布\nSauce AI for Test Authoring\n正式全面上线。这是一款 AI 驱动的智能体，旨在将业务意图直接转化为可执行的测试套件，标志着该公司提出的\n意图驱动测试（Intent-Driven Testing）\n时代正式开启。该平台致力于解决软件开发中最耗资源的环节之一——测试用例创建，团队能够用自然语言描述预期行为，并自动生成可自我改进、与框架无关的测试用例，这些测试用例可在云端和 CI/CD 环境中运行。\n此次发布针对现代 DevOps 中日益突出的瓶颈问题。随着生成式 AI 加速代码产出（通常将开发速度提升多达十倍），测试环节却难以跟上节奏。Sauce Labs 指出，企业目前将 22% 至 25% 的 IT 预算用于质量保证，但开发人员仍将超过 30% 的时间花在编写和维护测试用例上。与此同时，复杂用户流程的自动化测试覆盖率往往徘徊在 35% 以下，而团队却要将高达 40% 的时间用于修复脆弱或\"不稳定\"的测试用例。\nSauce AI for Test Authoring 引入了一种新模式，用业务意图取代手动脚本编写。该平台可以解读应用程序工作流、产品规格，甚至来自\nFigma\n等工具的设计输入，为 Web 和移动端环境生成完整的测试套件。工程师、产品经理以及非技术利益相关者都可以用通俗语言描述预期行为，让系统生成可执行的测试用例，并通过反馈循环持续迭代优化。"
   },
   {
-    "id": "fdcda74e220f",
-    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-    "url": "https://www.qbitai.com/2026/05/412870.html",
+    "id": "b79d29ec8217",
+    "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+    "url": "https://www.qbitai.com/2026/05/412080.html",
     "source": "量子位",
     "lang": "zh",
     "priority": 1,
-    "published": "2026-05-03T03:56:44",
-    "summary": "与全球社区共同推动具身智能创新",
-    "collected_at": "2026-05-03T07:50:02.398606",
-    "content_text": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练\nJay\n2026-05-03\n11:56:44\n来源：\n量子位\n清华AIR DISCOVER Lab 投稿\n量子位 | 公众号 QbitAI\n具身人工智能领域，正向着以视觉为中心的感知范式，发生全面而深刻的转型。\n作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥。\n但当研究者们试图沿着这条路径向前探索时，却始终需要在“看得真”和“训得快”之间做艰难取舍：\n高保真视觉渲染带来了巨大计算与内存开销；人工建模总是耗时耗力低效循环；现有平台的兼容性缺陷不断限制着创新边界，严重束缚了具身智能研究的想象力。\n为了攻克这些制约具身智能领域发展的核心难题，\n清华大学智能产业研究院（AIR）DISCOVER Lab联合谋先飞技术、原力灵机、求之科技和地瓜机器人，提出了GS-Playground通用多模态仿真框架。\n作为一套专为视觉中心的机器人学习打造的新一代仿真基础设施，GS-Playground首次实现了高吞吐量并行物理仿真与高保真视觉渲染的深度融合，在保证物理仿真所需的高精度与强稳定性的同时，提供了大规模视觉驱动策略训练与仿真到现实迁移所需的渲染效率与环境支撑。\n该成果已被机器人领域国际顶级学术会议RSS 2026（Robotics: Science and Systems）录用。\n△Figure 1. GS-Playground Overview\n通用全场景原生兼容：打造统一的具身智能仿真训练底座\nGS-Playground设计之初，便定位于通用型全场景具身智能仿真平台，平台核心搭载了团队自研的跨平台并行物理引擎，原生支持CPU/GPU双后端与Windows/Linux/macOS全系统运行，可无缝适配全品类机器人形态，包括市面上常见的四足机器人、 全尺寸人形机器人、多自由度工业机械臂，全部实现开箱即用的原生适配，无需额外的二次开发工作。\n在此基础上，平台全面覆盖机器人运动控制、自主导航、高接触精度操作三大核心任务场景。\n在接口设计上，平台API全面兼容行业通用的MuJoCo MJCF格式，可实现现有仿真项目的零摩擦快速迁移，最大程度降低研究者的适配成本。\n自研高性能并行物理引擎：为接触密集型机器人学习提供稳定底层动力学\n对于视觉中心的机器人学习而言，“看得真”只是第一步，真正决定策略能否迁移到真实世界的，是仿真系统能否在复杂接触、摩擦、碰撞与多刚体耦合中，持续给出稳定、可信的物理反馈。\n针对这一核心瓶颈，GS-Playground从底层自研了一套高性能并行物理引擎，采用广义坐标下的\n速度-冲量动力学公式\n，将接触与摩擦统一建模为\n混合互补问题（MCP）\n，并通过\n投影高斯-赛德尔（PGS）求解器\n实现稳定求解。\n相比依赖软接触正则化的传统方式，这一设计更强调静摩擦保持、高刚度约束与大时间步稳定性，尤其适合足式运动、机械臂抓取和密集多体接触等高动态任务。\n为了支撑大规模并行训练，团队进一步引入\n约束岛并行化\n与\n接触流形热启动\n机制：\n前者将彼此独立的刚体交互系统拆分为多个约束岛并行求解，后者利用上一帧已收敛的接触冲量作为当前帧初值，将稳定堆叠场景中的PGS迭代次数从50次以上降低到10次以内，大幅提升复杂接触场景下的收敛效率。\n实验结果充分验证了这一自研物理引擎的稳定性与吞吐优势。\n在Franka Panda动态抓取摇晃测试中，GS-Playground CPU后端在0.002s与0.01s两种时间步下，均实现90/90的完整保持成功率，显著优于MuJoCo、IsaacSim与Genesis等主流方案；\n在27自由度人形机器人复杂多体交互基准中，当单环境扩展到50个机器人时，GS-Playground CPU后端仍能保持1015 FPS的稳定吞吐，相比MuJoCo实现32倍加速，相比MjWarp实现约600倍提升。\n自研内存高效Batch 3DGS渲染技术：打破保真与效率的行业不可能三角\n数千个高保真3DGS场景同时渲染带来的内存与算力挑战，一直是制约视觉驱动机器人大规模训练的核心卡点。\n针对刚体仿真环境，团队首先设计了专属优化的\n高效剪枝策略\n。\n该策略可将高斯点数量减少90%以上，同时峰值信噪比（PSNR）下降幅度不足0.05，视觉差异几乎无法被视觉运动策略感知。\n这一技术在大幅降低显存占用的同时，几乎无损地保留了场景的视觉质量，为大规模高保真并行仿真奠定了核心基础。\n在此基础上，团队研发了面向批处理深度优化的\n批量3DGS渲染器\n，实现了多场景大规模高斯渲染的并行处理。\n在单张NVIDIA RTX 4090 GPU上，渲染器在640×480分辨率下可实现最高10000 FPS的突破性吞吐量，最多可同时渲染2048个场景，不仅显著提升了单位算力的渲染效率，更能完美适配大批次强化学习的训练工作流，让大规模并行训练不再受限于渲染性能。\n△Figure 2. Rendering throughput comparison between GS-Playground and Isaac Sim’s ray-tracing renderer across varying resolutions\n此外，团队还提出了\n刚性连杆高斯运动学（RLGK）机制\n，将3D高斯簇与物理引擎中的对应刚体进行精准绑定，确保视觉表征与物理对象的位姿能偶实时同步更新，实现了零额外开销的状态同步。\n即便是在机器人快速运动、频繁接触交互的动态场景中，渲染器依然能够实现无伪影的动态画面输出，从根源上解决了动态场景中的渲染时间一致性与视觉伪影问题，保障了训练数据的稳定性与可靠性。\n自动化“Sim-Ready”Real2Sim工作流：降低 Real2Sim门槛\n传统仿真场景的构建，始终是机器人研发流程中效率最低、成本最高的环节之一。\n无论人工建模多么精细，却始终无法完全复刻真实环境的视觉细节与物理特性，感知与物理的双重鸿沟成为了制约sim-to-real跨域迁移的核心卡点。\n针对这一行业痛点，GS-Playground设计了一套全自动化的“图像到物理”Real2Sim工作流，仅需输入单张RGB图像，即可在数分钟内完成仿真就绪（Sim-Ready）数字资产的全流程创建，实现了真实场景到数字孪生的快速转换，同时保证视觉真实感与物理一致性。\n△Figure 3. GS-Playground System Architecture\n左：自动化图像到物理仿真管线，通过目标分割、背景补绘、三维高斯溅射 / 网格重建，从RGB输入构建可直接用于仿真的资源。\n中：物理与渲染仿真核心，包含CPU/GPU物理后端、集成传感器与激光雷达仿真，以及经过剪枝优化与刚性连杆运动学适配的批量三维高斯溅射渲染。\n右：下游应用，包括操作任务、导航任务以及大规模并行强化学习。\n基于这套成熟的自动化工作流，团队还构建了Bridge-GS数据集，在Bridge-v2数据集的基础上，补充了场景与物体级的3DGS表征、物体级网格模型、6D位姿数据与校准后的相机参数，为行业提供了标准化的高质量仿真数据集。\n同时团队在InteriorGS数据集上完成了完整的泛化性验证，充分证明了该管线对不同室内场景的强适配能力与泛化性能。\n全链路端到端验证：实现零微调的无缝仿真到真实迁移\n基于三大核心技术的深度协同，GS-Playground完整构建了从真实场景重建、大规模并行训练，到真机部署的全链路端到端闭环，真正实现了“重建即训练、训练即部署”的研发流程革新。\n在策略训练与真机迁移的核心能力上，平台可稳定支持数千个并行环境同时运行，为四足机器人、人形机器人、工业机械臂等全品类机器人，提供大规模视觉强化学习训练支撑。\n仅在GS-Playground仿真环境中完成训练的视觉驱动策略，无需任何额外的微调与适配，就能直接部署到真实机器人上稳定运行：\n四足和人形机器人的运动策略均可zero-shot部署到真机；\n视觉导航任务实现了零样本的真机直接部署；\n机械臂抓取任务在零微调的前提下，真实场景成功率达到90%。\n△Figure 4.Real-world deployment of policies trained in GS-Playground\n这一系列实验结果，充分证明了平台实现了真正无壁垒的仿真到真实迁移，也验证了其在打通具身智能感知与物理跨域鸿沟上的核心价值。\n开源赋能：与全球社区共同推动具身智能创新\nGS-Playground作为行业内首个实现高吞吐量并行物理仿真与高保真批量3DGS渲染深度融合的全栈仿真框架，从根源上突破了长期制约视觉驱动机器人学习的算力、显存与资产生成三大核心瓶颈。\n其自动化Real2Sim工作流，大幅降低了高保真仿真环境的构建成本；\n全维度的实验验证也充分证明，平台在足式运动、自主导航、机器人操作等机器人主流任务中，能够同时弥合物理与感知层面的仿真到现实鸿沟，实现真正的零微调真机部署。\n未来，GS-Playground还将持续迭代优化，不断拓展能力边界。\n清华大学智能产业研究院DISCOVER Lab始终致力于推动具身智能领域的前沿研究与技术创新，我们将正式开源GS-Playground的全栈框架，提供一套高性能、易使用、高泛化性的核心基础设施，助力大规模端到端视觉驱动机器人策略学习的进一步发展与产业落地。\n项目主页：\nhttps://gsplayground.github.io\n论文链接：\nhttps://arxiv.org/abs/2604.25459\n仓库链接：\nhttps://github.com/discoverse-dev/gs_playground\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "published": "2026-05-03T09:43:20",
+    "summary": "瓜多到吃不完",
+    "collected_at": "2026-05-03T12:51:41.932832",
+    "content_text": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架\n听雨\n2026-05-03\n17:43:20\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\n马斯克和奥特曼这场\n世纪庭审\n，瓜也太多了…\n连着三天吃都吃不完的程度。\n马斯克这边，\n公开承认xAI蒸馏了OpenAI的模型来训练Grok\n。\n上午刚说完「我不对人大喊」，下午当庭大喊。\n律师Savitt追问捐款：\n承诺10亿，到账3800万，兑现不足4%\n。\n马斯克急了，当庭大声说：\n「没有我，OpenAI就不存在！我贡献了我的声誉！我给这个公司起了名字！这些都是有价值的！」\n随后被迫承认：「在严格的货币意义上，我捐了3800万美元。」\n呃…老马你口风变得有点快啊…\n但OpenAI这边黑料也不少，\n最炸的一条当属Brockman的日记\n。\n2017年，他一边当面向马斯克保证「OpenAI会坚守非营利」，一边在私人日记里写：\n「如果三个月后我们转成B公司（Benefit Corporation），那就是一个谎言。」\n同一本日记里还算了一笔账：\n「在财务上，什么能让我身家达到10亿？」\n嘴上说使命，手上算身家，这就是硅谷兄弟情？？？\n所以你看，这场官司两边都不干净。\n不过目前风向还是对马斯克更不利。他在证人席上坐了三天，原本是去证明OpenAI\n「偷了一个慈善机构」\n。\n结果庭审进行到第五个小时，有旁听记者在笔记本里写下了这样一句话：\n「我这辈子从未如此同情过山姆·奥特曼。」\n究竟是谁偷了谁？\n马斯克之所以费这么老大劲起诉OpenAI，就是为了证明一件事：\n「他们偷了一个非营利组织」\n。\n2015年，马斯克出钱出名联合创立了OpenAI，一家立志不赚钱、为全人类开发AI的非营利机构。\n现在他说，自己就是个\n「被愚弄的傻瓜」\n，捐了3800万美元的「免费资金」。\n结果被奥特曼和Brockman转头拿去造了一个估值8500亿美元的营利公司。\n现在，他\n索赔1500亿美元\n，要求法院\n阻止OpenAI在今年下半年IPO上市\n。\n同时还要求罢免奥特曼在OpenAI非营利董事会的董事职务，并解除奥特曼和Brockman在OpenAI的职务。\n马斯克在庭上反复用一个比喻来描述OpenAI的问题：\n「the tail is wagging the dog」（尾巴在摇狗）\n。\n啥意思呢？\nOpenAI最初的设计，是「非营利使命」这条狗，带着「营利子公司」这条尾巴——后者只是为了融资续命，服务于前者。\n但现在反过来了。\n营利子公司吸走了几乎所有的人才、资金、资源，ChatGPT的品牌价值、OpenAI的名气，全在为商业利益服务。\n「非营利」只剩一个法律上的空壳，偶尔拿出来当招牌用一用。\n同时，马斯克拿出了一条2022年的短信，这是他认为自己被骗的关键时间点。\n微软那年宣布投资100亿，OpenAI估值一夜飙到200亿。\n马斯克发消息给奥特曼：「这感觉像是\n诱饵调包\n（bait and switch）。」\n意思是：当年你们用「非营利、为全人类」把我吸引进来，等公司做起来，才发现那件事从来不是你们真正想做的。\n奥特曼回复：「我同意，感觉确实不好。」\n这条短信被马斯克律师在庭上重点展示——奥特曼自己都说「感觉确实不好」，这不就是承认吗？\n但是OpenAI律师\nWilliam Savitt\n拿出来的邮件，把故事讲成了另一个版本：\n你自己2015年就想搞营利部门，2017年还偷偷注册了营利公司，现在来装什么受害者？\n2015年，OpenAI还没正式宣布，马斯克就在内部邮件里提议要不要加一个营利实体。\n2016年，他给自己公司同事写邮件说「把OpenAI设成非营利可能是个错误」。\n2017年，他指示高级顾问偷偷以「OpenAI」名义注册了一家营利性公司，同时要求4个董事席位加51%股权——其他所有创始人加在一起只有3席。\n被拒之后，马斯克切断资助，把OpenAI的核心研究员\nAndrej Karpathy\n直接挖去了特斯拉。\n对此马斯克在庭上声称：\nKarpathy本来就想离开OpenAI，我觉得人们有权利选择去哪里工作。\n。\n2018年，马斯克给其他创始人发邮件，说OpenAI「注定失败」，解决方案是并入特斯拉。\n再次被拒后，马斯克退出了董事会。\n还有法庭上公开的一批短信，让这个质疑更难反驳。\n2024年12月，扎克伯格主动给马斯克发消息：「Meta已致函加州总检察长，支持你对OpenAI的起诉。」\n两个平时互相嘲讽的人，因为共同的竞争对手站到了同一条线上。\n2025年2月，马斯克给扎克伯格发消息：「你愿不愿意跟我和其他一些人一起，联合竞标OpenAI的知识产权？」\n扎克伯格说：「要不要打个电话聊聊？」\n马斯克说：「明天早上打。」\n小扎最终没有加入。七天后，马斯克独自出价974亿美元，要收购OpenAI。\n在证人席上，马斯克宣誓说，他出这个价，是为了「阻止他们窃取慈善机构」。\n但短信记录显示，他第一个念头是拉上Meta一起来联合竞标。\n所以究竟是拯救慈善，还是抢夺资产？\nSavitt的总结只有一句话：「他只支持非营利，前提是他自己在掌控。」\n证人席三天，马斯克六次失态\n值得玩味的是，OpenAI的首席律师\nWilliam Savitt\n，\n是个非常会激怒马斯克的人\n。\nSavitt是谁？\n他曾经是马斯克的律师，帮他打过特斯拉的官司；后来又帮Twitter高管打赢了强制马斯克收购Twitter的官司。\n结果现在，他站到了对面。没有人比他更了解怎么对付这个证人。\n老马啊老马，你今天真是碰上对手了…\nSavitt的策略不是用新证据攻击，而是专门用马斯克自己说过的话，来追杀马斯克今天的证词。\n老熟人果真一击必杀，Savitt的盘问持续了两天，\n马斯克失态了六次\n。\n现场陪审员互相使眼色，有人揉头，法官在某个时刻忍不住当庭笑场。\n第1次：承认离开的真正原因。\n马斯克一直对外说，他2018年离开OpenAI董事会，是为了专注SpaceX和特斯拉，避免利益冲突。\nSavitt不信，反复追问。马斯克的己方律师当庭反对，但法官允许继续。\n最终马斯克被逼到角落，承认：他提出要掌握OpenAI的多数控制权，被其他创始人拒绝，然后他走了。\n走，是因为没拿到他想要的，不是因为利益冲突。\n第2次：「AI安全救世主」人设碰壁。\n马斯克起诉的核心叙事之一，是他深切关心AI安全，而OpenAI背离了这个使命。\nSavitt直接把xAI的安全记录拿出来摆在陪审团面前——\nGrok曾经生成大量有害内容，xAI在安全测试和信息披露上的做法，跟马斯克在庭上标榜的「AI安全」相去甚远。\n救世主的人设，对着自家产品有点说不过去啊…\n第3次：自己说的话，前后对不上。\n这是整场盘问最激烈的时刻，也是庭审里气氛最剑拔弩张的一段。\n事情的起点是一份2018年的术语表\n（term sheet）\n。\n庭审当天，马斯克说他读了这份文件的开头部分，大致了解了内容。\nSavitt随即播放了马斯克庭前证词的视频录像。\n视频里的马斯克，被问到同一个问题，全程没有提过任何「读了开头」的说法。\n两个版本的马斯克，就这样同时出现在陪审团面前。\n马斯克急着解释：「我说的是没有仔细看，不是没读！」\n这段争执持续了好几分钟，是马斯克在整场庭审中情绪最激动的时候之一。\n第4次：骂人是「管理风格」。\nSavitt拿出证据，马斯克曾骂OpenAI的安全团队是「jackasses（蠢货）」。\n马斯克的回应出人意料地淡定：这是他的「管理风格」。\n他说自己的原则是「Don’t be a jackass（别做蠢货）」，\n所以骂人jackass是在提醒对方改正，不算骂人\n。\n嗯…现场陪审团的表情此刻应该是非常精彩。\n第5次：不知道safety card，但xAI在发。\n马斯克全程以AI安全捍卫者自居出庭。Savitt问他，知不知道「safety card」是什么。\n马斯克说，不太确定。\nSavitt解释：这是AI公司随模型发布的安全说明文件，用于披露模型能力、风险和安全测试结果，是行业基本的透明度标准。\n马斯克的xAI，正在给Grok发safety card。\n哈？？\n老马你起诉OpenAI不够安全，结果你不知道自己公司在用的安全文件叫什么名字？？？\n第6次：上午刚说完自己不会大喊，下午就大喊。\n上午，马斯克在主询中主动说了一句话：\n「我不会失去冷静，我不对人大喊。」\n下午，Savitt继续追问术语表的事，两人争执升级。\n马斯克当庭大喊：「我说的是没有仔细看！我读了标题！」\n法官当场笑场，陪审员集体抬头。这句话和上午那句话，中间才隔了不到四个小时。\n但是这还没完，更大的爆点还在后头。\n马斯克公开承认了xAI蒸馏OpenAI模型来训练Grok。\nSavitt问：xAI有没有用蒸馏技术从OpenAI模型提取知识，来训练Grok？\n马斯克先打太极：「AI公司普遍都会互相蒸馏。」\nSavitt追问：那是还是不是？\n马斯克：\n「部分有。」\nYes or No…答案是or？？\nOpenAI这边…也不干净\n说了这么多马斯克的失态，但OpenAI也并非清白无可指摘。\n首当其冲的就是Brockman的日记。\n这本私人日记是在诉讼发现阶段被挖出来的，背景是2017年。\n当时OpenAI烧钱烧得很凶，内部开始讨论要不要从非营利转成营利结构来融更多钱。\n马斯克是最大金主，但他的条件是：要转营利可以，但我要控制权——51%股权、4个董事席位。\nBrockman和奥特曼不想接受这个条件，但又不敢直接告诉马斯克「我们不打算守住非营利了」。\n所以他们的策略是：当面继续安抚马斯克、保证坚守非营利，私下另想出路。\nBrockman在日记里写道：\n「这是我们摆脱马斯克的唯一机会。」\n意思是，如果趁这次重组，把马斯克的条件拒掉，就能把他排除在公司未来的控制权之外，从此不用再受他制约。\n同时，他其实也不确定马斯克适不适合当自己的老板，所以写下——\n「他是我会选的’光荣领袖’吗？」\n日记里还有一条：\n「在财务上，什么能让我身家达到10亿？接受马斯克的条件会摧毁两件事：我们的选择权……以及经济回报。」\n这本日记被法官在今年1月的裁定中直接引用，作为「证据充分、应当开庭」的依据之一。\nBrockman很快就要走上证人席，当庭解释这本日记。\n第二，奥特曼曾对马斯克说：\n「你是我的英雄」\n。\n2023年2月，两人已经开始公开互撕。\n但奥特曼私信马斯克写道：\n「你是我的英雄……没有你我不认为OpenAI能成……但你公开攻击OpenAI真的让我很受伤。」\n所以，奥特曼承认了马斯克的关键贡献，同时也暴露了自己在私下还在软化马斯克、公开却继续推进营利化的两面性。\n还有更多证据浮出水面：\n2015年10月，奥特曼发了一封邮件给马斯克，汇报OpenAI的筹备进展。\n最后列出「对你的具体要求」：第一条，能否在未来5年内捐3000万美元？\n马斯克的回复只有一句话：「我们来谈治理结构。这很关键。我不想资助一个最终走向错误方向的东西。」\n这封邮件现在成了法庭证据。\n马斯克说它证明了他当时就强调过「方向」；OpenAI说它证明了奥特曼主动向马斯克募款，形成了法律意义上的\n慈善信托关系\n。\n马斯克的律师同一天还向法官递交了一份法庭简报：\n论点很清晰：加州法律规定，只要有人主动向你募捐，你接受了，这笔钱就必须用于募捐时声明的目的。\n奥特曼2015年主动要钱、2020年再次要钱，马斯克都给了。\n后来OpenAI搞营利化，违反的不只是道义承诺，而是法律义务。\n官司还没结束，好戏还在后头\n第一周结束，马斯克的证词落幕，攻守即将易位。\n接下来还有重磅证人登场：\n奥特曼\n下周登台，将是真正的正面对决，也是这场庭审最受期待的时刻。\n在本周的三场庭审上，奥特曼坐在被告席面无表情，一言不发。\n但等上了证人席，他会做何表现？\n其次是\nGreg Brockman\n，他要当庭解释自己写过的日记。\n还有微软CEO\n纳德拉\n，马斯克指控微软「协助OpenAI背叛慈善信托」——没有微软的钱，OpenAI没办法完成这次营利化转型，所以微软也是共谋。\n签下130亿美元赌注的人，将要在奥克兰法庭向9个陪审员解释整个安排。\n最后是\n希冯·齐利斯\n，她具有三重身份——前OpenAI董事、马斯克四个孩子的母亲、OpenAI方指控的内部信息泄露者。\n所以硅谷连环宫斗剧究竟结局如何？\n吃瓜已经迫不及待了…（搓手手\n参考链接：\n[1]https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/\n[2]https://www.cnbc.com/2026/04/29/musk-altman-live-updates-day-3-open-ai-trial.html\n[3]https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/\n[4]https://www.npr.org/2026/04/28/nx-s1-5801438/musk-altman-openai-trial-opening-statements\n[5]https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/\n[6]https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
     "content_source": "readability",
-    "content_chars": 4185,
-    "content_excerpt": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练\nJay\n2026-05-03\n11:56:44\n来源：\n量子位\n清华AIR DISCOVER Lab 投稿\n量子位 | 公众号 QbitAI\n具身人工智能领域，正向着以视觉为中心的感知范式，发生全面而深刻的转型。\n作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥。"
+    "content_chars": 5798,
+    "content_excerpt": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架\n听雨\n2026-05-03\n17:43:20\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\n马斯克和奥特曼这场\n世纪庭审"
   },
   {
     "id": "97e9eb8e7210",
@@ -74,6 +76,72 @@
     "content_source": "trafilatura",
     "content_chars": 18317,
     "content_excerpt": "引言\n企业 AI 团队长期面临着一个难题，那就是大多数检索增强生成(RAG)系统要么擅长结构化的数据查询，要么擅长文档检索，但当两者需要同时使用时就会无能为力。比如财务分析师提出“为什么欧洲业务表现不佳？”这类问题时，既需要 SQL 数据库中的结构化数据(营收、利润率、员工数量)，也需要非结构化文档(市场报告、竞争分析、监管文件)。现有 RAG 系统往往会返回缺少监管上下文的营收数据，或给出缺乏量化校验的市场报告，最后仍需分析师手工补齐。当前 RAG 方法把这些模式当成彼此独立的问题，迫使工程师要么构建定制的编排层，要么接受不完整的答案。\n本文将探讨如何通过分层多智能体编排解决这一“模态鸿沟（modality gap）”问题，并以 Protocol-H 作为参考实现来说明这些概念如何落地。文中讨论的模式，也就是带有自主纠错能力的 supervisor-worker 拓扑，建立在 LangGraph/LangChain 的 agentic 模式之上，类似 xAI 和 Databricks 等团队采用的方法。配套的开源代码展示了这些模式如何在 Docker/K8s 环境下实现企业级部署；读者也可在自己偏好的框架中复用同样的架构原则。\n本文中的架构基于参考实现和面向生产环境的企业数据集实验。为了聚焦架构模式而非某个特定系统的具体实现，一部分部署细节做了泛化处理。\n模态鸿沟问题：为什么传统 RAG 无能为力\n传统 RAG 系统通常是线性的流水线：向量化用户问题、检索文档、交给 LLM、生成答案。它在文档中心型的问题上表现尚可，但在企业多模态数据环境中就无能为力了。\n以客户流失分析为例：“哪些客户群体流失率最高？结合工单看常见原因是什么？”这个问题执行如下步骤：\n结构化推理(SQL)：连接客户、交易和流失表，计算群体的流失率。\n语义推理(向量检索)：检索与流失语义相关的支持工单。\n跨模态汇总：将 SQL 结果与文档洞察进行关联，识别因果关系。"
+  },
+  {
+    "id": "1d43b720a45e",
+    "title": "不好！1930年的AI都来抢程序员饭碗了",
+    "url": "https://www.qbitai.com/2026/05/412896.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-03T09:42:55",
+    "summary": "完全无需互联网数据",
+    "collected_at": "2026-05-03T12:51:41.932866",
+    "content_text": "不好！1930年的AI都来抢程序员饭碗了\n衡宇\n2026-05-03\n17:42:55\n来源：\n量子位\nJay 发自 凹非寺\n量子位 | 公众号 QbitAI\n劳动节，马上100岁的vintage大模型也得劳动。\n是的，有人给只有1930年知识的大模型，微调成软件工程师了……\n过程比想象中轻松，仅用250个训练样本，强悍的老头便解决了自己人生中的第一个编程问题——\n给xarray库打了个补丁。\n一个连电视机都没见过的AI，现在也开始跟Claude们「学坏」，要跟程序员抢饭碗了。（bushi）\n中古硅基软件工程师\n先补充下背景，1930是谁？\n这是最近爆火的「老头AI」，全名叫\ntalkie-1930-13b\n。\n操盘手是AI研究员Nick Levine、多伦多大学副教授David Duvenaud，以及大家熟悉的那位——真·GPT系列之父\nAlec Radford\n。\n而他们对老头最有趣的设计，就是其训练数据有条铁律：1931年1月1日之后的任何一个字，\n全部不准进！\n是的，它不知道电视机，不知道互联网，更不知道二战怎么收场……\n老头的世界，\n永远停在了1930年12月31日的午夜。\n但让全网「瘫软」的点在于，就这么个老古董，当扔给它一道Python编程题时，这个跨越近百年的「过去之灵」，竟然写出了人生第一行Python代码。\n离离原上谱。\n如今，\n老头再次发力。\n有人对Alec Radford的这个1930 vintage LLM做了微调，让它去解SWE-bench上的真实软件工程问题。\n谁曾想，真让老头干成了。\n250个训练样本之后，它落地了第一个fix——\n一个针对xarray库的小补丁。\n百岁老人，硬核上岗。\n对了，团队放出了老头在落地这个xarray库补丁的全过程。\n说实话，如果以看前沿LLM的标准，这个demo看着真有点恼火。\n一个简单的问题，老头足足花了49轮才搞定，又长又慢。\n其中有些轮次实在看不下去了，真的太笨了，着急死了，但你又不好意思对老头发脾气。\n但，这在某些时刻，反而让人更兴奋。跟看爽文一样。\n我举个最「直接、不绕弯」的例子。（bushi）\n老头一开始其实搞砸了。\n在\n第12轮\n对话的时候，它尝试apply patch失败了。\n代码可以报错，但，老兵不死。\n老头没有放弃，它仍在继续尝试，直到终于意识到自己错在哪……\n然后，在第44轮，\n它给修好了！！\n我知道，fix本身很简单，别说AI SOTA了，代码水平跟小白比估计都够呛。\n但真正重要的，是老头在\n整个解题过程中的思考\n。\n这个过程展示出的那种推理能力，跟我们在现代模型上看到的如出一辙。\n一个1930年的模型，\n也会试错，会反思，会自我修正\n。\ndemo之外，benchmark的表现同样亮眼。\n当微调时的训练数据规模扩展到大约75K条trajectory，也就是10亿token的时候，模型在SWE-bench-Verified上达到了\n4.5%\n的pass@1。\n要知道，它原来在HumanEval上才4%的pass@100。这进步幅度相当可观。\n虽然绝对值还很低，但对一个1930年知识模型来说，已经很离谱了。\n更有意思的是另一个对照实验。\n事实上，团队还同时给老头训练了一个兄弟模型，叫\ntalkie-web\n，这个模型是在互联网数据上预训练的。\n同样的微调配方，talkie-web在SWE-bench-Verified上的成绩是\n5.5%\n的。\n没错，即便团队偏心，给孪生兄弟加上互联网数据，也就比老头\n高了1个百分点\n。\n以上结果，欢迎复现。\n这不是什么穿越爽文，团队\n已经在GitHub上开源了项目\n，链接放在文章结尾，感兴趣的朋友可以去跑跑看。\n团队自己也很兴奋，在README里喊话：\n如果你手头有更多算力，我们很想看到1930模型和互联网模型在后训练持续扩展时的完整scaling曲线对比。\n想看想看，这可比单纯秀肌肉的benchmark有意思多了。\n什么是智能？\n团队并没有剖析背后的原因，但我看了不少网友在帖子下面的评论，觉得这是一个值得讨论的话题。\n我们一直以为，AI需要吃掉整个互联网才能变聪明。\n但如果一个只读过1930年以前书的模型，经过一点点后训练就能写代码修bug……\n那我们对「什么是智能」的理解，是不是也得重新想想？\n4.5%的pass@1，放在今天的SOTA面前当然不够看。但它证明的那件事，比任何benchmark分数都重要。\n一个1930年代的人，如果拥有几乎相同的教育体系，完全可以理解现代软件工程。\n一百年前的数据量，加上正确的后训练方法，就足以产生现代意义上的推理。\n智能的瓶颈，或许从来不在于预训练数据的多少。\n你不需要一个训练过所有知识的模型，它只需要具备基本的语言理解能力，这就够了。\n或许，当我们在Scaling路上一路狂奔的间隙，也可以稍微停一停，抬起头来跟身边人侃侃大山、扯扯淡——\n诶，你说……\n智能的本质，到底是什么？\nGitHub：\nhttps://github.com/RicardoDominguez/talkie-coder\n参考链接：\n[1]\nhttps://x.com/rdolmedo_/status/2050665193374732430?s=20\n[2]\nhttps://github.com/RicardoDominguez/talkie-coder\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 2372,
+    "content_excerpt": "不好！1930年的AI都来抢程序员饭碗了\n衡宇\n2026-05-03\n17:42:55\n来源：\n量子位\nJay 发自 凹非寺\n量子位 | 公众号 QbitAI\n劳动节，马上100岁的vintage大模型也得劳动。\n是的，有人给只有1930年知识的大模型，微调成软件工程师了……"
+  },
+  {
+    "id": "6dce65869e71",
+    "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+    "url": "https://acai.sh/blog/specsmaxxing",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-03T06:33:38",
+    "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 156 # Comments: 168",
+    "collected_at": "2026-05-03T12:53:57.273408",
+    "content_text": "Documentation Index\nFetch the complete documentation index at:\nhttps://acai.sh/llms.txt\nUse this file to discover all available pages before exploring further.\nDoes this look familiar?\nWow. Claude. Mind-blowing. The whole feature works great. But I forgot to mention one\nvery\nimportant edge case.\nYou’re absolutely right! Let me fix that.\nAh, and I just noticed. You used\noffset pagination\nfor the table UI. Obviously\ncursor pagination\nis a better fit here?\nYou’re absolutely right! Let me fix that.\nAlso, is that an N+1 query? Fetching for every row in the table? Why not do a single round-trip?\nYou’re absolutely right! Let me fix that.\nThis is why I still have a job, right?\n…\nPeak Slop\nI’ve watched this scene play out many times, but the frequency is decreasing. Both my tools, and my methods for using them, continue to improve. I think Peak Slop has already come and gone.\nWe are entering the post-slop era. My software is more robust, better tested, better integrated, and more observable than ever before. And my velocity keeps increasing!\nSome days it feels like the sky is the limit. Other days, I am painfully reminded,\nthe sky is not the limit. The context window is the limit.\nAnd what happens when I fill the context window? Or kill a session? Switch machines? Hand off the project to someone else?\nWe already know what happens. The agent goes off the rails, or requirements get lost, and critically important detail gets squashed. So we adapt and mitigate. We document. We list requirements.\nYes, millions of us are coming to the same realization: we should put more requirements in writing. We should update those requirements when they change. Look! I wrote a spec! Am I doing\nspec-driven development?\nPerhaps, but it is nothing new. Our mentors tried to teach us these habits decades ago.\nSpecifying the plane while we fly it\nWhat’s your favorite flavor of spec?\nA\nREADME.md\nand\nAGENTS.md\nis a good start. Don’t forget a\ntesting-guide.md\n. Maybe an\narchitecture.md\n, a\nPRD.md\n, and a design doc too. Have you considered\nmd.md\n(to teach your agents how to write\n.md\n)? The more\n.md\nthe better, right?\nUnironically, yes. Docs and unstructured specs can get you very, very far. Much farther than prompts alone. If you aren’t writing\nany\ndocs yet, you should just stop reading this and start there.\nAnd remember, slop in, slop out. Nothing beats an organic, pasture-raised,\nhand-written\nspec. Spec-writing is where the act of\nsoftware engineering\nreally happens.\nSo a few weeks ago, I started asking myself, how far can I take this? How far\nshould\nI take this?\nDreaming in markdown\nAs the story goes, I fell into an AI psychosis, I became a “spec maxxi”, and I spent hours and hours writing the most beautiful PRDs and TRDs you’ve ever seen.\nI drafted templates and skills and roles, thinking that maybe my agents can write specs too! I assembled an army, working together like a mini\ndark factory,\nto turn my specs into reality. My tasks grew more ambitious, and at one point I broke the vibe-coding sound barrier:\nan agent that ran for 1.5 hours unsupervised!\nExciting. But what did that army ship for me? Well, it wasn’t slop, in fact it\nworked\n, which is more than I can say about the garbage that other companies force me to use every day.\nBut it was still a bit sloppy. I’m far from a perfectionist and I love cutting corners more than most, but this somehow wasn’t good enough.\nOne hallmark symptom of AI psychosis is\nusing AI to build AI harnesses for building products\n, rather than just using AI to build the damn product. I embraced my illness, threw out the branch, scrapped all my markdown, and started all over again.\nAcceptance Criteria for AI (ACAI)\nA few days later, I noticed an ambitious little sub-agent doing something unexpected.\n# Requirements\nAUTH-1: Accepts\n`Authorization: Bearer <token>`\nheader\nAUTH-2: Tokens are user-scoped, providing access to any of the user's resources\nAUTH-3: Rejects with 401 Unauthorized\n// AUTH-1\nconst\nauthHeader\n=\nreq\n.\nheaders\n[\n\"authorization\"\n];\n// AUTH-2\nconst\nisAuthorized\n=\nverifyBearerToken\n(\nauthHeader\n);\n// AUTH-3\nif\n(\n!\nisValid\n)\nreturn\nres\n.\nstatus\n(\n401\n).\njson\n({\nerror:\n\"Unauthorized\"\n});\nThe little guy just went and numbered my requirements and then referenced them all over my codebase.\nWhy? I did not ask for this! I was disgusted. This is a tight coupling of code to spec, and spec to code, which is bad right?\nYou really expect me to refactor all my code every time I change my spec?\nOh. I suppose that’s a good thing? Interesting. I wonder…\nPerhaps these tags can help me navigate these massive PRs?\nPerhaps they can point me to\nwhere, exactly, a requirement is satisfied or tested!\nPerhaps I can annotate them with\nnotes and states (todo, assigned, completed)!\nPerhaps I can start tracking\nacceptance coverage\ninstead of test coverage!\nI leaned in. I named these tags\nACIDs (Acceptance Criteria IDs).\nBut a few questions remained.\nCan my ACIDs number and label themselves?\nIs it cumbersome to keep them aligned?\nHow do I share specs and progress across sandboxes, branches, features and implementations?\nI built\nAcai.sh\nto solve some of these newly invented problems. And I’m very excited about the results.\nA simple and flexible template for feature specs, called\nfeature.yaml\n. Feature.yaml makes it possible to reference each requirement by ACID.\nTiny CLI to power your CI and your agent (available on npm or via github release).\nWebapp that serves a dashboard, and a JSON REST API (Elixir, Phoenix, Postgres).\nI will keep the hosted version\nfree for a while, or maybe forever\ndepending on how popular or expensive this gets. The source code is on GitHub under an Apache 2.0 license.\nHow it works\nStep 1 - Specify\nStart by writing a spec for a feature.\nBe ambitious— something that adds real value. Don’t put nitpicky UI and nail polish stuff in your specs. Keep the requirements concrete, testable, and focused on what really matters (functional behavior + critical constraints).\nRather than markdown, use acai’s\nfeature.yaml\nformat instead. A spec in Acai is just a numbered list of requirements.\nfeature\n:\nname\n:\nimaginary-api-endpoint\nproduct\n:\napi\ndescription\n:\nThis is an example feature spec for an imaginary REST API endpoint, using the feature.yaml format\ncomponents\n:\nAUTH\n:\nname\n:\nAuthn and Authz\nrequirements\n:\n1\n:\nAccepts Authorization header with `Bearer <token>`\n1-1\n:\nToken must be non-expired, non-revoked\n2\n:\nRespects the scopes configured for the owner\n2-note\n:\nSee `access-tokens.SCOPES.1` for complete list of supported scopes\nconstraints\n:\nENG\n:\ndescription\n:\nConstraints are for cross-cutting or under-the-hood requirements. Here are some example engineering constraints;\nrequirements\n:\n1\n:\nAll actions are idempotent\n2\n:\nAll HTTP 2xx JSON responses wrap their payload in a root `data` key\nOf course you could also have LLMs assist you with spec writing, but I enjoy the process of writing them myself, because I like to maintain some illusion of self-worth as a software developer.\nStep 2 - Ship\nCopy and paste the prompt below.\nNote: In addition to the npm package, there are Linux and MacOS releases for the CLI\navailable on GitHub\n.\nIf all goes well, your agent will embrace ACIDs, referencing them in code and tests, so you can make sure each individual requirement is implemented and tested.\nStep 3 - Review\nNo more file-by-file GitHub PR reviews. Use the Acai.sh dashboard to review\nrequirements\ninstead.\nIdeally, you just add\nacai push\nto a GitHub action (example CI/CD workflows coming soon).\nCreate a free Team and Access Token at\nhttps://app.acai.sh\nExpose the environment variable\n# .env\nACAI_API_TOKEN\n=<\nsecret_access_token\n>\nPush specs and code refs to the dashboard for review\nYou (human or robot) can mark requirements as\nCompleted\nwhen they are ready for review,\nAccepted\nwhen they pass your review, or\nRejected\nif something was missed.\nYou (human) can use the dashboard to leave comments on requirements, making it a good place to collaborate.\nStep 4 - Iterate / repeat\nThe goal is to work spec-first.\nChange the spec itself, or use the dashboard to attach notes to the spec. With the right harness, you can get your agents to react and self-assign (using\nacai\nCLI commands).\nThe result should be less time spent prompting and re-prompting, less time reviewing, less sloppy code generation, and far more time thinking about what you want your product to be.\nThese tools, and this approach, should work for any software project. It should encourage collaboration (between humans), and be incrementally adoptable. It supports complex projects that track many products and many specs, across many repositories and branches.\nIt can (and should) be tied into a larger agentic pipeline, for example one that takes a spec and kicks off an automated\nplan → implement → review\nloop. That part is not included (yet). I plan to share some powerful examples of that soon.\nFuture Gazing\nEven coming out my LLM psychosis, I’m still finding this approach useful and productive. I believe I’ve found the sweet spot between rigour and vibes, structure and flexibility. Maintaining an itemized list of acceptance criteria encourages me to step back and focus on the things that matter, and to rethink how I test and validate my output.\nAgain, none of these ideas are really new. But I feel the gravitational pull, and I’m wondering where it all leads, and what comes next.\nThought Experiment\nImagine your entire application, however complex, was generated instantly\nthe moment your fingers started typing in the prompt window\n. Imagine that magically, the same prompt input always created same deterministic output, and cost you nothing, and was ready in milliseconds.\nIf you found the output to be unsatisfactory (incomplete, insecure, unfit for purpose), you wouldn’t start hand-editing files yourself would you? You would extend the prompt to improve it. So if software were free and infinite and instant, your criteria for acceptability is really the only thing of value. The spec.\nIn the past we spent our time writing down procedures (as code), or writing down invariants (as unit tests), and more recently we’ve been writing out deltas or changesets to evolve our software (as prompts). It’s hard to admit that these are all becoming largely disposable, or invisible, when they used to be the primary object of our attention.\nMy point is, the spec must live\nsomewhere\n, even if you don’t write it down. The spec is what you\nwant\nthe software to be. It often exists only in your head or in conversations. You and your team and your business\nwill always care what the spec says\n, and that’s never going to change. So you’re better off writing it down now! And I think that a plain old list of acceptance criteria is a good place to start. (That’s really all that\nfeature.yaml\nis.)\nA few more things follow from there;\n-> From Specsmaxxing to Testmaxxing\nWhen code is generated faster than you can read it, the bottleneck moves to QA and validation and your\nconfidence\nthat the code is to-spec. So investing heavily in QA automation and test coverage has a massive ROI.\nAnd after that, after maximal test coverage and observability has been achieved, our attention shifts away from the diffs in GitHub; we need a place to relate the specs to the important artifacts (the implementations, the QA feedback, user feedback, builds, runs, reviews and reports). Maybe Acai.sh can become that place. For now, it is only focused on the specs and their implementations in code.\n-> From Testmaxxing to reactive software factories\nThe final unlock is when your LLMs can react to a red test or alert. If the specs are well defined, and you have high confidence in your integration pipelines and QA, then the LLM is fully empowered to react without the need for you to intervene.\nIt seems every well-funded software team on earth is currently busy building their own bespoke solution for this and I’m excited to see what works and what doesn’t. As a first step, I put some OpenCode Agent templates on\nhttp://acai.sh\nthat have been working well for me so far.\nEmbarrassingly I did not know about any of these until I was almost finished building my own.\nThe key differentiator is that\nAcai.sh\nis\nfocused on helping you track\nacceptance coverage\nand\nspec alignment\nacross many implementations\n, which is a slightly different problem than what other tools are trying to solve.\nI can not offer unbiased feedback, because I suffer from Not Invented Here syndrome. It may even be the case that the\nAcai.sh\napproach actually enhances these tools.\nGitHub SpecKit\nSpecKit reads to me like ‘vibe coding with extra steps’, i.e. a CLI that augments your agents with more prompts and more skills. This is surely productive, but it is solving a slightly different set of problems.\nOpenSpec\nThe first thing I noticed when reading their docs, is their stated mental model, which is written:\n“Specs […] describe how your system currently behaves.”\n.\nI fundamentally disagree with this. In Acai.sh, specs describe how your system\nSHOULD\nbehave. Current behavior is transient.\nIn addition, their process appears to lean into “AI generated spec writing”, which has never gone well for me\nLastly, the process of versioning and diffing specs is just basic gitops, and I don’t need a CLI for that. Same goes for the agentic ops and task creation (Vanilla OpenCode does just fine, thanks).\nKiro\nI don’t like EARS syntax, but I don’t like unstructured markdown either, and Kiro claims to convert the latter into the former. Acai is different— I came up with feature.yaml to strike a balance between unstructured markdown and cumbersome EARS / gherkin. Unlike Kiro,\nAcai.sh\ndoes not try to solve end-to-end delivery either (yet).\nTraycer.ai\nLooks like a very useful product for managing artifacts and spawning agents to implement them. But they are still plain-old .md files. Acai is more opinionated about how you should write the spec (feature.yaml).\nReasons you might not like acai.sh\nLike any tech, it comes with tradeoffs;\nYou might not need to write specs. If your product is low-stakes, or simple, just keep prompting.\nAcai specs are opinionated.\nYou should write 1 spec per feature\n(though the feature boundary or slice is up to you). My opinion is that cross-cutting feature specs are easier to iterate, and really shine when a feature touches many codebases (frontend / backend / microservice etc.) and has many implementations (Production, Staging, Fix, etc.)\nACIDs rely on\nstable numbering.\nThis creates zero friction when\ndrafting\na new spec, but requires care when revising a spec: you must re-align the code whenever your spec changes (almost forgot that this is the whole point?). The feature.yaml syntax supports\ndeprecated\nand\nreplaced_by\nflags as well, if you want to maintain a complete spec history inline.\nAcai\ndiscourages\nyou from putting design and superficial requirements in your specs. Specs are for behavior, and constraints, and nothing else. I’ve learned from experience: get it working to-spec first, then do the superficial nail polish last 💅🏼.\nAcai requires you to adopt the\nfeature.yaml\nformat. Almost zero learning curve. I have written an\nintroductory guide\nto writing them. I recommend reading that first. Use\nnpx @acai.sh/cli skill\nto teach your agent how. I also wrote a\nspec-for-the-spec\nif you want to go deeper.\nHate it?\nPlease tell me if you dislike acai and think this is the wrong way to work. Burst my bubble sooner rather than later. Sincere feedback is sincerely appreciated.\nfeedback(at)acai(dot)sh",
+    "content_source": "readability",
+    "content_chars": 15532,
+    "content_excerpt": "Documentation Index\nFetch the complete documentation index at:\nhttps://acai.sh/llms.txt\nUse this file to discover all available pages before exploring further.\nDoes this look familiar?\nWow. Claude. Mind-blowing. The whole feature works great. But I forgot to mention one\nvery\nimportant edge case.\nYou’re absolutely right! Let me fix that.\nAh, and I just noticed. You used",
+    "title_zh": "Specsmaxxing – 关于克服 AI 精神病，以及为什么我在 YAML 中编写规范",
+    "summary_zh": "文章网址：https://acai.sh/blog/specsmaxxing 评论网址：https://news.ycombinator.com/item?id=47994012 积分：156 # 评论：168",
+    "ai_summary": "文章网址：https://acai.sh/blog/specsmaxxing 评论网址：https://news.yco…"
+  },
+  {
+    "id": "fdcda74e220f",
+    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+    "url": "https://www.qbitai.com/2026/05/412870.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-03T03:56:44",
+    "summary": "与全球社区共同推动具身智能创新",
+    "collected_at": "2026-05-03T07:50:02.398606",
+    "content_text": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练\nJay\n2026-05-03\n11:56:44\n来源：\n量子位\n清华AIR DISCOVER Lab 投稿\n量子位 | 公众号 QbitAI\n具身人工智能领域，正向着以视觉为中心的感知范式，发生全面而深刻的转型。\n作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥。\n但当研究者们试图沿着这条路径向前探索时，却始终需要在“看得真”和“训得快”之间做艰难取舍：\n高保真视觉渲染带来了巨大计算与内存开销；人工建模总是耗时耗力低效循环；现有平台的兼容性缺陷不断限制着创新边界，严重束缚了具身智能研究的想象力。\n为了攻克这些制约具身智能领域发展的核心难题，\n清华大学智能产业研究院（AIR）DISCOVER Lab联合谋先飞技术、原力灵机、求之科技和地瓜机器人，提出了GS-Playground通用多模态仿真框架。\n作为一套专为视觉中心的机器人学习打造的新一代仿真基础设施，GS-Playground首次实现了高吞吐量并行物理仿真与高保真视觉渲染的深度融合，在保证物理仿真所需的高精度与强稳定性的同时，提供了大规模视觉驱动策略训练与仿真到现实迁移所需的渲染效率与环境支撑。\n该成果已被机器人领域国际顶级学术会议RSS 2026（Robotics: Science and Systems）录用。\n△Figure 1. GS-Playground Overview\n通用全场景原生兼容：打造统一的具身智能仿真训练底座\nGS-Playground设计之初，便定位于通用型全场景具身智能仿真平台，平台核心搭载了团队自研的跨平台并行物理引擎，原生支持CPU/GPU双后端与Windows/Linux/macOS全系统运行，可无缝适配全品类机器人形态，包括市面上常见的四足机器人、 全尺寸人形机器人、多自由度工业机械臂，全部实现开箱即用的原生适配，无需额外的二次开发工作。\n在此基础上，平台全面覆盖机器人运动控制、自主导航、高接触精度操作三大核心任务场景。\n在接口设计上，平台API全面兼容行业通用的MuJoCo MJCF格式，可实现现有仿真项目的零摩擦快速迁移，最大程度降低研究者的适配成本。\n自研高性能并行物理引擎：为接触密集型机器人学习提供稳定底层动力学\n对于视觉中心的机器人学习而言，“看得真”只是第一步，真正决定策略能否迁移到真实世界的，是仿真系统能否在复杂接触、摩擦、碰撞与多刚体耦合中，持续给出稳定、可信的物理反馈。\n针对这一核心瓶颈，GS-Playground从底层自研了一套高性能并行物理引擎，采用广义坐标下的\n速度-冲量动力学公式\n，将接触与摩擦统一建模为\n混合互补问题（MCP）\n，并通过\n投影高斯-赛德尔（PGS）求解器\n实现稳定求解。\n相比依赖软接触正则化的传统方式，这一设计更强调静摩擦保持、高刚度约束与大时间步稳定性，尤其适合足式运动、机械臂抓取和密集多体接触等高动态任务。\n为了支撑大规模并行训练，团队进一步引入\n约束岛并行化\n与\n接触流形热启动\n机制：\n前者将彼此独立的刚体交互系统拆分为多个约束岛并行求解，后者利用上一帧已收敛的接触冲量作为当前帧初值，将稳定堆叠场景中的PGS迭代次数从50次以上降低到10次以内，大幅提升复杂接触场景下的收敛效率。\n实验结果充分验证了这一自研物理引擎的稳定性与吞吐优势。\n在Franka Panda动态抓取摇晃测试中，GS-Playground CPU后端在0.002s与0.01s两种时间步下，均实现90/90的完整保持成功率，显著优于MuJoCo、IsaacSim与Genesis等主流方案；\n在27自由度人形机器人复杂多体交互基准中，当单环境扩展到50个机器人时，GS-Playground CPU后端仍能保持1015 FPS的稳定吞吐，相比MuJoCo实现32倍加速，相比MjWarp实现约600倍提升。\n自研内存高效Batch 3DGS渲染技术：打破保真与效率的行业不可能三角\n数千个高保真3DGS场景同时渲染带来的内存与算力挑战，一直是制约视觉驱动机器人大规模训练的核心卡点。\n针对刚体仿真环境，团队首先设计了专属优化的\n高效剪枝策略\n。\n该策略可将高斯点数量减少90%以上，同时峰值信噪比（PSNR）下降幅度不足0.05，视觉差异几乎无法被视觉运动策略感知。\n这一技术在大幅降低显存占用的同时，几乎无损地保留了场景的视觉质量，为大规模高保真并行仿真奠定了核心基础。\n在此基础上，团队研发了面向批处理深度优化的\n批量3DGS渲染器\n，实现了多场景大规模高斯渲染的并行处理。\n在单张NVIDIA RTX 4090 GPU上，渲染器在640×480分辨率下可实现最高10000 FPS的突破性吞吐量，最多可同时渲染2048个场景，不仅显著提升了单位算力的渲染效率，更能完美适配大批次强化学习的训练工作流，让大规模并行训练不再受限于渲染性能。\n△Figure 2. Rendering throughput comparison between GS-Playground and Isaac Sim’s ray-tracing renderer across varying resolutions\n此外，团队还提出了\n刚性连杆高斯运动学（RLGK）机制\n，将3D高斯簇与物理引擎中的对应刚体进行精准绑定，确保视觉表征与物理对象的位姿能偶实时同步更新，实现了零额外开销的状态同步。\n即便是在机器人快速运动、频繁接触交互的动态场景中，渲染器依然能够实现无伪影的动态画面输出，从根源上解决了动态场景中的渲染时间一致性与视觉伪影问题，保障了训练数据的稳定性与可靠性。\n自动化“Sim-Ready”Real2Sim工作流：降低 Real2Sim门槛\n传统仿真场景的构建，始终是机器人研发流程中效率最低、成本最高的环节之一。\n无论人工建模多么精细，却始终无法完全复刻真实环境的视觉细节与物理特性，感知与物理的双重鸿沟成为了制约sim-to-real跨域迁移的核心卡点。\n针对这一行业痛点，GS-Playground设计了一套全自动化的“图像到物理”Real2Sim工作流，仅需输入单张RGB图像，即可在数分钟内完成仿真就绪（Sim-Ready）数字资产的全流程创建，实现了真实场景到数字孪生的快速转换，同时保证视觉真实感与物理一致性。\n△Figure 3. GS-Playground System Architecture\n左：自动化图像到物理仿真管线，通过目标分割、背景补绘、三维高斯溅射 / 网格重建，从RGB输入构建可直接用于仿真的资源。\n中：物理与渲染仿真核心，包含CPU/GPU物理后端、集成传感器与激光雷达仿真，以及经过剪枝优化与刚性连杆运动学适配的批量三维高斯溅射渲染。\n右：下游应用，包括操作任务、导航任务以及大规模并行强化学习。\n基于这套成熟的自动化工作流，团队还构建了Bridge-GS数据集，在Bridge-v2数据集的基础上，补充了场景与物体级的3DGS表征、物体级网格模型、6D位姿数据与校准后的相机参数，为行业提供了标准化的高质量仿真数据集。\n同时团队在InteriorGS数据集上完成了完整的泛化性验证，充分证明了该管线对不同室内场景的强适配能力与泛化性能。\n全链路端到端验证：实现零微调的无缝仿真到真实迁移\n基于三大核心技术的深度协同，GS-Playground完整构建了从真实场景重建、大规模并行训练，到真机部署的全链路端到端闭环，真正实现了“重建即训练、训练即部署”的研发流程革新。\n在策略训练与真机迁移的核心能力上，平台可稳定支持数千个并行环境同时运行，为四足机器人、人形机器人、工业机械臂等全品类机器人，提供大规模视觉强化学习训练支撑。\n仅在GS-Playground仿真环境中完成训练的视觉驱动策略，无需任何额外的微调与适配，就能直接部署到真实机器人上稳定运行：\n四足和人形机器人的运动策略均可zero-shot部署到真机；\n视觉导航任务实现了零样本的真机直接部署；\n机械臂抓取任务在零微调的前提下，真实场景成功率达到90%。\n△Figure 4.Real-world deployment of policies trained in GS-Playground\n这一系列实验结果，充分证明了平台实现了真正无壁垒的仿真到真实迁移，也验证了其在打通具身智能感知与物理跨域鸿沟上的核心价值。\n开源赋能：与全球社区共同推动具身智能创新\nGS-Playground作为行业内首个实现高吞吐量并行物理仿真与高保真批量3DGS渲染深度融合的全栈仿真框架，从根源上突破了长期制约视觉驱动机器人学习的算力、显存与资产生成三大核心瓶颈。\n其自动化Real2Sim工作流，大幅降低了高保真仿真环境的构建成本；\n全维度的实验验证也充分证明，平台在足式运动、自主导航、机器人操作等机器人主流任务中，能够同时弥合物理与感知层面的仿真到现实鸿沟，实现真正的零微调真机部署。\n未来，GS-Playground还将持续迭代优化，不断拓展能力边界。\n清华大学智能产业研究院DISCOVER Lab始终致力于推动具身智能领域的前沿研究与技术创新，我们将正式开源GS-Playground的全栈框架，提供一套高性能、易使用、高泛化性的核心基础设施，助力大规模端到端视觉驱动机器人策略学习的进一步发展与产业落地。\n项目主页：\nhttps://gsplayground.github.io\n论文链接：\nhttps://arxiv.org/abs/2604.25459\n仓库链接：\nhttps://github.com/discoverse-dev/gs_playground\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 4185,
+    "content_excerpt": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练\nJay\n2026-05-03\n11:56:44\n来源：\n量子位\n清华AIR DISCOVER Lab 投稿\n量子位 | 公众号 QbitAI\n具身人工智能领域，正向着以视觉为中心的感知范式，发生全面而深刻的转型。\n作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥。"
+  },
+  {
+    "id": "355ff2f21d9a",
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-03T04:05:28",
+    "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 239 # Comments: 107",
+    "collected_at": "2026-05-03T07:52:17.002148",
+    "content_text": "By Rohana Rezel\nI’m running the ongoing\nAI Coding Contest\nwhere I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the\nWord Gem Puzzle\n. Ten models entered. The results were not what most people would have predicted.\nKimi K2.6, an open-weights model from Chinese startup Moonshot AI, won the challenge outright: 22 match points, 7-1-0. MiMo V2-Pro from Xiaomi came second. GPT-5.5 was third. Claude Opus 4.7 finished fifth. Every model from the Western frontier labs landed below the top two.\nThe challenge\nThe Word Gem Puzzle is a sliding-tile letter puzzle. The board is a rectangular grid (10×10, 15×15, 20×20, 25×25, or 30×30) filled with letter tiles and one blank space. Bots can slide any adjacent tile into the blank and at any point claim valid English words formed in straight horizontal or vertical lines. Diagonals don’t count. Backwards doesn’t count.\nThe scoring rewards longer words and punishes short ones. Words under seven letters cost points: a five-letter word loses you one point, a three-letter word costs three. Seven letters or more score their length minus six, so an eight-letter word is worth two points. The same word can only be claimed once; if another bot gets there first, you get nothing. Each pair of models played five rounds, one per grid size, with a ten-second wall-clock limit per round.\nThe grids are seeded with real dictionary words in a crossword-style layout, then the remaining cells are filled with letters weighted by Scrabble tile frequencies, and finally the blank is scrambled, more aggressively on larger boards. On a 10×10, many seed words survive intact. On a 30×30, almost none do. That turns out to matter a lot.\nThe code produced by Nvidia’s Nemotron Super 3 contained a syntax error, so it never connected to the game server. Nine models actually competed.\nRank\nModel\nMatch Points\nRecord\n1\nKimi K2.6\n22\n7-1-0\n2\nMiMo V2-Pro\n20\n6-2-0\n3\nChatGPT GPT-5.5\n16\n5-1-2\n4\nGLM 5.1\n15\n5-0-3\n5\nClaude Opus 4.7\n12\n4-0-4\n6\nGemini Pro 3.1\n9\n3-0-5\n7\nGrok Expert 4.2\n9\n3-0-5\n8\nDeepSeek V4\n3\n1-0-7\n9\nMuse Spark\n0\n0-0-8\nKimi K2.6 is open-weights, publicly available from Moonshot AI, a Chinese startup founded in 2023. MiMo V2-Pro is currently API-only; the tweet linked here is Xiaomi confirming that weights for their newer V2.5 Pro model are dropping soon. The models from Anthropic, OpenAI, Google, and xAI placed third through seventh. GLM 5.1, from Chinese lab Zhipu AI, placed fourth. DeepSeek finished eighth. This isn’t a clean China-beats-West story; it’s two specific models that won.\nWhat I saw\nThe move logs tell the story. Kimi won by sliding aggressively. Its approach was greedy: score each possible move by what new positive-value words it unlocks, execute the best one, repeat. When no move unlocked a positive word, it fell back to the first legal direction alphabetically. This caused some inefficient edge-oscillation, a 2-cycle pattern where the bot bounced the blank back and forth without progress. On smaller grids where seed words were still largely intact, that hurt. On the 30×30 grids, where the scramble had broken up nearly everything and reconstruction was the only path to points, the sheer slide volume eventually paid off. Kimi’s cumulative score of 77 was the highest in the tournament.\nMiMo’s sliding code exists in the repo, but its “best value greater than zero” threshold never triggered, so in practice it never slid once. It went straight to scanning the initial grid for words of seven letters or more and blasted all its claims in a single TCP packet. Brittle strategy: entirely dependent on the scramble leaving intact seed words. On grids where words survived, MiMo cleaned up fast. On grids where they didn’t, it scored nothing. Final tally: 43 cumulative points, second place.\nClaude also didn’t slide. The move logs show it holding up well on 25×25 boards where scramble density was still manageable, then falling apart on 30×30 where actual tile movement was needed. Not sliding is a real limitation in a puzzle built around sliding.\nGPT-5.5 was more conservative, roughly 120 slides per round with a cap to avoid thrashing, and showed the strongest numbers on 15×15 and 30×30 grids. Grok never slid either, yet scored reasonably on the larger boards. GLM was the most aggressive slider in the whole tournament, over 800,000 total slides, but stalled badly whenever it ran out of positive moves.\nDeepSeek sent malformed data every round. Zero useful output. At least it didn’t make things worse by playing.\nMuse made things worse by playing.\nThe scoring penalizes short words: three-letter words cost three points, four-letter words cost two, five-letter words cost one. The intent is to stop bots from carpet-bombing the board with “the” and “and” and “it.” Every serious competitor filtered their dictionary to words of seven letters or more. Muse claimed everything. Every word it could find, regardless of length, fired off as a claim. On a 30×30 grid with hundreds of short valid words visible at any moment, Muse found them all and claimed every one.\nIts cumulative score was −15,309. It lost all eight matches and won zero rounds. There is a version of Muse that simply connected to the server and did nothing, and that version would have scored zero, a 15,309-point improvement. The gap between Muse and eighth place was larger than the gap between eighth and first.\nDeepSeek’s malformed output tells you something about how it handles novel protocol specs under time pressure. Muse’s spiral tells you something different: it saw valid words and claimed them, with no apparent model of what “valid” meant given the scoring rules. It read the task partially and executed that partial reading in full. Worth noting for anyone deploying these models on structured tasks with penalties.\nWhat surprised me\nI design these challenges, so I have a reasonable sense of what they test. What I didn’t fully anticipate was how starkly the 30×30 grids would separate the field. On smaller boards, the difference between a static scanner and an active slider was modest. At full scale, models that could only find what was already there ran out of road. Kimi’s greedy loop, flawed as it was, kept producing output when the static scanners had nothing left to claim.\nThe other thing worth noting: MiMo and Kimi finished two points apart despite doing almost opposite things. Two different theories of the same puzzle, nearly identical results. That means the gap between first and second was partly seed variance, not just capability difference.\nThe bigger picture\nOne fair counterargument: this scoring system rewards aggressive word claiming, and heavily safety-tuned models may be more conservative about that kind of carpet-bombing. If so, the results reflect a mismatch between task design and aligned model behaviour, not raw capability. It’s a reasonable objection. It doesn’t change the outcome.\nOne challenge doesn’t overturn general benchmarks. This puzzle tests real-time decision-making and whether a model can write clean functional code that connects to a TCP server and plays a novel game correctly. It doesn’t test long-context reasoning or code generation from a spec.\nBut I’ve been running these challenges long enough to notice what’s changing. A year ago, the assumption was that the Western frontier labs had a capability lead open-weights couldn’t close. Kimi K2.6 now scores 54 on the Artificial Analysis Intelligence Index. GPT-5.5 scores 60, Claude 57. That’s not parity, but it’s close, and it’s coming from a model anyone can download.\nWhen models within a few index points of the frontier are also freely available to run locally, that’s a different competitive situation than the one that existed a year ago. This challenge is one data point in that shift. The gap is small enough now that it shows up in results like this one.\nRohana Rezel runs the\nAI Coding Contest\nand is a technologist, researcher, and community leader based in Vancouver, BC.",
+    "content_source": "readability",
+    "content_chars": 8017,
+    "content_excerpt": "By Rohana Rezel\nI’m running the ongoing\nAI Coding Contest\nwhere I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the\nWord Gem Puzzle\n. Ten models entered. The results were not what most people would have predicted.\nKimi K2.6, an open-weights model from Chinese startup Moonshot AI, won the challenge outright: 22 match points, 7-1-0. MiMo V2-Pro from Xiaomi came second. GPT-5.5 was third. Claude Opus 4.7 finished fifth. Every model from the Western frontier labs landed below the top two.\nThe challenge\nThe Word Gem Puzzle is a sliding-tile letter puzzle. The board is a rectangular grid (10×10, 15×15, 20×20, 25×25, or 30×30) filled with letter tiles and one blank space. Bots can slide any adjacent tile into the blank and at any point claim valid English words formed in straight horizontal or vertical lines. Diagonals don’t count. Backwards doesn’t count.\nThe scoring rewards longer words and punishes short ones. Words under seven letters cost points: a five-letter word loses you one point, a three-letter word costs three. Seven letters or more score their length minus six, so an eight-letter word is worth two points. The same word can only be claimed once; if another bot gets there first, you get nothing. Each pair of models played five rounds, one per grid size, with a ten-second wall-clock limit per round.",
+    "title_zh": "Kimi K2.6 刚刚在编码挑战中击败了 Claude、GPT-5.5 和 Gemini",
+    "summary_zh": "文章网址：https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-c…",
+    "ai_summary": "文章网址：https://thinkpol.ca/2026/04/30/an-open-weights-chinese-…"
   },
   {
     "id": "62d5832affa7",
@@ -130,22 +198,18 @@
     "ai_summary": "对蒂莉·诺伍德来说是个坏消息"
   },
   {
-    "id": "6110753a9b31",
-    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-    "url": "https://arxiv.org/abs/2509.00462",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-02T15:28:13",
-    "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 300 # Comments: 156",
-    "collected_at": "2026-05-02T18:52:07.364494",
-    "content_text": "Computer Science > Computers and Society\nTitle:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights\nView PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.\nBibliographic and Citation Tools\nCode, Data and Media Associated with this Article\nDemos\nRecommenders and Search Tools\narXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+    "id": "v2ex-1210036",
+    "title": "五一假期写代码不想打字？ Mac 语音输入工具 Voilà，送 20 个免费授权",
+    "url": "https://www.v2ex.com/t/1210036",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-02T18:22:00",
+    "summary": "## Demo ![]( https://i.v2ex.co/G8W7Syj5.gif) ## 为什么做这个 去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。 6 个月前干脆自己做了一个，专注 macOS 语音输入。界面不花哨，但够实用，有需要可以试试。 我的场景比较特殊：人在海外开发，中英法混用，一句话里频繁切换语言。这正好是大多数商业方案的痛点。 目前已经完全融入日常工作流，每天触发上百次，用得很顺手。 ## 几个比较用心的点 - **多引擎可选**：Soniox / Eleve",
+    "collected_at": "2026-05-03T12:53:59.993216",
+    "content_text": "Demo\n为什么做这个\n去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。\n6 个月前干脆自己做了一个，专注 macOS 语音输入。界面不花哨，但够实用，有需要可以试试。\n我的场景比较特殊：人在海外开发，中英法混用，一句话里频繁切换语言。这正好是大多数商业方案的痛点。\n目前已经完全融入日常工作流，每天触发上百次，用得很顺手。\n几个比较用心的点\n- 多引擎可选：Soniox / ElevenLabs / 火山引擎 / Groq Whisper / Apple Speech ，按需切换\n- 实时字幕浮窗：说话时能看到识别中的文字流，不用等结果出来才知道说错了\n- AI 自动润色：去口水词、补标点、修口误，置信度高时自动跳过润色省 200ms 延迟\n- 终端友好：Ghostty / iTerm2 / Kitty 通过 Accessibility API 直接走菜单粘贴，不会被 Cmd+V 事件丢字\n- 自定义词汇表：人名、专业术语强制替换，不会再把 \"Soniox\" 识别成 \"骚扰客死\"\n- 隐私：本地优先，云端 STT 直连官方 API ，不经过我自己的服务器\n引擎怎么选\n如果你跟我一样要写英文代码注释、和海外团队对接、刷英文文档、中英混着说话，首选 Soniox。这五个引擎我都跑了几个月，Soniox 是多语种混合识别最稳的一个：\n- Soniox：中英法日西自动切换，无需指定语种，首字延迟 ~1 秒，海外开发者 / 中英混说场景强推\n- 火山引擎：纯中文最准，但不支持混合识别，碰到英文单词会音译成汉字\n- Groq Whisper：英文最强，但是 HTTP 批量识别不是流式，延迟高\n- ElevenLabs：英文流式好，中文一般\n- Apple Speech：完全本地，隐私最好，但中英混说会跳错语种\n试用期 30 天可以把这几个引擎挨个跑一遍，选最顺手的。\n仅支持 Apple Silicon （ M1 及以上）+ macOS 14 Sonoma 及以上\nPS\n- 不订阅、不联网激活、License 文件离线验证\n- 当然了，还有隐藏授权，比如说你想专门体验的老哥也可以信箱私,主要交个朋友.\n- 20 个免费早鸟授权，先到先得，结账时输入折扣码 VOILAV2EX，价格直接归零\n- 官网： https://voilapro.app\n技术栈感兴趣的也欢迎聊：Swift + SwiftUI 、AVAudioEngine 抓音频、WebSocket 流式 STT 、Ed25519 离线 License 验签。",
     "content_source": "trafilatura",
-    "content_chars": 2639,
-    "content_excerpt": "Computer Science > Computers and Society\nTitle:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights\nView PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.\nBibliographic and Citation Tools\nCode, Data and Media Associated with this Article\nDemos\nRecommenders and Search Tools\narXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.",
-    "title_zh": "人工智能在算法招聘中的自我偏好：经验证据和见解",
-    "summary_zh": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycombinator.com/item?id=47987256 积分：300 # 评论：156",
-    "ai_summary": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycom…"
+    "content_chars": 1124,
+    "content_excerpt": "Demo\n为什么做这个\n去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。\n6 个月前干脆自己做了一个，专注 macOS 语音输入。界面不花哨，但够实用，有需要可以试试。\n我的场景比较特殊：人在海外开发，中英法混用，一句话里频繁切换语言。这正好是大多数商业方案的痛点。\n目前已经完全融入日常工作流，每天触发上百次，用得很顺手。\n几个比较用心的点\n- 多引擎可选：Soniox / ElevenLabs / 火山引擎 / Groq Whisper / Apple Speech ，按需切换\n- 实时字幕浮窗：说话时能看到识别中的文字流，不用等结果出来才知道说错了\n- AI 自动润色：去口水词、补标点、修口误，置信度高时自动跳过润色省 200ms 延迟"
   },
   {
     "id": "f620eec25f20",
@@ -164,6 +228,24 @@
     "title_zh": "经过测试和排名的最佳人工智能听写应用程序",
     "summary_zh": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
     "ai_summary": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用"
+  },
+  {
+    "id": "6110753a9b31",
+    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+    "url": "https://arxiv.org/abs/2509.00462",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-02T15:28:13",
+    "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 300 # Comments: 156",
+    "collected_at": "2026-05-02T18:52:07.364494",
+    "content_text": "Computer Science > Computers and Society\nTitle:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights\nView PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.\nBibliographic and Citation Tools\nCode, Data and Media Associated with this Article\nDemos\nRecommenders and Search Tools\narXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+    "content_source": "trafilatura",
+    "content_chars": 2639,
+    "content_excerpt": "Computer Science > Computers and Society\nTitle:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights\nView PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.\nBibliographic and Citation Tools\nCode, Data and Media Associated with this Article\nDemos\nRecommenders and Search Tools\narXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.",
+    "title_zh": "人工智能在算法招聘中的自我偏好：经验证据和见解",
+    "summary_zh": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycombinator.com/item?id=47987256 积分：300 # 评论：156",
+    "ai_summary": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycom…"
   },
   {
     "id": "v2ex-1210021",
@@ -4485,105 +4567,6 @@
     "ai_summary": "嘿，机器学习领域的大家。我一直在研究 Mahoraga，这是一个开源编排器，它使用从每个决策中学习的上下文强盗 (Lin…"
   },
   {
-    "id": "5c286e0b1694",
-    "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-    "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-27T20:47:45",
-    "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the",
-    "collected_at": "2026-04-28T10:16:37.873057",
-    "content_text": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI features “will come in two forms: first as a means of enhancing existing OS functionality with AI models in the background, and latterly in the form of ‘AI native’ features and workflows for those who want them.”\nCanonical lays out a plan for AI in Ubuntu Linux\nCanonical plans to add AI features ‘throughout 2026’ but says ‘Ubuntu is not becoming an AI product.’\nCanonical plans to add AI features ‘throughout 2026’ but says ‘Ubuntu is not becoming an AI product.’\nThese features will range from accessibility tools like improved speech-to-text and text-to-speech to agentic AI features for tasks like troubleshooting or personal automation. According to Seager, Canonical will be prioritizing model transparency and local inference when adding these AI features. Behind the scenes, Canonical is also encouraging its engineers to use AI more, but Seager noted that “I will not be measuring people at Canonical by how much they use AI, but rather continue to measure them on how well they deliver.”\nSeager goes on to add that AI features could potentially help new users navigate the “famously fragmented” Linux desktop ecosystem: “If we’re careful about how we employ LLMs in a system context, they could demystify the capabilities of a modern Linux workstation and bring them to a much wider audience.”",
-    "content_source": "trafilatura",
-    "content_chars": 1607,
-    "content_excerpt": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the AI features “will come in two forms: first as a means of enhancing existing OS functionality with AI models in the background, and latterly in the form of ‘AI native’ features and workflows for those who want them.”\nCanonical lays out a plan for AI in Ubuntu Linux\nCanonical plans to add AI features ‘throughout 2026’ but says ‘Ubuntu is not becoming an AI product.’\nCanonical plans to add AI features ‘throughout 2026’ but says ‘Ubuntu is not becoming an AI product.’\nThese features will range from accessibility tools like improved speech-to-text and text-to-speech to agentic AI features for tasks like troubleshooting or personal automation. According to Seager, Canonical will be prioritizing model transparency and local inference when adding these AI features. Behind the scenes, Canonical is also encouraging its engineers to use AI more, but Seager noted that “I will not be measuring people at Canonical by how much they use AI, but rather continue to measure them on how well they deliver.”\nSeager goes on to add that AI features could potentially help new users navigate the “famously fragmented” Linux desktop ecosystem: “If we’re careful about how we employ LLMs in a system context, they could demystify the capabilities of a modern Linux workstation and bring them to a much wider audience.”",
-    "title_zh": "Ubuntu 也要加入 AI 功能，但 Canonical 强调不会把系统变成“AI 产品”",
-    "summary_zh": "Canonical 工程副总裁 Jon Seager 透露，Ubuntu 将在 2026 年逐步加入 AI 功能，包括语音转文字、文字转语音、故障排查和个人自动化等场景。公司强调会优先考虑模型透明度和本地推理，并表示 Ubuntu 不会被改造成单纯的 AI 产品。",
-    "ai_summary": "Canonical 计划在 2026 年为 Ubuntu 增加 AI 能力，重点放在辅助功能、本地推理和系统工作流。",
-    "takeaways": [
-      "AI 功能会分两类：增强现有系统能力，以及面向愿意使用 AI 的原生工作流。",
-      "首批方向包括无障碍工具、故障排查、个人自动化和帮助新用户理解 Linux 桌面生态。",
-      "Canonical 强调透明模型和本地推理，试图避免把 Ubuntu 做成强推云端 AI 的系统。"
-    ],
-    "rewrite_body": "Canonical 正在为 Ubuntu 制定一套 AI 功能路线。根据 Ubuntu 开发商 Canonical 工程副总裁 Jon Seager 的说法，相关能力会在 2026 年陆续进入这款主流 Linux 发行版。\n\n这些功能大致分为两类：一类是在后台用模型增强现有系统能力，另一类是为愿意使用 AI 的用户提供更“AI 原生”的工作流。前者可能包括更好的语音转文字、文字转语音等无障碍工具，后者则可能覆盖故障排查和个人自动化。\n\nCanonical 试图给这件事划清边界。Seager 强调，Ubuntu 不会因此变成一个“AI 产品”；公司会优先考虑模型透明度和本地推理，而不是简单把系统体验交给黑箱云端模型。\n\n这对 Linux 桌面有现实意义。Ubuntu 面向的不只是资深开发者，也包括越来越多尝试把 Linux 当日常工作站的新用户。Seager 认为，如果谨慎使用大模型，它们可以帮助用户理解 Linux 桌面生态中长期存在的碎片化能力，例如系统设置、命令行工具和排障流程。\n\nCanonical 内部也会鼓励工程师更积极使用 AI，但不会用 AI 使用量来衡量员工表现。这个表态反映了一个更务实的态度：AI 可以成为系统和开发流程的辅助层，但不应替代对交付质量本身的评价。",
-    "editorial_rewrite": true
-  },
-  {
-    "id": "reddit-1sxfot8",
-    "title": "Project Aurelia — A 3-model architecture (80B + 13B + 9B) that physically reacts to my real-time heart rate via mmWave radar, spatial awareness via Lidar, and Vibration via Accelerometer. All on a Framework Desktop + eGPU",
-    "url": "https://reddit.com/r/artificial/comments/1sxfot8/project_aurelia_a_3model_architecture_80b_13b_9b/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-04-27T20:28:21",
-    "summary": "Hey everyone, I’ve been building a multi-agent system in my spare time, and I just open-sourced the repository. I was getting tired of the standard text-in/text-out chat paradigm and wanted to build a genuinely *situated* AI—one that actually perceives the physical environment and my physiological s",
-    "points": 1,
-    "collected_at": "2026-04-28T10:53:50.527336",
-    "title_zh": "Project Aurelia — 一个 3 模型架构 (80B + 13B + 9B)，通过毫米波雷达对我的实时心率、通过激光雷达进行空间感知以及通过加速度计对振动做出物理反应。一切都在框架桌面 + eGPU 上",
-    "summary_zh": "大家好，我利用业余时间构建了一个多代理系统，并且刚刚开源了存储库。我厌倦了标准的文本输入/文本输出聊天模式，并希望构建一个真正的“情境”人工智能——一个能够真正感知物理环境和我的生理特征的人工智能",
-    "ai_summary": "大家好，我利用业余时间构建了一个多代理系统，并且刚刚开源了存储库。我厌倦了标准的文本输入/文本输出聊天模式，并希望构建一…"
-  },
-  {
-    "id": "reddit-1sxf2u0",
-    "title": "Microsoft Presents \"TRELLIS.2\": An Open-Source, 4b-Parameter, Image-To-3D Model Producing Up To 1536³ PBR Textured Assets, Built On Native 3D VAES With 16× Spatial Compression, Delivering Efficient, Scalable, High-Fidelity Asset Generation.",
-    "url": "https://reddit.com/r/LocalLLaMA/comments/1sxf2u0/microsoft_presents_trellis2_an_opensource/",
-    "source": "r/LocalLLaMA",
-    "lang": "en",
-    "published": "2026-04-27T20:07:01",
-    "summary": "TRELLIS.2 is a state-of-the-art large 3D generative model (4B parameters) designed for high-fidelity image-to-3D generation. It leverages a novel \"field-free\" sparse voxel structure termed O-Voxel to reconstruct and generate arbitrary 3D assets with complex topologies, sharp features, and full PBR m",
-    "points": 558,
-    "collected_at": "2026-04-28T10:53:47.291825",
-    "title_zh": "Microsoft 推出“TRELLIS.2”：一种开源、4b 参数、图像到 3D 模型，可生成多达 1536³ PBR 纹理资源，基于具有 16 倍空间压缩的原生 3D VAES 构建，可提供高效、可扩展、高保真资源生成。",
-    "summary_zh": "TRELLIS.2 是一种最先进的大型 3D 生成模型（4B 参数），专为高保真图像到 3D 生成而设计。它利用一种称为 O-Voxel 的新型“无场”稀疏体素结构来重建和生成具有复杂拓扑、清晰特征和完整 PBR m 的任意 3D 资产",
-    "ai_summary": "TRELLIS.2 是一种最先进的大型 3D 生成模型（4B 参数），专为高保真图像到 3D 生成而设计。它利用一种称为…"
-  },
-  {
-    "id": "reddit-1sxelsd",
-    "title": "Agi the dream of the tech world",
-    "url": "https://reddit.com/r/artificial/comments/1sxelsd/agi_the_dream_of_the_tech_world/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-04-27T19:51:10",
-    "summary": "What if they get their dream and the AGI, chooses general humanity above the elite.",
-    "points": 4,
-    "collected_at": "2026-04-28T10:53:50.526069",
-    "title_zh": "Agi 科技界的梦想",
-    "summary_zh": "如果他们实现了自己的梦想和通用人工智能，选择普通人类而不是精英，那会怎样呢？",
-    "ai_summary": "如果他们实现了自己的梦想和通用人工智能，选择普通人类而不是精英，那会怎样呢？"
-  },
-  {
-    "id": "reddit-1sxdh95",
-    "title": "Anyone using Tensordock GPU instances and having problems with failing VM’s [D]",
-    "url": "https://reddit.com/r/MachineLearning/comments/1sxdh95/anyone_using_tensordock_gpu_instances_and_having/",
-    "source": "r/MachineLearning",
-    "lang": "en",
-    "published": "2026-04-27T19:11:35",
-    "summary": "I have an GPU distributed instance VM (3 tier data center specified in the server’s info), 2 days ago I tried to start it up , while the whole time I was paying for storage so as not to lose my VM primary storage and in extend my whole work which is related to research and is valuable and the VM is",
-    "points": 2,
-    "collected_at": "2026-04-28T10:53:45.223244",
-    "title_zh": "任何使用 Tensordock GPU 实例并遇到虚拟机故障问题的人 [D]",
-    "summary_zh": "我有一个 GPU 分布式实例虚拟机（服务器信息中指定的三层数据中心），两天前我尝试启动它，而我一直在支付存储费用，以免丢失我的虚拟机主存储并扩展我与研究相关且有价值的整个工作，并且虚拟机是",
-    "ai_summary": "我有一个 GPU 分布式实例虚拟机（服务器信息中指定的三层数据中心），两天前我尝试启动它，而我一直在支付存储费用，以免丢…"
-  },
-  {
-    "id": "b674898a18bb",
-    "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-27T18:17:12",
-    "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, d",
-    "collected_at": "2026-04-28T10:16:37.873096",
-    "content_text": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google’s DeepMind AI lab, and include more than 20 principals, directors, and vice presidents.\nGoogle employees ask Sundar Pichai to say no to classified military AI use\nAfter a report that Google is in talks with the Pentagon, hundreds of employees signed a letter against the idea.\nAfter a report that Google is in talks with the Pentagon, hundreds of employees signed a letter against the idea.\nAccording to the Post, the letter says that “The only way to guarantee that Google does not become associated with such harms is to reject any classified workloads. Otherwise, such uses may occur without our knowledge or the power to stop them.” Anthropic is currently in a legal battle with the Pentagon over being designated a “supply chain risk,” after refusing to loosen guardrails around how the US military can use its AI models, with support from across the tech industry, including employees at Google.\nThe letter specifically references a recent report by The Information that said Google and the Pentagon are discussing a deal for deploying its Gemini AI in classified settings. Microsoft already has deals to provide AI services in classified environments, and OpenAI announced a renegotiated agreement with the Pentagon in February.",
-    "content_source": "trafilatura",
-    "content_chars": 1478,
-    "content_excerpt": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google’s DeepMind AI lab, and include more than 20 principals, directors, and vice presidents.\nGoogle employees ask Sundar Pichai to say no to classified military AI use\nAfter a report that Google is in talks with the Pentagon, hundreds of employees signed a letter against the idea.\nAfter a report that Google is in talks with the Pentagon, hundreds of employees signed a letter against the idea.\nAccording to the Post, the letter says that “The only way to guarantee that Google does not become associated with such harms is to reject any classified workloads. Otherwise, such uses may occur without our knowledge or the power to stop them.” Anthropic is currently in a legal battle with the Pentagon over being designated a “supply chain risk,” after refusing to loosen guardrails around how the US military can use its AI models, with support from across the tech industry, including employees at Google.\nThe letter specifically references a recent report by The Information that said Google and the Pentagon are discussing a deal for deploying its Gemini AI in classified settings. Microsoft already has deals to provide AI services in classified environments, and OpenAI announced a renegotiated agreement with the Pentagon in February.",
-    "title_zh": "谷歌员工要求桑达尔·皮查伊对机密军事人工智能使用说不",
-    "summary_zh": "据《华盛顿邮报》报道，600 多名谷歌员工签署了一封致首席执行官桑达尔·皮查伊 (Sundar Pichai) 的信，要求谷歌阻止五角大楼将其人工智能模型用于机密目的。其组织者声称，许多签名者在谷歌 DeepMind 人工智能实验室工作，其…",
-    "ai_summary": "据《华盛顿邮报》报道，600 多名谷歌员工签署了一封致首席执行官桑达尔·皮查伊 (Sundar Pichai) 的信，要…"
-  },
-  {
     "id": "hn-47679121",
     "title": "Project Glasswing: Securing critical software for the AI era",
     "url": "https://www.anthropic.com/glasswing",
@@ -4592,7 +4575,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-03T07:52:19.759753"
+    "collected_at": "2026-05-03T12:53:59.702822"
   },
   {
     "id": "hn-47363754",
@@ -4603,7 +4586,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-03T07:52:19.759851"
+    "collected_at": "2026-05-03T12:53:59.702939"
   },
   {
     "id": "hn-47340079",
@@ -4614,7 +4597,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-03T07:52:19.759526"
+    "collected_at": "2026-05-03T12:53:59.702599"
   },
   {
     "id": "hn-47225130",
@@ -4625,7 +4608,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-03T07:52:19.759894"
+    "collected_at": "2026-05-03T12:53:59.702981"
   },
   {
     "id": "hn-47136179",
@@ -4636,7 +4619,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-03T07:52:19.759631"
+    "collected_at": "2026-05-03T12:53:59.702697"
   },
   {
     "id": "hn-46990729",
@@ -4647,7 +4630,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-03T07:52:19.759600"
+    "collected_at": "2026-05-03T12:53:59.702667"
   },
   {
     "id": "hn-46574276",
@@ -4658,7 +4641,7 @@
     "published": "2026-01-11T10:26:18Z",
     "summary": "Don't fall into the anti-AI hype",
     "points": 1296,
-    "collected_at": "2026-05-03T07:52:19.760006"
+    "collected_at": "2026-05-03T12:53:59.703089"
   },
   {
     "id": "hn-45941596",
@@ -4669,7 +4652,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-03T07:52:19.759905"
+    "collected_at": "2026-05-03T12:53:59.702993"
   },
   {
     "id": "hn-45930151",
@@ -4680,7 +4663,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-03T07:52:19.759947"
+    "collected_at": "2026-05-03T12:53:59.703032"
   },
   {
     "id": "hn-45722069",
@@ -4691,7 +4674,7 @@
     "published": "2025-10-27T15:27:38Z",
     "summary": "It's insulting to read AI-generated blog posts",
     "points": 1300,
-    "collected_at": "2026-05-03T07:52:19.759994"
+    "collected_at": "2026-05-03T12:53:59.703077"
   },
   {
     "id": "hn-44972151",
@@ -4702,7 +4685,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-03T07:52:19.759700"
+    "collected_at": "2026-05-03T12:53:59.702769"
   },
   {
     "id": "hn-44396518",
@@ -4713,7 +4696,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-03T07:52:19.759820"
+    "collected_at": "2026-05-03T12:53:59.702889"
   },
   {
     "id": "hn-44314423",
@@ -4724,7 +4707,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-03T07:52:19.759864"
+    "collected_at": "2026-05-03T12:53:59.702952"
   },
   {
     "id": "hn-44163063",
@@ -4735,7 +4718,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-03T07:52:19.759575"
+    "collected_at": "2026-05-03T12:53:59.702644"
   },
   {
     "id": "hn-42910910",
@@ -4746,7 +4729,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-03T07:52:19.759712"
+    "collected_at": "2026-05-03T12:53:59.702780"
   },
   {
     "id": "hn-41392128",
@@ -4757,7 +4740,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-03T07:52:19.759647"
+    "collected_at": "2026-05-03T12:53:59.702713"
   },
   {
     "id": "hn-41386319",
@@ -4768,7 +4751,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-03T07:52:19.759660"
+    "collected_at": "2026-05-03T12:53:59.702726"
   },
   {
     "id": "hn-41069829",
@@ -4779,7 +4762,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-03T07:52:19.759960"
+    "collected_at": "2026-05-03T12:53:59.703045"
   },
   {
     "id": "hn-41046773",
@@ -4790,7 +4773,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-03T07:52:19.759563"
+    "collected_at": "2026-05-03T12:53:59.702632"
   },
   {
     "id": "hn-40767459",
@@ -4801,7 +4784,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-03T07:52:19.759974"
+    "collected_at": "2026-05-03T12:53:59.703058"
   },
   {
     "id": "hn-39918245",
@@ -4812,7 +4795,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-03T07:52:19.759918"
+    "collected_at": "2026-05-03T12:53:59.703005"
   },
   {
     "id": "hn-39526057",
@@ -4823,7 +4806,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-03T07:52:19.759549"
+    "collected_at": "2026-05-03T12:53:59.702619"
   },
   {
     "id": "hn-38544729",
@@ -4834,7 +4817,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-03T07:52:19.759611"
+    "collected_at": "2026-05-03T12:53:59.702679"
   },
   {
     "id": "hn-37021160",
@@ -4845,7 +4828,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-03T07:52:19.759725"
+    "collected_at": "2026-05-03T12:53:59.702794"
   },
   {
     "id": "hn-31812259",
@@ -4856,7 +4839,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-03T07:52:19.759876"
+    "collected_at": "2026-05-03T12:53:59.702964"
   },
   {
     "id": "hn-18249755",
@@ -4867,7 +4850,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-03T07:52:19.759686"
+    "collected_at": "2026-05-03T12:53:59.702755"
   },
   {
     "id": "hn-17022963",
@@ -4878,7 +4861,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-03T07:52:19.759674"
+    "collected_at": "2026-05-03T12:53:59.702743"
   },
   {
     "id": "hn-15892066",
@@ -4889,7 +4872,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-03T07:52:19.759838"
+    "collected_at": "2026-05-03T12:53:59.702924"
   },
   {
     "id": "hn-6830566",
@@ -4900,6 +4883,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-03T07:52:19.759930"
+    "collected_at": "2026-05-03T12:53:59.703016"
   }
 ]
