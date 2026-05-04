@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-05-03T18:50:03.200419",
+  "updated_at": "2026-05-04T02:08:06.836103",
   "total": 7,
   "hot_list": [
+    {
+      "title": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "name": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "title_zh": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-03",
+      "time": "2026-05-03",
+      "description": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "subtitle": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "ai_summary": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "category": "资讯",
+      "news_id": "01b7165cd4b6",
+      "internal_url": "https://aihot.bt199.com/news/01b7165cd4b6/",
+      "type_label": "📰 新闻"
+    },
     {
       "title": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
       "name": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
@@ -90,24 +108,6 @@
       "category": "资讯",
       "news_id": "6100f49737ff",
       "internal_url": "https://aihot.bt199.com/news/6100f49737ff/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "name": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "title_zh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 10,
-      "detail": "2026-05-02",
-      "time": "2026-05-02",
-      "description": "对蒂莉·诺伍德来说是个坏消息",
-      "subtitle": "对蒂莉·诺伍德来说是个坏消息",
-      "ai_summary": "对蒂莉·诺伍德来说是个坏消息",
-      "category": "资讯",
-      "news_id": "4ce3b826e9fa",
-      "internal_url": "https://aihot.bt199.com/news/4ce3b826e9fa/",
       "type_label": "📰 新闻"
     },
     {
@@ -131,6 +131,24 @@
   ],
   "top_20": [
     {
+      "title": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "name": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "title_zh": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-03",
+      "time": "2026-05-03",
+      "description": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "subtitle": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "ai_summary": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "category": "资讯",
+      "news_id": "01b7165cd4b6",
+      "internal_url": "https://aihot.bt199.com/news/01b7165cd4b6/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
       "name": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
       "title_zh": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
@@ -218,24 +236,6 @@
       "category": "资讯",
       "news_id": "6100f49737ff",
       "internal_url": "https://aihot.bt199.com/news/6100f49737ff/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "name": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "title_zh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 10,
-      "detail": "2026-05-02",
-      "time": "2026-05-02",
-      "description": "对蒂莉·诺伍德来说是个坏消息",
-      "subtitle": "对蒂莉·诺伍德来说是个坏消息",
-      "ai_summary": "对蒂莉·诺伍德来说是个坏消息",
-      "category": "资讯",
-      "news_id": "4ce3b826e9fa",
-      "internal_url": "https://aihot.bt199.com/news/4ce3b826e9fa/",
       "type_label": "📰 新闻"
     },
     {
@@ -265,6 +265,24 @@
   },
   "items": [
     {
+      "title": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "name": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "title_zh": "“这很好”创作者说人工智能初创公司偷了他的艺术",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-03",
+      "time": "2026-05-03",
+      "description": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "subtitle": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "ai_summary": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”",
+      "category": "资讯",
+      "news_id": "01b7165cd4b6",
+      "internal_url": "https://aihot.bt199.com/news/01b7165cd4b6/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
       "name": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
       "title_zh": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
@@ -352,24 +370,6 @@
       "category": "资讯",
       "news_id": "6100f49737ff",
       "internal_url": "https://aihot.bt199.com/news/6100f49737ff/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "name": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "title_zh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 10,
-      "detail": "2026-05-02",
-      "time": "2026-05-02",
-      "description": "对蒂莉·诺伍德来说是个坏消息",
-      "subtitle": "对蒂莉·诺伍德来说是个坏消息",
-      "ai_summary": "对蒂莉·诺伍德来说是个坏消息",
-      "category": "资讯",
-      "news_id": "4ce3b826e9fa",
-      "internal_url": "https://aihot.bt199.com/news/4ce3b826e9fa/",
       "type_label": "📰 新闻"
     },
     {

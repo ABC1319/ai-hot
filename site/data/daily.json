@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-05-03T18:49:35.449475",
-  "date": "2026-05-03",
+  "updated_at": "2026-05-04T02:07:36.372043",
+  "date": "2026-05-04",
   "spotlight": {
-    "id": "windsurf",
-    "name": "Windsurf",
-    "url": "https://codeium.com/windsurf",
+    "id": "trae",
+    "name": "Trae",
+    "url": "https://trae.ai",
     "type": "tool",
-    "description": "Codeium 出品的 AI IDE，内置 Cascade 智能体",
-    "pricing": "免费 + Pro $15/月",
+    "description": "字节跳动出品的 AI IDE，中文友好",
+    "pricing": "免费",
     "category": "编程"
   },
   "alternates": [
     {
-      "name": "Cursor Agent",
-      "url": "https://cursor.sh",
+      "name": "Codex (ChatGPT)",
+      "url": "https://chatgpt.com",
       "type": "agent",
-      "description": "Cursor内置Agent模式，后台自主完成复杂编码任务",
-      "pricing": "Pro $20/月",
+      "description": "OpenAI内置编程智能体，可在沙盒中执行代码",
+      "pricing": "ChatGPT Pro $200/月",
       "category": "编程 Agent"
     },
     {
-      "name": "Gemini CLI",
-      "url": "https://github.com/google-gemini/gemini-cli",
+      "name": "MemPalace",
+      "url": "https://github.com/MemPalace/mempalace",
       "type": "agent",
-      "description": "Google 开源的终端 AI Agent，直接在命令行调用 Gemini 模型完成编码、文件操作等任务",
+      "description": "最强开源 AI 记忆系统，号称性能超越 Mem0 等方案，且完全免费开源",
       "pricing": "免费",
-      "category": "编程 Agent"
+      "category": "平台 Agent"
     },
     {
-      "id": "cursor",
-      "name": "Cursor",
-      "url": "https://cursor.sh",
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
       "type": "tool",
-      "description": "AI-first 代码编辑器，基于 VS Code 深度集成 AI 能力",
-      "pricing": "免费 + Pro $20/月",
+      "description": "GitHub 官方 AI 编程助手，深度集成 VS Code/JetBrains",
+      "pricing": "$10/月 个人 / $19/月 企业",
       "category": "编程"
     }
   ]
