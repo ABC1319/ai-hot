@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-04 16:24:01
+🕐 **最近更新**：2026-05-04 21:29:25
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,20 +24,20 @@
    - 一项新的研究考察了大型语言模型在各种医疗环境中的表现，包括真实的急诊室病例，其中至少有一个模型似乎比人类医生更准确
    - `TechCrunch AI · 2026-05-03`
 
-3. [互联网上最受欢迎的松鼠爸爸如何打造 2026 年最热门的相机应用](https://aihot.bt199.com/news/2d552d61c9ed/)
+3. [为医疗保健需求量身定制人工智能解决方案](https://aihot.bt199.com/news/0ca39b129128/)
+   - 人工智能市场充满了巨大变革的前景。医疗保健是这些承诺的主要目标，因为它受到财政压力、劳动力短缺和日益沉重的人口老龄化负担…
+   - `MIT Tech Review · 2026-05-04`
+
+4. [互联网上最受欢迎的松鼠爸爸如何打造 2026 年最热门的相机应用](https://aihot.bt199.com/news/2d552d61c9ed/)
    - 称 DualShot Recorder 一夜爆红并不夸张。从发布仅12个小时就登上App Store付费应用排行榜第一名…
    - `The Verge AI · 2026-05-03`
 
-4. [人工智能音乐正在涌入流媒体服务——但谁想要它呢？](https://aihot.bt199.com/news/3800b60792a2/)
+5. [人工智能音乐正在涌入流媒体服务——但谁想要它呢？](https://aihot.bt199.com/news/3800b60792a2/)
    - 这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何改变音乐和音乐产业的更多…
    - `The Verge AI · 2026-05-03`
 
-5. [马斯克诉奥特曼第一周：埃隆·马斯克说他被骗了，警告人工智能可能会杀死我们所有人，并承认 xAI 提炼了 OpenAI 的模型](https://aihot.bt199.com/news/572f1821c4c2/)
+6. [马斯克诉奥特曼第一周：埃隆·马斯克说他被骗了，警告人工智能可能会杀死我们所有人，并承认 xAI 提炼了 OpenAI 的模型](https://aihot.bt199.com/news/572f1821c4c2/)
    - 在埃隆·马斯克和 OpenAI 之间具有里程碑意义的审判的第一周，马斯克穿着挺括的黑色西装，打着领带出庭，辩称 Open…
-   - `MIT Tech Review · 2026-05-01`
-
-6. [人工智能时代的网络不安全](https://aihot.bt199.com/news/6100f49737ff/)
-   - 在人工智能进入堆栈之前，网络安全就已经面临压力。现在，随着人工智能扩大攻击面并增加新的复杂性，传统方法的局限性变得越来越…
    - `MIT Tech Review · 2026-05-01`
 
 7. [为什么最近的供应链攻击专门针对安全公司 Checkmarx 和 Bitwarden](https://aihot.bt199.com/news/dc28630cd03a/)
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

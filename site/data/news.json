@@ -1,5 +1,23 @@
 [
   {
+    "id": "0ca39b129128",
+    "title": "Tailoring AI solutions for health care needs",
+    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-04T13:00:00",
+    "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cance",
+    "collected_at": "2026-05-04T13:27:55.814117",
+    "content_text": "Sponsored\nIn partnership withMayo Clinic Platform\nThe AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining routine administrative tasks.\nThe opportunity is genuine, but execution can be difficult. Numerous software vendors have tried to “fix” health care challenges but failed because they misunderstood the environment. “Health care is very complex,” says Steve Bethke, vice president of the solution developer market for Mayo Clinic Platform, which supports the buildout and deployment of digital solutions for health care companies through data-based insights and expert validation. “Solution developers must have a deep focus on clinical and technical capabilities, and then align their solutions to the relevant business impacts. If they miss any dimension, the solution will not be adopted or drive value.”\nAI applications for health care are proliferating rapidly. The U.S. Food and Drug Administration has approved more than 1,300 AI-enabled medical devices, mostly for interpreting diagnostic images. More than half of these were approved in the past three years, with the earliest dating as far back as 1995. Non-radiological applications carry out tasks as diverse as tracking sleep apnea, analyzing heart rhythms, and planning orthopedic surgeries.\nAI applications that do not count as medical devices— for example, those that handle scheduling and administrative tasks—are more difficult to track but are also rapidly increasing. AI can help coordinate complex tasks and workflows that are often conventionally managed by whiteboards and sticky notes. Such functions may well outstrip clinical uses in their impact on health systems. A recent survey of technology leaders found that 72% said their top priority for AI was reducing caregiver burden and improving caregiver satisfaction, while over half (53%) cited workflow efficiency and productivity.\nAny health care-related application can potentially impact patient care, whether directly or indirectly, and AI apps that are poorly designed or inadequately trained and validated can put patients at risk. Providers recognize that risk: In the same survey, 77% said immature AI tools are a significant barrier to adoption. Regulators and lawmakers are also keeping an eye on the risks as development and adoption burgeon, though the U.S. regulatory picture is still in flux, as a 2024 report to Congress on AI in health care observes.\nTo tackle some of the technical challenges, many health care providers are partnering with application developers to build AI solutions. In a recent study, McKinsey found that 61% of health care organizations intend to pursue partnerships with third-party vendors to develop customized generative AI solutions as a primary strategy as opposed to building them in-house or buying off-the-shelf products.\nBut health care-specific AI applications must also be tailored to the nuanced clinical needs of medical providers as well as the complex business and regulatory considerations of the wider sector. This is where developers can benefit from working with a partner with a deep understanding of the health care environment to tailor applications to what providers want and need most. Doing so helps to position AI products for maximum impact and value, avoiding the pitfalls unique to the health care environment.\nThis content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.\nDeep Dive\nBiotechnology and health\nInside the stealthy startup that pitched brainless human clones\nA woman’s uterus has been kept alive outside the body for the first time\nThe team behind the feat plan to study uterine disorders and the early stages of pregnancy—and potentially grow a human fetus.\nThis scientist rewarmed and studied pieces of his friend’s cryopreserved brain\nA gerontologist wanted his preserved brain to be reanimated. Cryopreservation is more likely to be used on organs for transplantation.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+    "content_source": "trafilatura",
+    "content_chars": 4674,
+    "content_excerpt": "Sponsored\nIn partnership withMayo Clinic Platform\nThe AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining routine administrative tasks.\nThe opportunity is genuine, but execution can be difficult. Numerous software vendors have tried to “fix” health care challenges but failed because they misunderstood the environment. “Health care is very complex,” says Steve Bethke, vice president of the solution developer market for Mayo Clinic Platform, which supports the buildout and deployment of digital solutions for health care companies through data-based insights and expert validation. “Solution developers must have a deep focus on clinical and technical capabilities, and then align their solutions to the relevant business impacts. If they miss any dimension, the solution will not be adopted or drive value.”\nAI applications for health care are proliferating rapidly. The U.S. Food and Drug Administration has approved more than 1,300 AI-enabled medical devices, mostly for interpreting diagnostic images. More than half of these were approved in the past three years, with the earliest dating as far back as 1995. Non-radiological applications carry out tasks as diverse as tracking sleep apnea, analyzing heart rhythms, and planning orthopedic surgeries.\nAI applications that do not count as medical devices— for example, those that handle scheduling and administrative tasks—are more difficult to track but are also rapidly increasing. AI can help coordinate complex tasks and workflows that are often conventionally managed by whiteboards and sticky notes. Such functions may well outstrip clinical uses in their impact on health systems. A recent survey of technology leaders found that 72% said their top priority for AI was reducing caregiver burden and improving caregiver satisfaction, while over half (53%) cited workflow efficiency and productivity.\nAny health care-related application can potentially impact patient care, whether directly or indirectly, and AI apps that are poorly designed or inadequately trained and validated can put patients at risk. Providers recognize that risk: In the same survey, 77% said immature AI tools are a significant barrier to adoption. Regulators and lawmakers are also keeping an eye on the risks as development and adoption burgeon, though the U.S. regulatory picture is still in flux, as a 2024 report to Congress on AI in health care observes.\nTo tackle some of the technical challenges, many health care providers are partnering with application developers to build AI solutions. In a recent study, McKinsey found that 61% of health care organizations intend to pursue partnerships with third-party vendors to develop customized generative AI solutions as a primary strategy as opposed to building them in-house or buying off-the-shelf products.\nBut health care-specific AI applications must also be tailored to the nuanced clinical needs of medical providers as well as the complex business and regulatory considerations of the wider sector. This is where developers can benefit from working with a partner with a deep understanding of the health care environment to tailor applications to what providers want and need most. Doing so helps to position AI products for maximum impact and value, avoiding the pitfalls unique to the health care environment.\nThis content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.",
+    "title_zh": "为医疗保健需求量身定制人工智能解决方案",
+    "summary_zh": "人工智能市场充满了巨大变革的前景。医疗保健是这些承诺的主要目标，因为它受到财政压力、劳动力短缺和日益沉重的人口老龄化负担的困扰。人工智能开发人员的目标功能千差万别，从治疗癌症到",
+    "ai_summary": "人工智能市场充满了巨大变革的前景。医疗保健是这些承诺的主要目标，因为它受到财政压力、劳动力短缺和日益沉重的人口老龄化负担…"
+  },
+  {
     "id": "1a713a06ddca",
     "title": "CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性",
     "url": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&utm_medium=article",
@@ -15,19 +33,19 @@
     "content_excerpt": "云原生计算基金会(CNCF)\n发布的\n一篇博客文章\n指出，企业在\nKubernetes\n上部署大语言模型(LLM)时存在一个关键的安全缺口，那就是尽管 Kubernetes 擅长编排和隔离工作负载，但它本身无法理解或控制 AI 系统的行为，由此形成了一类完全不同且更为复杂的威胁模型。\n文章认为，LLM 引入了一类新的风险，因为它们处理的是不受信任的输入，并且能够动态决定行动方式，这与传统应用不同。在典型部署中，例如，通过 API 或聊天界面暴露一个 LLM，Kubernetes 可以保证 Pod 运行正常、资源状态稳定，但它无法感知提示词是否是恶意的、敏感数据是否泄露，或模型是否以不安全方式与内部系统交互。这会导致一种糟糕的局面，那就是，基础设施表面健康，而底层风险却未被发现。\nCNCF 强调，基于 LLM 的系统必须被视为可编程、可决策的实体，而不仅仅是计算工作负载。当组织把 LLM 置于内部工具、日志、API 或凭据之前时，实际上是引入了一个可被提示词输入影响的新抽象层。这会打开一系列风险入口，例如，提示词注入、意外数据暴露以及对已连接工具的滥用，而这些威胁并非传统 Kubernetes 安全控制最初所要解决的问题。\n这种转变反映了云原生系统更广泛的演进：Kubernetes 正越来越多地被用于运行 AI 和生成式工作负载。随着采用规模的增长，这个平台正在从最初管理无状态微服务的定位，被扩展到编排数据密集型、智能体驱动和推理密集型系统。然而，安全模型尚未完全跟上这些新场景。\n虽然 Kubernetes 为调度、隔离和资源管理提供了强有力的基础能力，但它缺乏对 AI 系统施加应用层或语义层控制的内置机制。比如，它无法判断一个提示词是否应被执行、一个响应是否泄露敏感信息，或某个 LLM 是否应访问特定工具或 API。"
   },
   {
-    "id": "a6e365eac6be",
-    "title": "“DeepSeek版Claude Code”，Github 2.3k星",
-    "url": "https://www.qbitai.com/2026/05/412914.html",
-    "source": "量子位",
+    "id": "23ee692be402",
+    "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+    "url": "https://36kr.com/p/3794799114476809?f=rss",
+    "source": "36氪",
     "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-04T06:09:16",
-    "summary": "专门针对DeepSeek优化",
-    "collected_at": "2026-05-04T08:20:05.607292",
-    "content_text": "“DeepSeek版Claude Code”，Github 2.3k星\n克雷西\n2026-05-04\n14:09:16\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\nDeepSeek也有自己专属的Coding Agent了。\n名字简单粗暴，就叫DeepSeek-TUI，作者自称是一名“鲸鱼兄弟”的DeepSeek爱好者。\n刚刚，这个项目的星标数突然开始骤增，来到了2.3k，还登上了GitHub热榜。\n这是一个用Rust语言编写的TUI编程工具，像Claude Code一样在终端里运行，但专门针对DeepSeek做了优化适配。\n为了向国内网友宣传自己的作品，作者Hunter Bown还特意用DeepSeek把宣传推文翻译成了中文。\n当DeepSeek-TUI在GitHub上如他所愿爆火之后，Hunter发图哦直言这是自己人生中最疯狂的两天，并用中文向“鲸鱼兄弟”们表示了感谢。\n“DeepSeek版Claude Code”\nDeepSeek-TUI就是一个住在终端里的编程Agent，再简单点理解，就是“DeepSeek版Claude Code”。\n它在今年1月由美国独立开发者Hunter Bown发起，用Rust语言编写，MIT协议开源，但一直不温不火，直到DeepSeek-V4的发布和Hunter的中文宣传，这个项目在这个五一假期开始爆火。\n像读写文件、执行Shell、搜网页、管Git、调度子Agent、接MCP服务器……这些Claude Code能干活的它基本都能干，也支持安装Skills，只不过换成了DeepSeek V4在背后跑。\n整个工具从设计逻辑到功能细节，都在围绕DeepSeek的特性转。\n最直接的一个是思维链。\nDeepSeek-TUI把模型的推理过程直接流式输出到终端里——模型怎么分析问题、走了哪条路、中途改没改主意，全部实时可见。\n然后是上下文。V4支持100万token的上下文窗口，项目默认就把这个用满，跑复杂任务从头到尾不用担心记忆断档。\n上下文快填满时，TUI会自动对内容进行压缩，也可以手动/compact触发。\n压缩策略专门考虑了DeepSeek的前缀缓存机制——尽量保住前面稳定的部分，让缓存能继续命中。\n这个TUI还有一个设计叫RLM，思路“很DeepSeek”——既然DeepSeek便宜到可以拿来堆数量，这个工具就把这个特性直接用进来了。\n在RLM模式中，一个主模型指挥最多16个V4 Flash子任务同时跑，用来做批量分析或任务拆解。Flash的输出价格大约是Pro的三分之一，把不需要强推理的子任务交给它，整体花费能砍不少。\n模型切换也做了专门处理，除了DeepSeek官方API，还支持NVIDIA NIM、Fireworks、自托管的SGLang几条路径。\n操作模式则一共有三档：\nYOLO顾名思义，全自动放行，不想被打断就开它。会话可以保存恢复，工作区有独立Git快照兜底，按轮次回滚不动原仓库，翻车了也不慌。\n不过有一点需要注意的是，子Agent开多了，缓存命中率很难保证。\n要知道，未命中的token价格是命中的10倍，项目界面上有逐轮费用显示，跑长会话建议留意一下，别跑完账单吓一跳。\n安装上，Linux、macOS、Windows都有预编译二进制，npm install -g deepseek-tui一条命令搞定。\n另外，作者还给国内用户准备了专门的中文版README文档和专门配置路径，支持TUNA Cargo镜像，release包还可以托管到阿里云OSS或腾讯云COS。\n项目1月19日建仓，到现在不到4个月，已经迭代到v0.8.8，发布了37个版本，节奏不慢。\n从更新记录来看，大致分几个阶段。\n早期版本主要在搭骨架——工具调用、session管理、基础的Git快照，把Agent跑起来是第一优先级。\nv0.7.x阶段开始往细节上打磨，加了多语言界面支持（v0.7.6）、中文等语言的TUI提示、帮助文本、状态栏开始本地化，这也是为国内用户做适配的一步。\nv0.8.x是最近几个版本的主轴，重心在稳定性和体验打磨上。\nv0.8.6/v0.8.7往上加了一批交互功能，包括限流或服务器报错时显示倒计时重试横幅、输入历史搜索、运行中消息队列可视化；\nv0.8.8在这个基础上做了一轮收口，同时把Linux ARM64预编译二进制补上了。\n整体节奏上看，这个迭代路径中功能更新密集，但每个版本基本都有明确的问题要解决。\n“爱科学的音乐家”\n实际上，Hunter一直是一名DeepSeek狂热粉丝，自打V4出来之后，他就发过很多推文不断称赞。\n同时他也爱好其他中国模型，参加过小米的百万亿Token创造者激励计划。\n而Hunter Bown的起点，其实是音乐，他曾立志当一名乐队指挥。\n他先是在北得克萨斯州大学修读音乐教育，毕业后继续深造，取得了南方卫理公会大学的音乐教育硕士。\n硕士毕业后，Hunter如愿当了3年的乐队指挥。\n后来，他拿了得克萨斯大学达拉斯分校的MBA，之后又回到了之前的母校SMU，进入法学院专攻专利法。\n至于码代码这件事，就更是“半路出家”的选择了。\n但这个“半路”不是转行，更像是几条线最终汇到了一起。\n他在学声乐科学时接触到一个概念叫“缺失基音”（missing fundamental）——人耳可以从泛音里重建出一个物理上并不存在的音高。\n他后来发现这和信息论直接对应，你不需要把所有信息都显式给出，系统本身也会补全。\n这个从音乐里来的直觉，成了他理解AI系统的一把钥匙。\n去年，他给自己创立了一个工作室，名字叫Shannon Labs，定位是“AGI时代的下一个贝尔实验室”。\nDeepSeek-TUI在他这里只是众多研究项目之一，他的GitHub上有65个公开仓库，包括面向NVIDIA Nemotron的同款终端Agent NeMoCode，以及MLX kernel工具包等等。\nShannon Labs旗下的项目跨度更大。\nHegelion是一个辩证推理引擎，走的是”正题→反题→合题”的循环逻辑；\nAleph是一个MCP服务器，主打零token成本的大容量上下文；\nHeliosinger则把太阳风数据实时转化成声音，从AI基础设施一路跨界到了到太空声学。\n他还自己建了三套软件架构（SCU、Driftlock、Hegelion）和一个硬件方案（Driftlock Choir），在他看来，这些拼在一起，是在为AGI时代做基础设施。\n能把这些方向拼在一起，也和他的家族故事颇具关联。\n他的曾祖父Ralph Bown Sr.是贝尔实验室的研究副总裁、无线电先驱，业余时间喜欢自制蜡筒、跑去卡内基音乐厅录音。\nHunter在专利法课堂上意识到，自己正在走一条和这位先祖交汇的路——\n把音乐人的感知方式带进技术研究，去发现那些“因为没有这种背景的研究者而被忽视的想法”。\n他在个人网站上将自己和曾祖父进行了对比，“他是科学家，爱音乐；我是音乐家，爱科学。”\nOne More Thing\n在DeepSeek-TUI的贡献者列表当中，还能看到一些我们熟悉的影子。\n其中包括了Claude、Gemini、Qwen等一系列AI模型和Cursor、GitHub Copilot等编程工具。\n详细记录则表明，大部分的代码由Hunter直接提交，还有150多次commit是Claude做的，另外还有一些真人贡献者提交了少量的commit。\n半路出家的程序员，用AI辅助编程给AI写辅助编程框架，这工作流也是闭环了（手动狗头）。\nGitHub地址：\nhttps://github.com/Hmbown/DeepSeek-TUI\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 3320,
-    "content_excerpt": "“DeepSeek版Claude Code”，Github 2.3k星\n克雷西\n2026-05-04\n14:09:16\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\nDeepSeek也有自己专属的Coding Agent了。\n名字简单粗暴，就叫DeepSeek-TUI，作者自称是一名“鲸鱼兄弟”的DeepSeek爱好者。"
+    "priority": 4,
+    "published": "2026-05-04T09:49:40",
+    "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。 豆包 目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。” 据接近豆包的人士透露，付费",
+    "collected_at": "2026-05-04T13:27:58.009390",
+    "content_text": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。\n豆包\n目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。”\n据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。",
+    "content_source": "trafilatura",
+    "content_chars": 425,
+    "content_excerpt": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。\n豆包\n目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。”\n据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。"
   },
   {
     "id": "efe69600d94f",
@@ -45,15 +63,14 @@
     "content_excerpt": "Cloudflare 在\nAgents Week\n期间宣布\nAgent Memory\n已开启私人测试。这是一项托管服务，可为 AI 智能体提供跨会话、上下文压缩以及重启后的持久化记忆能力。该服务无需把所有内容都塞进上下文窗口，而是从对话中提取结构化记忆，只在需要时检索相关内容。Cloudflare 工程团队的 Tyson Trautmann 与 Rob Sutter\n撰文\n表示：\n我们之所以构建 Agent Memory，是因为平台上实际运行的工作负载暴露出了现有方案无法彻底解决的短板。那些在真实代码库和生产系统中运行数周乃至数月的智能体需要一种能够随规模扩大持续可用的记忆能力，而不仅仅是在标准基准数据集上表现良好的记忆。\n该服务解决了业界所说的上下文衰减（Context Rot）问题。即便上下文窗口已突破百万级词元，相关研究表明，随着上下文不断被填满，模型输出质量会随之下降。开发者陷入两难困境：要么保留全部信息，任由输出质量下滑，要么大幅精简内容，但会丢失智能体后续所需的关键信息。研究还表明，模型在上下文更少、但内容更相关的情况下能够生成更优质的结果，这也让记忆功能不再只是单纯的存储管理工具，更成为提升输出质量的重要手段。\nCartesian 首席软件架构师、InfoQ 编辑 Eran Stiller 在领英上"
   },
   {
-    "id": "4ec0ed4665fa",
-    "title": "豆包将在免费模式外新增付费订阅，官方回应",
-    "url": "https://36kr.com/newsflashes/3794495772712195?f=rss",
-    "source": "36氪",
+    "id": "v2ex-1210195",
+    "title": "正确使用 claude 的姿势是什么？怎么能降低 Token 消耗",
+    "url": "https://www.v2ex.com/t/1210195",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-04T04:40:42",
-    "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。（第一财经）",
-    "collected_at": "2026-05-04T08:22:26.261649"
+    "published": "2026-05-04T08:35:13",
+    "summary": "## RT 开的 claude pro ； 平时只用 claude opus4.7 写页面。codex 写后端； 目前使用的姿势。 桌面端的 desktop ，模型 opus4.7 high ，从写这个项目开始，一直都是一个对话框来对话。 举例做个功能，让他修改一个 vue 项目，一页面增加一个按钮，点击按钮弹出对话框。 这一个功能要用掉 70%。 1 个问题直接 limit 。 是不是姿势不对 ~ 求大佬指点",
+    "collected_at": "2026-05-04T13:27:59.739457"
   },
   {
     "id": "0c1342c5b648",
@@ -69,6 +86,82 @@
     "content_source": "readability",
     "content_chars": 2033,
     "content_excerpt": "开源 DevOps 供应商\nGitLab\n发布其 DevSecOps 平台的\n18.10\n和\n18.11\n版本。本次更新让免费用户也能使用自主式 AI 功能，降低了自动化代码分析的单次审查成本，让管理员可以设定团队每月可消耗的 AI 积分额度上限。\n根据 GitLab 的报告，在使用 AI 编码工具的公司中，代码审查时间增加了 91%。在大型企业中，普通工程师在请求合并之前通常需要等待 13 小时，这也是此次调整定价的动因。一边要加快代码发布速度，一边审查任务堆积如山，这是一个自相矛盾的循环，而 GitLab 18.10 版本主要就是为了解决这一问题。\n本次定价调整的核心是：每次自动化代码审查统一收取 0.25 美元，无论合并请求的规模或复杂程度如何。GitLab 指出，竞争对手采用按 Token 计费的模式，每次审查收费 15 至 25 美元，这种计费结构会促使团队将 AI 审查资源优先用于最重要的变更，进而导致工作积压和延误。GitLab 认为，以每次审查 0.25 美元定价，即使是规模较小或风险较低的变更，团队也没有太多理由跳过审查了。\n开发团队正在以前所未有的速度交付更多的代码，负责保障代码安全并确保其安全部署的 AI 自动化技术必须与之保持同步——它必须覆盖每个项目和每个团队，并兼顾整个平台的整体情况。"
+  },
+  {
+    "id": "a6e365eac6be",
+    "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+    "url": "https://www.qbitai.com/2026/05/412914.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-04T06:09:16",
+    "summary": "专门针对DeepSeek优化",
+    "collected_at": "2026-05-04T08:20:05.607292",
+    "content_text": "“DeepSeek版Claude Code”，Github 2.3k星\n克雷西\n2026-05-04\n14:09:16\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\nDeepSeek也有自己专属的Coding Agent了。\n名字简单粗暴，就叫DeepSeek-TUI，作者自称是一名“鲸鱼兄弟”的DeepSeek爱好者。\n刚刚，这个项目的星标数突然开始骤增，来到了2.3k，还登上了GitHub热榜。\n这是一个用Rust语言编写的TUI编程工具，像Claude Code一样在终端里运行，但专门针对DeepSeek做了优化适配。\n为了向国内网友宣传自己的作品，作者Hunter Bown还特意用DeepSeek把宣传推文翻译成了中文。\n当DeepSeek-TUI在GitHub上如他所愿爆火之后，Hunter发图哦直言这是自己人生中最疯狂的两天，并用中文向“鲸鱼兄弟”们表示了感谢。\n“DeepSeek版Claude Code”\nDeepSeek-TUI就是一个住在终端里的编程Agent，再简单点理解，就是“DeepSeek版Claude Code”。\n它在今年1月由美国独立开发者Hunter Bown发起，用Rust语言编写，MIT协议开源，但一直不温不火，直到DeepSeek-V4的发布和Hunter的中文宣传，这个项目在这个五一假期开始爆火。\n像读写文件、执行Shell、搜网页、管Git、调度子Agent、接MCP服务器……这些Claude Code能干活的它基本都能干，也支持安装Skills，只不过换成了DeepSeek V4在背后跑。\n整个工具从设计逻辑到功能细节，都在围绕DeepSeek的特性转。\n最直接的一个是思维链。\nDeepSeek-TUI把模型的推理过程直接流式输出到终端里——模型怎么分析问题、走了哪条路、中途改没改主意，全部实时可见。\n然后是上下文。V4支持100万token的上下文窗口，项目默认就把这个用满，跑复杂任务从头到尾不用担心记忆断档。\n上下文快填满时，TUI会自动对内容进行压缩，也可以手动/compact触发。\n压缩策略专门考虑了DeepSeek的前缀缓存机制——尽量保住前面稳定的部分，让缓存能继续命中。\n这个TUI还有一个设计叫RLM，思路“很DeepSeek”——既然DeepSeek便宜到可以拿来堆数量，这个工具就把这个特性直接用进来了。\n在RLM模式中，一个主模型指挥最多16个V4 Flash子任务同时跑，用来做批量分析或任务拆解。Flash的输出价格大约是Pro的三分之一，把不需要强推理的子任务交给它，整体花费能砍不少。\n模型切换也做了专门处理，除了DeepSeek官方API，还支持NVIDIA NIM、Fireworks、自托管的SGLang几条路径。\n操作模式则一共有三档：\nYOLO顾名思义，全自动放行，不想被打断就开它。会话可以保存恢复，工作区有独立Git快照兜底，按轮次回滚不动原仓库，翻车了也不慌。\n不过有一点需要注意的是，子Agent开多了，缓存命中率很难保证。\n要知道，未命中的token价格是命中的10倍，项目界面上有逐轮费用显示，跑长会话建议留意一下，别跑完账单吓一跳。\n安装上，Linux、macOS、Windows都有预编译二进制，npm install -g deepseek-tui一条命令搞定。\n另外，作者还给国内用户准备了专门的中文版README文档和专门配置路径，支持TUNA Cargo镜像，release包还可以托管到阿里云OSS或腾讯云COS。\n项目1月19日建仓，到现在不到4个月，已经迭代到v0.8.8，发布了37个版本，节奏不慢。\n从更新记录来看，大致分几个阶段。\n早期版本主要在搭骨架——工具调用、session管理、基础的Git快照，把Agent跑起来是第一优先级。\nv0.7.x阶段开始往细节上打磨，加了多语言界面支持（v0.7.6）、中文等语言的TUI提示、帮助文本、状态栏开始本地化，这也是为国内用户做适配的一步。\nv0.8.x是最近几个版本的主轴，重心在稳定性和体验打磨上。\nv0.8.6/v0.8.7往上加了一批交互功能，包括限流或服务器报错时显示倒计时重试横幅、输入历史搜索、运行中消息队列可视化；\nv0.8.8在这个基础上做了一轮收口，同时把Linux ARM64预编译二进制补上了。\n整体节奏上看，这个迭代路径中功能更新密集，但每个版本基本都有明确的问题要解决。\n“爱科学的音乐家”\n实际上，Hunter一直是一名DeepSeek狂热粉丝，自打V4出来之后，他就发过很多推文不断称赞。\n同时他也爱好其他中国模型，参加过小米的百万亿Token创造者激励计划。\n而Hunter Bown的起点，其实是音乐，他曾立志当一名乐队指挥。\n他先是在北得克萨斯州大学修读音乐教育，毕业后继续深造，取得了南方卫理公会大学的音乐教育硕士。\n硕士毕业后，Hunter如愿当了3年的乐队指挥。\n后来，他拿了得克萨斯大学达拉斯分校的MBA，之后又回到了之前的母校SMU，进入法学院专攻专利法。\n至于码代码这件事，就更是“半路出家”的选择了。\n但这个“半路”不是转行，更像是几条线最终汇到了一起。\n他在学声乐科学时接触到一个概念叫“缺失基音”（missing fundamental）——人耳可以从泛音里重建出一个物理上并不存在的音高。\n他后来发现这和信息论直接对应，你不需要把所有信息都显式给出，系统本身也会补全。\n这个从音乐里来的直觉，成了他理解AI系统的一把钥匙。\n去年，他给自己创立了一个工作室，名字叫Shannon Labs，定位是“AGI时代的下一个贝尔实验室”。\nDeepSeek-TUI在他这里只是众多研究项目之一，他的GitHub上有65个公开仓库，包括面向NVIDIA Nemotron的同款终端Agent NeMoCode，以及MLX kernel工具包等等。\nShannon Labs旗下的项目跨度更大。\nHegelion是一个辩证推理引擎，走的是”正题→反题→合题”的循环逻辑；\nAleph是一个MCP服务器，主打零token成本的大容量上下文；\nHeliosinger则把太阳风数据实时转化成声音，从AI基础设施一路跨界到了到太空声学。\n他还自己建了三套软件架构（SCU、Driftlock、Hegelion）和一个硬件方案（Driftlock Choir），在他看来，这些拼在一起，是在为AGI时代做基础设施。\n能把这些方向拼在一起，也和他的家族故事颇具关联。\n他的曾祖父Ralph Bown Sr.是贝尔实验室的研究副总裁、无线电先驱，业余时间喜欢自制蜡筒、跑去卡内基音乐厅录音。\nHunter在专利法课堂上意识到，自己正在走一条和这位先祖交汇的路——\n把音乐人的感知方式带进技术研究，去发现那些“因为没有这种背景的研究者而被忽视的想法”。\n他在个人网站上将自己和曾祖父进行了对比，“他是科学家，爱音乐；我是音乐家，爱科学。”\nOne More Thing\n在DeepSeek-TUI的贡献者列表当中，还能看到一些我们熟悉的影子。\n其中包括了Claude、Gemini、Qwen等一系列AI模型和Cursor、GitHub Copilot等编程工具。\n详细记录则表明，大部分的代码由Hunter直接提交，还有150多次commit是Claude做的，另外还有一些真人贡献者提交了少量的commit。\n半路出家的程序员，用AI辅助编程给AI写辅助编程框架，这工作流也是闭环了（手动狗头）。\nGitHub地址：\nhttps://github.com/Hmbown/DeepSeek-TUI\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 3320,
+    "content_excerpt": "“DeepSeek版Claude Code”，Github 2.3k星\n克雷西\n2026-05-04\n14:09:16\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\nDeepSeek也有自己专属的Coding Agent了。\n名字简单粗暴，就叫DeepSeek-TUI，作者自称是一名“鲸鱼兄弟”的DeepSeek爱好者。"
+  },
+  {
+    "id": "a96943de4b9d",
+    "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+    "url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-04T09:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-04T02:06:43.560605",
+    "content_text": "Cloudflare 通过发布\n由Code Mode驱动的全新模型上下文（Model Context Protocol，MCP）服务器，显著降低了与其完整API平台交互的成本\n，这代表了 AI 智能体访问复杂 API 方式的一次重要演进。这一新方法也展示了 MCP 生态中智能体与工具集成的新路径。\nMCP 本质上是一项新兴的标准，它通过暴露结构化的工具，让大语言模型（LLM）在执行期间能够调用这些工具并与外部工具和 API 交互。传统做法中，暴露给智能体的每个 API 端点都对应一个独立的工具定义。该模型虽然简单直接，但每次工具规范占用模型有限输入预算中的 Token 时，都会带来显著的上下文窗口成本，从而压缩模型用于推理用户任务的空间。\nCloudflare 解决方案工程师\nLuuk Hofman\n表示：\n所以，我们尝试了一种新的方式：把 MCP 工具转换成 TypeScript API，然后直接让 LLM 基于它编写代码。\nCloudflare 的\nCode Mode\n只暴露了两个工具：\nsearch()\n和\nexecute()\n。其底层是具备类型感知能力的 SDK，允许模型在安全的 V8 isolate 中生成并执行 JavaScript 代码。这样可将智能体的计划编译成一个小型代码片段，在 OpenAPI 规范上编排多个操作，避免把所有端点定义都加载到上下文中。\n传统 MCP 与 Cloudflare Code Mode 对比(来源：\nCloudflare博客\n)\n实际效果非常明显。Cloudflare 表示，Code Mode 将访问 2500 多个 API 端点的 Token 占用从超过 117 万 Token 降至约 1000Token，降幅约 99.9%。这种固定占用与 API 规模无关，使智能体能够在大型、功能丰富的平台上工作，而不会耗尽模型上下文。\nCloudflare 在 Reddit 的一篇\n帖子\n中强调：\n团队采用了专门的编码策略，在不损失功能精度的前提下，将庞大的 API schema 压缩到极小的上下文窗口中。\n智能体首先使用 search()按产品域、路径或元数据查询 OpenAPI 规范，规范本身不会进入模型上下文。随后，execute()在一次循环中运行处理分页、条件逻辑和链式 API 调用的代码，减少往返开销。\nCloudflare 还强调了执行阶段的安全性与沙箱模型。服务器在 Dynamic Worker isolate 中运行用户生成代码，不提供文件系统、不暴露环境变量，并通过显式处理器控制出站请求。该设计在保持智能体自主性的同时，降低了执行不受信任代码相关的风险。\n这个面向 Cloudflare 全量 API 的新 MCP 服务器目前已覆盖 DNS、Zero Trust、Workers 和 R2 服务，并且可以立即集成。Cloudflare 还在其更广泛的 Agents SDK 中开源了 Code Mode SDK，以便第三方 MCP 实现采用类似的模式。\n分析师和实践者认为，Code Mode 是推动智能体工作流从简单的单服务交互迈向更广泛的多 API 自动化扩展的关键一步。随着行业持续应对生产级 AI 智能体中的上下文成本和编排复杂度，这一模式可能在未来一年影响 MCP 标准服务器设计与智能体框架。\n原文链接：\nCloudflare Launches Code Mode MCP Server to Optimize Token Usage for AI Agents",
+    "content_source": "readability",
+    "content_chars": 1483,
+    "content_excerpt": "Cloudflare 通过发布\n由Code Mode驱动的全新模型上下文（Model Context Protocol，MCP）服务器，显著降低了与其完整API平台交互的成本\n，这代表了 AI 智能体访问复杂 API 方式的一次重要演进。这一新方法也展示了 MCP 生态中智能体与工具集成的新路径。\nMCP 本质上是一项新兴的标准，它通过暴露结构化的工具，让大语言模型（LLM）在执行期间能够调用这些工具并与外部工具和 API 交互。传统做法中，暴露给智能体的每个 API 端点都对应一个独立的工具定义。该模型虽然简单直接，但每次工具规范占用模型有限输入预算中的 Token 时，都会带来显著的上下文窗口成本，从而压缩模型用于推理用户任务的空间。\nCloudflare 解决方案工程师\nLuuk Hofman\n表示：\n所以，我们尝试了一种新的方式：把 MCP 工具转换成 TypeScript API，然后直接让 LLM 基于它编写代码。\nCloudflare 的\nCode Mode"
+  },
+  {
+    "id": "v2ex-1210181",
+    "title": "微信输入法这么扯淡都没有切换输入法的选项的吗？",
+    "url": "https://www.v2ex.com/t/1210181",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-04T05:43:10",
+    "summary": "我不懂具体这个东西有没有什么规范和标准，但是我印象中，你一个输入法，肯定要有切换到别的输入法的选项或者按钮对吧。比如 Google 的 Gboard ，那个地球图标，长按就能切换到比如微信输入法、讯飞、搜狗之类的。 但是微信输入法（ Android ）居然连这个选项和按钮都没有，我首先是在键盘上找，没找到，工具栏上找，没找到，然后进输入法 app 选项，也没有找到。太操蛋了。 要切换只能去系统设置那里切换。这不相当于就是“我不给你切，你激活了我的输入法，就一直用我家的”。 我下了个豆包输入法，以为不这样，结果一样，也是找不到切换的入口。 我以前用过讯飞，讯飞是在二级菜单，也就是在输入法界面点开",
+    "collected_at": "2026-05-04T13:27:59.739413"
+  },
+  {
+    "id": "8427fe1a4763",
+    "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+    "url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-04T08:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-04T02:06:43.560642",
+    "content_text": "Netflix 已从传统的视频点播平台迈向直播平台，通过将自动化技术系统与结构化的人类运营层相结合来实现这一转型，相关内容在其最新发布的 Netflix Technology Blog\n文章\n中进行了说明。\n在多年打磨异步分发能力之后，像\n迈克·泰森与杰克·保罗\n拳击比赛这样的高关注度直播事件（全球约有 1.08 亿观众同时观看）对实时基础设施的管理提出了新的要求。这促使团队构建了所谓的“人类基础设施”（human infrastructure），即一个专门的运营层，用于应对直播过程中固有的不确定性。\n这一转变也反映了整个行业面临的共同挑战。Amazon Web Services 提供了\nElemental MediaLive\n服务，帮助广播机构在大规模场景下处理类似的同步与编码任务。\n其他主要平台也遇到了类似难题；Disney+ Hotstar 此前曾分享其在全球板球赛事期间如何应对\n创纪录并发量\n的经验。与这些同行类似，Netflix 现在需要在高峰时段平衡自动化扩展与人工干预，因为标准算法在面对一些特殊故障时可能缺乏足够的上下文来做出响应。\n该策略的关键之一是“遥测热路径”（telemetry hot path）。大多数可观测性管道在设计时优先考虑成本效率和数据完整性，而非极致速度，这对于点播场景来说是可行的，因为分析延迟不会造成明显影响。但在直播场景中，Netflix 将最关键的指标隔离到一个低延迟的数据流中，使运营团队能够在毫秒级别发现并修复传输问题，避免局部故障演变为更大范围的中断。该专用管道优先处理诸如启动失败率和缓冲率等关键指标，而将不那么紧急的后台日志放在次要位置。\n除了软件层面，Netflix 还建立了一个 Live Operations Centre（直播运营中心）作为事件响应枢纽。工程团队指出，这一层提供了一个指挥体系，当出现不可预见的边缘情况时，可以绕过自动化协议进行干预。为该中心构建的定制工具使工程师能够即时引导流量，并在不同区域之间重新平衡容量。这种架构与\nYouTube Live 的基础设施\n在理念上相似，后者同样依赖实时监控以及在大规模全球直播期间进行人工干预的能力。\n从实体媒体到全球实时流媒体的这一架构演进，最近也在 QCon London 上由\nKasia Trapszo\n进行了分享，她讨论了\nNetflix 商业架构的演变\n。该演讲指出，直播事件推动系统从纯实时授权模式转向混合模型，引入“验证窗口”（validation windows）和优雅降级机制，以在流量激增时保障用户访问。\n通过将人类经验正式纳入技术体系，Netflix 旨在在充满不确定性的体育直播场景中依然保持服务的可靠性。这一演进表明，在全球规模下，技术只有与同步的人类判断层相结合，才能发挥最佳效果。\n原文链接：\nhttps://www.infoq.com/news/2026/04/netflix-live-human-ops-scale/",
+    "content_source": "readability",
+    "content_chars": 1243,
+    "content_excerpt": "Netflix 已从传统的视频点播平台迈向直播平台，通过将自动化技术系统与结构化的人类运营层相结合来实现这一转型，相关内容在其最新发布的 Netflix Technology Blog\n文章\n中进行了说明。\n在多年打磨异步分发能力之后，像\n迈克·泰森与杰克·保罗\n拳击比赛这样的高关注度直播事件（全球约有 1.08 亿观众同时观看）对实时基础设施的管理提出了新的要求。这促使团队构建了所谓的“人类基础设施”（human infrastructure），即一个专门的运营层，用于应对直播过程中固有的不确定性。\n这一转变也反映了整个行业面临的共同挑战。Amazon Web Services 提供了\nElemental MediaLive\n服务，帮助广播机构在大规模场景下处理类似的同步与编码任务。\n其他主要平台也遇到了类似难题；Disney+ Hotstar 此前曾分享其在全球板球赛事期间如何应对"
+  },
+  {
+    "id": "v2ex-1210177",
+    "title": "因为炒币合约亏太多了，用 ai 做了一个裸 K 实盘训练的网页，不用登陆欢迎大家来玩",
+    "url": "https://www.v2ex.com/t/1210177",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-04T04:55:15",
+    "summary": "灵感来源是在抖音刷到有博主用这种训练软件来教学裸 K 盘感和一些指标技巧，自己也跟着弄了一个；用的 nextjs 做的小训练平台，地址： https://trade-me.vercel.app/training ；支持限价市价止盈止损，内置排行榜功能=。=",
+    "collected_at": "2026-05-04T13:27:59.739488"
+  },
+  {
+    "id": "4ec0ed4665fa",
+    "title": "豆包将在免费模式外新增付费订阅，官方回应",
+    "url": "https://36kr.com/newsflashes/3794495772712195?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-04T04:40:42",
+    "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。（第一财经）",
+    "collected_at": "2026-05-04T08:22:26.261649"
   },
   {
     "id": "01b7165cd4b6",
@@ -89,19 +182,14 @@
     "ai_summary": "这则广告来自 Artisan，这是一家人工智能初创公司，其广告牌背后敦促企业“停止雇用人类”"
   },
   {
-    "id": "a96943de4b9d",
-    "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
-    "url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
+    "id": "v2ex-1210148",
+    "title": "虽然是老生常谈，但还是求教 2026 年笔记软件如何选择",
+    "url": "https://www.v2ex.com/t/1210148",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-04T09:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-04T02:06:43.560605",
-    "content_text": "Cloudflare 通过发布\n由Code Mode驱动的全新模型上下文（Model Context Protocol，MCP）服务器，显著降低了与其完整API平台交互的成本\n，这代表了 AI 智能体访问复杂 API 方式的一次重要演进。这一新方法也展示了 MCP 生态中智能体与工具集成的新路径。\nMCP 本质上是一项新兴的标准，它通过暴露结构化的工具，让大语言模型（LLM）在执行期间能够调用这些工具并与外部工具和 API 交互。传统做法中，暴露给智能体的每个 API 端点都对应一个独立的工具定义。该模型虽然简单直接，但每次工具规范占用模型有限输入预算中的 Token 时，都会带来显著的上下文窗口成本，从而压缩模型用于推理用户任务的空间。\nCloudflare 解决方案工程师\nLuuk Hofman\n表示：\n所以，我们尝试了一种新的方式：把 MCP 工具转换成 TypeScript API，然后直接让 LLM 基于它编写代码。\nCloudflare 的\nCode Mode\n只暴露了两个工具：\nsearch()\n和\nexecute()\n。其底层是具备类型感知能力的 SDK，允许模型在安全的 V8 isolate 中生成并执行 JavaScript 代码。这样可将智能体的计划编译成一个小型代码片段，在 OpenAPI 规范上编排多个操作，避免把所有端点定义都加载到上下文中。\n传统 MCP 与 Cloudflare Code Mode 对比(来源：\nCloudflare博客\n)\n实际效果非常明显。Cloudflare 表示，Code Mode 将访问 2500 多个 API 端点的 Token 占用从超过 117 万 Token 降至约 1000Token，降幅约 99.9%。这种固定占用与 API 规模无关，使智能体能够在大型、功能丰富的平台上工作，而不会耗尽模型上下文。\nCloudflare 在 Reddit 的一篇\n帖子\n中强调：\n团队采用了专门的编码策略，在不损失功能精度的前提下，将庞大的 API schema 压缩到极小的上下文窗口中。\n智能体首先使用 search()按产品域、路径或元数据查询 OpenAPI 规范，规范本身不会进入模型上下文。随后，execute()在一次循环中运行处理分页、条件逻辑和链式 API 调用的代码，减少往返开销。\nCloudflare 还强调了执行阶段的安全性与沙箱模型。服务器在 Dynamic Worker isolate 中运行用户生成代码，不提供文件系统、不暴露环境变量，并通过显式处理器控制出站请求。该设计在保持智能体自主性的同时，降低了执行不受信任代码相关的风险。\n这个面向 Cloudflare 全量 API 的新 MCP 服务器目前已覆盖 DNS、Zero Trust、Workers 和 R2 服务，并且可以立即集成。Cloudflare 还在其更广泛的 Agents SDK 中开源了 Code Mode SDK，以便第三方 MCP 实现采用类似的模式。\n分析师和实践者认为，Code Mode 是推动智能体工作流从简单的单服务交互迈向更广泛的多 API 自动化扩展的关键一步。随着行业持续应对生产级 AI 智能体中的上下文成本和编排复杂度，这一模式可能在未来一年影响 MCP 标准服务器设计与智能体框架。\n原文链接：\nCloudflare Launches Code Mode MCP Server to Optimize Token Usage for AI Agents",
-    "content_source": "readability",
-    "content_chars": 1483,
-    "content_excerpt": "Cloudflare 通过发布\n由Code Mode驱动的全新模型上下文（Model Context Protocol，MCP）服务器，显著降低了与其完整API平台交互的成本\n，这代表了 AI 智能体访问复杂 API 方式的一次重要演进。这一新方法也展示了 MCP 生态中智能体与工具集成的新路径。\nMCP 本质上是一项新兴的标准，它通过暴露结构化的工具，让大语言模型（LLM）在执行期间能够调用这些工具并与外部工具和 API 交互。传统做法中，暴露给智能体的每个 API 端点都对应一个独立的工具定义。该模型虽然简单直接，但每次工具规范占用模型有限输入预算中的 Token 时，都会带来显著的上下文窗口成本，从而压缩模型用于推理用户任务的空间。\nCloudflare 解决方案工程师\nLuuk Hofman\n表示：\n所以，我们尝试了一种新的方式：把 MCP 工具转换成 TypeScript API，然后直接让 LLM 基于它编写代码。\nCloudflare 的\nCode Mode"
+    "published": "2026-05-03T16:18:23",
+    "summary": "脱离需求的提问是空洞的。 我需要： - 目录结构清晰 + 权限控制 + 分页面享 - 内容格式支持性好 - 国内方便同步 - 有 AI 相关功能 - 不臃肿 - 能剪切网页 写完才意识到，我似乎需要的是独立的飞书文档",
+    "collected_at": "2026-05-04T02:06:44.113594"
   },
   {
     "id": "452d5889b4ba",
@@ -120,31 +208,6 @@
     "title_zh": "在哈佛大学的研究中，人工智能提供的诊断比急诊室医生更准确",
     "summary_zh": "一项新的研究考察了大型语言模型在各种医疗环境中的表现，包括真实的急诊室病例，其中至少有一个模型似乎比人类医生更准确",
     "ai_summary": "一项新的研究考察了大型语言模型在各种医疗环境中的表现，包括真实的急诊室病例，其中至少有一个模型似乎比人类医生更准确"
-  },
-  {
-    "id": "8427fe1a4763",
-    "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
-    "url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-04T08:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-04T02:06:43.560642",
-    "content_text": "Netflix 已从传统的视频点播平台迈向直播平台，通过将自动化技术系统与结构化的人类运营层相结合来实现这一转型，相关内容在其最新发布的 Netflix Technology Blog\n文章\n中进行了说明。\n在多年打磨异步分发能力之后，像\n迈克·泰森与杰克·保罗\n拳击比赛这样的高关注度直播事件（全球约有 1.08 亿观众同时观看）对实时基础设施的管理提出了新的要求。这促使团队构建了所谓的“人类基础设施”（human infrastructure），即一个专门的运营层，用于应对直播过程中固有的不确定性。\n这一转变也反映了整个行业面临的共同挑战。Amazon Web Services 提供了\nElemental MediaLive\n服务，帮助广播机构在大规模场景下处理类似的同步与编码任务。\n其他主要平台也遇到了类似难题；Disney+ Hotstar 此前曾分享其在全球板球赛事期间如何应对\n创纪录并发量\n的经验。与这些同行类似，Netflix 现在需要在高峰时段平衡自动化扩展与人工干预，因为标准算法在面对一些特殊故障时可能缺乏足够的上下文来做出响应。\n该策略的关键之一是“遥测热路径”（telemetry hot path）。大多数可观测性管道在设计时优先考虑成本效率和数据完整性，而非极致速度，这对于点播场景来说是可行的，因为分析延迟不会造成明显影响。但在直播场景中，Netflix 将最关键的指标隔离到一个低延迟的数据流中，使运营团队能够在毫秒级别发现并修复传输问题，避免局部故障演变为更大范围的中断。该专用管道优先处理诸如启动失败率和缓冲率等关键指标，而将不那么紧急的后台日志放在次要位置。\n除了软件层面，Netflix 还建立了一个 Live Operations Centre（直播运营中心）作为事件响应枢纽。工程团队指出，这一层提供了一个指挥体系，当出现不可预见的边缘情况时，可以绕过自动化协议进行干预。为该中心构建的定制工具使工程师能够即时引导流量，并在不同区域之间重新平衡容量。这种架构与\nYouTube Live 的基础设施\n在理念上相似，后者同样依赖实时监控以及在大规模全球直播期间进行人工干预的能力。\n从实体媒体到全球实时流媒体的这一架构演进，最近也在 QCon London 上由\nKasia Trapszo\n进行了分享，她讨论了\nNetflix 商业架构的演变\n。该演讲指出，直播事件推动系统从纯实时授权模式转向混合模型，引入“验证窗口”（validation windows）和优雅降级机制，以在流量激增时保障用户访问。\n通过将人类经验正式纳入技术体系，Netflix 旨在在充满不确定性的体育直播场景中依然保持服务的可靠性。这一演进表明，在全球规模下，技术只有与同步的人类判断层相结合，才能发挥最佳效果。\n原文链接：\nhttps://www.infoq.com/news/2026/04/netflix-live-human-ops-scale/",
-    "content_source": "readability",
-    "content_chars": 1243,
-    "content_excerpt": "Netflix 已从传统的视频点播平台迈向直播平台，通过将自动化技术系统与结构化的人类运营层相结合来实现这一转型，相关内容在其最新发布的 Netflix Technology Blog\n文章\n中进行了说明。\n在多年打磨异步分发能力之后，像\n迈克·泰森与杰克·保罗\n拳击比赛这样的高关注度直播事件（全球约有 1.08 亿观众同时观看）对实时基础设施的管理提出了新的要求。这促使团队构建了所谓的“人类基础设施”（human infrastructure），即一个专门的运营层，用于应对直播过程中固有的不确定性。\n这一转变也反映了整个行业面临的共同挑战。Amazon Web Services 提供了\nElemental MediaLive\n服务，帮助广播机构在大规模场景下处理类似的同步与编码任务。\n其他主要平台也遇到了类似难题；Disney+ Hotstar 此前曾分享其在全球板球赛事期间如何应对"
-  },
-  {
-    "id": "v2ex-1210148",
-    "title": "虽然是老生常谈，但还是求教 2026 年笔记软件如何选择",
-    "url": "https://www.v2ex.com/t/1210148",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-03T16:18:23",
-    "summary": "脱离需求的提问是空洞的。 我需要： - 目录结构清晰 + 权限控制 + 分页面享 - 内容格式支持性好 - 国内方便同步 - 有 AI 相关功能 - 不臃肿 - 能剪切网页 写完才意识到，我似乎需要的是独立的飞书文档",
-    "collected_at": "2026-05-04T02:06:44.113594"
   },
   {
     "id": "c30db8efc9e4",
@@ -4493,22 +4556,15 @@
     "ai_summary": "r/LocalLLaMA 的二元性"
   },
   {
-    "id": "6d044935cb58",
-    "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-    "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-    "source": "The Verge AI",
+    "id": "hn-47679121",
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "url": "https://www.anthropic.com/glasswing",
+    "source": "Hacker News",
     "lang": "en",
-    "priority": 1,
-    "published": "2026-04-28T03:39:33",
-    "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto",
-    "collected_at": "2026-04-28T10:16:37.872969",
-    "content_text": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it’s not a good one.\nJury selection in Musk v. Altman: ‘People don’t like him’\nElon Musk’s public persona is an issue.\nElon Musk’s public persona is an issue.\nThe Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires:\n“Elon Musk is a greedy, racist, homophobic piece of garbage.”\n“Elon Musk is a world-class jerk.”\n“I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Musk has enacted and been a part of.”\nMusk’s lawyers took issue with some of the people who said they already don’t like Musk and tried to get them struck from the pool of possible jurors for cause. However, Judge Yvonne Gonzalez Rogers said, “The reality is that people don’t like him… Many people don’t like him, but that doesn’t mean that Americans nevertheless can’t have integrity for the judicial process.” While the responses above may not reflect the opinions of the nine people selected for the jury, the chosen group includes some who said they may not like Musk or have negative opinions about AI technology, but wouldn’t let that interfere with how they see the facts of the case.",
-    "content_source": "trafilatura",
-    "content_chars": 1428,
-    "content_excerpt": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it’s not a good one.\nJury selection in Musk v. Altman: ‘People don’t like him’\nElon Musk’s public persona is an issue.\nElon Musk’s public persona is an issue.\nThe Verge reporter Elizabeth Lopatto, who was there at the courthouse, quoted statements from some of the juror questionnaires:\n“Elon Musk is a greedy, racist, homophobic piece of garbage.”\n“Elon Musk is a world-class jerk.”\n“I very much dislike Tesla. As a woman of color, I am very aware of the damaging statements and actions Elon Musk has enacted and been a part of.”\nMusk’s lawyers took issue with some of the people who said they already don’t like Musk and tried to get them struck from the pool of possible jurors for cause. However, Judge Yvonne Gonzalez Rogers said, “The reality is that people don’t like him… Many people don’t like him, but that doesn’t mean that Americans nevertheless can’t have integrity for the judicial process.” While the responses above may not reflect the opinions of the nine people selected for the jury, the chosen group includes some who said they may not like Musk or have negative opinions about AI technology, but wouldn’t let that interfere with how they see the facts of the case.",
-    "title_zh": "马斯克诉奥特曼案陪审团选择：“人们不喜欢他”",
-    "summary_zh": "周一，埃隆·马斯克 (Elon Musk) 和萨姆·奥尔特曼 (Sam Altman) 因涉嫌违反 OpenAI 承诺而展开的法庭之争，像往常一样从陪审团遴选开始。唯一棘手的部分？许多潜在的陪审员已经对埃隆·马斯克有了自己的看法，但这种看法…",
-    "ai_summary": "周一，埃隆·马斯克 (Elon Musk) 和萨姆·奥尔特曼 (Sam Altman) 因涉嫌违反 OpenAI 承诺而…"
+    "published": "2026-04-07T18:09:34Z",
+    "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
+    "points": 1541,
+    "collected_at": "2026-05-04T13:27:59.522460"
   },
   {
     "id": "reddit-1sxqa2c",
@@ -4525,41 +4581,6 @@
     "ai_summary": "我认为在过去的几周里给了它一个公平的机会，强迫自己使用本地模型来满足非工作技术要求。我在工作中使用 Claude Cod…"
   },
   {
-    "id": "v2ex-1209047",
-    "title": "钉钉被封了，怎么解?",
-    "url": "https://www.v2ex.com/t/1209047",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-04-28T03:24:51",
-    "summary": "经过大概就是把 copilot 退了，通过 google play 开了 chatgpt plus ，不是 gpt 最新的生图很牛么，这几天刷到不少恶搞名人的，就手贱生成了太阳和喜欢亲自部署在一起打牌的图片。看到照片还挺逼真的就在 3 个人的同事小群分享了一下原图，过了一个多小时，账号突然就被强制退出了，在手机上重新登录发现号没了... 原图如下： ![Imgur]( https://i.imgur.com/1GgXSyD.png) 封号半年，申诉要提供身份证，在职证明，运行商手机号实名信息。而且所有该账号登录过的设备全被封杀，注册一个新号直接立马封号。囧，不知道咋搞了。虽然钉钉挺垃圾的，但工",
-    "collected_at": "2026-04-29T02:15:52.642798"
-  },
-  {
-    "id": "hn-47679121",
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "url": "https://www.anthropic.com/glasswing",
-    "source": "Hacker News",
-    "lang": "en",
-    "published": "2026-04-07T18:09:34Z",
-    "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
-    "points": 1541,
-    "collected_at": "2026-05-04T08:22:27.830446"
-  },
-  {
-    "id": "v2ex-1209036",
-    "title": "现在网上都在说 Agent 自动开发，我还是在对话模式，是不是落后了？",
-    "url": "https://www.v2ex.com/t/1209036",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-04-28T03:13:54",
-    "summary": "最近这段时间看了很多关于 AI 开发的文章、博客、视频， 尤其是各种 Agent 工作流 的分享。 比如： AI 自己拆任务 AI 自己写代码 AI 自动做 code review AI 自动提交 PR AI 管理整个项目流程 甚至有些文章给人的感觉是： 人只需要把需求说清楚，剩下的事情 AI 自己就能完成。 说实话，看多了之后，我开始有点焦虑了。 先说一下我的背景： 我是一个前端开发工程师， 使用 AI 辅助开发大概有 一年半左右 了。 平时主要工具是： Claude GPT Cursor Windsurf 基本每天都在用，也算是比较重度用户。 但我目前真实的工作方式，其实还是： 人主导开发",
-    "collected_at": "2026-04-28T10:16:43.726856",
-    "content_text": "最近这段时间看了很多关于 AI 开发的文章、博客、视频，\n尤其是各种 Agent 工作流 的分享。\n比如：\nAI 自己拆任务\nAI 自己写代码\nAI 自动做 code review\nAI 自动提交 PR\nAI 管理整个项目流程\n甚至有些文章给人的感觉是：\n人只需要把需求说清楚，剩下的事情 AI 自己就能完成。\n说实话，看多了之后，我开始有点焦虑了。\n先说一下我的背景：\n我是一个前端开发工程师，\n使用 AI 辅助开发大概有 一年半左右 了。\n平时主要工具是：\nClaude\nGPT\nCursor\nWindsurf\n基本每天都在用，也算是比较重度用户。\n但我目前真实的工作方式，其实还是：\n人主导开发 + AI 辅助\n主要是对话模式\n比如：\n写代码的时候遇到问题就问 AI\n让 AI 帮我优化一段逻辑\n让 AI 帮我 review 一段代码\n或者生成一些基础结构\n整体感觉：\nAI 很强，但更像一个：\n非常聪明的助手，而不是一个真正能接管项目的“开发者”。\n我现在的困惑主要有几个：\n1 ）现在真的有人在用 Agent 自己写代码吗？\n不是 demo ，\n而是：\n在真实项目里长期使用\n比如：\n前端项目\n后端服务\n中大型系统\n而不是一个简单的脚手架项目。\n2 ）现在的开发流程，真的变成这样了吗？\n比如：\n人只负责写需求\nAgent 自动拆任务\nAgent 自动写代码\nAgent 自动测试\nAgent 自动提交\n人只负责最后确认\n如果真有人这样用，我非常想了解：\n这个工作流到底是怎么搭建的？\n3 ）前端和后端的差别是不是很大？\n我有一种感觉是：\n很多文章里的 Agent 工作流，\n可能更偏：\n后端\nAI 工程\nPython / Node 服务\n工具链开发\n而前端这边：\nUI\n交互\n状态管理\n兼容性\n复杂业务逻辑\n可能还比较难做到完全自动化。\n但这只是我的猜测，不确定是不是事实。\n4 ）大家现在真实的 AI 工作流到底是什么样的？\n比如：\n你们现在更接近哪种模式：\nA ）\n人写代码 + AI 辅助\nB ）\n人设计结构 + AI 写大部分代码\nC ）\nAgent 负责模块开发，人负责 review\nD ）\nAgent 基本可以接管项目\n我不是质疑 AI 的能力。\n只是看了太多“AI 自动开发”的文章之后，\n开始有点不确定：\n现在行业真实的状态，到底是什么样的？\n是：\n大家已经进入 Agent 自动开发阶段了，\n还是说大多数人其实还是：\n对话模式 + 人主导开发\n只是没有人专门写这种“普通但真实”的文章。\n如果有在实际项目里长期使用 Agent 的同学，\n非常希望能分享一下：\n你们用的工具\n工作流大概是什么样\n哪些事情真的能自动化\n哪些事情还是必须人工做\n小弟真心求教。",
-    "content_source": "trafilatura",
-    "content_chars": 1143,
-    "content_excerpt": "最近这段时间看了很多关于 AI 开发的文章、博客、视频，\n尤其是各种 Agent 工作流 的分享。\n比如：\nAI 自己拆任务\nAI 自己写代码\nAI 自动做 code review\nAI 自动提交 PR\nAI 管理整个项目流程\n甚至有些文章给人的感觉是：\n人只需要把需求说清楚，剩下的事情 AI 自己就能完成。"
-  },
-  {
     "id": "hn-47363754",
     "title": "Can I run AI locally?",
     "url": "https://www.canirun.ai/",
@@ -4568,7 +4589,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-04T08:22:27.830548"
+    "collected_at": "2026-05-04T13:27:59.522564"
   },
   {
     "id": "hn-47340079",
@@ -4579,7 +4600,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-04T08:22:27.830206"
+    "collected_at": "2026-05-04T13:27:59.522178"
   },
   {
     "id": "hn-47225130",
@@ -4590,7 +4611,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-04T08:22:27.830593"
+    "collected_at": "2026-05-04T13:27:59.522610"
   },
   {
     "id": "hn-47136179",
@@ -4601,7 +4622,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-04T08:22:27.830312"
+    "collected_at": "2026-05-04T13:27:59.522286"
   },
   {
     "id": "hn-46990729",
@@ -4612,7 +4633,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-04T08:22:27.830278"
+    "collected_at": "2026-05-04T13:27:59.522252"
   },
   {
     "id": "hn-46574276",
@@ -4623,7 +4644,7 @@
     "published": "2026-01-11T10:26:18Z",
     "summary": "Don't fall into the anti-AI hype",
     "points": 1296,
-    "collected_at": "2026-05-04T08:22:27.830712"
+    "collected_at": "2026-05-04T13:27:59.522725"
   },
   {
     "id": "hn-45941596",
@@ -4634,7 +4655,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-04T08:22:27.830606"
+    "collected_at": "2026-05-04T13:27:59.522623"
   },
   {
     "id": "hn-45930151",
@@ -4645,7 +4666,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-04T08:22:27.830649"
+    "collected_at": "2026-05-04T13:27:59.522665"
   },
   {
     "id": "hn-45722069",
@@ -4656,7 +4677,7 @@
     "published": "2025-10-27T15:27:38Z",
     "summary": "It's insulting to read AI-generated blog posts",
     "points": 1300,
-    "collected_at": "2026-05-04T08:22:27.830700"
+    "collected_at": "2026-05-04T13:27:59.522713"
   },
   {
     "id": "hn-44972151",
@@ -4667,7 +4688,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-04T08:22:27.830387"
+    "collected_at": "2026-05-04T13:27:59.522394"
   },
   {
     "id": "hn-44396518",
@@ -4678,7 +4699,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-04T08:22:27.830515"
+    "collected_at": "2026-05-04T13:27:59.522530"
   },
   {
     "id": "hn-44314423",
@@ -4689,7 +4710,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-04T08:22:27.830562"
+    "collected_at": "2026-05-04T13:27:59.522578"
   },
   {
     "id": "hn-44163063",
@@ -4700,7 +4721,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-04T08:22:27.830253"
+    "collected_at": "2026-05-04T13:27:59.522227"
   },
   {
     "id": "hn-42910910",
@@ -4711,7 +4732,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-04T08:22:27.830400"
+    "collected_at": "2026-05-04T13:27:59.522410"
   },
   {
     "id": "hn-41392128",
@@ -4722,7 +4743,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-04T08:22:27.830329"
+    "collected_at": "2026-05-04T13:27:59.522302"
   },
   {
     "id": "hn-41386319",
@@ -4733,7 +4754,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-04T08:22:27.830343"
+    "collected_at": "2026-05-04T13:27:59.522317"
   },
   {
     "id": "hn-41069829",
@@ -4744,7 +4765,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-04T08:22:27.830663"
+    "collected_at": "2026-05-04T13:27:59.522678"
   },
   {
     "id": "hn-41046773",
@@ -4755,7 +4776,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-04T08:22:27.830239"
+    "collected_at": "2026-05-04T13:27:59.522213"
   },
   {
     "id": "hn-40767459",
@@ -4766,7 +4787,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-04T08:22:27.830678"
+    "collected_at": "2026-05-04T13:27:59.522692"
   },
   {
     "id": "hn-39918245",
@@ -4777,7 +4798,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-04T08:22:27.830620"
+    "collected_at": "2026-05-04T13:27:59.522637"
   },
   {
     "id": "hn-39526057",
@@ -4788,7 +4809,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-04T08:22:27.830225"
+    "collected_at": "2026-05-04T13:27:59.522198"
   },
   {
     "id": "hn-38544729",
@@ -4799,7 +4820,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-04T08:22:27.830291"
+    "collected_at": "2026-05-04T13:27:59.522265"
   },
   {
     "id": "hn-37021160",
@@ -4810,7 +4831,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-04T08:22:27.830415"
+    "collected_at": "2026-05-04T13:27:59.522426"
   },
   {
     "id": "hn-31812259",
@@ -4821,7 +4842,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-04T08:22:27.830575"
+    "collected_at": "2026-05-04T13:27:59.522591"
   },
   {
     "id": "hn-18249755",
@@ -4832,7 +4853,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-04T08:22:27.830371"
+    "collected_at": "2026-05-04T13:27:59.522345"
   },
   {
     "id": "hn-17022963",
@@ -4843,7 +4864,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-04T08:22:27.830359"
+    "collected_at": "2026-05-04T13:27:59.522332"
   },
   {
     "id": "hn-15892066",
@@ -4854,7 +4875,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-04T08:22:27.830534"
+    "collected_at": "2026-05-04T13:27:59.522550"
   },
   {
     "id": "hn-6830566",
@@ -4865,6 +4886,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-04T08:22:27.830632"
+    "collected_at": "2026-05-04T13:27:59.522648"
   }
 ]
