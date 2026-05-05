@@ -2572,6 +2572,36 @@
     "is_core": true
   },
   {
+    "id": "hf-ibm-granite--granite-4.1-3b",
+    "name": "ibm-granite/granite-4.1-3b",
+    "display_name": "granite-4.1-3b",
+    "url": "https://huggingface.co/ibm-granite/granite-4.1-3b",
+    "author": "ibm-granite",
+    "pipeline_tag": "text-generation",
+    "likes": 54,
+    "downloads": 5318,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "granite",
+      "text-generation",
+      "language",
+      "granite-4.1",
+      "conversational",
+      "arxiv:0000.00000",
+      "license:apache-2.0",
+      "eval-results",
+      "endpoints_compatible",
+      "deploy:azure",
+      "region:us"
+    ],
+    "created_at": "2026-04-06T13:18:12.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-05T13:21:22.339370",
+    "display_priority": 67,
+    "is_core": true
+  },
+  {
     "id": "hf-TenStrip--LTX2.3-10Eros",
     "name": "TenStrip/LTX2.3-10Eros",
     "display_name": "LTX2.3-10Eros",
@@ -2586,7 +2616,7 @@
     "created_at": "2026-04-29T17:08:26.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-03T18:48:46.729450",
-    "display_priority": 67,
+    "display_priority": 68,
     "is_core": true
   },
   {
@@ -2613,7 +2643,7 @@
     "created_at": "2026-04-23T20:50:45.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T19:29:46.779813",
-    "display_priority": 68,
+    "display_priority": 69,
     "is_core": true
   },
   {
@@ -2646,7 +2676,7 @@
     "created_at": "2026-04-16T13:58:07.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-02T18:52:15.612275",
-    "display_priority": 69,
+    "display_priority": 70,
     "is_core": true
   },
   {
@@ -2687,7 +2717,7 @@
     "created_at": "2026-04-16T13:54:19.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-01T02:19:40.311428",
-    "display_priority": 70,
+    "display_priority": 71,
     "is_core": true
   },
   {
@@ -2711,7 +2741,7 @@
     "created_at": "2026-04-28T03:27:56.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-29T02:15:56.691887",
-    "display_priority": 71,
+    "display_priority": 72,
     "is_core": true
   },
   {
@@ -2731,7 +2761,7 @@
     "created_at": "2026-04-20T10:39:30.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-29T13:34:26.115058",
-    "display_priority": 72,
+    "display_priority": 73,
     "is_core": true
   },
   {
@@ -2769,7 +2799,7 @@
     "created_at": "2026-04-13T18:07:47.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-20T14:22:25.792798",
-    "display_priority": 73,
+    "display_priority": 74,
     "is_core": true
   },
   {
@@ -2854,7 +2884,7 @@
     "created_at": "2026-04-20T15:15:55.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T13:31:26.989174",
-    "display_priority": 74,
+    "display_priority": 75,
     "is_core": true
   },
   {
@@ -2876,7 +2906,7 @@
     "created_at": "2026-04-20T10:43:41.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T10:16:49.982166",
-    "display_priority": 75,
+    "display_priority": 76,
     "is_core": true
   },
   {
@@ -2905,7 +2935,7 @@
     "created_at": "2026-04-23T06:30:09.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T10:16:49.982171",
-    "display_priority": 76,
+    "display_priority": 77,
     "is_core": true
   },
   {
@@ -2941,7 +2971,7 @@
     "created_at": "2026-04-25T17:32:08.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T02:13:43.817676",
-    "display_priority": 77,
+    "display_priority": 78,
     "is_core": true
   },
   {
@@ -2971,7 +3001,7 @@
     "created_at": "2026-04-22T04:43:54.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-29T02:15:56.691895",
-    "display_priority": 78,
+    "display_priority": 79,
     "is_core": true
   },
   {
@@ -2999,7 +3029,7 @@
     "created_at": "2026-04-16T00:53:48.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T19:29:46.779831",
-    "display_priority": 79,
+    "display_priority": 80,
     "is_core": true
   },
   {
@@ -3037,7 +3067,7 @@
     "created_at": "2026-04-16T13:55:49.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-03T07:52:24.422760",
-    "display_priority": 80,
+    "display_priority": 81,
     "is_core": true
   },
   {
@@ -3067,7 +3097,7 @@
     "created_at": "2026-04-22T13:32:34.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-04T13:28:05.516664",
-    "display_priority": 81,
+    "display_priority": 82,
     "is_core": true
   },
   {
@@ -3095,7 +3125,48 @@
     "created_at": "2026-04-16T18:27:58.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-22T13:10:24.813723",
-    "display_priority": 82,
+    "display_priority": 83,
+    "is_core": true
+  },
+  {
+    "id": "hf-ibm-granite--granite-speech-4.1-2b-nar",
+    "name": "ibm-granite/granite-speech-4.1-2b-nar",
+    "display_name": "granite-speech-4.1-2b-nar",
+    "url": "https://huggingface.co/ibm-granite/granite-speech-4.1-2b-nar",
+    "author": "ibm-granite",
+    "pipeline_tag": "feature-extraction",
+    "likes": 36,
+    "downloads": 1069,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "nle",
+      "feature-extraction",
+      "speech",
+      "asr",
+      "non-autoregressive",
+      "ctc",
+      "custom_code",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt",
+      "arxiv:2603.08397",
+      "arxiv:2505.08699",
+      "arxiv:2603.11243",
+      "arxiv:2604.12398",
+      "arxiv:2604.22817",
+      "arxiv:2604.11269",
+      "base_model:ibm-granite/granite-4.0-1b-base",
+      "base_model:finetune:ibm-granite/granite-4.0-1b-base",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-03-10T12:21:20.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-05T13:21:22.339381",
+    "display_priority": 84,
     "is_core": true
   },
   {
@@ -3124,7 +3195,7 @@
     "created_at": "2026-04-06T13:18:47.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-22T19:04:20.503536",
-    "display_priority": 83,
+    "display_priority": 85,
     "is_core": true
   },
   {
@@ -3177,7 +3248,7 @@
     "created_at": "2026-04-24T04:06:40.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-28T10:16:50.266016",
-    "display_priority": 84,
+    "display_priority": 86,
     "is_core": true
   },
   {
@@ -3205,7 +3276,7 @@
     "created_at": "2026-04-16T18:27:58.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-21T13:07:47.953511",
-    "display_priority": 85,
+    "display_priority": 87,
     "is_core": true
   },
   {
@@ -3233,37 +3304,7 @@
     "created_at": "2026-04-06T13:19:18.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-29T19:15:03.130676",
-    "display_priority": 86,
-    "is_core": true
-  },
-  {
-    "id": "hf-lewtun--talkie-1930-13b-it-hf",
-    "name": "lewtun/talkie-1930-13b-it-hf",
-    "display_name": "talkie-1930-13b-it-hf",
-    "url": "https://huggingface.co/lewtun/talkie-1930-13b-it-hf",
-    "author": "lewtun",
-    "pipeline_tag": "text-generation",
-    "likes": 23,
-    "downloads": 5422,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "talkie",
-      "text-generation",
-      "vintage",
-      "historical",
-      "conversational",
-      "custom_code",
-      "en",
-      "base_model:talkie-lm/talkie-1930-13b-it",
-      "base_model:finetune:talkie-lm/talkie-1930-13b-it",
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-28T15:08:00.000Z",
-    "source": "hf-text-gen",
-    "collected_at": "2026-05-05T07:59:44.526418",
-    "display_priority": 87,
+    "display_priority": 88,
     "is_core": true
   },
   {
@@ -3298,7 +3339,7 @@
     "created_at": "2026-05-02T18:30:02.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-02T18:52:15.666108",
-    "display_priority": 88,
+    "display_priority": 89,
     "is_core": true
   },
   {
@@ -3319,7 +3360,7 @@
     "created_at": "2026-04-23T07:18:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-23T07:27:21.081878",
-    "display_priority": 89,
+    "display_priority": 90,
     "is_core": true
   },
   {
@@ -3346,7 +3387,7 @@
     "created_at": "2026-05-01T12:57:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T13:13:50.687297",
-    "display_priority": 90,
+    "display_priority": 91,
     "is_core": true
   },
   {
@@ -3371,7 +3412,7 @@
     "created_at": "2026-04-29T19:02:58.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T19:15:02.966320",
-    "display_priority": 91,
+    "display_priority": 92,
     "is_core": true
   },
   {
@@ -3492,7 +3533,7 @@
     "created_at": "2026-04-23T07:12:51.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-23T07:27:21.081938",
-    "display_priority": 92,
+    "display_priority": 93,
     "is_core": true
   },
   {
@@ -3526,7 +3567,7 @@
     "created_at": "2026-04-24T08:14:31.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-24T08:20:51.403160",
-    "display_priority": 93,
+    "display_priority": 94,
     "is_core": true
   },
   {
@@ -3553,7 +3594,7 @@
     "created_at": "2026-04-29T02:10:27.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T02:15:56.733383",
-    "display_priority": 94,
+    "display_priority": 95,
     "is_core": true
   },
   {
@@ -3577,7 +3618,7 @@
     "created_at": "2026-05-02T10:11:42.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-02T10:22:45.281296",
-    "display_priority": 95,
+    "display_priority": 96,
     "is_core": true
   },
   {
@@ -3597,7 +3638,7 @@
     "created_at": "2026-05-04T01:58:23.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-04T02:06:47.724868",
-    "display_priority": 96,
+    "display_priority": 97,
     "is_core": true
   },
   {
@@ -3627,7 +3668,7 @@
     "created_at": "2026-04-21T18:53:18.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-21T19:03:19.043986",
-    "display_priority": 97,
+    "display_priority": 98,
     "is_core": true
   },
   {
@@ -3656,7 +3697,7 @@
     "created_at": "2026-04-22T01:43:08.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-22T01:53:36.008535",
-    "display_priority": 98,
+    "display_priority": 99,
     "is_core": true
   },
   {
@@ -3685,7 +3726,7 @@
     "created_at": "2026-04-22T01:35:53.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-22T01:53:36.008578",
-    "display_priority": 99,
+    "display_priority": 100,
     "is_core": true
   },
   {
@@ -3714,7 +3755,7 @@
     "created_at": "2026-04-22T01:30:17.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-22T01:53:36.008591",
-    "display_priority": 100,
+    "display_priority": 101,
     "is_core": true
   },
   {
@@ -3742,7 +3783,7 @@
     "created_at": "2026-04-24T01:41:54.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-24T01:57:38.435026",
-    "display_priority": 101,
+    "display_priority": 102,
     "is_core": true
   },
   {
@@ -3770,7 +3811,7 @@
     "created_at": "2026-04-29T01:52:38.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T02:15:56.733453",
-    "display_priority": 102,
+    "display_priority": 103,
     "is_core": true
   },
   {
@@ -3798,7 +3839,7 @@
     "created_at": "2026-05-02T10:13:43.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-02T10:22:45.281277",
-    "display_priority": 103,
+    "display_priority": 104,
     "is_core": true
   },
   {
@@ -3829,7 +3870,7 @@
     "created_at": "2026-05-02T10:08:42.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-02T10:22:45.281310",
-    "display_priority": 104,
+    "display_priority": 105,
     "is_core": true
   },
   {
@@ -3858,7 +3899,7 @@
     "created_at": "2026-05-02T10:16:14.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-02T10:38:40.056986",
-    "display_priority": 105,
+    "display_priority": 106,
     "is_core": true
   },
   {
@@ -3894,7 +3935,7 @@
     "created_at": "2026-05-03T12:38:49.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-03T12:54:04.293715",
-    "display_priority": 106,
+    "display_priority": 107,
     "is_core": true
   },
   {
@@ -3930,7 +3971,7 @@
     "created_at": "2026-05-04T08:14:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-04T08:22:33.165196",
-    "display_priority": 107,
+    "display_priority": 108,
     "is_core": true
   },
   {
@@ -3966,7 +4007,7 @@
     "created_at": "2026-05-05T07:57:19.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-05T07:59:44.389119",
-    "display_priority": 108,
+    "display_priority": 109,
     "is_core": true
   },
   {
@@ -4012,7 +4053,7 @@
     "created_at": "2026-05-05T07:58:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-05T07:59:44.389103",
-    "display_priority": 109,
+    "display_priority": 110,
     "is_core": true
   },
   {
@@ -4037,7 +4078,7 @@
     "created_at": "2026-04-24T07:44:03.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-24T07:53:16.561783",
-    "display_priority": 110,
+    "display_priority": 111,
     "is_core": true
   },
   {
@@ -4062,7 +4103,7 @@
     "created_at": "2026-05-03T07:42:06.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-03T07:52:24.534270",
-    "display_priority": 111,
+    "display_priority": 112,
     "is_core": true
   },
   {
@@ -4089,7 +4130,7 @@
     "created_at": "2026-04-24T01:54:37.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-24T01:57:38.434958",
-    "display_priority": 112,
+    "display_priority": 113,
     "is_core": true
   },
   {
@@ -4116,7 +4157,7 @@
     "created_at": "2026-04-22T18:54:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-22T19:04:20.352623",
-    "display_priority": 113,
+    "display_priority": 114,
     "is_core": true
   },
   {
@@ -4143,7 +4184,7 @@
     "created_at": "2026-04-22T18:53:21.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-22T19:04:20.352638",
-    "display_priority": 114,
+    "display_priority": 115,
     "is_core": true
   },
   {
@@ -4174,7 +4215,7 @@
     "created_at": "2026-05-03T18:33:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-03T18:48:46.772284",
-    "display_priority": 115,
+    "display_priority": 116,
     "is_core": true
   },
   {
@@ -4198,7 +4239,7 @@
     "created_at": "2026-05-04T13:18:43.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-04T13:28:05.628185",
-    "display_priority": 116,
+    "display_priority": 117,
     "is_core": true
   },
   {
@@ -4222,7 +4263,7 @@
     "created_at": "2026-04-21T18:56:40.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-21T19:03:19.043938",
-    "display_priority": 117,
+    "display_priority": 118,
     "is_core": true
   },
   {
@@ -4246,7 +4287,7 @@
     "created_at": "2026-04-22T01:32:41.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-22T01:53:36.008583",
-    "display_priority": 118,
+    "display_priority": 119,
     "is_core": true
   },
   {
@@ -4270,7 +4311,7 @@
     "created_at": "2026-04-22T12:57:53.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-22T13:10:24.708361",
-    "display_priority": 119,
+    "display_priority": 120,
     "is_core": true
   },
   {
@@ -4294,7 +4335,7 @@
     "created_at": "2026-04-23T07:12:56.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-23T07:27:21.081935",
-    "display_priority": 120,
+    "display_priority": 121,
     "is_core": true
   },
   {
@@ -4318,7 +4359,7 @@
     "created_at": "2026-04-23T13:08:43.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-23T13:09:15.000097",
-    "display_priority": 121,
+    "display_priority": 122,
     "is_core": true
   },
   {
@@ -4342,30 +4383,6 @@
     "created_at": "2026-04-24T08:13:04.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-24T08:20:51.403165",
-    "display_priority": 122,
-    "is_core": true
-  },
-  {
-    "id": "hf-mazextest2026--MyAwesomeModel-TestRepo",
-    "name": "mazextest2026/MyAwesomeModel-TestRepo",
-    "display_name": "MyAwesomeModel-TestRepo",
-    "url": "https://huggingface.co/mazextest2026/MyAwesomeModel-TestRepo",
-    "author": "mazextest2026",
-    "pipeline_tag": "feature-extraction",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "pytorch",
-      "bert",
-      "feature-extraction",
-      "license:mit",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-24T08:09:24.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-24T08:20:51.403182",
     "display_priority": 123,
     "is_core": true
   },

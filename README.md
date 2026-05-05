@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-05 16:01:13
+🕐 **最近更新**：2026-05-05 21:22:53
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,31 +16,27 @@
 
 ## 🔥 今日热点
 
-1. [当工人们担心人工智能时，英伟达的黄仁勋表示人工智能正在“创造大量就业机会”](https://aihot.bt199.com/news/2d00a23fb9d0/)
+1. [随着人工智能模型的雄心壮志面临现实，印度首家 GenAI 独角兽转向云服务](https://aihot.bt199.com/news/f7524164da4b/)
+   - Krutrim 在裁员和有限的产品更新后转向云计算，反映出在印度构建人工智能模型所面临的经济挑战
+   - `TechCrunch AI · 2026-05-05`
+
+2. [当工人们担心人工智能时，英伟达的黄仁勋表示人工智能正在“创造大量就业机会”](https://aihot.bt199.com/news/2d00a23fb9d0/)
    - 这位英伟达首席执行官似乎认为，有关人工智能扼杀就业潜力的说法被过分夸大了
    - `TechCrunch AI · 2026-05-05`
 
-2. [OpenAI 的亲密合作伙伴 Cerebras 有望实现重磅 IPO](https://aihot.bt199.com/news/bc98b10e8d56/)
-   - AI 芯片制造商 Cerebras 即将进行重磅 IPO，估值可能达到 266 亿美元或更多。它与 OpenAI 的关系…
-   - `TechCrunch AI · 2026-05-04`
+3. [研究人员用煤气点燃克劳德，指示他制造炸药](https://aihot.bt199.com/news/cc0aade5ee2c/)
+   - Anthropic 花了数年时间将自己打造成安全的人工智能公司。但与 The Verge 分享的新安全研究表明，克劳德精…
+   - `The Verge AI · 2026-05-05`
 
-3. [OpenAI 总裁除了回答问题外，他做“所有事情”](https://aihot.bt199.com/news/f55dfe026daf/)
-   - 迄今为止，埃隆·马斯克针对 OpenAI 的诉讼最有力的证人是格雷格·布罗克曼 (Greg Brockman) 的日记…
-   - `The Verge AI · 2026-05-04`
+4. [谷歌的人工智能架构师在埃隆·马斯克的头脑中免租居住](https://aihot.bt199.com/news/fc0a81f9ae3c/)
+   - 马斯克诉奥特曼案审判大约一周后，我们听到了科技界一些最有权势的人士的声音，包括 OpenAI 总裁格雷格·布罗克曼 (G…
+   - `The Verge AI · 2026-05-05`
 
-4. [Roomba 的创造者带着毛茸茸的机器人伴侣回来了](https://aihot.bt199.com/news/d3576286998f/)
-   - Roomba 的制造商科林·安格 (Colin Angle) 曾帮助将 5000 万台家用机器人带入千家万户，如今他带着…
-   - `The Verge AI · 2026-05-04`
+5. [利用人工智能加强民主的蓝图](https://aihot.bt199.com/news/c9dd6bc7b13c/)
+   - 每隔几个世纪，信息流动方式的变化就会重塑社会的自我管理方式。印刷机传播了白话文，帮助促成了宗教改革，并最终促成了代议制政…
+   - `MIT Tech Review · 2026-05-05`
 
-5. [马斯克诉奥特曼审判的第一周：房间里的情况](https://aihot.bt199.com/news/dcf3412565ed/)
-   - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。人工智能领域最有…
-   - `MIT Tech Review · 2026-05-04`
-
-6. [为医疗保健需求量身定制人工智能解决方案](https://aihot.bt199.com/news/0ca39b129128/)
-   - 人工智能市场充满了巨大变革的前景。医疗保健是这些承诺的主要目标，因为它受到财政压力、劳动力短缺和日益沉重的人口老龄化负担…
-   - `MIT Tech Review · 2026-05-04`
-
-7. [GameStop 出价 560 亿美元收购 eBay，但难以解释将如何支付这笔费用](https://aihot.bt199.com/news/5836d0d07257/)
+6. [GameStop 出价 560 亿美元收购 eBay，但难以解释将如何支付这笔费用](https://aihot.bt199.com/news/5836d0d07257/)
    - 由于收入下降和商店关闭，GameStop 希望收购规模更大的 eBay
    - `Ars Technica AI · 2026-05-04`
 
@@ -127,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
