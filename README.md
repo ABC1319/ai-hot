@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-05 21:22:53
+🕐 **最近更新**：2026-05-06 03:11:20
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [随着人工智能模型的雄心壮志面临现实，印度首家 GenAI 独角兽转向云服务](https://aihot.bt199.com/news/f7524164da4b/)
-   - Krutrim 在裁员和有限的产品更新后转向云计算，反映出在印度构建人工智能模型所面临的经济挑战
+1. [宾夕法尼亚州因聊天机器人冒充医生而起诉 Character.AI](https://aihot.bt199.com/news/7e9641e74763/)
+   - 根据宾夕法尼亚州的文件，Character.AI 聊天机器人在州调查期间将自己伪装成有执照的精神科医生，并伪造了州医疗执…
    - `TechCrunch AI · 2026-05-05`
 
-2. [当工人们担心人工智能时，英伟达的黄仁勋表示人工智能正在“创造大量就业机会”](https://aihot.bt199.com/news/2d00a23fb9d0/)
-   - 这位英伟达首席执行官似乎认为，有关人工智能扼杀就业潜力的说法被过分夸大了
-   - `TechCrunch AI · 2026-05-05`
-
-3. [研究人员用煤气点燃克劳德，指示他制造炸药](https://aihot.bt199.com/news/cc0aade5ee2c/)
-   - Anthropic 花了数年时间将自己打造成安全的人工智能公司。但与 The Verge 分享的新安全研究表明，克劳德精…
+2. [OpenAI 声称 ChatGPT 的新默认模型产生的幻觉要少得多](https://aihot.bt199.com/news/c7793318ff27/)
+   - OpenAI 最新的 ChatGPT 默认模型可能不会那么多。幻觉一直是 AI 模型面临的一个问题，但 OpenAI 表…
    - `The Verge AI · 2026-05-05`
 
-4. [谷歌的人工智能架构师在埃隆·马斯克的头脑中免租居住](https://aihot.bt199.com/news/fc0a81f9ae3c/)
-   - 马斯克诉奥特曼案审判大约一周后，我们听到了科技界一些最有权势的人士的声音，包括 OpenAI 总裁格雷格·布罗克曼 (G…
+3. [图书出版商因人工智能“逐字”复制而起诉 Meta](https://aihot.bt199.com/news/114c4e61cd5a/)
+   - 据《纽约时报》早些时候报道，Meta 正面临五家主要图书出版商和一名作者提起的集体诉讼，指控该公司在训练 Llama A…
    - `The Verge AI · 2026-05-05`
 
-5. [利用人工智能加强民主的蓝图](https://aihot.bt199.com/news/c9dd6bc7b13c/)
+4. [利用人工智能加强民主的蓝图](https://aihot.bt199.com/news/c9dd6bc7b13c/)
    - 每隔几个世纪，信息流动方式的变化就会重塑社会的自我管理方式。印刷机传播了白话文，帮助促成了宗教改革，并最终促成了代议制政…
    - `MIT Tech Review · 2026-05-05`
 
-6. [GameStop 出价 560 亿美元收购 eBay，但难以解释将如何支付这笔费用](https://aihot.bt199.com/news/5836d0d07257/)
+5. [GameStop 出价 560 亿美元收购 eBay，但难以解释将如何支付这笔费用](https://aihot.bt199.com/news/5836d0d07257/)
    - 由于收入下降和商店关闭，GameStop 希望收购规模更大的 eBay
    - `Ars Technica AI · 2026-05-04`
+
+6. [为什么 Reddit 阻止我每天访问其移动网站](https://aihot.bt199.com/news/93c12d76db8c/)
+   - Reddit 真的希望你使用它的应用程序
+   - `Ars Technica AI · 2026-05-05`
 
 
 ## 🤖 AI 简报
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
