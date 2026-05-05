@@ -1,31 +1,8 @@
 {
-  "updated_at": "2026-05-04T19:19:59.631551+00:00",
-  "window_days": 30,
-  "candidate_count": 2,
+  "updated_at": "2026-05-05T02:07:15.324399+00:00",
+  "window_days": 14,
+  "candidate_count": 1,
   "items": [
-    {
-      "id": "github-1201656210",
-      "name": "mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "type": "project",
-      "stars": 48439,
-      "created_at": "2026-04-05T01:12:07Z",
-      "window_days": 30,
-      "score": 4290.697452803794,
-      "reason": "最近值得点开的开源 AI 项目"
-    },
-    {
-      "id": "openclaw",
-      "name": "OpenClaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "🦞 你的个人AI助手，跨平台、全功能。Any OS, Any Platform",
-      "type": "agent",
-      "stars": 362093,
-      "score": 362093,
-      "window_days": 30,
-      "reason": "你的个人AI助手，跨平台、全功能。Any OS, Any Platform"
-    },
     {
       "id": "github-1222376231",
       "name": "pumpfun-ai-trading-bot",
@@ -37,6 +14,17 @@
       "window_days": 14,
       "score": 297.5192302715701,
       "reason": "最近值得点开的开源 AI 项目"
+    },
+    {
+      "id": "openclaw",
+      "name": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "🦞 你的个人AI助手，跨平台、全功能。Any OS, Any Platform",
+      "type": "agent",
+      "stars": 362093,
+      "score": 362093,
+      "window_days": 14,
+      "reason": "你的个人AI助手，跨平台、全功能。Any OS, Any Platform"
     }
   ]
 }

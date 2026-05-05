@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-05 03:21:04
+🕐 **最近更新**：2026-05-05 10:07:53
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [图像人工智能模型现在推动应用程序增长，击败聊天机器人升级](https://aihot.bt199.com/news/a168596f1396/)
+1. [OpenAI 的亲密合作伙伴 Cerebras 有望实现重磅 IPO](https://aihot.bt199.com/news/bc98b10e8d56/)
+   - AI 芯片制造商 Cerebras 即将进行重磅 IPO，估值可能达到 266 亿美元或更多。它与 OpenAI 的关系…
+   - `TechCrunch AI · 2026-05-04`
+
+2. [图像人工智能模型现在推动应用程序增长，击败聊天机器人升级](https://aihot.bt199.com/news/a168596f1396/)
    - Appfigures 发现视觉模型的发布使下载量增加了 6.5 倍，但大多数人并没有将这一峰值转化为收入
    - `TechCrunch AI · 2026-05-04`
 
-2. [埃隆·马斯克 (Elon Musk) 在 OpenAI 审判中唯一的人工智能专家证人担心 AGI 军备竞赛](https://aihot.bt199.com/news/cde12b0c15be/)
-   - Stuart Russell 是一位长期的人工智能研究员，他认为政府需要限制前沿实验室
-   - `TechCrunch AI · 2026-05-04`
+3. [OpenAI 总裁除了回答问题外，他做“所有事情”](https://aihot.bt199.com/news/f55dfe026daf/)
+   - 迄今为止，埃隆·马斯克针对 OpenAI 的诉讼最有力的证人是格雷格·布罗克曼 (Greg Brockman) 的日记…
+   - `The Verge AI · 2026-05-04`
 
-3. [Roomba 的创造者带着毛茸茸的机器人伴侣回来了](https://aihot.bt199.com/news/d3576286998f/)
+4. [Roomba 的创造者带着毛茸茸的机器人伴侣回来了](https://aihot.bt199.com/news/d3576286998f/)
    - Roomba 的制造商科林·安格 (Colin Angle) 曾帮助将 5000 万台家用机器人带入千家万户，如今他带着…
    - `The Verge AI · 2026-05-04`
 
-4. [马斯克诉奥特曼审判的第一周：房间里的情况](https://aihot.bt199.com/news/dcf3412565ed/)
+5. [马斯克诉奥特曼审判的第一周：房间里的情况](https://aihot.bt199.com/news/dcf3412565ed/)
    - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。人工智能领域最有…
    - `MIT Tech Review · 2026-05-04`
 
-5. [为医疗保健需求量身定制人工智能解决方案](https://aihot.bt199.com/news/0ca39b129128/)
+6. [为医疗保健需求量身定制人工智能解决方案](https://aihot.bt199.com/news/0ca39b129128/)
    - 人工智能市场充满了巨大变革的前景。医疗保健是这些承诺的主要目标，因为它受到财政压力、劳动力短缺和日益沉重的人口老龄化负担…
    - `MIT Tech Review · 2026-05-04`
-
-6. [互联网上最受欢迎的松鼠爸爸如何打造 2026 年最热门的相机应用](https://aihot.bt199.com/news/2d552d61c9ed/)
-   - 称 DualShot Recorder 一夜爆红并不夸张。从发布仅12个小时就登上App Store付费应用排行榜第一名…
-   - `The Verge AI · 2026-05-03`
 
 7. [GameStop 出价 560 亿美元收购 eBay，但难以解释将如何支付这笔费用](https://aihot.bt199.com/news/5836d0d07257/)
    - 由于收入下降和商店关闭，GameStop 希望收购规模更大的 eBay
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "专门针对DeepSeek优化"
 summary_zh = ""
 tags = []
-list_page = 2
+list_page = 3
 +++
 
 <!-- AUTO-GENERATED: news page -->
