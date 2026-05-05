@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-05 10:07:53
+🕐 **最近更新**：2026-05-05 16:01:13
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,12 +16,12 @@
 
 ## 🔥 今日热点
 
-1. [OpenAI 的亲密合作伙伴 Cerebras 有望实现重磅 IPO](https://aihot.bt199.com/news/bc98b10e8d56/)
-   - AI 芯片制造商 Cerebras 即将进行重磅 IPO，估值可能达到 266 亿美元或更多。它与 OpenAI 的关系…
-   - `TechCrunch AI · 2026-05-04`
+1. [当工人们担心人工智能时，英伟达的黄仁勋表示人工智能正在“创造大量就业机会”](https://aihot.bt199.com/news/2d00a23fb9d0/)
+   - 这位英伟达首席执行官似乎认为，有关人工智能扼杀就业潜力的说法被过分夸大了
+   - `TechCrunch AI · 2026-05-05`
 
-2. [图像人工智能模型现在推动应用程序增长，击败聊天机器人升级](https://aihot.bt199.com/news/a168596f1396/)
-   - Appfigures 发现视觉模型的发布使下载量增加了 6.5 倍，但大多数人并没有将这一峰值转化为收入
+2. [OpenAI 的亲密合作伙伴 Cerebras 有望实现重磅 IPO](https://aihot.bt199.com/news/bc98b10e8d56/)
+   - AI 芯片制造商 Cerebras 即将进行重磅 IPO，估值可能达到 266 亿美元或更多。它与 OpenAI 的关系…
    - `TechCrunch AI · 2026-05-04`
 
 3. [OpenAI 总裁除了回答问题外，他做“所有事情”](https://aihot.bt199.com/news/f55dfe026daf/)
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

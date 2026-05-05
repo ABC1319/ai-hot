@@ -1,5 +1,97 @@
 [
   {
+    "id": "93d0ca3418b0",
+    "title": "Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA",
+    "url": "https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-05T13:57:41",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-05T07:59:38.427077",
+    "content_text": "OpenJDK\nJEP 532（模式、instanceof 和 switch 中的基本类型第五轮预览）已从候选状态提升至 Proposed to Target 状态，计划在 JDK 27 中交付。该 JEP 在 JDK 23 至 JDK 26 期间经历了四轮预览后，现在推出了第五个预览版，内容保持不变。该特性增强了模式匹配功能，允许在所有模式上下文中使用基本类型，并扩展了 instanceof 和 switch 结构以支持所有的基本类型。评审工作于 2026 年 4 月 30 日结束。\nJEP 535（Shenandoah GC：默认启用分代模式）已从 JEP Draft 8379682 升级为候选状态。该 JEP 计划随 JDK 28 发布，提议将 Shenandoah 垃圾回收器默认设置为分代模式。非分代模式将被标记为弃用，并计划在未来版本中移除。\n作为 2026 年 4 月季度关键补丁更新公告的一部分，Oracle 发布了 JDK 的 25.0.3、21.0.11、17.0.19、11.0.31 和 8u491 版本。要了解有关这些版本的更多详细信息，请参阅 25.0.3、 21.0.11、 17.0.19、 11.0.31 以及 8u491 版本的发布说明。\nJDK 27\nJDK 27 的早期访问构建 Build 19 发布，它是 Build 18 的升级，修复了各种问题。要了解关于这个构建的更多细节，请查看发布说明。\n在评审结束后，Oracle 公司 Java 平台组首席架构师 Mark Reinhold 正式宣布了 JDK 27 的发布计划：\nRampdown 阶段一 （从主干分叉）：2026 年 6 月 4 日\nRampdown 阶段二：2026 年 7 月 16 日\n初始发布候选：2026 年 8 月 6 日\n最终发布候选：2026 年 8 月 20 日\n正式发布：2026 年 9 月 14 日\n对于 JDK 27，我们鼓励开发者通过 Java Bug 数据库报告缺陷。\nJakarta EE\nJakarta Persistence 4.0 的第二个里程碑版本发布，与第一个里程碑版本相比，带来了需多值得注意的变化，具体包括：新增专用表达类型，包括ComparableExpression\n和 NumericExpression\n接口；新增相应的元模型属性类型，包括 ComparableAttribute\n和 NumericAttribute\n接口；新增 FetchOption\n接口，用于通过 EntityGraph\n接口更有效地控制数据获取。\nBellSoft\n在 Oracle 于 2026 年 4 月发布关键补丁更新（CPU）的同时，BellSoft 软件公司也发布了针对 Liberica JDK（其 OpenJDK 下游发行版） 25.0.2.0.1、21.0.10.0.1、17.0.18.0.1、11.0.30.0.1、8u491、7u501 和 6u501 版本的 CPU 补丁，以便解决一系列的 CVE（漏洞）。此外，补丁集更新（PSU）版本 26.01、25.0.3、21.0.11、17.0.19、11.0.31 和 8u492 也已发布，包含 CPU 和非关键修复内容。通过总共 954 项修复和回滚操作，BellSoft 软件公司表示，他们在所有版本中总共解决了 63 个问题。\nAzul\n与 Oracle 2026 年 4 月发布关键补丁更新（CPU）同步，Azul 发布了其季度更新，其中包含 Zulu（其 OpenJDK 下游发行版） 26.0.1、25.0.3、21.0.11、17.0.19 和 11.0.31 版本，以便解决一系列的 CVE 漏洞。要了解更多详细信息，请参阅发布说明。\nSpring Framework\n对 Spring 而言，这是忙碌的一周，各团队相继发布了以下项目的首个候选版本：Spring Boot、Spring Security、Spring Integration、Spring Modulith、Spring AMQP、Spring for Apache Kafka 以及 Spring Vault。要了解更多详情，请参阅这篇 InfoQ 新闻报道。\nOpen Liberty\nOpen Liberty 26.0.0.4 GA 版本发布，带来了一些值得注意的变化，包括：支持 JDK 26； 通过从 Javascript Object Signing and Encryption (JOSE) Header 中选择 JWT 签名算法来增强身份验证；移除默认的轻量级第三方身份验证 (LTPA) 密钥密码，修复 CVE-2025-14917 。该漏洞存在于 Open Liberty 17.0.0.3 至 26.0.0.3 版本中，在管理安全设置时可能导致安全性低于预期。\nMultik\nKotlin 多维数组库 Multik 0.3.1 版本发布，带来了一项 Bug 修复、依赖项升级，以及一项破坏性变更：由于苹果公司宣布 Intel MacBook 已过时，所以该版本从所有模块中移除了 Kotlin/Native macosX64\n目标。要了解有关该版本的更多详情，请参阅发布说明。\nTestcontainers\nTestcontainers for Java 2.0.5 版本发布，带来了 Bug 修复、文档改进、依赖项升级以及以下新功能：在 ArtemisContainer\n类中支持 Docker 镜像 apache/artemis\n； 在 WeaviateContainer\n类中新增 getHttpPort()\n和 getGrpcPort()\n方法，分别用于获取定义的 8080 和 50051 端口；在 Docker Compose 中支持 !override\n标签。要了解有关该版本的更多详细信息，请参阅发布说明。\nJetBrains\nIntelliJ IDEA 2026.1.1 版本发布，带来了多项值得注意的变化，包括：修复了 InternalIdeaModule\n类与 Gradle ProjectModel\n接口之间因同步失败而引发的 ClassCastException\n异常；修复了服务器启动后连接 WildFly 管理进程时出现的错误，恢复了正常的应用程序部署。要了解有关该版本的更多详细信息，请参阅发布说明。\n原文链接：",
+    "content_source": "trafilatura",
+    "content_chars": 2686,
+    "content_excerpt": "OpenJDK\nJEP 532（模式、instanceof 和 switch 中的基本类型第五轮预览）已从候选状态提升至 Proposed to Target 状态，计划在 JDK 27 中交付。该 JEP 在 JDK 23 至 JDK 26 期间经历了四轮预览后，现在推出了第五个预览版，内容保持不变。该特性增强了模式匹配功能，允许在所有模式上下文中使用基本类型，并扩展了 instanceof 和 switch 结构以支持所有的基本类型。评审工作于 2026 年 4 月 30 日结束。\nJEP 535（Shenandoah GC：默认启用分代模式）已从 JEP Draft 8379682 升级为候选状态。该 JEP 计划随 JDK 28 发布，提议将 Shenandoah 垃圾回收器默认设置为分代模式。非分代模式将被标记为弃用，并计划在未来版本中移除。\n作为 2026 年 4 月季度关键补丁更新公告的一部分，Oracle 发布了 JDK 的 25.0.3、21.0.11、17.0.19、11.0.31 和 8u491 版本。要了解有关这些版本的更多详细信息，请参阅 25.0.3、 21.0.11、 17.0.19、 11.0.31 以及 8u491 版本的发布说明。\nJDK 27\nJDK 27 的早期访问构建 Build 19 发布，它是 Build 18 的升级，修复了各种问题。要了解关于这个构建的更多细节，请查看发布说明。\n在评审结束后，Oracle 公司 Java 平台组首席架构师 Mark Reinhold 正式宣布了 JDK 27 的发布计划：\nRampdown 阶段一 （从主干分叉）：2026 年 6 月 4 日\nRampdown 阶段二：2026 年 7 月 16 日\n初始发布候选：2026 年 8 月 6 日"
+  },
+  {
+    "id": "a43963b5d1ee",
+    "title": "高通前高管将加入英特尔，领导客户端计算与物理AI事业部",
+    "url": "https://36kr.com/newsflashes/3795844563934467?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-05T05:00:32",
+    "summary": "5月5日，英特尔公司宣布两项重要领导层任命。Alex Katouzian将于5月加入英特尔，担任执行副总裁兼客户端计算与物理AI事业部总经理。Katouzian此前任职于高通技术公司，担任执行副总裁兼手机、计算和XR事业群总经理。 英特尔同时宣布，正式任命此前担任代理���席技术官的Pushkar Ranade出任首席技术官。作为首席技术官，他将推进公司技术战略，主导专项技术项目，并推动量子计算、神经拟态计算、光子学及新型材料等关键新兴领域的发展。 Katouzian与Ranade将直接向首席执行官陈立武汇报。（界面新闻）",
+    "collected_at": "2026-05-05T07:59:37.034829"
+  },
+  {
+    "id": "d850e7bb9366",
+    "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
+    "url": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-05T13:55:09",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-05T07:59:38.427112",
+    "content_text": "Vercel 开源\nOpen Agents\n，支持创建和运行后台编码智能体。它为开发者提供了一套完整的全栈解决方案，让开发者无需依赖本地设备就能运行独立的编码工作流。\nOpen Agents 采用三层架构：Web 接口层、智能体工作流层以及沙箱化的执行环境。Web 层负责身份认证、会话管理与流式交互。智能体以持久化工作流的形式运行，代码执行则在隔离的虚拟机沙箱内完成，沙箱可提供文件系统访问、Shell 命令执行和开发服务器等能力。\n其核心架构设计在于将智能体与沙箱解耦。智能体不会直接在虚拟机内部执行代码，而是通过文件操作、搜索、Shell 命令等工具与沙箱交互。这种设计能够让智能体生命周期与沙箱生命周期独立演进，同时支持工作流脱离单次请求实现持久化运行，沙箱还可根据实际需求进行暂停、休眠与恢复。\n该平台支持多步执行、流式输出以及任务取消功能。开发者可克隆仓库、创建分支，并借助 GitHub 集成实现提交与拉取请求的自动化操作。会话能够通过只读链接进行分享，并支持接入 ElevenLabs 转录服务实现语音输入。\n从运行时角度看，Open Agents 依赖持久化工作流而非基于请求的执行模式。每次交互都会触发一个工作流，可跨越多个步骤并随时间持续运行。活动会话可通过重新连接工作流流来恢复，而沙箱则利用基于快照的状态机制在闲置后还原环境。\n该项目需要若干基础设施组件才能运行，包括用于状态管理和 OAuth 认证的 PostgreSQL 数据库，以及用于访问仓库和自动化创建拉取请求等任务的 GitHub 集成。可选组件如 Redis 或键值存储可用于数据缓存。\nOpen Agents 的定位是参考实现，而非成品项目。该仓库可供开发者 Fork 并进行二次开发，让开发者能够深入了解智能体工作流、沙箱编排以及各类集成功能的具体实现方式。该项目可在 Vercel 上部署，可手动配置环境变量与各项服务，完整展现底层的系统设计。\n智能体逻辑与执行环境的分离引发了各界不同反响。Michiel Voortman\n评论\n道：\n你提到虚拟机与智能体的分离是该项目的核心理念。\n但我认为这种架构从中长期来看会拖慢智能体的发展。它虽然具备更好的可扩展性，却限制了智能体的自主自由度，进而制约它的能力与“创造力”。我认为正确的思路应该是先为每个智能体分配一台计算资源，再随着模型能力提升和任务交接机制的完善逐步扩容至十台、百台、千台计算资源。\n此次发布标志着编码智能体正从单纯的请求绑定工具向长期运行的系统转变。通过将工作流编排与隔离执行环境相结合，Open Agents 使持续运行的智能体成为可能——它们能够与外部系统交互，并自主管理代码变更。\n原文链接\n：\nhttps://www.infoq.com/news/2026/04/vercel-open-agents/",
+    "content_source": "readability",
+    "content_chars": 1186,
+    "content_excerpt": "Vercel 开源\nOpen Agents\n，支持创建和运行后台编码智能体。它为开发者提供了一套完整的全栈解决方案，让开发者无需依赖本地设备就能运行独立的编码工作流。\nOpen Agents 采用三层架构：Web 接口层、智能体工作流层以及沙箱化的执行环境。Web 层负责身份认证、会话管理与流式交互。智能体以持久化工作流的形式运行，代码执行则在隔离的虚拟机沙箱内完成，沙箱可提供文件系统访问、Shell 命令执行和开发服务器等能力。\n其核心架构设计在于将智能体与沙箱解耦。智能体不会直接在虚拟机内部执行代码，而是通过文件操作、搜索、Shell 命令等工具与沙箱交互。这种设计能够让智能体生命周期与沙箱生命周期独立演进，同时支持工作流脱离单次请求实现持久化运行，沙箱还可根据实际需求进行暂停、休眠与恢复。\n该平台支持多步执行、流式输出以及任务取消功能。开发者可克隆仓库、创建分支，并借助 GitHub 集成实现提交与拉取请求的自动化操作。会话能够通过只读链接进行分享，并支持接入 ElevenLabs 转录服务实现语音输入。\n从运行时角度看，Open Agents 依赖持久化工作流而非基于请求的执行模式。每次交互都会触发一个工作流，可跨越多个步骤并随时间持续运行。活动会话可通过重新连接工作流流来恢复，而沙箱则利用基于快照的状态机制在闲置后还原环境。\n该项目需要若干基础设施组件才能运行，包括用于状态管理和 OAuth 认证的 PostgreSQL 数据库，以及用于访问仓库和自动化创建拉取请求等任务的 GitHub 集成。可选组件如 Redis 或键值存储可用于数据缓存。\nOpen Agents 的定位是参考实现，而非成品项目。该仓库可供开发者 Fork 并进行二次开发，让开发者能够深入了解智能体工作流、沙箱编排以及各类集成功能的具体实现方式。该项目可在 Vercel 上部署，可手动配置环境变量与各项服务，完整展现底层的系统设计。\n智能体逻辑与执行环境的分离引发了各界不同反响。Michiel Voortman"
+  },
+  {
+    "id": "0722c395e64a",
+    "title": "Train Your Own LLM from Scratch",
+    "url": "https://github.com/angelos-p/llm-from-scratch",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-05T04:09:17",
+    "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 173 # Comments: 20",
+    "collected_at": "2026-05-05T07:59:35.752922",
+    "content_text": "Train Your Own LLM From Scratch\nA hands-on workshop where you write every piece of a GPT training pipeline yourself, understanding what each component does and why.\nAndrej Karpathy's\nnanoGPT\nwas my first real exposure to LLMs and transformers. Seeing how a working language model could be built in a few hundred lines of PyTorch completely changed how I thought about AI and inspired me to go deeper into the space.\nThis workshop is my attempt to give others that same experience. nanoGPT targets reproducing GPT-2 (124M params) and covers a lot of ground. This project strips it down to the essentials and scales it to a ~10M param model that trains on a laptop in under an hour — designed to be completed in a single workshop session.\nNo black-box libraries. No\nmodel = AutoModel.from_pretrained()\n. You build it all.\nA working GPT model trained from scratch on your MacBook, capable of generating Shakespeare-like text. You'll write:\nTokenizer\n— turning text into numbers the model can process\nModel architecture\n— the transformer: embeddings, attention, feed-forward layers\nTraining loop\n— forward pass, loss, backprop, optimizer, learning rate scheduling\nText generation\n— sampling from your trained model\nAny laptop or desktop (Mac, Linux, or Windows)\nPython 3.12+\nComfort reading Python code (you don't need ML experience)\nTraining uses Apple Silicon GPU (MPS), NVIDIA GPU (CUDA), or CPU automatically. Also works on\nGoogle Colab\n— upload the files and run with\n!python train.py\n.\nInstall\nuv\nif you don't have it:\n#\nmacOS / Linux\ncurl -LsSf https://astral.sh/uv/install.sh\n|\nsh\n#\nWindows\npowershell -ExecutionPolicy ByPass -c\n\"\nirm https://astral.sh/uv/install.ps1 | iex\n\"\nThen set up the project:\nuv sync\nmkdir scratchpad\n&&\ncd\nscratchpad\nIf you don't have a local setup, upload the repo to Colab and install dependencies:\n!p\nip\ninstall\ntorch\nnumpy\ntqdm\ntiktoken\nUpload\ndata/shakespeare.txt\nto your Colab files, then write your code in notebook cells or upload\n.py\nfiles and run them with\n!python train.py\n.\nWork through the docs in order. Each part walks you through writing a piece of the pipeline, explaining what each component does and why. By the end, you'll have a working\nmodel.py\n,\ntrain.py\n, and\ngenerate.py\nthat you wrote yourself.\nPart\nWhat You'll Write\nConcepts\nPart 1: Tokenization\nCharacter-level tokenizer\nCharacter encoding, vocabulary size, why BPE fails on small data\nPart 2: The Transformer\nFull GPT model architecture\nEmbeddings, self-attention, layer norm, MLP blocks\nPart 3: The Training Loop\nComplete training pipeline\nLoss functions, AdamW, gradient clipping, LR scheduling\nPart 4: Text Generation\nInference and sampling\nTemperature, top-k, autoregressive decoding\nPart 5: Putting It All Together\nTrain on real data, experiment\nLoss curves, scaling experiments, next steps\nPart 6: Competition\nTrain the best AI poet\nFind datasets, scale up, submit your best poem\nArchitecture: GPT at a Glance\nInput Text\n│\n▼\n┌─────────────────┐\n│ Tokenizer │ \"hello\" → [20, 43, 50, 50, 53] (character-level)\n└────────┬────────┘\n▼\n┌─────────────────┐\n│ Token Embed + │ token IDs → vectors (n_embd dimensions)\n│ Position Embed │ + positional information\n└────────┬────────┘\n▼\n┌─────────────────┐\n│ Transformer │ × n_layer\n│ Block: │\n│ ┌────────────┐ │\n│ │ LayerNorm │ │\n│ │ Self-Attn │ │ n_head parallel attention heads\n│ │ + Residual │ │\n│ ├────────────┤ │\n│ │ LayerNorm │ │\n│ │ MLP (FFN) │ │ expand 4x, GELU, project back\n│ │ + Residual │ │\n│ └────────────┘ │\n└────────┬────────┘\n▼\n┌─────────────────┐\n│ LayerNorm │\n│ Linear → logits│ vocab_size outputs (probability over next token)\n└─────────────────┘\nModel Configs for This Workshop\nConfig\nParams\nn_layer\nn_head\nn_embd\nTrain Time (M3 Pro)\nTiny\n~0.5M\n2\n2\n128\n~5 min\nSmall\n~4M\n4\n4\n256\n~20 min\nMedium (default)\n~10M\n6\n6\n384\n~45 min\nAll configs use character-level tokenization (vocab_size=65) and block_size=256.\nTokenization: Characters vs BPE\nThis workshop uses\ncharacter-level\ntokenization on Shakespeare. BPE tokenization (GPT-2's 50k vocab) doesn't work on small datasets — most token bigrams are too rare for the model to learn patterns from.\nTokenizer\nVocab Size\nDataset Size Needed\nCharacter-level\n~65\nSmall (Shakespeare, ~1MB)\nBPE (tiktoken)\n50,257\nLarge (TinyStories+, 100MB+)\nPart 5 covers switching to BPE for larger datasets.",
+    "content_source": "readability",
+    "content_chars": 4309,
+    "content_excerpt": "Train Your Own LLM From Scratch\nA hands-on workshop where you write every piece of a GPT training pipeline yourself, understanding what each component does and why.\nAndrej Karpathy's\nnanoGPT\nwas my first real exposure to LLMs and transformers. Seeing how a working language model could be built in a few hundred lines of PyTorch completely changed how I thought about AI and inspired me to go deeper into the space.\nThis workshop is my attempt to give others that same experience. nanoGPT targets reproducing GPT-2 (124M params) and covers a lot of ground. This project strips it down to the essentials and scales it to a ~10M param model that trains on a laptop in under an hour — designed to be completed in a single workshop session.\nNo black-box libraries. No\nmodel = AutoModel.from_pretrained()\n. You build it all.\nA working GPT model trained from scratch on your MacBook, capable of generating Shakespeare-like text. You'll write:",
+    "title_zh": "从头开始培养自己的法学硕士",
+    "summary_zh": "文章网址：https://github.com/angelos-p/llm-from-scratch 评论网址：https://news.ycombinator.com/item?id=48017948 积分：173 # 评论：20",
+    "ai_summary": "文章网址：https://github.com/angelos-p/llm-from-scratch 评论网址：http…"
+  },
+  {
+    "id": "db3b3c2bed2d",
+    "title": "NVIDIA 入局量子基础设施：Ising 模型主打自动校准与实时纠错",
+    "url": "https://www.infoq.cn/article/CKcQwKGvZb9oHMzbwteP?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-05T11:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-05T07:59:38.427281",
+    "content_text": "NVIDIA 宣布推出一系列名为\nNVIDIA Ising\n的开源模型，用于解决量子处理器校准和量子纠错问题。这是当前量子系统规模化面临的两大工程挑战，因为量子比特中的噪声和不稳定性会降低计算的可靠性。Ising 模型的目标是利用机器学习自动化这一过程的部分环节，从而加快校准周期，并在运行过程中更高效地进行量子错误解码。\nIsing 系列包括两个主要组件。校准模型是一个视觉-语言系统，可解读来自量子硬件的测量数据，并在接近实时的情况下调整参数，从而减少人工干预并缩短校准周期。解码模型基于 3D 卷积神经网络，用于处理量子纠错中的错误综合信息，并提供针对延迟或精度优化的不同版本。根据 NVIDIA 的说法，这些模型在速度和准确性上都优于现有方法（如\npyMatching\n），从而使实时量子纠错工作流更具可行性。\n这些模型以开源形式发布，可以在本地部署，也可以根据特定的量子硬件环境进行调整。NVIDIA 还提供了配套的数据集、工作流示例以及\nNIM\n微服务，帮助开发者集成和微调这些模型。该系统还与\nCUDA-Q\n集成，用于量子-经典混合编程，并通过\nNVQLink\n将量子处理器与 GPU 连接起来，使纠错和控制循环可以与经典计算任务并行运行。\n与量子生态中的其他方法相比，NVIDIA Ising 体现出一种转变：从依赖基于物理或启发式的方法，转向使用通用 AI 模型来进行控制和纠错。像\npyMatching\n这样的传统工具以及其他解码库虽然经过高度优化，但通常是静态的，需要针对不同的硬件拓扑进行手动调优。相比之下，Ising 使用可学习的模型，可以适应不同的噪声模式和系统配置。包括 IBM 和 Google 在内的其他厂商也在内部探索使用机器学习进行\n量子纠错\n，但这些工作通常与其专有硬件栈紧密绑定，而 NVIDIA 则将 Ising 定位为一个与硬件无关的开源模型层，可跨平台集成。\n社区的早期反馈既关注其潜力，也关注实际挑战。一些研究人员认为，这一发布是迈向让量子系统更具可编程性的一步，并指出基于 AI 的校准有望降低维护量子设备的运维成本。\n用户\nAdel Bucetta\n表示：\n很多人觉得 AI 只是帮你把代码写得更好，但真正的突破，是它在重新定义“什么变得可能”：谁能参与构建量子处理器，以及它到底可以怎么被做出来、怎么运行。\n也有人提出了泛化能力方面的疑问，尤其是针对特定硬件环境训练的模型，是否能够有效迁移到不同架构上。\nAI 战略专家\nWefaq Ahmad\n在 X 上评论道：\nNVIDIA 这是把量子比特的手动调参变成自动校准了。如果 Ising 真能把校准从几天压到几小时，那量子计算的科研时代，是不是要翻篇了？\n此外，还有关于延迟约束的讨论，因为实时纠错需要量子硬件与经典计算系统之间的紧密协同。总体来看，反馈体现出一种谨慎的兴趣，重点关注基准测试结果以及这些模型在受控环境之外的表现。\n原文链接：\nhttps://www.infoq.com/news/2026/04/nvidia-ising-quantum/",
+    "content_source": "readability",
+    "content_chars": 1281,
+    "content_excerpt": "NVIDIA 宣布推出一系列名为\nNVIDIA Ising\n的开源模型，用于解决量子处理器校准和量子纠错问题。这是当前量子系统规模化面临的两大工程挑战，因为量子比特中的噪声和不稳定性会降低计算的可靠性。Ising 模型的目标是利用机器学习自动化这一过程的部分环节，从而加快校准周期，并在运行过程中更高效地进行量子错误解码。\nIsing 系列包括两个主要组件。校准模型是一个视觉-语言系统，可解读来自量子硬件的测量数据，并在接近实时的情况下调整参数，从而减少人工干预并缩短校准周期。解码模型基于 3D 卷积神经网络，用于处理量子纠错中的错误综合信息，并提供针对延迟或精度优化的不同版本。根据 NVIDIA 的说法，这些模型在速度和准确性上都优于现有方法（如\npyMatching\n），从而使实时量子纠错工作流更具可行性。\n这些模型以开源形式发布，可以在本地部署，也可以根据特定的量子硬件环境进行调整。NVIDIA 还提供了配套的数据集、工作流示例以及\nNIM\n微服务，帮助开发者集成和微调这些模型。该系统还与\nCUDA-Q"
+  },
+  {
+    "id": "2d00a23fb9d0",
+    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+    "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-05T03:31:54",
+    "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+    "collected_at": "2026-05-05T07:59:26.425869",
+    "content_text": "When it comes to the specter of AI’s labor-displacing potential, Jensen Huang thinks that the American worker has nothing to fear. During\na conversation\nMonday night with MSNBC’s Becky Quick hosted by the Milken Institute — an economic policy think tank, the jovial Nvidia CEO said that AI was an industrial-scale generator of jobs, not the harbinger of mass unemployment that so-called “AI doomers” have often accused it of being.\nA number of different topics were broached during the talk, but a central theme that kept coming back was the ongoing economic anxiety surrounding the AI industry and whether it was something Americans should be legitimately worried about. At one point Quick noted: “This is happening so quickly. Is there a bigger dislocation than we’ve seen in the past that leads to greater inequality? And what do we do about that?”\nThroughout the night, Huang struck an optimistic note. “AI creates jobs,” Huang asserted during the discussion, adding that “AI is [the] United States’ best opportunity to re-industrialize” itself. Huang noted that the AI industry is powered by a new breed of industrial factories—the kinds producing the hardware that acts as critical infrastructure for the AI business. (Huang’s company notably sells a lot of that hardware.) Those factories necessarily need workers, as does the rest of the blossoming AI industry.\nJust because a specific task is automated, that doesn’t mean that a person’s entire job is going to be replaced, Huang reasoned. People who believe this “misunderstand that the purpose of a job and the task of a job are related” but not ultimately the same thing, he said. In other words, Huang’s argument is that even when AI takes over a discrete task within a role, the broader function that employee serves in an organization is likely to remain.\nRelatedly, Huang was critical of people who allege AI will dominate humanity or that it will wipe out huge sectors of the economy. “My greatest concern is that we scare…people—all the people that we’re telling these science fiction stories to, to the point where AI is so unpopular in the United States, or people are so afraid of it, that they don’t actually engage it,” he said.\nIronically, much of the “doomer” rhetoric has been generated\nby the AI industry itself\n, and critics maintain that such hyperbole has been used as a marketing gimmick designed to gin up buzz and excitement for products that aren’t anywhere near the capabilities that such rhetoric suggests.\nIt remains to be seen what kind of long-term impact AI will have on the overall economy. That said, reputable financial and academic organizations have suggested that as\nmuch as 15% percent of jobs\nin the U.S. will be eliminated over the next several years as a result of AI.\nTechcrunch event\nSan Francisco, CA\n|\nOctober 13-15, 2026",
+    "content_source": "readability",
+    "content_chars": 2825,
+    "content_excerpt": "When it comes to the specter of AI’s labor-displacing potential, Jensen Huang thinks that the American worker has nothing to fear. During\na conversation\nMonday night with MSNBC’s Becky Quick hosted by the Milken Institute — an economic policy think tank, the jovial Nvidia CEO said that AI was an industrial-scale generator of jobs, not the harbinger of mass unemployment that so-called “AI doomers” have often accused it of being.\nA number of different topics were broached during the talk, but a central theme that kept coming back was the ongoing economic anxiety surrounding the AI industry and whether it was something Americans should be legitimately worried about. At one point Quick noted: “This is happening so quickly. Is there a bigger dislocation than we’ve seen in the past that leads to greater inequality? And what do we do about that?”\nThroughout the night, Huang struck an optimistic note. “AI creates jobs,” Huang asserted during the discussion, adding that “AI is [the] United States’ best opportunity to re-industrialize” itself. Huang noted that the AI industry is powered by a new breed of industrial factories—the kinds producing the hardware that acts as critical infrastructure for the AI business. (Huang’s company notably sells a lot of that hardware.) Those factories necessarily need workers, as does the rest of the blossoming AI industry.\nJust because a specific task is automated, that doesn’t mean that a person’s entire job is going to be replaced, Huang reasoned. People who believe this “misunderstand that the purpose of a job and the task of a job are related” but not ultimately the same thing, he said. In other words, Huang’s argument is that even when AI takes over a discrete task within a role, the broader function that employee serves in an organization is likely to remain.\nRelatedly, Huang was critical of people who allege AI will dominate humanity or that it will wipe out huge sectors of the economy. “My greatest concern is that we scare…people—all the people that we’re telling these science fiction stories to, to the point where AI is so unpopular in the United States, or people are so afraid of it, that they don’t actually engage it,” he said.\nIronically, much of the “doomer” rhetoric has been generated\nby the AI industry itself\n, and critics maintain that such hyperbole has been used as a marketing gimmick designed to gin up buzz and excitement for products that aren’t anywhere near the capabilities that such rhetoric suggests.",
+    "title_zh": "当工人们担心人工智能时，英伟达的黄仁勋表示人工智能正在“创造大量就业机会”",
+    "summary_zh": "这位英伟达首席执行官似乎认为，有关人工智能扼杀就业潜力的说法被过分夸大了",
+    "ai_summary": "这位英伟达首席执行官似乎认为，有关人工智能扼杀就业潜力的说法被过分夸大了"
+  },
+  {
     "id": "dabbec42d7d7",
     "title": "Java 世界的 MCP：将架构策略应用于 LLM 集成",
     "url": "https://www.infoq.cn/article/2m5IC7x6SxwWlEls7VWz?utm_source=rss&utm_medium=article",
@@ -13,6 +105,16 @@
     "content_source": "readability",
     "content_chars": 12148,
     "content_excerpt": "简介：为什么 MCP Java SDK 很重要\n大语言模型不再仅仅用于实验性的聊天机器人或个人生产力工具。在企业中，这些模型正在改变团队与系统互动以及做出实际决策的方式。从本质上讲，它们已经成为真正的架构组件。\n尽管如此，当前的集成还比较脆弱。许多团队使用供应商特有的机制将集成逻辑嵌入到提示中，或者直接向模型暴露 API。虽然这些方法在原型设计阶段很有用，但它们难以扩展，并且治理能力也非常有限。\n这种情况与 SOA 的早期阶段颇为相似，当时由于缺乏统一的标准，导致系统结构脆弱，难以开发和集成。MCP 现在处于同样的稳定化阶段：它在基于 LLM 的架构中引入了一个协议层，其中包含了结构、边界和互操作模型。\n为了应对这些挑战，模型上下文协议（MCP）引入一种标准化且与模型无关的方法，用于展示上下文工具和数据。MCP 在模型与外部系统之间定义了一个协议层的契约，避免了将集成语义硬编码到提示或特定于 SDK 的调用中。这种共享且标准化的约定使功能变得明确、可发现且可管理。\n在这个背景下，Java MCP SDK 的出现尤为重要。JVM 生态系统支撑着企业的大部分工作负载，这里的架构规范并非是一种审美上的偏好。基于 Java 的系统必须具备可观测性、可测试性、高可靠性以及长期可维护性。如果在这些环境中引入 LLM，而没有与之相匹配的同等水平的规范，就会导致不一致的情况，变得难以管理和解决。\nJava 中基于 SDK 和 MCP 的集成方案，使架构师能够将大语言模型的采用与企业现有的架构实践相融合，并将服务边界、契约和控制平面等概念应用于与大语言模型的交互中。\n本文将从这一角度探讨 MCP 及其 Java SDK。本文的目的并非讲解如何编写 MCP 代码，而是探讨 MCP 如何重新定义大语言模型的集成标准，它解决了哪些问题，以及在设计旨在突破原型阶段、实现规模化应用的系统时要做哪些权衡取舍。\nMCP 入门：基于协议的 LLM 集成视角\n为了从架构的角度更好地理解 MCP，我们需要将关注点从单个集成转向交互模型。MCP 既不是代理框架，也不是运行时环境；它是一种协议，通过结构化的契约来定义模型如何与外部功能进行交互。"
+  },
+  {
+    "id": "v2ex-1210265",
+    "title": "豆包即将开始收费了，每月 68 元",
+    "url": "https://www.v2ex.com/t/1210265",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-05T01:20:20",
+    "summary": "根据 App Store 页面显示，豆包计划在免费版基础上推出三档付费订阅方案： 基础版（免费）：日常对话、信息查询、文档处理等常规功能，永久免费。 标准版：连续包月 68 元，连续包年 688 元。 加强版：连续包月 200 元，连续包年 2048 元。 专业版：连续包月 500 元，连续包年 5088 元。 感觉价格快对标 ChatGPT 了，根据豆包的水平，大家觉得值得购买吗？",
+    "collected_at": "2026-05-05T07:59:38.999322"
   },
   {
     "id": "f55dfe026daf",
@@ -229,6 +331,20 @@
     "title_zh": "Anthropic 和 OpenAI 均成立合资企业提供企业人工智能服务",
     "summary_zh": "Anthropic 和 OpenAI 都与资产管理公司合作，更积极地营销其企业人工智能产品",
     "ai_summary": "Anthropic 和 OpenAI 都与资产管理公司合作，更积极地营销其企业人工智能产品"
+  },
+  {
+    "id": "v2ex-1210228",
+    "title": "写给苹果 CEO 库克的一封信",
+    "url": "https://www.v2ex.com/t/1210228",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-04T13:35:05",
+    "summary": "写给苹果 CEO 库克的一封信 request for Official Free Repair for My iPad Air 3 Blank Screen Issue Dear Mr. Tim Cook, My name is a professional AI self-media blogger and a big Google fan. I have been a loyal Apple user for many years. I have purchased many Apple products including iPhone 4, iPhone 7 Plus, iPhone",
+    "collected_at": "2026-05-05T07:59:38.999466",
+    "content_text": "写给苹果 CEO 库克的一封信\nrequest for Official Free Repair for My iPad Air 3 Blank Screen Issue\nDear Mr. Tim Cook,\nMy name is a professional AI self-media blogger and a big Google fan. I have been a loyal Apple user for many years. I have purchased many Apple products including iPhone 4, iPhone 7 Plus, iPhone 8, iPhone 14, iPhone 14 Pro Max and iPhone 15.\nRecently, my iPad Air 3 has suffered from the permanent black screen and frozen death problem, which is exactly the official recall issue Apple announced before. My device matches the faulty batch of iPad Air 3 with blank screen failure.\nNow my iPad cannot power on at all, and there are a large amount of precious and irreplaceable personal and work data stored inside. I cannot lose these important data.\nI have contacted Apple official customer service in Chinese mainland many times by phone for repeated communication, but the local support team refused to take responsibility and failed to solve my problem at all.\nI sincerely request you to arrange Apple offline official stores to provide free maintenance and official screen replacement service for my faulty iPad Air 3 as promised in the recall program, and help protect and recover my important data.\nAs a long-term loyal Apple user and tech content creator, I truly hope Apple can keep its after-sales commitment and solve this problem for me as soon as possible.\nLooking forward to your positive reply and help urgently.\nBest regards",
+    "content_source": "trafilatura",
+    "content_chars": 1444,
+    "content_excerpt": "写给苹果 CEO 库克的一封信\nrequest for Official Free Repair for My iPad Air 3 Blank Screen Issue\nDear Mr. Tim Cook,\nMy name is a professional AI self-media blogger and a big Google fan. I have been a loyal Apple user for many years. I have purchased many Apple products including iPhone 4, iPhone 7 Plus, iPhone 8, iPhone 14, iPhone 14 Pro Max and iPhone 15.\nRecently, my iPad Air 3 has suffered from the permanent black screen and frozen death problem, which is exactly the official recall issue Apple announced before. My device matches the faulty batch of iPad Air 3 with blank screen failure.\nNow my iPad cannot power on at all, and there are a large amount of precious and irreplaceable personal and work data stored inside. I cannot lose these important data.\nI have contacted Apple official customer service in Chinese mainland many times by phone for repeated communication, but the local support team refused to take responsibility and failed to solve my problem at all.\nI sincerely request you to arrange Apple offline official stores to provide free maintenance and official screen replacement service for my faulty iPad Air 3 as promised in the recall program, and help protect and recover my important data.\nAs a long-term loyal Apple user and tech content creator, I truly hope Apple can keep its after-sales commitment and solve this problem for me as soon as possible.\nLooking forward to your positive reply and help urgently."
   },
   {
     "id": "0ca39b129128",
@@ -4453,115 +4569,6 @@
     "ai_summary": "通过此次发布，用户可以连接他们的 Gmail、Google Drive、Notion、Jira 和 Salesforce…"
   },
   {
-    "id": "104b57e9a431",
-    "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-28T11:56:04",
-    "summary": "Article URL: https://github.com/microsoft/VibeVoice Comments URL: https://news.ycombinator.com/item?id=47933236 Points: 270 # Comments: 160",
-    "collected_at": "2026-04-28T19:29:37.759588",
-    "content_text": "2026-03-06: 🚀 VibeVoice ASR is now part of a Transformers release! You can now use our speech recognition model directly through the Hugging Face Transformers library for seamless integration into your projects.\n2026-01-21: 📣 We open-sourced VibeVoice-ASR, a unified speech-to-text model designed to handle 60-minute long-form audio in a single pass, generating structured transcriptions containing Who (Speaker), When (Timestamps), and What (Content), with support for User-Customized Context. Try it in Playground.\n- ⭐️ VibeVoice-ASR is natively multilingual, supporting over 50 languages — check the supported languages for details.\n- 🔥 The VibeVoice-ASR finetuning code is now available!\n- ⚡️ vLLM inference is now supported for faster inference; see vllm-asr for more details.\n- 📑 VibeVoice-ASR Technique Report is available.\n2025-12-16: 📣 We added experimental speakers to VibeVoice‑Realtime‑0.5B for exploration, including multilingual voices in nine languages (DE, FR, IT, JP, KR, NL, PL, PT, ES) and 11 distinct English style voices. Try it. More speaker types will be added over time.\n2025-12-03: 📣 We open-sourced VibeVoice‑Realtime‑0.5B, a real‑time text‑to‑speech model that supports streaming text input and robust long-form speech generation. Try it on Colab.\n2025-09-05: VibeVoice is an open-source research framework intended to advance collaboration in the speech synthesis community. After release, we discovered instances where the tool was used in ways inconsistent with the stated intent. Since responsible use of AI is one of Microsoft’s guiding principles, we have removed the VibeVoice-TTS code from this repository.\n2025-08-25: 📣 We open-sourced VibeVoice-TTS, a long-form multi-speaker text-to-speech model that can synthesize speech up to 90 minutes long with up to 4 distinct speakers. — accepted as an Oral at ICLR 2026! 🔥\nVibeVoice is a family of open-source frontier voice AI models that includes both Text-to-Speech (TTS) and Automatic Speech Recognition (ASR) models.\nA core innovation of VibeVoice is its use of continuous speech tokenizers (Acoustic and Semantic) operating at an ultra-low frame rate of 7.5 Hz. These tokenizers efficiently preserve audio fidelity while significantly boosting computational efficiency for processing long sequences. VibeVoice employs a next-token diffusion framework, leveraging a Large Language Model (LLM) to understand textual context and dialogue flow, and a diffusion head to generate high-fidelity acoustic details.\nFor more information, demos, and examples, please visit our Project Page.\nVibeVoice-ASR is a unified speech-to-text model designed to handle 60-minute long-form audio in a single pass, generating structured transcriptions containing Who (Speaker), When (Timestamps), and What (Content), with support for Customized Hotwords.\n-\n🕒 60-minute Single-Pass Processing: Unlike conventional ASR models that slice audio into short chunks (often losing global context), VibeVoice ASR accepts up to 60 minutes of continuous audio input within 64K token length. This ensures consistent speaker tracking and semantic coherence across the entire hour.\n-\n👤 Customized Hotwords: Users can provide customized hotwords (e.g., specific names, technical terms, or background info) to guide the recognition process, significantly improving accuracy on domain-specific content.\n-\n📝 Rich Transcription (Who, When, What): The model jointly performs ASR, diarization, and timestamping, producing a structured output that indicates who said what and when.\n📖 Documentation | 🤗 Hugging Face | 🎮 Playground | 🛠️ Finetuning | 📊 Paper\nsmall.mp4\nBest for: Long-form conversational audio, podcasts, multi-speaker dialogues\n-\n⏱️ 90-minute Long-form Generation: Synthesizes conversational/single-speaker speech up to 90 minutes in a single pass, maintaining speaker consistency and semantic coherence throughout.\n-\n👥 Multi-speaker Support: Supports up to 4 distinct speakers in a single conversation, with natural turn-taking and speaker consistency across long dialogues.\n-\n🎭 Expressive Speech: Generates expressive, natural-sounding speech that captures conversational dynamics and emotional nuances.\n-\n🌐 Multi-lingual Support: Supports English, Chinese and other languages.\n📖 Documentation | 🤗 Hugging Face | 📊 Paper\nEnglish\nES_._3.mp4\nChinese\ndefault.mp4\nCross-Lingual\n1p_EN2CH.mp4\nSpontaneous Singing\n2p_see_u_again.mp4\nLong Conversation with 4 people\n4p_climate_45min.mp4\nVibeVoice-Realtime is a lightweight real‑time text-to-speech model supporting streaming text input and robust long-form speech generation.\n- Parameter size: 0.5B (deployment-friendly)\n- Real-time TTS (~300 milliseconds first audible latency)\n- Streaming text input\n- Robust long-form speech generation (~10 minutes)\n📖 Documentation | 🤗 Hugging Face | 🚀 Colab\nVibeVoice_Realtime.mp4\nPlease see CONTRIBUTING.md for detailed contribution guidelines.\nWhile efforts have been made to optimize it through various techniques, it may still produce outputs that are unexpected, biased, or inaccurate. VibeVoice inherits any biases, errors, or omissions produced by its base model (specifically, Qwen2.5 1.5b in this release). Potential for Deepfakes and Disinformation: High-quality synthetic speech can be misused to create convincing fake audio content for impersonation, fraud, or spreading disinformation. Users must ensure transcripts are reliable, check content accuracy, and avoid using generated content in misleading ways. Users are expected to use the generated content and to deploy the models in a lawful manner, in full compliance with all applicable laws and regulations in the relevant jurisdictions. It is best practice to disclose the use of AI when sharing AI-generated content.\nWe do not recommend using VibeVoice in commercial or real-world applications without further testing and development. This model is intended for research and development purposes only. Please use responsibly.",
-    "content_source": "trafilatura",
-    "content_chars": 5931,
-    "content_excerpt": "2026-03-06: 🚀 VibeVoice ASR is now part of a Transformers release! You can now use our speech recognition model directly through the Hugging Face Transformers library for seamless integration into your projects.\n2026-01-21: 📣 We open-sourced VibeVoice-ASR, a unified speech-to-text model designed to handle 60-minute long-form audio in a single pass, generating structured transcriptions containing Who (Speaker), When (Timestamps), and What (Content), with support for User-Customized Context. Try it in Playground.\n- ⭐️ VibeVoice-ASR is natively multilingual, supporting over 50 languages — check the supported languages for details.\n- 🔥 The VibeVoice-ASR finetuning code is now available!\n- ⚡️ vLLM inference is now supported for faster inference; see vllm-asr for more details.\n- 📑 VibeVoice-ASR Technique Report is available.\n2025-12-16: 📣 We added experimental speakers to VibeVoice‑Realtime‑0.5B for exploration, including multilingual voices in nine languages (DE, FR, IT, JP, KR, NL, PL, PT, ES) and 11 distinct English style voices. Try it. More speaker types will be added over time.\n2025-12-03: 📣 We open-sourced VibeVoice‑Realtime‑0.5B, a real‑time text‑to‑speech model that supports streaming text input and robust long-form speech generation. Try it on Colab.\n2025-09-05: VibeVoice is an open-source research framework intended to advance collaboration in the speech synthesis community. After release, we discovered instances where the tool was used in ways inconsistent with the stated intent. Since responsible use of AI is one of Microsoft’s guiding principles, we have removed the VibeVoice-TTS code from this repository.\n2025-08-25: 📣 We open-sourced VibeVoice-TTS, a long-form multi-speaker text-to-speech model that can synthesize speech up to 90 minutes long with up to 4 distinct speakers. — accepted as an Oral at ICLR 2026! 🔥",
-    "title_zh": "Microsoft VibeVoice：开源前沿语音 AI",
-    "summary_zh": "文章网址：https://github.com/microsoft/VibeVoice 评论网址：https://news.ycombinator.com/item?id=47933236 积分：270 # 评论：160",
-    "ai_summary": "文章网址：https://github.com/microsoft/VibeVoice 评论网址：https://new…"
-  },
-  {
-    "id": "25ade5c82c92",
-    "title": "Google and Pentagon reportedly agree on deal for ‘any lawful’ use of AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-28T11:09:32",
-    "summary": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid conce",
-    "collected_at": "2026-04-28T19:29:32.184460",
-    "content_text": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for “any lawful government purpose,” The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid concerns that it would be used in “inhumane or extremely harmful ways.”\nGoogle and Pentagon reportedly agree on deal for ‘any lawful’ use of AI\nThe classified deal apparently doesn’t allow Google to veto how the government will use its AI models.\nThe classified deal apparently doesn’t allow Google to veto how the government will use its AI models.\nIf the agreement is confirmed, it would place Google alongside OpenAI and xAI, which have also made classified AI deals with the US government. Anthropic was also among that list until it was blacklisted by the Pentagon for refusing the Department of Defense’s demands to remove weapon and surveillance-related guardrails from its AI models.\nCiting a single anonymous source “with knowledge of the situation,” The Information reports that the deal states that both parties have agreed that the search giant’s AI systems shouldn’t be used for domestic mass surveillance or autonomous weapons “without appropriate human oversight and control.” But the contract also says it doesn’t give Google “any right to control or veto lawful government operational decision-making,” which would suggest the agreed restrictions are more of a pinky promise than legally binding obligations. The deal also requires Google to assist with making adjustments to its AI safety settings and filters at the government’s request.\n“We are proud to be part of a broad consortium of leading AI labs and technology and cloud companies providing AI services and infrastructure in support of national security,” a Google spokesperson said in a statement to The Information, adding that the new agreement is an amendment to its existing government deal. “We remain committed to the private and public sector consensus that AI should not be used for domestic mass surveillance or autonomous weaponry without appropriate human oversight.”\nUpdate, April 28th: Replaced statement provided to Reuters with a statement that Google provided to The Information.",
-    "content_source": "trafilatura",
-    "content_chars": 2268,
-    "content_excerpt": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for “any lawful government purpose,” The Information reports. The agreement was reported less than a day after Google employees demanded CEO Sundar Pichai block the Pentagon from using its AI amid concerns that it would be used in “inhumane or extremely harmful ways.”\nGoogle and Pentagon reportedly agree on deal for ‘any lawful’ use of AI\nThe classified deal apparently doesn’t allow Google to veto how the government will use its AI models.\nThe classified deal apparently doesn’t allow Google to veto how the government will use its AI models.\nIf the agreement is confirmed, it would place Google alongside OpenAI and xAI, which have also made classified AI deals with the US government. Anthropic was also among that list until it was blacklisted by the Pentagon for refusing the Department of Defense’s demands to remove weapon and surveillance-related guardrails from its AI models.\nCiting a single anonymous source “with knowledge of the situation,” The Information reports that the deal states that both parties have agreed that the search giant’s AI systems shouldn’t be used for domestic mass surveillance or autonomous weapons “without appropriate human oversight and control.” But the contract also says it doesn’t give Google “any right to control or veto lawful government operational decision-making,” which would suggest the agreed restrictions are more of a pinky promise than legally binding obligations. The deal also requires Google to assist with making adjustments to its AI safety settings and filters at the government’s request.\n“We are proud to be part of a broad consortium of leading AI labs and technology and cloud companies providing AI services and infrastructure in support of national security,” a Google spokesperson said in a statement to The Information, adding that the new agreement is an amendment to its existing government deal. “We remain committed to the private and public sector consensus that AI should not be used for domestic mass surveillance or autonomous weaponry without appropriate human oversight.”\nUpdate, April 28th: Replaced statement provided to Reuters with a statement that Google provided to The Information.",
-    "title_zh": "据报道，谷歌和五角大楼就“任何合法”使用人工智能的协议达成一致",
-    "summary_zh": "据《The Information》报道，谷歌已签署一项机密协议，允许美国国防部将其人工智能模型用于“任何合法的政府目的”。该协议是在谷歌员工要求首席执行官桑达尔·皮查伊（Sundar Pichai）阻止五角大楼使用其人工智能后不到一天报道…",
-    "ai_summary": "据《The Information》报道，谷歌已签署一项机密协议，允许美国国防部将其人工智能模型用于“任何合法的政府目的…"
-  },
-  {
-    "id": "807ab81e66ad",
-    "title": "Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境",
-    "url": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-28T11:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-28T10:16:42.706401",
-    "content_text": "Cloudflare 在其\nAgents Week\n活动中宣布，Sandboxes 和 Cloudflare Containers\n正式上线\n，为 AI 代理工作负载提供隔离的持久化 Linux 环境。\n该服务于\n去年 6 月首次推出测试版\n，此次正式版发布新增了安全凭证注入、PTY 终端支持、持久化代码解释器、文件系统监听、基于快照的会话恢复，以及按实际使用周期计费的 Active CPU 定价机制。来自 Cloudflare 团队的 Kate Reznykova 和 Mike Nomitch\n写道\n：\n我们如今拥有的东西已经截然不同。如今的沙箱是一个完整的开发环境：有可连接浏览器的终端、有具有持久状态的代码解释器、有带实时预览 URL 的后台进程、有能实时触发变更事件的文件系统、有用于安全凭证注入的出站代理，以及能实现近乎即时热启动的快照机制。\nCloudflare Sandbox 是一个容器，当通过名称进行请求时，它会按需启动，当处于空闲状态时，它会自动休眠，并在接收到新请求时重新激活。同一个沙盒可以通过一个统一的标识符从任何地方进行访问，为代理提供一个在各种交互中都能持续存在的有状态环境。该 SDK 提供了执行命令、克隆存储库、写入文件以及通过 TypeScript API 管理进程等方法。\n自测试版发布以来，主要改进集中在安全性、开发体验和成本方面。在安全性方面，\n出站 Workers\n提供了一个可编程的出站代理，可以拦截来自沙箱的出站请求，并在网络层注入凭证。代理永远不会看到令牌。开发者可以针对每个目标域名编写自定义的身份验证逻辑，针对每个沙箱应用基于身份的策略，并在任务进行过程中动态限制网络访问。Cloudflare 将此描述为一种零信任模型，即绝不向不受信任的工作负载授予任何令牌。\nclass\nOpenCodeInABox\nextends\nSandbox\n{\nstatic\noutboundByHost = {\n\"my-internal-vcs.dev\"\n:\n(\nrequest, env, ctx\n) =>\n{\nconst\nheadersWithAuth =\nnew\nHeaders(request.headers);\nheadersWithAuth.\nset\n(\n\"x-auth-token\"\n, env.SECRET);\nreturn\nfetch(request, { headers: headersWithAuth });\n}\n}\n}\n复制代码\n在开发体验方面，PTY 支持取代了早期代理系统中基于请求-响应的 shell 模拟机制，转而利用 WebSocket 代理提供的真实的伪终端会话。持久化代码解释器可以在不同的执行调用之间保持状态，因此变量和导入内容能在各个步骤之间得以保留，就像在 Jupyter 笔记本中一样。具备实时预览 URL 的后台进程使代理能够启动开发服务器并分享可工作的链接。基于 Linux inotify 构建的文件系统监听功能，允许代理实时响应文件变更。\n快照功能将于未来几周内推出，它可以保存容器的完整磁盘状态，并支持近乎即时的恢复。这使得代理能够实现会话分叉：从同一快照启动四个沙箱，并行探索不同的方案。Cloudflare 通过具体数据展示了这一功能的实际效果：克隆仓库、运行 npm install 并从头开始启动需要 30 秒，而从备份中恢复仅需 2 秒。\nFigma 正在该基础设施上运行生产级代理工作负载。Figma AI 与开发平台负责人 Alex Mullans 在\n公告\n中描述了这一用例：\nFigma Make 的设计初衷是帮助来自各行各业的开发者和创作者更快地将创意转化为成品。为了实现这一目标，我们需要一种基础设施解决方案，能够提供可靠且高度可扩展的沙箱环境，以便在其中运行不受信任的代理和用户编写的代码。\nAI 代理沙箱领域的竞争变得越来越激烈。E2B 采用为每个会话配备专用内核的 Firecracker microVM，据称约半数财富 500 强企业都已经采用该方案。Daytona 于 2025 年初从开发环境转型为 AI 代理基础设施。按照该公司的说法，使用 Docker 容器时沙箱创建可以在 90 毫秒以内完成。Modal 则致力于通过无服务器基础设施处理对 GPU 需求较高的 Python 工作负载。Vercel 推出了基于 Firecracker 的自有沙箱测试版。Cloudflare 服务的独特之处在于其全球网络的边缘分发能力，以及两层架构：用于临时代码执行的轻量级 V8 隔离环境\nDynamic Workers\n（该功能在同期的\nAgents Week\n活动中进入公开测试阶段），以及当代理需要包含 Git、Bash、开发服务器和多语言构建功能的完整操作系统时所使用的全容器化沙箱。\n在定价方面，Sandboxes 现在已经采用按实际 CPU 使用量计费的模式，仅对实际使用的 CPU 周期收费，而不是按照预先分配的资源收费。CPU 时间按每 vCPU-秒 0.00002 美元计费。标准套餐最多支持 15000 个并发轻量级实例、6000 个基础实例以及 1000 多个大型实例。SDK 版本为 0.8.9，相关\n文档\n已经发布。\n声明：本文为 InfoQ 翻译，未经许可禁止转载。\n原文链接：\nhttps://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/",
-    "content_source": "readability",
-    "content_chars": 2276,
-    "content_excerpt": "Cloudflare 在其\nAgents Week\n活动中宣布，Sandboxes 和 Cloudflare Containers\n正式上线\n，为 AI 代理工作负载提供隔离的持久化 Linux 环境。\n该服务于\n去年 6 月首次推出测试版\n，此次正式版发布新增了安全凭证注入、PTY 终端支持、持久化代码解释器、文件系统监听、基于快照的会话恢复，以及按实际使用周期计费的 Active CPU 定价机制。来自 Cloudflare 团队的 Kate Reznykova 和 Mike Nomitch\n写道\n：",
-    "title_zh": "Cloudflare Sandboxes 正式上线：给 AI 代理一套可持久化的隔离 Linux 环境",
-    "ai_summary": "Cloudflare 把代理沙箱从测试版推向正式版，重点补齐持久状态、安全凭证和按量计费。",
-    "summary_zh": "Cloudflare 在 Agents Week 期间正式发布 Sandboxes 与 Containers，为 AI 代理提供可休眠、可恢复、带真实终端和持久文件系统的隔离 Linux 环境。它的价值不只是“跑代码”，而是把代理执行、凭证注入、预览链接、快照恢复和成本控制打包成云端基础设施。",
-    "takeaways": [
-      "正式版新增安全凭证注入、PTY 终端、持久化代码解释器、文件监听和快照恢复等能力。",
-      "同一个沙盒可通过统一标识跨会话恢复，适合长任务代理和多方案并行探索。",
-      "Cloudflare 用 Active CPU 按实际 CPU 周期计费，试图在 E2B、Daytona、Modal、Vercel 等代理沙箱竞争中突出边缘网络优势。"
-    ],
-    "rewrite_body": "Cloudflare 在 Agents Week 上把 Sandboxes 和 Cloudflare Containers 推向正式版，定位是给 AI 代理工作负载使用的隔离、持久化 Linux 环境。相比早期测试版，它不再只是一个临时代码执行容器，而更像一套可被代理长期使用的云端开发环境。\n\n新版重点补齐了几类能力：真实 PTY 终端、可跨调用保留状态的代码解释器、带实时预览 URL 的后台进程、基于文件系统事件的监听机制，以及用于会话恢复的快照。对代理应用来说，这意味着它可以克隆仓库、安装依赖、启动服务、修改文件，并在下一次交互中继续沿用之前的环境。\n\n安全设计也是这次发布的重点。Cloudflare 提供出站 Workers 作为可编程代理，在网络层为目标域名注入凭证，而不是把令牌直接交给沙箱内的不受信任代码。开发者可以按沙盒和目标服务设置访问策略，在任务运行过程中动态收紧网络权限。\n\n快照功能预计随后推出，Cloudflare 给出的场景是把一个完整磁盘状态保存下来，再从同一快照快速分叉出多个沙盒并行尝试方案。官方示例称，从头克隆仓库并安装依赖可能需要 30 秒，而从快照恢复只需要约 2 秒。\n\n这类基础设施正在成为 AI 代理落地的关键拼图。E2B、Daytona、Modal、Vercel 都在争夺“代理安全运行环境”这层市场，Cloudflare 的差异化在于全球边缘网络、Dynamic Workers 的轻量隔离，以及需要完整操作系统时的容器沙箱组合。",
-    "editorial_rewrite": true
-  },
-  {
-    "id": "e4ba503cea6c",
-    "title": "Attack of the killer script kiddies",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-28T11:00:00",
-    "summary": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected with",
-    "collected_at": "2026-04-28T19:29:32.184524",
-    "content_text": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA’s Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected with artificial flaws. The teams were capable enough to identify most of the artificial bugs, but their automated tools went beyond that — they found more than a dozen bugs that DARPA hadn’t inserted at all.\nEven before the security earthquake that Anthropic delivered this month with Claude Mythos — the new AI model that seems to find vulnerabilities in every piece of software it’s pointed at — automated systems were growing increasingly capable of finding coding flaws. And fears are growing that not only can AI detect these flaws, but also be used to exploit them, putting hacking skills into the hands of everyone across the planet.\n“Mythos or not, this is coming.”\nThis isn’t an empty threat. For decades, this type of no-skill hacker, known as a script kiddie, has wreaked havoc, running scripts they ripped from the internet or copied from exploit tool kits. They didn’t fully understand or have the technical know-how to write these scripts themselves. And yet they were still able to deface websites and propagate viruses.\nWhat’s happening now represents a major escalation, where people without technical backgrounds are able to use AI to enhance their capabilities in a way that wasn’t possible with simple scripts. It is likely to have far more wide-reaching repercussions.\n“There’s a tidal wave coming. You can see it. We can all see it,” said Dan Guido, CEO and cofounder of cybersecurity firm Trail of Bits, which was a runner-up in the challenge. “Are you going to lay down and die, or are you going to do something about it?”\nImage: Joseph Rogers / The Verge\nEven beyond Project Glasswing, Anthropic is trying to prevent the misuse of its software by criminals. A week after announcing Mythos, the company released Claude Opus 4.7, which for the first time built in safeguards meant to block malicious cybersecurity requests. (Security professionals who want to use the model defensively can apply to the company’s Cyber Verification Program.)\nAnthropic’s announcement of Mythos sent shockwaves throughout the industry, but there were warning signs of AI’s cybersecurity prowess prior to it. In June 2025, the autonomous offensive security platform XBOW beat out human hackers to top the leaderboard of HackerOne, a bug bounty platform, indicating big leaps in the ability of AI models to find bugs.\nBy the time AIxCC rolled around, “there were already 10 to 20 different bug-finding systems that could find orders of multitude more bugs than we could patch,” Guido said. “This is actually not a new problem.”\n“2026 is the year when all security debt comes due… 2026 is the make-it-or-break-it year.”\nAI is great at pattern matching, and it’s becoming easier and easier for people to find variants of bugs that are already known and ones that have not yet been discovered. And writing exploits is becoming easier as well.\n“You can use AI tools and with very minimal human guidance, and in some cases no human guidance, find a zero day in widely used software,” said Tim Becker, senior security researcher at Theori, which was also a finalist in the competition.\nThe concern is palpable across the industry, and improvements to models — along with improved understanding of their capabilities — are happening at lightning speed.\nOpen-weight models, or models whose trained parameters (also known as weights) are publicly available, also pose risk. In fact, sophisticated threat actors would be far more likely to run their own deployments to prevent the exploits from being exposed on Anthropic or OpenAI servers, Becker said, as Anthropic\nmay retain data to monitor abuse\n. And the industry is bracing for what may come next. Other model creators may not be as cautious as Anthropic, potentially unleashing their powerful new tools straight to the public.\n“Mythos or not, this is coming,” Guido says.\nMythos represents a step up at writing exploits, but current models are capable, too. Security researchers are already using more widely available models to report vulnerabilities to vendors before they’re exploited in the wild. That means there’s also the risk of malicious actors using them for ill purposes, such as creating exploits for oppressive regimes or stealing sensitive data on their own.\nIndustry experts predict that the advancement in AI security capabilities is going to lead to a lot more exploits. Bad actors could direct AI to find bugs in uncommon pieces of software that no one previously would have put in the effort to exploit.\n“The bar to diving into a new million-line codebase and finding a bug is so much lower than it used to be.”\n“Now, because effort is cheap, you can do things that are lower down the food chain. You can write exploits for software that only one company has. You can write exploits for software that exists in only one configuration that one company has. And you can do it on the fly. So during the middle of an intrusion into some hospital and there’s a wall standing between you and what you want, you can just point an LLM at that wall and say, ‘Figure out a flaw here,’ and it can grind until it’s successful. And it’ll find some vulnerability, it can find some configuration, it’ll run an exploit, for a weakness that no one ever has before, and it’ll do it with almost no effort on the part of the user… the hacker… the script kiddie,” said Guido.\nThis supercharges script kiddies, he says, because they’ll be able to operate on their feet without the constraints of memorizing the weaknesses in random UNIX utilities but instead defaulting to the pretraining in the tool they are using. They’ll be able to iterate through exploits targeting weaknesses at machine speed, something that no human — let alone script kiddie — can do.\nIt’s hard to determine exactly how much this is improving attacker capabilities, though there definitely\nseems to be a correlation\n. Security researchers can help us try to wrap our heads around the scale of bugs being discovered.\nBefore Becker started working on automatic bug finding with AI, he worked on vulnerability research, finding zero days and reporting them to maintainers. He said it used to take him weeks or months to find a high-impact vulnerability in a brand-new codebase, and now it only takes hours.\n“I just drop the code into our AI bug-finding tool and in a couple hours I get a report with a bunch of candidate vulnerabilities, and most of them end up checking out and being real issues,” he said. “The bar to diving into a new million-line codebase and finding a bug is so much lower than it used to be.”\nEvery release of an automated tool has led to some level of panic about how it might be exploited, whether that’s text-to-image generators or open-source tools like the exploit development and delivery system Metasploit. The panic even goes back to 1995, when a free software vulnerability scanner named\nSATAN\n(an acronym for Security Administrator Tool for Analyzing Networks) was released.\n“You can just point an LLM at that wall and say, ‘Figure out a flaw here,’ and it can grind until it’s successful.”\nOften automated tools don’t lead to the same level of mayhem that had been expected or predicted, due to prevention measures put in place, low adoption rates by attackers, or other factors.\nJoshua Saxe, CTO and cofounder of Security Superintelligence Labs,\nwrote in a blog post\nthat exploits themselves don’t cause cyberattacks, and that adoption of AI vulnerability research tools has been incremental.\n“There seems to be an implicit mental model where some new adversarial tool becomes available... and therefore we will immediately see criminal behavior with those tools. It’s a kind of mental model where you don’t even have to think about or do any empirical inquiry into what the humans are actually doing,” he told\nThe Verge\n.\nSaxe points out that it’s possible there’ll be friction in various attacker constituencies adopting these tools within their existing workflows and organization cultures.“There’s a whole human and organizational element here,” he said.\n“It may be that there are certain attacker constituencies that are going to jump on these new tools, or it might be that the adoption curve is quite slow.” Some may keep breaking into networks by phishing or using exploits they already have, while others might begin developing new exploits using these tools.\nImage: Joseph Rogers / The Verge\nWhile the rate of adoption is impossible to predict, there are steps companies can take to prepare for the coming onslaught of vulnerability reports.\nKatie Moussouris, founder and CEO of Luta Security, coined the term “\nVulnapalooza\n” in a blog post complete with a concert poster and festival survival guide for security teams, explaining that this is the moment for companies to secure their weaker points. The advice for companies is not different from standard best practices: segmentation, working on identity and access management, using memory-safe code, and using phishing-resistant authentication and up-to-date software.\nThe Cloud Security Alliance\nreleased an expedited strategy briefing\non developing a “Mythos-ready” security plan detailing many of these concepts. The report also emphasized the need to not only patch vulnerabilities but also to identify which ones to prioritize. But the need to match machine speed threats is new, and the amount of bug reports is already skyrocketing, leading to the need to prepare for more incidents and mitigate and contain them at a faster rate.\nMoussouris says that many people in cybersecurity roles have been laid off because of AI’s efficiencies, even though those efficiencies are exactly why more humans need to remain in the mix. Companies will need human threat hunters, threat intelligence officers, and incident responders to deal with the onslaught of new exploits. And they’ll need people to decide which patches to prioritize and implement.\n“We don’t have the AI defensive equivalent to automate all of those tasks, and I think we’re going to need to staff up and hire a lot of people,” she said. And organizations will need to build out secure software and secure architecture for networks to avoid ending up in an endless cycle of patching. “You have to build more secure software in the first place. We can’t incident respond our way to resilience.”\nOrganizations that aren’t ready to hire people could at least streamline their vendor onboarding processes to make it easier to bring on people or services as needed. “You don’t want to be stuck in a four-month procurement process for a vendor when you’re under fire and can’t keep up with the patch rollout,” Moussouris said.\nWhile many are concerned about vulnerabilities, Moussouris believes the so-called “vulnpocalypse” will actually manifest as a “patchpocalypse.”\n“The model has already identified thousands of vulnerabilities, and that patch tsunami that’s about to come from this coordination effort, that’s going to be the first major pain point,” she said.\nOrganizations that are slow to patch their systems may have a rude awakening. Waiting too long risks active attacks on services that target vulnerabilities found by AI, perhaps even using exploits written by the models.\n“From the time a vulnerability is announced to the time where there is exploit code available has now shrunk to pretty much zero, and that is a major adjustment that I think people will have to take into account in their risk assessments and how long they can take to do things and how many resources they are applying towards this problem,” she explained.\nThere is an opportunity to use AI to at least speed up the remediation or mitigation process. Becker says that Theori is building a commercial tool called Xint that it’s been running on open-source codebases, manually reporting high-severity findings to maintainers by sending detailed reports along with remediation suggestions on its own dime, both as a community hardening project and to demonstrate the tool’s capabilities. Xint’s current version was\nable to find all the bugs Mythos did\nwhen scanning the same codebases. It also found 12 additional zero-day vulnerabilities that were not part of Anthropic’s announcement.\nBut mitigating these bugs will not be as quick as finding them because it requires engineers who are extremely familiar with the codebase to determine whether the patches are the best way to fix the issues found or whether they may make the code less maintainable or harder to understand in the future. Sometimes a patch represents a way to fix a problem, but not the best way, so it’ll take human time and effort to get the solutions to the finish line.\nThe huge surge in bugs being reported can lead to a long queue of things to patch, especially for\nopen-source maintainers\n, who may be unable to keep up with the load.\nWhile not all bugs are useful in an attacker’s tool kit, sorting through the pile to determine which ones are a priority to fix can be almost as difficult as fixing them.\n“A lot of the prioritization needs to be contextual,” Moussouris said. For example, a very bad bug running internally that would be hard for an outsider to access might be lower priority than a less critical bug that is exposed on the company’s perimeter.\nBeyond prioritization of bugs, organizations will also need to decide when to apply patches that restrict functionality and may even lead to downtime, and when to wait. The fewer security controls they have in place, the more time they will need for patching.\nSimply putting out a patch makes it easier for attackers to reverse engineer the bug fix and exploit vulnerabilities they may have been otherwise unaware of on devices that have not yet been updated. That means that consumers, too, will need to get used to updating their software as critical fixes for security flaws increase dramatically. And organizations will want to invest in secure architecture to minimize the amount of patches they need to manage in the first place.\n“The thing is, it’s now or never. There’s a tidal wave coming.”\nBut as Moussouris frames it, it doesn’t have to be a reason to despair. “You don’t have to treat it like this is going to be the worst thing that ever happened,” she told\nThe Verge\n. “You can treat it like, this is our opportunity to shore up some defenses and get some budget to do things we’ve been putting off.”\nWhatever attitude organizations take, they need to be prepared. The stakes are higher, and even script kiddies have a lot more opportunities to find and exploit vulnerabilities. Companies need a plan to deal with this new threat of AI-enabled attacks.\n“2026 is the make-it-or-break-it year,” Guido said. Companies need to secure their systems now, while they still have time to get ahead. “And if they don’t do that, we’re going to end 2026 with everything on fire.”\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nYael Grauer\nAI\nSecurity\nTech",
-    "content_source": "readability",
-    "content_chars": 15232,
-    "content_excerpt": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA’s Artificial Intelligence Cyber Challenge (AIxCC). The tools had scanned 54 million lines of actual software code that DARPA had injected with artificial flaws. The teams were capable enough to identify most of the artificial bugs, but their automated tools went beyond that — they found more than a dozen bugs that DARPA hadn’t inserted at all.\nEven before the security earthquake that Anthropic delivered this month with Claude Mythos — the new AI model that seems to find vulnerabilities in every piece of software it’s pointed at — automated systems were growing increasingly capable of finding coding flaws. And fears are growing that not only can AI detect these flaws, but also be used to exploit them, putting hacking skills into the hands of everyone across the planet.\n“Mythos or not, this is coming.”\nThis isn’t an empty threat. For decades, this type of no-skill hacker, known as a script kiddie, has wreaked havoc, running scripts they ripped from the internet or copied from exploit tool kits. They didn’t fully understand or have the technical know-how to write these scripts themselves. And yet they were still able to deface websites and propagate viruses.\nWhat’s happening now represents a major escalation, where people without technical backgrounds are able to use AI to enhance their capabilities in a way that wasn’t possible with simple scripts. It is likely to have far more wide-reaching repercussions.\n“There’s a tidal wave coming. You can see it. We can all see it,” said Dan Guido, CEO and cofounder of cybersecurity firm Trail of Bits, which was a runner-up in the challenge. “Are you going to lay down and die, or are you going to do something about it?”\nImage: Joseph Rogers / The Verge\nEven beyond Project Glasswing, Anthropic is trying to prevent the misuse of its software by criminals. A week after announcing Mythos, the company released Claude Opus 4.7, which for the first time built in safeguards meant to block malicious cybersecurity requests. (Security professionals who want to use the model defensively can apply to the company’s Cyber Verification Program.)\nAnthropic’s announcement of Mythos sent shockwaves throughout the industry, but there were warning signs of AI’s cybersecurity prowess prior to it. In June 2025, the autonomous offensive security platform XBOW beat out human hackers to top the leaderboard of HackerOne, a bug bounty platform, indicating big leaps in the ability of AI models to find bugs.\nBy the time AIxCC rolled around, “there were already 10 to 20 different bug-finding systems that could find orders of multitude more bugs than we could patch,” Guido said. “This is actually not a new problem.”",
-    "title_zh": "杀手脚本小子的攻击",
-    "summary_zh": "去年 8 月，业内一些最优秀的网络安全团队齐聚拉斯维加斯，在 DARPA 人工智能网络挑战赛 (AIxCC) 上展示他们的 AI 错误查找系统的实力。这些工具扫描了 DARPA 注入的 5400 万行实际软件代码",
-    "ai_summary": "去年 8 月，业内一些最优秀的网络安全团队齐聚拉斯维加斯，在 DARPA 人工智能网络挑战赛 (AIxCC) 上展示他们…"
-  },
-  {
-    "id": "reddit-1sxxr4u",
-    "title": "I built a dataset of 120+ AI coding tools rated by free tier longevity, here's what the data actually shows (Completely free ) [P] [R]",
-    "url": "https://reddit.com/r/MachineLearning/comments/1sxxr4u/i_built_a_dataset_of_120_ai_coding_tools_rated_by/",
-    "source": "r/MachineLearning",
-    "lang": "en",
-    "published": "2026-04-28T10:44:35",
-    "summary": "background: i kept hitting paywalls i didn't see coming. tool says free, you integrate it into your workflow, three days later you're locked out. so i started keeping structured notes, then turned it into a proper browsable dataset. **what i tracked for each tool:** * free tier generosity score (0-1",
-    "points": 1,
-    "collected_at": "2026-04-28T10:53:45.222479",
-    "title_zh": "我构建了一个由 120 多个 AI 编码工具组成的数据集，这些工具按免费等级寿命进行评级，以下是数据实际显示的内容（完全免费）[P] [R]",
-    "summary_zh": "背景：我一直在点击付费墙，但我没有预见到会发生这种情况。工具说免费，你将它集成到你的工作流程中，三天后你就被锁定了。所以我开始保留结构化笔记，然后将其转变为适当的可浏览数据集。 **我对每个工具的跟踪内容：** * 免费等级慷慨分数（0-1",
-    "ai_summary": "背景：我一直在点击付费墙，但我没有预见到会发生这种情况。工具说免费，你将它集成到你的工作流程中，三天后你就被锁定了。所以…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning/comments/1sxxr4u/i_built_a_dataset_of_120_ai_coding_tools_rated_by/"
-  },
-  {
-    "id": "75fd6d91695c",
-    "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
-    "url": "https://www.qbitai.com/2026/04/410450.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-28T10:29:28",
-    "summary": "助力更多企业与个人低门槛迈入AI时代",
-    "collected_at": "2026-04-28T19:22:48.384858",
-    "content_text": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用\n量子位的朋友们\n2026-04-28\n18:29:28\n来源：\n量子位\n4月28日，支付宝正式上线“支付宝AI收”，帮助商家和个人开发者通过OpenClaw（俗称“龙虾”）这类AI Agent提供商业化服务，实现按调用即时收款。这是继推出“AI付”之后，支付宝在智能体支付领域的进一步布局。\n例如，当用户安装某Skill后，对“龙虾”说，“帮我整理最新AI行业的分析报告”，“龙虾”向服务端发起资源请求、询价，并为用户反馈“需支付0.02元才能获取结果”，用户下载安装“支付宝AI付”Skill后授权并完成支付，即可获取资源服务。\n该产品已在支付宝官网A2A交易专区上架（\nhttps://aipay.alipay.com/\n)，接入流程也压缩至三步：入驻签约、创建应用、安装SDK，即可实现每次被AI Agent调用时触发询价、结算。截至12月31日，个人开发者使用还可享受0费率。\n此外，已使用支付宝收单的商家可直接将其服务Skill接入“龙虾”等AI Agent，在用户发出指令、下单购买后自动完成收款，无需重新搭建收单工具。\n面对AI Agent催生的新经济时代，支付宝加速适配AI时代的支付新基建，助力更多企业与个人低门槛迈入AI时代，分享AI商业化红利。从“AI付”到“AI收”，支付宝正构建起覆盖AI消费与AI经营的全新支付体系。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 742,
-    "content_excerpt": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用\n量子位的朋友们\n2026-04-28\n18:29:28\n来源：\n量子位\n4月28日，支付宝正式上线“支付宝AI收”，帮助商家和个人开发者通过OpenClaw（俗称“龙虾”）这类AI Agent提供商业化服务，实现按调用即时收款。这是继推出“AI付”之后，支付宝在智能体支付领域的进一步布局。\n例如，当用户安装某Skill后，对“龙虾”说，“帮我整理最新AI行业的分析报告”，“龙虾”向服务端发起资源请求、询价，并为用户反馈“需支付0.02元才能获取结果”，用户下载安装“支付宝AI付”Skill后授权并完成支付，即可获取资源服务。\n该产品已在支付宝官网A2A交易专区上架（\nhttps://aipay.alipay.com/"
-  },
-  {
     "id": "hn-47679121",
     "title": "Project Glasswing: Securing critical software for the AI era",
     "url": "https://www.anthropic.com/glasswing",
@@ -4570,7 +4577,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-05T02:06:25.988260"
+    "collected_at": "2026-05-05T07:59:38.791368"
   },
   {
     "id": "hn-47363754",
@@ -4581,7 +4588,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-05T02:06:25.988395"
+    "collected_at": "2026-05-05T07:59:38.791462"
   },
   {
     "id": "hn-47340079",
@@ -4592,7 +4599,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-05T02:06:25.987917"
+    "collected_at": "2026-05-05T07:59:38.791127"
   },
   {
     "id": "hn-47225130",
@@ -4603,7 +4610,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-05T02:06:25.988454"
+    "collected_at": "2026-05-05T07:59:38.791503"
   },
   {
     "id": "hn-47136179",
@@ -4614,7 +4621,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-05T02:06:25.988081"
+    "collected_at": "2026-05-05T07:59:38.791248"
   },
   {
     "id": "hn-46990729",
@@ -4625,7 +4632,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-05T02:06:25.988037"
+    "collected_at": "2026-05-05T07:59:38.791218"
   },
   {
     "id": "hn-46574276",
@@ -4636,7 +4643,7 @@
     "published": "2026-01-11T10:26:18Z",
     "summary": "Don't fall into the anti-AI hype",
     "points": 1296,
-    "collected_at": "2026-05-05T02:06:25.988615"
+    "collected_at": "2026-05-05T07:59:38.791614"
   },
   {
     "id": "hn-45941596",
@@ -4647,7 +4654,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-05T02:06:25.988471"
+    "collected_at": "2026-05-05T07:59:38.791515"
   },
   {
     "id": "hn-45930151",
@@ -4658,7 +4665,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-05T02:06:25.988531"
+    "collected_at": "2026-05-05T07:59:38.791555"
   },
   {
     "id": "hn-45722069",
@@ -4669,7 +4676,7 @@
     "published": "2025-10-27T15:27:38Z",
     "summary": "It's insulting to read AI-generated blog posts",
     "points": 1300,
-    "collected_at": "2026-05-05T02:06:25.988598"
+    "collected_at": "2026-05-05T07:59:38.791602"
   },
   {
     "id": "hn-44972151",
@@ -4680,7 +4687,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-05T02:06:25.988183"
+    "collected_at": "2026-05-05T07:59:38.791316"
   },
   {
     "id": "hn-44396518",
@@ -4691,7 +4698,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-05T02:06:25.988352"
+    "collected_at": "2026-05-05T07:59:38.791432"
   },
   {
     "id": "hn-44314423",
@@ -4702,7 +4709,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-05T02:06:25.988413"
+    "collected_at": "2026-05-05T07:59:38.791474"
   },
   {
     "id": "hn-44163063",
@@ -4713,7 +4720,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-05T02:06:25.988004"
+    "collected_at": "2026-05-05T07:59:38.791192"
   },
   {
     "id": "hn-42910910",
@@ -4724,7 +4731,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-05T02:06:25.988200"
+    "collected_at": "2026-05-05T07:59:38.791328"
   },
   {
     "id": "hn-41392128",
@@ -4735,7 +4742,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-05T02:06:25.988102"
+    "collected_at": "2026-05-05T07:59:38.791264"
   },
   {
     "id": "hn-41386319",
@@ -4746,7 +4753,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-05T02:06:25.988121"
+    "collected_at": "2026-05-05T07:59:38.791277"
   },
   {
     "id": "hn-41069829",
@@ -4757,7 +4764,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-05T02:06:25.988550"
+    "collected_at": "2026-05-05T07:59:38.791568"
   },
   {
     "id": "hn-41046773",
@@ -4768,7 +4775,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-05T02:06:25.987984"
+    "collected_at": "2026-05-05T07:59:38.791157"
   },
   {
     "id": "hn-40767459",
@@ -4779,7 +4786,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-05T02:06:25.988569"
+    "collected_at": "2026-05-05T07:59:38.791581"
   },
   {
     "id": "hn-39918245",
@@ -4790,7 +4797,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-05T02:06:25.988490"
+    "collected_at": "2026-05-05T07:59:38.791528"
   },
   {
     "id": "hn-39526057",
@@ -4801,7 +4808,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-05T02:06:25.987943"
+    "collected_at": "2026-05-05T07:59:38.791143"
   },
   {
     "id": "hn-38544729",
@@ -4812,7 +4819,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-05T02:06:25.988055"
+    "collected_at": "2026-05-05T07:59:38.791230"
   },
   {
     "id": "hn-37021160",
@@ -4823,7 +4830,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-05T02:06:25.988220"
+    "collected_at": "2026-05-05T07:59:38.791341"
   },
   {
     "id": "hn-31812259",
@@ -4834,7 +4841,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-05T02:06:25.988431"
+    "collected_at": "2026-05-05T07:59:38.791486"
   },
   {
     "id": "hn-18249755",
@@ -4845,7 +4852,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-05T02:06:25.988163"
+    "collected_at": "2026-05-05T07:59:38.791302"
   },
   {
     "id": "hn-17022963",
@@ -4856,7 +4863,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-05T02:06:25.988146"
+    "collected_at": "2026-05-05T07:59:38.791291"
   },
   {
     "id": "hn-15892066",
@@ -4867,7 +4874,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-05T02:06:25.988377"
+    "collected_at": "2026-05-05T07:59:38.791449"
   },
   {
     "id": "hn-6830566",
@@ -4878,6 +4885,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-05T02:06:25.988507"
+    "collected_at": "2026-05-05T07:59:38.791539"
   }
 ]
