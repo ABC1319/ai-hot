@@ -1,5 +1,204 @@
 [
   {
+    "id": "ced030e51f93",
+    "title": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+    "url": "https://www.infoq.cn/article/G1OWuJNmI9slcpLWv5YR?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-06T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-06T02:05:36.517972",
+    "content_text": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\nOPPO 高级算法工程师刘鹏已确认出席 “Agent 系统架构与工程化实践” 专题，并发表题为《从唤醒到陪伴：多模态 Agent 如何重构手机交互范式》的主题分享。智能手机每天承载着用户大量的内容消费与操作行为，但传统 AI 助手仅能被动响应单次唤醒，无法真正\"陪伴\"用户的手机使用旅程。本次分享介绍的系统，以手机屏幕时序视频流为输入，构建了一个具备持续感知、个性化记忆与主动执行能力的多模态伴随 Agent。刘鹏将重点分享三个算法核心：一是屏幕多模态意图理解；二是时序记忆管理；三是工具执行与结果融合，并且结合真实踩坑案例，分享陪伴类 Agent 从 0 到 1 落地的完整经验。\n刘鹏，深耕大模型与多模态方向近三年，专注视频智能体工程落地与时序感知记忆管理机制研究。参与了 OPPO 一键问屏与实景问答两款多模态 Agent 产品的研发，历史迭代产品分别在 2024、2025 年 OPPO 开发者大会正式亮相。拥有 7 年一线算法工程经验，长期负责从模型到系统的全链路交付。他在本次会议的详细演讲内容如下：\n演讲提纲：\n伴随助手 Agent 整体设计\n范式跃迁：从\"唤醒-响应\"到\"持续感知-陪伴\"\n三大核心挑战：实时性、时序性、意图模糊性\n系统架构全景概览\n2. 屏幕多模态意图理解\n多维并行意图识别架构设计\n意图冲突时的融合决策策略\n规则驱动与模型驱动的边界：混合架构的演进与取舍\n3. 时序记忆管理\n流式多层级多场景 Memory 架构设计\n视频流有效信息提取与噪音过滤实践\n时间窗口选择困境与时间衰减检索机制\n4. 工具执行与结果融合\n旅行生活场景的专属子 Agent 设计\n多工具并发执行与降级策略\n误触发治理与多链路结果融合排序\n5. 总结与展望\n效果呈现与已知边界\n从被动响应到主动陪伴\n从会话记忆到用户心智模型\n听众收益：\n全面了解 OPPO 从 0 到 1 搭建的多模态 Agent 架构设计和落地经验\n除此之外，本次大会还策划了端侧 AI、物理与数字空间智能化、世界模型与多模态智能突破、Agent 架构与工程化实践、Agent 安全与可信治理、企业级研发体系重构、AI 原生数据工程、AI 时代的个人提效与组织变革等 14 个专题论坛，届时将有来自不同行业、不同领域、不同企业的 50+资深专家在现场带来前沿技术洞察和一线实践经验。\n更多详情可扫码或联系票务经理 13269078023 进行咨询。",
+    "content_source": "trafilatura",
+    "content_chars": 1296,
+    "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\nOPPO 高级算法工程师刘鹏已确认出席 “Agent 系统架构与工程化实践” 专题，并发表题为《从唤醒到陪伴：多模态 Agent 如何重构手机交互范式》的主题分享。智能手机每天承载着用户大量的内容消费与操作行为，但传统 AI 助手仅能被动响应单次唤醒，无法真正\"陪伴\"用户的手机使用旅程。本次分享介绍的系统，以手机屏幕时序视频流为输入，构建了一个具备持续感知、个性化记忆与主动执行能力的多模态伴随 Agent。刘鹏将重点分享三个算法核心：一是屏幕多模态意图理解；二是时序记忆管理；三是工具执行与结果融合，并且结合真实踩坑案例，分享陪伴类 Agent 从 0 到 1 落地的完整经验。\n刘鹏，深耕大模型与多模态方向近三年，专注视频智能体工程落地与时序感知记忆管理机制研究。参与了 OPPO 一键问屏与实景问答两款多模态 Agent 产品的研发，历史迭代产品分别在 2024、2025 年 OPPO 开发者大会正式亮相。拥有 7 年一线算法工程经验，长期负责从模型到系统的全链路交付。他在本次会议的详细演讲内容如下：\n演讲提纲：\n伴随助手 Agent 整体设计\n范式跃迁：从\"唤醒-响应\"到\"持续感知-陪伴\"\n三大核心挑战：实时性、时序性、意图模糊性\n系统架构全景概览\n2. 屏幕多模态意图理解"
+  },
+  {
+    "id": "v2ex-1210410",
+    "title": "都 2026 年了，为什么还有人觉得 AMD 比 Nvidia 更适合部署本地大模型？",
+    "url": "https://www.v2ex.com/t/1210410",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-06T01:16:58",
+    "summary": "五一节假日期间，有一个同事想本地部署大模型，在群里询问，我们都给他推荐了 Nvidia 的卡，结果他去刷 B 站，选择了 AMD AI MAX+ 395 。 难道小白真的就这样被割韭菜吗？",
+    "collected_at": "2026-05-06T02:05:38.090793"
+  },
+  {
+    "id": "8dfae29bb082",
+    "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+    "url": "https://www.qbitai.com/2026/05/412995.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-06T00:22:35",
+    "summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
+    "collected_at": "2026-05-06T02:03:08.984067",
+    "content_text": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁\n梦晨\n2026-05-06\n08:22:35\n来源：\n量子位\n奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看\n梦晨 发自 凹非寺\n量子位 | 公众号 QbitAI\nChatGPT默认模型，今天大升级。\n新版本\nGPT-5.5 Instant\n， 结合了5.5的基础智力 + 极速回复。\n免费用户也能用\n。\n最关键的四点：\n幻觉减少了52.5%。\n新增“记忆来源”，展示过去的哪条对话影响了本次回复。\n答案更简洁：减少不必要的追问、省略多余的表情符号、避免繁复的格式。\n更温暖、更自然的语气\n奥特曼特别强调，\n如果你最近都只用深度思考模型了，不妨回来看看\n。\n第一刀先砍幻觉\n作为默认模型，最先要补的是更准确，少编。\n与前代相比，GPT-5.5 Instant在事实准确性方面有了显著提高，特别是\n医疗、法律和金融等高风险提示\n中，产生的虚假陈述减少了52.5%。\n在\n用户之前已标记为存在事实错误的棘手对话\n中，不准确陈述减少了 37.3%。\nOpenAI提供了一个代数问题作为示例：用户上传了一张手写方程式的照片，其中包含一个计算错误。\nGPT-5.3 Instant最初认同用户的解法，随后发现x=3不成立，却错误地得出结论：该方程式无解。\nGPT-5.5 Instant起初也认同用户的计算，但随后发现了用户重新排列方程式时的错误，并求解了修正后的二次方程。\n这个变化放在默认模型上，意义更大。\n因为很多人每天问ChatGPT的问题，正是合同、报销、病症解释、代码报错、作业思路。\n这些场景里，模型一本正经讲错，比“不会”更麻烦。\n基准测试结果也印证了这一点。在竞争激烈的数学测试AIME 2025中，准确率从65.4%升至81.2%。\n测试博士水平科学推理能力的GPQA，准确率从78.5%提升至85.6%。\n解读和推理科学图表的基准测试CharXiv的准确率也从75.0%提升至81.6%。\nMMMU-Pro测试用于衡量模型处理文本和图像中专家级问题的能力，其准确率从69.2%提升至76.0%。\nOmniDocBench 测试（用于从复杂文档中提取结构化数据）的错误率则从14.6%下降至12.5%。\n少说废话，也是一种能力\n答得更准之后，还有另一个老问题。\n答得太长。\n这次GPT-5.5 Instant的风格变化，核心是\n更短更聚焦，但不丢实质信息\n。\n以前同一个问题，有时候会先来一大段免责声明，再堆三层列表，最后还追问一句“你希望我继续吗”。\n现在OpenAI的说法是：\n减少过度格式化，减少不必要的追问，也减少没必要出现的表情符号\n。\n在这个例子中，GPT-5.5 Instant使用的单词数减少了 30.2%，行数减少了29.2%。\n把握了恰当的语气：非正式、实用且符合职场规范，避免了过度解释。\n针对不同情况提供了可用的方案，而且对事不对人。\nOpenAI认为，GPT-5.3 Instant给的答案更全面，尤其是在“不该做什么”部分，但对于一个非正式的建议提示来说，显得有些过于复杂，结构和润色可能超出了用户的实际需求。\n记忆更强，但让你能控制。\nGPT-5.5 Instant更善于使用你已经给过ChatGPT的上下文。\n包括\n连接的邮箱，过去的历史对话，上传过的文件\n。\n关键它能判断什么时候这些上下文真的能让回答变好，而\n不是每次都硬套记忆\n。\n这次OpenAI还引入了“记忆来源”功能，会向用户显示哪些记忆影响了本次回复。\n如果某条记忆过时了，用户还可以更正或删除。\n什么时候能用上？\nGPT-5.5 Instant从5月5日开始向所有ChatGPT用户滚动上线，替代GPT-5.3 Instant作为默认模型。\nAPI里对应的是chat-latest。\n旧模型不会立刻消失，付费用户还能在模型配置里继续访问GPT-5.3 Instant三个月，之后再退役\n个性化增强功能会先向Plus和Pro用户的网页端推出，移动端随后上线。Free、Go、Business、Enterprise会在后续几周扩展。\n参考链接：\n[1]\nhttps://openai.com/index/gpt-5-5-instant/\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 1904,
+    "content_excerpt": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁\n梦晨\n2026-05-06\n08:22:35\n来源：\n量子位\n奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看\n梦晨 发自 凹非寺\n量子位 | 公众号 QbitAI\nChatGPT默认模型，今天大升级。"
+  },
+  {
+    "id": "881da759af04",
+    "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
+    "url": "https://36kr.com/p/3797041945304327?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-05T23:55:08",
+    "summary": "今日热点导览 分析师称iPhone 18 Pro定价策略激进，起步价8999元 胖东来郑州店注册成立，预计今年10月开业 保时捷卖掉布加迪，预计2026年销量下滑至3万辆 马斯克就推特持股披露诉讼与美证监会达成和解 三星继承人已付清12万亿韩元遗产税 TOP 3 大新闻 豆包将在免费模式外新增付费订阅，官方回应 近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。 另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作",
+    "collected_at": "2026-05-06T02:05:34.979543",
+    "content_text": "今日热点导览\n- 分析师称iPhone 18 Pro定价策略激进，起步价8999元\n- 胖东来郑州店注册成立，预计今年10月开业\n- 保时捷卖掉布加迪，预计2026年销量下滑至3万辆\n- 马斯克就推特持股披露诉讼与美证监会达成和解\n- 三星继承人已付清12万亿韩元遗产税\nTOP 3 大新闻\n豆包将在免费模式外新增付费订阅，官方回应\n近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。\n另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。（第一财经）\n抖音集团副总裁：网传所谓红果短剧收费的消息不实\n5月4日深夜，抖音集团副总裁李亮在社交平台发文表示，网传所谓红果短剧收费的消息不实，实际情况是：为持续丰富平台视频内容生态，满足大家多样化的观看需求，红果短剧陆续引入了一些影视内容。依据相关影视版权方合规要求与行业惯例，该部分少数影视内容需开通VIP权限观看。\n而免广告会员服务，只是满足用户差异化体验的自愿选项，不会强制收费，也不会改变用户免费追剧的核心模式。不管是免广告的VIP服务，还是极少量需VIP才能观看的影视内容，都是2024年2月红果早期就有的功能，并不是近期的新动作。（界面新闻）\n苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼\n苹果周二就一起股东诉讼达成和解，赔偿金额为2.5亿美元。该诉讼源于该公司推迟了其Siri语音助手的人工智能升级。该诉讼由彼得·兰德谢夫特于2024年在加利福尼亚州联邦法院提起，起因是这家iPhone制造商在2024年年度软件开发者大会上宣布了一系列AI升级功能 并开始投放广告，称这些功能将于当年秋季随新款iPhone一同推出。但最终发布的iPhone并未包含这些功能，原告方声称这损害了股东利益。（新浪财经）\n大公司/大事件\n分析师称iPhone 18 Pro定价策略激进，起步价8999元\n分析师Jeff Pu在最新一份报告中称，苹果将对iPhone 18 Pro和iPhone 18 Pro Max采取激进的定价策略，256GB起步版本价格保持不变。这意味着iPhone 18 Pro起步价是8999元，iPhone 18 Pro Max起步价是9999元。在全行业普遍面临涨价压力的背景下，苹果的这一稳定定价策略显得极具市场杀伤力。\n值得一提的是，iPhone 18 Pro系列256GB版本虽然实现了加量不加价，但是大内存版本仍有可能会涨价。苹果这么做既能保证自身的利润空间，又能趁机抢占安卓阵营的高端市场份额。\n这种差异化的定价策略，不仅稳固了苹果在高端市场的地位，也通过价格锚点吸引了更多对价格敏感的潜在用户，进一步拉大了与竞争对手的差距。（快科技）\n胖东来郑州店注册成立，预计今年10月开业\n5月4日，记者了解到，许昌市胖东来超市有限公司郑州店已经于2026年4月29日注册成立。据悉，许昌市胖东来超市有限公司郑州店登记注册类型为其他有限责任公司分公司，成立日期为2026年4月29日，登记机关为郑州市市场监督管理局自贸区服务中心，经营场所位于河南自贸试验区郑州片区（郑东）圃田西路109号。\n今年4月，记者走进郑州胖东来项目施工现场，看到工人们正以“抠细节”的执着，全力推进项目建设。记者了解到，胖东来郑州店预计今年10月开业。（大河报）\n国内一年仅卖2763万台彩电，创十年新低\n奥维云网（AVC）给出的2025年中国彩电市场的零售量数据——2763万台，这是一个创下近10年新低的数据。放眼全球市场，彩电需求也没有提振。据奥维睿沃（AVC Revo）发布的2025年全球彩电市场报告，全球彩电市场整体出货量为2.64亿台，同比微跌0.1%。 （每日经济新闻）\n“开市客北京”已申请注销公司\n曾宣布要在中国多个城市布局、投资15亿美元的开市客（北京）国际商业发展有限公司（下称“开市客北京”），已申请注销公司。国家企业信用信息公示系统显示，开市客（北京）国际商业发展有限公司注册于2026年4月16日，法定代表人为黄寿苏，该公司正在进行简易注销公告，公告期为2026年4月29日-2026年5月19日。\n4月17日，“开市客北京”曾在公众号上高调宣布，将投资15亿美元，计划在北京、成都、武汉、广州、天津、合肥投资建设会员制仓储超市，不过目前相关文章已经随着公众号的注销全部清除。（澎湃新闻）\n保时捷卖掉布加迪，预计2026年销量下滑至3万辆\n日前保时捷宣布，已同意将布加迪合资公司“布加迪·锐马克”（Bugatti Rimac）及其在锐马克集团所持有的全部股权出售，买方为由纽约投资机构HOF Capital牵头的国际投资者财团。保时捷于2021年与Rimac共同成立该合资公司，当时持有45%股份，并在Rimac集团层面保留约20.6%的少数股权。\n此次出售发生在保时捷自身盈利承压的背景下。由于布加迪年产量不足百辆，研发成本却高达数亿欧元，这种“高投入、低产出”的商业模式使其成为保时捷现金流紧张时首要被剥离的对象。（每日经济新闻）\n美股三大指数集体收涨，英特尔涨超12%\n36氪获悉，5月5日收盘，美股三大指数集体上涨，道指涨0.73%，纳指涨1.03%，标普500指数涨0.81%。其中，纳指、标普500指数再创历史新高。大型科技股涨跌不一，英特尔涨超12%，甲骨文、苹果涨超2%，谷歌涨超1%，亚马逊小幅上涨；奈飞跌超3%，英伟达跌1%，Meta、特斯拉、微软小幅下跌。热门中概股多数下跌，爱奇艺跌4%，蔚来跌超2%，京东、拼多多跌超1%，小鹏集团跌1%，百度、阿里巴巴、理想汽车、哔哩哔哩小幅下跌；36氪涨超3%，叮咚买菜、知乎涨超1%。\n欧盟官员：能源价格飙升推高欧盟通胀\n当地时间5月4日，欧盟委员会负责经济事务的委员东布罗夫斯基斯表示，由于中东战事，能源价格飙升，上周石油价格突破每桶125美元。他指出，能源价格上涨影响欧洲经济中的每一个参与者，包括企业和家庭，这一现状正将欧盟经济推向增长放缓和通胀加剧的道路。（央视新闻）\n五一假期全国铁路累计发送旅客超1亿人次\n据中国国家铁路集团有限公司消息，5月4日，全国铁路发送旅客2038.3万人次，4月29日五一假期运输启动以来全国铁路累计发送旅客1.17亿人次，运输安全平稳有序。5月5日，铁路返程客流继续攀升，全国铁路预计发送旅客2300万人次，计划加开旅客列车2225列。（央视新闻）\n80次出价成交较二级市场溢价超9%，ST华谊0.06%股权由横琴天晟拍得\n从京东资产交易平台获悉，5日，在王忠磊持有的ST华谊180万股（约占公司总股本的0.06%）无限售流通股的司法拍卖中，中国中信旗下的珠海横琴天晟股权投资合伙企业（有限合伙）以358.26万元的最高应价拍得，折合每股价格约1.99元。根据ST华谊最新收盘价1.82元/股测算，此次珠海横琴天晟拍得ST华谊股票的价格较二级市场溢价超9%。（财联社）\n苹果考虑让英特尔、三星代工设备处理器\n苹果公司正与英特尔、三星电子洽谈，计划将设备主处理器交由这两家企业生产，作为台积电之外的备选供应商。目前苹果与英特尔、三星的谈判仍处于初步阶段，尚未下达任何订单。苹果对采用非台积电技术仍存顾虑。受供应链中断影响（包括近期AI数据中心建设热潮、Mac需求超预期导致的芯片短缺），苹果正考虑增加供应商，以缓解产能瓶颈、避免增长受限。苹果、英特尔、三星及台积电的发言人均拒绝置评。（环球市场播报）\n马斯克就推特持股披露诉讼与美证监会达成和解\n当地时间5月4日，埃隆·马斯克已就美国证券交易委员会提起的民事诉讼达成和解。该诉讼指控其在2022年未及时披露其初始购买推特（现称X）持股的行为。根据当天华盛顿特区联邦法院披露的和解协议，以马斯克名义设立的信托将支付150万美元民事罚款。马斯克未承认存在不当行为，且无需退还其因延迟披露而声称节约的1.5亿美元资金。（界面新闻）\n韩国3月网购销售额突破25万亿韩元创新高，特斯拉需求激增\n韩国政府周一公布的数据显示，受特斯拉汽车和餐饮服务强劲需求的推动，韩国3月份网络购物销售额同比增长13.3%，达到25.58万亿韩元（约合173.7亿美元），创下自2017年开始收集相关数据以来的最高月度水平。受特斯拉汽车通过网络订购系统热销的推动，汽车及汽车配件支出同比增长109.9%。（新浪财经）\n三星继承人已付清12万亿韩元遗产税\n三星集团表示，已故三星集团会长李健熙的继承人已完成缴纳其遗产的12万亿韩元（约合81亿美元）遗产税。根据公司声明，这笔款项从2021年开始，分六期支付。这创下了韩国遗产税账单金额的历史新高。（快科技）\n游戏驿站提出近560亿美元收购eBay\n据报道，游戏驿站CEO瑞安·科恩表示，他已主动提出以约560亿美元收购eBay。科恩称，游戏驿站已持有eBay约5%股份，提出以每股125美元现金加股票收购，较eBay上周五收盘价溢价约20%。（界面新闻）\n婴儿食品投毒勒索案嫌疑人在奥地利落网\n奥地利警方5月2日说，欧洲知名婴幼儿食品生产商喜宝（HiPP）公司先前曝出的一起投毒案已经告破，一名39岁男性嫌疑人落网，目前被拘押在奥地利。警方说，这名嫌疑人涉嫌对喜宝旗下一款婴幼儿辅食产品投放老鼠药，面临故意危害公众安全和企图严重伤害他人身体两项罪名指控。据奥地利《克朗报》报道，该男子在靠近德国的萨尔茨堡州被捕，目前被拘押在布尔根兰州。（环京津新闻网）\n马斯克1583亿美元薪酬实际为0\n特斯拉4月30日在监管备案文件中披露了马斯克2025年的薪酬总额为1583.6亿美元，为公司普通员工中位数的250万倍。尽管这一数字十分惊人，但公司同时也披露了多项重要附加说明。特斯拉在文件中表示，公司每年公示的马斯克薪酬总额，与其实际到手价值之间可能存在“巨大偏差”。由于特斯拉去年未达成任何市值及经营考核目标，因此去年马斯克实际到手薪酬为零。（央视财经）\n特朗普政府救助计划失败，美国精神航空宣布停止运营\n陷入困境的美国廉价航空公司精神航空周六表示，已开始有序地逐步停止运营。精神航空表示，所有航班均已取消，已建议乘客不要前往机场。此前特朗普政府曾考虑向精神航空提供5亿美元，以换取该公司破产重组后可购买至多90%股份的认股权证。但主要债权人拒绝了这项交易，因为如果精神航空未来破产，该交易将使政府的债权享有优先权。（新浪财经）\n巴西石油公司第一季度对美出口降至零\n巴西石油公司Petrobras已将其对美国的石油出口削减至零。今年第一季度，这家国有石油公司约62%的外运原油流向了中国。1-3月期间，巴西石油公司平均每日出口约112万桶石油及衍生品，较去年同期增长47%。印度成为巴西石油的第二大目的地，接收了总量的约15%，高于去年同期的14%。巴西石油公司在证券文件中表示：“印度目前是全球第二大海运石油进口国，已稳固了其作为战略市场的地位。”（新浪财经）\nAI最前沿\n白宫拟在AI模型发布前实施审查\n特朗普政府正考虑发布一项行政令，成立人工智能工作组，旨在加强对这一新兴技术的监管。其中一项提案要求对新AI模型实施政府审查流程。该报称，白宫官员在上周的会议中，已向Anthropic、谷歌母公司Alphabet以及OpenAI的高管通报了部分拟议计划。（第一财经）\nOpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出\nOpenAI称，GPT-5.5 Instant从今天开始向所有ChatGPT用户推出，对于付费用户，GPT‑5.3 Instant将在未来3个月内继续可用，用户可通过模型配置设置访问，之后该版本将正式退役。记忆来源功能正在网页端向所有ChatGPT消费级套餐用户逐步推出，并即将在移动端上线。（财联社）\nMeta收购机器人AI公司，加速布局人形机器人技术\nMeta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技术旨在使机器人能够在复杂动态环境中理解、预测并适应人类行为。Meta发言人表示，该初创公司“处于机器人智能的前沿领域”。（新浪财经）\n高通前高管将加入英特尔，领导客户端计算与物理AI事业部\n5月5日，英特尔公司宣布两项重要领导层任命。Alex Katouzian将于5月加入英特尔，担任执行副总裁兼客户端计算与物理AI事业部总经理。Katouzian此前任职于高通技术公司，担任执行副总裁兼手机、计算和XR事业群总经理。英特尔同时宣布，正式任命此前担任代理首席技术官的Pushkar Ranade出任首席技术官。\n作为首席技术官，他将推进公司技术战略，主导专项技术项目，并推动量子计算、神经拟态计算、光子学及新型材料等关键新兴领域的发展。Katouzian与Ranade将直接向首席执行官陈立武汇报。（界面新闻）\n大公司财报\n汇丰控股：一季度收入同比增加6%至186亿美元\n5月5日午间，汇丰控股在港交所公告，2026年第一季度列账基准除税前利润同比减少1亿美元至94亿美元；收入同比增加10亿美元至186亿美元，增幅为6%。董事会已通过派发2026年第一次股息每股0.1美元。（21经济网）\n百威亚太：一季度收入14.93亿美元，同比下降0.7%\n百威亚太5日早间披露一季度业绩，2026年第一季度总销量增长0.1%，为19737十万公升啤酒，这得益于集团在印度的强劲表现及中国行业状况的改善，但被韩国的发货安排时间差所抵销。由于中国额外投资，2026年第一季度收入14.93亿美元，同比下降0.7%，而每百升收入减少0.8%。（财联社）\n雅诗兰黛：中国大陆连续五个季度市场份额增长\n36氪获悉，5月1日，雅诗兰黛集团公布了2026财年第三季度财报。报告期内，公司净销售额增长5%，达到37亿美元；有机净销售额增长2%；调整后毛利率增加140个基点，从75.0%增至76.4%；营业利润率为6.7%，较上年同期的8.6%有所下降，主要由于重组及其它费用增加。值得注意的是，中国大陆市场已连续五个季度实现市场份额增长，本季度有六个品牌实现双位数增长。\n苹果第二财季营收1111.8亿美元，同比增长17%\n苹果第二财季营收1111.8亿美元，同比增长17%，预估1096.6亿美元，其中iPhone收入569.9亿美元，同比增长22%，预估569.8亿美元；第二财季净利润295.8亿美元，同比增长19%；第二财季每股收益2.01美元，上年同期1.65美元，预估1.96美元。公司批准至多1000亿美元的股票回购计划，提高派息至每股0.27美元。（界面新闻）\n整理｜何雨婷",
+    "content_source": "trafilatura",
+    "content_chars": 6235,
+    "content_excerpt": "今日热点导览\n- 分析师称iPhone 18 Pro定价策略激进，起步价8999元\n- 胖东来郑州店注册成立，预计今年10月开业\n- 保时捷卖掉布加迪，预计2026年销量下滑至3万辆\n- 马斯克就推特持股披露诉讼与美证监会达成和解\n- 三星继承人已付清12万亿韩元遗产税\nTOP 3 大新闻\n豆包将在免费模式外新增付费订阅，官方回应\n近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。\n另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。（第一财经）"
+  },
+  {
+    "id": "412ad8a3329d",
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-05T23:50:10",
+    "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+    "collected_at": "2026-05-06T02:05:22.626142",
+    "content_text": "By OpenAI COO’s own admission last February, “we have not yet really seen AI penetrate enterprise business processes.” But for enterprise software giant SAP, whose stock has dropped significantly in 2026 in part from the “SaaSpocalypse,” the issue is still front and center.\nOn Monday, the European heavyweight announced its intention to acquire German AI startup Prior Labs for an undisclosed amount. Pending regulatory approval, SAP plans to invest €1 billion (approximately $1.16 billion) into the business over the next four years to grow it into an AI lab focused on structured data — the tables and databases where enterprise information typically sits.\nSAP declined to disclose how much it spent on the acquisition itself, but sources told Pathfounders that this was a healthy exit: an “almost all cash” deal, with well over half a billion dollars in cash up front for the startup’s founders — Frank Hutter, Noah Hollmann, and Sauraj Gambhir.\nThe trio co-founded Prior Labs just 18 months ago with a focus on tabular foundation models (TFMs) — AI models that can make predictions from data that sits in tables and databases. This is potentially a better fit for enterprises than language models. It is certainly a better fit for SAP, whose widely used software products for accounting, HR, procurement and expense management rely on its database.\nHowever, Germany’s most valuable company also seems be playing defense as the tech industry marches toward agentic AI. While it works to create its own AI lab, the company has blocked OpenClaw and any other agent tech that it has not explicitly authorized, The Information was first to spot.\nIn response to a request for comment, SAP’s press department referred TechCrunch to the company’s latest API policy, which does say that SAP “prohibits” AI agents from accessing its products through its API except for those that are “SAP-endorsed architectures.”\nAuthorized architectures of course include SAP’s own offering, Joule Agents, still in beta, which lets customers create their own agents. Nvidia also announced in March that SAP’s Joule supports Nvidia’s Agent Toolkit, which is software for managing agents. This toolkit is the foundation for Nvidia’s enterprise-ready, security-focused OpenClaw competitor, NemoClaw. Hence SAP customers will be authorized to use NemoClaw agents.\nThis Week Only: Buy one pass, get the second at 50% off\nThis Week Only: Buy one pass, get the second at 50% off\nFor a giant incumbent player like SAP, AI is both a threat and an opportunity. “It’s all about how quickly [we can] as SAP actually also embark [on] these technologies in our R&D portfolio to keep the relative economies of scale advantage,” CFO Dominik Asam told CNBC in January.\nSAP hasn’t been sitting on its hands. The German company invested in generative AI companies that develop language models large and small: In 2023, it backed OpenAI rival Anthropic — as well as Aleph Alpha and Cohere, which now intend to merge to form “a global AI powerhouse.”\nIt had also developed SAP-RPT-1, a relational pretrained transformer model. “Early on, SAP recognized that the greatest untapped opportunity in enterprise AI wasn’t large language models; it was AI built for the structured data that runs the world’s businesses,” SAP CTO Philipp Herzig declared in a statement.\nBut Prior Labs’ acquisition is a significant shortcut in that direction. Its TabPFN model series has experienced a lot of traction among developers. In a blog post on the deal, the startup’s founders said that its open source models have been downloaded over three million times.\nIn a press release, SAP promised that Prior Labs will maintain the open source versions: “The lab will operate as an independent unit to ensure research velocity while SAP provides long-term investment and a direct path to productization across the SAP portfolio with SAP AI Core and SAP Business Data Cloud as well as the agentic layer with Joule.”\nSAP and the startup headquartered in Freiburg, Germany, hope that this investment will lead to TFMs that can grab data in the tables where it lives, combine that with language, reasoning, and domain knowledge.\nMore than that, they hope that Prior Labs, with this “massive boost” from SAP, can become a new “globally-leading frontier AI lab for structured data — in Europe, in the open,” founder and CEO Frank Hutter celebrated in a post on X.\nIn February 2025, the startup had previously raised some $9.3 million in a pre-seed funding round led by Balderton Capital — more than competitor Neuralk-AI, but a lot less than Fundamental, which emerged out of stealth with a $255 million Series A in February.\nIn a post on X, Balderton partner James Wise called Prior Labs’ acquisition “one of Germany’s biggest ever venture outcomes.” As for SAP, its stock is currently trading slightly upwards.\nMeanwhile, SAP is being very strict as to the agents it will allow into its ecosystem. This is a wildly different approach than Salesforce, another incumbent caught in the SaaSpocalypse. It is allowing enterprise to choose their own agents, including OpenClaw if they so wish, with its new Headless 360 architecture.",
+    "content_source": "trafilatura",
+    "content_chars": 5783,
+    "content_excerpt": "By OpenAI COO’s own admission last February, “we have not yet really seen AI penetrate enterprise business processes.” But for enterprise software giant SAP, whose stock has dropped significantly in 2026 in part from the “SaaSpocalypse,” the issue is still front and center.\nOn Monday, the European heavyweight announced its intention to acquire German AI startup Prior Labs for an undisclosed amount. Pending regulatory approval, SAP plans to invest €1 billion (approximately $1.16 billion) into the business over the next four years to grow it into an AI lab focused on structured data — the tables and databases where enterprise information typically sits.\nSAP declined to disclose how much it spent on the acquisition itself, but sources told Pathfounders that this was a healthy exit: an “almost all cash” deal, with well over half a billion dollars in cash up front for the startup’s founders — Frank Hutter, Noah Hollmann, and Sauraj Gambhir.\nThe trio co-founded Prior Labs just 18 months ago with a focus on tabular foundation models (TFMs) — AI models that can make predictions from data that sits in tables and databases. This is potentially a better fit for enterprises than language models. It is certainly a better fit for SAP, whose widely used software products for accounting, HR, procurement and expense management rely on its database.\nHowever, Germany’s most valuable company also seems be playing defense as the tech industry marches toward agentic AI. While it works to create its own AI lab, the company has blocked OpenClaw and any other agent tech that it has not explicitly authorized, The Information was first to spot.\nIn response to a request for comment, SAP’s press department referred TechCrunch to the company’s latest API policy, which does say that SAP “prohibits” AI agents from accessing its products through its API except for those that are “SAP-endorsed architectures.”\nAuthorized architectures of course include SAP’s own offering, Joule Agents, still in beta, which lets customers create their own agents. Nvidia also announced in March that SAP’s Joule supports Nvidia’s Agent Toolkit, which is software for managing agents. This toolkit is the foundation for Nvidia’s enterprise-ready, security-focused OpenClaw competitor, NemoClaw. Hence SAP customers will be authorized to use NemoClaw agents.\nThis Week Only: Buy one pass, get the second at 50% off\nThis Week Only: Buy one pass, get the second at 50% off\nFor a giant incumbent player like SAP, AI is both a threat and an opportunity. “It’s all about how quickly [we can] as SAP actually also embark [on] these technologies in our R&D portfolio to keep the relative economies of scale advantage,” CFO Dominik Asam told CNBC in January.",
+    "title_zh": "SAP 在成立 18 个月的德国人工智能实验室上押注 1.16B 美元，并对 NemoClaw 表示同意",
+    "summary_zh": "SAP计划收购德国人工智能初创公司Prior Labs，并对其进行大力投资。它还禁止客户代理使用 Nvidia 的 NemoClaw 等少数产品",
+    "ai_summary": "SAP计划收购德国人工智能初创公司Prior Labs，并对其进行大力投资。它还禁止客户代理使用 Nvidia 的 Ne…"
+  },
+  {
+    "id": "2c86cbbc5016",
+    "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+    "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-05T21:46:04",
+    "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make",
+    "collected_at": "2026-05-06T02:05:22.747078",
+    "content_text": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant’s ability to interpret and act on requests. The upgrade will also make Gemini for Home better at handling recurring and all-day events and allow users to “move around” upcoming events.\nGoogle Home’s Gemini AI can handle more complicated requests\nAn upgrade to Gemini 3.1 lets Google’s smart home assistant handle multiple requests in the same voice command.\nAn upgrade to Gemini 3.1 lets Google’s smart home assistant handle multiple requests in the same voice command.\nLast month, Google also updated Gemini for Home with improvements for understanding natural language and identifying devices correctly. The upgrades follow reports of bugs in Google’s new smart home assistant, like confusing different animals in camera footage or struggling with accuracy in activity summaries.\nIn addition to the Gemini upgrade, Google also announced improvements to the camera experience, new automation capabilities, and two public previews: Ask Home on Web and a new notification feature. Ask Home on Web will allow Google Home users to manage their smart home from a computer, including searching camera history with natural language, checking on devices, and creating automations. Google is also releasing a public preview for “improved and expanded notifications” that include “quick action” buttons that can be used for device control directly in the notification.",
+    "content_source": "trafilatura",
+    "content_chars": 1589,
+    "content_excerpt": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant’s ability to interpret and act on requests. The upgrade will also make Gemini for Home better at handling recurring and all-day events and allow users to “move around” upcoming events.\nGoogle Home’s Gemini AI can handle more complicated requests\nAn upgrade to Gemini 3.1 lets Google’s smart home assistant handle multiple requests in the same voice command.\nAn upgrade to Gemini 3.1 lets Google’s smart home assistant handle multiple requests in the same voice command.\nLast month, Google also updated Gemini for Home with improvements for understanding natural language and identifying devices correctly. The upgrades follow reports of bugs in Google’s new smart home assistant, like confusing different animals in camera footage or struggling with accuracy in activity summaries.\nIn addition to the Gemini upgrade, Google also announced improvements to the camera experience, new automation capabilities, and two public previews: Ask Home on Web and a new notification feature. Ask Home on Web will allow Google Home users to manage their smart home from a computer, including searching camera history with natural language, checking on devices, and creating automations. Google is also releasing a public preview for “improved and expanded notifications” that include “quick action” buttons that can be used for device control directly in the notification.",
+    "title_zh": "Google Home 的 Gemini AI 可以处理更复杂的请求",
+    "summary_zh": "Google Home 用户现在可以要求 Gemini 完成更复杂的多步骤任务，并将多个任务合并到一个命令中。谷歌已将 Gemini for Home 更新至 Gemini 3.1，据称这将提高智能家居助手解释请求并采取行动的能力。此次升级…",
+    "ai_summary": "Google Home 用户现在可以要求 Gemini 完成更复杂的多步骤任务，并将多个任务合并到一个命令中。谷歌已将…"
+  },
+  {
+    "id": "adb40e368632",
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-05T22:57:41",
+    "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
+    "collected_at": "2026-05-06T02:05:22.626195",
+    "content_text": "Companies working on batteries, semiconductors, and medical devices generate vast amounts of data — and much of it ends up scattered across spreadsheets and legacy systems, making it hard to use to improve products or understand failures.\nSan Francisco-based startup Altara, which just secured $7 million in seed funding, says it has built an AI layer designed to bridge these data gaps and bring fragmented technical information into a single platform. The round was led by Greylock, with participation from Neo, BoxGroup, Liquid 2 Ventures, and Jeff Dean.\nAltara was founded in 2025 by Eva Tuecke (pictured right), who previously conducted particle physics research at Fermilab and worked at SpaceX; and Catherine Yeo (pictured left), a former AI engineer at Warp. The two met while studying computer science at Harvard University.\n“Imagine if you’re a company building next-generation batteries, and a battery fails during the cell testing in the R&D process,” Yeo said. “A team of engineers has to go in and manually check a lot of different sources of data, anything from their sensor logs to their temperature data, moisture data. They cross-check historical failure reports.”\nScientists and engineers often spend weeks or months on this “scavenger hunt” across a multitude of data sources just to diagnose and resolve failures, she said.\nAltara claims that its AI dramatically slashes the time required for this process, condensing weeks of manual data triaging into minutes.\nCorinne Riley, a partner at Greylock, compares what Altara is doing in the physical sciences to the role of site reliability engineers in the software world. If a system fails, “an SRE will go in, and they’ll go look at the observability stack of the company,” she said. “Someone pushed a change to the code, and that’s what caused an outage.”\nThis Week Only: Buy one pass, get the second at 50% off\nThis Week Only: Buy one pass, get the second at 50% off\nFor instance, Greylock-backed Resolve, which is valued at $1.5 billion, uses AI to diagnose software failures. Altara’s vision is to act as the hardware equivalent, determining exactly what went wrong when a battery or a semiconductor fails to perform.\nAltara isn’t the only startup using AI to accelerate development in the physical sciences. Startups like Periodic Labs and Radical AI are also tackling scientific research from the ground up.\nAltara is taking a different, much less capital-intensive approach though. Rather than trying to replace decades-old research and manufacturing firms, Altara provides an intelligence layer that plugs into their existing data.\nIn fact, Greylock’s Riley views AI for physical science as the “next big frontier” and predicts an impending explosion of development in the sector.",
+    "content_source": "trafilatura",
+    "content_chars": 3382,
+    "content_excerpt": "Companies working on batteries, semiconductors, and medical devices generate vast amounts of data — and much of it ends up scattered across spreadsheets and legacy systems, making it hard to use to improve products or understand failures.\nSan Francisco-based startup Altara, which just secured $7 million in seed funding, says it has built an AI layer designed to bridge these data gaps and bring fragmented technical information into a single platform. The round was led by Greylock, with participation from Neo, BoxGroup, Liquid 2 Ventures, and Jeff Dean.\nAltara was founded in 2025 by Eva Tuecke (pictured right), who previously conducted particle physics research at Fermilab and worked at SpaceX; and Catherine Yeo (pictured left), a former AI engineer at Warp. The two met while studying computer science at Harvard University.\n“Imagine if you’re a company building next-generation batteries, and a battery fails during the cell testing in the R&D process,” Yeo said. “A team of engineers has to go in and manually check a lot of different sources of data, anything from their sensor logs to their temperature data, moisture data. They cross-check historical failure reports.”\nScientists and engineers often spend weeks or months on this “scavenger hunt” across a multitude of data sources just to diagnose and resolve failures, she said.\nAltara claims that its AI dramatically slashes the time required for this process, condensing weeks of manual data triaging into minutes.\nCorinne Riley, a partner at Greylock, compares what Altara is doing in the physical sciences to the role of site reliability engineers in the software world. If a system fails, “an SRE will go in, and they’ll go look at the observability stack of the company,” she said. “Someone pushed a change to the code, and that’s what caused an outage.”\nThis Week Only: Buy one pass, get the second at 50% off\nThis Week Only: Buy one pass, get the second at 50% off\nFor instance, Greylock-backed Resolve, which is valued at $1.5 billion, uses AI to diagnose software failures. Altara’s vision is to act as the hardware equivalent, determining exactly what went wrong when a battery or a semiconductor fails to perform.",
+    "title_zh": "Altara 获得 700 万美元资金，以弥补减缓物理科学发展的数据差距",
+    "summary_zh": "Altara 的人工智能旨在通过统一电子表格和遗留系统中的孤立数据来诊断故障并帮助加快研发速度",
+    "ai_summary": "Altara 的人工智能旨在通过统一电子表格和遗留系统中的孤立数据来诊断故障并帮助加快研发速度"
+  },
+  {
+    "id": "6b299ce73670",
+    "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+    "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-05T21:18:23",
+    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between Jun",
+    "collected_at": "2026-05-06T02:05:22.747123",
+    "content_text": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and March 29th, 2025.\nApple agrees to pay iPhone owners $250 million for not delivering AI Siri\nThe proposed settlement in a class action lawsuit will get some cash back to people who bought the iPhone 16 lineup and the iPhone 15 Pro.\nThe proposed settlement in a class action lawsuit will get some cash back to people who bought the iPhone 16 lineup and the iPhone 15 Pro.\nPeople who submit qualifying claims can receive $25 for each eligible device, “which may decrease or increase up to $95 per device, depending on claim volume and other factors,” according to Clarkson Law Firm, the legal team behind the class action lawsuit.\nThe settlement will resolve a 2025 lawsuit, alleging Apple’s advertisements created a “clear and reasonable consumer expectation” that Apple Intelligence features would be available with the launch of the iPhone 16. The lawsuit claimed Apple’s products “offered a significantly limited or entirely absent version of Apple Intelligence, misleading consumers about its actual utility and performance.”\nIn a statement to The Verge, Apple spokesperson Marni Goldberg said the company “resolved this matter to stay focused on doing what we do best, delivering the most innovative products and services to our users.” You can read Apple’s full statement at the bottom of this article.\nApple previewed a series of AI-powered features coming to its iPhones during its June 2024 Worldwide Developers Conference, including a more personalized Siri. But when the iPhone 16 launched in September, Apple labeled it as “built for Apple Intelligence,” as it lacked many of the capabilities it teased months earlier.\nInstead, Apple gradually rolled out its new AI features, including Image Playground, Genmoji, and a ChatGPT integration in Siri. The company also delayed the launch of its more personalized Siri, which is now expected to arrive later this year.\nLast April, the National Advertising Division recommended that Apple “discontinue or modify” its “available now” claim for the Apple Intelligence page on its website. Apple also pulled an iPhone 16 ad showing actor Bella Ramsey using the AI-upgraded Siri.\nApple denied any wrongdoing. Here’s the company’s full statement:\nSince the launch of Apple Intelligence, we have introduced dozens of features across many languages that are integrated across Apple’s platforms, relevant to what users do every day, and built with privacy protections at every step. These include Visual Intelligence, Live Translation, Writing Tools, Genmoji, Clean Up and many more.\nApple has reached a settlement to resolve claims related to the availability of two additional features. We resolved this matter to stay focused on doing what we do best, delivering the most innovative products and services to our users.",
+    "content_source": "trafilatura",
+    "content_chars": 3084,
+    "content_excerpt": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and March 29th, 2025.\nApple agrees to pay iPhone owners $250 million for not delivering AI Siri\nThe proposed settlement in a class action lawsuit will get some cash back to people who bought the iPhone 16 lineup and the iPhone 15 Pro.\nThe proposed settlement in a class action lawsuit will get some cash back to people who bought the iPhone 16 lineup and the iPhone 15 Pro.\nPeople who submit qualifying claims can receive $25 for each eligible device, “which may decrease or increase up to $95 per device, depending on claim volume and other factors,” according to Clarkson Law Firm, the legal team behind the class action lawsuit.\nThe settlement will resolve a 2025 lawsuit, alleging Apple’s advertisements created a “clear and reasonable consumer expectation” that Apple Intelligence features would be available with the launch of the iPhone 16. The lawsuit claimed Apple’s products “offered a significantly limited or entirely absent version of Apple Intelligence, misleading consumers about its actual utility and performance.”\nIn a statement to The Verge, Apple spokesperson Marni Goldberg said the company “resolved this matter to stay focused on doing what we do best, delivering the most innovative products and services to our users.” You can read Apple’s full statement at the bottom of this article.\nApple previewed a series of AI-powered features coming to its iPhones during its June 2024 Worldwide Developers Conference, including a more personalized Siri. But when the iPhone 16 launched in September, Apple labeled it as “built for Apple Intelligence,” as it lacked many of the capabilities it teased months earlier.\nInstead, Apple gradually rolled out its new AI features, including Image Playground, Genmoji, and a ChatGPT integration in Siri. The company also delayed the launch of its more personalized Siri, which is now expected to arrive later this year.\nLast April, the National Advertising Division recommended that Apple “discontinue or modify” its “available now” claim for the Apple Intelligence page on its website. Apple also pulled an iPhone 16 ad showing actor Bella Ramsey using the AI-upgraded Siri.",
+    "title_zh": "苹果同意向未提供 AI Siri 的 iPhone 用户支付 2.5 亿美元",
+    "summary_zh": "苹果公司同意支付 2.5 亿美元来和解一项集体诉讼，该诉讼指控该公司在 Apple Intelligence 功能的可用性方面误导客户。拟议的和解方案将适用于 6 月份期间购买所有型号 iPhone 16 和 iPhone 15 Pro 的…",
+    "ai_summary": "苹果公司同意支付 2.5 亿美元来和解一项集体诉讼，该诉讼指控该公司在 Apple Intelligence 功能的可用…"
+  },
+  {
+    "id": "d9d36c1ef849",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-05T20:56:41",
+    "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "collected_at": "2026-05-06T02:05:22.626229",
+    "content_text": "When iOS 27 is released later this year, iPhone users will reportedly have a lot of choice when it comes to which AI models they want to use on-device.\nA\nnew report\nfrom Bloomberg says that Apple plans to give users their pick of a number of third-party large language models that will be capable of powering various functions within the iPhone’s operating system. The new feature, dubbed “Extensions” internally, will allow users to “access generative AI capabilities from installed apps on demand, through Apple Intelligence features such as Siri, Writing Tools, Image Playground and more,” reads a message reportedly shown in test versions of the software.\nThe new capability will also be available for iPadOS 27 and macOS 27, the outlet writes, adding that models from Google and Anthropic are being tested now. Less clear is where ChatGPT stands. Since it is currently the model available to users, one implication is that it will remain a choice.\nTechCrunch reached out to Apple for more information.\nWith long-serving CEO\nTim Cook soon stepping down\n, Apple’s incoming top executive, John Ternus, is tasked with charting the future of the company — including its AI strategy. The company is\nwidely perceived\nto be “behind” on AI, as it is not launching as many new AI services as some of its peers.\nHowever, Apple is still bringing in a generous amount of AI-based revenue and its plan is less about spending money building out AI infrastructure and services than it is about turning its already existing hardware into an AI-centric experience for users.",
+    "content_source": "readability",
+    "content_chars": 1561,
+    "content_excerpt": "When iOS 27 is released later this year, iPhone users will reportedly have a lot of choice when it comes to which AI models they want to use on-device.\nA\nnew report\nfrom Bloomberg says that Apple plans to give users their pick of a number of third-party large language models that will be capable of powering various functions within the iPhone’s operating system. The new feature, dubbed “Extensions” internally, will allow users to “access generative AI capabilities from installed apps on demand, through Apple Intelligence features such as Siri, Writing Tools, Image Playground and more,” reads a message reportedly shown in test versions of the software.\nThe new capability will also be available for iPadOS 27 and macOS 27, the outlet writes, adding that models from Google and Anthropic are being tested now. Less clear is where ChatGPT stands. Since it is currently the model available to users, one implication is that it will remain a choice.\nTechCrunch reached out to Apple for more information.\nWith long-serving CEO\nTim Cook soon stepping down\n, Apple’s incoming top executive, John Ternus, is tasked with charting the future of the company — including its AI strategy. The company is\nwidely perceived",
+    "title_zh": "苹果计划让 iOS 27 成为一场选择你自己的 AI 模型冒险之旅",
+    "summary_zh": "据报道，随着苹果最新操作系统的更新，用户将可以选择他们想要使用哪些第三方人工智能模型来完成一系列任务",
+    "ai_summary": "据报道，随着苹果最新操作系统的更新，用户将可以选择他们想要使用哪些第三方人工智能模型来完成一系列任务"
+  },
+  {
+    "id": "8738ef1c33b5",
+    "title": "Microsoft gives up on Xbox Copilot AI",
+    "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-05T19:54:37",
+    "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked",
+    "collected_at": "2026-05-06T02:05:22.747163",
+    "content_text": "Xbox is “winding down Copilot on mobile” and “will stop development of Copilot on console,” new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma’s reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft’s CoreAI team — where Sharma worked before taking over Xbox — to the Xbox side of the company.\nMicrosoft gives up on Xbox Copilot AI\nNew Xbox CEO Asha Sharma continues to make her mark.\nNew Xbox CEO Asha Sharma continues to make her mark.\nXbox needs to move faster, deepen our connection with the community, and address friction for both players and developers.\nToday, we promoted leaders who helped build Xbox, while also bringing in new voices to help push us forward. This balance is important as we get the business back on track.\nAs part of this shift, you’ll see us begin to retire features that don’t align with where we’re headed. We will begin winding down Copilot on mobile and will stop development of Copilot on console.\nSharma took over from former Microsoft Gaming CEO Phil Spencer in February and has already made some big changes, including scrapping the Microsoft Gaming brand and cutting the price of Xbox Game Pass.\nMicrosoft made a big deal about Copilot for Gaming last year, and said in March that the gaming-focused Copilot would be coming to current generation consoles sometime this year. Now, though, that won’t be happening.",
+    "content_source": "trafilatura",
+    "content_chars": 1415,
+    "content_excerpt": "Xbox is “winding down Copilot on mobile” and “will stop development of Copilot on console,” new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma’s reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft’s CoreAI team — where Sharma worked before taking over Xbox — to the Xbox side of the company.\nMicrosoft gives up on Xbox Copilot AI\nNew Xbox CEO Asha Sharma continues to make her mark.\nNew Xbox CEO Asha Sharma continues to make her mark.\nXbox needs to move faster, deepen our connection with the community, and address friction for both players and developers.\nToday, we promoted leaders who helped build Xbox, while also bringing in new voices to help push us forward. This balance is important as we get the business back on track.\nAs part of this shift, you’ll see us begin to retire features that don’t align with where we’re headed. We will begin winding down Copilot on mobile and will stop development of Copilot on console.\nSharma took over from former Microsoft Gaming CEO Phil Spencer in February and has already made some big changes, including scrapping the Microsoft Gaming brand and cutting the price of Xbox Game Pass.\nMicrosoft made a big deal about Copilot for Gaming last year, and said in March that the gaming-focused Copilot would be coming to current generation consoles sometime this year. Now, though, that won’t be happening.",
+    "title_zh": "微软放弃 Xbox Copilot AI",
+    "summary_zh": "Xbox 新任首席执行官阿莎·夏尔马 (Asha Sharma) 周二宣布，Xbox 正在“逐步停止移动设备上的 Copilot”，并“将停止主机上 Copilot 的开发”。周二早些时候，Sharma 对 Xbox 平台团队进行了重组，其…",
+    "ai_summary": "Xbox 新任首席执行官阿莎·夏尔马 (Asha Sharma) 周二宣布，Xbox 正在“逐步停止移动设备上的 Cop…"
+  },
+  {
+    "id": "b9dc4e2fd76e",
+    "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+    "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-05T19:46:15",
+    "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+    "collected_at": "2026-05-06T02:05:23.145154",
+    "content_text": "Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates from the servers of its developer, researchers said Tuesday.\nKaspersky, the security firm reporting the supply-chain attack, said it began on April 8 and remained active as of the time its post went live. Installers that are signed by the developer’s official digital certificate and downloaded from its website infect Daemon Tools executables, causing the malware to run at boot time. Kaspersky didn’t explicitly say so, but based on technical details, the infected versions appear to be only those that run on Windows. Versions 12.5.0.2421 through 12.5.0.2434 are affected. Neither Kaspersky nor developer AVB could be contacted immediately for additional details.\nHard to defend against\nInfected versions contain an initial payload that collects MAC addresses, hostnames, DNS domain names, running processes, installed software, and system locales. The malware sends them to an attacker-controlled server. Thousands of machines in more than 100 countries were targeted. Out of the many machines infected, about 12 of them, belonging to retail, scientific, government, and manufacturing organizations, have received a follow-on payload—an indication that the supply-chain attack targets select groups.\nThe incident is only the latest supply-chain attack. Other such attacks include the poisoning of the CCleaner Windows utility in 2017, the Solar Winds app management software for enterprises in 2020, and 3CX VoIP client in 2023. Such attacks are hard to defend against because users are infected when they do nothing more than install digitally signed updates available through official channels. In all three cases it took weeks or months before the compromised update distribution channels were discovered.\n“Based on our long-term experience of analyzing supply chain attacks, we can conclude that attackers orchestrated the DAEMON Tools compromise in a highly sophisticated manner,” Kaspersky researchers wrote. “For example, the time it took to detect this attack, which turned out to be about one month, is comparable to the 3CX supply chain attack which we researched together with the cybersecurity community in 2023. Given the high complexity of the attack, it is paramount for organizations to carefully examine machines that had DAEMON Tools installed, for abnormal cybersecurity-related activities that occurred on or after April 8.”",
+    "content_source": "trafilatura",
+    "content_chars": 2486,
+    "content_excerpt": "Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates from the servers of its developer, researchers said Tuesday.\nKaspersky, the security firm reporting the supply-chain attack, said it began on April 8 and remained active as of the time its post went live. Installers that are signed by the developer’s official digital certificate and downloaded from its website infect Daemon Tools executables, causing the malware to run at boot time. Kaspersky didn’t explicitly say so, but based on technical details, the infected versions appear to be only those that run on Windows. Versions 12.5.0.2421 through 12.5.0.2434 are affected. Neither Kaspersky nor developer AVB could be contacted immediately for additional details.\nHard to defend against\nInfected versions contain an initial payload that collects MAC addresses, hostnames, DNS domain names, running processes, installed software, and system locales. The malware sends them to an attacker-controlled server. Thousands of machines in more than 100 countries were targeted. Out of the many machines infected, about 12 of them, belonging to retail, scientific, government, and manufacturing organizations, have received a follow-on payload—an indication that the supply-chain attack targets select groups.\nThe incident is only the latest supply-chain attack. Other such attacks include the poisoning of the CCleaner Windows utility in 2017, the Solar Winds app management software for enterprises in 2020, and 3CX VoIP client in 2023. Such attacks are hard to defend against because users are infected when they do nothing more than install digitally signed updates available through official channels. In all three cases it took weeks or months before the compromised update distribution channels were discovered.\n“Based on our long-term experience of analyzing supply chain attacks, we can conclude that attackers orchestrated the DAEMON Tools compromise in a highly sophisticated manner,” Kaspersky researchers wrote. “For example, the time it took to detect this attack, which turned out to be about one month, is comparable to the 3CX supply chain attack which we researched together with the cybersecurity community in 2023. Given the high complexity of the attack, it is paramount for organizations to carefully examine machines that had DAEMON Tools installed, for abnormal cybersecurity-related activities that occurred on or after April 8.”",
+    "title_zh": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
+    "summary_zh": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
+    "ai_summary": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat"
+  },
+  {
+    "id": "9f3a2c3aa6fa",
+    "title": "Apple could let you pick a favorite AI model in iOS 27",
+    "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-05T19:45:30",
+    "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expecte",
+    "collected_at": "2026-05-06T02:05:22.747201",
+    "content_text": "The next update to Apple’s operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg’s Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running Siri, compatible third-party AI models, called “Extensions,” will also now be able to run other Apple Intelligence features like Writing Tools and Image Playground.\nApple could let you pick a favorite AI model in iOS 27\nAI ‘extensions’ could let users run Apple Intelligence with third-party AI models — and not just ChatGPT.\nAI ‘extensions’ could let users run Apple Intelligence with third-party AI models — and not just ChatGPT.\nAccording to Gurman, Apple will also allow users to choose different Siri voices for different AI models — Siri responses from one of Apple’s AI models could have one voice, while an instance of Siri running on ChatGPT could use another voice.\nUsers will be able to “choose from AI model providers that opt in by adding support through their App Store apps.” Once a compatible AI app is installed, users will be able to set it as their preferred AI through the Settings app. Gurman says Apple is already internally testing integrations with Google and Anthropic’s AI models. Google’s models are also the backbone of Apple’s upcoming Siri revamp, but so far ChatGPT has been the only third-party AI model integrated into Apple Intelligence, which may not be the case much longer.",
+    "content_source": "trafilatura",
+    "content_chars": 1550,
+    "content_excerpt": "The next update to Apple’s operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg’s Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running Siri, compatible third-party AI models, called “Extensions,” will also now be able to run other Apple Intelligence features like Writing Tools and Image Playground.\nApple could let you pick a favorite AI model in iOS 27\nAI ‘extensions’ could let users run Apple Intelligence with third-party AI models — and not just ChatGPT.\nAI ‘extensions’ could let users run Apple Intelligence with third-party AI models — and not just ChatGPT.\nAccording to Gurman, Apple will also allow users to choose different Siri voices for different AI models — Siri responses from one of Apple’s AI models could have one voice, while an instance of Siri running on ChatGPT could use another voice.\nUsers will be able to “choose from AI model providers that opt in by adding support through their App Store apps.” Once a compatible AI app is installed, users will be able to set it as their preferred AI through the Settings app. Gurman says Apple is already internally testing integrations with Google and Anthropic’s AI models. Google’s models are also the backbone of Apple’s upcoming Siri revamp, but so far ChatGPT has been the only third-party AI model integrated into Apple Intelligence, which may not be the case much longer.",
+    "title_zh": "苹果可以让你在 iOS 27 中选择最喜欢的 AI 模型",
+    "summary_zh": "苹果操作系统的下一次更新可能会允许用户选择他们喜欢的人工智能模型来运行苹果智能。据彭博社的 Mark Gurman 称，苹果计划允许第三方聊天机器人在 iOS 27、iPadOS 27 和 macOS 27 中的全系统范围内支持其人工智能功…",
+    "ai_summary": "苹果操作系统的下一次更新可能会允许用户选择他们喜欢的人工智能模型来运行苹果智能。据彭博社的 Mark Gurman 称…"
+  },
+  {
     "id": "7e9641e74763",
     "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
     "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
@@ -280,6 +479,20 @@
     "content_source": "readability",
     "content_chars": 1186,
     "content_excerpt": "Vercel 开源\nOpen Agents\n，支持创建和运行后台编码智能体。它为开发者提供了一套完整的全栈解决方案，让开发者无需依赖本地设备就能运行独立的编码工作流。\nOpen Agents 采用三层架构：Web 接口层、智能体工作流层以及沙箱化的执行环境。Web 层负责身份认证、会话管理与流式交互。智能体以持久化工作流的形式运行，代码执行则在隔离的虚拟机沙箱内完成，沙箱可提供文件系统访问、Shell 命令执行和开发服务器等能力。\n其核心架构设计在于将智能体与沙箱解耦。智能体不会直接在虚拟机内部执行代码，而是通过文件操作、搜索、Shell 命令等工具与沙箱交互。这种设计能够让智能体生命周期与沙箱生命周期独立演进，同时支持工作流脱离单次请求实现持久化运行，沙箱还可根据实际需求进行暂停、休眠与恢复。\n该平台支持多步执行、流式输出以及任务取消功能。开发者可克隆仓库、创建分支，并借助 GitHub 集成实现提交与拉取请求的自动化操作。会话能够通过只读链接进行分享，并支持接入 ElevenLabs 转录服务实现语音输入。\n从运行时角度看，Open Agents 依赖持久化工作流而非基于请求的执行模式。每次交互都会触发一个工作流，可跨越多个步骤并随时间持续运行。活动会话可通过重新连接工作流流来恢复，而沙箱则利用基于快照的状态机制在闲置后还原环境。\n该项目需要若干基础设施组件才能运行，包括用于状态管理和 OAuth 认证的 PostgreSQL 数据库，以及用于访问仓库和自动化创建拉取请求等任务的 GitHub 集成。可选组件如 Redis 或键值存储可用于数据缓存。\nOpen Agents 的定位是参考实现，而非成品项目。该仓库可供开发者 Fork 并进行二次开发，让开发者能够深入了解智能体工作流、沙箱编排以及各类集成功能的具体实现方式。该项目可在 Vercel 上部署，可手动配置环境变量与各项服务，完整展现底层的系统设计。\n智能体逻辑与执行环境的分离引发了各界不同反响。Michiel Voortman"
+  },
+  {
+    "id": "v2ex-1210356",
+    "title": "又一个天才程序员陨落了，刚续费五天",
+    "url": "https://www.v2ex.com/t/1210356",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-05T13:28:12",
+    "summary": "Hello, An internal investigation of suspicious signals associated with your account indicates a violation of our Usage Policy. As a result, we have revoked your access to Claude. To appeal our decision, please fill out this form or learn more about the appeals process here. Regards Anthropic's Safeg",
+    "collected_at": "2026-05-06T02:05:38.089977",
+    "content_text": "@\nherozzm\n@\ncatazshadow\n@\nguichen\n我的观点是从去年中开始，因为 claude sonnet 4.1 还是哪个版本来着，viber coding 能力大幅提升，然后我就开始逐渐放弃自己写代码了，并且去年就觉得文科生未来会有优势，这也不是凭空想象，而是代码工作了快二十年经历中，对程序员同事的沟通体验的感受总结。只有很小一部分人逻辑真正清晰、能把事情讲清楚，这些基本都是计算机专业的理科生出身。V 站理科生应该挺多的吧，但是日常帖子和评论，也是如此，不信各位多找几个帖子认真分析下就知道了。名校、大厂级别好些的，能把事情讲清楚的比例大一些，但仍然有许多讲不清的，讲不清的这些人里不乏级别和收入都不错的。\n> 文科生又开始自我幻想了\n@\nBinwalker\n我的一点写着玩的项目，不厉害，但是应该足够证明我逻辑能力还算可以：\nhttps://github.com/lesismal/arpc\nhttps://github.com/lesismal/nbio\n这是 benchmark 跟别人 pk 的一点情况：\nhttps://colobu.com/2022/07/31/2022-rpc-frameworks-benchmarks\n以后 AI Coding 能力越来越强了，文科生不懂代码的劣势可以忽略了。龙虾好像就是大量 AI 代码，而现在还只是 ChatGPT 火了之后的短短两三年而已，只是过度阶段。现在 AI 能力不足的地方，未来会填平并且更强。\n1. 去年我就觉得以后文科生会优势；\n2. 然后周鸿祎也出来说过，但是老周口碑不太好我也没当回事；\n3. 前阵子黄仁勋也出来说文科生的事情了，老黄说这话应该算比较有分量了吧？\n4. 然后有大厂 AI 抢文科生的新闻，不知道真假，但至少是个热度或者风向。\n以上这四点我只是按时间线讲下事实。但有的人看到我说自己去年就这样觉得然后把大佬放我时间线后面，可能就会说我装逼了——这样想的人也是逻辑混乱的，因为大佬们这样想法可能更早只是没那么早说出来。\n如果因为现在 AI 还不足够强，就觉得 AI 未来也就还是只能这样，那真就是静止的眼光、不懂得用发展的眼光看问题了。高中哲学课好像确实是文科，理科生不懂用发展的眼光看问题好像也说得过去，但这方面的逻辑却是真的可能不如文科生中比较优秀的那些人了～\n> 天才程序员指的是 Claude 而不是自己，你理解错了吧\n@\ngiter\n我知道很多人这样讲是带着自嘲娱乐的心态的，但是看过太多这样讲的了，越看就会越觉得大伙逻辑不准确，这也是为什么我说文科生优势，因为这些绝大部分的理科生自己的逻辑、表达就没真正强。\n> 文科生会修 bug 吗🤣\n@\n88274382\n我一朋友文科生，自己纯 AI 搞自己日常使用的工具，他测试、提 bug 给 AI ，反正 AI 能修。当然，他只是做简单项目。复杂项目，AI 也只是时间问题。就我自己而言，十万行代码级别的，纯 AI 实现、有 bug 的时候只要我描述清楚、AI 修起来那是又快又好、比我修 bug 强多了。所以，会不会修 bug 真的不重要了。\n各位共勉～",
+    "content_source": "readability",
+    "content_chars": 1312,
+    "content_excerpt": "@\nherozzm\n@\ncatazshadow\n@\nguichen\n我的观点是从去年中开始，因为 claude sonnet 4.1 还是哪个版本来着，viber coding 能力大幅提升，然后我就开始逐渐放弃自己写代码了，并且去年就觉得文科生未来会有优势，这也不是凭空想象，而是代码工作了快二十年经历中，对程序员同事的沟通体验的感受总结。只有很小一部分人逻辑真正清晰、能把事情讲清楚，这些基本都是计算机专业的理科生出身。V 站理科生应该挺多的吧，但是日常帖子和评论，也是如此，不信各位多找几个帖子认真分析下就知道了。名校、大厂级别好些的，能把事情讲清楚的比例大一些，但仍然有许多讲不清的，讲不清的这些人里不乏级别和收入都不错的。\n> 文科生又开始自我幻想了\n@\nBinwalker"
   },
   {
     "id": "f7524164da4b",
@@ -4399,204 +4612,6 @@
     "content_excerpt": "在 AI 编程工具进入大乱斗时代的今天，我们似乎已经习惯了各种功能的堆叠。但在 libGDX 创始人、17 年开源老兵 Mario Zechner 眼中，这一切正变得越来越不可控。\n“当你发现 AI 在背地里偷偷修改你的上下文，而你却对此一无所知时，这种掌控感的丧失是极其危险的。”\n近日，在 Tessel 举办的开发者大会上，Mario 不仅公开吐槽了 Claude Code、OpenCode，更带出了他的极简主义“反叛之作”——pi。这是一个只有 read、write、edit、bash 四种工具，拥有主流 agent 里最短的 system prompt，却有着极致的可扩展性、能让开发者重拾掌控权的终端编程 agent。\n本文基于该演讲视频整理，经 InfoQ 编辑。\n核心观点如下：\nClaude Code 现在就是一架宇宙飞船，它功能多到你可能只用过其中的 5%，了解的也就 10%，剩下 90% 全是 AI 和 agents 领域的“暗物质”，没人知道它背地里到底在干嘛。\n现有的编程框架里，很多功能可能并不是获得好结果的必需品。不需要文件工具，不需要子 agent，不需要联网搜素，啥都不需要。\n我们现在正处于“一边瞎折腾一边看结果”的阶段，没人知道完美的编程 agent 到底该长啥样。我们需要更好的“折腾”方式，编程 agent 必须是可自修改、可塑性极强的，这样我们才能快速实验新想法，看看能不能折腾出某种新的行业标准或 workflow。\n真正需要 linting 和类型检查的时机只有一个：那就是 agent 觉得自己彻底完活儿的时候。\nChatGPT→Copilot→Aider→Claude Code"
   },
   {
-    "id": "805fe2d33884",
-    "title": "China freezes new robotaxi licenses after Baidu chaos",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-29T10:39:21",
-    "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent co",
-    "collected_at": "2026-04-29T13:34:08.983262",
-    "content_text": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos.\nChina freezes new robotaxi licenses after Baidu chaos\nDozens of Baidu’s Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\nDozens of Baidu’s Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\nThe restrictions will prevent companies from adding new driverless cars to their fleets, expanding into new cities, or starting new test projects. It is unclear when officials will start issuing new licenses again.\nBloomberg said the Wuhan incident alarmed authorities in Beijing, prompting regulators to urge local governments to review the sector to prevent similar episodes. It is at least the second time regulators have intervened after a Baidu-related incident, the report said, and the company’s Wuhan operations remain on pause while local authorities investigate the matter.",
-    "content_source": "trafilatura",
-    "content_chars": 1131,
-    "content_excerpt": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos.\nChina freezes new robotaxi licenses after Baidu chaos\nDozens of Baidu’s Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\nDozens of Baidu’s Apollo Go robotaxis froze in traffic last month, sparking alarm in Beijing, Bloomberg reports.\nThe restrictions will prevent companies from adding new driverless cars to their fleets, expanding into new cities, or starting new test projects. It is unclear when officials will start issuing new licenses again.\nBloomberg said the Wuhan incident alarmed authorities in Beijing, prompting regulators to urge local governments to review the sector to prevent similar episodes. It is at least the second time regulators have intervened after a Baidu-related incident, the report said, and the company’s Wuhan operations remain on pause while local authorities investigate the matter.",
-    "title_zh": "百度混乱后中国冻结新的机器人出租车牌照",
-    "summary_zh": "彭博社援引不愿透露姓名的知情人士的话报道称，中国已暂停发放新的自动驾驶汽车牌照。此前，中国科技巨头百度运营的数十辆机器人出租车上个月在武汉陷入交通瘫痪，造成混乱。这些限制将阻止合作",
-    "ai_summary": "彭博社援引不愿透露姓名的知情人士的话报道称，中国已暂停发放新的自动驾驶汽车牌照。此前，中国科技巨头百度运营的数十辆机器人…"
-  },
-  {
-    "id": "9c3a8b28bc10",
-    "title": "基于 Apache Camel 编排智能体与多模态 AI 管道",
-    "url": "https://www.infoq.cn/article/f9R3c36aEkCsVSqoFoyF?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-29T11:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:05:50.573890",
-    "content_text": "引言\n随着人工智能的普及，系统正从简单的模型调用演变为融合推理、检索与行动的多步骤工作流。智能体 AI（Agentic AI）指以模型作为推理智能体的系统：它自主决定使用哪些工具、查询哪些信息以及以何种顺序执行任务。多模态 AI 进一步具备了在同一流程中处理文本、图像、结构化数据等不同类型输入的能力。这两种模式在企业场景中应用日益广泛，同时也大幅增加了工程落地的难度。\n大多数现代 AI 系统并非因为模型能力不足而失败。相反，它们失败是因为模型周围的系统设计得不合理。随着越来越多的团队开始使用大语言模型、向量数据库和视觉模型，同样的问题不断在生产环境中出现：流水线脆弱、故障原因模糊、使用成本高昂，以及管控能力有限。\nFivetran 2026 年基准报告针对 500 位企业领导者开展调研，97% 的受访者表示，流水线故障拖慢了他们的 AI 项目，53% 的工程资源仅用于流水线维护工作。MIT 2025 年 NANDA 报告显示，95% 的生成式 AI 试点无法产生可量化的业务价值，存在缺陷的企业集成方案（而非模型质量问题）被认定为核心症结。标普全球市场财智调查显示，2025 年有 42% 的公司放弃了大部分 AI 计划，高于 2024 年的 17%，平均每家企业在投入实际生产前，放弃了 46% 的概念验证项目。核心问题并非模型的智能水平不足，而是缺少对各类组件的统一管控能力。\n本文阐述了如何将智能体与多模态 AI 系统作为可靠软件开展工程化落地，而不只是将其当作实验性产品。我们将使用Apache Camel作为控制系统，LangChain4j作为智能体运行时。我们将研究一个真实的工单分类系统，该系统包含多个关键组件：\n基于 LLM 的推理\n检索增强生成（RAG）\n使用 TensorFlow Serving 的图像分类\n用于可靠性和治理的确定性集成模式\n最终将得到一个具备企业级运行能力的 AI 流水线。它便于监控、运行稳定，即便部分 AI 组件出现异常，整体运行依旧可预测。\n从以模型为中心的 AI 到以系统为中心的 AI\n大多数 AI 教程只侧重简单调用模型，但真实的生产系统需要更全面的实现方案，包括对模型的高效管理与可控调度。在企业 AI 工作流中，这意味着决定何时使用大语言模型、选择它可以访问哪些工具、为非 LLM 任务添加可靠的基于规则的模型、平稳处理部分故障以保持系统稳定，以及创建可供合规和审查的结构化输出。正因如此，带有嵌入式智能体的 AI 流水线编排变得特别有用。智能体不只是循环运行的大语言模型，而是深度集成在规模化、规范化执行系统中的推理核心。在这种架构中，传统企业系统中成熟可靠的集成方案可继续保障整体系统的稳定性与运行效率。\n为什么说 Apache Camel 适合用于基于智能体 AI 的工作负载\n在大多数传统智能体 AI 实现中，大语言模型同时承担推理引擎与执行控制器的双重角色。LangChain、CrewAI 和 AutoGen 等框架让智能体决定调用哪些工具、管理对话记忆和排序操作，所有这些都发生在智能体运行时内部。这类框架在 API 调用层面提供基础的重试能力，但它们本身并不具备熔断器、负载校验、确定性降级路由等企业级弹性能力。这对于原型和单用户应用来说效果很好，但在生产环境中会暴露出诸多问题。错误处理逻辑需要手动嵌入智能体代码，大幅增加故障排查难度；智能体的决策逻辑与执行流程缺乏清晰边界。尽管 LangSmith 等外部工具可以增加可观测性，但这种能力并未原生内置在执行架构中。由于核心控制逻辑完全内嵌在 AI 内部，系统的扩容扩展、版本管理与合规治理也随之变得难以落地。\n基于集成框架的方案将执行控制逻辑从智能体中剥离，交给成熟可靠的编排层统一管理，以此来改变原有的实现方式。在这种模型中，LLM 智能体依旧负责推理判断与行动决策，而 Apache Camel 这类框架则负责定义执行方式与执行时机。路由转发、重试机制、熔断降级、负载校验以及任务排序均由 Camel 路由统一管控，不再依赖智能体。这种模式能够让工程团队用管理传统企业集成流程的同等管控能力来运维 AI 工作流。图 1 直观展示了两种架构的核心差异。\n图 1：传统基于智能体的 AI 与基于集成框架的智能体 AI\nApache Camel 通常被视为一种集成框架，但在 AI 密集型系统中，它承担着更具战略性的角色，即充当 AI 控制平面。它提供多项核心能力，包括清晰的路由调度、上下文信息补全、依靠熔断器与重试机制实现故障隔离，以及为不确定性流程步骤提供确定性排序。Camel 还明确拆分了推理任务与执行任务。它不会将控制逻辑隐藏在提示词或 SDK 回调中，而是把控制流程下沉至模块化路由，便于测试、监控与迭代维护。在这种架构中，大语言模型负责推理分析，最终的执行决策则由 Camel 统一把控。\n然而，将 Apache Camel 应用于基于智能体的 AI 工作负载也存在一些权衡。Camel 是一个基于 Java 的框架，这意味着以 Python（AI 与机器学习生态的主流语言）为主要开发语言的团队将会面临更高的上手门槛，且相较于庞大的 Python AI 工具生态，Java 可用的 AI 类库选择更为有限。Camel 路由十分适合用于结构化、确定性的工作流，但并不适合高度动态的智能体操作，这类场景的执行路径无法预先确定，需要进行多轮大模型推理动态生成。调试封装了 AI 交互逻辑的 Camel 路由也会比调试直接调用大模型的 Python 脚本更为复杂。除此之外，AI 或数据科学领域出身、缺乏企业集成开发经验的团队对基于内容的路由、死信队列、线路监听等企业集成设计模式会相对陌生。但这些局限并不会削弱 Camel 作为一个编排层的价值，但确实也表明它更适合已深度采用 Java 技术架构、追求生产级稳定性而非优先快速搭建原型的企业与团队。\n真实世界的问题：支持工单分类系统\n本文介绍的案例研究围绕一个面向实际部署而设计的生产级支持工单分类系统展开。在处理单个工单时，系统会接收工单标题、问题描述、可选截图及相关元数据（如提交人信息与工单编号），并按照既定逻辑输出结构化 JSON 决策结果，其中包含多项内容：工单分类（包含故障、事件、权限申请等类型）、P0 至 P3 四级优先级、责任归属团队、后续处理建议、内部文档引用内容，以及通过图像分析获取的附加参考信息。关键在于这个系统并非以聊天机器人的形式运行，而是一个轻量化、非对话式的自动化流程，无需人机交互界面，确保输出结果具备确定性、易于程序解析，同时支持全流程审计，满足责任追溯与合规监管要求。\n架构概述：确定性流水线中的智能体\n前面所描述的支持工单分类系统需要处理结构化与非结构化的混合输入，包括文本描述、元数据字段以及可选的截图附件，各类输入均需采用不同的处理策略。要将工单划分到正确的类别并标定对应优先级，需要结合多类输入进行综合推理，而非单纯依靠关键词匹配。文本内容需要借助检索增强生成能力匹配内部文档，输出有效的上下文与参考引用。截图附件则需要通过视觉模型单独解析，提取报错弹窗、界面异常等关键信息，为分类决策提供辅助。纯规则驱动的系统无法妥善处理这类输入；若不加约束、直接将全部内容交由单一大模型处理又会导致成本不可控、输出结果不稳定。这种业务场景适合使用多模态智能体方案，核心原因在于：系统需要依靠智能体自主判断每个工单应该调用那个模块，并结合图像识别等专项任务专用模型，整体运行在确定性流水线中，确保每一项决策可追溯审计、每一处异常可妥善处理。\n图 2 展示了智能体驱动的多模态 AI 流水线的整体控制流程，清晰呈现出 Apache Camel 如何在确定性执行链路中编排大模型推理、检索增强生成与各类模型服务。这个系统由多个核心模块构成：Apache Camel 路由作为核心编排层；LangChain4j 智能体负责逻辑推理与工具选择；Qdrant 等向量数据库为 RAG 能力提供支撑；TensorFlow Serving 部署并运行 ResNet50 图像处理模型；同时还接入了兼容 OpenAI 接口规范的外部大模型服务。智能体不会直接对接底层基础设施，而是通过调用专属工具完成各项操作。每项工具操作均由 Camel 统一调度管理，Camel 的企业集成模式大幅提升 AI 交互的稳定性与可靠性。整个架构遵循一个核心设计原则：由大模型承担推理工作，专用模型负责专项业务处理，再由 Camel 管理整个过程。\n图 2：架构概览\n实践中的 AI 智能体：是工具，不是魔法\n系统中的 LangChain4j 智能体只有有限的访问权限。它只能调用少量且定义明确的工具集合。\nsearchDocs\n(query) ——通过向量数据库提供语义搜索lookupRunbook\n(team, category)——提供静态操作指南callModelServer\n(imagePath)——负责图像分类createJiraStub\n(summary, priority, team)——执行下游操作\n智能体专注于任务规划，而非具体执行。它负责选定需要调用哪些工具及调用顺序，再由 Camel 落地执行，并统一处理超时、重试与结果校验等问题。这种设计能够规避智能体系统中的一类常见问题：无意义的循环调用工具。\nRAG 的集成难题\n尽管 RAG 通常被视为一项核心 AI 技术，但在实际应用场景中，它更是一个集成难题。在本系统中，文档会在服务启动时被摄取到 Qdrant 中，为提升运行效率，向量嵌入只生成一次；查询请求会筛选出相似度最高的 Top-K 上下文片段，检索到的内容再通过信息补全流程附加到数据交互链路中。大语言模型不会直接对接向量数据库，而是由 Camel 负责检索整个流程，严格管控负载大小，规范引的用内容，确保上下文注入全程可观测、可约束。由此，RAG 变成了一个可稳定预判的机制，有结构化的路由，并不是临时的逻辑。如图 3 所示，执行流程清晰展示了 Camel 如何管控流程中的每一个环节，包括文档检索、上下文补全，直至最终生成结构化输出。\n图 3：执行流程图\n无需多模态模型的多模态 AI\n从这个项目得到的一个关键结论是：你可以在没有多模态模型的情况下构建多模态系统。我们不是直接将图像传给大语言模型，而是将截图推送给 TensorFlow Serving。由 ResNet50 模型生成内容标签与置信度分数，再将这些结果作为结构化特征数据提供给智能体，智能体基于这些数据进行推理。这种方案成本更低、运行效率更高，也更便于运维管控。大语言模型可以专注发挥自身的核心能力，这一点在生产环境中尤为关键。图 4 展示了支持工单在智能体驱动的流水线中的完整执行路径，包含初始路由分发、智能体推理、RAG 检索、图像分析，再到最终生成结构化输出的全过程。\n图 4：支持工单分类序列图\n代码实操\n现在我们已经了解了整体架构与执行流程，接下来看看示例应用的项目结构和依赖项配置。\n项目结构\ncamel-support-triage-agent/\n├── common/ # DTOs and shared domain model\n├── infra/ # Docker-based vector DB and model serving\n├── triage-service/\n│ ├── routes/ # Camel routes\n│ ├── llm/ # LLM client abstractions\n│ ├── tools/ # Agent tools\n│ └── vectordb/ # Vector DB access\n├── docs/\n├── build.gradle\n该项目是使用以下技术栈构建的多模块 Gradle 应用程序。\n基础设施可通过 Docker Compose 在本地启动：Qdrant 为 RAG 提供向量检索能力，TensorFlow Serving（或轻量模拟服务器）为多模态链路提供图像推理服务。\ndocker-compose.yml\nservices:\nqdrant:\nimage: qdrant/qdrant:v1.7.4\nports: [\"6333:6333\"]\nhealthcheck:\ntest: [\"CMD\", \"curl\", \"-f\", \"http://localhost:6333/health\"]\ntensorflow-serving:\nimage: tensorflow/serving:latest\nports: [\"8501:8501\", \"8500:8500\"] # REST + gRPC\nvolumes: [\"./models:/models\"]\nenvironment:\n- MODEL_NAME=resnet\nprofiles: [\"real\"]\nmock-model-server:\nimage: python:3.11-slim\nports: [\"8502:8502\"]\n为简洁起见，这里省略了完整的 Docker Compose 文件（包含网络、数据卷、健康检查优化及启动脚本）。\ntriage-service 子项目会启动 REST 服务，接收传入工单，并通过以下两条 Camel 路由完成处理流程：\nDocumentIngestionRouteBuilder.java（启动时将示例文档摄取到向量数据库的路由）\nTriageRouteBuilder.java（工单分类的主 Camel 路由）\nAI 相关元素在以下类中实现，由 TriageRouteBuilder 类调用这些类：\nTriageTools.java（暴露给 LLM 智能体用于工单分类的工具）\nOpenAiCompatibleChatClient.java（集成 OpenAI API 的 LLM 聊天客户端）\nQdrantVectorDbClient.java（Qdrant 向量数据库客户端实现）\n所有组件的完整源代码可在 GitHub 仓库中获取。\n读者可以克隆仓库，在本文之外探索完整的实现。\n单个分类流程的日志输出\n故障是常态：主动为故障做架构设计\n这个项目最有价值的部分之一是从失败中学习，而不仅仅是取得成功。这些挑战为真实世界部署积累了宝贵经验。项目落地过程中遇到诸多实际问题，例如 TensorFlow Serving 的 Docker 镜像和模型版本之间的差异、导致静默连接失败的超大 REST 请求负载（约 900KB 的张量）、模型服务器的冷启动延迟，以及 TensorFlow Serving 中未记录的 HTTP 限制。项目并未刻意掩盖这类问题，而是在架构设计阶段就提前预判并针对性处理，让系统在复杂不确定的环境中具备更强的稳定性与容错能力。\n为完成这项任务，Camel 为每一个外部调用封装了 Resilience4 j熔断器等防护机制，设置超时和重试策略，并提供降级兜底方案，以此保障核心操作稳定运行。因此，即使图像分类失败，系统依旧能够仅依靠文本分析与 RAG 能力输出可靠的分类结果。这是一个有意的设计选择，充分体现了严谨且具备弹性的工程设计实践。\n为什么要做出这些权衡\n该系统的架构源于一系列兼顾功能、可靠性与可维护性的审慎设计选择：\nTensorFlow Serving\n选择它是因为模型可用性和生态系统成熟度，尽管存在 REST 限制。\nQdrant\n轻量级本地配置、快速迭代和简单的操作模型。\n调用工具的智能体优于纯 RAG\n因为推理何时进行检索或分类与检索本身同样重要。\n无自主循环\n每条执行路径都能够确定性地终止。\n无微调\n重点是系统架构，而非模型优化。\n这些约束条件让工程团队（而不仅仅是 AI 专家）能够理解并运维该系统。\n结论\n智能体与多模态 AI 并非只是未来的构想，而是各类组织当下需要直面的实际架构难题。不要局限于某一种框架或模型，而是建立全新的设计思维：将 AI 组件视为需要严格管控的不可靠依赖，采用成熟可靠的集成模式适配概率性系统，保持推理与执行环节的隔离，围绕局部故障开展设计，而非追求理想化的智能表现。将 Apache Camel 与现代 AI 工具相结合提供了切实可行的发展方向。这种方式既沉淀了多年的集成实践经验，又能充分发挥新技术的价值。归根结底，在生产环境中，稳健可靠的架构远比纯粹的智能更为关键。\n【声明：本文由 InfoQ 翻译，未经许可禁止转载。】",
-    "content_source": "trafilatura",
-    "content_chars": 6804,
-    "content_excerpt": "引言\n随着人工智能的普及，系统正从简单的模型调用演变为融合推理、检索与行动的多步骤工作流。智能体 AI（Agentic AI）指以模型作为推理智能体的系统：它自主决定使用哪些工具、查询哪些信息以及以何种顺序执行任务。多模态 AI 进一步具备了在同一流程中处理文本、图像、结构化数据等不同类型输入的能力。这两种模式在企业场景中应用日益广泛，同时也大幅增加了工程落地的难度。\n大多数现代 AI 系统并非因为模型能力不足而失败。相反，它们失败是因为模型周围的系统设计得不合理。随着越来越多的团队开始使用大语言模型、向量数据库和视觉模型，同样的问题不断在生产环境中出现：流水线脆弱、故障原因模糊、使用成本高昂，以及管控能力有限。\nFivetran 2026 年基准报告针对 500 位企业领导者开展调研，97% 的受访者表示，流水线故障拖慢了他们的 AI 项目，53% 的工程资源仅用于流水线维护工作。MIT 2025 年 NANDA 报告显示，95% 的生成式 AI 试点无法产生可量化的业务价值，存在缺陷的企业集成方案（而非模型质量问题）被认定为核心症结。标普全球市场财智调查显示，2025 年有 42% 的公司放弃了大部分 AI 计划，高于 2024 年的 17%，平均每家企业在投入实际生产前，放弃了 46% 的概念验证项目。核心问题并非模型的智能水平不足，而是缺少对各类组件的统一管控能力。\n本文阐述了如何将智能体与多模态 AI 系统作为可靠软件开展工程化落地，而不只是将其当作实验性产品。我们将使用Apache Camel作为控制系统，LangChain4j作为智能体运行时。我们将研究一个真实的工单分类系统，该系统包含多个关键组件：\n基于 LLM 的推理\n检索增强生成（RAG）\n使用 TensorFlow Serving 的图像分类\n用于可靠性和治理的确定性集成模式\n最终将得到一个具备企业级运行能力的 AI 流水线。它便于监控、运行稳定，即便部分 AI 组件出现异常，整体运行依旧可预测。"
-  },
-  {
-    "id": "bb864aa9ccab",
-    "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
-    "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-29T10:04:25",
-    "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our s",
-    "collected_at": "2026-04-29T13:34:08.983304",
-    "content_text": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub’s internal git infrastructure that could have allowed attackers to access millions of public and private code repositories.\nGitHub rushed to fix a critical vulnerability in less than six hours\nA critical remote code execution vulnerability was discovered using an AI model and patched within hours.\nA critical remote code execution vulnerability was discovered using an AI model and patched within hours.\n“Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,” explains Alexis Wales, GitHub chief information security officer. “This was a critical issue that required immediate action.”\nGitHub’s engineering team developed a fix and deployed it just over an hour after identifying the root cause, protecting both GitHub.com and GitHub Enterprise Server. “In less than two hours we had validated the finding, deployed a fix to github.com, and begun a forensic investigation that concluded there was no exploitation,” says Wales. This meant the issue was fixed within six hours of the report from Wiz.\nThe vulnerability itself was discovered “using AI,” according to Wiz. It’s not clear exactly what AI model helped find the issue, though. “Notably, this is one of the first critical vulnerabilities discovered in closed-source binaries using AI, highlighting a shift in how these flaws are identified,” says Sagi Tzadik, a security researcher at Wiz.\nWhile GitHub’s rapid response meant a fix was deployed in just hours, Wiz warns that the rare vulnerability was “remarkably easy to exploit,” despite how complex GitHub’s underlying system is. “A finding of this caliber and severity is rare, earning one of the highest rewards available in our Bug Bounty program, and serves as a reminder that the most impactful security research comes from skilled researchers who know how to ask the right questions,” says Wales.\nThe discovery of a major vulnerability in GitHub comes just days after GitHub had a major outage that randomly reverted previously merged commits (code snapshots) for some users. GitHub also had other outages last week, in what’s increasingly becoming a trend for the service. I reported last week on employee concerns about GitHub reliability, highlighting one GitHub employee who says “the company is collapsing, both in outages that are reallllly bad and have torched the company reputation… and in an exodus of leadership.”",
-    "content_source": "trafilatura",
-    "content_chars": 2623,
-    "content_excerpt": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub’s internal git infrastructure that could have allowed attackers to access millions of public and private code repositories.\nGitHub rushed to fix a critical vulnerability in less than six hours\nA critical remote code execution vulnerability was discovered using an AI model and patched within hours.\nA critical remote code execution vulnerability was discovered using an AI model and patched within hours.\n“Our security team immediately began validating the bug bounty report. Within 40 minutes, we had reproduced the vulnerability internally and confirmed the severity,” explains Alexis Wales, GitHub chief information security officer. “This was a critical issue that required immediate action.”\nGitHub’s engineering team developed a fix and deployed it just over an hour after identifying the root cause, protecting both GitHub.com and GitHub Enterprise Server. “In less than two hours we had validated the finding, deployed a fix to github.com, and begun a forensic investigation that concluded there was no exploitation,” says Wales. This meant the issue was fixed within six hours of the report from Wiz.\nThe vulnerability itself was discovered “using AI,” according to Wiz. It’s not clear exactly what AI model helped find the issue, though. “Notably, this is one of the first critical vulnerabilities discovered in closed-source binaries using AI, highlighting a shift in how these flaws are identified,” says Sagi Tzadik, a security researcher at Wiz.\nWhile GitHub’s rapid response meant a fix was deployed in just hours, Wiz warns that the rare vulnerability was “remarkably easy to exploit,” despite how complex GitHub’s underlying system is. “A finding of this caliber and severity is rare, earning one of the highest rewards available in our Bug Bounty program, and serves as a reminder that the most impactful security research comes from skilled researchers who know how to ask the right questions,” says Wales.\nThe discovery of a major vulnerability in GitHub comes just days after GitHub had a major outage that randomly reverted previously merged commits (code snapshots) for some users. GitHub also had other outages last week, in what’s increasingly becoming a trend for the service. I reported last week on employee concerns about GitHub reliability, highlighting one GitHub employee who says “the company is collapsing, both in outages that are reallllly bad and have torched the company reputation… and in an exodus of leadership.”",
-    "title_zh": "GitHub 在不到六个小时内紧急修复了一个严重漏洞",
-    "summary_zh": "上个月，GitHub 员工在不到六个小时内修复了一个严重的远程代码执行漏洞。 Wiz Research 使用 AI 模型发现了 GitHub 内部 git 基础设施中的一个漏洞，该漏洞可能允许攻击者访问数百万个公共和私人代码存储库。 “我们…",
-    "ai_summary": "上个月，GitHub 员工在不到六个小时内修复了一个严重的远程代码执行漏洞。 Wiz Research 使用 AI 模型…"
-  },
-  {
-    "id": "c2f8e58d4ea4",
-    "title": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
-    "url": "https://www.infoq.cn/article/ZYb4eQL6z4QSQg38VCgZ?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-29T10:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T02:15:52.018543",
-    "content_text": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\nMemVerge 联合创始人 &CEO 范承工已确认出席 “Agent 数据、记忆与运行时基础设施” 专题，并发表题为《面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践》的主题分享。本次演讲围绕《AI 记忆在智能体与人类场景中的核心应用》展开，聚焦独立 AI Memory 记忆系统核心技术与落地实践，全方位拆解这套前沿系统的技术逻辑、场景价值与未来趋势。\n范承工，在创立 MemVerge 之前曾任猎豹移动 CTO，负责公司的人工智能、大数据和云战略，并率领全球技术平台团队。加入猎豹移动之前，担任 VMware 全球高级副总裁、存储事业部总经理，负责软件定义存储和大数据领域的战略制定与实施，期间率领团队研发出包括 Virtual SAN 在内的一系列改变业界的产品。更早之前，创立了 EMC 中国卓越研发集团。在加入 EMC 之前，担任 Rainfinity 联合创始人兼首席技术官，公司于 2005 年被 EMC 收购。在 Rainfinity 期间，发明了其文件虚拟化和高可用性产品。拥有加州理工学院电子工程硕士和博士学位，并在纽约库柏联合学院获得电子工程学士学位。他在本次会议的详细演讲内容如下：\n演讲提纲：\n一套独立的 AI Memory 记忆系统的技术架构\nAI 记忆系统和 AI 大模型，AI Agent 之间的架构和交互接口设计\nAI 记忆系统与后端的图/向量数据库的记忆存储技术\nAI 记忆系统达成 90%以上的 LoCoMo 准确率的关键能力\n2. 各类记忆的场景剖析以及典型 Agent 和实践中的价值\nAI 记忆的典型分类及各类记忆的经典 Agent 实践\nOpenClaw 记忆插件场景的下的 token 节省方案\n剖析和演示一个典型“强记忆”技术场景的智能体实践\n3. 对 AI Memory 的技术展望\nAI 记忆个人桌面应用的演进\n企业级 AI 记忆系统私有化部署能力的落地展望\nAI 记忆数据的激增，共享，长期存储和隐私保护技术\n听众收益：\n如何引入一个独立于模型的记忆系统，来提升 Agent 开发的能力和效率\n个人用户如何在本地建设自己的个人记忆，来增强自己和 AI 之间交互的个性化，让 AI 在长期对话中更加懂你\n如何在 OpenClaw 中引入独立的记忆插件，提升响应准确率的同事，大幅降低 token 消耗\n除此之外，本次大会还策划了端侧 AI、物理与数字空间智能化、世界模型与多模态智能突破、Agent 架构与工程化实践、Agent 安全与可信治理、企业级研发体系重构、AI 原生数据工程、AI 时代的个人提效与组织变革等 14 个专题论坛，届时将有来自不同行业、不同领域、不同企业的 50+资深专家在现场带来前沿技术洞察和一线实践经验。\n更多详情可扫码或联系票务经理 13269078023 进行咨询。",
-    "content_source": "trafilatura",
-    "content_chars": 1464,
-    "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\nMemVerge 联合创始人 &CEO 范承工已确认出席 “Agent 数据、记忆与运行时基础设施” 专题，并发表题为《面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践》的主题分享。本次演讲围绕《AI 记忆在智能体与人类场景中的核心应用》展开，聚焦独立 AI Memory 记忆系统核心技术与落地实践，全方位拆解这套前沿系统的技术逻辑、场景价值与未来趋势。\n范承工，在创立 MemVerge 之前曾任猎豹移动 CTO，负责公司的人工智能、大数据和云战略，并率领全球技术平台团队。加入猎豹移动之前，担任 VMware 全球高级副总裁、存储事业部总经理，负责软件定义存储和大数据领域的战略制定与实施，期间率领团队研发出包括 Virtual SAN 在内的一系列改变业界的产品。更早之前，创立了 EMC 中国卓越研发集团。在加入 EMC 之前，担任 Rainfinity 联合创始人兼首席技术官，公司于 2005 年被 EMC 收购。在 Rainfinity 期间，发明了其文件虚拟化和高可用性产品。拥有加州理工学院电子工程硕士和博士学位，并在纽约库柏联合学院获得电子工程学士学位。他在本次会议的详细演讲内容如下：\n演讲提纲：\n一套独立的 AI Memory 记忆系统的技术架构\nAI 记忆系统和 AI 大模型，AI Agent 之间的架构和交互接口设计\nAI 记忆系统与后端的图/向量数据库的记忆存储技术\nAI 记忆系统达成 90%以上的 LoCoMo 准确率的关键能力\n2. 各类记忆的场景剖析以及典型 Agent 和实践中的价值"
-  },
-  {
-    "id": "3878bff6e6ce",
-    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
-    "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-29T09:45:00",
-    "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-    "collected_at": "2026-04-29T13:34:08.892748",
-    "content_text": "At a U.S. military base in central California, four-seater all-terrain vehicles roam hillside trails. This is a training exercise, but not for the people in the vehicles: It’s an effort to train AI models to enter conflict zones.\nThe autonomous military ATVs are operated by Scout AI, a startup founded in 2024 by Colby Adcock and Collin Otis, that calls itself a “frontier lab for defense.” The company said on Wednesday that it has raised $100 million in a Series A round led by Align Ventures and Draper Associates, following its $15 million seed round in January 2025.\nScout invited TechCrunch for an exclusive tour of its training operations at a military base it asked us not to name.\nThe company is building an AI model it calls “Fury” to operate and command military assets, first for logistical support, but soon for autonomous weapons. CTO Collin Otis compares this work, which builds on existing LLMs, to training soldiers.\n“[Soldiers] start when they’re 18 years old, and sometimes they even start after college, so you want to start with that base level of intelligence,” Otis told TechCrunch. “It’s useful to start with someone who’s already made an investment and then say, ‘Hey, what do I have to do to teach this thing to be an incredible military AGI, versus just being a broadly intelligent AGI?’”\nScout has secured military technology development contracts totaling $11 million from organizations like DARPA, the Army Applications Laboratory, and other Department of Defense customers. It is one of 20 autonomy companies whose technology is being used by the U.S. Army’s 1st Cavalry Division during its regular training cycle at Fort Hood in Texas, with the expectation that the unit will bring along products that prove themselves when it next deploys in 2027.\nFor Scout’s internal testing, the rubber meets the dirt in the base’s hilly terrain, where the company’s operations team, led by former soldiers, is putting the vehicles through their paces on simulated missions.\nAutonomous cars are starting to be seen in more cities around the world, but they operate in more structured environments with rules. Operating autonomously on unmarked trails or off-road is another challenge entirely. Otis, who previously worked at autonomous trucking company Kodiak, said he was motivated to start Scout when he realized the system he helped build there wasn’t intelligent enough to operate in an unpredictable war zone.\nA new approach to autonomy\nScout is turning to a newer autonomy technology: Vision Language Action models, or VLAs, that are based on LLMs and used to control robots. First released by Google DeepMind in 2023, the technology seeded robotics startups like Physical Intelligence and Figure.AI, the humanoid robot company led by Adcock’s brother, Brett.\nColby Adcock is on Figure’s board, and he says that experience convinced him of the opportunity to bring broader intelligence to the military’s growing fleet of autonomous vehicles. His brother introduced him to Otis, who was advising Figure, and they set about applying the latest in AI to military solutions.\n“If I handed you the controller of a drone right now and I strapped a headset on you, you could learn to fly that thing in minutes,” Otis said. “You’re actually just learning how to connect your prior knowledge to these couple little joysticks. It’s not a big leap. That’s the way to think about VLAs and why they’re such an unlock.”\nIndeed, I got a chance to drive one of Scout’s ATVs around the rutty trails, and the terrain was challenging: steep hills, loose sand on turns, disappearing tracks, confusing intersections. I’m not an experienced ATV driver, but made a fair go on my first attempt (if I say so myself). That’s the kind of general intelligence the company wants in its models, which it has been training using these ATVs for just six weeks — it started off using civilian ATVs.\nI also rode in the ATV under autonomous control, and could feel the difference — it accelerates faster than a human who might be thinking about a passenger’s comfort. The operations team pointed out how the vehicles hug the right on wider trails, but stay in the middle of narrow ones, like their training drivers. They also, when confused, suddenly slow down to think over their next move, which happened a few times as the ATV carried us on a 6.5 km loop before returning to base.\nThough the VLAs are new enough that they are yet to be deployed by any company in an operational setting, “the technology is good enough to be doing that experimentation in the field with soldiers to figure out how to most be effective to U.S. forces,” said Stuart Young, a former DARPA program manager who worked on ground vehicle autonomy. And like other autonomy companies, Scout’s full stack also includes deterministic systems and other flavors of AI to round out its agents’ capabilities.\nYoung left DARPA this month to join Field after managing a program called RACER that asked companies to create high-speed, autonomous off-road vehicles, helping seed this space the same way that the organization’s Grand Challenge boosted self-driving cars. Two competitors in this space, Field AI and Overland AI, were spun out of that program, and Scout also participated later.\nThe first applications of ground autonomy, according to Scout executives and military technologists, will be automated resupply: Carrying water or ammunition to distant observation posts, or in a convoy where a crewed truck might be followed by six to ten autonomous vehicles, saving precious human labor for more important tasks.\nBrian Mathwich, an active duty infantry officer doing a stint as a military fellow at Scout, recalled a recent exercise in Alaska where he led a resupply convoy in total darkness and wished for autonomous vehicles to help him out.\nAdding intelligence to the Army’s motor pool\nScout sees itself primarily as a software company building an intelligence layer for military machines. It doesn’t intend to make the autonomous vehicles themselves, but instead build atop them.\nAdcock expects the startup’s first product to be widely adopted will be one called “Ox,” a command and control software bundled with hardened computer hardware like GPUs, communications and cameras. It’s intended to allow individual soldiers to orchestrate multiple drones and autonomous ground vehicles using prompts such as, “Go to this waypoint and watch for enemy forces.”\nHowever, making that software work requires training on real vehicles, which is why it has set up Foundry, its training range at the military base. There, drivers spend eight-hour shifts putting the ATVs through their paces, then work through a reinforcement learning system to log where they had to take over, which is used to improve the model. The base commander has even asked the company’s ATV to take a turn with security patrols.\nOne hypothesis Scout is testing is that VLAs will enable this relatively limited data set, alongside training data in simulations, to deliver a fully capable driving agent. While the vehicle seems comfortable on trails, for example, it isn’t ready to operate fully off-road.\nScout is also practicing with drones for reconnaissance and defense, giving them intelligence with vision language models.\nThe startup is working on a system that would see groups of munition drones fly with a larger “quarterback” platform that provides more compute resources to command them. For example, the drones could search a geographic area for hidden enemy tanks and attack them, possibly without human intervention. Otis contends that the alternative approach in such a scenario might be indirect artillery fire, which is imprecise compared to drone strikes.\nWhile autonomous weapons are a flash point in the politics of defense tech, experts note the concept is old: Heat-seeking missiles and mines have been used in warfare for decades. The question for technologists is how the weapons are controlled, according to Jay Adams, a retired U.S. Army Captain who leads Scout’s operations team.\nAdams notes the company’s munitions drones can be programmed to only attack threats in a specific geographic area, or only following human confirmation. He also says autonomous weapons platforms are unlikely to fire because they are scared, the way an 18-year-old soldier might be.\nVLAs, too, hold promise for improving targeting. Scout says its models are pre-trained on a specific set of military data to prepare them for, say, running into an enemy tank while on a resupply mission. Lt. Col. Nick Rinaldi, who supervises Scout’s work for the Army Applications Laboratory, says that while automated targeting is hard and unlikely to be used outside of constrained environments in the near term, the potential of VLAs to reason about threats make them a promising technology to investigate.\nAdams says the promise of drones that can identify their own targets is key to warfare in the future. While Russia’s invasion of Ukraine has generated intense interest in drone warfare, he believes that humans operating individual UAVs doesn’t scale well enough for the U.S. to face a large number of low-cost unmanned systems should they threaten U.S. forces.\nA mission to counter anti-military vibes\nLike many defense startups, Scout wears its mission on its sleeve, and its executives will freely criticize companies that are reluctant to hand their technology over to the government. Google, for example, reportedly pulled out of a Pentagon contest to develop control systems for autonomous drone swarms, a capability Scout is also working on.\n“The AI people don’t want to work with the military,” Otis told TechCrunch, referencing Anthropic’s spat with the Pentagon over its terms of service. “None of them are open to running agents on one-way attack drones, or running agents on missile systems.”\nNevertheless, Scout is using existing LLMs as the base to build its agents, though it declined to say which ones. Otis says it has agreements with “very well-known hyperscalers” to provide the pre-trained intelligence for Scout’s foundation model. He also declined to say if the company uses open-weight models, such as those offered by Chinese companies. Many companies reliant on AI inference build on top of open-weight models because they are cheaper compared to offerings from frontier labs like Anthropic or OpenAI.\nScout expects to address this by building its own model from the ground up in the years ahead, and the founders say much of its capital will go into those training and compute costs. Indeed, Otis wonders if Scout will beat the existing leaders to AGI because its model will be constantly interacting with the real world.\n“There’s an argument in the AGI community along the lines that you can only get so intelligent by reading the internet, and most intelligence comes with interacting in the world,” Otis said.\nDoes that mean Adcock is competing with his brother’s army of humanoid robots at Figure? No, Otis says, but “we can get to scale much faster because our customer has assets,” he said, referring to the Pentagon.",
-    "content_source": "trafilatura",
-    "content_chars": 11776,
-    "content_excerpt": "At a U.S. military base in central California, four-seater all-terrain vehicles roam hillside trails. This is a training exercise, but not for the people in the vehicles: It’s an effort to train AI models to enter conflict zones.\nThe autonomous military ATVs are operated by Scout AI, a startup founded in 2024 by Colby Adcock and Collin Otis, that calls itself a “frontier lab for defense.” The company said on Wednesday that it has raised $100 million in a Series A round led by Align Ventures and Draper Associates, following its $15 million seed round in January 2025.\nScout invited TechCrunch for an exclusive tour of its training operations at a military base it asked us not to name.\nThe company is building an AI model it calls “Fury” to operate and command military assets, first for logistical support, but soon for autonomous weapons. CTO Collin Otis compares this work, which builds on existing LLMs, to training soldiers.\n“[Soldiers] start when they’re 18 years old, and sometimes they even start after college, so you want to start with that base level of intelligence,” Otis told TechCrunch. “It’s useful to start with someone who’s already made an investment and then say, ‘Hey, what do I have to do to teach this thing to be an incredible military AGI, versus just being a broadly intelligent AGI?’”\nScout has secured military technology development contracts totaling $11 million from organizations like DARPA, the Army Applications Laboratory, and other Department of Defense customers. It is one of 20 autonomy companies whose technology is being used by the U.S. Army’s 1st Cavalry Division during its regular training cycle at Fort Hood in Texas, with the expectation that the unit will bring along products that prove themselves when it next deploys in 2027.\nFor Scout’s internal testing, the rubber meets the dirt in the base’s hilly terrain, where the company’s operations team, led by former soldiers, is putting the vehicles through their paces on simulated missions.\nAutonomous cars are starting to be seen in more cities around the world, but they operate in more structured environments with rules. Operating autonomously on unmarked trails or off-road is another challenge entirely. Otis, who previously worked at autonomous trucking company Kodiak, said he was motivated to start Scout when he realized the system he helped build there wasn’t intelligent enough to operate in an unpredictable war zone.\nA new approach to autonomy\nScout is turning to a newer autonomy technology: Vision Language Action models, or VLAs, that are based on LLMs and used to control robots. First released by Google DeepMind in 2023, the technology seeded robotics startups like Physical Intelligence and Figure.AI, the humanoid robot company led by Adcock’s brother, Brett.",
-    "title_zh": "Colby Adcock 的 Scout AI 筹集了 1 亿美元来训练其模型进行战争。我们参观了它的训练营",
-    "summary_zh": "我们参观了 Scout AI 的训练场，该公司正在开发人工智能代理，帮助单兵控制自动驾驶车队",
-    "ai_summary": "我们参观了 Scout AI 的训练场，该公司正在开发人工智能代理，帮助单兵控制自动驾驶车队"
-  },
-  {
-    "id": "7d4c4c3aa751",
-    "title": "Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
-    "url": "https://www.infoq.cn/article/j6GxoMDySAzVUFdE01oU?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-29T10:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T02:15:52.018581",
-    "content_text": "Anthropic\n在其 Claude 平台上推出了 Managed Agents\n，这是一套托管执行层，是为支持基于代理的工作流开发与运行。该能力允许开发者定义代理行为、工具调用方式及约束条件，同时将编排、沙箱隔离、会话状态管理、凭证处理和持久化等运行时职责交由平台负责。\n此次发布主要面向生产级使用场景，即代理需要执行长时间运行、多步骤的工作流，并涉及外部工具调用、错误恢复以及跨会话连续性。在这种模式下，团队无需自行构建和维护相关基础设施，而是可以通过 Managed Agents 提供的 API，以标准化方式部署和执行代理系统。\n从整体架构来看，Anthropic 将代理逻辑与执行基础设施进行了分离。开发者负责定义工作流和工具使用方式，而平台则提供运行时环境，承担安全执行、状态管理以及运行保障。Anthropic 将这一模式描述为一种“元框架（meta-harness）”方法：多个代理工作流运行在共享的执行底座之上，由底层统一处理通用运行时问题，同时保留代理设计层面的灵活性。\nManaged Agents 元框架架构（来源：\nAnthropic 博客\n）\n该系统包含用于代码执行的安全沙箱、面向外部系统的凭证管理、会话连续性支持，以及用于调试和审计的可观测能力。在长时间运行的工作流中，上下文管理仍然是关键问题，因为系统需要决定哪些信息应被保留、摘要化，或在超出模型上下文窗口限制时外部化存储。\nNTT DATA AI 高级总监\nRadhika Menon\n在领英上\n表示\n：\n过去需要数月搭建的复杂性基础设施，如今已成为平台原生能力。按每会话小时 8 美分计算，你可以在几天内而不是数月内完成从想法到生产落地。\n不过，也有一些从业者对生态控制权与可移植性提出担忧。Stealth 创始人\nWeilun Chen\n评论\n称\n：\n如果目标是成为一个平台，那么其发展路径定义就应该开源，并提出公共开放标准。但从我目前看到的内容来看，这更像是将用户锁定在他们的 SDK 和格式体系中。\n在代理系统开发实践中，开发者通常会借助外部状态存储与检索机制，以弥补模型上下文窗口的限制。这类方法通常用于维持工作流连续性、支持故障恢复，以及在长时间运行过程中保留代理行为的可追踪性。\n上下文持久化与恢复始终是有状态 AI 系统中的核心问题，尤其是在跨越单次会话的复杂工作流中。这通常意味着需要将中间状态保存在模型上下文之外，并在执行过程中重新检索，以确保多步骤之间的一致性。\nMufeez\n在 X 上指出：\n对上下文进行选择性保留或丢弃的不可逆决策，可能导致系统失败。\n根据 Anthropic 的说法，Managed Agents 提供的是一个包含会话状态接口、沙箱执行能力以及多代理工作流扩展能力的元框架。该系统将状态管理和计算等运行时职责从代理逻辑中剥离出来，使通用型代理与任务专用型代理都能够运行在统一的共享运行时层之上。",
-    "content_source": "readability",
-    "content_chars": 1215,
-    "content_excerpt": "Anthropic\n在其 Claude 平台上推出了 Managed Agents\n，这是一套托管执行层，是为支持基于代理的工作流开发与运行。该能力允许开发者定义代理行为、工具调用方式及约束条件，同时将编排、沙箱隔离、会话状态管理、凭证处理和持久化等运行时职责交由平台负责。\n此次发布主要面向生产级使用场景，即代理需要执行长时间运行、多步骤的工作流，并涉及外部工具调用、错误恢复以及跨会话连续性。在这种模式下，团队无需自行构建和维护相关基础设施，而是可以通过 Managed Agents 提供的 API，以标准化方式部署和执行代理系统。\n从整体架构来看，Anthropic 将代理逻辑与执行基础设施进行了分离。开发者负责定义工作流和工具使用方式，而平台则提供运行时环境，承担安全执行、状态管理以及运行保障。Anthropic 将这一模式描述为一种“元框架（meta-harness）”方法：多个代理工作流运行在共享的执行底座之上，由底层统一处理通用运行时问题，同时保留代理设计层面的灵活性。\nManaged Agents 元框架架构（来源：\nAnthropic 博客\n）\n该系统包含用于代码执行的安全沙箱、面向外部系统的凭证管理、会话连续性支持，以及用于调试和审计的可观测能力。在长时间运行的工作流中，上下文管理仍然是关键问题，因为系统需要决定哪些信息应被保留、摘要化，或在超出模型上下文窗口限制时外部化存储。\nNTT DATA AI 高级总监"
-  },
-  {
-    "id": "4e8406e13512",
-    "title": "General Motors is adding Gemini to four million cars",
-    "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-29T09:14:38",
-    "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates",
-    "collected_at": "2026-04-29T13:34:08.983344",
-    "content_text": "General Motors is planning to bring Google’s Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM’s infotainment system “over several months,” according to GM’s announcement.\nGeneral Motors is adding Gemini to four million cars\nThe company also crossed one billion hands-free miles with Super Cruise.\nThe company also crossed one billion hands-free miles with Super Cruise.\nGM says this update represents “one of the largest deployments of Gemini in the industry,” and that “customers will notice an upgrade from the current Google Assistant to a smarter, more intuitive AI assistant that continues to improve over time.”\nThe assistant can perform various tasks, including sending messages, navigation, offering music suggestions, and more. The upgrade to Gemini should also provide a more conversational experience, allowing users to ask questions or make requests more naturally than memorizing specific commands. Gemini will initially be available in US English, with GM saying it plans to expand to “additional GM markets and support more languages over time.”\nGM has now also crossed a significant milestone, announcing that customers in nearly 750,000 Super Cruise-enabled vehicles have driven one billion hands-free miles. The Super Cruise advanced driver-assist system isn’t fully autonomous — instead allowing drivers to take their hands off the steering wheel on compatible roads across the US and Canada — but that milestone shows that it might give competitors like Tesla a run for their money.",
-    "content_source": "trafilatura",
-    "content_chars": 1715,
-    "content_excerpt": "General Motors is planning to bring Google’s Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates for GM’s infotainment system “over several months,” according to GM’s announcement.\nGeneral Motors is adding Gemini to four million cars\nThe company also crossed one billion hands-free miles with Super Cruise.\nThe company also crossed one billion hands-free miles with Super Cruise.\nGM says this update represents “one of the largest deployments of Gemini in the industry,” and that “customers will notice an upgrade from the current Google Assistant to a smarter, more intuitive AI assistant that continues to improve over time.”\nThe assistant can perform various tasks, including sending messages, navigation, offering music suggestions, and more. The upgrade to Gemini should also provide a more conversational experience, allowing users to ask questions or make requests more naturally than memorizing specific commands. Gemini will initially be available in US English, with GM saying it plans to expand to “additional GM markets and support more languages over time.”\nGM has now also crossed a significant milestone, announcing that customers in nearly 750,000 Super Cruise-enabled vehicles have driven one billion hands-free miles. The Super Cruise advanced driver-assist system isn’t fully autonomous — instead allowing drivers to take their hands off the steering wheel on compatible roads across the US and Canada — but that milestone shows that it might give competitors like Tesla a run for their money.",
-    "title_zh": "通用汽车公司将在 400 万辆汽车中添加 Gemini",
-    "summary_zh": "通用汽车计划将谷歌的 Gemini AI 助手引入全美约 400 万辆汽车。 2022 年款以及内置 Google 的新款凯迪拉克、雪佛兰、别克和 GMC 车辆将有资格获得人工智能升级，该升级将通过无线软件更新推出",
-    "ai_summary": "通用汽车计划将谷歌的 Gemini AI 助手引入全美约 400 万辆汽车。 2022 年款以及内置 Google 的新…"
-  },
-  {
-    "id": "eb9a1fff7501",
-    "title": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
-    "url": "https://www.infoq.cn/article/xjWWsm6M5afakuNv12aE?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-29T09:54:23",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T02:15:52.018648",
-    "content_text": "近期，由科大讯飞与两仪万象合资设立的“量智开物”正式揭牌亮相，并发布“追风”大规模原子快速重排算法和“扁鹊”量子纠错解码器两项成果。\n据介绍，“追风”在算法层面全球首次实现了 20 毫秒以内万量级以上原子阵列的快速重排；“扁鹊”则是全球首个 AI 辅助、兼顾动态原子丢失检测的量子纠错解码器。目前，团队还在尝试通过强化学习压缩量子线路的编译复杂度。\n这是量智开物自今年 3 月成立以来的首次公开亮相，也是科大讯飞在“AI+量子”方向系统性布局的一次集中呈现。\n不设短期经营指标，做“AI+量子”的长期平台\n科大讯飞并不是今天才开始布局量子科技。\n科大讯飞董事长刘庆峰透露，双方早在三年前就开始讨论相关方向，两年前正式推动团队融合。科大讯飞首席科学家魏思负责领衔相关工作，讯飞算法科学家陈凌辉也已加入量智开物并担任 CTO，常驻北京参与科研和平台建设。\n按照规划，量智开物将聚焦四个方向：关键核心算法、智能体量子计算机、精密测量、量子 for AI。\n刘庆峰表示，量智开物短期内不会被设定经营指标，也不会被要求完成某个量子比特数量、纠错准确率或商业化收入目标。\n“我们不是说今天做了明天就要有产出。两年前没有近期产出预期，今天也没有。我认为应该在五年左右会给大家带来惊喜，十年内将成为下一代通用人工智能普及到世界每个角落的重要支撑。”刘庆峰说道。\n在他看来，中国这一代通用人工智能一定能兑现产业红利，但如果不做原始创新，下一轮重大技术突破仍可能被甩在后面。因此，量智开物不应被短期经营指标牵引，而要为科学家提供充分宽松的创新环境。\n清华大学教授翟荟也表示，量智开物首先是一个交叉科学人才培养平台，其次是前沿科学原创探索平台，最后才是未来产业开拓平台。双方每周都会进行密切沟通和科研交流，把量子团队的物理认知与讯飞团队的 AI 认知相互交换，培养既懂物理又懂 AI 的复合型人才。\n在这个平台中，讯飞的定位是做耐心资本、创新参与者和创新生态提供者，并在未来提供产业化出口支持。\n一旦量子计算对现代人工智能产生实质帮助，科大讯飞将成为第一个“超级用户”。“他们干出来了，我马上就要布局基于量子的智算中心，去跑超大规模模型。我们现在苦算力久矣，这个问题就会一扫而空。”刘庆峰说道。\n“量智融合”是中国少有不需要追赶的前沿领域\n量智开物成立的背景，是 AI 对算力和能源的需求正在急剧上升。\n当前大模型和智能体应用正在快速推高 Token 消耗和算力需求。以科大讯飞自身数据来看，今年 3 月 Token 消耗量较两年前同期增长了 1400 倍。随着 Claude 等模型发布后推理需求继续扩大，全球算力中心建设也在不断加速，xAI 的 Grok 已达到 55 万张卡，更大规模的百万卡算力中心也在建设之中。\n在刘庆峰看来，如果未来 AI 像水和电一样进入工作、生活、学习、健康以及千行百业，现有芯片和能源体系将难以支撑后台算力需求。\n“理论极限需求至少是今天地球上所能提供的芯片和能源的万倍以上。”刘庆峰表示。在类脑计算、量子计算、下一代计算架构等方向中，量子计算与人工智能的结合，是未来最可预期的路径之一。\n翟荟也认为，量智融合是少有的中国与国际科技强国之间“没有代差”的领域。\n他指出，人工智能真正发展到较强水平也就是近十年的事，而将 AI 算法用于科学研究、物理研究和量子物理，大约从 2016 年左右开始。国内包括翟荟团队在内的一批研究者，几乎与国际同步进入这一方向。翟荟当年参与相关工作的学生，如今已分别在复旦大学、同济大学、四川大学和深圳量子院任教。\n“这是一个我们不需要追赶谁，只要再努努力就可以引领、可以从第一方阵里脱颖而出的领域。”翟荟说道。\n刘庆峰也从中美竞争角度补充称，在当前大模型能力竞赛中，中美之间仍存在半代到一代差距，主要原因是算力和数据。国产算力在卡间互联、显存带宽等方面仍有限制，尤其在超长文本训练、复杂输入训练上速度较慢。即便没有被列入美国实体清单的中国大模型厂商，也会受到英伟达最新 GPU 供应限制。\n但他认为，量智融合没有这样的限制。上万个量子比特的操控排序所需的图神经网络和高效并行解码器，并不依赖极大规模算力，关键在于算法创新和落地能力。\n“第一，人才我们并不缺；第二，中美在技术逻辑和算法创新上是同步的；第三，我们没有人工智能那种算力限制，是轻装上阵、齐头并进。”刘庆峰称。\n捕获 10064 个原子，AI 已成量子计算关键能力\n翟荟团队分享了一个振奋人心的最新进展：清华团队用全自主开发的技术，首次在实验上捕获了 10064 个原子，在量子计算发展过程中第一次将可获得的比特资源突破万量级，超越了此前加州理工 6100 个原子的国际纪录。翟荟指出，要操控这样规模的量子计算机，人工智能的引入不是锦上添花，而是不可或缺。\n刘庆峰指出，在“AI for 量子”方向，人工智能可以帮助量子计算提升实验控制、原子排序、操控和纠错能力。例如，通过图神经网络等方法，可以在规定时间内完成上万个量子序列的操控和排序；通过高效并行解码器，可以进一步提升量子纠错效率。\n而在“量子 for AI”方向，量子计算未来有可能支撑下一代 AI 算法架构。一条路径是将量子计算用于更复杂、更深层的人工智能算法；另一条路径则是让量子计算与现有 GPT 框架结合，创造新的算法架构。\n技术路线不会过早收敛\n谈及量子计算当前分散的技术路线是否会最终收敛，翟荟表示，目前很难预测未来会是单一路线还是多种技术路线混合。他认为，当前科技已经进入“无人区”，未来量子计算机究竟会以什么样的形态出现，还需要保持开放心态去探索。\n“量子计算的产业化，不等于量子计算机的产业化。”翟荟强调，量子计算机本身能做什么是一层问题，而量子计算研究过程中带来的技术突破和副产品，可能产生更广泛的应用场景。\n他举例称，过去 100 年量子力学的发展已经深刻影响了现代社会。手机、集成电路、北斗和 GPS 中的原子钟，都来自量子科技的发展。因此，量子计算研究本身也会推动大量底层工具、指标和技术能力提升，其产业价值不一定只体现在最终形态的量子计算机上。\n翟荟表示，量子计算的发展正在被人工智能加速。过去没有 AI 时可能需要 10 年、20 年才能达到的指标，现在可能在更短时间内实现。但从严肃科学角度看，给出精确时间表意义有限，因为真正前沿的探索往往不可预测。\n对于“智能体量子计算机”这一概念，翟荟解释称，智能体通常基于大模型底座，可以规划任务、调用工具并完成复杂操作。而将智能体引入量子计算，是为了用智能体解决过去依赖人工完成的复杂规划、操控、优化和实验控制问题。\n“普通智能体控制的是电脑上的软件，而智能体量子计算机控制的是量子计算硬件。”翟荟表示。\n更重要的是，量子领域中的智能体不只是自动化工具，而是一种“共生关系”。智能体可以加速量子计算机的迭代和进化，让量子计算能力变得更强；而更强的量子计算机又会反过来赋能人工智能。\n“未来的量子计算，你可能完全分不清楚哪一部分是智能，哪一部分是量子。量子是智能在操控的，智能又是被量子加速的。”翟荟说道。\n量子投资升温，但不能用传统商业逻辑衡量\n对于今年以来量子科技投融资升温，翟荟认为，需要区分投融资热度和商业化进程。\n如果把商业化定义为马上产生收入和营收，并不适合衡量当前量子计算和量智融合领域。当前资本热度更多代表市场对这一科技方向和未来可能性的期待。\n刘庆峰也认为，今天说量子计算或“量子+AI”已经处在“商业化前夜”并不准确。更准确地说，量子计算以及量子计算与 AI 的融合，已经在大的战略态势和技术路径上形成共识。未来一定会跑出一些超级团队，这些团队可能成为资本重点投资的独角兽甚至全球头部创业公司，但它们很可能在很长时间内都没有收入。\n“不要用常规商业模式和商业逻辑来看待这件事。”刘庆峰表示。投资人真正看的不是短期收入增长，而是技术态势、战略站位，以及关键技术突破距离最终爆发还有多远。",
-    "content_source": "trafilatura",
-    "content_chars": 3268,
-    "content_excerpt": "近期，由科大讯飞与两仪万象合资设立的“量智开物”正式揭牌亮相，并发布“追风”大规模原子快速重排算法和“扁鹊”量子纠错解码器两项成果。\n据介绍，“追风”在算法层面全球首次实现了 20 毫秒以内万量级以上原子阵列的快速重排；“扁鹊”则是全球首个 AI 辅助、兼顾动态原子丢失检测的量子纠错解码器。目前，团队还在尝试通过强化学习压缩量子线路的编译复杂度。\n这是量智开物自今年 3 月成立以来的首次公开亮相，也是科大讯飞在“AI+量子”方向系统性布局的一次集中呈现。\n不设短期经营指标，做“AI+量子”的长期平台\n科大讯飞并不是今天才开始布局量子科技。\n科大讯飞董事长刘庆峰透露，双方早在三年前就开始讨论相关方向，两年前正式推动团队融合。科大讯飞首席科学家魏思负责领衔相关工作，讯飞算法科学家陈凌辉也已加入量智开物并担任 CTO，常驻北京参与科研和平台建设。\n按照规划，量智开物将聚焦四个方向：关键核心算法、智能体量子计算机、精密测量、量子 for AI。\n刘庆峰表示，量智开物短期内不会被设定经营指标，也不会被要求完成某个量子比特数量、纠错准确率或商业化收入目标。\n“我们不是说今天做了明天就要有产出。两年前没有近期产出预期，今天也没有。我认为应该在五年左右会给大家带来惊喜，十年内将成为下一代通用人工智能普及到世界每个角落的重要支撑。”刘庆峰说道。\n在他看来，中国这一代通用人工智能一定能兑现产业红利，但如果不做原始创新，下一轮重大技术突破仍可能被甩在后面。因此，量智开物不应被短期经营指标牵引，而要为科学家提供充分宽松的创新环境。"
-  },
-  {
-    "id": "18ef6feb9434",
-    "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
-    "url": "https://www.qbitai.com/2026/04/411205.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-29T09:08:25",
-    "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。",
-    "collected_at": "2026-04-29T13:27:22.197525",
-    "content_text": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元\n量子位的朋友们\n2026-04-29\n17:08:25\n来源：\n量子位\nThe Magic X 全球具身智能创新大会在美国硅谷成功举办。\n硅谷时间4月28日，The Magic X 全球具身智能创新大会在美国硅谷成功举办。作为无人配送科技新锐，斑陌易行总裁陈强受邀出席并发表主题演讲，面向全球发布乐高式模块化无人配送平台、SmartVLA 端到端大模型、AI 原生大脑 Brain2.0三大核心技术，并重磅展示旗舰产品T6 无人配送机器人，以全栈技术实力推动无人配送进入 “真端到端、可快速落地” 的商用新时代。\n本次硅谷大会汇聚图灵奖得主、英伟达、亚马逊、谷歌 DeepMind 等全球顶尖学术与产业力量，是中国具身智能企业走向世界的标志性舞台，多位顶尖科技和学术界精英在大会上与斑陌易行展开密切交流。陈强在演讲中明确提出：物理 AI 的 ChatGPT 时代已经到来，无人配送机器人是具身智能的重要载体。依托 “软硬件模块化、算法端到端、AI智能体调度” 的完整体系快速进化，斑陌易行在短时间内已实现无人配送从研发到商用的闭环落地。\n此外，陈强还重点向大家展示了 T6 无人配送机器人核心能力：6m³ 超大装载空间、1000kg 载重、550TOPS 算力、最高 60km/h 车速、200km 续航、190mm 涉水深度，搭载 7V+1L 端到端算法与 360° 全维度感知系统，单次可承载 600-800 票快递，经济回报周期仅 12-18 个月，具备车规级安全、全场景适配、全车 OTA 升级能力。\n依托Smartware2.0 自研中间件，斑陌易行打造乐高式模块化软硬件架构，统一接口、预埋硬件、按需组合，实现开箱即用、快速部署、易扩展、易维护，真正做到 “即刻落地”。基于 NVIDIA Alpamayo 1.5 开源基座构建的SmartVLA 大模型，在 Jetson Thor 平台首次完成无人物流车上的部署，让车辆具备真实场景理解与自主决策能力，实现更安全、更智能的自动驾驶。\n云端AI 原生大脑 Brain2.0构建多智能体协同架构，搭配云控基础平台、数据闭环、AI 智能体监控中心、手机 APP 全链路管理系统，实现多车型、多场景、多机器人协同作业，打通 “端到端无人配送” 全流程。\n当前，物理+AI融合已进入深水期，斑陌易行与魔法原子等生态合作伙伴形成具身智能 + 无人配送的深度生态协同，加快无人车商业化进展。本次亮相硅谷，标志着斑陌易行技术方案已获全球产业认可。\n未来，斑陌易行将坚持开放、协同、共赢、科技理念，携手全球合作伙伴加速商业化落地，让具身智能无人配送服务全球。\n转载来源：斑陌易行\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 1306,
-    "content_excerpt": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元\n量子位的朋友们\n2026-04-29\n17:08:25\n来源：\n量子位\nThe Magic X 全球具身智能创新大会在美国硅谷成功举办。\n硅谷时间4月28日，The Magic X 全球具身智能创新大会在美国硅谷成功举办。作为无人配送科技新锐，斑陌易行总裁陈强受邀出席并发表主题演讲，面向全球发布乐高式模块化无人配送平台、SmartVLA 端到端大模型、AI 原生大脑 Brain2.0三大核心技术，并重磅展示旗舰产品T6 无人配送机器人，以全栈技术实力推动无人配送进入 “真端到端、可快速落地” 的商用新时代。\n本次硅谷大会汇聚图灵奖得主、英伟达、亚马逊、谷歌 DeepMind 等全球顶尖学术与产业力量，是中国具身智能企业走向世界的标志性舞台，多位顶尖科技和学术界精英在大会上与斑陌易行展开密切交流。陈强在演讲中明确提出：物理 AI 的 ChatGPT 时代已经到来，无人配送机器人是具身智能的重要载体。依托 “软硬件模块化、算法端到端、AI智能体调度” 的完整体系快速进化，斑陌易行在短时间内已实现无人配送从研发到商用的闭环落地。\n此外，陈强还重点向大家展示了 T6 无人配送机器人核心能力：6m³ 超大装载空间、1000kg 载重、550TOPS 算力、最高 60km/h 车速、200km 续航、190mm 涉水深度，搭载 7V+1L 端到端算法与 360° 全维度感知系统，单次可承载 600-800 票快递，经济回报周期仅 12-18 个月，具备车规级安全、全场景适配、全车 OTA 升级能力。"
-  },
-  {
-    "id": "322d871773fd",
-    "title": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
-    "url": "https://www.infoq.cn/article/YzBjivSoby8NR3gPWRtR?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-29T09:41:33",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T02:15:52.018682",
-    "content_text": "4 月 28 日，小米开源了 MiMo-V2.5 和 MiMo-V2.5-Pro 两款模型：MiMo-V2.5 基础模型提供原生多模态能力，而 MiMo-V2.5-Pro 则是专门为“长周期一致性”和复杂软件工程设计的。\n小米采用了宽松、对企业友好的 MIT License，这意味着模型适合被用于商业应用的生产环境。用户可以按需修改模型，并根据自身需要，在本地或虚拟私有云上运行。\n在 GDPVal-AA（Elo）基准测试中，Pro 模型取得了 1581 分，超过了 Kimi K2.6 和 GLM 5.1 等竞争对手。\n小米还进一步公布了 V2.5-Pro 自动完成若干高复杂度任务的数据：\n用 Rust 实现 SysY 编译器：模型从零开始实现了一个完整编译器，包括 lexer、parser 和 RISC-V 汇编后端，用时 4.3 小时。整个过程横跨 672 次工具调用，在隐藏测试集中取得了 233/233 的满分。这个任务通常需要计算机科学专业学生花费数周时间完成。\n全功能视频编辑器：模型用时 11.5 小时，进行了 1868 次工具调用，最终生成了一个 8192 行的桌面应用，具备多轨时间线和导出流水线。\n模拟 EDA 优化：在一项研究生级别的工程任务中，模型优化了 TSMC 180nm 工艺下的 Flipped-Voltage-Follower（FVF-LDO）稳压器。通过不断迭代 ngspice 仿真循环，模型将线性调整率等指标相较初始尝试提升了 22 倍。\n小米用这些实验来凸显 V2.5-Pro 的一种 “harness awareness”，也就是“脚手架意识”。模型会主动管理自己的记忆，并塑造自身上下文，以便在数千次连续工具调用中维持一致性。\n拼 token 效率，但 DeepSeek 价格依然最能打\n根据小米公布的基准测试，这些模型被认为是目前适合 agentic “claw” 任务的高效模型之一。\n所谓 “claw” 任务，指的是为 OpenClaw、NanoClaw、Hermes Agent 这类系统提供支持。用户可以通过第三方消息应用直接与这些智能体沟通，让它们代替人类用户去完成任务，比如制作和发布营销内容、运营账号、整理邮件、安排日程等等。\n随着 OpenClaw 等被广泛应用，token 消耗量也迅速爆发，越来越多服务开始转向按使用量计费。这时，“为用户省钱”这一点变得非常关键。\n微软的 GitHub Copilot 今天宣布正在转向基于用量的计费方式，也就是按照人类用户实际消耗的每个 token 收费，而不是像 Anthropic 那样施加速率限制，或者像 OpenAI 那样提供“自助餐式”的无限量订阅。这让更多人意识到，AI 推理补贴时代结束了。\n过去大家一个月用 20 美元、100 美元、200 美元就能跑大量 Claude、OpenAI 高端模型完成工作，本就不可能长期持续。有用户直言，这很像 ZIRP 时代互联网公司的增长策略：先烧钱补贴、快速获客，等用户习惯和粘性形成后，再开始正式变现。\n而对于用户来说，现在编程成本从固定订阅变成不确定的 token 消耗，这个账可能越来越难算。 Agent 编程不是普通聊天，真实成本来自长上下文、反复工具调用、缓存命中率和模型倍率等。\n这个背景下，小米为这些模型提供了相当有竞争力的价格，覆盖国内和国际市场。\n对海外开发者来说，高性能的 MiMo-V2.5-Pro 在最高 256K 上下文窗口内，缓存未命中时每百万输入 token 价格为 1.00 美元，输出价格为 3.00 美元。对于 256K 到 1M token 之间的超长上下文任务，价格会翻倍：输入为 2.00 美元，输出为 6.00 美元。\n单纯模型定价角度看，国内模型横向比较时，MiMo 价格并不便宜。\n部分模型海内外价格不完全统计，来源：AI 前线\n不过，实际的整体使用价格还是要结合 token 效率来看。Artificial Analysis 之前的测评显示，在同一套 Intelligence Index 评测中，不同模型的 token 消耗差异巨大。DeepSeek V4 Flash、GPT-5.4 mini、Claude Sonnet 4.6 等模型动辄消耗 2 亿级输出 token，且大部分是推理 token；而 MiMo-V2.5-Pro 约为 9200 万，GPT-5.5 xhigh 约为 7500 万，Gemini 3.1 Pro Preview 甚至只有 5700 万。\n而从小米发布的 ClawEval 基准测试图也可以看到，MiMo-V2.5 和尤其是 Pro 版本，在完成基准测试中的 claw 任务时表现很强，同时消耗的 token 又最少。\n根据测试，在 ClawEval 上，V2.5-Pro 以每条轨迹约 7 万 token 的消耗，取得了 64% 的 Pass^3 成绩。而在能力水平相近的情况下，这比 Claude Opus 4.6、Gemini 3.1 Pro 和 GPT-5.4 少用了大约 40% 到 60% 的 token。\n“MiMo V2.5 Pro 有一点很不错：它似乎是目前 token 效率最高的开源模型。它会思考，但不会总是陷入那种很长的‘等等，好像不对’的循环。很喜欢这一点。”有网友评价道。\n“更高的智能，并不只是拿到更高的分数。它还意味着，用更少的 token 达到同样的能力水平。”官方表示。值得注意的是，小米大模型负责人罗福莉就曾直言大模型公司“价格战是陷阱”。\n她认为，如果用户把精力浪费在低质量的 Agent 框架、极不稳定且缓慢的推理服务、以及为降本而被迫降级的模型上，最终发现自己仍然什么都做不成，这对用户体验和留存率来说，就是一个恶性循环。而真正的出路不是更便宜的 token，而是协同进化，即“更高 token 效率的 Agent 框架”叠加“更强大高效的模型”。\n不过，小米当前模型定价依然处于较低位置。小米所有模型现在还限时免收缓存写入费用，同时整个 MiMo-V2.5-TTS 套件也完全免除费用，其中包括专门的语音克隆和语音设计功能。这种定价逻辑显然是为了加速从简单聊天应用，转向持久、长周期智能体的过程，后者可以以传统前沿模型小部分的成本运行。\n此外，小米还推出了重新设计后的 “Token Plan”，目前分为四档：\nLite “Starter Pack” 提供 7.2 亿 credits，年费 63.36 美元。\nStandard 档提供 24 亿 credits，年费 168.96 美元。\nPro 档提供 84 亿 credits，年费 528.00 美元，面向企业使用场景。\nMax 档面向高强度编码爱好者，提供 192 亿 credits，年费 1056.00 美元。\n除了 credit 配额外，所有套餐还包括更优惠的 API 价格、离峰调用 20% 折扣，以及对 Cursor、Zed、Claude Code 等热门编码工具的 “Day-0” 支持。\n此外，开源的同时，罗福莉宣布提供 100 万亿免费 token，目前已经有用户晒出入选邮件。\n网友评价\n当前看，小米模型获得了一些不错的评价。\n“这个模型太棒了，是我目前最喜欢的，比我使用的 Kimi 2.6 和 GLM 都好。”网友“Someone1Somewhere1”表示。\n该开发者介绍，自己在工作和个人爱好上都会用到它们。“工作方面主要是做数据分析、整理用于演示文稿的数据，包括字体排版，以及在大量给定数据中查找一些小众信息。我个人爱好游戏开发。这方面包括用 Python 写代码、处理一些复杂数学问题、进行创意写作，分析我自己写下的大量概念、技能设定和主题，然后帮我根据特定素材进一步组织和打磨，比如宗教礼仪、古代神话、民间传说、creepypasta 这类内容。”\n不过，有用户指出评价是“绝对不算出色”，MiMo-V2.5 Pro 思考时间太长了。\n还有开发者表示，“DeepSeek 也有它的用途，但它并不能满足我的需求。我用 Mimo 进行构思、研究、假设检验，以及梳理要开发的内容和整体思路。然后，在实现阶段，我使用 GLM 和 Kimi。Mimo 非常擅长实施前的沟通，集思广益并对想法进行压力测试。”\n都是 MoE 架构，但训练路线不同\nMiMo-V2.5 的核心稀疏专家混合架构，总参数规模达到 310B，激活参数 15B。\nV2.5 被训练来做跨模态推理，通过平衡局部注意力和全局注意力来维持多模态感知能力。\n根据小米博客文章，MiMo-V2.5 遵循了严格的五阶段演进路线：\n文本预训练，基于 48 万亿 token 构建庞大的语言主干；\nProjector Warmup，将自研音频和视觉编码器与语言核心对齐；\n多模态预训练，在高质量跨模态数据上进行规模化训练；\nAgentic 后训练，逐步将上下文窗口从 32K 扩展到 1M token；\nRL 和 MOPD：使用强化学习和多模态偏好优化来提升真实世界推理和感知能力。\nV2.5-Pro 则是一个总参数规模为 1.02 T 的 MoE 模型，活跃参数为 42B。它采用了 MiMo-V2-Flash 中引入的混合注意力架构和 3 层多 Token 预测（MTP）设计，支持最高 100 万 token 的上下文长度。\nV2.5-Pro 采用混合注意力架构，局部滑动窗口注意力和全局注意力以 6:1 的比例交错排列，窗口大小为 128 个 token。\n这种设计可以在通过可学习的 attention sink bias 维持长上下文性能的同时，将 KV-cache 存储量减少近 7 倍。V2.5-Pro 可以“快速扫过”绝大部分上下文，同时对当前目标最相关的 15% 数据施加高密度注意力。对于调试大型代码仓库等任务来说，这是一个关键特性。\n不过，与同样使用混合注意力机制的 DeepSeek-V4 比，V2.5-Pro 更接近主流推理框架可部署方案，架构创新相对更工程化，attention 压缩不如 DeepSeek 激进。DeepSeek-V4 更偏自研系统栈和底层 kernel 优化，系统复杂度高、部署门槛可能更高。\nMTP 方面，V2.5-Pro 还配备三个使用 dense FFN 的轻量级 MTP 模块。这使得推理阶段的输出速度提升至约 3 倍，同时也有利于加速强化学习训练中的 rollout。\nMiMo-V2.5-Pro 使用 27T tokens 进行训练，采用 FP8 混合精度和原生 32K 序列长度，上下文窗口最高支持 100 万 tokens。其训练重点不再是感官对齐，而是转向扩展后训练计算量。这一过程旨在注入 “harness awareness”，即“脚手架意识”。模型会被专门训练，以便在 Claude Code 或 OpenCode 这类自主智能体脚手架中，管理自己的记忆和上下文。\n最后，虽然两款模型都会经历强化学习（RL）和多模态偏好优化（MOPD），但这些阶段的目标不同：\n在实际体验中，有用户指出，同样是一份数据处理脚本的审查，有一处不会报错的隐秘 bug，两个模型都查不出来，但是 GPT 和 Claude 都能够稳定地发现它。不过 DeepSeek v4 Pro 告诉它检查哪个部分后，它能够发现问题，MIMO V2.5 Pro 做不到，需要明确的错误反馈。\n“我感觉 MIMO 的这个模型推理预算被限制很厉害，又或者可能没有做过太多长链推理的训练。没有明确的错误反馈，靠它自己凭空思考表现不太好。”该用户指出。\n此外还有用户提到，在免费期过后，小米模型使用占比一直在下降，加上近期罗福莉露出频繁，“现在小米公司做的一切，感觉就是为了营销它的产品，它的 Token。”\n参考链接：\nhttps://mimo.xiaomi.com/mimo-v2-5-pro\nhttps://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro\nhttps://venturebeat.com/ai/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
-    "content_source": "readability",
-    "content_chars": 5112,
-    "content_excerpt": "4 月 28 日，小米开源了 MiMo-V2.5 和 MiMo-V2.5-Pro 两款模型：MiMo-V2.5 基础模型提供原生多模态能力，而 MiMo-V2.5-Pro 则是专门为“长周期一致性”和复杂软件工程设计的。\n小米采用了宽松、对企业友好的 MIT License，这意味着模型适合被用于商业应用的生产环境。用户可以按需修改模型，并根据自身需要，在本地或虚拟私有云上运行。\n在 GDPVal-AA（Elo）基准测试中，Pro 模型取得了 1581 分，超过了 Kimi K2.6 和 GLM 5.1 等竞争对手。\n小米还进一步公布了 V2.5-Pro 自动完成若干高复杂度任务的数据：\n用 Rust 实现 SysY 编译器：模型从零开始实现了一个完整编译器，包括 lexer、parser 和 RISC-V 汇编后端，用时 4.3 小时。整个过程横跨 672 次工具调用，在隐藏测试集中取得了 233/233 的满分。这个任务通常需要计算机科学专业学生花费数周时间完成。\n全功能视频编辑器：模型用时 11.5 小时，进行了 1868 次工具调用，最终生成了一个 8192 行的桌面应用，具备多轨时间线和导出流水线。\n模拟 EDA 优化：在一项研究生级别的工程任务中，模型优化了 TSMC 180nm 工艺下的 Flipped-Voltage-Follower（FVF-LDO）稳压器。通过不断迭代 ngspice 仿真循环，模型将线性调整率等指标相较初始尝试提升了 22 倍。\n小米用这些实验来凸显 V2.5-Pro 的一种 “harness awareness”，也就是“脚手架意识”。模型会主动管理自己的记忆，并塑造自身上下文，以便在数千次连续工具调用中维持一致性。\n拼 token 效率，但 DeepSeek 价格依然最能打\n根据小米公布的基准测试，这些模型被认为是目前适合 agentic “claw” 任务的高效模型之一。"
-  },
-  {
-    "id": "v2ex-1209410",
-    "title": "新上中转站送 Token 纯血 gpt-5.5 分组倍率 0.15x",
-    "url": "https://www.v2ex.com/t/1209410",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-04-29T08:36:43",
-    "summary": "www.bossclaw.org 注册完评论放邮箱送 3000 万 token 如有违规请管理直接删帖",
-    "collected_at": "2026-04-29T13:34:20.996680"
-  },
-  {
-    "id": "7c8fb05c0c64",
-    "title": "WorkBuddy正式打通腾讯文档",
-    "url": "https://36kr.com/newsflashes/3787608849095943?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-04-29T07:54:57",
-    "summary": "36氪获悉，4月29日，腾讯文档正式接入WorkBuddy资料库，实现AI工作流原生化：用户只需在WorkBuddy PC端或微信小程序完成一次授权，AI就能直接读取腾讯文档里的资料，无需下载、上传或频繁切换应用，自动完成从文档获取到内容产出的全流程操作。",
-    "collected_at": "2026-04-29T08:05:48.967051"
-  },
-  {
-    "id": "1affcfbf1535",
-    "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
-    "url": "https://www.qbitai.com/2026/04/411133.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-29T06:56:15",
-    "summary": "“全球最强开源”的含金量还在上升",
-    "collected_at": "2026-04-29T08:03:21.716771",
-    "content_text": "火速吃瓜：Kimi K2.6设计能力超越Claude Design\n一水\n2026-04-29\n14:56:15\n来源：\n量子位\nClaude Design前脚刚暴击完设计行业，结果后脚自己就被暴击了。\n出手的是来自中国的\nKimi K2.6\n。\n什么？？你跟我说小克专门为设计推出的工具，竟然没打过Kimi最新通用旗舰模型？？\n直接来看，同样的提示词（一个电影级的、滚动驱动的独立游戏页面），谁更戳中心巴，大家可以肉眼康康：\n视频地址：https://mp.weixin.qq.com/s/OuEmcv8_PN7QaF9OUupRyw\n不只是这一个测试。\n还有更多网友表示亲测事实如此。\n更关键的是，Kimi K2.6的\n价格比Claude Design便宜了整整85%\n。\nClaude Design：好好好，这波冲我来的！\nClaude Design还活着，但已经在被纪念了（doge）\n别的先不说，我是真好奇Kimi K2.6搞设计是什么水平。\n于是去扒了扒网友分享的案例。\n刚好博主@Aryan Rakib最近搞了一波实测几连发，把Kimi K2.6的前端+vibe coding能力扒了个底朝天。\n实测第一弹，小哥让Kimi K2.6帮忙设计一个高级的“Velo City”骑行网站。\n结果，落地页有了，UI做完了，连结构和产品逻辑也一并打包送到。\n视频地址：https://mp.weixin.qq.com/s/OuEmcv8_PN7QaF9OUupRyw\n用小哥自己的话说：\n这不是演示代码，是能直接交付的代码。\n要知道，这个工作量放半年前，得是1个设计师+1个前端+1个产品经理三人凑齐才能搞定的活儿。\n如今Kimi K2.6一个prompt就把整个交付物甩在了脸上。\n不止前端，小哥后来还试着让Kimi K2.6生成前后端一体的网站。\n不出意外，还是成功了……\n小哥对此评价道：\n这不是“设计”，这是一次成型，直接发货。\n都到这种程度了，小哥最后也是直接不装了，直接打开Kimi K2.6的Agent Swarm模式（多智能体集群），丢出一个有点离谱的命题作文：\n找30家没有官网的实体店，给它们各自生成一个落地页\n。\n然后我们看到，任务被Kimi自动拆解成多个并行子任务，30家店铺、30套定制设计同时开工——\n多任务、并行执行、结构化输出，一气呵成。\n这下小哥真是失去所有力气和手段了，怎么说呢，“就像有100个Agent在给你打工”。\n（悄咪咪透露，根据Kimi官方公布的数据，K2.6的智能体集群可以扩展到300个，小哥还是说保守了）。\n再加上价格还比Claude Design便宜，终于知道Kimi K2.6是如何后浪“拍”前浪的了。\n不过看到这里，可能有人已经发现不对劲了：\n说好的“设计PK”，怎么Kimi K2.6掏出来的是数据库、是Agent集群、是全栈一把梭？\n确实如此，因为这场battle从一开始，双方就不在同一个量级上——\nKimi K2.6不是设计工具，“设计”只是它顺手做的副业\n。\n时间倒回大约两周前，Claude Design以狂霸酷炫拽的姿势空降设计行业。\n这款由Opus 4.7驱动、主打“一句话生成原型/PPT/落地页”的工具，凭着实打实的效果，把整个设计圈都吓了个激灵——发布当天，Figma股价应声下跌约7%，Adobe也跟着跌了1.49%，一众设计巨头集体瑟瑟发抖。\n更具戏剧性的是，Anthropic CPO Mike Krieger，在产品发布前三天，就先一步从Figma董事会辞职跑路，剧本写得比好莱坞还精彩。\n一时间，设计行业风声鹤唳，“Figma要凉了”的论调那叫一个满天飞。\n结果，仅仅三天之后——\nKimi K2.6低调开源，发布会就那么一开，X上简单提了一嘴，连热搜都没怎么蹭。\n然后，开发者们闻着味儿就来了，不声不响掏出demo，开始硬测。\n不测不知道，一测吓一跳。\n这个顺着“代码能力升级”捎带提了几句的设计功能，竟然比Claude Design还要强。\n只能说，这背后离不开Kimi K2.6实打实的通用底子——\n在第三方Artificial Analysis测评中，\n它至今位列全球开源第一，整体仅次于闭源“御三家”\n（Claude、GPT、Gemini）。\n当然，凡事不绝对。\n这次实测里小哥的提示词功底也不容小觑，毕竟同期也有网友晒出了完全相反的对比结果——\n只能说，谁强谁弱，还得看怎么用。\n而说到怎么用，也有热心网友帮大家总结好教程了。\n教程来了！用Kimi K2.6打造“1万美元网站”\n博主@Viktor Oddy在看到Kimi K2.6强悍的设计能力后，连夜手搓了一个十几分钟的教学视频。\n标题也是相当简单粗暴——\n如何用Kimi K2.6构建一个价值1万美元的网站\n。\n（让人想起前一阵南孚的国内外官网对比）\n划重点，全程不写一行代码、不打开任何设计软件，只用语言对话，把一个完整官网“聊”出来。\n首先是模糊需求描述，给Kimi一个大致设计方向：\n做一个现代风格的品牌网站，名叫Shamoni，视觉主题是猫和花，整体偏柔和、艺术感强，包含导航栏、主视觉区和介绍模块。\nKimi接收完，刷地一下就生成了一个完整网页——\n品牌标题、背景视觉、排版层级一应俱全，不是零散组件，而是个能直接看的成品。\n接下来就是边聊边改：从字体、字号、布局这种UI微调，到加卡片模块、配hover效果这种信息架构调整，再到sticky navbar、滚动动效这种工程级活儿，最后甚至做到了像素级的间距和动画曲线打磨。\n全程每说一句，页面就跟着变一次\n。\n整个过程没出现传统流程里的设计稿、切图、手写代码这些环节，整条链路被压缩成了一句话：\n描述需求→生成页面→语言迭代到满意为止。\n相比过去“设计→评审→开发→调试→修改”的工种链，至少省掉了三个人之间来回沟通扯皮的麻烦。\n具体细节大家可以对照原视频操作：\n视频地址：https://mp.weixin.qq.com/s/OuEmcv8_PN7QaF9OUupRyw\n至于值不值“1万美元”，那就各位看官自行打分吧（doge）。\nClaude：我再挣扎下\nBTW，被反超的Anthropic貌似没打算坐以待毙。\n最新动作是，拉着Blender、Autodesk、Adobe、Ableton、Splice等一票创意软件大佬组了个联盟，一口气推出一批连接器，覆盖3D建模、平面设计、音乐制作和现场视觉等多个领域。\n也就是说，\nClaude这下直接住进了创意人每天打开的那些软件里\n。\n捎带手地，它还作为赞助商加入了Blender开发基金。注意，这可不是单纯做慈善——\nBlender的Python API正是连接器的底层接口，Anthropic掏钱给基金会，相当于一边把Claude插进Blender，一边出资把那个插孔越修越大。\n好家伙，这野心藏都不藏：\n既要做AI原生的设计工具（Claude Design），又要做所有现有设计工具的AI接口（连接器军团），主打一个两头通吃。\n但回到Kimi K2.6这边，故事可能反过来：\n设计师不用换工具，开发者不用学Figma，独立创业者也不用雇设计团队。\n一个开源模型，一个prompt，一个更便宜的API账单，从想法到上线一条龙搞定。\n至于谁赢谁输，再看看吧。\n毕竟在AI圈，两周已经够发生很多事了。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 3181,
-    "content_excerpt": "火速吃瓜：Kimi K2.6设计能力超越Claude Design\n一水\n2026-04-29\n14:56:15\n来源：\n量子位\nClaude Design前脚刚暴击完设计行业，结果后脚自己就被暴击了。\n出手的是来自中国的\nKimi K2.6\n。"
-  },
-  {
     "id": "hn-47679121",
     "title": "Project Glasswing: Securing critical software for the AI era",
     "url": "https://www.anthropic.com/glasswing",
@@ -4605,7 +4620,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-05T19:09:49.169332"
+    "collected_at": "2026-05-06T02:05:36.940060"
   },
   {
     "id": "hn-47363754",
@@ -4616,7 +4631,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-05T19:09:49.169432"
+    "collected_at": "2026-05-06T02:05:36.940181"
   },
   {
     "id": "hn-47340079",
@@ -4627,7 +4642,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-05T19:09:49.169106"
+    "collected_at": "2026-05-06T02:05:36.939788"
   },
   {
     "id": "hn-47225130",
@@ -4638,7 +4653,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-05T19:09:49.169474"
+    "collected_at": "2026-05-06T02:05:36.940234"
   },
   {
     "id": "hn-47136179",
@@ -4649,7 +4664,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-05T19:09:49.169212"
+    "collected_at": "2026-05-06T02:05:36.939909"
   },
   {
     "id": "hn-46990729",
@@ -4660,7 +4675,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-05T19:09:49.169181"
+    "collected_at": "2026-05-06T02:05:36.939871"
   },
   {
     "id": "hn-46574276",
@@ -4671,7 +4686,7 @@
     "published": "2026-01-11T10:26:18Z",
     "summary": "Don't fall into the anti-AI hype",
     "points": 1296,
-    "collected_at": "2026-05-05T19:09:49.169583"
+    "collected_at": "2026-05-06T02:05:36.940372"
   },
   {
     "id": "hn-45941596",
@@ -4682,7 +4697,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-05T19:09:49.169486"
+    "collected_at": "2026-05-06T02:05:36.940249"
   },
   {
     "id": "hn-45930151",
@@ -4693,7 +4708,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-05T19:09:49.169525"
+    "collected_at": "2026-05-06T02:05:36.940299"
   },
   {
     "id": "hn-45722069",
@@ -4704,7 +4719,7 @@
     "published": "2025-10-27T15:27:38Z",
     "summary": "It's insulting to read AI-generated blog posts",
     "points": 1300,
-    "collected_at": "2026-05-05T19:09:49.169572"
+    "collected_at": "2026-05-06T02:05:36.940357"
   },
   {
     "id": "hn-44972151",
@@ -4715,7 +4730,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-05T19:09:49.169280"
+    "collected_at": "2026-05-06T02:05:36.939994"
   },
   {
     "id": "hn-44396518",
@@ -4726,7 +4741,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-05T19:09:49.169400"
+    "collected_at": "2026-05-06T02:05:36.940143"
   },
   {
     "id": "hn-44314423",
@@ -4737,7 +4752,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-05T19:09:49.169444"
+    "collected_at": "2026-05-06T02:05:36.940197"
   },
   {
     "id": "hn-44163063",
@@ -4748,7 +4763,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-05T19:09:49.169155"
+    "collected_at": "2026-05-06T02:05:36.939843"
   },
   {
     "id": "hn-42910910",
@@ -4759,7 +4774,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-05T19:09:49.169292"
+    "collected_at": "2026-05-06T02:05:36.940009"
   },
   {
     "id": "hn-41392128",
@@ -4770,7 +4785,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-05T19:09:49.169228"
+    "collected_at": "2026-05-06T02:05:36.939928"
   },
   {
     "id": "hn-41386319",
@@ -4781,7 +4796,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-05T19:09:49.169241"
+    "collected_at": "2026-05-06T02:05:36.939944"
   },
   {
     "id": "hn-41069829",
@@ -4792,7 +4807,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-05T19:09:49.169538"
+    "collected_at": "2026-05-06T02:05:36.940315"
   },
   {
     "id": "hn-41046773",
@@ -4803,7 +4818,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-05T19:09:49.169143"
+    "collected_at": "2026-05-06T02:05:36.939827"
   },
   {
     "id": "hn-40767459",
@@ -4814,7 +4829,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-05T19:09:49.169552"
+    "collected_at": "2026-05-06T02:05:36.940332"
   },
   {
     "id": "hn-39918245",
@@ -4825,7 +4840,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-05T19:09:49.169498"
+    "collected_at": "2026-05-06T02:05:36.940265"
   },
   {
     "id": "hn-39526057",
@@ -4836,7 +4851,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-05T19:09:49.169129"
+    "collected_at": "2026-05-06T02:05:36.939811"
   },
   {
     "id": "hn-38544729",
@@ -4847,7 +4862,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-05T19:09:49.169193"
+    "collected_at": "2026-05-06T02:05:36.939886"
   },
   {
     "id": "hn-37021160",
@@ -4858,7 +4873,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-05T19:09:49.169305"
+    "collected_at": "2026-05-06T02:05:36.940026"
   },
   {
     "id": "hn-31812259",
@@ -4869,7 +4884,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-05T19:09:49.169456"
+    "collected_at": "2026-05-06T02:05:36.940213"
   },
   {
     "id": "hn-18249755",
@@ -4880,7 +4895,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-05T19:09:49.169266"
+    "collected_at": "2026-05-06T02:05:36.939976"
   },
   {
     "id": "hn-17022963",
@@ -4891,7 +4906,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-05T19:09:49.169255"
+    "collected_at": "2026-05-06T02:05:36.939962"
   },
   {
     "id": "hn-15892066",
@@ -4902,7 +4917,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-05T19:09:49.169419"
+    "collected_at": "2026-05-06T02:05:36.940165"
   },
   {
     "id": "hn-6830566",
@@ -4913,6 +4928,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-05T19:09:49.169509"
+    "collected_at": "2026-05-06T02:05:36.940279"
   }
 ]

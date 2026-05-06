@@ -4988,6 +4988,36 @@
     "collected_at": "2026-05-02T10:22:42.314278"
   },
   {
+    "id": "github-1227497140",
+    "name": "Jamessdevops/micracode",
+    "display_name": "micracode",
+    "url": "https://github.com/Jamessdevops/micracode",
+    "description": "Open Source Alternative to Lovable, v0, Bolt, Replit, Emergent. 🌟 Star if you like it!  ",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "ai-app-builder",
+      "antrophic",
+      "artificial-intelligence",
+      "bolt",
+      "fastapi",
+      "lovable",
+      "nextjs",
+      "openai",
+      "python",
+      "skills",
+      "typescript",
+      "v0",
+      "vercel"
+    ],
+    "created_at": "2026-05-02T19:08:25Z",
+    "updated_at": "2026-05-06T00:32:01Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-06T02:05:39.134532"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",

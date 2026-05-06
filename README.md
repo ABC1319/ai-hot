@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-06 03:11:20
+🕐 **最近更新**：2026-05-06 10:07:16
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,27 +16,31 @@
 
 ## 🔥 今日热点
 
-1. [宾夕法尼亚州因聊天机器人冒充医生而起诉 Character.AI](https://aihot.bt199.com/news/7e9641e74763/)
-   - 根据宾夕法尼亚州的文件，Character.AI 聊天机器人在州调查期间将自己伪装成有执照的精神科医生，并伪造了州医疗执…
+1. [SAP 在成立 18 个月的德国人工智能实验室上押注 1.16B 美元，并对 NemoClaw 表示同意](https://aihot.bt199.com/news/412ad8a3329d/)
+   - SAP计划收购德国人工智能初创公司Prior Labs，并对其进行大力投资。它还禁止客户代理使用 Nvidia 的 Ne…
    - `TechCrunch AI · 2026-05-05`
 
-2. [OpenAI 声称 ChatGPT 的新默认模型产生的幻觉要少得多](https://aihot.bt199.com/news/c7793318ff27/)
-   - OpenAI 最新的 ChatGPT 默认模型可能不会那么多。幻觉一直是 AI 模型面临的一个问题，但 OpenAI 表…
+2. [Altara 获得 700 万美元资金，以弥补减缓物理科学发展的数据差距](https://aihot.bt199.com/news/adb40e368632/)
+   - Altara 的人工智能旨在通过统一电子表格和遗留系统中的孤立数据来诊断故障并帮助加快研发速度
+   - `TechCrunch AI · 2026-05-05`
+
+3. [Google Home 的 Gemini AI 可以处理更复杂的请求](https://aihot.bt199.com/news/2c86cbbc5016/)
+   - Google Home 用户现在可以要求 Gemini 完成更复杂的多步骤任务，并将多个任务合并到一个命令中。谷歌已将…
    - `The Verge AI · 2026-05-05`
 
-3. [图书出版商因人工智能“逐字”复制而起诉 Meta](https://aihot.bt199.com/news/114c4e61cd5a/)
-   - 据《纽约时报》早些时候报道，Meta 正面临五家主要图书出版商和一名作者提起的集体诉讼，指控该公司在训练 Llama A…
+4. [苹果同意向未提供 AI Siri 的 iPhone 用户支付 2.5 亿美元](https://aihot.bt199.com/news/6b299ce73670/)
+   - 苹果公司同意支付 2.5 亿美元来和解一项集体诉讼，该诉讼指控该公司在 Apple Intelligence 功能的可用…
    - `The Verge AI · 2026-05-05`
 
-4. [利用人工智能加强民主的蓝图](https://aihot.bt199.com/news/c9dd6bc7b13c/)
+5. [利用人工智能加强民主的蓝图](https://aihot.bt199.com/news/c9dd6bc7b13c/)
    - 每隔几个世纪，信息流动方式的变化就会重塑社会的自我管理方式。印刷机传播了白话文，帮助促成了宗教改革，并最终促成了代议制政…
    - `MIT Tech Review · 2026-05-05`
 
-5. [GameStop 出价 560 亿美元收购 eBay，但难以解释将如何支付这笔费用](https://aihot.bt199.com/news/5836d0d07257/)
-   - 由于收入下降和商店关闭，GameStop 希望收购规模更大的 eBay
-   - `Ars Technica AI · 2026-05-04`
+6. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
+   - Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat
+   - `Ars Technica AI · 2026-05-05`
 
-6. [为什么 Reddit 阻止我每天访问其移动网站](https://aihot.bt199.com/news/93c12d76db8c/)
+7. [为什么 Reddit 阻止我每天访问其移动网站](https://aihot.bt199.com/news/93c12d76db8c/)
    - Reddit 真的希望你使用它的应用程序
    - `Ars Technica AI · 2026-05-05`
 
@@ -123,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
