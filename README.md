@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-06 21:53:18
+🕐 **最近更新**：2026-05-07 03:29:47
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,20 +16,20 @@
 
 ## 🔥 今日热点
 
-1. [Peter Sarlin 的 QuTwo 在天使轮融资中估值达到 3.8 亿美元](https://aihot.bt199.com/news/5ce2f9b9bc89/)
-   - QyTw0 是由前 AMD Silo AI 首席执行官 Peter Sarlin 创立的芬兰人工智能实验室，在筹集了 2…
+1. [格雷格·布罗克曼 (Greg Brockman) 表示，埃隆·马斯克 (Elon Musk) 是如何离开 OpenAI 的](https://aihot.bt199.com/news/a1179bcb3712/)
+   - 初创公司创始人之间的激烈谈判很少如此公开，尤其是当一家公司像 OpenAI 一样改变世界时
    - `TechCrunch AI · 2026-05-06`
 
-2. [Marc Lore 表示人工智能很快将使任何人都能开餐馆](https://aihot.bt199.com/news/18521d413e03/)
-   - Wonder 希望将其机器人厨房变成人工智能驱动的“餐厅工厂”，让任何人都可以在提示下创建一个虚拟食品品牌
+2. [DeepSeek 第一轮投资估值可能达到 45B 美元](https://aihot.bt199.com/news/e01057683be0/)
+   - 中国人工智能实验室在 2025 年初推出了一个大型语言模型，该模型的训练计算能力仅为 OpenAI 和 Anthropi…
    - `TechCrunch AI · 2026-05-06`
 
-3. [谷歌的人工智能搜索摘要现在将引用 Reddit](https://aihot.bt199.com/news/a60f500c7502/)
-   - 谷歌正在更新其人工智能搜索功能，以便用户更轻松地从他们知道和信任的来源查找信息。其中一个更显着的变化引入了来自社交媒体、…
+3. [米拉·穆拉蒂 (Mira Murati) 告诉法庭，她不能相信萨姆·奥尔特曼 (Sam Altman) 的话](https://aihot.bt199.com/news/b4fac8bbe834/)
+   - OpenAI 前首席技术官米拉·穆拉蒂 (Mira Murati) 宣誓作证，称首席执行官萨姆·奥尔特曼 (Sam Al…
    - `The Verge AI · 2026-05-06`
 
-4. [Chrome 的 AI 功能可能会占用您 4GB 的计算机存储空间](https://aihot.bt199.com/news/a7f445bf9120/)
-   - 由于设备上存在大型 AI 模型文件，Google Chrome 可能会占用比预期更多的存储空间，在某些情况下，该文件会自…
+4. [谷歌的人工智能搜索摘要现在将引用 Reddit](https://aihot.bt199.com/news/a60f500c7502/)
+   - 谷歌正在更新其人工智能搜索功能，以便用户更轻松地从他们知道和信任的来源查找信息。其中一个更显着的变化引入了来自社交媒体、…
    - `The Verge AI · 2026-05-06`
 
 5. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

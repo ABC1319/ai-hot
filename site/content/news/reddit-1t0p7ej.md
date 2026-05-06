@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "AI outperforms doctors in Harvard trial of emergency triage diagnoses"
 summary_zh = ""
 tags = []
-list_page = 19
+list_page = 20
 +++
 
 <!-- AUTO-GENERATED: news page -->
