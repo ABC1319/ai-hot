@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-07 16:24:23
+🕐 **最近更新**：2026-05-07 21:49:12
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,8 +16,8 @@
 
 ## 🔥 今日热点
 
-1. [人工智能经济的五位架构师解释了人工智能经济的发展方向](https://aihot.bt199.com/news/bd6c9177f3c7/)
-   - 本周早些时候，五位接触人工智能供应链每一层的人参加了在比佛利山庄举行的米尔肯全球会议，他们在会上与 TechCrunch…
+1. [随着对开源人工智能的需求猛增，中国的 Moonshot AI 以 200 亿美元的估值筹集了 20 亿美元](https://aihot.bt199.com/news/c9be13e3a9fd/)
+   - 受付费订阅和 API 使用快速增长的推动，Moonshot 4 月份的年化经常性收入突破 2 亿美元
    - `TechCrunch AI · 2026-05-07`
 
 2. [马斯克最大的忠诚者变成了他最大的责任](https://aihot.bt199.com/news/f2594370a05d/)
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
