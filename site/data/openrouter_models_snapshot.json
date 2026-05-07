@@ -1602,7 +1602,7 @@
       },
       "supported_voices": null,
       "knowledge_cutoff": null,
-      "expiration_date": "2026-05-08",
+      "expiration_date": null,
       "links": {
         "details": "/api/v1/models/tencent/hy3-preview-20260421/endpoints"
       }
@@ -3198,6 +3198,7 @@
         "reasoning",
         "repetition_penalty",
         "response_format",
+        "seed",
         "stop",
         "structured_outputs",
         "temperature",
@@ -5958,64 +5959,6 @@
       }
     },
     {
-      "id": "allenai/olmo-3.1-32b-instruct",
-      "canonical_slug": "allenai/olmo-3.1-32b-instruct-20251215",
-      "hugging_face_id": "allenai/Olmo-3.1-32B-Instruct",
-      "name": "AllenAI: Olmo 3.1 32B Instruct",
-      "created": 1767728554,
-      "description": "Olmo 3.1 32B Instruct is a large-scale, 32-billion-parameter instruction-tuned language model engineered for high-performance conversational AI, multi-turn dialogue, and practical instruction following. As part of the Olmo 3.1 family, this...",
-      "context_length": 65536,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Other",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000006"
-      },
-      "top_provider": {
-        "context_length": 65536,
-        "max_completion_tokens": 16384,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "logit_bias",
-        "max_tokens",
-        "min_p",
-        "presence_penalty",
-        "repetition_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": 0.6,
-        "top_p": 0.95,
-        "frequency_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": null,
-      "expiration_date": "2026-05-07",
-      "links": {
-        "details": "/api/v1/models/allenai/olmo-3.1-32b-instruct-20251215/endpoints"
-      }
-    },
-    {
       "id": "bytedance-seed/seed-1.6-flash",
       "canonical_slug": "bytedance-seed/seed-1.6-flash-20250625",
       "hugging_face_id": "",
@@ -8396,65 +8339,6 @@
       "supported_voices": null,
       "knowledge_cutoff": null,
       "expiration_date": null,
-      "links": {
-        "details": "/api/v1/models/nvidia/nemotron-nano-12b-v2-vl/endpoints"
-      }
-    },
-    {
-      "id": "nvidia/nemotron-nano-12b-v2-vl",
-      "canonical_slug": "nvidia/nemotron-nano-12b-v2-vl",
-      "hugging_face_id": "nvidia/NVIDIA-Nemotron-Nano-12B-v2-VL-BF16",
-      "name": "NVIDIA: Nemotron Nano 12B 2 VL",
-      "created": 1761675565,
-      "description": "NVIDIA Nemotron Nano 2 VL is a 12-billion-parameter open multimodal reasoning model designed for video understanding and document intelligence. It introduces a hybrid Transformer-Mamba architecture, combining transformer-level accuracy with Mamba’s...",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text+image+video->text",
-        "input_modalities": [
-          "image",
-          "text",
-          "video"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Other",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000006"
-      },
-      "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": 16384,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "include_reasoning",
-        "logit_bias",
-        "max_tokens",
-        "min_p",
-        "presence_penalty",
-        "reasoning",
-        "repetition_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "temperature",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": null,
-        "top_p": null,
-        "frequency_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": null,
-      "expiration_date": "2026-05-07",
       "links": {
         "details": "/api/v1/models/nvidia/nemotron-nano-12b-v2-vl/endpoints"
       }
@@ -19477,12 +19361,12 @@
         "instruct_type": "llama3"
       },
       "pricing": {
-        "prompt": "0.00000003",
+        "prompt": "0.00000004",
         "completion": "0.00000004"
       },
       "top_provider": {
         "context_length": 8192,
-        "max_completion_tokens": 16384,
+        "max_completion_tokens": 8192,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -19493,19 +19377,16 @@
         "min_p",
         "presence_penalty",
         "repetition_penalty",
-        "response_format",
         "seed",
         "stop",
         "temperature",
-        "tool_choice",
-        "tools",
         "top_k",
         "top_p"
       ],
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": "2023-12-31",
-      "expiration_date": "2026-05-07",
+      "expiration_date": null,
       "links": {
         "details": "/api/v1/models/meta-llama/llama-3-8b-instruct/endpoints"
       }
@@ -20251,7 +20132,7 @@
       },
       "supported_voices": null,
       "knowledge_cutoff": "2023-09-30",
-      "expiration_date": null,
+      "expiration_date": "2026-05-30",
       "links": {
         "details": "/api/v1/models/mistralai/mistral-7b-instruct-v0.1/endpoints"
       }
@@ -20635,5 +20516,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-06T19:29:01.108778+00:00"
+  "updated_at": "2026-05-07T02:08:54.856092+00:00"
 }

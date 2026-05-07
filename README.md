@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-07 03:29:47
+🕐 **最近更新**：2026-05-07 10:09:43
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,27 +16,23 @@
 
 ## 🔥 今日热点
 
-1. [格雷格·布罗克曼 (Greg Brockman) 表示，埃隆·马斯克 (Elon Musk) 是如何离开 OpenAI 的](https://aihot.bt199.com/news/a1179bcb3712/)
-   - 初创公司创始人之间的激烈谈判很少如此公开，尤其是当一家公司像 OpenAI 一样改变世界时
+1. [Snap 表示与 Perplexity 的 4 亿美元交易“友好结束”](https://aihot.bt199.com/news/f863a8c5b9b9/)
+   - 去年 11 月宣布的这项交易将使 Perplexity 的人工智能搜索引擎直接集成到 Snapchat 中
    - `TechCrunch AI · 2026-05-06`
 
-2. [DeepSeek 第一轮投资估值可能达到 45B 美元](https://aihot.bt199.com/news/e01057683be0/)
-   - 中国人工智能实验室在 2025 年初推出了一个大型语言模型，该模型的训练计算能力仅为 OpenAI 和 Anthropi…
-   - `TechCrunch AI · 2026-05-06`
-
-3. [米拉·穆拉蒂 (Mira Murati) 告诉法庭，她不能相信萨姆·奥尔特曼 (Sam Altman) 的话](https://aihot.bt199.com/news/b4fac8bbe834/)
-   - OpenAI 前首席技术官米拉·穆拉蒂 (Mira Murati) 宣誓作证，称首席执行官萨姆·奥尔特曼 (Sam Al…
+2. [马斯克最大的忠诚者变成了他最大的责任](https://aihot.bt199.com/news/f2594370a05d/)
+   - 今天，我坐在马斯克诉奥特曼案的审判法庭上，痛苦地意识到没有人会问 Shivon Zilis 每个人都在想的问题：女孩，你…
    - `The Verge AI · 2026-05-06`
 
-4. [谷歌的人工智能搜索摘要现在将引用 Reddit](https://aihot.bt199.com/news/a60f500c7502/)
-   - 谷歌正在更新其人工智能搜索功能，以便用户更轻松地从他们知道和信任的来源查找信息。其中一个更显着的变化引入了来自社交媒体、…
+3. [谷歌关闭“水手计划”](https://aihot.bt199.com/news/90697f76fbc8/)
+   - 据《连线》杂志的 Maxwell Zeff 早些时候报道，谷歌已经终止了 Project Mariner，这是一项旨在通…
    - `The Verge AI · 2026-05-06`
 
-5. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
+4. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
    - Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat
    - `Ars Technica AI · 2026-05-05`
 
-6. [为什么 Reddit 阻止我每天访问其移动网站](https://aihot.bt199.com/news/93c12d76db8c/)
+5. [为什么 Reddit 阻止我每天访问其移动网站](https://aihot.bt199.com/news/93c12d76db8c/)
    - Reddit 真的希望你使用它的应用程序
    - `Ars Technica AI · 2026-05-05`
 
@@ -123,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
