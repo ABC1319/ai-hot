@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-07 10:09:43
+🕐 **最近更新**：2026-05-07 16:24:23
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,9 +16,9 @@
 
 ## 🔥 今日热点
 
-1. [Snap 表示与 Perplexity 的 4 亿美元交易“友好结束”](https://aihot.bt199.com/news/f863a8c5b9b9/)
-   - 去年 11 月宣布的这项交易将使 Perplexity 的人工智能搜索引擎直接集成到 Snapchat 中
-   - `TechCrunch AI · 2026-05-06`
+1. [人工智能经济的五位架构师解释了人工智能经济的发展方向](https://aihot.bt199.com/news/bd6c9177f3c7/)
+   - 本周早些时候，五位接触人工智能供应链每一层的人参加了在比佛利山庄举行的米尔肯全球会议，他们在会上与 TechCrunch…
+   - `TechCrunch AI · 2026-05-07`
 
 2. [马斯克最大的忠诚者变成了他最大的责任](https://aihot.bt199.com/news/f2594370a05d/)
    - 今天，我坐在马斯克诉奥特曼案的审判法庭上，痛苦地意识到没有人会问 Shivon Zilis 每个人都在想的问题：女孩，你…
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 

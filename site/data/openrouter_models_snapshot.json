@@ -17986,7 +17986,7 @@
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": "2023-12-31",
-      "expiration_date": "2026-05-08",
+      "expiration_date": "2026-05-07",
       "links": {
         "details": "/api/v1/models/nvidia/llama-3.1-nemotron-70b-instruct/endpoints"
       }
@@ -19853,7 +19853,7 @@
       },
       "supported_voices": null,
       "knowledge_cutoff": "2023-12-31",
-      "expiration_date": "2026-05-08",
+      "expiration_date": "2026-05-07",
       "links": {
         "details": "/api/v1/models/mistralai/mixtral-8x7b-instruct/endpoints"
       }
@@ -20516,5 +20516,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-07T02:08:54.856092+00:00"
+  "updated_at": "2026-05-07T08:23:13.907926+00:00"
 }
