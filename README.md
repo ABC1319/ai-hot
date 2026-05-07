@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-07 21:49:12
+🕐 **最近更新**：2026-05-08 03:32:38
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,23 +16,27 @@
 
 ## 🔥 今日热点
 
-1. [随着对开源人工智能的需求猛增，中国的 Moonshot AI 以 200 亿美元的估值筹集了 20 亿美元](https://aihot.bt199.com/news/c9be13e3a9fd/)
-   - 受付费订阅和 API 使用快速增长的推动，Moonshot 4 月份的年化经常性收入突破 2 亿美元
+1. [埃隆·马斯克的诉讼将 OpenAI 的安全记录置于显微镜下](https://aihot.bt199.com/news/ae90c4caa509/)
+   - 山姆·奥尔特曼（Sam Altman）或任何首席执行官都可以相信拥有超凡智慧吗？
    - `TechCrunch AI · 2026-05-07`
 
-2. [马斯克最大的忠诚者变成了他最大的责任](https://aihot.bt199.com/news/f2594370a05d/)
-   - 今天，我坐在马斯克诉奥特曼案的审判法庭上，痛苦地意识到没有人会问 Shivon Zilis 每个人都在想的问题：女孩，你…
-   - `The Verge AI · 2026-05-06`
+2. [首席执行官表示，Bumble 正在取消滑动操作](https://aihot.bt199.com/news/7e91dc3be4fb/)
+   - 首席执行官惠特尼·沃尔夫·赫德 (Whitney Wolfe Herd) 表示：“我们将告别滑动。”
+   - `TechCrunch AI · 2026-05-07`
 
-3. [谷歌关闭“水手计划”](https://aihot.bt199.com/news/90697f76fbc8/)
-   - 据《连线》杂志的 Maxwell Zeff 早些时候报道，谷歌已经终止了 Project Mariner，这是一项旨在通…
-   - `The Verge AI · 2026-05-06`
+3. [SpaceX 计划斥资 550 亿美元在德克萨斯州制造人工智能芯片](https://aihot.bt199.com/news/a4f7e22e9142/)
+   - 埃隆·马斯克进军人工智能芯片制造业务的计划代价高昂。据《纽约时报》和 CNBC 报道，SpaceX 计划投资至少 550…
+   - `The Verge AI · 2026-05-07`
 
-4. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
+4. [ChatGPT 的“可信联系人”将提醒亲人注意安全问题](https://aihot.bt199.com/news/78d7e9daf806/)
+   - OpenAI 正在为 ChatGPT 推出一项可选的安全功能，允许成年用户为心理健康和安全问题分配紧急联系人。如果 Op…
+   - `The Verge AI · 2026-05-07`
+
+5. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
    - Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat
    - `Ars Technica AI · 2026-05-05`
 
-5. [为什么 Reddit 阻止我每天访问其移动网站](https://aihot.bt199.com/news/93c12d76db8c/)
+6. [为什么 Reddit 阻止我每天访问其移动网站](https://aihot.bt199.com/news/93c12d76db8c/)
    - Reddit 真的希望你使用它的应用程序
    - `Ars Technica AI · 2026-05-05`
 
@@ -119,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

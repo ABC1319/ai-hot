@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-07T13:48:15.792991",
-  "total": 35,
+  "updated_at": "2026-05-07T19:31:32.411839",
+  "total": 34,
   "categories": [
     {
       "id": "top",
       "name": "🔥 顶级通用大模型",
       "subtitle": "现在最值得关注、综合能力最强的一线模型",
-      "count": 7
+      "count": 6
     },
     {
       "id": "coding",
@@ -141,21 +141,6 @@
         "文本"
       ],
       "icon_url": "https://www.google.com/s2/favicons?domain=minimax.io&sz=64"
-    },
-    {
-      "category": "top",
-      "source": "OpenRouter",
-      "name": "inclusionAI: Ling-2.6-1T (free)",
-      "provider": "inclusionAI",
-      "url": "https://openrouter.ai/inclusionai/ling-2.6-1t:free",
-      "freshness": "2026-04-23",
-      "badge": "国产新热门",
-      "why": "Ling-2.6 在 OpenRouter 热度高且有免费 1T 版本，模型页必须收录",
-      "meta": "262K 上下文",
-      "tags": [
-        "文本"
-      ],
-      "icon_url": "https://www.google.com/s2/favicons?domain=inclusionai.com&sz=64"
     },
     {
       "category": "coding",
