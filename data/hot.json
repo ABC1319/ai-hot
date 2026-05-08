@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-05-08T02:17:00.374778",
+  "updated_at": "2026-05-08T07:22:34.195477",
   "total": 6,
   "hot_list": [
+    {
+      "title": "为什么你永远无法让你的医生给你回电",
+      "name": "为什么你永远无法让你的医生给你回电",
+      "title_zh": "为什么你永远无法让你的医生给你回电",
+      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-08",
+      "time": "2026-05-08",
+      "description": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "subtitle": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "ai_summary": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "category": "资讯",
+      "news_id": "8b7e15d90cb9",
+      "internal_url": "https://aihot.bt199.com/news/8b7e15d90cb9/",
+      "type_label": "📰 新闻"
+    },
     {
       "title": "OpenAI 在其 API 中推出新的语音智能功能",
       "name": "OpenAI 在其 API 中推出新的语音智能功能",
@@ -18,24 +36,6 @@
       "category": "资讯",
       "news_id": "8660dbc3b4d9",
       "internal_url": "https://aihot.bt199.com/news/8660dbc3b4d9/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "name": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "title_zh": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-07",
-      "time": "2026-05-07",
-      "description": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "subtitle": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "ai_summary": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "category": "资讯",
-      "news_id": "fd7638a89d31",
-      "internal_url": "https://aihot.bt199.com/news/fd7638a89d31/",
       "type_label": "📰 新闻"
     },
     {
@@ -113,6 +113,24 @@
   ],
   "top_20": [
     {
+      "title": "为什么你永远无法让你的医生给你回电",
+      "name": "为什么你永远无法让你的医生给你回电",
+      "title_zh": "为什么你永远无法让你的医生给你回电",
+      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-08",
+      "time": "2026-05-08",
+      "description": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "subtitle": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "ai_summary": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "category": "资讯",
+      "news_id": "8b7e15d90cb9",
+      "internal_url": "https://aihot.bt199.com/news/8b7e15d90cb9/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "OpenAI 在其 API 中推出新的语音智能功能",
       "name": "OpenAI 在其 API 中推出新的语音智能功能",
       "title_zh": "OpenAI 在其 API 中推出新的语音智能功能",
@@ -128,24 +146,6 @@
       "category": "资讯",
       "news_id": "8660dbc3b4d9",
       "internal_url": "https://aihot.bt199.com/news/8660dbc3b4d9/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "name": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "title_zh": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-07",
-      "time": "2026-05-07",
-      "description": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "subtitle": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "ai_summary": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "category": "资讯",
-      "news_id": "fd7638a89d31",
-      "internal_url": "https://aihot.bt199.com/news/fd7638a89d31/",
       "type_label": "📰 新闻"
     },
     {
@@ -229,6 +229,24 @@
   },
   "items": [
     {
+      "title": "为什么你永远无法让你的医生给你回电",
+      "name": "为什么你永远无法让你的医生给你回电",
+      "title_zh": "为什么你永远无法让你的医生给你回电",
+      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-08",
+      "time": "2026-05-08",
+      "description": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "subtitle": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "ai_summary": "就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…",
+      "category": "资讯",
+      "news_id": "8b7e15d90cb9",
+      "internal_url": "https://aihot.bt199.com/news/8b7e15d90cb9/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "OpenAI 在其 API 中推出新的语音智能功能",
       "name": "OpenAI 在其 API 中推出新的语音智能功能",
       "title_zh": "OpenAI 在其 API 中推出新的语音智能功能",
@@ -244,24 +262,6 @@
       "category": "资讯",
       "news_id": "8660dbc3b4d9",
       "internal_url": "https://aihot.bt199.com/news/8660dbc3b4d9/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "name": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "title_zh": "Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀",
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-07",
-      "time": "2026-05-07",
-      "description": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "subtitle": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "ai_summary": "AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…",
-      "category": "资讯",
-      "news_id": "fd7638a89d31",
-      "internal_url": "https://aihot.bt199.com/news/fd7638a89d31/",
       "type_label": "📰 新闻"
     },
     {

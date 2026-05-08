@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "与全球社区共同推动具身智能创新"
 summary_zh = ""
 tags = []
-list_page = 20
+list_page = 21
 +++
 
 <!-- AUTO-GENERATED: news page -->

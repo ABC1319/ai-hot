@@ -2788,6 +2788,40 @@
     "is_core": true
   },
   {
+    "id": "hf-z-lab--gemma-4-31B-it-DFlash",
+    "name": "z-lab/gemma-4-31B-it-DFlash",
+    "display_name": "gemma-4-31B-it-DFlash",
+    "url": "https://huggingface.co/z-lab/gemma-4-31B-it-DFlash",
+    "author": "z-lab",
+    "pipeline_tag": "text-generation",
+    "likes": 54,
+    "downloads": 1012,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3",
+      "dflash",
+      "speculative-decoding",
+      "block-diffusion",
+      "draft-model",
+      "efficiency",
+      "qwen",
+      "gemma",
+      "diffusion-language-model",
+      "text-generation",
+      "arxiv:2602.06036",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-30T11:50:11.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-08T07:21:03.751826",
+    "display_priority": 76,
+    "is_core": true
+  },
+  {
     "id": "hf-poolside--Laguna-XS.2",
     "name": "poolside/Laguna-XS.2",
     "display_name": "Laguna-XS.2",
@@ -2811,7 +2845,7 @@
     "created_at": "2026-04-23T20:50:45.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T19:29:46.779813",
-    "display_priority": 76,
+    "display_priority": 77,
     "is_core": true
   },
   {
@@ -2844,7 +2878,7 @@
     "created_at": "2026-04-16T13:58:07.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-02T18:52:15.612275",
-    "display_priority": 77,
+    "display_priority": 78,
     "is_core": true
   },
   {
@@ -2885,7 +2919,7 @@
     "created_at": "2026-04-16T13:54:19.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-01T02:19:40.311428",
-    "display_priority": 78,
+    "display_priority": 79,
     "is_core": true
   },
   {
@@ -2909,7 +2943,7 @@
     "created_at": "2026-04-28T03:27:56.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-29T02:15:56.691887",
-    "display_priority": 79,
+    "display_priority": 80,
     "is_core": true
   },
   {
@@ -2947,7 +2981,7 @@
     "created_at": "2026-04-13T18:07:47.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-20T14:22:25.792798",
-    "display_priority": 80,
+    "display_priority": 81,
     "is_core": true
   },
   {
@@ -3032,7 +3066,7 @@
     "created_at": "2026-04-20T15:15:55.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T13:31:26.989174",
-    "display_priority": 81,
+    "display_priority": 82,
     "is_core": true
   },
   {
@@ -3061,7 +3095,7 @@
     "created_at": "2026-04-23T06:30:09.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T10:16:49.982171",
-    "display_priority": 82,
+    "display_priority": 83,
     "is_core": true
   },
   {
@@ -3097,7 +3131,7 @@
     "created_at": "2026-04-25T17:32:08.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T02:13:43.817676",
-    "display_priority": 83,
+    "display_priority": 84,
     "is_core": true
   },
   {
@@ -3127,7 +3161,7 @@
     "created_at": "2026-04-22T04:43:54.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-29T02:15:56.691895",
-    "display_priority": 84,
+    "display_priority": 85,
     "is_core": true
   },
   {
@@ -3155,7 +3189,7 @@
     "created_at": "2026-04-16T00:53:48.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T19:29:46.779831",
-    "display_priority": 85,
+    "display_priority": 86,
     "is_core": true
   },
   {
@@ -3193,7 +3227,7 @@
     "created_at": "2026-04-16T13:55:49.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-03T07:52:24.422760",
-    "display_priority": 86,
+    "display_priority": 87,
     "is_core": true
   },
   {
@@ -3223,7 +3257,7 @@
     "created_at": "2026-04-22T13:32:34.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-04T13:28:05.516664",
-    "display_priority": 87,
+    "display_priority": 88,
     "is_core": true
   },
   {
@@ -3251,7 +3285,7 @@
     "created_at": "2026-04-16T18:27:58.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-22T13:10:24.813723",
-    "display_priority": 88,
+    "display_priority": 89,
     "is_core": true
   },
   {
@@ -3292,7 +3326,7 @@
     "created_at": "2026-03-10T12:21:20.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-05T13:21:22.339381",
-    "display_priority": 89,
+    "display_priority": 90,
     "is_core": true
   },
   {
@@ -3321,7 +3355,7 @@
     "created_at": "2026-04-06T13:18:47.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-22T19:04:20.503536",
-    "display_priority": 90,
+    "display_priority": 91,
     "is_core": true
   },
   {
@@ -3357,59 +3391,6 @@
     "created_at": "2026-04-24T11:54:36.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-08T02:15:20.611915",
-    "display_priority": 91,
-    "is_core": true
-  },
-  {
-    "id": "hf-FINAL-Bench--Darwin-9B-NEG",
-    "name": "FINAL-Bench/Darwin-9B-NEG",
-    "display_name": "Darwin-9B-NEG",
-    "url": "https://huggingface.co/FINAL-Bench/Darwin-9B-NEG",
-    "author": "FINAL-Bench",
-    "pipeline_tag": "text-generation",
-    "likes": 34,
-    "downloads": 858,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "qwen3_5",
-      "image-text-to-text",
-      "darwin",
-      "darwin-v8",
-      "darwin-neg",
-      "native-entropy-gating",
-      "NEG",
-      "reasoning",
-      "self-regulated-reasoning",
-      "advanced-reasoning",
-      "thinking",
-      "qwen3.5",
-      "qwen",
-      "gpqa",
-      "benchmark",
-      "open-source",
-      "apache-2.0",
-      "hybrid-vigor",
-      "proto-agi",
-      "vidraft",
-      "eval-results",
-      "text-generation",
-      "conversational",
-      "en",
-      "zh",
-      "ko",
-      "ja",
-      "multilingual",
-      "base_model:FINAL-Bench/Darwin-9B-Opus",
-      "base_model:finetune:FINAL-Bench/Darwin-9B-Opus",
-      "license:apache-2.0",
-      "model-index",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-24T04:06:40.000Z",
-    "source": "hf-text-gen",
-    "collected_at": "2026-04-28T10:16:50.266016",
     "display_priority": 92,
     "is_core": true
   },

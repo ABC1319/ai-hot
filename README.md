@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-08 10:17:00
+🕐 **最近更新**：2026-05-08 15:22:34
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,12 +16,12 @@
 
 ## 🔥 今日热点
 
-1. [OpenAI 在其 API 中推出新的语音智能功能](https://aihot.bt199.com/news/8660dbc3b4d9/)
-   - 这些新功能对于客户服务系统来说可能很方便，但 OpenAI 表示，他们的应用程序可以跨其他各种领域使用，包括教育和创作者…
-   - `TechCrunch AI · 2026-05-07`
+1. [为什么你永远无法让你的医生给你回电](https://aihot.bt199.com/news/8b7e15d90cb9/)
+   - 就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…
+   - `TechCrunch AI · 2026-05-08`
 
-2. [Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀](https://aihot.bt199.com/news/fd7638a89d31/)
-   - AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…
+2. [OpenAI 在其 API 中推出新的语音智能功能](https://aihot.bt199.com/news/8660dbc3b4d9/)
+   - 这些新功能对于客户服务系统来说可能很方便，但 OpenAI 表示，他们的应用程序可以跨其他各种领域使用，包括教育和创作者…
    - `TechCrunch AI · 2026-05-07`
 
 3. [米拉·穆拉蒂 (Mira Murati) 的证词拉开了萨姆·奥尔特曼 (Sam Altman) 下台的帷幕](https://aihot.bt199.com/news/5cb0197e266d/)
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
