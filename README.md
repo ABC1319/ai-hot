@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-08 03:32:38
+🕐 **最近更新**：2026-05-08 10:17:00
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,28 +16,28 @@
 
 ## 🔥 今日热点
 
-1. [埃隆·马斯克的诉讼将 OpenAI 的安全记录置于显微镜下](https://aihot.bt199.com/news/ae90c4caa509/)
-   - 山姆·奥尔特曼（Sam Altman）或任何首席执行官都可以相信拥有超凡智慧吗？
+1. [OpenAI 在其 API 中推出新的语音智能功能](https://aihot.bt199.com/news/8660dbc3b4d9/)
+   - 这些新功能对于客户服务系统来说可能很方便，但 OpenAI 表示，他们的应用程序可以跨其他各种领域使用，包括教育和创作者…
    - `TechCrunch AI · 2026-05-07`
 
-2. [首席执行官表示，Bumble 正在取消滑动操作](https://aihot.bt199.com/news/7e91dc3be4fb/)
-   - 首席执行官惠特尼·沃尔夫·赫德 (Whitney Wolfe Herd) 表示：“我们将告别滑动。”
+2. [Voi 创始人的新人工智能初创公司 Pit 已成为斯德哥尔摩最新的后起之秀](https://aihot.bt199.com/news/fd7638a89d31/)
+   - AI 初创公司 Pit 由欧洲滑板车巨头 Voi 的联合创始人领导，并得到 a16z 的支持，a16z 领投了该初创公司…
    - `TechCrunch AI · 2026-05-07`
 
-3. [SpaceX 计划斥资 550 亿美元在德克萨斯州制造人工智能芯片](https://aihot.bt199.com/news/a4f7e22e9142/)
-   - 埃隆·马斯克进军人工智能芯片制造业务的计划代价高昂。据《纽约时报》和 CNBC 报道，SpaceX 计划投资至少 550…
+3. [米拉·穆拉蒂 (Mira Murati) 的证词拉开了萨姆·奥尔特曼 (Sam Altman) 下台的帷幕](https://aihot.bt199.com/news/5cb0197e266d/)
+   - 2023 年感恩节前的一周是人工智能行业最精彩的肥皂剧时刻。 OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altm…
    - `The Verge AI · 2026-05-07`
 
-4. [ChatGPT 的“可信联系人”将提醒亲人注意安全问题](https://aihot.bt199.com/news/78d7e9daf806/)
-   - OpenAI 正在为 ChatGPT 推出一项可选的安全功能，允许成年用户为心理健康和安全问题分配紧急联系人。如果 Op…
+4. [苹果配备人工智能摄像头的 AirPods 显然已接近量产](https://aihot.bt199.com/news/408a70be6510/)
+   - 据彭博社的 Mark Gurman 报道，传闻中的苹果带有摄像头的 AirPods 即将进入测试早期量产阶段。目前，苹果…
    - `The Verge AI · 2026-05-07`
 
-5. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
+5. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
+   - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
+   - `Ars Technica AI · 2026-05-07`
+
+6. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
    - Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat
-   - `Ars Technica AI · 2026-05-05`
-
-6. [为什么 Reddit 阻止我每天访问其移动网站](https://aihot.bt199.com/news/93c12d76db8c/)
-   - Reddit 真的希望你使用它的应用程序
    - `Ars Technica AI · 2026-05-05`
 
 
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
