@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-08 21:16:54
+🕐 **最近更新**：2026-05-09 03:10:18
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,27 +16,31 @@
 
 ## 🔥 今日热点
 
-1. [为什么你永远无法让你的医生给你回电](https://aihot.bt199.com/news/8b7e15d90cb9/)
-   - 就像许多人工智能公司将人类目前所做的工作自动化一样，Basata 最终将面临一个更棘手的问题，即增加工人数量和取代工人之…
+1. [Cloudflare 表示人工智能让 1,100 个工作岗位变得过时，尽管收入创历史新高](https://aihot.bt199.com/news/a0ebd83ccb77/)
+   - CloudFlare 宣布首次大规模裁员。首席执行官马修·普林斯表示，由于人工智能效率的提高，公司不需要那么多的支持角色…
    - `TechCrunch AI · 2026-05-08`
 
-2. [OpenAI 在其 API 中推出新的语音智能功能](https://aihot.bt199.com/news/8660dbc3b4d9/)
-   - 这些新功能对于客户服务系统来说可能很方便，但 OpenAI 表示，他们的应用程序可以跨其他各种领域使用，包括教育和创作者…
-   - `TechCrunch AI · 2026-05-07`
+2. [“人民航空公司”与企业AI淘金热](https://aihot.bt199.com/news/e14b174a0081/)
+   - 每个人都想在企业人工智能领域分一杯羹，本周，我们看到一系列公司采取了行动。从 Anthropic 和 OpenAI 宣布…
+   - `TechCrunch AI · 2026-05-08`
 
-3. [米拉·穆拉蒂 (Mira Murati) 的证词拉开了萨姆·奥尔特曼 (Sam Altman) 下台的帷幕](https://aihot.bt199.com/news/5cb0197e266d/)
-   - 2023 年感恩节前的一周是人工智能行业最精彩的肥皂剧时刻。 OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altm…
-   - `The Verge AI · 2026-05-07`
+3. [人工智能数据中心的所有最新更新](https://aihot.bt199.com/news/3bc01457309b/)
+   - 大规模的新数据中心是科技公司对人工智能的希望和梦想的物理基础。但急于扩建装满高耗能服务器的仓库的做法也引发了世界各地关于…
+   - `The Verge AI · 2026-05-08`
 
-4. [苹果配备人工智能摄像头的 AirPods 显然已接近量产](https://aihot.bt199.com/news/408a70be6510/)
-   - 据彭博社的 Mark Gurman 报道，传闻中的苹果带有摄像头的 AirPods 即将进入测试早期量产阶段。目前，苹果…
-   - `The Verge AI · 2026-05-07`
+4. [PlayStation 将人工智能视为帮助制作游戏的“强大工具”](https://aihot.bt199.com/news/91cd61c2a457/)
+   - 作为周五收益报告的一部分，索尼分享了公司对人工智能的看法，包括如何评估人工智能作为制作 PlayStation 游戏的一…
+   - `The Verge AI · 2026-05-08`
 
-5. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
+5. [以下是您需要了解的有关游轮汉坦病毒爆发的信息](https://aihot.bt199.com/news/2c5dba8eca78/)
+   - 麻省理工学院技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多…
+   - `MIT Tech Review · 2026-05-08`
+
+6. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
    - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
    - `Ars Technica AI · 2026-05-07`
 
-6. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
+7. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
    - Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat
    - `Ars Technica AI · 2026-05-05`
 
@@ -123,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
