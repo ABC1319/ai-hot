@@ -76,12 +76,12 @@
       "Claude Opus 4.6 (Fast)",
       "Claude Sonnet 4.6"
     ],
-    "model_count": 14,
+    "model_count": 12,
     "last_updated": "2026-04-16",
     "modalities": [
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 14 个该作者/厂商相关模型，最近更新为 Claude Opus 4.7",
+    "live_summary": "OpenRouter 已收录 12 个该作者/厂商相关模型，最近更新为 Claude Opus 4.7",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },
@@ -235,7 +235,7 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
-      "Hy3 preview (free)",
+      "Hy3 preview",
       "Hunyuan A13B Instruct"
     ],
     "model_count": 2,
@@ -243,7 +243,7 @@
     "modalities": [
       "文本"
     ],
-    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 Hy3 preview (free)",
+    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 Hy3 preview",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=cloud.tencent.com&sz=64"
   },

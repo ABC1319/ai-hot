@@ -1473,6 +1473,27 @@
     "collected_at": "2026-04-20T18:54:54.419499"
   },
   {
+    "id": "github-1052050442",
+    "name": "datawhalechina/hello-agents",
+    "display_name": "hello-agents",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "stars": 46644,
+    "forks": 5615,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "created_at": "2025-09-07T09:50:24Z",
+    "updated_at": "2026-05-11T02:28:53Z",
+    "license": "NOASSERTION",
+    "source": "github-search",
+    "collected_at": "2026-05-11T02:28:57.034848"
+  },
+  {
     "id": "github-671269505",
     "name": "BerriAI/litellm",
     "display_name": "litellm",
@@ -4728,6 +4749,43 @@
     "collected_at": "2026-04-20T18:54:53.609663"
   },
   {
+    "id": "github-1228339438",
+    "name": "ShamelesAbyss/Symbiote",
+    "display_name": "Symbiote",
+    "url": "https://github.com/ShamelesAbyss/Symbiote",
+    "description": "Rust Powered Terminal Artificial Life SIM ",
+    "stars": 11,
+    "forks": 0,
+    "language": "Rust",
+    "topics": [
+      "artificial-intelligence",
+      "artificial-life",
+      "cellular-automata",
+      "conways-game-of-life",
+      "crossterm",
+      "digital-life",
+      "ecosystem",
+      "ecosystem-simulation",
+      "emergent-behavior",
+      "evolutionary-simulation",
+      "generative-art",
+      "procedural-generation",
+      "ratatui",
+      "rust",
+      "rust-lang",
+      "simulation",
+      "swarm-intelligence",
+      "terminal-graphics",
+      "terminal-ui",
+      "tui"
+    ],
+    "created_at": "2026-05-03T22:44:59Z",
+    "updated_at": "2026-05-11T01:11:24Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-11T02:28:55.351031"
+  },
+  {
     "id": "github-1201371509",
     "name": "Zeyad-Azima/AgentsBear",
     "display_name": "AgentsBear",
@@ -5171,6 +5229,30 @@
     "license": "MIT",
     "source": "github-search",
     "collected_at": "2026-05-06T02:05:39.134532"
+  },
+  {
+    "id": "github-1215194738",
+    "name": "AgentBull/bullx",
+    "display_name": "bullx",
+    "url": "https://github.com/AgentBull/bullx",
+    "description": "Next Generation AgentOS",
+    "stars": 9,
+    "forks": 1,
+    "language": "Elixir",
+    "topics": [
+      "agent",
+      "anthropic",
+      "artificial-intelligence",
+      "elixir",
+      "gemini",
+      "llm",
+      "openai"
+    ],
+    "created_at": "2026-04-19T15:52:36Z",
+    "updated_at": "2026-05-10T10:47:35Z",
+    "license": "Apache-2.0",
+    "source": "github-search",
+    "collected_at": "2026-05-11T02:28:55.351047"
   },
   {
     "id": "github-1188906847",
