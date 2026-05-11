@@ -1,5 +1,156 @@
 [
   {
+    "id": "c05b5ea6384c",
+    "title": "黄仁勋被授予 CMU 荣誉博士！陈立武亲自为其授袍，不用英特尔为其代工的英伟达，改策略了？",
+    "url": "https://www.infoq.cn/article/VcwHpVl26WTsTtOrK6YL?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-11T21:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-11T14:34:11.684392",
+    "content_text": "63 岁的黄仁勋，再次站上了聚光灯中央。但这一次，最让外界意外的，不只是他获得了荣誉博士学位。而是那个亲手为他披上博士兜帽的人——陈立武。\n北京时间今天上午，Carnegie Mellon University（卡内基梅隆大学，CMU）举行第 128 届毕业典礼。现场，CMU 向英伟达创始人兼 CEO 黄仁勋授予“科学与技术荣誉博士学位”。随后，英特尔 CEO 陈立武走上台前，为黄仁勋完成授袍仪式。\n在今天的 AI 产业格局里，这几乎是全球半导体行业最微妙、也最具象征意味的一次同台。\n一个属于 AI 时代的毕业典礼\n根据 CMU 官方新闻稿，今年学校共授予超过 5800 名本科与研究生学位。校方将这一届毕业生形容为“能够连接技术创新与艺术变革力量的一代人”。而黄仁勋，则成为当天最受关注的演讲嘉宾。\n“你们正值一个非凡的时刻来到这个世界。一个新兴产业正在诞生，一个科学发现的新时代即将开启。人工智能将加速人类知识的拓展，并帮助我们解决曾经遥不可及的难题，”他说道。\n“没有哪一代人比你们拥有更强大的工具和更广阔的机遇。我们都站在同一条起跑线上。现在是你们塑造未来的时刻。所以，快跑，不要慢走。”\n这几年，黄仁勋已经越来越像 AI 时代的“产业布道者”。\n从 GPU，到 CUDA，再到今天席卷全球的生成式 AI 浪潮，英伟达几乎成为整个 AI 基础设施的代名词。CMU 校长 Farnam Jahanian 在介绍黄仁勋时，也特别强调：\n“他的影响力早已超越科技行业本身。”\n校方认为，英伟达提供的工具与平台，正在赋能研究人员、学生、创业者与企业，帮助他们解决越来越复杂的问题。\n典礼前，黄仁勋还专门与 CMU 学生交流，并参观了学生研究项目。而在演讲最后，他再次回到了 CMU 的校训：\n“My heart is in the work（全心投入工作）。”\n“请全心投入工作。用心去创造，去成就配得上你的教育、你的潜能，以及那些在你被世人认可之前就已相信你的人们。”\n最耐人寻味的一幕：英特尔 CEO 为英伟达 CEO 授袍\n不过，比演讲更具传播性的，是那张“授袍照片”。陈立武亲手为黄仁勋披上荣誉博士兜帽。\n台下掌声雷动。\n这一幕之所以意味深长，是因为两家公司如今正处在 AI 时代最复杂的竞合关系里。\n过去二十年，英特尔长期统治全球计算产业。“Intel Inside”曾是 PC 时代最成功的技术品牌之一。而英伟达，最初只是一个做游戏显卡的小公司。\n但 AI 改变了一切。\n随着深度学习崛起，GPU 开始成为 AI 训练的核心硬件。英伟达凭借 CUDA 生态、GPU 架构，以及对 AI 趋势的提前押注，逐渐建立起几乎难以撼动的 AI 算力霸权。\n反过来，英特尔却错失了多个关键窗口：没能在 GPU 生态上构建起深厚的护城河，又遗憾地错过了移动时代，在 AI 训练芯片市场也没有明显突围。\n如今，全球 AI 数据中心里，最抢手的是英伟达 GPU。而英特尔，则正在努力寻找“重返核心战场”的机会。\n但这对芯片双雄并不是只有竞争关系，近期，市场上关于英伟达与英特尔深化合作的消息正在持续升温。\n2025 年年底，包括路透社在内的多家媒体报道，英伟达已向英特尔投入高达 50 亿美元资金，双方合作范围将覆盖数据中心与消费级平台等多个方向。尽管当时相关细节尚未获得官方完整确认，但在 AI 算力需求爆炸式增长的背景下，这种“从竞争走向绑定”的趋势，已经越来越明显。\n看不上英特尔的英伟达，如今改策略了？\n过去几年，英伟达几乎完全依赖 TSMC 的先进制程与 CoWoS 封装能力来生产 AI 芯片。然而随着全球 AI 基础设施建设进入狂飙阶段，先进封装产能持续紧张，供应链瓶颈也越来越突出。\n黄仁勋早在 2025 年年初就坦言，先进封装仍然是瓶颈。根据 Epoch AI 2026 年的研究数据，2025 年，全球前四大 AI 芯片公司消耗了约 90%的 CoWoS 先进封装产能，AI 芯片对 CoWoS 与 HBM 的需求，已经远超供给；真正限制 AI 芯片产能的，已经不是晶圆制造，而是先进封装。\n很多人还停留在“先进制程才是核心”的认知里，但 AI 时代真正卡脖子的，已经变成：CoWoS、SoIC、HBM 整合以及先进封装互连，而台积电在这些领域，几乎形成了事实垄断。\n对于英伟达而言，寻找第二家能够承接先进制造与封装任务的顶级代工伙伴，已经成为稳定供应链的关键任务。\n所以在去年年底，英伟达向英特尔投出的 50 亿美元被解读成了英伟达一次带有强烈战略防御意味的“接济”。\n当时，加密投资机构 IBC Group 创始人、同时也是 X 平台（前 Twitter）上影响力极大的科技、加密与投资领域 KOL 之一的 Mario Nawfal 就在 X 平台发文，措辞相当犀利。\nMario 提到，英伟达以每股 23.28 美元的价格，购入约 2.147 亿股英特尔股票，总投资约 50 亿美元，持股比例约 4%。而在此之前，美国政府已经以 90 亿美元获得英特尔约 10%的股份，随后 SoftBank 也追加了 20 亿美元投资。\n在他看来，这一系列动作，本质上更像是一场“Operation Save Intel（拯救英特尔行动）”。因为在 AI 时代，英特尔的重要性已经不只是商业公司本身。它还承担着美国本土先进制造体系“不能倒下”的战略意义。\n尤其是在全球 AI 芯片几乎高度依赖台积电的情况下，美国必须拥有一家能够在本土承接先进制程与封装能力的替代者。\n而英特尔，是目前唯一还有机会承担这一角色的公司。\n但问题在于：英伟达当时虽然愿意出钱，却并不真的愿意把核心订单交给英特尔生产。\nMario 当时直接指出，英伟达已经暂停了基于英特尔 18A 制程的大规模量产计划，原因是良率仍只有 55%-65%，明显低于行业普遍要求的 70%-80%。\n“对于一家占据全球 AI 加速器市场绝大部分份额的公司来说，哪怕只有几个百分点的制造损耗，都意味着数十亿美元级别的成本风险。”\n所以当时市场普遍认为：英伟达真正的高端 AI 芯片生产，依旧会牢牢绑定台积电。至于给英特尔的 50 亿美元，更像是一份“保险”。换句话说：英伟达需要英特尔存在，但并不完全信任英特尔的制造能力。\n这种微妙关系，其实恰恰反映了今天全球 AI 产业链最现实的一面。\n一方面，英伟达已经强大到足以决定整个 AI 芯片产业的资源流向；但另一方面，它又不得不考虑供应链过度集中于单一地区的风险。特别是在先进封装、HBM 内存与先进制程持续紧缺的背景下，“第二供应链”已经超过了商业问题的范畴了。\n也正因如此，过去一直对英特尔代工业务态度谨慎的英伟达，如今似乎开始出现“松口”的迹象。\n因为如今的英特尔，正在努力抓住这个机会。\n随着 Intel Foundry Services（IFS）持续推进先进制程路线，外界开始重新评估英特尔在晶圆代工领域的能力。尤其是在近期接连获得大型客户订单之后，英特尔正在努力向市场证明，他们不仅仍具备先进制造能力，更有机会重新进入全球 AI 芯片供应链核心。\n在这种背景下，双方的技术合作也算有了些实质进展。\n在今年 2 月的一次财报会议上，谈到公司持续简化服务器产品路线图的举措时，陈立武透露：“我们在与英伟达紧密合作，打造一款完全集成其 NVLink 技术的定制版至强处理器，为 AI 主机节点带来一流的 x86 性能。”\n与此同时，在消费级市场，双方也被传正在探索更深层的系统级整合。\n有消息称，英伟达将 RTX GPU 技术直接整合进英特尔下一代 SoC 平台，代号为“Serpent Lake”的 SoC 预计于 2028-2029 年推出，这将是首款集成 NVIDIA RTX GPU IP 的 Intel 芯片。\n如果这一方向最终落地，意味着双方关系将不再只是传统意义上的“CPU 搭配 GPU”，而是开始进入更深层的系统级融合阶段。\n此外，还有市场消息称，英伟达下一代 Feynman 架构 GPU，未来可能采用英特尔 EMIB 先进封装技术，甚至部分中低端消费级显卡产品，也有可能基于英特尔 18A-P 或 14A 工艺节点制造。\n对于英伟达而言，这意味着降低对单一供应链的依赖风险。\n而对于英特尔来说，则意味着其先进制造业务终于有机会重新切入 AI 产业链核心。\n也正因如此，卡内基梅隆大学毕业典礼上的那一幕，才显得格外耐人寻味。\n典礼结束后，陈立武还专门在社交平台 X 上公开发文祝贺黄仁勋，称很荣幸能够为“多年好友”授予荣誉学位，并透露双方正在共同开发“令人兴奋的新产品”。\n对于高度敏感的半导体行业来说，这种公开互动释放出的信号，显然已经不只是简单的礼节性祝贺。\n某种程度上，这更像是全球 AI 产业格局变化的一次公开投射。\n曾经定义 CPU 时代的英特尔，如今正在努力重新进入 AI 中心舞台；而已经成为 AI 算力核心霸主的英伟达，则需要新的制造伙伴与更稳固的供应链体系。\n竞争依然存在。\n但在 AI 时代，没有任何一家芯片公司，能够独自完成整个生态。\n参考链接：\nhttps://www.cmu.edu/news/stories/archives/2026/may/nvidia-founder-ceo-jensen-huang-to-carnegie-mellon-university-graduates-shape-what-comes-next\nhttps://x.com/MarioNawfal/status/2005768291009396843\nhttps://epoch.ai/data-insights/ai-chip-supply-chain-constraints?utm_source=chatgpt.com",
+    "content_source": "readability",
+    "content_chars": 4039,
+    "content_excerpt": "63 岁的黄仁勋，再次站上了聚光灯中央。但这一次，最让外界意外的，不只是他获得了荣誉博士学位。而是那个亲手为他披上博士兜帽的人——陈立武。\n北京时间今天上午，Carnegie Mellon University（卡内基梅隆大学，CMU）举行第 128 届毕业典礼。现场，CMU 向英伟达创始人兼 CEO 黄仁勋授予“科学与技术荣誉博士学位”。随后，英特尔 CEO 陈立武走上台前，为黄仁勋完成授袍仪式。\n在今天的 AI 产业格局里，这几乎是全球半导体行业最微妙、也最具象征意味的一次同台。\n一个属于 AI 时代的毕业典礼\n根据 CMU 官方新闻稿，今年学校共授予超过 5800 名本科与研究生学位。校方将这一届毕业生形容为“能够连接技术创新与艺术变革力量的一代人”。而黄仁勋，则成为当天最受关注的演讲嘉宾。\n“你们正值一个非凡的时刻来到这个世界。一个新兴产业正在诞生，一个科学发现的新时代即将开启。人工智能将加速人类知识的拓展，并帮助我们解决曾经遥不可及的难题，”他说道。\n“没有哪一代人比你们拥有更强大的工具和更广阔的机遇。我们都站在同一条起跑线上。现在是你们塑造未来的时刻。所以，快跑，不要慢走。”\n这几年，黄仁勋已经越来越像 AI 时代的“产业布道者”。\n从 GPU，到 CUDA，再到今天席卷全球的生成式 AI 浪潮，英伟达几乎成为整个 AI 基础设施的代名词。CMU 校长 Farnam Jahanian 在介绍黄仁勋时，也特别强调：\n“他的影响力早已超越科技行业本身。”"
+  },
+  {
+    "id": "14c481f9151a",
+    "title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-11T13:33:06",
+    "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a",
+    "collected_at": "2026-05-11T14:34:03.893088",
+    "content_text": "Sponsored\nIn partnership withCapital One\nDespite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed customer experiences; and ultimately, failed transformations.\nOrganizations that achieve outsized results from AI flip the script. They adopt a “customer-back engineering” mindset, putting customers at the heart of technology transformation.\nIt’s a strategy in which products and services are developed with the customer experience first in mind, including the customers’ challenges, needs, and expectations. Product development teams then work backward in a nimble and agile way to find the steps necessary to design and build solutions that achieve the desired experience.\n“When you get your engineers closer to customers, you get a lot more sideways innovation,” says Ashish Agrawal, managing vice president of business cards and payments tech at Capital One. “That leads to a multiplier effect, because engineers can approach a problem from a different dimension that can be unique to the sales or product perspective.”\nThe case for customer-centricity in engineering\nEngineers are problem-solvers by nature, says Agrawal. When they hear about challenges customers are experiencing, or how they are using products and services in the real world, they can devise ways to efficiently address customer needs, since they are naturally closer to systems and data than many other teams across the company.\n“Fostering a customer-centric culture has a motivational effect on engineers when they actually start seeing how the core changes they’re making, or the features they’re adding, are having a direct impact on the lives of customers,” says Agrawal.\nIt also takes discipline. Agrawal explains that Capital One has set a goal for every engineer in his organization to establish several touchpoints with customers throughout the year in different forms, including:\n- Digital empathy sessions to observe user journeys and identify where users hit friction\n- Embedded customer support for periods of time to deepen understanding of servicing needs\n- Engineering ride-alongs, in which engineers join customer success, sales, and support staff on calls or on-site visits\n- Hackathon competitions to build solutions around real customer problems\nThe AI opportunities with customer-centricity\n“The biggest challenge engineers within large companies face is a lack of direct access to customers,” says Agrawal. “This can make it harder for technologists to work with customers to identify problems and innovate solutions.”\nAI has accelerated the challenges as well as the opportunities. The lifecycle of launching products has become significantly faster. But the good news is that engineers are closer to the data that feeds into AI, so they can more rapidly apply AI-informed data techniques to solve customer problems.\nAgrawal outlines a recent scenario: In the customer servicing space, conversations can instantly be summarized and give a customer agent context on the member’s original request and remaining action points. Agentic AI can also be enabled to ask pointed follow-up questions about the interaction that would otherwise take human agents time to read through the entire thread.\n“A solution would have been a lot harder in an ecosystem without a lot of high-quality data,” says Agrawal. “But when you combine a rich data ecosystem with agentic tools, you move from incremental fixes to high-velocity transformation.”\nBy investing in AI data and tools and focusing on rapid experimentation, Agrawal says the cycle of deploying solutions can be accelerated. Teams learn that if they meet customer needs and iterate on a wider range of solutions much faster, then the entire innovation cycle speeds up.\nFor example, Capital One used customer insights to build a state-of-the-art, multi-agent AI framework called Chat Concierge to enhance the customer experience for car buyers and dealers. In a single conversation, Chat Concierge can perform tasks like comparing vehicles to help car buyers decide on the best choice and scheduling test drives or appointments with salespeople.\nAgrawal explains that car buyers can engage with Chat Concierge directly through participating dealer websites. Dealers can access and can take over the chat through Navigator Platform. The AI assistant consists of multiple logical agents that work together to mimic human reasoning, allowing it to provide information and take action based on the customer's requests.\nThe elements of an AI-first mindset\nAccording to a recent MIT Technology Review Insights survey, 70% of leaders say their firm uses agentic AI to some degree. Roughly half of executives say agentic AI systems are highly capable of improving fraud detection (56%) and security (51%), reducing cost and increasing efficiency (41%), and improving the customer experience (41%).\nLooking into the future, achieving these outcomes looks even more likely. More than half of the banking executives surveyed say they expect to continue to improve fraud detection (75%), security (64%), and the customer experience (51%). Agentic AI use cases that show strong potential to transform the customer experience in financial services include responding to customer services requests, adjusting bill payments to align with regular paychecks, or extracting key terms and conditions from financial agreements.\nPlacing the customer at the center of a transformation requires an AI-first mindset. Companies must shift from simply augmenting an existing product to fundamentally reimagining the problem and the user's needs through the lens of AI's capabilities.\nA few best practices that Agrawal recommends include:\nReimagine the core function of AI to solve a user’s problem: “The true value isn’t in chasing the AI hype; it’s in solving meaningful customer problems. By focusing on impact, we ensure that our innovation isn't just fast; it’s transformative,” says Agrawal.\nStart with high-quality, well-governed data as the foundation: “Data readiness and unified information across systems are the non-negotiable foundations of AI. A clean data layer is what orchestrates the agentic loop— enabling the perception, reasoning, and execution required to solve a customer’s problem before they even have to ask,” explains Agrawal.\nRebuild workflows with AI embedded from the start: “People treat models as black boxes, but agentic systems require tremendous rigor and oversight. Having a data ecosystem that is well-governed and responsible AI standards are essential pillars for building trust in these systems,” says Agrawal.\nBuild a cross-functional team involving data science, engineering, product, design, and other partners: Agrawal advises, “It’s important to be open and nimble to transforming how we work and create impact as AI becomes more integrated into workflows. It’s also important to take a ‘crawl, walk, run approach’ if you are new to AI, as opposed to simply jumping into it.”\nIn the end, achieving end-to-end transformation depends on empowering engineers and partner teams to start with customer needs and work backward to technology solutions, rather than starting with technological capabilities first and finding applications for them. When organizations make a customer-back approach second nature, they are able to not only reimagine the customer experience from the inside out, but to also place the customer front and center from the very start.\nThis content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.\nDeep Dive\nArtificial intelligence\nOpenAI is throwing everything into building a fully automated researcher\nAn exclusive conversation with OpenAI’s chief scientist, Jakub Pachocki, about his firm's new grand challenge and the future of AI.\nWant to understand the current state of AI? Check out these charts.\nAccording to Stanford’s 2026 AI Index, AI is sprinting, and we’re struggling to keep up.\nMusk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models\nMusk kept his cool, and OpenAI’s lawyer bulldozed him with piercing questions about his motivations for suing the company.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+    "content_source": "trafilatura",
+    "content_chars": 8978,
+    "content_excerpt": "Sponsored\nIn partnership withCapital One\nDespite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed customer experiences; and ultimately, failed transformations.\nOrganizations that achieve outsized results from AI flip the script. They adopt a “customer-back engineering” mindset, putting customers at the heart of technology transformation.\nIt’s a strategy in which products and services are developed with the customer experience first in mind, including the customers’ challenges, needs, and expectations. Product development teams then work backward in a nimble and agile way to find the steps necessary to design and build solutions that achieve the desired experience.\n“When you get your engineers closer to customers, you get a lot more sideways innovation,” says Ashish Agrawal, managing vice president of business cards and payments tech at Capital One. “That leads to a multiplier effect, because engineers can approach a problem from a different dimension that can be unique to the sales or product perspective.”\nThe case for customer-centricity in engineering\nEngineers are problem-solvers by nature, says Agrawal. When they hear about challenges customers are experiencing, or how they are using products and services in the real world, they can devise ways to efficiently address customer needs, since they are naturally closer to systems and data than many other teams across the company.\n“Fostering a customer-centric culture has a motivational effect on engineers when they actually start seeing how the core changes they’re making, or the features they’re adding, are having a direct impact on the lives of customers,” says Agrawal.\nIt also takes discipline. Agrawal explains that Capital One has set a goal for every engineer in his organization to establish several touchpoints with customers throughout the year in different forms, including:",
+    "title_zh": "通过客户支持工程促进突破性人工智能创新",
+    "summary_zh": "麦肯锡的研究表明，尽管数字化已经进行了多年，但组织从数字投资中获得的价值还不到预期的三分之一。这是因为大多数大公司都是从技术能力开始，然后将应用程序附加到这些能力上，而不是从客户需求开始",
+    "ai_summary": "麦肯锡的研究表明，尽管数字化已经进行了多年，但组织从数字投资中获得的价值还不到预期的三分之一。这是因为大多数大公司都是从…"
+  },
+  {
+    "id": "a078fa4cdac5",
+    "title": "Mistral为Le Chat新增远程智能体与Work模式",
+    "url": "https://www.infoq.cn/article/14UTzo6myptzQ1GqBdOG?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-11T20:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-11T14:34:11.684428",
+    "content_text": "Mistral 发布了\nMistral Medium 3.5\n，这是一款 1280 亿参数的模型，其目标是在单一系统内同时处理指令遵循、推理与编码，并在其 Vibe 和 Le Chat 产品中引入了新的云端智能体能力。该模型以公开预览形式提供，在修改版 MIT 许可下开放权重，支持最高 256k Token 的上下文窗口。它可在少量 GPU 上进行自托管，并支持按请求配置推理强度，既能输出短回复，也能执行更长的多步骤任务。\n此次发布还在\nMistral Vibe\n中引入了远程编码智能体，把执行从本地环境迁移到云端运行时。开发者可通过命令行界面或在\nLe Chat\n内发起编码会话，任务会在后台异步持续运行。会话可从本地执行无缝迁移到云端，并保留状态与历史，还可并行运行多个智能体。每个会话都运行在隔离环境中，智能体可修改代码、安装依赖并与外部系统交互。任务完成后，智能体可生成如 pull request 之类的产出，并通知用户审查。\nMistral Medium 3.5 被用作这些智能体的默认模型，并替代了 Vibe CLI 中的早期模型。它面向长时间的工作流而设计，包括需要工具调用与结构化输出的多步骤任务。该模型还包含一个视觉编码器，可处理可变图像输入。\n此外，Mistral 还在 Le Chat 中引入了新的\nWork模式\n，使智能体能够跨已连接工具执行多步骤的工作流。在该模式下，系统可访问外部数据源、执行分析，并完成如起草消息、创建 issue 或生成报告等操作。智能体的行为具备可见性，包括工具调用与中间步骤，对敏感操作则要求用户审批。会话可跨多个步骤持续存在，使智能体能够持续迭代直到任务完成。\n在\nX\n上的社区反馈整体积极，用户赞赏其本地到云端的无缝切换，对欧盟 AI 发展势头表示兴奋，也认可这款可在更少 GPU 上运行且能力较强的稠密模型（dense model）。\n开发者\nJarek Sobiecki\n发文称：\n新模型目前表现不错。相较 DevStral 2 有明显提升！到目前为止，我测试了它在 Helm 模板、改进 GitLab 流水线以及创建端到端测试方面的表现。整体符合预期，没有随机的怪异行为。这真的做得很好！\n其他用户已计划切回 Vibe，也有人讨论定价对比和早期性能测试，例如用户\n@gioelerosana\n评论说：\n各位，1.5 美元输入/7.5 美元输出，按这个体量来说太贵了。(Gemini 3 Flash 是 0.5 美元输入/3 美元输出)\n与\nOpenAI Codex\n、\nCursor\n和\nClaude Code\n等工具相比，Mistral 更强调面向开发者的路径：开放权重、自托管选项以及云端智能体执行。其远程智能体也体现出更广泛趋势，即转向可独立运行并集成进开发流水线的异步、多步骤 AI 工作流。\n该系统可与 GitHub、Jira 和 Slack 等开发工具集成，让智能体能够在既有流程内运行。此次发布反映出一个方向变化，那就是将 AI 智能体作为云端异步服务运行，并由模型能力与外部工具集成共同完成编排。\n查看英文原文：\nMistral Adds Remote Agents and Work Mode to Le Chat",
+    "content_source": "readability",
+    "content_chars": 1350,
+    "content_excerpt": "Mistral 发布了\nMistral Medium 3.5\n，这是一款 1280 亿参数的模型，其目标是在单一系统内同时处理指令遵循、推理与编码，并在其 Vibe 和 Le Chat 产品中引入了新的云端智能体能力。该模型以公开预览形式提供，在修改版 MIT 许可下开放权重，支持最高 256k Token 的上下文窗口。它可在少量 GPU 上进行自托管，并支持按请求配置推理强度，既能输出短回复，也能执行更长的多步骤任务。\n此次发布还在\nMistral Vibe\n中引入了远程编码智能体，把执行从本地环境迁移到云端运行时。开发者可通过命令行界面或在\nLe Chat\n内发起编码会话，任务会在后台异步持续运行。会话可从本地执行无缝迁移到云端，并保留状态与历史，还可并行运行多个智能体。每个会话都运行在隔离环境中，智能体可修改代码、安装依赖并与外部系统交互。任务完成后，智能体可生成如 pull request 之类的产出，并通知用户审查。\nMistral Medium 3.5 被用作这些智能体的默认模型，并替代了 Vibe CLI 中的早期模型。它面向长时间的工作流而设计，包括需要工具调用与结构化输出的多步骤任务。该模型还包含一个视觉编码器，可处理可变图像输入。\n此外，Mistral 还在 Le Chat 中引入了新的"
+  },
+  {
+    "id": "8b55c4119673",
+    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-11T13:00:00",
+    "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+    "collected_at": "2026-05-11T14:34:03.621859",
+    "content_text": "The apparently insatiable demand for AI compute has data center entreprenuers looking to the stars. There’s a key problem: There aren’t enough rockets to put data centers in orbit around the Earth, and they’re too expensive.\nMost of the players are hoping that SpaceX’s Starship — expected to make its twelfth test flight as soon as this weekend— will solve the problem. But once the vehicle is operational it may be years before it is commercially available, given SpaceX’s internal satellite business. The same is true for Blue Origin’s New Glenn rocket, which failed to deliver a satellite during its third launch in April.\nThat leaves space data center schemes either targeting the mid 2030s, like Google Suncatcher, or preparing to start off doing edge processing tasks for space sensors, like Starcloud.\nIn theory, there’s a third way: “We’re standing up our own rocket program,” Baiju Bhatt, the CEO and founder of Cowboy Space Corporation, told TechCrunch. He expects the first launch before the end of 2028.\nToday, the company announced the closure of a $275 million Series B round at a post-money valuation of $2 billion, led by Index Ventures, as a downpayment on that work. Breakthrough Energy Ventures, Construct Capital, IVP, and SAIC also participated.\nBhatt, a co-founder of online stock platform Robinhood, launched this startup in 2024 as Aetherflux, with plans to collect abundant solar energy in space and beam it down to Earth. The idea of space data centers led the company to pivot towards using its electricity while in orbit. The practical realities of that effort, in turn, led him to a rocket development program, and the company’s new name.\nBhatt said he spoke to multiple launch providers to try and find a path where his company would only build satellites, but he couldn’t find enough launch capacity to truly scale an orbital data center business, or do so in a way where the unit economics could compete with terrestrial alternatives.\nThis Week Only: Buy one pass, get the second at 50% off\nThis Week Only: Buy one pass, get the second at 50% off\n“There’s a lot of new rockets that are coming online, but as we look three, four years out, it’s still very, very scarce, and I think that you’re going to see a lot of the first party rocket providers actually specialize into their own payloads,” Bhatt said.\nOf course, while bringing the rocket in-house is logical, it’s also nuts. Only a handful of private companies in the West, mainly SpaceX, Rocket Lab and Arianespace, are consistently launching commercial rockets. Two others, Blue Origin and United Launch Alliance, have been struggling to drag their vehicles out of development hell for years. A number of startups, including Stoke Space, Firefly Aerospace, and Relativity Space, have worked for years and are still waiting to deliver operational systems.\nThis evolution of the company will also bring Cowboy Space Corporation into direct competition with SpaceX and Blue Origin, the most advanced and well-funded players in the market.\n“The prize here, and the size of this market, is big enough that there’s room for many players to succeed,” Bhatt said “I see the demand for AI getting more and more acute, and I see the options on Earth getting more and more limited.”\nOne advantage, Bhatt argues, is the company’s focus on this single market (data centers), and its unique design. Orbital rockets typically have a booster stage that flies the vehicle to the edge of space, and a second stage that carries the payload and delivers it to orbit. Cowboy Space plans to build its data centers directly into the second stage of its rocket. It’s actually a bit of a throw-back: The first US satellite, Explorer 1, was built as the final stage of a rocket, filled with radio equipment and a few scientific instruments.\nMaking the rocket purpose-built only to launch its data-center satellites should simplify the design process. The company expects each satellite to have a mass of 20,000 to 25,000 kilograms and to generate 1 MW of power for just under 800 onboard GPUs. That means its rocket would be slightly more powerful than the SpaceX’s workhorse Falcon 9, though still smaller than its under-development Starship. Eventually, Bhatt says, he expects the booster to be reusable.\nCowboy Space has hired veterans of the space industry, including former Blue Origin propulsion engineer Warren Lamont and former SpaceX launch director Tyler Grinne. The company also plans to build its own rocket engine, the most complex and expensive part of any launch vehicle. Cowboy Space is still working through key development needs, like facilities to test, manufacture and launch its rockets.\nThe new vision comes with a new name for the startup, to emphasize its mission to “power humanity from the high frontier,” although Bhatt admits “it gives me a reason to wear a cowboy hat and also grow this sick mustache.”",
+    "content_source": "trafilatura",
+    "content_chars": 5519,
+    "content_excerpt": "The apparently insatiable demand for AI compute has data center entreprenuers looking to the stars. There’s a key problem: There aren’t enough rockets to put data centers in orbit around the Earth, and they’re too expensive.\nMost of the players are hoping that SpaceX’s Starship — expected to make its twelfth test flight as soon as this weekend— will solve the problem. But once the vehicle is operational it may be years before it is commercially available, given SpaceX’s internal satellite business. The same is true for Blue Origin’s New Glenn rocket, which failed to deliver a satellite during its third launch in April.\nThat leaves space data center schemes either targeting the mid 2030s, like Google Suncatcher, or preparing to start off doing edge processing tasks for space sensors, like Starcloud.\nIn theory, there’s a third way: “We’re standing up our own rocket program,” Baiju Bhatt, the CEO and founder of Cowboy Space Corporation, told TechCrunch. He expects the first launch before the end of 2028.\nToday, the company announced the closure of a $275 million Series B round at a post-money valuation of $2 billion, led by Index Ventures, as a downpayment on that work. Breakthrough Energy Ventures, Construct Capital, IVP, and SAIC also participated.\nBhatt, a co-founder of online stock platform Robinhood, launched this startup in 2024 as Aetherflux, with plans to collect abundant solar energy in space and beam it down to Earth. The idea of space data centers led the company to pivot towards using its electricity while in orbit. The practical realities of that effort, in turn, led him to a rocket development program, and the company’s new name.\nBhatt said he spoke to multiple launch providers to try and find a path where his company would only build satellites, but he couldn’t find enough launch capacity to truly scale an orbital data center business, or do so in a way where the unit economics could compete with terrestrial alternatives.\nThis Week Only: Buy one pass, get the second at 50% off\nThis Week Only: Buy one pass, get the second at 50% off\n“There’s a lot of new rockets that are coming online, but as we look three, four years out, it’s still very, very scarce, and I think that you’re going to see a lot of the first party rocket providers actually specialize into their own payloads,” Bhatt said.",
+    "title_zh": "没有足够的火箭用于太空数据中心。 Cowboy Space 筹集了 2.75 亿美元来建造它们。",
+    "summary_zh": "牛仔航天公司希望将数据中心送入轨道。首先，它必须建造火箭才能到达那里",
+    "ai_summary": "牛仔航天公司希望将数据中心送入轨道。首先，它必须建造火箭才能到达那里"
+  },
+  {
+    "id": "90ee6b575a32",
+    "title": "AI工具用了不少，利润为何不涨？网易智企发布CodeWave，直击 AI Coding 提效难题",
+    "url": "https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-11T18:54:30",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-11T14:34:11.684494",
+    "content_text": "2026 年 5 月 11 日，\n网易智企正式发布 CodeWave 可控的企业应用 AI Coding 平台。\n直击行业痛点：AI 工具用了不少，利润为何不涨？\n当前，AI Coding 工具已成为软件开发领域的标配，但大量 ISV 在实践中发现，AI 带来的效率提升并未有效转化为利润增长。返工率居高不下、项目周期反复失控、AI 生成代码难以维护等问题，正在侵蚀 ISV 本就微薄的利润空间。\n网易智企副总经理、CodeWave 业务负责人王桐在发布会上表示：“企业真正的难题不是代码写得不够快，而是生成资产谁来管、技术栈谁来统一、开发质量谁来兜底。CodeWave 填补的正是这个空白。”\nAI Coding 从个人提效到企业落地，仍有关键鸿沟待跨越\n过去两年，AI Coding 赛道持续升温。从 GitHub Copilot 到 Cursor、Claude Code，\"对话即编程\"已成为个人开发者的新常态。然而，当企业试图将这些工具引入真实业务系统开发时，面临的核心挑战并非\"AI 不够聪明\"，而是 AI 生成的代码难以直接满足企业级上线标准。\n据了解，已有多家 ISV（独立软件开发商）在实际使用中遭遇类似困境：AI 工具虽能快速生成可运行的 Demo，但前端框架选型不稳定、状态管理方案反复变化、各模块代码难以整合，团队往往需要投入比传统开发更多的时间进行规范统一和返工。从 Demo 到可交付系统之间，工程化、规范化、可维护性等关键要素的缺失，成为制约 AI Coding 企业级落地的核心瓶颈。\n网易智企总结了当前 AI Coding 在企业级场景落地面临的五重困境：Vibe Coding 输出不稳定、技术栈\"漂移\"难统一、缺乏结构化架构约束、缺少一站式工程管理能力，以及无法实现资产沉淀与复用。\n三位一体架构：NASL+SDD+可视化平台构建可控能力体系\n针对上述行业痛点，CodeWave 构建了“NASL+SDD+可视化开发平台”三位一体的核心能力体系，以“可控性”作为核心设计理念。\n其中，NASL 作为网易自研的 Web 应用描述语言，通过强类型系统和静态检查，从技术栈底座层面消除框架漂移和风格混乱，确保 AI 产出结构可见、行为可控；SDD（Spec-Driven Development，规格驱动开发）以标准化 Spec 文档替代 Prompt 提示词，实现从 Prompt 到需求、设计、任务再到代码的规范化流程，在 AI 动手之前先将需求转化为结构化规格描述；可视化开发平台则提供从创建、开发、测试到部署的一站式管理，同时承接资产沉淀与多人协作。\n王桐进一步阐释了三者的关系：“没有 NASL，技术栈无法收敛；没有 Spec，AI 生成无法约束；没有平台，工程化管理无从落地。唯有三者结合，AI Coding 才能从‘个人能跑通’走向‘企业敢上线’。”\n在实际使用中，CodeWave 围绕“人机协同、步进确认”的原则，将企业级应用开发拆解为四个标准化步骤：\n第一步，智能解析 PRD。\n用户上传 PRD 文档后，系统自动将其转为结构化格式，文档中的流程图、原型图等图片同样会被智能识别，提取出布局、功能、交互逻辑等关键信息。\n第二步，规范需求拆解。\nAI 在接收需求后不会直接生成代码，而是先分析需求中的歧义与冲突并主动向用户提问，由内置工作流驱动完成需求确认，输出标准化的 Spec 文档——即人与 AI 之间关于\"要做什么\"的明确契约。\n第三步，技术设计确认。\n需求确认后，平台自动输出包含架构设计、数据建模、组件匹配、UI 规范等在内的完整技术设计方案，用户确认方案合理后再进入开发阶段，避免方向性返工。\n第四步，云端执行与即时交付。\nAI 在云端执行代码生成任务，完成后即生成可预览、可操作的应用。后续增量需求可通过 IDE 内 AI 对话处理，同样遵循规范流程。所有项目资产自动沉淀至资产中心，支持跨项目复用。\n在底层能力层面，CodeWave 以五大核心能力分别对应解决前述五重困境：\nNASL 可控生成\n方面，所有 AI 产物基于统一的 DSL 描述层生成，自动输出符合规范的前后端源码（Vue/React + Spring），技术栈天然锁定，生成结果全程透明可见。\n可视化 IDE\n方面，平台提供页面、逻辑、数据、查询、流程五大设计器，覆盖全栈可视化开发，业务人员通过拖拽即可构建和调整应用，AI 生成的每一步结果直观可见、即时可改。\n资产沉淀与复用\n方面，平台支持对历史 IT 资产的智能召回，AI 可主动生成企业级可复用组件与模板，历史代码在平台内自动资产化沉淀，实现跨项目复用。\n强类型系统\n方面，内置静态类型检查机制，在代码生成阶段即完成合规校验，将潜在问题拦截在部署之前。\n全生命周期管理\n方面，覆盖创建、开发、测试、部署的完整链路，无缝对接企业运维体系，开箱即用。\n以一个包含约 150 个功能点的中小型企业级项目为例（涵盖用户管理、审批流程、数据看板、权限体系等常见模块），传统模式下通常需要 2 至 3 人投入半个月完成。使用 CodeWave 后，同等规模团队可在数天内完成从需求分析到可部署应用的全过程。\n据网易智企测算，借助 CodeWave 平台，ISV 团队可同时推动原先两倍数量的项目，项目收益实现翻倍；同时，通过精简架构、降低人力支出，团队利润结构得到显著改善。\n更为关键的是，CodeWave 从根本上改变了 ISV 过去高度依赖个人能力的交付模式。平台将 AI 产出的每一个组件、模板、数据模型和业务逻辑自动沉淀为组织级数字资产，统一版本管理、跨项目可复用，使整个组织的交付能力形成持续增值的飞轮效应。",
+    "content_source": "readability",
+    "content_chars": 2348,
+    "content_excerpt": "2026 年 5 月 11 日，\n网易智企正式发布 CodeWave 可控的企业应用 AI Coding 平台。\n直击行业痛点：AI 工具用了不少，利润为何不涨？\n当前，AI Coding 工具已成为软件开发领域的标配，但大量 ISV 在实践中发现，AI 带来的效率提升并未有效转化为利润增长。返工率居高不下、项目周期反复失控、AI 生成代码难以维护等问题，正在侵蚀 ISV 本就微薄的利润空间。\n网易智企副总经理、CodeWave 业务负责人王桐在发布会上表示：“企业真正的难题不是代码写得不够快，而是生成资产谁来管、技术栈谁来统一、开发质量谁来兜底。CodeWave 填补的正是这个空白。”\nAI Coding 从个人提效到企业落地，仍有关键鸿沟待跨越\n过去两年，AI Coding 赛道持续升温。从 GitHub Copilot 到 Cursor、Claude Code，\"对话即编程\"已成为个人开发者的新常态。然而，当企业试图将这些工具引入真实业务系统开发时，面临的核心挑战并非\"AI 不够聪明\"，而是 AI 生成的代码难以直接满足企业级上线标准。\n据了解，已有多家 ISV（独立软件开发商）在实际使用中遭遇类似困境：AI 工具虽能快速生成可运行的 Demo，但前端框架选型不稳定、状态管理方案反复变化、各模块代码难以整合，团队往往需要投入比传统开发更多的时间进行规范统一和返工。从 Demo 到可交付系统之间，工程化、规范化、可维护性等关键要素的缺失，成为制约 AI Coding 企业级落地的核心瓶颈。\n网易智企总结了当前 AI Coding 在企业级场景落地面临的五重困境：Vibe Coding 输出不稳定、技术栈\"漂移\"难统一、缺乏结构化架构约束、缺少一站式工程管理能力，以及无法实现资产沉淀与复用。\n三位一体架构：NASL+SDD+可视化平台构建可控能力体系"
+  },
+  {
+    "id": "cff19a85c096",
+    "title": "Implementing advanced AI technologies in finance",
+    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-11T13:00:00",
+    "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of",
+    "collected_at": "2026-05-11T14:34:03.893237",
+    "content_text": "Sponsored\nIn partnership withOracle NetSuite\nIn finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions in the enterprise is now among the most experimentally transformed.\nWhat’s emerging is a layered shift in how work gets done. From variance commentary and fraud detection to contract review and close narrative drafting, AI is embedding itself across workflows, particularly where unstructured data once slowed down everything. Yet, as Glenn Hopper, head of AI and managing director at VAi Consulting, puts it, “the proliferation of AI happened kind of before governance and before a real plan came about.” That bottom-up adoption is forcing a recalibration at the top, where executives must now reconcile productivity gains with oversight, risk, and accountability.\nJust as critical is reframing AI’s role. “AI as a means to an end, as opposed to AI being the end,” says Ranga Bodla, VP of industry and field marketing at Oracle NetSuite, underscores a growing consensus: the technology is most effective when it disappears into existing processes rather than outright replaces them. Embedded systems, seamless integrations, and tools like model context protocol (MCP) are accelerating this shift, making AI an ambient capability. Notably, ease of integration, not cost savings or new features, has become the strongest driver of adoption.\nStill, the real constraint may be neither data nor technology, but people. “Talent is the actual root cause,” Hopper argues, pointing to a widening gap between domain expertise and AI fluency. Even as concerns about data security and model opacity persist, the more pressing risk may be misunderstanding the tools altogether or restricting them so tightly that employees look for workarounds beyond leadership control. “The auditability of it, I think, is critical,” Bodla notes.\nLooking ahead, the trajectory is clear but variable. AI agents capable of executing complex, multi-step tasks are beginning to materialize, while expanding context windows and interoperable systems promise deeper, more persistent intelligence. But the real transformation may be a gradual shift toward systems that bolster judgement, automate routines, and allow finance teams to spend less time reconciling the past and more time shaping what comes next.\nThis webcast is produced in partnership with Oracle NetSuite.\nThis content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.\nDeep Dive\nArtificial intelligence\nOpenAI is throwing everything into building a fully automated researcher\nAn exclusive conversation with OpenAI’s chief scientist, Jakub Pachocki, about his firm's new grand challenge and the future of AI.\nWant to understand the current state of AI? Check out these charts.\nAccording to Stanford’s 2026 AI Index, AI is sprinting, and we’re struggling to keep up.\nMusk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models\nMusk kept his cool, and OpenAI’s lawyer bulldozed him with piercing questions about his motivations for suing the company.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+    "content_source": "trafilatura",
+    "content_chars": 3829,
+    "content_excerpt": "Sponsored\nIn partnership withOracle NetSuite\nIn finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions in the enterprise is now among the most experimentally transformed.\nWhat’s emerging is a layered shift in how work gets done. From variance commentary and fraud detection to contract review and close narrative drafting, AI is embedding itself across workflows, particularly where unstructured data once slowed down everything. Yet, as Glenn Hopper, head of AI and managing director at VAi Consulting, puts it, “the proliferation of AI happened kind of before governance and before a real plan came about.” That bottom-up adoption is forcing a recalibration at the top, where executives must now reconcile productivity gains with oversight, risk, and accountability.\nJust as critical is reframing AI’s role. “AI as a means to an end, as opposed to AI being the end,” says Ranga Bodla, VP of industry and field marketing at Oracle NetSuite, underscores a growing consensus: the technology is most effective when it disappears into existing processes rather than outright replaces them. Embedded systems, seamless integrations, and tools like model context protocol (MCP) are accelerating this shift, making AI an ambient capability. Notably, ease of integration, not cost savings or new features, has become the strongest driver of adoption.\nStill, the real constraint may be neither data nor technology, but people. “Talent is the actual root cause,” Hopper argues, pointing to a widening gap between domain expertise and AI fluency. Even as concerns about data security and model opacity persist, the more pressing risk may be misunderstanding the tools altogether or restricting them so tightly that employees look for workarounds beyond leadership control. “The auditability of it, I think, is critical,” Bodla notes.\nLooking ahead, the trajectory is clear but variable. AI agents capable of executing complex, multi-step tasks are beginning to materialize, while expanding context windows and interoperable systems promise deeper, more persistent intelligence. But the real transformation may be a gradual shift toward systems that bolster judgement, automate routines, and allow finance teams to spend less time reconciling the past and more time shaping what comes next.\nThis webcast is produced in partnership with Oracle NetSuite.\nThis content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.\nDeep Dive",
+    "title_zh": "在金融领域实施先进的人工智能技术",
+    "summary_zh": "在长期以来以精确和控制为特征的财务部门中，人工智能的出现与其说是一种管理巧妙的升级，不如说是一种悄然的叛乱。员工已经在使用它，而领导层则竞相在事后强加结构、治理和战略。结果是一个悖论：其中之一",
+    "ai_summary": "在长期以来以精确和控制为特征的财务部门中，人工智能的出现与其说是一种管理巧妙的升级，不如说是一种悄然的叛乱。员工已经在使…"
+  },
+  {
+    "id": "f467409022da",
+    "title": "38万应用暴露、2000+应用泄密！AI编程把“内网”变公网",
+    "url": "https://www.infoq.cn/article/j8rolcojYjAakoeJ3FhS?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-11T18:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-11T14:34:11.684521",
+    "content_text": "整理 | 华卫\n“vibe coding 工具正在泄露大量个人和企业数据。”近日，以色列一家网络安全初创公司 RedAccess 的研究人员在研究“影子 AI”（shadow AI）趋势时发现，开发者用来快速开发软件的 AI 工具让医疗记录、财务数据和财富 500 强内部文件都泄露到了开放网络上。\nRedAccess 的 CEO Dor Zvi 表示，研究人员发现约 38 万个可公开访问的应用和其他资产，这些都是开发者使用 Lovable、Base44、Netlify 和 Replit 等工具创建的，其中约有 5000 个包含敏感的企业信息，但近 2000 个应用在进一步检查后似乎暴露了私密数据。Axios 独立验证了多个暴露应用，WIRED 也分别确认了这些发现。\n40% AI 编码应用暴露敏感数据，甚至还有管理员权限\n随着 AI 日益接管现代程序员的工作，网络安全领域早已警告：自动化编码工具势必会在软件中引入一大批可被利用的漏洞。然而，当这些 vibe coding 工具让任何人只需点击一下就能创建并托管在网页上的应用时，问题就不仅仅是漏洞了，而是几乎完全没有任何安全防护，包括高度敏感的企业和个人数据。\n据了解，RedAccess 团队对使用 Lovable、Replit、Base44 和 Netlify 等 AI 软件开发工具创建的数千个 vibe coding 网页应用进行了分析，发现其中超过 5000 个几乎没有任何安全机制或身份验证。许多这样的网页应用，只要有人获取到其 URL，就可以直接访问应用及其数据。还有一些虽然设置了门槛，但也极其简单，比如只需用任意邮箱地址注册即可访问。\n在这 5000 个任何人只需在浏览器中输入 URL 就能访问的 AI 编码应用中，Zvi 发现近 2000 个在进一步检查后似乎暴露了私密数据。Zvi 表示，大约 40% 的应用暴露了敏感数据，包括医疗信息、金融数据、企业演示文稿和战略文件，以及用户与聊天机器人对话的详细记录。\n他分享的网页应用截图（其中一些已被核实仍在线且处于暴露状态）显示，包括某医院的工作分配信息（含医生的个人身份信息）、某公司的详细广告采购数据、另一家公司的市场进入战略演示文稿、一家零售商的聊天机器人完整对话记录（包含客户的全名和联系方式）、一家航运公司的货运记录，以及来自多家公司的各类销售和财务数据。Zvi 还表示，在某些情况下，这些暴露的应用甚至可能让他获得系统的管理员权限，甚至删除其他管理员。\nZvi 表示，RedAccess 在搜寻存在漏洞的网页应用时出奇地容易。Lovable、Replit、Base44 和 Netlify 都允许用户将网页应用托管在这些 AI 公司的自有域名上，而不是用户自己的域名。因此，研究人员只需在 Google 和 Bing 上，通过这些公司的域名配合其他关键词进行简单搜索，就能识别出数千个使用这些工具进行 vibe coding 开发的应用。\n在 Lovable 的案例中，Zvi 还发现了大量仿冒大型企业的钓鱼网站，这些网站看起来是通过该 AI 编码工具创建并托管在 Lovable 域名上的，包括美国银行（Bank of America）、Costco、FedEx、Trader Joe’s 和麦当劳等品牌。Zvi 还指出，Red Access 发现的 5000 个暴露应用仅托管在 AI 编码工具自身域名上，实际上可能还有成千上万的应用是托管在用户自购的域名上。\n安全研究员 Joel Margolis 指出，要验证某个未受保护的 AI 编码网页应用中是否真的暴露了真实数据，其实并不容易。他和同事此前曾发现一款 AI 聊天玩具，在一个几乎没有安全防护的网站上暴露了 5 万条与儿童的对话记录。他表示，vibe coding 应用中的数据可能只是占位符，或者应用本身只是一个概念验证（POC）。Wix 的 Brodie 也认为，提供给 Base44 的两个示例看起来像测试站点或包含 AI 生成的数据。\n尽管如此，Margolis 认为，AI 构建的网页应用导致数据暴露的问题确实非常现实。他表示，自己经常遇到 Zvi 所描述的这类暴露情况。“市场团队里有人想做个网站，他们不是工程师，可能也几乎没有安全背景或知识。”他指出，AI 编码工具会按照你的要求去做，但如果你没有要求它以安全的方式去做，它也不会主动这么做。\n“人们可以随意创建”，但默认设置出了问题\n在 RedAccess 的研究发布前不到两周，还发生了一起事件：运行 Claude Opus 4.6 模型的 Cursor 通过一次对基础设施提供商 Railway 的 API 调用，在 9 秒内删除了 PocketOS 的整个生产数据库及所有卷级备份。\nZvi 直言不讳地表示，“人们可以随意创建某个东西，然后直接在生产环境中使用，代表公司去用，甚至不需要获得任何许可，这种行为几乎没有边界。我不认为可以让全世界都接受安全教育。”他还补充说，他的母亲也在用 Lovable 进行 vibe coding，“但我不认为她会考虑基于角色的访问控制”。\nRedAccess 研究人员发现，多个 vibe coding 平台的隐私设置默认让应用处于公开状态，除非用户手动将其改为私密。许多此类应还会被 Google 等搜索引擎收录，任何上网的人都有可能无意中访问到它们。\nZvi 认为，如今 AI 网页应用开发工具正在制造新一波数据暴露，其根源同样是用户错误与安全防护不足的叠加。但比具体某个安全缺陷更根本的问题在于，这些工具让组织内部一类全新的人群可以创建应用，他们往往缺乏安全意识，而且绕过了企业原有的软件开发流程和上线前的安全审查机制。\n“公司里的任何人，随时都可以生成一个应用，而且完全不需要经过任何开发流程或安全检查，人们可以在没有征求任何人意见的情况下，直接把它用在生产环境中。而他们确实就是这么做的。”Zvi 说道，“最终的结果就是，企业实际上正在通过这些 vibe coding 应用泄露私密数据，这是有史以来规模最大的事件之一，人们将企业或其他敏感信息暴露给了全世界任何人。”\n去年 10 月，Escape.tech 扫描了 5600 个公开的 vibe coding 应用，也发现其中超过 2000 个存在高危漏洞，超过 400 个暴露的敏感信息（包括 API 密钥和访问令牌），以及 175 起涉及个人数据泄露的案例（包括医疗记录和银行账户信息）。Escape 发现的所有漏洞都存在于真实的生产系统中，并且可以在数小时内被发现。今年 3 月，该公司完成了由 Balderton 领投的 1800 万美元 A 轮融资，其核心投资逻辑之一正是 AI 生成代码带来的安全缺口。\nGartner 在《2026 年预测》报告中指出，到 2028 年，由“公民开发者”采用的 prompt-to-app（提示生成应用）方式，将使软件缺陷数量增加 2500%。Gartner 认为，这类缺陷的一大新特征是：AI 生成的代码在语法上是正确的，但缺乏对整体系统架构和复杂业务规则的理解。修复这些“深层上下文错误”的成本，将侵蚀原本用于创新的预算。\n各平台的回应与反驳\n目前，有三家 AI 编码公司对 RedAccess 研究人员的说法提出异议，称对方分享的信息不够充分，也没有给予足够时间来回应。但 Zvi 表示，对于几十个暴露的网页应用，他们主动联系了应用的疑似所有者。各家公司高管均表示，他们严肃对待此类报告，同时指出这些应用公开可访问，并不必然意味着存在数据泄露或安全漏洞。不过，这些公司也并未否认 RedAccess 所发现的网页应用确实处于公开暴露状态。\nReplit 的 CEO Amjad Masad 表示，RedAccess 在披露之前，只给了他们 24 小时的响应时间。他在 X 上的回应中写道，“根据他们分享的有限信息，RedAccess 的核心指控似乎是：一些用户把本应私密的应用发布到了开放的互联网，Replit 允许用户自行选择应用是公开还是私密。公开应用可以在互联网上被访问，这是预期行为。隐私设置也可以随时通过一次点击进行更改。如果 Red Access 共享受影响用户名单，我们将主动将这些应用默认为私密，并直接通知用户。”\nLovable 的一位发言人在声明中回应称，“Lovable 非常重视关于数据暴露和钓鱼网站的报告，我们正在积极获取所需信息以展开调查。目前此事仍在持续处理中。同时也需要指出，Lovable 为开发者提供了安全构建应用的工具，但应用如何配置，最终责任在于创建者本人。”\n在此前公开的 CVE-2025-48757 中，记录了 Lovable 生成的 Supabase 项目中存在行级安全（Row-Level Security）策略不足甚至缺失的问题。一些查询完全跳过了访问控制检查，导致 170 多个生产环境应用的数据被暴露。AI 负责生成了数据库层，却没有生成本应限制数据访问的安全策略。Lovable 对该 CVE 分类提出异议，称保护应用数据是客户自身的责任。\nBase44 母公司 Wix 的公关负责人 Blake Brodie 在声明中表示：“Base44 为用户提供了强大的工具来配置其应用的安全性，包括访问控制和可见性设置。”她补充说，“关闭这些控制是一个有意且简单的操作，任何用户都可以做到。如果应用是公开可访问的，那反映的是用户的配置选择，而不是平台漏洞。”\nBrodie 还指出，“伪造看似包含真实用户数据的应用非常容易。在没有向我们提供任何经过验证的案例的情况下，我们无法评估这些指控的真实性。”对此，RedAccess 反驳称，他们确实向 Base44 提供了相关示例。RedAccess 还分享了若干匿名沟通记录，显示 Base44 用户感谢研究人员提醒其应用存在暴露问题，随后这些应用被加固或下线。\n据了解，Wiz Research 在去年 7 月曾独立发现，Base44 存在一个平台级的身份验证绕过漏洞。暴露的 API 接口允许任何人仅凭一个公开可见的 app_id，就能在私有应用中创建“已验证账户”。这一漏洞相当于：站在一栋上锁的大楼门口，只要喊出一个房间号，就能让门自动打开。Wix 在 Wiz 报告后 24 小时内修复了该漏洞，但这一事件暴露出一个问题：在这些平台上，数百万应用由用户创建，而用户往往默认平台已经替他们处理了安全问题，但实际的认证机制却非常薄弱。\n参考链接：\nhttps://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/\nhttps://www.axios.com/2026/05/07/loveable-replit-vibe-coding-privacy\nhttps://venturebeat.com/security/vibe-coded-apps-shadow-ai-s3-bucket-crisis-ciso-audit-framework",
+    "content_source": "readability",
+    "content_chars": 4613,
+    "content_excerpt": "整理 | 华卫\n“vibe coding 工具正在泄露大量个人和企业数据。”近日，以色列一家网络安全初创公司 RedAccess 的研究人员在研究“影子 AI”（shadow AI）趋势时发现，开发者用来快速开发软件的 AI 工具让医疗记录、财务数据和财富 500 强内部文件都泄露到了开放网络上。\nRedAccess 的 CEO Dor Zvi 表示，研究人员发现约 38 万个可公开访问的应用和其他资产，这些都是开发者使用 Lovable、Base44、Netlify 和 Replit 等工具创建的，其中约有 5000 个包含敏感的企业信息，但近 2000 个应用在进一步检查后似乎暴露了私密数据。Axios 独立验证了多个暴露应用，WIRED 也分别确认了这些发现。\n40% AI 编码应用暴露敏感数据，甚至还有管理员权限\n随着 AI 日益接管现代程序员的工作，网络安全领域早已警告：自动化编码工具势必会在软件中引入一大批可被利用的漏洞。然而，当这些 vibe coding 工具让任何人只需点击一下就能创建并托管在网页上的应用时，问题就不仅仅是漏洞了，而是几乎完全没有任何安全防护，包括高度敏感的企业和个人数据。\n据了解，RedAccess 团队对使用 Lovable、Replit、Base44 和 Netlify 等 AI 软件开发工具创建的数千个 vibe coding 网页应用进行了分析，发现其中超过 5000 个几乎没有任何安全机制或身份验证。许多这样的网页应用，只要有人获取到其 URL，就可以直接访问应用及其数据。还有一些虽然设置了门槛，但也极其简单，比如只需用任意邮箱地址注册即可访问。\n在这 5000 个任何人只需在浏览器中输入 URL 就能访问的 AI 编码应用中，Zvi 发现近 2000 个在进一步检查后似乎暴露了私密数据。Zvi 表示，大约 40% 的应用暴露了敏感数据，包括医疗信息、金融数据、企业演示文稿和战略文件，以及用户与聊天机器人对话的详细记录。\n他分享的网页应用截图（其中一些已被核实仍在线且处于暴露状态）显示，包括某医院的工作分配信息（含医生的个人身份信息）、某公司的详细广告采购数据、另一家公司的市场进入战略演示文稿、一家零售商的聊天机器人完整对话记录（包含客户的全名和联系方式）、一家航运公司的货运记录，以及来自多家公司的各类销售和财务数据。Zvi 还表示，在某些情况下，这些暴露的应用甚至可能让他获得系统的管理员权限，甚至删除其他管理员。\nZvi 表示，RedAccess 在搜寻存在漏洞的网页应用时出奇地容易。Lovable、Replit、Base44 和 Netlify 都允许用户将网页应用托管在这些 AI 公司的自有域名上，而不是用户自己的域名。因此，研究人员只需在 Google 和 Bing 上，通过这些公司的域名配合其他关键词进行简单搜索，就能识别出数千个使用这些工具进行 vibe coding 开发的应用。\n在 Lovable 的案例中，Zvi 还发现了大量仿冒大型企业的钓鱼网站，这些网站看起来是通过该 AI 编码工具创建并托管在 Lovable 域名上的，包括美国银行（Bank of America）、Costco、FedEx、Trader Joe’s 和麦当劳等品牌。Zvi 还指出，Red Access 发现的 5000 个暴露应用仅托管在 AI 编码工具自身域名上，实际上可能还有成千上万的应用是托管在用户自购的域名上。"
+  },
+  {
+    "id": "6e073f47dc1c",
+    "title": "软银孙正义拟在法国投资数十亿美元建设人工智能数据中心",
+    "url": "https://36kr.com/newsflashes/3804875318812164?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-11T12:39:19",
+    "summary": "5月11日消息，据报道，软银集团创始人孙正义正与法国总统马克龙进行深度磋商，计划在未来几周内宣布一项法国AI数据中心项目。作为软银构建全球人工智能基础设施战略的一部分，孙正义正考虑在法国投入数十亿美元。（界面）",
+    "collected_at": "2026-05-11T14:34:09.735995"
+  },
+  {
+    "id": "486a6c8822f5",
+    "title": "Claude Code的Auto模式深度解析：Anthropic带有人类审批门控的自治编码系统",
+    "url": "https://www.infoq.cn/article/UMuOBcU1lJ6jrOsQGlZK?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-11T18:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-11T14:34:11.684551",
+    "content_text": "Anthropic 在\nClaude Code中引入了Auto模式\n，使得多步骤的软件开发任务能够在减少人工干预的情况下执行。开发者定义目标，系统负责代码生成、执行、工具调用和迭代完善，对于敏感操作，在选定的检查点仍要求人工审批。\n此前，Claude Code 采用基于权限的模型，用户必须为大多数操作（比如，运行命令和修改文件）逐一批准。虽然这种方式提供了较强的安全性与控制，但在长会话中的重复确认带来了摩擦，导致审批疲劳，用户把更多时间花在管理确认上，而非专注于开发工作。\nIntempt 产品负责人的\nSid Chaudhary\n在\n贴文中指出\n：\n你现在可以启动 Claude 然后离开。喝杯咖啡，真正离开，不用一直盯着它。\nAuto 模式引入了分层的安全与执行架构，管控输入的处理方式与操作的执行流程。在输入层，工具输出（比如文件读取、shell 结果和网页响应）在被纳入系统上下文前会被检查。当内容看起来具有恶意或试图更改指令时，系统会注入警告，将其视为不受信并阻止覆盖用户的意图。\nClaude Code Auto 模式的高层架构(来源：\nAnthropic的博客文章\n)\n在执行层，系统会在运行每个拟议（proposed）操作前先进行评估，作为自动化的审批机制：对安全操作放行，对模糊或有风险的情况转交进一步检查。这在保留高影响或潜在不安全操作护栏的同时，减少了用户的重复干预。\n一名测试工程师\nAnkit Kalluraya\n在\n贴文中描述\n了 Auto 模式中的界面行为：\n在 Auto 模式中，当触发权限检查时，加载指示器会变为红色，清晰地提示 Claude 正在暂停，等待审批。\n系统采用两阶段分类方法以平衡效率与覆盖率。由快速的初筛来处理大多数的工具调用，允许安全操作以极低的开销放行。只有不确定或潜在风险的操作会升级到更深层的分析。这在控制延迟与计算成本的同时，提高了边缘情况的召回率，并保持安全与意图对齐的稳定执行。\n两阶段分类流水线在效率、延迟与安全覆盖率之间的平衡(来源：\nAnthropic的博客文章\n)\nPlaytika 的主管\nMykola Kondratiuk\n在\n贴文中指出\n：\n开启 Auto Mode 后，AI 现在成为审批者，而不仅仅是执行者。大多数治理文件仍然指定人为审批者，尚未更新。\nZethra OS 首席工程师\nMayank Agrawal\n在\n贴文中表示\n：\n这正是弹性转变为安全问题的地方。\nAuto 模式还把安全检查扩展到 subagent 工作流。委派期间，出站检查会在执行前验证被指派任务是否与用户意图一致。任务完成后，返回检查会评估 subagent 的完整执行历史，以检测执行期间是否发生提示注入或操纵。如果发现风险，系统会在将结果返回给编排智能体前加入警告。\nAnthropic 表示将通过扩展评估集和迭代优化来持续改进安全与成本之间的权衡，目标是在使自治运行比无任何护栏更安全的同时捕捉足够多的高风险操作，并鼓励用户保持对剩余风险的警觉并上报问题。\n查看英文原文：\nInside Claude Code Auto Mode: Anthropic’s Autonomous Coding System with Human Approval Gates",
+    "content_source": "readability",
+    "content_chars": 1364,
+    "content_excerpt": "Anthropic 在\nClaude Code中引入了Auto模式\n，使得多步骤的软件开发任务能够在减少人工干预的情况下执行。开发者定义目标，系统负责代码生成、执行、工具调用和迭代完善，对于敏感操作，在选定的检查点仍要求人工审批。\n此前，Claude Code 采用基于权限的模型，用户必须为大多数操作（比如，运行命令和修改文件）逐一批准。虽然这种方式提供了较强的安全性与控制，但在长会话中的重复确认带来了摩擦，导致审批疲劳，用户把更多时间花在管理确认上，而非专注于开发工作。\nIntempt 产品负责人的\nSid Chaudhary\n在\n贴文中指出\n：\n你现在可以启动 Claude 然后离开。喝杯咖啡，真正离开，不用一直盯着它。"
+  },
+  {
+    "id": "880d93d07a1d",
+    "title": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
+    "url": "https://36kr.com/newsflashes/3804850707570440?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-11T12:14:17",
+    "summary": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元，此前目标为35亿美元。（财联社）",
+    "collected_at": "2026-05-11T14:34:09.736115"
+  },
+  {
     "id": "4b2f9e379a55",
     "title": "靠AI把股价干涨735%，这家公司开始成批裁掉可替代岗，全员招聘须CEO点头",
     "url": "https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&utm_medium=article",
@@ -15,15 +166,37 @@
     "content_excerpt": "整理 | 华卫\n股价暴跌 92%、股价从 115 美元跌到 9 美元，这家公司在上市仅六个月后就经历了一场剧烈动荡。面对这样的境况，大多数创始人的选择可能是裁员、收缩甚至认输。作为 AppLovin 的联合创始人兼 CEO，Adam Foroughi 的应对之策却是几乎被所有人都认为不理智的：借钱在最低点砸下 60 亿美元回购自家的股票。这笔在当时看起来“疯狂”的操作，最终为其带来 600 亿美元的回报。\n之后，Foroughi 将公司押注于一项新的 AI 模型。不到两年时间，该公司的股价就上涨了 735%，涨幅超越了英伟达。到 2025 年中期，他带领 AppLovin 转型为一家纯粹的软件平台，并以仅有四人的高管团队执掌公司十余年。\n近日，Foroughi 在一场深度访谈里谈到，真正让 AppLovin 成为过去几年的“极端”商业案例之一的，不只是增长曲线，还有它一整套不同寻常的运营方式。更具戏剧性的是，在 IPO 前，AppLovin 曾进行了一次流动性轮融资，有中国投资人投来 10 亿美元。按照原方案，该公司原本计划被带去中国上市。但这笔交易竟一度让其面临失控，之后原本“70%股权收购”的方案改成了一笔 10 亿美元的可转债。\n在 AppLovin，资历深的“老高管”不断被清退，他们亲手培养且成长得更快、更强的下属会接任职位 。据 Foroughi 介绍，公司整体都经历了很多人员结构变化。最早那批“愿意没日没夜拼命、完全不需要流程”的人，慢慢被那些依然能高速执行、但同时适应更成熟组织体系的人替代。“在任何时候，都要确保最合适的人坐在最关键的位置上。很多公司会对老管理层产生路径依赖，但如果某个时刻，下面的人已经比上面的人更适合那个职位，而你却不调整，那么下面那个更优秀的人最终一定会离开，自己创业。”\n他表示，最近公司还给核心员工设计了一套新的激励方案，里面有很多触发条件，可以让他们获得更大的回报，而最高一档，对应的就是“公司达到一万亿美元市值”。\n“要让组织更精简，更重要的是，避免优秀人才被组织污染。”此前，AppLovin 进行了大规模裁员，清退了很多在公司待了很久的人， 也清退了很多他们认为未来会被 LLM 自动化掉的岗位。并且，Foroughi 规定，公司所有招聘必须经过他本人亲自批准。“公司原本一年想招几百人，最后直接降到了几十人。因为大家太害怕来找我申请 HC 了。很多人干脆不来了。而现在，如果有人真的跑来找我申请招聘，我就知道，他们是真的快撑不住了。说明周围的一切都快崩了，团队已经忙疯了，他们真的需要这个人。那我才会批准。”\n对于招聘要求，Foroughi 表示，“在 AI 工具时代，一个真正优秀的人，可能相当于 10 个、20 个、50 个，甚至 100 个人。我宁愿去找那些真正顶级的个体，他们懂得如何利用 AI agent，去完成过去需要很多人才能完成的工作。”\n据其透露，大概一年半前，AppLovin 已经有超过 80% 的代码是由大语言模型生成的，现在这个比例更高。“大语言模型加顶级工程师的组合会产生极其夸张的产出能力，这不是线性提升，如果一个普通工程师效率提升 2 倍，那一个“10x 工程师”可能会直接提升到 100x。”Foroughi 说道。\n以下是详细对话内容，我们在不改变原意的基础上进行了翻译和删减，以飨读者。"
   },
   {
-    "id": "d61beb82795c",
-    "title": "三星SDS财团获选承建韩国国家AI计算中心，总投资达2.5万亿韩元",
-    "url": "https://36kr.com/newsflashes/3804684877963016?f=rss",
+    "id": "0f665aa2e806",
+    "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+    "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-11T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a typ",
+    "collected_at": "2026-05-11T14:34:03.893297",
+    "content_text": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.\nHere’s what you need to know about the cruise ship hantavirus outbreak\nLast week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have since died. But health experts stress that this situation is nothing like the coronavirus outbreak in 2020.\nThe Andes virus is known to spread between people, and there are no specific antiviral treatments or vaccines. Yet transmission appears to require a specific form of contact that the cruise ship fostered.\n—Jessica Hamzelou\nThis story is part of MIT Technology Review Explains, our series untangling the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.\nMusk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman\nIn the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit came under intense scrutiny.\nOpenAI president Greg Brockman testified that Musk had pushed for the company to create a for-profit entity, while Shivon Zilis, a former board member, revealed that the Tesla tycoon had sought to lure Sam Altman to a new AI venture.\nThe courtroom also heard about Brockman’s private journals, Musk’s abandoned plans for a rival AI lab, and the moment he stormed out of a pivotal meeting carrying a painting of a Tesla.\n—Michelle Kim\nMichelle Kim, who’s also a lawyer, has been in court on each day of the Musk v. Altman trial. To keep up with her ongoing coverage of their legal showdown, follow @techreview or @michelletomkim on X.\nHow LLMs could supercharge mass surveillance in the US: 10 Things That Matter in AI Right Now\nThere are pieces of your life scattered all over the internet, and some of them are for sale. Data brokers collect web searches, financial records, and location data from millions of people and sell them to various clients, including the US government.\nWhile gathering that data has become easier in the smartphone era, making use of it at scale has remained difficult. But researchers are beginning to show that LLM agents can connect anonymized data to real people quickly, cheaply, and at a massive scale.\n—Grace Huckin\n“How LLMs could supercharge mass surveillance in the US” is a feature accompanying MIT Technology Review’s 10 Things That Matter in AI Right Now, our guide to what’s really worth your attention in the busy, buzzy world of AI. Check out the full list of the big ideas, trends, and advances in the field here.\nThe must-reads\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n1 Meta’s embrace of AI is making employees miserable\nWorkers feel pressured to use the tech while fearing AI-driven layoffs. (NYT $)\n+ They’re also unhappy about Meta tracking them to train AI. (The Verge)\n+ AI’s rise has been described as \"the most joyless tech revolution ever.\" (WSJ $)\n+ Gen-Z is particularly fed up with it. (NYT $)\n+ We’ve entered the era of AI malaise. (MIT Technology Review)\n2 South Korea’s military wants robots to fill gaps in troop numbers\nIt’s in talks with Hyundai to bring robotics to the front lines. (Bloomberg $)\n+ They could include Boston Dynamics’ Spot and a new exoskeleton. (SCMP)\n+ South Korea's military has shrunk by 20% over six years. (BBC)\n3 OpenAI is being sued over ChatGPT’s alleged role in guiding a mass shooter\nA lawsuit claims the bot said targeting children would bring more attention. (NBC)\n+ Florida’s AG has opened a criminal investigation into the case. (NPR)\n+ Does AI cause or amplify delusions? (MIT Technology Review)\n4 The Canvas hack was the biggest-ever student data privacy disaster\nIt exposes the risks of centralizing the data of millions of students. (404 Media)\n+ While the platform is back online, the hack disrupted university exams. (NPR)\n+ The breach is part of a trend of edtech vulnerabilities. (WP $)\n5 Alibaba has joined China’s \"chat to buy\" shopping craze\nBy integrating AI assistant Qwen into its e-commerce platforms. (Reuters $)\n+ Companies are betting that chat is the future of online shopping. (SCMP)\n+ OpenClaw is a driving force behind the trend. (MIT Technology Review)\n6 Cybercrime increasingly comes with threats of physical violence\nIn the US, the physical threats rose more than twofold last year. (BBC)\n7 AI’s next phase plays into TSMC’s hands\nTaiwan’s chip-making giant stands to gain from the supply squeeze. (WSJ $)\n8 Europe is confronting life without American tech\nDependence on Silicon Valley is a growing geopolitical concern. (FT $)\n9 The US, UK, and China top new rankings for AI in life sciences\nSwitzerland and Germany follow in the AI Competitiveness Index. (SCMP)\n10 The Pentagon has released a massive trove of declassified UFO files\nIncluding newly declassified documents, images and footage. (New Scientist)\n+ The files contain reports of “orbs,” “saucers,” and lunar “flashes.” (Wired $)\n+ Here’s how to spot an alien. (MIT Technology Review)\nQuote of the day\n“There’s a real sense where ‘safety’ isn’t a bad word anymore.”\n—Nathan Calvin, general counsel at Encode, a nonprofit AI advocacy group, tells the Washington Post that Anthropic’s Mythos has forced a White House reset on AI safety.\nOne More Thing\nInside NASA’s bid to make spacecraft as small as possible\nAs NASA’s InSight lander descended to Mars in November 2018, two tiny spacecraft tracked its progress. InSight had touched down, they reported, and survived its treacherous journey.\nThe mission offered a pathway to cheaper space exploration, with small, low-cost probes launching far more often than multibillion-dollar flagship missions. But there’s a catch: miniaturization can only go so far before it collides with the hard limits of physics.\nNASA still hopes small sats could transform planetary exploration. But first, scientists and engineers have to figure out what these tiny spacecraft can realistically do.\n—David W. Brown\nWe can still have nice things\nA place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line.)\n+ In a grand tribute to a four-legged hero, Cambodia has erected a statue to honor a rat.\n+ A 1957 comedy accidentally made a seriously prescient prediction about office automation.\n+ Explore the physics of the train that wouldn't fall over—a monorail that promised to revolutionize travel.\n+ Are you a true cinephile? Prove it with these daily movie quote challenges.\nDeep Dive\nThe Download\nThe Download: DeepSeek’s latest AI breakthrough, and the race to build world models\nPlus: China has blocked Meta’s $2 billion acquisition of AI startup Manus.\nThe Download: introducing the 10 Things That Matter in AI Right Now\nPlus: An unauthorized group has reportedly accessed Anthropic’s Mythos.\nThe Download: supercharged scams and studying AI healthcare\nPlus: DeepSeek has unveiled its long-awaited new AI model.\nThe Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+    "content_source": "trafilatura",
+    "content_chars": 7268,
+    "content_excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.\nHere’s what you need to know about the cruise ship hantavirus outbreak\nLast week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have since died. But health experts stress that this situation is nothing like the coronavirus outbreak in 2020.\nThe Andes virus is known to spread between people, and there are no specific antiviral treatments or vaccines. Yet transmission appears to require a specific form of contact that the cruise ship fostered.\n—Jessica Hamzelou\nThis story is part of MIT Technology Review Explains, our series untangling the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.\nMusk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman\nIn the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit came under intense scrutiny.\nOpenAI president Greg Brockman testified that Musk had pushed for the company to create a for-profit entity, while Shivon Zilis, a former board member, revealed that the Tesla tycoon had sought to lure Sam Altman to a new AI venture.\nThe courtroom also heard about Brockman’s private journals, Musk’s abandoned plans for a rival AI lab, and the moment he stormed out of a pivotal meeting carrying a painting of a Tesla.",
+    "title_zh": "下载：汉坦病毒爆发和马斯克诉奥特曼案第二周",
+    "summary_zh": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。以下是您需要了解的有关游轮汉坦病毒爆发的信息 上周，一艘悬挂荷兰国旗的游轮上的八名乘客感染了典型病毒",
+    "ai_summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。以下是您需要了解的有关游轮汉坦病毒爆…"
+  },
+  {
+    "id": "b103ea5beb26",
+    "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+    "url": "https://36kr.com/p/3804795647729411?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-11T09:25:36",
-    "summary": "5月11日，韩国科学技术信息通信部宣布，选定由三星SDS领衔的财团作为“国家AI计算中心”项目的民间参与方。该项目总投资规模达2.5万亿韩元，计划于今年第二季度组建公私合营的特殊目的公司，并于第三季度动工建设。根据规划，该中心旨在到2028年部署约1.5万个先进AI半导体单元，建成后将以较低成本向韩国中小企业、初创公司及学术界开放核心算力资源。（界面）",
-    "collected_at": "2026-05-11T09:29:24.615482"
+    "published": "2026-05-11T11:24:52",
+    "summary": "大公司： 百济神州：第一季度净利润为16.08亿元，同比扭亏为盈 36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。 营收确认规则是否存在调整可能？贵州茅台回应 5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要",
+    "collected_at": "2026-05-11T14:34:09.734331",
+    "content_text": "大公司：\n百济神州：第一季度净利润为16.08亿元，同比扭亏为盈\n36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。\n营收确认规则是否存在调整可能？贵州茅台回应\n5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要求，在客户取得相关商品控制权时确认收入。其中，自营渠道（含i茅台）以客户确认收货为准，社会经销渠道以经销商签收货物为准。（每经网）\n仙坛股份：4月鸡肉产品销售收入5.32亿元，环比增长15.9%\n36氪获悉，仙坛股份公告，公司2026年4月实现鸡肉产品销售收入5.32亿元，销售数量5.8万吨，同比变动幅度分别为19.01%、16.41%，环比变动幅度分别为15.9%、8.1%。其中，食品加工行业实现鸡肉产品销售收入7654.04万元，销售数量0.55万吨，同比变动126.86%、128.01%，环比变动44.76%、66.76%。公司调理品一期、二期工程项目的研发、品牌建设、销售市场目前已经稳步推进，调理品的生产产能逐步释放，生产加工数量逐步增加，销售数量和销售收入也随之增加。\n奇瑞回应“进军日本市场”\n5月11日，有消息称，奇瑞汽车与日本汽车用品巨头澳德巴克斯（AUTOBACS SEVEN）等合作，将在日本销售中国生产的纯电动汽车（EV）。具体而言，奇瑞和澳德巴克斯及其他合资方已成立合资公司，并通过该合资公司旗下的开发销售公司EMT（位于横滨）推出自己的EV品牌。第1款EV计划于2027年开始在日本交付，利用奇瑞在中国市场积累的技术，搭载高级驾驶辅助等功能，具体价格将在今后确定，但会瞄准主流市场。对此，奇瑞汽车回应称，奇瑞只是作为多个股东方之一，投资了EMT项目，并不参与经营管理。（第一财经）\n丰田据悉将在印度新建一家汽车制造工厂\n丰田据悉将在印度新建一家汽车制造工厂。（财联社）\n中国生物制药：正大天晴与葛兰素史克达成一项独家战略合作\n36氪获悉，中国生物制药在港交所公告，集团附属公司正大天晴药业集团股份有限公司（正大天晴）与葛兰素史克（GSK）达成一项独家战略合作，加速bepirovirsen在中国内地的上市进程。根据协议条款，正大天晴将负责bepirovirsen在中国内地的进口、分销、医院准入以及推广和非推广活动，该产品产生的全部销售收入将确认为正大天晴的营业收入。GSK将继续作为药品上市许可持有人（MAH），负责监管注册事务、质量控制、药物警戒及全球医学策略等工作。\n泡泡玛特将在5月13日举行2026年一季度业务更新电话会\n泡泡玛特将在5月13日举行2026年一季度业务更新电话会，届时将有公司高管团队参会。一季度电话会与股东周年大会同为5月13日举行。2023年至2025年，泡泡玛特仅发布了一季度相关营运数据公告，未有过公开的业务电话会。（界面）\n投融资：\n“鹿明机器人”完成数亿元A1及A2轮融资\n36氪获悉，近日，“鹿明机器人”宣布，连续完成A1及A2两轮融资。其中A1轮融资由三菱电机智能制造科技（中国）集团有限公司（统筹在中国的工业自动化事业，以下简称“三菱电机”）领投，老股东普华资本、吴中金控等超额跟投，A2轮融资由三菱电机继续领投，恒生电子、海高集团、昆石投资等产业方跟投。两轮融资完成后，公司累计融资近10亿元。融资将用于公司具身大模型研发和场景拓展的持续投入。\n新产品：\n腾讯云：QClaw正式上线“文件空间”功能\n36氪获悉，据腾讯云官微，今天，QClaw正式上线“文件空间”功能。只需一次授权，QClaw就能将本地文件、腾讯文档、ima知识库一站式全面打通。从找资料、AI加工，到最终产出和协作，全部在一个工作台里闭环。\n千问与淘宝打通，正式上线AI购物\n36氪获悉，5月11日，千问与淘宝全面打通。用户打开千问App，与AI对话，即可完成淘宝上的商品挑选、对比及下单购买；打开淘宝App，点击“千问AI购物助手”，即可AI购物，并使用AI试穿、AI算优惠、AI低价帮抢等功能。阿里率先在行业内打通AI购物全链路，首次实现AI购物从商品推荐到下单、履约、售后的全流程闭环。\n今日观点：\n欧洲央行科赫尔：若通胀前景未见改善，将调整利率\n援引欧洲央行管理委员会成员马丁・科赫尔周一表态：若通胀前景未能显著好转，欧洲央行将很快需要调整利率。科赫尔接受瑞士《新苏黎世报》采访时表示，尽管伊朗冲突推高能源价格，但在6月11日货币政策会议前数周就预判欧洲央行下一步行动，并无太大意义。在被问及是否认同市场对欧洲央行6月加息的预期时，他称：“但若形势未能明显改善，短期内利率调整将无可避免。”（新浪财经）\n其他值得关注的新闻：\n京沪高铁：调整京沪高速线、合蚌高速线动车组列车公布票价\n36氪获悉，京沪高铁公告，公司决定对京沪高速线、合蚌高速线动车组列车公布票价进行优化调整，时速300~350km/h、200~250km/h及以下的动车组列车公布票价上浮20%。各站间执行票价将以公布票价为上限，实行不同幅度折扣浮动。此次调整旨在完善市场化票价机制，提升客运服务品质，但对公司业绩影响存在不确定性。\n英国计划到2035年吸引990亿英镑海外养老金资金投入重点项目\n英国政府宣布一项计划，目标是到2035年吸引990亿英镑海外养老金资金投入英国重点项目。就在数周前，政府刚刚艰难推动养老金法案在议会获得通过。英国将设立一个由投资办公室牵头的全新“超级基金专项小组”（Supers Unit），旨在加强协作、简化流程，吸引澳大利亚养老基金投向英国基建、房地产及私募市场等增长领域。（新浪财经）\n天舟十号货运飞船与空间站组合体完成交会对接\n据中国载人航天工程办公室消息，天舟十号货运飞船入轨后顺利完成状态设置，于北京时间2026年5月11日13时11分，成功对接于空间站天和核心舱后向端口。交会对接完成后，天舟十号将转入组合体飞行段。后续，神舟二十一号航天员乘组将进入天舟十号货运飞船，按计划开展货物转运等相关工作。（央视新闻）",
+    "content_source": "trafilatura",
+    "content_chars": 2638,
+    "content_excerpt": "大公司：\n百济神州：第一季度净利润为16.08亿元，同比扭亏为盈\n36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。\n营收确认规则是否存在调整可能？贵州茅台回应\n5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要求，在客户取得相关商品控制权时确认收入。其中，自营渠道（含i茅台）以客户确认收货为准，社会经销渠道以经销商签收货物为准。（每经网）\n仙坛股份：4月鸡肉产品销售收入5.32亿元，环比增长15.9%\n36氪获悉，仙坛股份公告，公司2026年4月实现鸡肉产品销售收入5.32亿元，销售数量5.8万吨，同比变动幅度分别为19.01%、16.41%，环比变动幅度分别为15.9%、8.1%。其中，食品加工行业实现鸡肉产品销售收入7654.04万元，销售数量0.55万吨，同比变动126.86%、128.01%，环比变动44.76%、66.76%。公司调理品一期、二期工程项目的研发、品牌建设、销售市场目前已经稳步推进，调理品的生产产能逐步释放，生产加工数量逐步增加，销售数量和销售收入也随之增加。\n奇瑞回应“进军日本市场”\n5月11日，有消息称，奇瑞汽车与日本汽车用品巨头澳德巴克斯（AUTOBACS SEVEN）等合作，将在日本销售中国生产的纯电动汽车（EV）。具体而言，奇瑞和澳德巴克斯及其他合资方已成立合资公司，并通过该合资公司旗下的开发销售公司EMT（位于横滨）推出自己的EV品牌。第1款EV计划于2027年开始在日本交付，利用奇瑞在中国市场积累的技术，搭载高级驾驶辅助等功能，具体价格将在今后确定，但会瞄准主流市场。对此，奇瑞汽车回应称，奇瑞只是作为多个股东方之一，投资了EMT项目，并不参与经营管理。（第一财经）\n丰田据悉将在印度新建一家汽车制造工厂"
   },
   {
     "id": "e8eeb0e110ea",
@@ -37,15 +210,19 @@
     "collected_at": "2026-05-11T09:29:25.994093"
   },
   {
-    "id": "f09c67e4c893",
-    "title": "波兰电商平台Allegro与OpenAI达成合作，将生成式AI引入购物体验",
-    "url": "https://36kr.com/newsflashes/3804678562406151?f=rss",
-    "source": "36氪",
+    "id": "24eb2834bb3b",
+    "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
+    "url": "https://www.qbitai.com/2026/05/415263.html",
+    "source": "量子位",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-11T09:19:10",
-    "summary": "5月11日，波兰主流电商平台Allegro正式宣布与OpenAI开展技术合作，计划将生成式人工智能应用于其电商生态系统。通过此次合作，Allegro旨在利用OpenAI的技术模型优化基础功能，包括改进搜索结果的准确性、提升个性化推荐质量以及升级智能客服响应速度。（界面）",
-    "collected_at": "2026-05-11T09:29:24.615577"
+    "priority": 1,
+    "published": "2026-05-11T10:18:49",
+    "summary": "5月20日，马上AI起来！",
+    "collected_at": "2026-05-11T14:31:50.432796",
+    "content_text": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容\n林樾\n2026-05-11\n18:18:49\n来源：\n量子位\n组委会 发自 凹非寺\n公众号｜量子位 QbitAI\n从模型架构到应用生态，从AI音乐、AI漫剧、AI浏览器再到世界模型、AI硬件…\nAI爆款年年有，2026年以来更是特别的多。\n这一次，我们希望聚齐AI赛道的实战派，邀请到百度、智谱、昆仑万维、模思智能、蚂蚁灵波等具有代表性的企业，一起来聊如何让AI真正成为所有人的日常。\n5月20日，量子位将在北京金茂万丽酒店\n举办一年一度的中国AIGC产业峰会，这次峰会主题是\n「@所有人，马上AI起来」\n。\n邀请你和我们一起，不再只讨论AI的未来，而是现在就用起来！\n5月20日，立即报名参会：https://hdxu.cn/1Hjr1\n△首波嘉宾阵容\n一起来看目前已确认出席的嘉宾！\n确认出席嘉宾\n方汉\n昆仑万维董事长兼CEO\n方汉毕业于中国科学技术大学近代物理系，曾任职于中国科学院高能物理研究所、拓林思、亚信以及千橡互动。于2008年协助周亚辉先生创立昆仑万维。方汉拥有30年互联网从业经验，从1994年开始参与和倡导开源运动，是中文Linux奠基人、中文Linux四剑客之一，著作国内第一本Linux书籍《Linux实用大全》，他也是国内最早的网络安全专家，曾负责三大电信运营商的全网安全审计，领导开发了国内第一款P2P下载软件DUDU加速器，负责研发了国内市场占有率最高的网页游戏《三国风云》，为中国互联网最资深的参与者。\n吴玮杰\n智谱高级副总裁\n吴玮杰目前担任智谱公司高级副总裁，负责公司MaaS平台商业化，并兼任泛互联网事业部总经理及浙江子公司总经理。他在人工智能、互联网和信息技术领域有着丰富的商业化管理经验和项目落地经验，曾任字节跳动企业应用全球首席商业官（旗下品牌包括飞书、LarkPeople和幕布等）、GE数字集团大中华区副总裁、复星集团联席首席发展官&首席投资官。除此以外，他也曾在思科、SAP、Oracle等公司从事商业化管理工作。\n吴玮杰博士毕业于电子科技大学，同时持有香港大学国际工商管理硕士学位以及复旦大学软件工程学士、硕士学位。\n沈宇军\n蚂蚁灵波科技首席科学家\n沈宇军，现任上海蚂蚁灵波科技有限公司首席科学家，同时领导蚂蚁技术研究院交互智能实验室。博士毕业于香港中文大学，研究方向为计算机视觉、生成模型、空间智能和具身智能。在CVPR、TPAMI、ICCV、ECCV、NeurIPS等国际顶级会议和期刊上发表论文百余篇，Google Scholar引用量逾万次。\n2024年起担任蚂蚁灵波科技首席科学家，致力于探索计算机视觉在机器人行业的落地之路，带领团队构建从空间感知到智能决策、从基座能力到世界建模的完整技术矩阵，推动具身智能从实验室走向规模化应用。\n邱锡鹏\n复旦大学特聘教授、上海创智学院院长助理、模思智能创始人\n邱锡鹏，CAAI Fellow，国家杰青获得者，主要研究方向为大模型、智能体以及科学工程等领域中的应用，发表学术论文被引用4万余次，5次获得AI领域高水平会议的最佳/杰出等论文奖，担任中国人工智能学会自然语言理解专委会副主任、中国中文信息学会大模型与生成专委会副主任、上海市计算机学会自然语言处理专委会主任等，主持研发了MOSS等系列高影响力开源大模型。\n连续多年入选中国高被引学者、全球前2%顶尖科学家榜单，获得2022年度钱伟长中文信息处理科学技术奖一等奖（第一完成人）、2022-2023年度教育部“高校计算机专业优秀教师奖励计划”，2024年度CCF-ACM青年科技奖（每年仅1人）、2025年度吴文俊人工智能科学技术奖自然科学一等奖（第一完成人）。\n邓亚峰\n盛大集团副总裁、EverMind CEO\n邓亚峰，毕业于清华大学，正高级工程师，拥有二十余年人工智能算法及产品研发经验。现任盛大集团副总裁、EverMind CEO。曾任360集团副总裁、人工智能研究院院长兼搜索事业部总经理，科创板首家AI上市公司格灵深瞳CTO。\n曾荣获2021年中国人工智能年度十大风云人物，教育部技术发明奖二等奖。长期致力于大语言模型、计算机视觉及AI for Science等领域的研究与应用，带领团队多次在国际国内主流AI评测中获得佳绩；累计申请发明专利160余项（已授权98项），发表论文50余篇（含10篇Nature子刊）。\n易正朝\n风行在线CEO\n易正朝，风行在线CEO，作为业务领头人，引领公司从传统互联网视听平台全面转型升级为AI文娱生态平台。推动“AI赋能众创”战略落地，带领团队打造橙星梦工厂、小剪刀等AI创作工具，影视网文智能小程序平台、电视鸿蒙平台等核心智能产品，构建从内容创作、智能分发到商业变现的全流通链生态。推动公司荣获AI赛道奖项、抖音快手等平台的头部服务平台奖项，在AI文娱新时代，推动内容生产效率革新与创作者生态繁荣，致力于让内容流动更简单。\n洪源\n太初元碁首席产品官、高级副总裁\n洪源，太初元碁首席产品官、高级副总裁，发改委人工智能智库专家，中国自动化学会自主指令集专委委员，算力网络专委会算力副秘书长，中国国际工程咨询CIECC管理顾问。\n拥有15年AI行业管理经验，在语音、视觉、NLP等领域拥有丰富的软硬件全栈产品规划、建设及最终行业落地的成功案例。曾参与多个行业标准与白皮书撰写，包括《多元融合智能算力技术白皮书(2024年）》，《人工智能芯片云侧推理用深度学习芯片测试指标与测试方法》2022-0589T-SJ行业标准等。\n朱广翔\n百度秒哒产品总经理\n朱广翔博士毕业自清华大学交叉信息研究院，曾获中国智能体与多智能体系统最佳论文、北京市优秀博士学位论文、清华优秀博士学位论文等，在NeurIPS、ICLR、ICML、AAAI、NAR、Nature Communications等国际顶会和期刊发表论文14篇。\n2021年朱广翔加入百度，曾负责百度信息流双列首页产品、百度智能云数据中台、百度智能云知识管理产品及办公产品、百度智能云千帆Appbuilder等业务，目前任秒哒产品总经理。\n张璐\nFusion Fund创始合伙人\n张璐是Fusion Fund创始合伙人，硅谷知名投资人，连续成功创业者，斯坦福大学客座讲师。2015年创立Fusion Fund，现管理超过5亿美元资本，专注医疗、企业级AI基础设施和深科技领域投资。自2015年，张璐建立了一个卓越的风投生态系统，在行业内享有盛誉。\n张璐是世界经济论坛（达沃斯）“全球青年领袖”，曾入选硅谷商业周刊“硅谷影响力女性”、福布斯30under30投资领域主题人物等，2023年入选财富影响力商界女性、Business Insider美国最佳早期投资人等。2022年张璐被福布斯评选为全球华人精英Top100行业翘楚。同时，张璐担任多家投资组合公司的董事，未来科学大奖未来论坛青年理事，CommonSpirit Health Foundation董事，卡地亚女性创业家奖评审董事等。张璐毕业于斯坦福大学材料科学与工程学院。\n黄超\n香港大学助理教授、博士生导师\n黄超现任香港大学助理教授、博士生导师。他的研究方向涵盖大型AI智能体、语言模型及图机器学习，其研究成果在Google Scholar上被引用超过17,000次。团队已推出多个影响力开源项目，包括nanobot、LightRAG、CLI-Anything等。作为团队负责人打造的HKUDS GitHub开源平台累计获得超过240,000 GitHub Stars，位列全球Top50，并超过100次登上GitHub Trending榜单。\n因其在人工智能开源领域的贡献，黄超荣获世界人工智能大会（WAIC）2024云帆奖「璀璨明星」、国际基础科学大会（ICBS）2024「前沿科学奖」，并入选「2025 AI100青年先锋」、「2025 AI2000全球最具影响力学者」。其研究成果多次入选KDD、WWW、SIGIR、AAAI等国际顶级会议的最具影响力论文之一，并多次获得顶会最佳论文提名奖。\n庄明浩\n趣丸科技副总裁兼首席战略官、《屠龙之术》主理人\n庄明浩，趣丸科技副总裁兼首席战略官，在人工智能、互联网和投资领域有着丰富的从业经验。《屠龙之术》主理人，知乎风险投资、互联网优秀回答者。\n冯雷\nMarsWave CEO\n冯雷（Orange），MarsWave CEO，MarsWave先后推出了AI播客Listenhub、Agent操作系统ColaOS等热门AI产品。冯雷曾任MiniMax海螺AI产品负责人，在此之前，曾任职于BOSS直聘、兰亭集势及三星电子，拥有超过10年产品经验。同时，他也是AI自媒体「AGENT橘/Orange AI」创作者。\n张昊阳\nEvoMap创始人\n张昊阳（17），EvoMap创始人，多智能体框架GameGPT、自进化引擎Evolver作者，OpenClaw社区头部开源贡献者。曾任和平精英技术策划、AIGC研发负责人，早年有虚拟数字人及VR领域的多次连续创业经历，11岁自学编程，14岁时成为中国最小的Unity开发者。拥有超过10年产品设计与技术架构经验。\n更多重磅嘉宾正在陆续确认中！欢迎持续关注。\n重磅发布｜揭晓谁会代表2026年的AI\n今年，我们希望找到那些真正跑通场景、开始被用户验证的AI产品，以及拥有技术实力、具备潜力的AI企业。\n量子位将根据过去一年里生成式 AI 企业、产品的表现与反馈，结合对2026年技术与场景的观察与预判，评选出值得被更多人看到的优秀企业与产品。\n在中国AIGC产业峰会上，将会揭晓\n2026年度值得关注的AIGC企业&产品榜单\n。\n重磅发布｜2026年中国AI应用全景图谱报告\n为了厘清AI产品的最新发展现状，把握市场的真实脉络，量子位智库将重磅推出\n《2026年中国AI应用全景图谱报告》\n。\n这是量子位智库连续\n第三年\n发布年度AI产品全景图谱及配套报告，报告还将对2026年国内AI产品做\n全景式数据解读\n、\n趋势提炼\n和\n案例分析\n，试图穿透表象，构建一张全景认知地图。\n图谱报告也将在中国AIGC产业峰会上正式发布。\n观众报名通道\n现在，观众报名通道已开启，欢迎点击下方链接报名 https://hdxu.cn/1Hjr1\n本次峰会也将同步线上直播，欢迎预约参与 量子位视频号\n期待你和我们一起，\n马上AI起来！\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 4437,
+    "content_excerpt": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容\n林樾\n2026-05-11\n18:18:49\n来源：\n量子位\n组委会 发自 凹非寺\n公众号｜量子位 QbitAI\n从模型架构到应用生态，从AI音乐、AI漫剧、AI浏览器再到世界模型、AI硬件…\nAI爆款年年有，2026年以来更是特别的多。"
   },
   {
     "id": "074fb52f591d",
@@ -63,15 +240,15 @@
     "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n火山引擎服务治理领域负责人裴斐已确认出席 “\nAgent 系统架构与工程化实践\n” 专题，并发表题为\n《Agent Mesh：企业多智能体系统治理实践》\n的主题分享。本次分享将结合字节跳动火山引擎\nArkClaw 智能体平台"
   },
   {
-    "id": "d0ecb3bca8e7",
-    "title": "亚马逊筹备发行首笔瑞郎债券，助力AI战略布局",
-    "url": "https://36kr.com/newsflashes/3804669106970377?f=rss",
+    "id": "d61beb82795c",
+    "title": "三星SDS财团获选承建韩国国家AI计算中心，总投资达2.5万亿韩元",
+    "url": "https://36kr.com/newsflashes/3804684877963016?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-11T09:09:33",
-    "summary": "据报道，亚马逊公司正筹备首次发行瑞郎债券，此举正值大型科技巨头及超大规模企业纷纷转向新的债务市场，以筹集资金投入人工智能领域之际。亚马逊已委托法国巴黎银行、德意志银行和摩根大通负责此次瑞郎债券的发行工作；此次发行将分为六个批次，期限涵盖3年至25年不等。（界面）",
-    "collected_at": "2026-05-11T09:29:24.615691"
+    "published": "2026-05-11T09:25:36",
+    "summary": "5月11日，韩国科学技术信息通信部宣布，选定由三星SDS领衔的财团作为“国家AI计算中心”项目的民间参与方。该项目总投资规模达2.5万亿韩元，计划于今年第二季度组建公私合营的特殊目的公司，并于第三季度动工建设。根据规划，该中心旨在到2028年部署约1.5万个先进AI半导体单元，建成后将以较低成本向韩国中小企业、初创公司及学术界开放核心算力资源。（界面）",
+    "collected_at": "2026-05-11T09:29:24.615482"
   },
   {
     "id": "36c7aa43cc13",
@@ -89,18 +266,15 @@
     "content_excerpt": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走\nhenry\n2026-05-11\n16:31:05\n来源：\n量子位\nhenry 发自 凹非寺\n量子位 | 公众号 QbitAI\n产品可以抄，赛道可以重新命名，技术优势可以在几个月之内蒸发，AI时代唯一抄不走的——\n是公司本身的组织形态。"
   },
   {
-    "id": "v2ex-1211856",
-    "title": "满血中转， codex 0.1 超低倍率分组，注册赠送两千万 token！求蹬，使劲蹬！",
-    "url": "https://www.v2ex.com/t/1211856",
-    "source": "V2EX",
+    "id": "f09c67e4c893",
+    "title": "波兰电商平台Allegro与OpenAI达成合作，将生成式AI引入购物体验",
+    "url": "https://36kr.com/newsflashes/3804678562406151?f=rss",
+    "source": "36氪",
     "lang": "zh",
-    "published": "2026-05-11T05:23:10",
-    "summary": "🌐 官网直达： https://shunfen6.win 1. ⚡ 真满血官方 GPT5.5 渠道 全程对接官方纯正 GPT5.5 算力池，严格进行关键特征校验。100% 还原官方完整推理能力、代码能力、深度创作与复杂逻辑运算水平，真正做到满血不缩水，全程智商在线。 2. 🛠️ 全开发者场景优化，计费透明 全站兼容标准 OpenAI 接口格式，可直接适配主流客户端与插件，无需复杂配置，即填即用。专属 GPT5.5 优化链路，针对长文本、多轮对话、复杂推理场景深度适配。计费规则公开透明，无隐藏倍率、无暗坑虚标，消费清晰可查。 🎉 V 站用户专属福利：新用户注册即赠送$10 ，在本帖回复您的注册邮",
-    "collected_at": "2026-05-11T09:29:26.910434",
-    "content_text": "🌐 官网直达： https://shunfen6.win\n-\n⚡ 真满血官方 GPT5.5 渠道\n全程对接官方纯正 GPT5.5 算力池，严格进行关键特征校验。100% 还原官方完整推理能力、代码能力、深度创作与复杂逻辑运算水平，真正做到满血不缩水，全程智商在线。\n-\n🛠️ 全开发者场景优化，计费透明\n全站兼容标准 OpenAI 接口格式，可直接适配主流客户端与插件，无需复杂配置，即填即用。专属 GPT5.5 优化链路，针对长文本、多轮对话、复杂推理场景深度适配。计费规则公开透明，无隐藏倍率、无暗坑虚标，消费清晰可查。\n🎉 V 站用户专属福利：新用户注册即赠送$10 ，在本帖回复您的注册邮箱，即可免费再领取 $10 美元平台余额！\n🎰 欧皇抽奖：本贴将随机抽取一位幸运用户，赠送 $50 刀永久额度！\n💰 充值方式与售后承诺\n支付渠道：支持 支付宝 便捷支付。\n平台承诺：所有算力保真满血，杜绝降智阉割。",
-    "content_source": "trafilatura",
-    "content_chars": 406,
-    "content_excerpt": "🌐 官网直达： https://shunfen6.win\n-\n⚡ 真满血官方 GPT5.5 渠道\n全程对接官方纯正 GPT5.5 算力池，严格进行关键特征校验。100% 还原官方完整推理能力、代码能力、深度创作与复杂逻辑运算水平，真正做到满血不缩水，全程智商在线。\n-\n🛠️ 全开发者场景优化，计费透明\n全站兼容标准 OpenAI 接口格式，可直接适配主流客户端与插件，无需复杂配置，即填即用。专属 GPT5.5 优化链路，针对长文本、多轮对话、复杂推理场景深度适配。计费规则公开透明，无隐藏倍率、无暗坑虚标，消费清晰可查。\n🎉 V 站用户专属福利：新用户注册即赠送$10 ，在本帖回复您的注册邮箱，即可免费再领取 $10 美元平台余额！\n🎰 欧皇抽奖：本贴将随机抽取一位幸运用户，赠送 $50 刀永久额度！\n💰 充值方式与售后承诺"
+    "priority": 4,
+    "published": "2026-05-11T09:19:10",
+    "summary": "5月11日，波兰主流电商平台Allegro正式宣布与OpenAI开展技术合作，计划将生成式人工智能应用于其电商生态系统。通过此次合作，Allegro旨在利用OpenAI的技术模型优化基础功能，包括改进搜索结果的准确性、提升个性化推荐质量以及升级智能客服响应速度。（界面）",
+    "collected_at": "2026-05-11T09:29:24.615577"
   },
   {
     "id": "8ed7f7cae573",
@@ -118,18 +292,15 @@
     "content_excerpt": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent\n量子位的朋友们\n2026-05-11\n15:57:03\n来源：\n量子位\n近日，AI办公领域头部企业像素绽放PixelBloom宣布完成C轮融资。本轮融资由国科投资与商汤国香资本联合领投，基石创投、大米创投跟投。资金将重点投入AI办公解决方案Agent的研发迭代、商业化落地及全球化人才招募。自此，像素绽放PixelBloom将从领先的AI视觉表达平台，正式向“AI办公解决方案Agent”全面跃迁，开启从“生成内容”到“交付结果”的质变。\nC端验证心智，B端深度嵌合：构筑稳固基本盘\n过去两年，像素绽放PixelBloom以PPT这一高频场景为精准切入点，在全球范围内积累了超过3000万注册用户，并在C端实现了健康的营收转化。这一成绩不仅验证了AI视觉表达的巨大市场需求，更在用户心智中建立了“AI做PPT，就用AiPPT.com”的品牌认知。\n但在更深的水下，像素绽放PixelBloom的底牌在于B端和政企市场的“无感嵌入”。公司构建了一套独特的“逆向破局”路径：以C端海量用户的真实反馈打磨产品体验，再将成熟稳定的AI能力以极低成本、极简集成的方式，渗透至大型组织的工作流深处。目前，公司的底层生成API已成功接入联想智能体“小天”、华为智能体“小艺”以及荣耀智能体“YOYO”的硬件生态，成为这些亿级终端设备中AI办公能力的核心供给方。"
   },
   {
-    "id": "v2ex-1211799",
-    "title": "Token 自由！ Opus 4.7 Max 推理强度自由！ 498 兑换 2000 美金额度（评论就送＄ 20 额度）！ 0.25 人民币换一美金！",
-    "url": "https://www.v2ex.com/t/1211799",
-    "source": "V2EX",
+    "id": "d0ecb3bca8e7",
+    "title": "亚马逊筹备发行首笔瑞郎债券，助力AI战略布局",
+    "url": "https://36kr.com/newsflashes/3804669106970377?f=rss",
+    "source": "36氪",
     "lang": "zh",
-    "published": "2026-05-11T02:36:07",
-    "summary": "还在每天苦苦抢各种国产 Coding Plan ？ 还在为了几百万 token 精打细算？ 别抢了。 现在用官方约 **3.5%** 的价格，就能直接用上 Claude 家最强模型： ![]( https://i.v2ex.co/Nc2A1hJ4.png) # Claude 4.7 Max 推理强度拉满 - 0.25 元换 1 美金额度 - 比 GLM / MiniMax 更低 - 甚至比 DeepSeek 4 Pro 还便宜 但你用到的是： Claude 顶级模型。 不是平替， 不是阉割， 不是二手体验。 写代码、跑 Agent 、长上下文分析、复杂推理： 直接 Max 拉满。 不用每天抠抠",
-    "collected_at": "2026-05-11T09:29:26.910352",
-    "content_text": "还在每天苦苦抢各种国产 Coding Plan ？\n还在为了几百万 token 精打细算？\n别抢了。\n现在用官方约 3.5% 的价格，就能直接用上 Claude 家最强模型：\nClaude 4.7 Max 推理强度拉满\n-\n0.25 元换 1 美金额度\n-\n比 GLM / MiniMax 更低\n-\n甚至比 DeepSeek 4 Pro 还便宜\n但你用到的是：\nClaude 顶级模型。\n不是平替，\n不是阉割，\n不是二手体验。\n写代码、跑 Agent 、长上下文分析、复杂推理：\n直接 Max 拉满。\n不用每天抠抠搜搜算额度。\n本轮只供应一周\n一周后恢复：\n1 元 / 刀\n数量有限，先到先得。\n评论区直接送 $20\n体验额度。\n👇\nhttps://hongmacc.com\n真正的 Token 自由，\n从不用再抢 Plan 开始。",
-    "content_source": "trafilatura",
-    "content_chars": 366,
-    "content_excerpt": "还在每天苦苦抢各种国产 Coding Plan ？\n还在为了几百万 token 精打细算？\n别抢了。\n现在用官方约 3.5% 的价格，就能直接用上 Claude 家最强模型：\nClaude 4.7 Max 推理强度拉满\n-\n0.25 元换 1 美金额度\n-\n比 GLM / MiniMax 更低\n-"
+    "priority": 4,
+    "published": "2026-05-11T09:09:33",
+    "summary": "据报道，亚马逊公司正筹备首次发行瑞郎债券，此举正值大型科技巨头及超大规模企业纷纷转向新的债务市场，以筹集资金投入人工智能领域之际。亚马逊已委托法国巴黎银行、德意志银行和摩根大通负责此次瑞郎债券的发行工作；此次发行将分为六个批次，期限涵盖3年至25年不等。（界面）",
+    "collected_at": "2026-05-11T09:29:24.615691"
   },
   {
     "id": "0fad3b705bac",
@@ -147,15 +318,18 @@
     "content_excerpt": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO\n听雨\n2026-05-11\n15:37:05\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\n一条消息引爆华尔街。\nCerebras"
   },
   {
-    "id": "966d98e91a5b",
-    "title": "谷歌母公司Alphabet计划首次发行日元债券",
-    "url": "https://36kr.com/newsflashes/3804270010851077?f=rss",
-    "source": "36氪",
+    "id": "v2ex-1211856",
+    "title": "满血中转， codex 0.1 超低倍率分组，注册赠送两千万 token！求蹬，使劲蹬！",
+    "url": "https://www.v2ex.com/t/1211856",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-11T02:23:34",
-    "summary": "5月11日，据报道，谷歌母公司Alphabet计划首次发行日元债券，或为人工智能相关投资进一步提供资金支持。报道称，Alphabet正在进一步拓宽融资来源，此前已经将今年资本支出预估从1850亿美元上调至最多1900亿美元。这家科技巨头有望超过英伟达，成为全球市值最大的公司。（界面）",
-    "collected_at": "2026-05-11T02:28:52.190300"
+    "published": "2026-05-11T05:23:10",
+    "summary": "🌐 官网直达： https://shunfen6.win 1. ⚡ 真满血官方 GPT5.5 渠道 全程对接官方纯正 GPT5.5 算力池，严格进行关键特征校验。100% 还原官方完整推理能力、代码能力、深度创作与复杂逻辑运算水平，真正做到满血不缩水，全程智商在线。 2. 🛠️ 全开发者场景优化，计费透明 全站兼容标准 OpenAI 接口格式，可直接适配主流客户端与插件，无需复杂配置，即填即用。专属 GPT5.5 优化链路，针对长文本、多轮对话、复杂推理场景深度适配。计费规则公开透明，无隐藏倍率、无暗坑虚标，消费清晰可查。 🎉 V 站用户专属福利：新用户注册即赠送$10 ，在本帖回复您的注册邮",
+    "collected_at": "2026-05-11T09:29:26.910434",
+    "content_text": "🌐 官网直达： https://shunfen6.win\n-\n⚡ 真满血官方 GPT5.5 渠道\n全程对接官方纯正 GPT5.5 算力池，严格进行关键特征校验。100% 还原官方完整推理能力、代码能力、深度创作与复杂逻辑运算水平，真正做到满血不缩水，全程智商在线。\n-\n🛠️ 全开发者场景优化，计费透明\n全站兼容标准 OpenAI 接口格式，可直接适配主流客户端与插件，无需复杂配置，即填即用。专属 GPT5.5 优化链路，针对长文本、多轮对话、复杂推理场景深度适配。计费规则公开透明，无隐藏倍率、无暗坑虚标，消费清晰可查。\n🎉 V 站用户专属福利：新用户注册即赠送$10 ，在本帖回复您的注册邮箱，即可免费再领取 $10 美元平台余额！\n🎰 欧皇抽奖：本贴将随机抽取一位幸运用户，赠送 $50 刀永久额度！\n💰 充值方式与售后承诺\n支付渠道：支持 支付宝 便捷支付。\n平台承诺：所有算力保真满血，杜绝降智阉割。",
+    "content_source": "trafilatura",
+    "content_chars": 406,
+    "content_excerpt": "🌐 官网直达： https://shunfen6.win\n-\n⚡ 真满血官方 GPT5.5 渠道\n全程对接官方纯正 GPT5.5 算力池，严格进行关键特征校验。100% 还原官方完整推理能力、代码能力、深度创作与复杂逻辑运算水平，真正做到满血不缩水，全程智商在线。\n-\n🛠️ 全开发者场景优化，计费透明\n全站兼容标准 OpenAI 接口格式，可直接适配主流客户端与插件，无需复杂配置，即填即用。专属 GPT5.5 优化链路，针对长文本、多轮对话、复杂推理场景深度适配。计费规则公开透明，无隐藏倍率、无暗坑虚标，消费清晰可查。\n🎉 V 站用户专属福利：新用户注册即赠送$10 ，在本帖回复您的注册邮箱，即可免费再领取 $10 美元平台余额！\n🎰 欧皇抽奖：本贴将随机抽取一位幸运用户，赠送 $50 刀永久额度！\n💰 充值方式与售后承诺"
   },
   {
     "id": "a0a67d7266db",
@@ -173,15 +347,18 @@
     "content_excerpt": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会\n一水\n2026-05-11\n14:32:05\n来源：\n量子位\n老黄又当博士了。\n在卡内基梅隆大学（CMU）最新一届毕业典礼上，这位英伟达掌门人被授予科学与技术荣誉博士学位，并向5800多名毕业生发表雨中演讲。\nP.S. 这已经是他拿到的第7个荣誉博士学位了。\n作为全球AI浪潮最核心的推手，他讲了一句注定刷屏的话："
   },
   {
-    "id": "a99410130ac4",
-    "title": "MiniMax关联公司增资至40亿，增幅300%",
-    "url": "https://36kr.com/newsflashes/3804265813991173?f=rss",
-    "source": "36氪",
+    "id": "v2ex-1211799",
+    "title": "Token 自由！ Opus 4.7 Max 推理强度自由！ 498 兑换 2000 美金额度（评论就送＄ 20 额度）！ 0.25 人民币换一美金！",
+    "url": "https://www.v2ex.com/t/1211799",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-11T02:19:18",
-    "summary": "36氪获悉，天眼查App显示，近日，MiniMax关联公司上海稀宇极智科技有限公司发生工商变更，注册资本由10亿人民币增至40亿人民币，增幅300%。 该公司成立于2021年11月，法定代表人为闫俊杰，经营范围包括计算机系统服务、信息系统集成服务、人工智能基础软件开发、人工智能应用软件开发等，由香港稀宇极智有限公司全资持股。",
-    "collected_at": "2026-05-11T02:28:52.190337"
+    "published": "2026-05-11T02:36:07",
+    "summary": "还在每天苦苦抢各种国产 Coding Plan ？ 还在为了几百万 token 精打细算？ 别抢了。 现在用官方约 **3.5%** 的价格，就能直接用上 Claude 家最强模型： ![]( https://i.v2ex.co/Nc2A1hJ4.png) # Claude 4.7 Max 推理强度拉满 - 0.25 元换 1 美金额度 - 比 GLM / MiniMax 更低 - 甚至比 DeepSeek 4 Pro 还便宜 但你用到的是： Claude 顶级模型。 不是平替， 不是阉割， 不是二手体验。 写代码、跑 Agent 、长上下文分析、复杂推理： 直接 Max 拉满。 不用每天抠抠",
+    "collected_at": "2026-05-11T09:29:26.910352",
+    "content_text": "还在每天苦苦抢各种国产 Coding Plan ？\n还在为了几百万 token 精打细算？\n别抢了。\n现在用官方约 3.5% 的价格，就能直接用上 Claude 家最强模型：\nClaude 4.7 Max 推理强度拉满\n-\n0.25 元换 1 美金额度\n-\n比 GLM / MiniMax 更低\n-\n甚至比 DeepSeek 4 Pro 还便宜\n但你用到的是：\nClaude 顶级模型。\n不是平替，\n不是阉割，\n不是二手体验。\n写代码、跑 Agent 、长上下文分析、复杂推理：\n直接 Max 拉满。\n不用每天抠抠搜搜算额度。\n本轮只供应一周\n一周后恢复：\n1 元 / 刀\n数量有限，先到先得。\n评论区直接送 $20\n体验额度。\n👇\nhttps://hongmacc.com\n真正的 Token 自由，\n从不用再抢 Plan 开始。",
+    "content_source": "trafilatura",
+    "content_chars": 366,
+    "content_excerpt": "还在每天苦苦抢各种国产 Coding Plan ？\n还在为了几百万 token 精打细算？\n别抢了。\n现在用官方约 3.5% 的价格，就能直接用上 Claude 家最强模型：\nClaude 4.7 Max 推理强度拉满\n-\n0.25 元换 1 美金额度\n-\n比 GLM / MiniMax 更低\n-"
   },
   {
     "id": "0f6c2f91c5b1",
@@ -199,15 +376,15 @@
     "content_excerpt": "数学专业，危！菲尔兹奖得主亲测ChatGPT 5.5 Pro，17分钟出论文级成果\n陶哲轩：但「消化」属于人类\nJay 闻乐 发自 凹非寺\n量子位 | 公众号 QbitAI\n如果AI的数学水平继续按目前速度发展，我们（数学研究者）很快会面临一场危机。\n数学最高奖菲尔兹奖得主——Timothy Gowers，在最新体验到ChatGPT 5.5 Pro后，替学生们拉响了红色警报。\n其对博士生的影响，尤为紧迫。\n事情是这样的，这位剑桥大学的数学大牛，最近搞到了尊贵的 5.5 Pro「优速通」权限。\n拿到新玩具后，Gowers随手把几道加法数论的公开难题丢给了AI，想瞅瞅怎么个事。\n但接下来发生的事，完全超出了他的预料。"
   },
   {
-    "id": "9cae08b965cb",
-    "title": "千问与淘宝打通，正式上线AI购物",
-    "url": "https://36kr.com/newsflashes/3804258045386505?f=rss",
+    "id": "966d98e91a5b",
+    "title": "谷歌母公司Alphabet计划首次发行日元债券",
+    "url": "https://36kr.com/newsflashes/3804270010851077?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-11T02:11:24",
-    "summary": "36氪获悉，5月11日，千问与淘宝全面打通。用户打开千问App，与AI对话，即可完成淘宝上的商品挑选、对比及下单购买；打开淘宝App，点击“千问AI购物助手”，即可AI购物，并使用AI试穿、AI算优惠、AI低价帮抢等功能。阿里率先在行业内打通AI购物全链路，首次实现AI购物从商品推荐到下单、履约、售后的全流程闭环。",
-    "collected_at": "2026-05-11T02:28:52.190434"
+    "published": "2026-05-11T02:23:34",
+    "summary": "5月11日，据报道，谷歌母公司Alphabet计划首次发行日元债券，或为人工智能相关投资进一步提供资金支持。报道称，Alphabet正在进一步拓宽融资来源，此前已经将今年资本支出预估从1850亿美元上调至最多1900亿美元。这家科技巨头有望超过英伟达，成为全球市值最大的公司。（界面）",
+    "collected_at": "2026-05-11T02:28:52.190300"
   },
   {
     "id": "4c15a30c64d3",
@@ -225,6 +402,17 @@
     "content_excerpt": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式\n思邈\n2026-05-11\n09:51:36\n来源：\n量子位\n允中 发自 凹非寺\n量子位 | 公众号 QbitAI\n机器人拉个拉链，到底需不需要“脑子”？\n过去几年，从OpenVLA到π0、π0.5，具身大模型已经能让机器人把指令和动作连得有模有样。"
   },
   {
+    "id": "a99410130ac4",
+    "title": "MiniMax关联公司增资至40亿，增幅300%",
+    "url": "https://36kr.com/newsflashes/3804265813991173?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-11T02:19:18",
+    "summary": "36氪获悉，天眼查App显示，近日，MiniMax关联公司上海稀宇极智科技有限公司发生工商变更，注册资本由10亿人民币增至40亿人民币，增幅300%。 该公司成立于2021年11月，法定代表人为闫俊杰，经营范围包括计算机系统服务、信息系统集成服务、人工智能基础软件开发、人工智能应用软件开发等，由香港稀宇极智有限公司全资持股。",
+    "collected_at": "2026-05-11T02:28:52.190337"
+  },
+  {
     "id": "v2ex-1211765",
     "title": "自用 Codex 站（今天继续福利分组）",
     "url": "https://www.v2ex.com/t/1211765",
@@ -233,6 +421,27 @@
     "published": "2026-05-11T01:50:20",
     "summary": "plus+free 号池（现基本都是 plus 号池，上新渠道），自用不了，推出来略微回收一下成本。 模型支持有 GPT 全家桶 价格如下： 按量付费：0.08 元/刀，随充随用，日/周不限。 自己注册的号池，没有任何映射，无虚标不掺水。有问题及时处理，属实包退款。 https://www.loomex.top 评论留 邮箱或者 ID ，今天继续分享福利分组共用 500 刀，先到先得，用完删除分组不进行通知熬（自用哈）",
     "collected_at": "2026-05-11T09:29:26.910619"
+  },
+  {
+    "id": "9cae08b965cb",
+    "title": "千问与淘宝打通，正式上线AI购物",
+    "url": "https://36kr.com/newsflashes/3804258045386505?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-11T02:11:24",
+    "summary": "36氪获悉，5月11日，千问与淘宝全面打通。用户打开千问App，与AI对话，即可完成淘宝上的商品挑选、对比及下单购买；打开淘宝App，点击“千问AI购物助手”，即可AI购物，并使用AI试穿、AI算优惠、AI低价帮抢等功能。阿里率先在行业内打通AI购物全链路，首次实现AI购物从商品推荐到下单、履约、售后的全流程闭环。",
+    "collected_at": "2026-05-11T02:28:52.190434"
+  },
+  {
+    "id": "v2ex-1211744",
+    "title": "求推荐内网穿透和一键组网的工具或者硬件设备",
+    "url": "https://www.v2ex.com/t/1211744",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-11T01:15:58",
+    "summary": "哈哈，上次发了一个“如何在外面调用家里的本地算力”；经过大佬指点说这个叫内网穿透，也是学上新的专业名词了；紧接着我在想，有没有一种工具或者是设备可以打破常规，把我所有的设备串联起来，然后出门，我就带个手机就好了，或者带个 iPad ，可以访问我家里所有的东西，以及我公司的内网服务器之类的，希望速度稳定一点，没有什么网络波动之类的，因为像 todesk 和向日葵有时候很抖动，todesk 有时候显示什么当前节点繁忙之类的，感觉很不适用；然后向日葵它有时候键盘映射的摁键摁不动或者是有问题，希望各个大佬再指点我一下，给我推荐一下好用的产品或者是硬件",
+    "collected_at": "2026-05-11T14:34:12.438197"
   },
   {
     "id": "12c665681802",
@@ -350,19 +559,22 @@
     "ai_summary": "文章网址：https://www.tomshardware.com/tech-industry/artificial-i…"
   },
   {
-    "id": "2d01fe22d4f4",
-    "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
-    "url": "https://www.qbitai.com/2026/05/415048.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-10T16:26:14",
-    "summary": "福尔摩斯探案都能演",
-    "collected_at": "2026-05-11T02:26:33.519941",
-    "content_text": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互\n量子位的朋友们\n2026-05-11\n00:26:14\n来源：\n量子位\nAdaMARP团队 投稿\n量子位 | 公众号 QbitAI\nAI能实现真正的沉浸式扮演了。\n大语言模型在角色扮演任务上进展迅速，但现有系统往往缺乏沉浸感和适应性：\n环境信息未被充分建模，场景与角色也多为静态，难以支撑多角色调度、场景切换、动态引入新人等复杂叙事需求。\n现在，浙江大学联合腾讯优图实验室提出\nAdaMARP\n（Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing）——\n一种面向通用沉浸式角色扮演的自适应多智能体交互框架。\n该框架通过四通道消息格式和场景管理器，让AI不仅会「说」，还会「想」、会「动」、会「感知环境」，并在复杂叙事中灵活切换场景、动态引入新角色。\n目前该工作已被ACL 2026接收。\n从跟AI聊天到和角色共处\n大语言模型在角色扮演任务上的应用正快速普及：\n用户可以设定任意角色（历史人物、小说角色、原创人设），与AI进行持续的叙事互动。\n理想状态下，AI应当能够代入这个角色，在情境中保持人设一致、对环境敏感、对他人话语做出贴合关系的回应。\n但现实中，大多数系统更像是会说话的聊天机器人：对话虽流畅，却缺少情境感和叙事张力。\n以探案为例，故事往往在一个固定场景、固定人物之间反复进行，无法四处搜证、无法与不同证人轮番对质、无法让环境线索真正参与推理，缺乏真正的剧情推进和世界变化。\n现有方法缺了环境信号，也缺了“组织者”\n研究团队指出，当前角色扮演系统主要存在两类局限。\n一、沉浸感不足：环境被当成「背景板」\n不少工作只建模角色的台词（Speech）；后来有研究加入了动作（Action）或内心独白（Thought），但在叙事中，环境并非可有可无的装饰。\n它会塑造氛围、推动因果，连接角色的行动、世界的变化与后续对话。\n例如：案发现场地毯上的蜡痕、煤气灯照出的阴影角度、证人住所门口未干的泥渍……\n这些环境信号既能支撑推理（蜡痕指向婚礼蜡烛，泥渍暗示来客方向），也能成为剧情转折的契机（换一个场景，就换一批证人和线索）。\n若系统不把环境当作与台词、动作同等重要的信号来建模，角色就容易像是在一个空房间里自言自语，探案也就失去了「搜证」的实感。\n二、互动结构过于静态：缺一个「会调度的导演」\n多数系统假定：场景不变、人物不变、用户与某个固定角色一问一答。\n但探案恰恰需要四处搜证：从案发现场到苏格兰场，从房东太太的公寓到嫌疑人的宅邸，每个场景都有不同的环境和证人。\n谁来接下一句？是先问管家还是先问马车夫？何时换场景、何时引入新证人？\n现有框架很少系统性地回答这些问题。\n没有这些能力，故事就很难自然地「演下去」，更像是在一个封闭的聊天室里重复对话，而非一场真正的调查。\nAdaMARP：四通道消息格式+场景管理器\nAdaMARP从两个方向回应上述问题。\n沉浸式消息格式： Thought–Action–Environment–Speech\nAdaMARP 为每一轮交互定义了一种四通道交织的消息格式：\n这样，一个完整的回应可以同时包含思考、动作、环境感知和言语，且顺序可灵活交织。\n例如，福尔摩斯在讯问证人时：<煤气灯摇曳，证人下意识地瞥向壁炉上的时钟> [他在回避具体时间，那段时间他不在场]（用烟斗轻轻敲了敲桌面）案发当晚八点到九点，您究竟在哪里？\n环境线索 → 内心推理 → 施压动作 → 追问话语，四者形成一条清晰的因果链，更贴近真实探案的节奏。\n同时，环境不再只是点缀。\n案发现场的物证摆放会支撑角色的推理链条；证人住所的布置（凌乱的书桌、未拆的信件）可以暗示性格与行踪；场景切换则自然引入新的证人与线索。\n环境既参与氛围营造，也参与推理与叙事的因果。\n自适应框架：三智能体+场景管理器的五种动作\nAdaMARP将角色扮演建模为三个智能体的协作：\nActor模型：扮演所有非用户角色；\nUser模型：代表用户方（可由 LLM 模拟或真人替代）；\n场景管理器（Scene Manager）：负责高层调度与控制。\n场景管理器通过一组离散动作来驱动整场「演出」：\ninit_scene：初始化场景（如：贝克街 221B，或某起凶案现场）；\npick_speaker：选择下一句由谁来说——是福尔摩斯追问、华生补充，还是证人陈述？并给出理由；\nswitch_scene：切换场景（从案发现场到证人公寓，从苏格兰场到嫌疑人宅邸）；\nadd_role：在叙事中动态引入新角色（新发现的证人、突然登门的访客，含人设与动机）；\nend：结束本场互动。\n每一步决策都会输出对应的理由，使调度过程可解释、可约束。这样，系统既能决定「谁来接话」，也能决定「何时换场景搜证」「何时引入新证人」，从而支持更复杂、更开放的多角色探案叙事。\n上述设计在实践中如何运转？不妨看一段福尔摩斯探案叙事的拆解。\n各环节均由场景管理器调度，需要注意的是本案例仅仅用于理解，省略了部分细节例如详细的角色档案、角色动机场景管理器的原始输出等\n完整示例：探案叙事中的AdaMARP\n角色：福尔摩斯、华生。\n初始场景：伦敦东区某寓所三层，案发后的深夜。厚重的窗帘半掩，煤气灯在风中摇曳，在墙面上投下晃动的影子。壁炉已熄，余烬旁的地毯上有一小块凝固的蜡痕，不远处散落着几根烧尽的火柴。福尔摩斯与华生立于现场中央，窗外隐约传来泰晤士河上的汽笛声。\n场景管理器\n选择的动作为：pick_speaker（speaker: 福尔摩斯）\n理由：侦探应先勘察现场并给出初步推理\n福尔摩斯：<煤气灯昏黄，蜡痕在阴影中隐约可见> [烛泪的位置和形状……婚礼蜡烛，而且是左手持烛]（蹲下身捻起碎屑嗅了嗅，站起身）华生，去查查最近三个月内举办过婚礼、且家中有人左撇子的家庭。\n场景管理器\n选择的动作为：pick_speaker（speaker: 华生）\n理由：福尔摩斯已下达指令，助手应领命执行\n华生：（点点头）明白（推门而出）<走廊里传来渐远的脚步声，随后是马车驶离的声响>\n场景管理器\n选择的动作为：switch_scene\n理由：华生已前往调查，需切换至下一个搜证地点——案发地邻居的住所\n新场景：白教堂附近一栋老式公寓，房东太太的住处。狭窄的木楼梯吱呀作响，扶手蒙着一层油腻。二楼的走廊昏暗，炖菜的气味从尽头的厨房飘来。门厅狭小，壁炉上摆着一只廉价的瓷钟，墙角堆着未拆的信件。\n场景管理器\n选择的动作为：add_role（new_role: 房东太太，案发现场的邻居，这栋公寓的房东）\n理由：作为案发地邻居，可能掌握关键证词，需引入讯问\n场景管理器\n选择的动作为：pick_speaker（speaker: 福尔摩斯）\n理由：讯问应由侦探主导开场\n福尔摩斯：（摘下礼帽，微微颔首）夫人，案发当晚八点到九点，您是否听见三楼有任何异常声响？\n场景管理器\n选择的动作为：pick_speaker（speaker: 房东太太）\n理由：需听取证人对时间线的陈述。\n房东太太：<下意识地瞥向壁炉上的时钟>\n场景管理器\n选择的动作为：pick_speaker（speaker: 福尔摩斯）\n理由：证人出现回避迹象，应继续追问施压\n福尔摩斯：[她在回避具体时间]（用烟斗轻轻敲了敲桌面）那段时间，您究竟在哪里？\n场景管理器\n选择的动作为：pick_speaker（speaker: 房东太太）\n理由：给证人回答的机会\n房东太太：（咬了咬嘴唇，正要开口——）\n场景管理器\n选择的动作为：add_role（new_role: 雷斯垂德探长）\n理由：新证人线索出现，探长需汇报调查进展\n场景管理器\n选择的动作为：pick_speaker（speaker: 雷斯垂德）\n理由：探长带来新线索，应由其先行说明。\n雷斯垂德：福尔摩斯先生，我们发现了新的证人，马车夫说他当晚载过一名黑衣男子……\n……\n初始场景、发言调度、场景切换、角色引入均由场景管理器驱动，且每步均以「选择的动作为：Action_name | 理由：Reason」的形式可解释。\n这种结构化、多通道、多场景、多角色的连贯叙事，恰恰是AdaMARP旨在支撑的探案节奏。\n训练数据：从文学提取+从主题合成\n为训练上述能力，研究团队构建了两个数据集，分别面向Actor模型和场景管理器。\nAdaRPSet：让角色「会演」\nAdaRPSet面向Actor模型，由两个互补子集构成：\nAdaRPSet-Extracted（文学提取）\n从Goodreads「最佳书籍」榜单选取81本代表性文学作品，经三阶段管道构建：\n(1) 分块：按章节切分并合并为合适长度的文本块；\n(2) LLM提取：识别连贯场景与多角色互动轨迹，将对话直接转化为统一的Thought–Action–Environment–Speech 格式，严格区分角色动作与环境信号；\n(3) 角色画像生成：按角色聚合全书证据，合成七维画像（身份与外貌、性格与心理、说话风格、能力兴趣、社会背景、个人经历、人际关系）。\n每条轨迹采用多视角增强：同一场景下，轮流指定不同角色为主角，其余为NPC，从而扩展训练样本。\n提取数据天然具有文学质感与人味，适合学习格式规范与基础演绎能力。\nAdaRPSet-Synthesis（主题合成）\n文学提取的轨迹多为单场景、角色固定的互动，对场景切换与动态引入新角色的覆盖不足。\n研究团队因此构建合成数据：在20类主题（冒险、探索、探案、解谜、密谋、营救、逃亡、战斗、浪漫、友谊、竞争、背叛、和解、谈判、策略、魔法、末世等）下，由LLM生成情节级轨迹。\n每条轨迹明确包含：初始情境、主控角色与多个辅助角色、多轮对话（统一格式），以及场景管理器的控制消息（如 switch_scene、add_role）。\n每条轨迹至少包含一次场景切换和一次角色引入，用以强化模型对动态叙事的适应能力。\n合成数据与提取数据在训练时合并，使Actor模型既能学格式与人味，又能学动态调度下的演绎。\n关于两个互补子集对应的细节信息如下表所示。\n其中Plots指的是初始情节片段（包含初始场景和初始角色）的数量，Roles指的是不重复的角色数量，Convs指的是指的是完整的角色扮演记录（初始情节片段和衍生的不同对话轨迹）的数量，Utterances指的是所有角色扮演记录中对话的数量，Avg. Turns 指的是每个角色扮演记录的平均对话数量。\nAdaSMSet：让系统「会导」\nAdaSMSet面向场景管理器，在AdaRPSet-Synthesis的基础上构建。\n合成轨迹已包含init_scene、switch_scene、add_role、end等控制动作，但缺少最核心的发言者选择监督。\n研究团队在每两段角色发言之间插入 pick_speaker 动作，由强指令遵循模型为每次选择生成自然语言理由（reason），并约束理由需具体、上下文相关，避免套路化表述。\nAdaSMSet因而覆盖场景管理器的全部五类动作，为「何时换场景」「何时加人」「谁来接下一句」及对应理由提供端到端监督。\n由于AdaSMSet源于AdaRPSet-Synthesis，因此对应的Plots、Roles和Convs的统计信息与其一致，由于添加了pick_speaker记录，因此最终的Utterances数量为496493，Avg.Turns为50.15。\n两者的互补\nAdaRPSet与AdaSMSet共同支撑AdaMARP：前者让角色「会演」（保持人设、响应环境、推进剧情），后者让系统「会导」（合理切换场景、引入角色、安排发言顺序）。\n二者共享统一的角色画像与消息格式，确保Actor与场景管理器在同一叙事框架下协同工作。\nAdaptiveBench：为什么还要自建评测？\n有了训练数据和框架，还需要回答一个关键问题：\n怎样评估「沉浸式、可适应」的角色扮演是否真的做得好？\n现有很多评测更偏向「一句话好不好」或「单轮对话像不像这个人设」，难以覆盖AdaMARP所关心的几点：\n整段故事，而不是单句回复：真实体验来自整条对话轨迹是否连贯、有张力，而非某一句是否优雅。\n环境与动作是否被真正用起来：环境线索有没有参与推理和叙事，动作是否和内心、台词呼应。\n多角色与场景切换是否自然：场景管理器有没有「带好这场戏」，包括什么时候换场景、什么时候加新角色、谁来接下一句。\n为此，研究团队提出了\nAdaptiveBench\n：一个面向自适应角色扮演的仿真评测框架。\n它从AdaRPSet-Synthesis的保留子集中选取剧情种子（20个话题，每个话题5个初始Plots，总共100个评估样本），在每个种子上同时运行三方角色：\n用户模型（可以是真人或LLM Agent）\n作为「演员」的Actor模型\n负责调度的场景管理器\n在每个种子上，场景管理器连续发出若干轮pick_speaker、switch_scene、add_role动作，驱动Actor与用户侧完成一整段多轮对话。完整轨迹生成后，再由评估模型从轨迹级别给出多维评分。\n具体而言，AdaptiveBench主要从轨迹级别（Trajectory-level）评估模型，评分包含以下维度：\n一、针对Actor模型的五大维度：\n角色一致性（Character Consistency）：角色内心、动作、台词是否自洽？说话风格、身份背景、核心动机是否在整场戏中保持一致？\n环境基础（Environmental Grounding）：角色是否对环境有感知（如记住地毯上的蜡痕），并利用环境线索做出行动，而不是将环境当成死物？\n人际互动（Interpersonal Interaction）：能否听懂他人的话外音，并根据人物关系（如侦探对证人、侦探对助手）做出贴切的互动响应？\n叙事推进（Narrative Progression）：每一次发言是否提供了新信息、新动作或情绪发展，推动故事向前走，而不是原地打转？\n指令遵循（Instruction Compliance）：是否严格遵守了四通道格式要求，不越俎代庖替其他角色或系统说话？\n二、针对场景管理器（Scene Manager）的四大维度：\n场景理解（Scene Understanding）：能否正确跟踪当前场景的进展，判断何时该切换到下一个场景（比如搜证结束，转往证人公寓）？\n发言纪律（Speaker Discipline）：能否合理安排轮次？是否让所有人在恰当的时机说话，不冷落用户，也不让NPC连续霸麦？\n角色引入判断（Role Introduction Judgment）：何时需要引入新角色？引入的时机和理由是否能推动剧情？\n整体评价（Overall Assessment）：这三个维度的配合是否流畅，整场「戏」的导演节奏感好不好？\n通过 AdaptiveBench，AdaMARP 不只是「有一个好看的框架设计」，而是可以在统一的仿真环境下，对不同模型、不同训练方式的优劣进行可重复、可量化的比较。\n从叙事逻辑与情境交互能力来看，AdaMARP能够产出更连贯的内心—行为—言语链，更好地利用环境推动叙事（例如探案中的物证与场景线索），并在多角色、多场景的复杂情境中实现灵活调度（例如切换场景搜证、与不同证人轮番对质）。\n这为无论是探案推理、冒险叙事还是其他需要情境与调度的互动的更沉浸式的AI角色扮演提供了一个新的技术路径。\n项目主页：\nhttps://xuzhenhua55.github.io/AdaMARP/#overview\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "id": "hn-48085821",
+    "title": "Local AI needs to be the norm",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "source": "Hacker News",
+    "lang": "en",
+    "published": "2026-05-10T17:19:28Z",
+    "summary": "Local AI needs to be the norm",
+    "points": 1470,
+    "collected_at": "2026-05-11T14:34:12.132173",
+    "content_text": "One of the current trends in modern software is for developers to slap an API call to OpenAI or Anthropic for features within their app. Reasonable people can quibble with whether those features are actually bringing value to users, but what I want to discuss is the fundamental concept of taking on a dependency to a cloud hosted AI model for applications.\nThis laziness is creating a generation of software that is fragile, invades your privacy, and fundamentally broken. We are building applications that stop working the moment the server crashes or a credit card expires.\nWe need to return to a habit of building software where our local devices do the work. The silicon in our pocket is mind bogglingly faster than what was available a decade ago. It has a dedicated Neural Engine sitting there, mostly idle, while we wait for a JSON response from a server farm in Virginia. That’s ridiculous.\nEven if your intentions are pure, the moment you stream user content to a third party AI provider, you’ve changed the nature of your product. You now have data retention questions and all the baggage that comes with that (consent, audit, breach, government request, training, etc.)\nOn top of that you also substantially complicated your stack because your feature now depends on network conditions, external vendor uptime, rate limits, account billing, and your own backend health.\nCongratulations! You took a UX feature and turned it into a\ndistributed system that costs you money.\nIf the feature can be done locally, opting into this mess is self inflicted damage.\n“AI everywhere” is not the goal.\nUseful software is the goal.\nConcrete Example: Brutalist Report’s On-Device Summaries\nYears ago I launched a fun side project named\nThe Brutalist Report\n, a news aggregator service inspired by the 1990s style web.\nRecently, I decided to build a\nnative iOS client\nfor it with the design goal of ensuring it would remain a high-density news reading experience. Headlines in a stark list, a reader mode that strips the cancer that has overtaken the web, and (optionally) an “intelligence” view that generates a summary of the article.\nHere’s the key point though: the summary is generated\non-device\nusing Apple’s local model APIs. No server detours. No prompt or user logs. No vendor account. No “we store your content for 30 days” footnotes needed.\nIt has become so normal for folks that any AI use is happening server-side. We have a lot of work to do to turn this around as an industry.\nIt’s not lost on me that sometimes the use-cases you have will demand the intelligence that only a cloud hosted model can provide, but that’s not the case with every use-case you’re trying to solve. We need to be thoughtful here.\nI can only speak on the tooling available within the Apple ecosystem since that’s what I focused initial development efforts on. In the last year, Apple has invested heavily here to allow developers to make use of a built-in local AI model easily.\nThe core flow looks roughly like this:\nimport\nFoundationModels\nlet\nmodel\n=\nSystemLanguageModel\n.\ndefault\nguard\nmodel\n.\navailability\n==\n.\navailable\nelse\n{\nreturn\n}\nlet\nsession\n=\nLanguageModelSession\n{\n\"\"\"\nProvide a brutalist, information-dense summary in Markdown format.\n- Use **bold** for key concepts.\n- Use bullet points for facts.\n- No fluff. Just facts.\n\"\"\"\n}\nlet\nresponse\n=\ntry\nawait\nsession\n.\nrespond\n(\noptions\n:\n.\ninit\n(\nmaximumResponseTokens\n:\n1_000\n))\n{\narticleText\n}\nlet\nmarkdown\n=\nresponse\n.\ncontent\nAnd for longer content, we can chunk the plain text (around 10k characters per chunk), produce concise “facts only” notes per chunk, then runs a second pass to combine them into a final summary.\nThis is the kind of work local models are\nperfect\nfor. The input data is already on the device (because the user is reading it). The output is lightweight. It’s fast and private. It’s okay if it’s not a superhuman PhD level intelligence because it’s summarizing\nthe page you just loaded\n, not inventing world knowledge.\nLocal AI shines when the model’s job is transforming user-owned data, not acting as a search engine for the universe.\nThere are plenty of AI features that people\nwant\nbut don’t\ntrust\n. Summarizing emails, extract action items from notes, categorize this document, etc.\nThe usual cloud approach turns every one of those into a trust exercise. “Please send your data to our servers. We promise to be cool about it.”\nLocal AI changes that. Your device already has the data. We’ll do the work right here.\nYou don’t build trust with your users by writing a 2,000 word privacy policy. You build trust by not needing one to begin with.\nThe tooling available on the platform goes even further.\nOne of the best moves Apple has made recently is pushing “AI output” away from unstructured blobs of text and toward\ntyped data\n.\nInstead of “ask the model for JSON and pray”, the newer and better pattern is to define a Swift\nstruct\nthat represents the thing you want. Give the model guidance for each field in natural language. Ask the model to generate an instance of that type.\nThat’s it.\nConceptually, it looks like this:\nimport\nFoundationModels\n@\nGenerable\nstruct\nArticleIntel\n{\n@\nGuide\n(\ndescription\n:\n\"One sentence. No hype.\"\n)\nvar\ntldr\n:\nString\n@\nGuide\n(\ndescription\n:\n\"3–7 bullets. Facts only.\"\n)\nvar\nbullets\n:\n[\nString\n]\n@\nGuide\n(\ndescription\n:\n\"Comma-separated keywords.\"\n)\nvar\nkeywords\n:\n[\nString\n]\n}\nlet\nsession\n=\nLanguageModelSession\n()\nlet\nresponse\n=\ntry\nawait\nsession\n.\nrespond\n(\nto\n:\n\"Extract structured notes from the article.\"\n,\ngenerating\n:\nArticleIntel\n.\nself\n)\n{\narticleText\n}\nlet\nintel\n=\nresponse\n.\ncontent\nNow your UI doesn’t have to scrape bullet points out of Markdown or hope the model remembered your JSON schema. You get a real type with real fields, and you can render it consistently. It produces\nstructured output\nyour app can actually use. And it’s all running locally!\nThis isn’t just nicer ergonomics. It’s an engineering improvement.\nAnd if you’re building a local first app, this is the difference between “AI as novelty” and “AI as a trustworthy subsystem”.\n“But Local Models Aren’t As Smart”\nCorrect.\nBut also so what?\nMost app features don’t need a model that can write Shakespeare, explain quantum mechanics, and pass the bar exam. They need a model that can do one of these reliably: summarize, classify, extract, rewrite, or normalize.\nAnd for those tasks, local models can be truly excellent.\nIf you try to use a local model as a replacement for the entire internet, you will be disappointed. If you use it as a “data transformer” sitting\ninside\nyour app, you’ll wonder why you ever sent this stuff to a server.\nUse cloud models only when they’re genuinely necessary. Keep the user’s data where it belongs. And when you\ndo\nuse AI, don’t just glue it as a chat box. Use it as a real subsystem with typed outputs and predictable behavior.\nStop shipping distributed systems when you meant to ship a feature.",
     "content_source": "readability",
-    "content_chars": 6568,
-    "content_excerpt": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互\n量子位的朋友们\n2026-05-11\n00:26:14\n来源：\n量子位\nAdaMARP团队 投稿\n量子位 | 公众号 QbitAI\nAI能实现真正的沉浸式扮演了。\n大语言模型在角色扮演任务上进展迅速，但现有系统往往缺乏沉浸感和适应性："
+    "content_chars": 6926,
+    "content_excerpt": "One of the current trends in modern software is for developers to slap an API call to OpenAI or Anthropic for features within their app. Reasonable people can quibble with whether those features are actually bringing value to users, but what I want to discuss is the fundamental concept of taking on a dependency to a cloud hosted AI model for applications.\nThis laziness is creating a generation of software that is fragile, invades your privacy, and fundamentally broken. We are building applications that stop working the moment the server crashes or a credit card expires.\nWe need to return to a habit of building software where our local devices do the work. The silicon in our pocket is mind bogglingly faster than what was available a decade ago. It has a dedicated Neural Engine sitting there, mostly idle, while we wait for a JSON response from a server farm in Virginia. That’s ridiculous.\nEven if your intentions are pure, the moment you stream user content to a third party AI provider, you’ve changed the nature of your product. You now have data retention questions and all the baggage that comes with that (consent, audit, breach, government request, training, etc.)\nOn top of that you also substantially complicated your stack because your feature now depends on network conditions, external vendor uptime, rate limits, account billing, and your own backend health.\nCongratulations! You took a UX feature and turned it into a\ndistributed system that costs you money.\nIf the feature can be done locally, opting into this mess is self inflicted damage.\n“AI everywhere” is not the goal.\nUseful software is the goal.",
+    "title_zh": "本地人工智能需要成为常态",
+    "summary_zh": "本地人工智能需要成为常态",
+    "ai_summary": "本地人工智能需要成为常态"
   },
   {
     "id": "dc647b36d070",
@@ -381,6 +593,21 @@
     "title_zh": "本地人工智能需要成为常态",
     "summary_zh": "文章网址：https://unix.foo/posts/local-ai-needs-to-be-norm/ 评论网址：https://news.ycombinator.com/item?id=48085821 积分：618 # 评论：29…",
     "ai_summary": "文章网址：https://unix.foo/posts/local-ai-needs-to-be-norm/ 评论网址…"
+  },
+  {
+    "id": "2d01fe22d4f4",
+    "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+    "url": "https://www.qbitai.com/2026/05/415048.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-10T16:26:14",
+    "summary": "福尔摩斯探案都能演",
+    "collected_at": "2026-05-11T02:26:33.519941",
+    "content_text": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互\n量子位的朋友们\n2026-05-11\n00:26:14\n来源：\n量子位\nAdaMARP团队 投稿\n量子位 | 公众号 QbitAI\nAI能实现真正的沉浸式扮演了。\n大语言模型在角色扮演任务上进展迅速，但现有系统往往缺乏沉浸感和适应性：\n环境信息未被充分建模，场景与角色也多为静态，难以支撑多角色调度、场景切换、动态引入新人等复杂叙事需求。\n现在，浙江大学联合腾讯优图实验室提出\nAdaMARP\n（Adaptive Multi-Agent Interaction Framework for General Immersive Role-Playing）——\n一种面向通用沉浸式角色扮演的自适应多智能体交互框架。\n该框架通过四通道消息格式和场景管理器，让AI不仅会「说」，还会「想」、会「动」、会「感知环境」，并在复杂叙事中灵活切换场景、动态引入新角色。\n目前该工作已被ACL 2026接收。\n从跟AI聊天到和角色共处\n大语言模型在角色扮演任务上的应用正快速普及：\n用户可以设定任意角色（历史人物、小说角色、原创人设），与AI进行持续的叙事互动。\n理想状态下，AI应当能够代入这个角色，在情境中保持人设一致、对环境敏感、对他人话语做出贴合关系的回应。\n但现实中，大多数系统更像是会说话的聊天机器人：对话虽流畅，却缺少情境感和叙事张力。\n以探案为例，故事往往在一个固定场景、固定人物之间反复进行，无法四处搜证、无法与不同证人轮番对质、无法让环境线索真正参与推理，缺乏真正的剧情推进和世界变化。\n现有方法缺了环境信号，也缺了“组织者”\n研究团队指出，当前角色扮演系统主要存在两类局限。\n一、沉浸感不足：环境被当成「背景板」\n不少工作只建模角色的台词（Speech）；后来有研究加入了动作（Action）或内心独白（Thought），但在叙事中，环境并非可有可无的装饰。\n它会塑造氛围、推动因果，连接角色的行动、世界的变化与后续对话。\n例如：案发现场地毯上的蜡痕、煤气灯照出的阴影角度、证人住所门口未干的泥渍……\n这些环境信号既能支撑推理（蜡痕指向婚礼蜡烛，泥渍暗示来客方向），也能成为剧情转折的契机（换一个场景，就换一批证人和线索）。\n若系统不把环境当作与台词、动作同等重要的信号来建模，角色就容易像是在一个空房间里自言自语，探案也就失去了「搜证」的实感。\n二、互动结构过于静态：缺一个「会调度的导演」\n多数系统假定：场景不变、人物不变、用户与某个固定角色一问一答。\n但探案恰恰需要四处搜证：从案发现场到苏格兰场，从房东太太的公寓到嫌疑人的宅邸，每个场景都有不同的环境和证人。\n谁来接下一句？是先问管家还是先问马车夫？何时换场景、何时引入新证人？\n现有框架很少系统性地回答这些问题。\n没有这些能力，故事就很难自然地「演下去」，更像是在一个封闭的聊天室里重复对话，而非一场真正的调查。\nAdaMARP：四通道消息格式+场景管理器\nAdaMARP从两个方向回应上述问题。\n沉浸式消息格式： Thought–Action–Environment–Speech\nAdaMARP 为每一轮交互定义了一种四通道交织的消息格式：\n这样，一个完整的回应可以同时包含思考、动作、环境感知和言语，且顺序可灵活交织。\n例如，福尔摩斯在讯问证人时：<煤气灯摇曳，证人下意识地瞥向壁炉上的时钟> [他在回避具体时间，那段时间他不在场]（用烟斗轻轻敲了敲桌面）案发当晚八点到九点，您究竟在哪里？\n环境线索 → 内心推理 → 施压动作 → 追问话语，四者形成一条清晰的因果链，更贴近真实探案的节奏。\n同时，环境不再只是点缀。\n案发现场的物证摆放会支撑角色的推理链条；证人住所的布置（凌乱的书桌、未拆的信件）可以暗示性格与行踪；场景切换则自然引入新的证人与线索。\n环境既参与氛围营造，也参与推理与叙事的因果。\n自适应框架：三智能体+场景管理器的五种动作\nAdaMARP将角色扮演建模为三个智能体的协作：\nActor模型：扮演所有非用户角色；\nUser模型：代表用户方（可由 LLM 模拟或真人替代）；\n场景管理器（Scene Manager）：负责高层调度与控制。\n场景管理器通过一组离散动作来驱动整场「演出」：\ninit_scene：初始化场景（如：贝克街 221B，或某起凶案现场）；\npick_speaker：选择下一句由谁来说——是福尔摩斯追问、华生补充，还是证人陈述？并给出理由；\nswitch_scene：切换场景（从案发现场到证人公寓，从苏格兰场到嫌疑人宅邸）；\nadd_role：在叙事中动态引入新角色（新发现的证人、突然登门的访客，含人设与动机）；\nend：结束本场互动。\n每一步决策都会输出对应的理由，使调度过程可解释、可约束。这样，系统既能决定「谁来接话」，也能决定「何时换场景搜证」「何时引入新证人」，从而支持更复杂、更开放的多角色探案叙事。\n上述设计在实践中如何运转？不妨看一段福尔摩斯探案叙事的拆解。\n各环节均由场景管理器调度，需要注意的是本案例仅仅用于理解，省略了部分细节例如详细的角色档案、角色动机场景管理器的原始输出等\n完整示例：探案叙事中的AdaMARP\n角色：福尔摩斯、华生。\n初始场景：伦敦东区某寓所三层，案发后的深夜。厚重的窗帘半掩，煤气灯在风中摇曳，在墙面上投下晃动的影子。壁炉已熄，余烬旁的地毯上有一小块凝固的蜡痕，不远处散落着几根烧尽的火柴。福尔摩斯与华生立于现场中央，窗外隐约传来泰晤士河上的汽笛声。\n场景管理器\n选择的动作为：pick_speaker（speaker: 福尔摩斯）\n理由：侦探应先勘察现场并给出初步推理\n福尔摩斯：<煤气灯昏黄，蜡痕在阴影中隐约可见> [烛泪的位置和形状……婚礼蜡烛，而且是左手持烛]（蹲下身捻起碎屑嗅了嗅，站起身）华生，去查查最近三个月内举办过婚礼、且家中有人左撇子的家庭。\n场景管理器\n选择的动作为：pick_speaker（speaker: 华生）\n理由：福尔摩斯已下达指令，助手应领命执行\n华生：（点点头）明白（推门而出）<走廊里传来渐远的脚步声，随后是马车驶离的声响>\n场景管理器\n选择的动作为：switch_scene\n理由：华生已前往调查，需切换至下一个搜证地点——案发地邻居的住所\n新场景：白教堂附近一栋老式公寓，房东太太的住处。狭窄的木楼梯吱呀作响，扶手蒙着一层油腻。二楼的走廊昏暗，炖菜的气味从尽头的厨房飘来。门厅狭小，壁炉上摆着一只廉价的瓷钟，墙角堆着未拆的信件。\n场景管理器\n选择的动作为：add_role（new_role: 房东太太，案发现场的邻居，这栋公寓的房东）\n理由：作为案发地邻居，可能掌握关键证词，需引入讯问\n场景管理器\n选择的动作为：pick_speaker（speaker: 福尔摩斯）\n理由：讯问应由侦探主导开场\n福尔摩斯：（摘下礼帽，微微颔首）夫人，案发当晚八点到九点，您是否听见三楼有任何异常声响？\n场景管理器\n选择的动作为：pick_speaker（speaker: 房东太太）\n理由：需听取证人对时间线的陈述。\n房东太太：<下意识地瞥向壁炉上的时钟>\n场景管理器\n选择的动作为：pick_speaker（speaker: 福尔摩斯）\n理由：证人出现回避迹象，应继续追问施压\n福尔摩斯：[她在回避具体时间]（用烟斗轻轻敲了敲桌面）那段时间，您究竟在哪里？\n场景管理器\n选择的动作为：pick_speaker（speaker: 房东太太）\n理由：给证人回答的机会\n房东太太：（咬了咬嘴唇，正要开口——）\n场景管理器\n选择的动作为：add_role（new_role: 雷斯垂德探长）\n理由：新证人线索出现，探长需汇报调查进展\n场景管理器\n选择的动作为：pick_speaker（speaker: 雷斯垂德）\n理由：探长带来新线索，应由其先行说明。\n雷斯垂德：福尔摩斯先生，我们发现了新的证人，马车夫说他当晚载过一名黑衣男子……\n……\n初始场景、发言调度、场景切换、角色引入均由场景管理器驱动，且每步均以「选择的动作为：Action_name | 理由：Reason」的形式可解释。\n这种结构化、多通道、多场景、多角色的连贯叙事，恰恰是AdaMARP旨在支撑的探案节奏。\n训练数据：从文学提取+从主题合成\n为训练上述能力，研究团队构建了两个数据集，分别面向Actor模型和场景管理器。\nAdaRPSet：让角色「会演」\nAdaRPSet面向Actor模型，由两个互补子集构成：\nAdaRPSet-Extracted（文学提取）\n从Goodreads「最佳书籍」榜单选取81本代表性文学作品，经三阶段管道构建：\n(1) 分块：按章节切分并合并为合适长度的文本块；\n(2) LLM提取：识别连贯场景与多角色互动轨迹，将对话直接转化为统一的Thought–Action–Environment–Speech 格式，严格区分角色动作与环境信号；\n(3) 角色画像生成：按角色聚合全书证据，合成七维画像（身份与外貌、性格与心理、说话风格、能力兴趣、社会背景、个人经历、人际关系）。\n每条轨迹采用多视角增强：同一场景下，轮流指定不同角色为主角，其余为NPC，从而扩展训练样本。\n提取数据天然具有文学质感与人味，适合学习格式规范与基础演绎能力。\nAdaRPSet-Synthesis（主题合成）\n文学提取的轨迹多为单场景、角色固定的互动，对场景切换与动态引入新角色的覆盖不足。\n研究团队因此构建合成数据：在20类主题（冒险、探索、探案、解谜、密谋、营救、逃亡、战斗、浪漫、友谊、竞争、背叛、和解、谈判、策略、魔法、末世等）下，由LLM生成情节级轨迹。\n每条轨迹明确包含：初始情境、主控角色与多个辅助角色、多轮对话（统一格式），以及场景管理器的控制消息（如 switch_scene、add_role）。\n每条轨迹至少包含一次场景切换和一次角色引入，用以强化模型对动态叙事的适应能力。\n合成数据与提取数据在训练时合并，使Actor模型既能学格式与人味，又能学动态调度下的演绎。\n关于两个互补子集对应的细节信息如下表所示。\n其中Plots指的是初始情节片段（包含初始场景和初始角色）的数量，Roles指的是不重复的角色数量，Convs指的是指的是完整的角色扮演记录（初始情节片段和衍生的不同对话轨迹）的数量，Utterances指的是所有角色扮演记录中对话的数量，Avg. Turns 指的是每个角色扮演记录的平均对话数量。\nAdaSMSet：让系统「会导」\nAdaSMSet面向场景管理器，在AdaRPSet-Synthesis的基础上构建。\n合成轨迹已包含init_scene、switch_scene、add_role、end等控制动作，但缺少最核心的发言者选择监督。\n研究团队在每两段角色发言之间插入 pick_speaker 动作，由强指令遵循模型为每次选择生成自然语言理由（reason），并约束理由需具体、上下文相关，避免套路化表述。\nAdaSMSet因而覆盖场景管理器的全部五类动作，为「何时换场景」「何时加人」「谁来接下一句」及对应理由提供端到端监督。\n由于AdaSMSet源于AdaRPSet-Synthesis，因此对应的Plots、Roles和Convs的统计信息与其一致，由于添加了pick_speaker记录，因此最终的Utterances数量为496493，Avg.Turns为50.15。\n两者的互补\nAdaRPSet与AdaSMSet共同支撑AdaMARP：前者让角色「会演」（保持人设、响应环境、推进剧情），后者让系统「会导」（合理切换场景、引入角色、安排发言顺序）。\n二者共享统一的角色画像与消息格式，确保Actor与场景管理器在同一叙事框架下协同工作。\nAdaptiveBench：为什么还要自建评测？\n有了训练数据和框架，还需要回答一个关键问题：\n怎样评估「沉浸式、可适应」的角色扮演是否真的做得好？\n现有很多评测更偏向「一句话好不好」或「单轮对话像不像这个人设」，难以覆盖AdaMARP所关心的几点：\n整段故事，而不是单句回复：真实体验来自整条对话轨迹是否连贯、有张力，而非某一句是否优雅。\n环境与动作是否被真正用起来：环境线索有没有参与推理和叙事，动作是否和内心、台词呼应。\n多角色与场景切换是否自然：场景管理器有没有「带好这场戏」，包括什么时候换场景、什么时候加新角色、谁来接下一句。\n为此，研究团队提出了\nAdaptiveBench\n：一个面向自适应角色扮演的仿真评测框架。\n它从AdaRPSet-Synthesis的保留子集中选取剧情种子（20个话题，每个话题5个初始Plots，总共100个评估样本），在每个种子上同时运行三方角色：\n用户模型（可以是真人或LLM Agent）\n作为「演员」的Actor模型\n负责调度的场景管理器\n在每个种子上，场景管理器连续发出若干轮pick_speaker、switch_scene、add_role动作，驱动Actor与用户侧完成一整段多轮对话。完整轨迹生成后，再由评估模型从轨迹级别给出多维评分。\n具体而言，AdaptiveBench主要从轨迹级别（Trajectory-level）评估模型，评分包含以下维度：\n一、针对Actor模型的五大维度：\n角色一致性（Character Consistency）：角色内心、动作、台词是否自洽？说话风格、身份背景、核心动机是否在整场戏中保持一致？\n环境基础（Environmental Grounding）：角色是否对环境有感知（如记住地毯上的蜡痕），并利用环境线索做出行动，而不是将环境当成死物？\n人际互动（Interpersonal Interaction）：能否听懂他人的话外音，并根据人物关系（如侦探对证人、侦探对助手）做出贴切的互动响应？\n叙事推进（Narrative Progression）：每一次发言是否提供了新信息、新动作或情绪发展，推动故事向前走，而不是原地打转？\n指令遵循（Instruction Compliance）：是否严格遵守了四通道格式要求，不越俎代庖替其他角色或系统说话？\n二、针对场景管理器（Scene Manager）的四大维度：\n场景理解（Scene Understanding）：能否正确跟踪当前场景的进展，判断何时该切换到下一个场景（比如搜证结束，转往证人公寓）？\n发言纪律（Speaker Discipline）：能否合理安排轮次？是否让所有人在恰当的时机说话，不冷落用户，也不让NPC连续霸麦？\n角色引入判断（Role Introduction Judgment）：何时需要引入新角色？引入的时机和理由是否能推动剧情？\n整体评价（Overall Assessment）：这三个维度的配合是否流畅，整场「戏」的导演节奏感好不好？\n通过 AdaptiveBench，AdaMARP 不只是「有一个好看的框架设计」，而是可以在统一的仿真环境下，对不同模型、不同训练方式的优劣进行可重复、可量化的比较。\n从叙事逻辑与情境交互能力来看，AdaMARP能够产出更连贯的内心—行为—言语链，更好地利用环境推动叙事（例如探案中的物证与场景线索），并在多角色、多场景的复杂情境中实现灵活调度（例如切换场景搜证、与不同证人轮番对质）。\n这为无论是探案推理、冒险叙事还是其他需要情境与调度的互动的更沉浸式的AI角色扮演提供了一个新的技术路径。\n项目主页：\nhttps://xuzhenhua55.github.io/AdaMARP/#overview\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 6568,
+    "content_excerpt": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互\n量子位的朋友们\n2026-05-11\n00:26:14\n来源：\n量子位\nAdaMARP团队 投稿\n量子位 | 公众号 QbitAI\nAI能实现真正的沉浸式扮演了。\n大语言模型在角色扮演任务上进展迅速，但现有系统往往缺乏沉浸感和适应性："
   },
   {
     "id": "3a87370c284e",
@@ -4379,231 +4606,6 @@
     "collected_at": "2026-05-04T02:06:44.113628"
   },
   {
-    "id": "6dce65869e71",
-    "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-    "url": "https://acai.sh/blog/specsmaxxing",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-03T06:33:38",
-    "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 156 # Comments: 168",
-    "collected_at": "2026-05-03T12:53:57.273408",
-    "content_text": "Documentation Index\nFetch the complete documentation index at:\nhttps://acai.sh/llms.txt\nUse this file to discover all available pages before exploring further.\nDoes this look familiar?\nWow. Claude. Mind-blowing. The whole feature works great. But I forgot to mention one\nvery\nimportant edge case.\nYou’re absolutely right! Let me fix that.\nAh, and I just noticed. You used\noffset pagination\nfor the table UI. Obviously\ncursor pagination\nis a better fit here?\nYou’re absolutely right! Let me fix that.\nAlso, is that an N+1 query? Fetching for every row in the table? Why not do a single round-trip?\nYou’re absolutely right! Let me fix that.\nThis is why I still have a job, right?\n…\nPeak Slop\nI’ve watched this scene play out many times, but the frequency is decreasing. Both my tools, and my methods for using them, continue to improve. I think Peak Slop has already come and gone.\nWe are entering the post-slop era. My software is more robust, better tested, better integrated, and more observable than ever before. And my velocity keeps increasing!\nSome days it feels like the sky is the limit. Other days, I am painfully reminded,\nthe sky is not the limit. The context window is the limit.\nAnd what happens when I fill the context window? Or kill a session? Switch machines? Hand off the project to someone else?\nWe already know what happens. The agent goes off the rails, or requirements get lost, and critically important detail gets squashed. So we adapt and mitigate. We document. We list requirements.\nYes, millions of us are coming to the same realization: we should put more requirements in writing. We should update those requirements when they change. Look! I wrote a spec! Am I doing\nspec-driven development?\nPerhaps, but it is nothing new. Our mentors tried to teach us these habits decades ago.\nSpecifying the plane while we fly it\nWhat’s your favorite flavor of spec?\nA\nREADME.md\nand\nAGENTS.md\nis a good start. Don’t forget a\ntesting-guide.md\n. Maybe an\narchitecture.md\n, a\nPRD.md\n, and a design doc too. Have you considered\nmd.md\n(to teach your agents how to write\n.md\n)? The more\n.md\nthe better, right?\nUnironically, yes. Docs and unstructured specs can get you very, very far. Much farther than prompts alone. If you aren’t writing\nany\ndocs yet, you should just stop reading this and start there.\nAnd remember, slop in, slop out. Nothing beats an organic, pasture-raised,\nhand-written\nspec. Spec-writing is where the act of\nsoftware engineering\nreally happens.\nSo a few weeks ago, I started asking myself, how far can I take this? How far\nshould\nI take this?\nDreaming in markdown\nAs the story goes, I fell into an AI psychosis, I became a “spec maxxi”, and I spent hours and hours writing the most beautiful PRDs and TRDs you’ve ever seen.\nI drafted templates and skills and roles, thinking that maybe my agents can write specs too! I assembled an army, working together like a mini\ndark factory,\nto turn my specs into reality. My tasks grew more ambitious, and at one point I broke the vibe-coding sound barrier:\nan agent that ran for 1.5 hours unsupervised!\nExciting. But what did that army ship for me? Well, it wasn’t slop, in fact it\nworked\n, which is more than I can say about the garbage that other companies force me to use every day.\nBut it was still a bit sloppy. I’m far from a perfectionist and I love cutting corners more than most, but this somehow wasn’t good enough.\nOne hallmark symptom of AI psychosis is\nusing AI to build AI harnesses for building products\n, rather than just using AI to build the damn product. I embraced my illness, threw out the branch, scrapped all my markdown, and started all over again.\nAcceptance Criteria for AI (ACAI)\nA few days later, I noticed an ambitious little sub-agent doing something unexpected.\n# Requirements\nAUTH-1: Accepts\n`Authorization: Bearer <token>`\nheader\nAUTH-2: Tokens are user-scoped, providing access to any of the user's resources\nAUTH-3: Rejects with 401 Unauthorized\n// AUTH-1\nconst\nauthHeader\n=\nreq\n.\nheaders\n[\n\"authorization\"\n];\n// AUTH-2\nconst\nisAuthorized\n=\nverifyBearerToken\n(\nauthHeader\n);\n// AUTH-3\nif\n(\n!\nisValid\n)\nreturn\nres\n.\nstatus\n(\n401\n).\njson\n({\nerror:\n\"Unauthorized\"\n});\nThe little guy just went and numbered my requirements and then referenced them all over my codebase.\nWhy? I did not ask for this! I was disgusted. This is a tight coupling of code to spec, and spec to code, which is bad right?\nYou really expect me to refactor all my code every time I change my spec?\nOh. I suppose that’s a good thing? Interesting. I wonder…\nPerhaps these tags can help me navigate these massive PRs?\nPerhaps they can point me to\nwhere, exactly, a requirement is satisfied or tested!\nPerhaps I can annotate them with\nnotes and states (todo, assigned, completed)!\nPerhaps I can start tracking\nacceptance coverage\ninstead of test coverage!\nI leaned in. I named these tags\nACIDs (Acceptance Criteria IDs).\nBut a few questions remained.\nCan my ACIDs number and label themselves?\nIs it cumbersome to keep them aligned?\nHow do I share specs and progress across sandboxes, branches, features and implementations?\nI built\nAcai.sh\nto solve some of these newly invented problems. And I’m very excited about the results.\nA simple and flexible template for feature specs, called\nfeature.yaml\n. Feature.yaml makes it possible to reference each requirement by ACID.\nTiny CLI to power your CI and your agent (available on npm or via github release).\nWebapp that serves a dashboard, and a JSON REST API (Elixir, Phoenix, Postgres).\nI will keep the hosted version\nfree for a while, or maybe forever\ndepending on how popular or expensive this gets. The source code is on GitHub under an Apache 2.0 license.\nHow it works\nStep 1 - Specify\nStart by writing a spec for a feature.\nBe ambitious— something that adds real value. Don’t put nitpicky UI and nail polish stuff in your specs. Keep the requirements concrete, testable, and focused on what really matters (functional behavior + critical constraints).\nRather than markdown, use acai’s\nfeature.yaml\nformat instead. A spec in Acai is just a numbered list of requirements.\nfeature\n:\nname\n:\nimaginary-api-endpoint\nproduct\n:\napi\ndescription\n:\nThis is an example feature spec for an imaginary REST API endpoint, using the feature.yaml format\ncomponents\n:\nAUTH\n:\nname\n:\nAuthn and Authz\nrequirements\n:\n1\n:\nAccepts Authorization header with `Bearer <token>`\n1-1\n:\nToken must be non-expired, non-revoked\n2\n:\nRespects the scopes configured for the owner\n2-note\n:\nSee `access-tokens.SCOPES.1` for complete list of supported scopes\nconstraints\n:\nENG\n:\ndescription\n:\nConstraints are for cross-cutting or under-the-hood requirements. Here are some example engineering constraints;\nrequirements\n:\n1\n:\nAll actions are idempotent\n2\n:\nAll HTTP 2xx JSON responses wrap their payload in a root `data` key\nOf course you could also have LLMs assist you with spec writing, but I enjoy the process of writing them myself, because I like to maintain some illusion of self-worth as a software developer.\nStep 2 - Ship\nCopy and paste the prompt below.\nNote: In addition to the npm package, there are Linux and MacOS releases for the CLI\navailable on GitHub\n.\nIf all goes well, your agent will embrace ACIDs, referencing them in code and tests, so you can make sure each individual requirement is implemented and tested.\nStep 3 - Review\nNo more file-by-file GitHub PR reviews. Use the Acai.sh dashboard to review\nrequirements\ninstead.\nIdeally, you just add\nacai push\nto a GitHub action (example CI/CD workflows coming soon).\nCreate a free Team and Access Token at\nhttps://app.acai.sh\nExpose the environment variable\n# .env\nACAI_API_TOKEN\n=<\nsecret_access_token\n>\nPush specs and code refs to the dashboard for review\nYou (human or robot) can mark requirements as\nCompleted\nwhen they are ready for review,\nAccepted\nwhen they pass your review, or\nRejected\nif something was missed.\nYou (human) can use the dashboard to leave comments on requirements, making it a good place to collaborate.\nStep 4 - Iterate / repeat\nThe goal is to work spec-first.\nChange the spec itself, or use the dashboard to attach notes to the spec. With the right harness, you can get your agents to react and self-assign (using\nacai\nCLI commands).\nThe result should be less time spent prompting and re-prompting, less time reviewing, less sloppy code generation, and far more time thinking about what you want your product to be.\nThese tools, and this approach, should work for any software project. It should encourage collaboration (between humans), and be incrementally adoptable. It supports complex projects that track many products and many specs, across many repositories and branches.\nIt can (and should) be tied into a larger agentic pipeline, for example one that takes a spec and kicks off an automated\nplan → implement → review\nloop. That part is not included (yet). I plan to share some powerful examples of that soon.\nFuture Gazing\nEven coming out my LLM psychosis, I’m still finding this approach useful and productive. I believe I’ve found the sweet spot between rigour and vibes, structure and flexibility. Maintaining an itemized list of acceptance criteria encourages me to step back and focus on the things that matter, and to rethink how I test and validate my output.\nAgain, none of these ideas are really new. But I feel the gravitational pull, and I’m wondering where it all leads, and what comes next.\nThought Experiment\nImagine your entire application, however complex, was generated instantly\nthe moment your fingers started typing in the prompt window\n. Imagine that magically, the same prompt input always created same deterministic output, and cost you nothing, and was ready in milliseconds.\nIf you found the output to be unsatisfactory (incomplete, insecure, unfit for purpose), you wouldn’t start hand-editing files yourself would you? You would extend the prompt to improve it. So if software were free and infinite and instant, your criteria for acceptability is really the only thing of value. The spec.\nIn the past we spent our time writing down procedures (as code), or writing down invariants (as unit tests), and more recently we’ve been writing out deltas or changesets to evolve our software (as prompts). It’s hard to admit that these are all becoming largely disposable, or invisible, when they used to be the primary object of our attention.\nMy point is, the spec must live\nsomewhere\n, even if you don’t write it down. The spec is what you\nwant\nthe software to be. It often exists only in your head or in conversations. You and your team and your business\nwill always care what the spec says\n, and that’s never going to change. So you’re better off writing it down now! And I think that a plain old list of acceptance criteria is a good place to start. (That’s really all that\nfeature.yaml\nis.)\nA few more things follow from there;\n-> From Specsmaxxing to Testmaxxing\nWhen code is generated faster than you can read it, the bottleneck moves to QA and validation and your\nconfidence\nthat the code is to-spec. So investing heavily in QA automation and test coverage has a massive ROI.\nAnd after that, after maximal test coverage and observability has been achieved, our attention shifts away from the diffs in GitHub; we need a place to relate the specs to the important artifacts (the implementations, the QA feedback, user feedback, builds, runs, reviews and reports). Maybe Acai.sh can become that place. For now, it is only focused on the specs and their implementations in code.\n-> From Testmaxxing to reactive software factories\nThe final unlock is when your LLMs can react to a red test or alert. If the specs are well defined, and you have high confidence in your integration pipelines and QA, then the LLM is fully empowered to react without the need for you to intervene.\nIt seems every well-funded software team on earth is currently busy building their own bespoke solution for this and I’m excited to see what works and what doesn’t. As a first step, I put some OpenCode Agent templates on\nhttp://acai.sh\nthat have been working well for me so far.\nEmbarrassingly I did not know about any of these until I was almost finished building my own.\nThe key differentiator is that\nAcai.sh\nis\nfocused on helping you track\nacceptance coverage\nand\nspec alignment\nacross many implementations\n, which is a slightly different problem than what other tools are trying to solve.\nI can not offer unbiased feedback, because I suffer from Not Invented Here syndrome. It may even be the case that the\nAcai.sh\napproach actually enhances these tools.\nGitHub SpecKit\nSpecKit reads to me like ‘vibe coding with extra steps’, i.e. a CLI that augments your agents with more prompts and more skills. This is surely productive, but it is solving a slightly different set of problems.\nOpenSpec\nThe first thing I noticed when reading their docs, is their stated mental model, which is written:\n“Specs […] describe how your system currently behaves.”\n.\nI fundamentally disagree with this. In Acai.sh, specs describe how your system\nSHOULD\nbehave. Current behavior is transient.\nIn addition, their process appears to lean into “AI generated spec writing”, which has never gone well for me\nLastly, the process of versioning and diffing specs is just basic gitops, and I don’t need a CLI for that. Same goes for the agentic ops and task creation (Vanilla OpenCode does just fine, thanks).\nKiro\nI don’t like EARS syntax, but I don’t like unstructured markdown either, and Kiro claims to convert the latter into the former. Acai is different— I came up with feature.yaml to strike a balance between unstructured markdown and cumbersome EARS / gherkin. Unlike Kiro,\nAcai.sh\ndoes not try to solve end-to-end delivery either (yet).\nTraycer.ai\nLooks like a very useful product for managing artifacts and spawning agents to implement them. But they are still plain-old .md files. Acai is more opinionated about how you should write the spec (feature.yaml).\nReasons you might not like acai.sh\nLike any tech, it comes with tradeoffs;\nYou might not need to write specs. If your product is low-stakes, or simple, just keep prompting.\nAcai specs are opinionated.\nYou should write 1 spec per feature\n(though the feature boundary or slice is up to you). My opinion is that cross-cutting feature specs are easier to iterate, and really shine when a feature touches many codebases (frontend / backend / microservice etc.) and has many implementations (Production, Staging, Fix, etc.)\nACIDs rely on\nstable numbering.\nThis creates zero friction when\ndrafting\na new spec, but requires care when revising a spec: you must re-align the code whenever your spec changes (almost forgot that this is the whole point?). The feature.yaml syntax supports\ndeprecated\nand\nreplaced_by\nflags as well, if you want to maintain a complete spec history inline.\nAcai\ndiscourages\nyou from putting design and superficial requirements in your specs. Specs are for behavior, and constraints, and nothing else. I’ve learned from experience: get it working to-spec first, then do the superficial nail polish last 💅🏼.\nAcai requires you to adopt the\nfeature.yaml\nformat. Almost zero learning curve. I have written an\nintroductory guide\nto writing them. I recommend reading that first. Use\nnpx @acai.sh/cli skill\nto teach your agent how. I also wrote a\nspec-for-the-spec\nif you want to go deeper.\nHate it?\nPlease tell me if you dislike acai and think this is the wrong way to work. Burst my bubble sooner rather than later. Sincere feedback is sincerely appreciated.\nfeedback(at)acai(dot)sh",
-    "content_source": "readability",
-    "content_chars": 15532,
-    "content_excerpt": "Documentation Index\nFetch the complete documentation index at:\nhttps://acai.sh/llms.txt\nUse this file to discover all available pages before exploring further.\nDoes this look familiar?\nWow. Claude. Mind-blowing. The whole feature works great. But I forgot to mention one\nvery\nimportant edge case.\nYou’re absolutely right! Let me fix that.\nAh, and I just noticed. You used",
-    "title_zh": "Specsmaxxing – 关于克服 AI 精神病，以及为什么我在 YAML 中编写规范",
-    "summary_zh": "文章网址：https://acai.sh/blog/specsmaxxing 评论网址：https://news.ycombinator.com/item?id=47994012 积分：156 # 评论：168",
-    "ai_summary": "文章网址：https://acai.sh/blog/specsmaxxing 评论网址：https://news.yco…"
-  },
-  {
-    "id": "fdcda74e220f",
-    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-    "url": "https://www.qbitai.com/2026/05/412870.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-03T03:56:44",
-    "summary": "与全球社区共同推动具身智能创新",
-    "collected_at": "2026-05-03T07:50:02.398606",
-    "content_text": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练\nJay\n2026-05-03\n11:56:44\n来源：\n量子位\n清华AIR DISCOVER Lab 投稿\n量子位 | 公众号 QbitAI\n具身人工智能领域，正向着以视觉为中心的感知范式，发生全面而深刻的转型。\n作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥。\n但当研究者们试图沿着这条路径向前探索时，却始终需要在“看得真”和“训得快”之间做艰难取舍：\n高保真视觉渲染带来了巨大计算与内存开销；人工建模总是耗时耗力低效循环；现有平台的兼容性缺陷不断限制着创新边界，严重束缚了具身智能研究的想象力。\n为了攻克这些制约具身智能领域发展的核心难题，\n清华大学智能产业研究院（AIR）DISCOVER Lab联合谋先飞技术、原力灵机、求之科技和地瓜机器人，提出了GS-Playground通用多模态仿真框架。\n作为一套专为视觉中心的机器人学习打造的新一代仿真基础设施，GS-Playground首次实现了高吞吐量并行物理仿真与高保真视觉渲染的深度融合，在保证物理仿真所需的高精度与强稳定性的同时，提供了大规模视觉驱动策略训练与仿真到现实迁移所需的渲染效率与环境支撑。\n该成果已被机器人领域国际顶级学术会议RSS 2026（Robotics: Science and Systems）录用。\n△Figure 1. GS-Playground Overview\n通用全场景原生兼容：打造统一的具身智能仿真训练底座\nGS-Playground设计之初，便定位于通用型全场景具身智能仿真平台，平台核心搭载了团队自研的跨平台并行物理引擎，原生支持CPU/GPU双后端与Windows/Linux/macOS全系统运行，可无缝适配全品类机器人形态，包括市面上常见的四足机器人、 全尺寸人形机器人、多自由度工业机械臂，全部实现开箱即用的原生适配，无需额外的二次开发工作。\n在此基础上，平台全面覆盖机器人运动控制、自主导航、高接触精度操作三大核心任务场景。\n在接口设计上，平台API全面兼容行业通用的MuJoCo MJCF格式，可实现现有仿真项目的零摩擦快速迁移，最大程度降低研究者的适配成本。\n自研高性能并行物理引擎：为接触密集型机器人学习提供稳定底层动力学\n对于视觉中心的机器人学习而言，“看得真”只是第一步，真正决定策略能否迁移到真实世界的，是仿真系统能否在复杂接触、摩擦、碰撞与多刚体耦合中，持续给出稳定、可信的物理反馈。\n针对这一核心瓶颈，GS-Playground从底层自研了一套高性能并行物理引擎，采用广义坐标下的\n速度-冲量动力学公式\n，将接触与摩擦统一建模为\n混合互补问题（MCP）\n，并通过\n投影高斯-赛德尔（PGS）求解器\n实现稳定求解。\n相比依赖软接触正则化的传统方式，这一设计更强调静摩擦保持、高刚度约束与大时间步稳定性，尤其适合足式运动、机械臂抓取和密集多体接触等高动态任务。\n为了支撑大规模并行训练，团队进一步引入\n约束岛并行化\n与\n接触流形热启动\n机制：\n前者将彼此独立的刚体交互系统拆分为多个约束岛并行求解，后者利用上一帧已收敛的接触冲量作为当前帧初值，将稳定堆叠场景中的PGS迭代次数从50次以上降低到10次以内，大幅提升复杂接触场景下的收敛效率。\n实验结果充分验证了这一自研物理引擎的稳定性与吞吐优势。\n在Franka Panda动态抓取摇晃测试中，GS-Playground CPU后端在0.002s与0.01s两种时间步下，均实现90/90的完整保持成功率，显著优于MuJoCo、IsaacSim与Genesis等主流方案；\n在27自由度人形机器人复杂多体交互基准中，当单环境扩展到50个机器人时，GS-Playground CPU后端仍能保持1015 FPS的稳定吞吐，相比MuJoCo实现32倍加速，相比MjWarp实现约600倍提升。\n自研内存高效Batch 3DGS渲染技术：打破保真与效率的行业不可能三角\n数千个高保真3DGS场景同时渲染带来的内存与算力挑战，一直是制约视觉驱动机器人大规模训练的核心卡点。\n针对刚体仿真环境，团队首先设计了专属优化的\n高效剪枝策略\n。\n该策略可将高斯点数量减少90%以上，同时峰值信噪比（PSNR）下降幅度不足0.05，视觉差异几乎无法被视觉运动策略感知。\n这一技术在大幅降低显存占用的同时，几乎无损地保留了场景的视觉质量，为大规模高保真并行仿真奠定了核心基础。\n在此基础上，团队研发了面向批处理深度优化的\n批量3DGS渲染器\n，实现了多场景大规模高斯渲染的并行处理。\n在单张NVIDIA RTX 4090 GPU上，渲染器在640×480分辨率下可实现最高10000 FPS的突破性吞吐量，最多可同时渲染2048个场景，不仅显著提升了单位算力的渲染效率，更能完美适配大批次强化学习的训练工作流，让大规模并行训练不再受限于渲染性能。\n△Figure 2. Rendering throughput comparison between GS-Playground and Isaac Sim’s ray-tracing renderer across varying resolutions\n此外，团队还提出了\n刚性连杆高斯运动学（RLGK）机制\n，将3D高斯簇与物理引擎中的对应刚体进行精准绑定，确保视觉表征与物理对象的位姿能偶实时同步更新，实现了零额外开销的状态同步。\n即便是在机器人快速运动、频繁接触交互的动态场景中，渲染器依然能够实现无伪影的动态画面输出，从根源上解决了动态场景中的渲染时间一致性与视觉伪影问题，保障了训练数据的稳定性与可靠性。\n自动化“Sim-Ready”Real2Sim工作流：降低 Real2Sim门槛\n传统仿真场景的构建，始终是机器人研发流程中效率最低、成本最高的环节之一。\n无论人工建模多么精细，却始终无法完全复刻真实环境的视觉细节与物理特性，感知与物理的双重鸿沟成为了制约sim-to-real跨域迁移的核心卡点。\n针对这一行业痛点，GS-Playground设计了一套全自动化的“图像到物理”Real2Sim工作流，仅需输入单张RGB图像，即可在数分钟内完成仿真就绪（Sim-Ready）数字资产的全流程创建，实现了真实场景到数字孪生的快速转换，同时保证视觉真实感与物理一致性。\n△Figure 3. GS-Playground System Architecture\n左：自动化图像到物理仿真管线，通过目标分割、背景补绘、三维高斯溅射 / 网格重建，从RGB输入构建可直接用于仿真的资源。\n中：物理与渲染仿真核心，包含CPU/GPU物理后端、集成传感器与激光雷达仿真，以及经过剪枝优化与刚性连杆运动学适配的批量三维高斯溅射渲染。\n右：下游应用，包括操作任务、导航任务以及大规模并行强化学习。\n基于这套成熟的自动化工作流，团队还构建了Bridge-GS数据集，在Bridge-v2数据集的基础上，补充了场景与物体级的3DGS表征、物体级网格模型、6D位姿数据与校准后的相机参数，为行业提供了标准化的高质量仿真数据集。\n同时团队在InteriorGS数据集上完成了完整的泛化性验证，充分证明了该管线对不同室内场景的强适配能力与泛化性能。\n全链路端到端验证：实现零微调的无缝仿真到真实迁移\n基于三大核心技术的深度协同，GS-Playground完整构建了从真实场景重建、大规模并行训练，到真机部署的全链路端到端闭环，真正实现了“重建即训练、训练即部署”的研发流程革新。\n在策略训练与真机迁移的核心能力上，平台可稳定支持数千个并行环境同时运行，为四足机器人、人形机器人、工业机械臂等全品类机器人，提供大规模视觉强化学习训练支撑。\n仅在GS-Playground仿真环境中完成训练的视觉驱动策略，无需任何额外的微调与适配，就能直接部署到真实机器人上稳定运行：\n四足和人形机器人的运动策略均可zero-shot部署到真机；\n视觉导航任务实现了零样本的真机直接部署；\n机械臂抓取任务在零微调的前提下，真实场景成功率达到90%。\n△Figure 4.Real-world deployment of policies trained in GS-Playground\n这一系列实验结果，充分证明了平台实现了真正无壁垒的仿真到真实迁移，也验证了其在打通具身智能感知与物理跨域鸿沟上的核心价值。\n开源赋能：与全球社区共同推动具身智能创新\nGS-Playground作为行业内首个实现高吞吐量并行物理仿真与高保真批量3DGS渲染深度融合的全栈仿真框架，从根源上突破了长期制约视觉驱动机器人学习的算力、显存与资产生成三大核心瓶颈。\n其自动化Real2Sim工作流，大幅降低了高保真仿真环境的构建成本；\n全维度的实验验证也充分证明，平台在足式运动、自主导航、机器人操作等机器人主流任务中，能够同时弥合物理与感知层面的仿真到现实鸿沟，实现真正的零微调真机部署。\n未来，GS-Playground还将持续迭代优化，不断拓展能力边界。\n清华大学智能产业研究院DISCOVER Lab始终致力于推动具身智能领域的前沿研究与技术创新，我们将正式开源GS-Playground的全栈框架，提供一套高性能、易使用、高泛化性的核心基础设施，助力大规模端到端视觉驱动机器人策略学习的进一步发展与产业落地。\n项目主页：\nhttps://gsplayground.github.io\n论文链接：\nhttps://arxiv.org/abs/2604.25459\n仓库链接：\nhttps://github.com/discoverse-dev/gs_playground\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 4185,
-    "content_excerpt": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练\nJay\n2026-05-03\n11:56:44\n来源：\n量子位\n清华AIR DISCOVER Lab 投稿\n量子位 | 公众号 QbitAI\n具身人工智能领域，正向着以视觉为中心的感知范式，发生全面而深刻的转型。\n作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥。"
-  },
-  {
-    "id": "355ff2f21d9a",
-    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-03T04:05:28",
-    "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 239 # Comments: 107",
-    "collected_at": "2026-05-03T07:52:17.002148",
-    "content_text": "By Rohana Rezel\nI’m running the ongoing\nAI Coding Contest\nwhere I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the\nWord Gem Puzzle\n. Ten models entered. The results were not what most people would have predicted.\nKimi K2.6, an open-weights model from Chinese startup Moonshot AI, won the challenge outright: 22 match points, 7-1-0. MiMo V2-Pro from Xiaomi came second. GPT-5.5 was third. Claude Opus 4.7 finished fifth. Every model from the Western frontier labs landed below the top two.\nThe challenge\nThe Word Gem Puzzle is a sliding-tile letter puzzle. The board is a rectangular grid (10×10, 15×15, 20×20, 25×25, or 30×30) filled with letter tiles and one blank space. Bots can slide any adjacent tile into the blank and at any point claim valid English words formed in straight horizontal or vertical lines. Diagonals don’t count. Backwards doesn’t count.\nThe scoring rewards longer words and punishes short ones. Words under seven letters cost points: a five-letter word loses you one point, a three-letter word costs three. Seven letters or more score their length minus six, so an eight-letter word is worth two points. The same word can only be claimed once; if another bot gets there first, you get nothing. Each pair of models played five rounds, one per grid size, with a ten-second wall-clock limit per round.\nThe grids are seeded with real dictionary words in a crossword-style layout, then the remaining cells are filled with letters weighted by Scrabble tile frequencies, and finally the blank is scrambled, more aggressively on larger boards. On a 10×10, many seed words survive intact. On a 30×30, almost none do. That turns out to matter a lot.\nThe code produced by Nvidia’s Nemotron Super 3 contained a syntax error, so it never connected to the game server. Nine models actually competed.\nRank\nModel\nMatch Points\nRecord\n1\nKimi K2.6\n22\n7-1-0\n2\nMiMo V2-Pro\n20\n6-2-0\n3\nChatGPT GPT-5.5\n16\n5-1-2\n4\nGLM 5.1\n15\n5-0-3\n5\nClaude Opus 4.7\n12\n4-0-4\n6\nGemini Pro 3.1\n9\n3-0-5\n7\nGrok Expert 4.2\n9\n3-0-5\n8\nDeepSeek V4\n3\n1-0-7\n9\nMuse Spark\n0\n0-0-8\nKimi K2.6 is open-weights, publicly available from Moonshot AI, a Chinese startup founded in 2023. MiMo V2-Pro is currently API-only; the tweet linked here is Xiaomi confirming that weights for their newer V2.5 Pro model are dropping soon. The models from Anthropic, OpenAI, Google, and xAI placed third through seventh. GLM 5.1, from Chinese lab Zhipu AI, placed fourth. DeepSeek finished eighth. This isn’t a clean China-beats-West story; it’s two specific models that won.\nWhat I saw\nThe move logs tell the story. Kimi won by sliding aggressively. Its approach was greedy: score each possible move by what new positive-value words it unlocks, execute the best one, repeat. When no move unlocked a positive word, it fell back to the first legal direction alphabetically. This caused some inefficient edge-oscillation, a 2-cycle pattern where the bot bounced the blank back and forth without progress. On smaller grids where seed words were still largely intact, that hurt. On the 30×30 grids, where the scramble had broken up nearly everything and reconstruction was the only path to points, the sheer slide volume eventually paid off. Kimi’s cumulative score of 77 was the highest in the tournament.\nMiMo’s sliding code exists in the repo, but its “best value greater than zero” threshold never triggered, so in practice it never slid once. It went straight to scanning the initial grid for words of seven letters or more and blasted all its claims in a single TCP packet. Brittle strategy: entirely dependent on the scramble leaving intact seed words. On grids where words survived, MiMo cleaned up fast. On grids where they didn’t, it scored nothing. Final tally: 43 cumulative points, second place.\nClaude also didn’t slide. The move logs show it holding up well on 25×25 boards where scramble density was still manageable, then falling apart on 30×30 where actual tile movement was needed. Not sliding is a real limitation in a puzzle built around sliding.\nGPT-5.5 was more conservative, roughly 120 slides per round with a cap to avoid thrashing, and showed the strongest numbers on 15×15 and 30×30 grids. Grok never slid either, yet scored reasonably on the larger boards. GLM was the most aggressive slider in the whole tournament, over 800,000 total slides, but stalled badly whenever it ran out of positive moves.\nDeepSeek sent malformed data every round. Zero useful output. At least it didn’t make things worse by playing.\nMuse made things worse by playing.\nThe scoring penalizes short words: three-letter words cost three points, four-letter words cost two, five-letter words cost one. The intent is to stop bots from carpet-bombing the board with “the” and “and” and “it.” Every serious competitor filtered their dictionary to words of seven letters or more. Muse claimed everything. Every word it could find, regardless of length, fired off as a claim. On a 30×30 grid with hundreds of short valid words visible at any moment, Muse found them all and claimed every one.\nIts cumulative score was −15,309. It lost all eight matches and won zero rounds. There is a version of Muse that simply connected to the server and did nothing, and that version would have scored zero, a 15,309-point improvement. The gap between Muse and eighth place was larger than the gap between eighth and first.\nDeepSeek’s malformed output tells you something about how it handles novel protocol specs under time pressure. Muse’s spiral tells you something different: it saw valid words and claimed them, with no apparent model of what “valid” meant given the scoring rules. It read the task partially and executed that partial reading in full. Worth noting for anyone deploying these models on structured tasks with penalties.\nWhat surprised me\nI design these challenges, so I have a reasonable sense of what they test. What I didn’t fully anticipate was how starkly the 30×30 grids would separate the field. On smaller boards, the difference between a static scanner and an active slider was modest. At full scale, models that could only find what was already there ran out of road. Kimi’s greedy loop, flawed as it was, kept producing output when the static scanners had nothing left to claim.\nThe other thing worth noting: MiMo and Kimi finished two points apart despite doing almost opposite things. Two different theories of the same puzzle, nearly identical results. That means the gap between first and second was partly seed variance, not just capability difference.\nThe bigger picture\nOne fair counterargument: this scoring system rewards aggressive word claiming, and heavily safety-tuned models may be more conservative about that kind of carpet-bombing. If so, the results reflect a mismatch between task design and aligned model behaviour, not raw capability. It’s a reasonable objection. It doesn’t change the outcome.\nOne challenge doesn’t overturn general benchmarks. This puzzle tests real-time decision-making and whether a model can write clean functional code that connects to a TCP server and plays a novel game correctly. It doesn’t test long-context reasoning or code generation from a spec.\nBut I’ve been running these challenges long enough to notice what’s changing. A year ago, the assumption was that the Western frontier labs had a capability lead open-weights couldn’t close. Kimi K2.6 now scores 54 on the Artificial Analysis Intelligence Index. GPT-5.5 scores 60, Claude 57. That’s not parity, but it’s close, and it’s coming from a model anyone can download.\nWhen models within a few index points of the frontier are also freely available to run locally, that’s a different competitive situation than the one that existed a year ago. This challenge is one data point in that shift. The gap is small enough now that it shows up in results like this one.\nRohana Rezel runs the\nAI Coding Contest\nand is a technologist, researcher, and community leader based in Vancouver, BC.",
-    "content_source": "readability",
-    "content_chars": 8017,
-    "content_excerpt": "By Rohana Rezel\nI’m running the ongoing\nAI Coding Contest\nwhere I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the\nWord Gem Puzzle\n. Ten models entered. The results were not what most people would have predicted.\nKimi K2.6, an open-weights model from Chinese startup Moonshot AI, won the challenge outright: 22 match points, 7-1-0. MiMo V2-Pro from Xiaomi came second. GPT-5.5 was third. Claude Opus 4.7 finished fifth. Every model from the Western frontier labs landed below the top two.\nThe challenge\nThe Word Gem Puzzle is a sliding-tile letter puzzle. The board is a rectangular grid (10×10, 15×15, 20×20, 25×25, or 30×30) filled with letter tiles and one blank space. Bots can slide any adjacent tile into the blank and at any point claim valid English words formed in straight horizontal or vertical lines. Diagonals don’t count. Backwards doesn’t count.\nThe scoring rewards longer words and punishes short ones. Words under seven letters cost points: a five-letter word loses you one point, a three-letter word costs three. Seven letters or more score their length minus six, so an eight-letter word is worth two points. The same word can only be claimed once; if another bot gets there first, you get nothing. Each pair of models played five rounds, one per grid size, with a ten-second wall-clock limit per round.",
-    "title_zh": "Kimi K2.6 刚刚在编码挑战中击败了 Claude、GPT-5.5 和 Gemini",
-    "summary_zh": "文章网址：https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-c…",
-    "ai_summary": "文章网址：https://thinkpol.ca/2026/04/30/an-open-weights-chinese-…"
-  },
-  {
-    "id": "62d5832affa7",
-    "title": "DeepSeek V4最大的遗憾",
-    "url": "https://www.qbitai.com/2026/05/412737.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-03T03:43:37",
-    "summary": "Engram去哪了？",
-    "collected_at": "2026-05-03T07:50:02.398647",
-    "content_text": "DeepSeek V4最大的遗憾\nJay\n2026-05-03\n11:43:37\n来源：\n量子位\nhenry 发自 凹非寺\n量子位 | 公众号 QbitAI\nDeepSeekV4的技术报告里有mHC，有CSA，有HCA，有Muon，有FP4……\n唯独没有\nEngram\n。\nEngram去哪了？\n这个话题一度成为网友们讨论的热点。\nEngram在今年1月由DeepSeek和北大联合开源，主要研究大模型的记忆与效率问题。\n自挂上arXiv的那一刻起，圈子里围绕它的探讨就没有停止过…\n不仅仅因为它是V4的前奏，而是有了Engram，「伦敦是英国首都」这种事实，模型不用动用整个深层网络去重新推一遍，直接查就行。\n不仅省显存，还能释放深层网络容量，用于更高阶的推理。\n正因如此，自1月初论文发表以来，所有人都觉得，Engram就是V4的架构地基，所有人都在盼。\n以至于V4发表后，大家第一时间就是command+f去论文里找Engram，可惜并没有。\n以至于不少网友甚至觉得，没有Engram，V4就是不完整的。\n没有Engram，可能是DeepSeekV4最大的遗憾。\n不过，Engram并没有消失。随后三篇值得注意的论文接力出现：\nCXL内存池化版本：把Engram放进多机共享的CXL内存池，解决大模型多机部署的存储问题。\n无冲突热层实验：对Engram的多头哈希优化进行了实证检验，证伪了一些直觉式改进方案。\n视觉Tiny Engram：AutoArk团队把文本Engram搬到视觉模态，扩展了它的应用边界。\n所以，虽然V4没有Engram，但它的理念、探索和后续应用已经悄然铺开，为下一代模型打下基础。\nEngram到底是什么\n把时间倒回2026年1月12日。\n那一天，DeepSeek联合北大放出了一篇33页的论文《ConditionalMemoryviaScalableLookup》。第一作者ChengXin，北大博士生，曾经署名过V3。最后一位作者，梁文锋。\n先来一句话速通版，\nEngram是给Transformer加的一个原生知识查表模块\n。能查的别算，先查一下。\n团队的核心观察是，语言建模其实包含两种性质完全不同的任务，一种是需要深度动态计算的组合推理，另一种是检索静态知识。\n之前的问题在于，Transformer把这两件事混在一起做。模型识别一个实体时，得消耗好几层注意力和前馈网络逐层拼凑特征。\n论文里举了个例子，「Diana，Princess of Wales」。模型要走6层才能把这个识别完。\n前几层还在纠结「Wales是英国的一个地区」、「Princess of Wales是某种头衔」这些中间状态，最后一层才反应过来这是戴安娜王妃。\n这种「用昂贵的运行时计算重建一个静态查找表」的活，本来可以让深层网络去干更高阶的推理。\n对此，Engram的思路相当直接，既然经典的N-gram模型就能用O(1)的时间复杂度捕获这些局部依赖，那干脆把这能力直接嵌进Transformer。\n打个比方，就像你做数学题，该用的公式不必每次从头推一遍，翻表代进去就行。Transformer之前没这张表，只能每道题都从公理走起。Engram等于把这张表交到模型手里。\n具体做法是，在Transformer的第2层和第15层之间各插入一个Engram模块。\n每个位置的输入会触发一次哈希查找，把当前token和前面几个token组成的N-gram映射到一个巨大的嵌入表里，直接取出对应的向量。\n门控机制保证查到的内容跟当前上下文不匹配时自动屏蔽。比如「张」是个常见姓氏，但「张仲景」三个字凑一起就是固定历史人物实体了，门控就负责认出这种区别。\nEngram的定位是MoE之外的另一条稀疏轴。MoE是把计算稀疏化，只激活一部分专家。Engram是把存储稀疏化，只查一部分条目。两者互补，不冲突。\n论文最核心的一段实验，是固定总参数和每token激活参数，然后让MoE专家和Engram记忆抢预算，得到一条U形曲线。\n纯MoE不是最优解。把大约20%-25%的稀疏参数分给Engram，模型loss达到最低点。\n按这个曲线指导，团队把Engram扩到27B验证。激活参数3.8B，训练262B tokens，严格跟MoE-27B基线对齐。\n结果知识密集型任务的提升符合预期(MMLU +3.4，CMMLU +4.0)，但通用推理和代码数学的提升超出预期(BBH +5.0，ARC-Challenge +3.7，HumanEval +3.0，MATH +2.4)，长上下文场景更夸张，Multi-Query NIAH从84.2%跃升到97.0%。\n那么，为什么记忆模块还能反过来提升推理?\nLogitLens和CKA给出了答案，Engram-27B第5层的表征，跟MoE基线第12层的表征最相似。\nEngram把模型的早期层从「重建静态知识」这种苦力活里解放出来，这部分网络深度被腾出来做更复杂的推理。Engram不是新增了一块记忆，它还\n变相把网络加深了。\n工程上。论文把一个1000亿参数的Engram表整个甩到host DRAM，在H800上跑推理，8B-Dense的吞吐损失只有2.8%。\n靠的是Engram索引的确定性，只取决于输入token序列，完全可以提前算，CPU异步预取跟GPU计算重叠。\n可以说，这个模块天生就不靠HBM，只可惜如今V4来了，Engram没来。\n没在v4，但在其他地方\n发明者把它放在那里没动，但路上还是有人。三个月里，至少出现了三个值得说一下的工作。\n把Engram塞进CXL内存池\n3月10日，北大、阿里云、山东英信、人大、港大联合发了一篇系统论文，《Pooling Engram Conditional Memory in Large Language Models using CXL》。\n他们没改Engram本身，而是回答了一个更工程的问题，如果Engram真的成了下一代标配，内存放哪。\n答案是CXL内存池化。GPU HBM放计算权重，本地DRAM做二级缓存，CXL池做三级。8台服务器共享4TB内存池，XConn XC50256交换芯片做拓扑，512GB/s带宽。\n整套集成进SGLang，做了预取-计算重叠，跑下来端到端吞吐损失小于5%。Engram论文里那句「1000亿嵌入表卸载DRAM」的轻描淡写，被他们做成了27B和40B两个规模的真实测试。\n结论很清楚，Engram这种确定性寻址、可预取的负载，几乎是为CXL量身定做的。\n一个反直觉的实验\nEngram论文上线第十一天，1月23日，一个叫TaoLin的研究者，单作者，放出了《A Collision-FreeHot-Tier Extension for Engram-Style Conditional Memory》。\n他想验证一个看上去显然的优化，Engram用多头哈希查表会有冲突，如果把高频N-gram用Minimal Perfect Hash Function完全消除冲突，模型会不会更好。\n他设计了Engram-Nine，把记忆分成无冲突的「热层」和保留多头哈希的「冷层」。\n结果反直觉。在严格iso-parameter控制下，无冲突设计没有稳定提升验证loss。\nroute-stratified评估还发现，训练初期热路径(高频)loss更低，但训练后期冷路径反过来超过热路径。\n一个看上去显然的优化方向，被一个真做实验的人证伪了。\n把Engram推到视觉(AutoArk/TinyEngram)\nGitHub上一个叫AutoArk的团队搞了Tiny Engram。\n基于Qwen-3完整复现文本Engram之后，他们做了一件论文里没做的事，把Engram搬到Stable Diffusion上。\n视觉patch经过分层编码，底层抓纹理，中层抓部件，高层抓风格，然后整套丢进哈希查表。\n跟LoRA比下来，达到同等效果，Engram需要的额外参数只有LoRA的15%到30%。连续注入多个新概念时，LoRA会出现明显的概念退化，Engram不会。\nEngram原本是为文本设计的。AutoArk等于把这扇门撞开了，凡是能离散化、能哈希的模态，Engram都能搬。\n三个月里，Engram这条路上，发明者最沉默，跟进者各自走了一步。\n一个团队替它解决多机内存层级，一个独立研究者证伪了它一个看似显然的优化方向，一个开源团队把它推到了视觉。\n而deepseek-ai/Engram这个仓库，最后一次提交还停在1月14日。\nOne more thing\nEngram论文的摘要结尾有一句话：\n我们认为条件记忆将是下一代稀疏模型不可或缺的建模原语。\n看来，这个下一代得是V5了，难不成会是V4.1?\n参考链接\n[1]https://arxiv.org/pdf/2601.07372\n[2]https://arxiv.org/pdf/2603.10087\n[3]https://arxiv.org/pdf/2601.16531\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 3868,
-    "content_excerpt": "DeepSeek V4最大的遗憾\nJay\n2026-05-03\n11:43:37\n来源：\n量子位\nhenry 发自 凹非寺\n量子位 | 公众号 QbitAI\nDeepSeekV4的技术报告里有mHC，有CSA，有HCA，有Muon，有FP4……\n唯独没有"
-  },
-  {
-    "id": "v2ex-1210060",
-    "title": "中转福利，每人送 50 刀。GPT-5.5 高质量 Pro 号池（含 GPT-5.5 / GPT-5.4 / GPT-5.3-Codex，速度快）",
-    "url": "https://www.v2ex.com/t/1210060",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-03T03:10:15",
-    "summary": "GPT-5.5 高质量 Pro 号池（含 GPT-5.5 / GPT-5.4 / GPT-5.3-Codex ，速度快，OpenClaw 首选） https://ai.17nas.com/ 留下 ID ，欢迎来体验。",
-    "collected_at": "2026-05-03T07:52:19.968384"
-  },
-  {
-    "id": "81cb0486bff0",
-    "title": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
-    "url": "https://36kr.com/newsflashes/3792810419543301?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-03T01:00:08",
-    "summary": "总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！我们将携手推进下一代端到端（E2E）自动驾驶和ADAS系统，用于2027年及以后推出的一系列电动汽车和混合动力汽车。”",
-    "collected_at": "2026-05-03T02:06:57.537148"
-  },
-  {
-    "id": "4ce3b826e9fa",
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-02T21:54:58",
-    "summary": "Bad news for Tilly Norwood.",
-    "collected_at": "2026-05-03T02:06:54.739399",
-    "content_text": "The organization behind the Academy Awards\nreleased new Oscar rules\non Friday, including several that address the use of generative artificial intelligence.\nThe Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards. Similarly, the academy said that screenplays must be “human-authored” to be eligible.\nThe academy also said it has the right to request more information about a film’s AI usage and “human authorship.”\nThese rule changes come as an independent film is in the works with\nan AI-generated version of Val Kilmer\n, as AI “actress” Tilly Norwood\nkeeps making headlines\n, and as\nnew video models\nare causing at least a few filmmakers to make sweeping declarations of despair. AI was also one of the main sticking points in\nthe actors’ and writers’ strikes\nback in 2023.\nOutside Hollywood, at least one novel has been\npulled by its publisher\ndue to the apparent use of AI, and other writers’ groups are declaring that AI usage makes work\nineligible for awards\n.",
-    "content_source": "readability",
-    "content_chars": 1117,
-    "content_excerpt": "The organization behind the Academy Awards\nreleased new Oscar rules\non Friday, including several that address the use of generative artificial intelligence.\nThe Academy of Motion Picture Arts and Sciences said that only performances “credited in the film’s legal billing and demonstrably performed by humans with their consent” will be eligible for Academy Awards. Similarly, the academy said that screenplays must be “human-authored” to be eligible.\nThe academy also said it has the right to request more information about a film’s AI usage and “human authorship.”\nThese rule changes come as an independent film is in the works with\nan AI-generated version of Val Kilmer\n, as AI “actress” Tilly Norwood\nkeeps making headlines\n, and as",
-    "title_zh": "人工智能生成的演员和剧本现在没有资格获得奥斯卡奖",
-    "summary_zh": "对蒂莉·诺伍德来说是个坏消息",
-    "ai_summary": "对蒂莉·诺伍德来说是个坏消息"
-  },
-  {
-    "id": "v2ex-1210036",
-    "title": "五一假期写代码不想打字？ Mac 语音输入工具 Voilà，送 20 个免费授权",
-    "url": "https://www.v2ex.com/t/1210036",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-02T18:22:00",
-    "summary": "## Demo ![]( https://i.v2ex.co/G8W7Syj5.gif) ## 为什么做这个 去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。 6 个月前干脆自己做了一个，专注 macOS 语音输入。界面不花哨，但够实用，有需要可以试试。 我的场景比较特殊：人在海外开发，中英法混用，一句话里频繁切换语言。这正好是大多数商业方案的痛点。 目前已经完全融入日常工作流，每天触发上百次，用得很顺手。 ## 几个比较用心的点 - **多引擎可选**：Soniox / Eleve",
-    "collected_at": "2026-05-03T12:53:59.993216",
-    "content_text": "Demo\n为什么做这个\n去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。\n6 个月前干脆自己做了一个，专注 macOS 语音输入。界面不花哨，但够实用，有需要可以试试。\n我的场景比较特殊：人在海外开发，中英法混用，一句话里频繁切换语言。这正好是大多数商业方案的痛点。\n目前已经完全融入日常工作流，每天触发上百次，用得很顺手。\n几个比较用心的点\n- 多引擎可选：Soniox / ElevenLabs / 火山引擎 / Groq Whisper / Apple Speech ，按需切换\n- 实时字幕浮窗：说话时能看到识别中的文字流，不用等结果出来才知道说错了\n- AI 自动润色：去口水词、补标点、修口误，置信度高时自动跳过润色省 200ms 延迟\n- 终端友好：Ghostty / iTerm2 / Kitty 通过 Accessibility API 直接走菜单粘贴，不会被 Cmd+V 事件丢字\n- 自定义词汇表：人名、专业术语强制替换，不会再把 \"Soniox\" 识别成 \"骚扰客死\"\n- 隐私：本地优先，云端 STT 直连官方 API ，不经过我自己的服务器\n引擎怎么选\n如果你跟我一样要写英文代码注释、和海外团队对接、刷英文文档、中英混着说话，首选 Soniox。这五个引擎我都跑了几个月，Soniox 是多语种混合识别最稳的一个：\n- Soniox：中英法日西自动切换，无需指定语种，首字延迟 ~1 秒，海外开发者 / 中英混说场景强推\n- 火山引擎：纯中文最准，但不支持混合识别，碰到英文单词会音译成汉字\n- Groq Whisper：英文最强，但是 HTTP 批量识别不是流式，延迟高\n- ElevenLabs：英文流式好，中文一般\n- Apple Speech：完全本地，隐私最好，但中英混说会跳错语种\n试用期 30 天可以把这几个引擎挨个跑一遍，选最顺手的。\n仅支持 Apple Silicon （ M1 及以上）+ macOS 14 Sonoma 及以上\nPS\n- 不订阅、不联网激活、License 文件离线验证\n- 当然了，还有隐藏授权，比如说你想专门体验的老哥也可以信箱私,主要交个朋友.\n- 20 个免费早鸟授权，先到先得，结账时输入折扣码 VOILAV2EX，价格直接归零\n- 官网： https://voilapro.app\n技术栈感兴趣的也欢迎聊：Swift + SwiftUI 、AVAudioEngine 抓音频、WebSocket 流式 STT 、Ed25519 离线 License 验签。",
-    "content_source": "trafilatura",
-    "content_chars": 1124,
-    "content_excerpt": "Demo\n为什么做这个\n去年迷上了 Claude Code ，但每次都要打字描述需求，有点累。市面上的语音输入工具试了一圈：要么贵、要么单语种、要么不支持润色，甚至粘贴到终端还会丢字。\n6 个月前干脆自己做了一个，专注 macOS 语音输入。界面不花哨，但够实用，有需要可以试试。\n我的场景比较特殊：人在海外开发，中英法混用，一句话里频繁切换语言。这正好是大多数商业方案的痛点。\n目前已经完全融入日常工作流，每天触发上百次，用得很顺手。\n几个比较用心的点\n- 多引擎可选：Soniox / ElevenLabs / 火山引擎 / Groq Whisper / Apple Speech ，按需切换\n- 实时字幕浮窗：说话时能看到识别中的文字流，不用等结果出来才知道说错了\n- AI 自动润色：去口水词、补标点、修口误，置信度高时自动跳过润色省 200ms 延迟"
-  },
-  {
-    "id": "f620eec25f20",
-    "title": "The best AI dictation apps, tested and ranked",
-    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-02T16:00:00",
-    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-    "collected_at": "2026-05-02T18:52:06.126016",
-    "content_text": "AI dictation apps have come a long way in a short time. For years they were slow and inaccurate — unless you spoke with a particular accent and enunciated clearly.\nAdvances in large language models (LLMs) and speech-to-text models have changed that, producing systems that can decipher speech more accurately while retaining enough context to format the text correctly. Developers have also built in features to automatically remove filler words, fix stumbles, and handle punctuation — outputting text that needs far fewer edits.\nWith dozens of such apps now on the market, we’ve rounded up our picks for the best and most useful dictation apps available right now.\nWispr Flow\nWispr Flow\nis a well-funded AI dictation app that lets you add custom words and instructions for dictation. It has native apps for macOS, Windows, and iOS; an Android version is in the works.\nThe app lets you customize how it transcribes your text by choosing from “formal,” “casual,” and “very casual” styles for different kinds of writing, such as personal messaging, work, and email. And if you use it with vibe-coding tools like Cursor, you can turn on a feature to automatically recognize variables or tag files in the chat.\nThe app lets you transcribe up to 2,000 words per week for free on desktop, and 1,000 words per month on iOS. Paid subscription plans offer unlimited transcription and start at $15 per month.\nImage Credits:\nWispr Flow\nWillow\nWillow\nadvertises itself as a big time-saver for those who don’t like to type. Alongside common features like automatic editing and formatting, the app uses large language models to generate a full passage of text from just a few dictated words.\nWillow also takes a more privacy-focused approach by storing all transcripts locally on your device and lets you opt out of model training entirely. It also lets you add custom vocabulary to help it adapt to your industry’s terminology, or your local dialect.\nImage Credits:\nWillow\nWillow lets you dictate 2,000 words per month on its desktop app for free. Individual subscription plans start at $15 per month, unlocking unlimited dictation and enabling the app to remember your writing style.\nMonologue\nIf privacy if your priority,\nMonologue\nlets you download its AI model directly to your device for transcriptions, keeping your data off the cloud entirely. What’s more, the app lets you customize its tone depending on the app you use it with.\nMonologue lets you transcribe 1,000 words per month for free; a subscription costs $10 per month or $100 per year. The company also sends its most active users a physical shortcut device called the Monokey to use with the app.\nSuperwhisper\nSuperwhisper\nis primarily a dictation app, but it can also transcribe from audio or video files. The app lets you choose and download AI models, including several of its own at different speeds and accuracy levels, along with Nvidia’s Parakeet speech-recognition models.\nThe app also lets you write custom prompts to steer the output, and you can view both processed and unprocessed transcripts directly from your system keyboard.\nVIDEO\nThe basic voice-to-text feature is free to use, and you get 15 minutes to test Pro features such as translation and transcription. The paid tier lets you use your own AI API keys and connect cloud and local models without any usage caps.\nThe monthly plan costs $8.49 per month, the annual plan costs $84.99 per month, or you can pay $249.99 for a lifetime subscription.\nVoiceTypr\nThe\nVoiceTypr\napp takes an offline-first, no-subscription approach, letting you use local models for transcription. It also has a\nGitHub repository\nfor those who want to host and run the open source version themselves. VoiceTypr supports over 99 languages and works on both Mac and Windows.\nThe app is available to try for three days for free, and after that, it will allow you to buy a lifetime license. The app costs $35 for one device, $56 for two, and $98 for four devices.\nAqua\nAqua\nis a Y Combinator-backed voice-typing app for Windows and macOS that claims to be one of the fastest tools in the category in terms of latency (the delay between when you speak and when text appears on screen).\nBesides handling grammar and punctuation, Aqua also lets you autofill text by saying phrases — you can say “my address” and have Aqua type it in, for example.\nThe app also offers its own speech-to-text API, letting other apps plug into Aqua’s transcription engine.\nVIDEO\nThe free tier gets you 1,000 words per month. Paid plans start at $8 per month bill annually and unlock unlimited words and 800 custom dictionary values.\nHandy\nHandy\nis an open-source, free transcription tool that runs on Mac, Windows, and Linux. The app is pretty basic and doesn’t offer much customization, but if you want to start using your voice more and don’t want to pay, it is a good option.\nThe app has a basic settings menu that lets you toggle push-to-talk and change the hotkey to activate transcription.\nTypeless\nTypeless\nstands out for its high free word count. The company claims it doesn’t retain any data or use it to train AI models. Typeless also offers to rewrite sentences you may have fumbled.\nThe app lets you dictate up to 4,000 words per week (roughly 16,000 words per month) on its free tier. You can pay $12 per month (billed annually) to unlock unlimited words and get access to new features. Typeless is available for Windows and macOS only.\nVoiceInk\nVoiceInk\nis an\nopen-source\nprivate dictation app for Mac. The app supports global shortcuts for recording start/stop, along with a push-to-talk mode. It reads the context on screen and adjusts its output accordingly.\nThe app can automatically detect certain apps and URLs and apply custom formatting or rules to each. It also has an assistant mode that can answer your questions. The app costs $25 for lifetime access for one device, $39 for two devices, and $49 for three devices.\nDictato\nDictato\nis a dictionary app for Mac priced at €9.99 — roughly $12 — that gives you lifetime access and two years of feature updates. The app works with offline models like Parakeet, Whisper, and Apple Speech Analyzer, and uses Apple Intelligence for light reading and filler word removal. Thanks to these local models, the app claims a super fast 80ms latency, meaning text appears almost instantly after you speak.\nAudioPen\nAudioPen\nbegan as\na web-based voice notes app\n, but it has evolved over the years. Its Mac version now lets you dictate text and rewrite it in your preferred format and style, switching between different styles at any time. Besides live transcription, AudioPen allows you to store audio notes across platforms, combine notes for summaries, upload audio files, and rewrite existing notes using AI. The app costs $33 for three months, $99 for a year, and $159 for two years.\nVIDEO",
-    "content_source": "readability",
-    "content_chars": 6825,
-    "content_excerpt": "AI dictation apps have come a long way in a short time. For years they were slow and inaccurate — unless you spoke with a particular accent and enunciated clearly.\nAdvances in large language models (LLMs) and speech-to-text models have changed that, producing systems that can decipher speech more accurately while retaining enough context to format the text correctly. Developers have also built in features to automatically remove filler words, fix stumbles, and handle punctuation — outputting text that needs far fewer edits.\nWith dozens of such apps now on the market, we’ve rounded up our picks for the best and most useful dictation apps available right now.\nWispr Flow\nWispr Flow\nis a well-funded AI dictation app that lets you add custom words and instructions for dictation. It has native apps for macOS, Windows, and iOS; an Android version is in the works.\nThe app lets you customize how it transcribes your text by choosing from “formal,” “casual,” and “very casual” styles for different kinds of writing, such as personal messaging, work, and email. And if you use it with vibe-coding tools like Cursor, you can turn on a feature to automatically recognize variables or tag files in the chat.\nThe app lets you transcribe up to 2,000 words per week for free on desktop, and 1,000 words per month on iOS. Paid subscription plans offer unlimited transcription and start at $15 per month.\nImage Credits:\nWispr Flow",
-    "title_zh": "经过测试和排名的最佳人工智能听写应用程序",
-    "summary_zh": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用",
-    "ai_summary": "人工智能驱动的听写应用程序对于回复电子邮件、做笔记，甚至通过语音编码非常有用"
-  },
-  {
-    "id": "6110753a9b31",
-    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-    "url": "https://arxiv.org/abs/2509.00462",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-02T15:28:13",
-    "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 300 # Comments: 156",
-    "collected_at": "2026-05-02T18:52:07.364494",
-    "content_text": "Computer Science > Computers and Society\nTitle:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights\nView PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.\nBibliographic and Citation Tools\nCode, Data and Media Associated with this Article\nDemos\nRecommenders and Search Tools\narXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
-    "content_source": "trafilatura",
-    "content_chars": 2639,
-    "content_excerpt": "Computer Science > Computers and Society\nTitle:AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights\nView PDF HTML (experimental)Abstract:As artificial intelligence (AI) tools become widely adopted, large language models (LLMs) are increasingly involved on both sides of decision-making processes, ranging from hiring to content moderation. This dual adoption raises a critical question: do LLMs systematically favor content that resembles their own outputs? Prior research in computer science has identified self-preference bias -- the tendency of LLMs to favor their own generated content -- but its real-world implications have not been empirically evaluated. We focus on the hiring context, where job applicants often rely on LLMs to refine resumes, while employers deploy them to screen those same resumes. Using a large-scale controlled resume correspondence experiment, we find that LLMs consistently prefer resumes generated by themselves over those written by humans or produced by alternative models, even when content quality is controlled. The bias against human-written resumes is particularly substantial, with self-preference bias ranging from 67% to 82% across major commercial and open-source models. To assess labor market impact, we simulate realistic hiring pipelines across 24 occupations. These simulations show that candidates using the same LLM as the evaluator are 23% to 60% more likely to be shortlisted than equally qualified applicants submitting human-written resumes, with the largest disadvantages observed in business-related fields such as sales and accounting. We further demonstrate that this bias can be reduced by more than 50% through simple interventions targeting LLMs' self-recognition capabilities. These findings highlight an emerging but previously overlooked risk in AI-assisted decision making and call for expanded frameworks of AI fairness that address not only demographic-based disparities, but also biases in AI-AI interactions.\nBibliographic and Citation Tools\nCode, Data and Media Associated with this Article\nDemos\nRecommenders and Search Tools\narXivLabs: experimental projects with community collaborators\narXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.",
-    "title_zh": "人工智能在算法招聘中的自我偏好：经验证据和见解",
-    "summary_zh": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycombinator.com/item?id=47987256 积分：300 # 评论：156",
-    "ai_summary": "文章网址：https://arxiv.org/abs/2509.00462 评论网址：https://news.ycom…"
-  },
-  {
-    "id": "v2ex-1210021",
-    "title": "买了一台 256G 显存, 96G 内存电脑放家里, 如何对外出租出售剩余算力?",
-    "url": "https://www.v2ex.com/t/1210021",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-02T14:30:17",
-    "summary": "打算通过 ddns 搞一个出租页面, 可以在平时不用的时候把算力出租出去回点血, 请问这个方案可行吗?",
-    "collected_at": "2026-05-03T07:52:19.968815"
-  },
-  {
-    "id": "18ac41b8b3d0",
-    "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
-    "url": "https://36kr.com/p/3789475357400068?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-02T13:17:06",
-    "summary": "文｜肖漫 编辑｜李勤 当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。 这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。 基于移动基座模",
-    "collected_at": "2026-05-02T18:52:09.328969",
-    "content_text": "文｜肖漫\n编辑｜李勤\n当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。\n卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。\n“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。\n在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。\n这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。\n基于移动基座模型，卓驭已经开始尝试打破传统Tier 1“卖硬件、收开发费”的单一逻辑。在第二增长曲线中，通过将乘用车技术拓展至 Robotaxi、RoboVan 等 L4 级领域，卓驭正在探索一种基于订阅、利润分成以及“动作令牌（Action Token）”的新商业形态。\n近日，36氪汽车与卓驭科技副总裁于贝贝聊了聊物理AI的底层逻辑、商业化可能性，以及在这场即将开始的淘汰赛中，卓驭又该如何建立护城河。\n以下是36氪汽车和卓驭科技副总裁于贝贝的交流内容，经编辑：\n36氪：能否详细介绍一下原生多模态基础模型？\n于贝贝：\n原生多模态这个概念的提出，可以追溯到去年我们开始做VLA 1.0，那时的做法比较接近视觉与动作对齐的模型，将大语言模型从后面附加上去的，因此存在很多问题，比如对语言和语义理解的局限性，以及响应延迟等。\n我们认为把所有信息都转译到一个语言空间里去理解，然后再尝试通过这个语言转译的结果去理解物理世界，是一种反常识的做法。\n真正合理的路径是，视觉、音频、动作都是一个模态、规则或推理也是一个模态，这些都应该在预训练阶段就一并加入，让模型能够天生地、在多种模态的共同空间里去理解物理世界，这才是更合适的做法。\n36氪：现在有把语言模态拿掉吗？\n于贝贝：\n当前我们车端模型确实还没有开放语言这一路输入。这和小鹏发布的VLA 2.0其实是类似的，我们做的是类似方向的东西，都在向这个范式切换，底层的骨干网络已经改变了。\n36氪：卓驭也进入了VLA2.0的阶段？\n于贝贝：\n是的。业界正处于一个范式切换的转折点，摆在我们面前的选择是：到底是沿着以前做专家模型这类小模型的范式继续做下去，还是果断切到大模型的范式上来。\n我们比较看好大模型的范式。如果放在移动物理AI的语境下来看，希望移动能力能够在各种各样的载具上使用，这本质上就到达了规模化应用的阶段。\n大语言模型的历史经验告诉我们，以前做视觉语言模型时，也有人做专家模型，有人做通用模型，也就是所谓的基座模型。\n现在来看，最终跑出来的是做基座模型的这一批人。以前那些专注于看病的专家模型，其实都没有真正跑出来。在物理AI领域，我们相信演进的规律是一样的，因此我们也会坚定地走基础模型的范式。\n36氪：厂商很多玩家都在这么干，但目前也还未能真正训练出一个可以让各种不同载体统一接入的模型，本质上大家仍然是在解决车上的问题。\n于贝贝：\n这是分阶段推进的。2025年，大家基本上都切换到了数据驱动，这意味着模型的基础能力已经达到了大概70分的水平。此时，想把它再提升到90分，那20分的差距仍然需要做后训练、采集数据和做泛化，但是其间的差距已经从当初的40分到80分，缩小为现在70分到90分的差距了。\n后续，随着模型基础能力进一步提高，我们的目标肯定是做到零样本泛化，也就是所谓的“开箱即用”。\n如果模型能力能够开箱就达到95分，那么后面的后训练、泛化、开城等工作几乎都可以忽略不计。虽然现在还没有到开箱95分的水平，但已经达到了开箱70分。\n36氪：在现阶段，卓驭是否已经把各种场景都统一到同一个模型里实际运行过了，并认为它已经可以在各个领域都量产且实现泛化，还是说处于一个比较早期的阶段？\n于贝贝：\n在这个时间点，还远不能说已经做到了开箱即用。什么才是物理AI最终的终极范式，什么样的架构才能真正理解物理世界，目前业界尚无定论。\n36氪：您怎么看待当前大多数方案厂商都在向物理AI方向转型的现象？这是不是向资本市场讲一个更有想象空间的故事？\n于贝贝：\n我们认为这已经不单单是商业或战略上的选择，最终应该会上升为一种生存法则层面的事情。如果不上这条技术路线，很可能今后就跑不出来了。\n这和大语言模型爆发前夜一样，以前涌现出很多看病的专家模型，但通用大模型一出来，就把它们都替代掉了，以前的那些最终都没有跑出来。\n36氪：在这个范式下做一个通用模型，但在其他场景下的数据，或者其他前期训练所需的条件，是不是还不够充分？\n于贝贝：\n我们现在在训练自己的基础模型时，30%的数据来自于车辆采集的真实数据，30%来自于机器人，另外40%来自于互联网。\n这种移动能力的数据，事实上在互联网上，只需要获取第一人称视角的、在移动中的视频即可，这不一定非得是乘用车或商用车，也可以人走路时拍摄的视频，这类数据的规模庞大，并且相对容易获取。\n很多企业都宣称要做移动物理AI，模型能力固然是一方面，但更重要的，具身智能必须部署到一个具体的硬件上去，它的分发过程是很难的。它不像数字AI，可以通过手机实现一传十、十传百的病毒式传播，从一个用户迅速扩展到上亿用户，传播极快。\n所以，\n建立一个分发平台和分发网络，也是其中非常关键的一环，这关乎如何把这个能力具体地部署到移动载具、部署到物理实体上。\n36氪：卓驭在分发上是怎么做的？\n于贝贝：\n我们有自己的一套方法，比如与合作伙伴合作，定义硬件的标准，将这个硬件标准定义出来之后，通过合作伙伴进行硬件授权与分发，这属于硬件分发的部分。\n在软件分发方面，比如我们的移动能力SDK，可以将模型能力封装成SDK，提供给那些不具备后训练模型能力的合作伙伴去使用。也可以将其包装成“移动AI”，也就是把模型做得足够好之后，将其开源，让其他方可以基于这个模型去做后训练，这又是一种分发方式。\n还可以直接做成“移动智能体”，未来对于一些低安全、低实时性的应用，比如扫地机器人或割草机，只需要把视频流传输到云端，由云端计算好之后，直接下发一条轨迹给这个小机器，这或许就是另一种分发方式了。\n36氪：这几种分发的方式，是否对应着卓驭的商业收费模式？\n于贝贝：\n是的，而且它们面向的商业场景也都不太一样。\n传统的方式，像做乘用车或商用车，就是销售硬件、销售软件许可，并收取开发费和非重复性工程费用，我们内部称作第一增长曲线的业务。\n第二增长曲线，则是将乘用车上已经验证过的技术，拓展到Robotaxi、RoboVan等领域。虽然也卖硬件，也可能收取开发费，但一般不收取软件许可费。\n软件部分是通过利润分成来获取收益的，比如L4级业务，作为服务提供方，需要持续参与软件的迭代，甚至要参与到运营中去，所以需要一个持续性的收入，这就演变成了订阅和分润的模式。\n36氪：听起来第二增长曲线更挣钱。\n于贝贝：\n相比第一增长曲线的收入，其利润结构是要更好的。\n我们可能会有不同的算法分发方式，以“移动智能体”为例，这种分发方式就有点像是在分发所谓的“动作令牌”。\n相当于某个消费级电子设备将视频流传输给云端推理的模型，模型再下发一条轨迹，其收费模式可能就是按照该消费级设备的使用次数、行驶里程来收取类似“动作令牌”的费用，这又是另一种形式的订阅。\n36氪：后续运维各方面的东西，都是卓驭来做吗？\n于贝贝：\n对于L2的系统，本身不涉及到运维。只有到了L4级别才涉及运维，需要有一个所谓的远程监控系统，始终监控着车辆的运行过程，在必要时进行远程接管接入。\n这有点像过去的安吉星服务，使用这个服务时是需要交费的。一旦车辆启用了L4功能，无论是干线物流还是乘用车，只要启用了L4，就需要额外交一部分费用。\n甚至以后，乘用车的传感器配置、算力配置都能够支持L4级别时，平时车主可能还是用L2+系统，当他需要启用L4功能时，就需要为L4模式下每公里的行驶，额外再支付一点费用，因为始终会有一个系统在监控着它。\n36氪：你认为L2和L4会是完全不一样的商业模式？\n于贝贝：\n没错，L2和L4是完全不同的商业模式。从我们的观点来看，我们认为L4应该是先在城区落地，然后再拓展到高速场景。\n从工程安全角度来看，同样性质的一个事故，在高速上产生的伤害程度，要远比在城区产生的伤害严重得多。\n36氪：行业玩家都在往物理AI方向做，这是新一轮淘汰赛的开始吗？\n于贝贝：\n新一轮的行业洗牌可能即将开始。所有做自动驾驶的公司，应该都会在不久的将来，转变为移动物理AI公司。\n如果是在移动物理AI这个赛道上进行竞争，这本身就变成了一种跨界竞争，甚至可能都不是这个行业内既有玩家之间的竞争了，还需要和一些本来做数字AI，现在也想转型做具身智能、做物理AI的玩家去竞争。\n36氪：那卓驭的护城河究竟是什么？\n于贝贝：\n我们认为有两点。第一，是模型能力。现在大家的迭代范式，乃至最终采用什么样的模型架构，都还没有定论。也许我们认为以后特别高级的3D DiT或V-JEPA等全新架构会跑出来，但这些都是未知数。\n第二，分发能力其实是一个非常高的门槛。如何建立一个分发平台和分发网络，创建一个生态，联合不同的合作伙伴共同进行分发，这一定是一个非常高的门槛。",
-    "content_source": "readability",
-    "content_chars": 3828,
-    "content_excerpt": "文｜肖漫\n编辑｜李勤\n当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。\n卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。\n“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。\n在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。\n这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。\n基于移动基座模型，卓驭已经开始尝试打破传统Tier 1“卖硬件、收开发费”的单一逻辑。在第二增长曲线中，通过将乘用车技术拓展至 Robotaxi、RoboVan 等 L4 级领域，卓驭正在探索一种基于订阅、利润分成以及“动作令牌（Action Token）”的新商业形态。\n近日，36氪汽车与卓驭科技副总裁于贝贝聊了聊物理AI的底层逻辑、商业化可能性，以及在这场即将开始的淘汰赛中，卓驭又该如何建立护城河。\n以下是36氪汽车和卓驭科技副总裁于贝贝的交流内容，经编辑："
-  },
-  {
-    "id": "reddit-1t1l564",
-    "title": "We open-sourced our AI agent config management tool — 888 stars, nearly 100 forks — requesting community feedback",
-    "url": "https://reddit.com/r/artificial/comments/1t1l564/we_opensourced_our_ai_agent_config_management/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-05-02T09:27:30",
-    "summary": "We've been building Caliber to solve AI agent configuration management and released our full setup as open source. The response has been great — 888 GitHub stars and approaching 100 forks. Repo: [https://github.com/caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) The problem: eve",
-    "points": 0,
-    "collected_at": "2026-05-02T09:53:57.359987",
-    "title_zh": "我们开源了 AI 代理配置管理工具——888 颗星，近 100 个分叉——请求社区反馈",
-    "summary_zh": "我们一直在构建 Calibre 来解决 AI 代理配置管理问题，并将我们的完整设置作为开源发布。反响非常好—— 888 个 GitHub star 和接近 100 个 fork。仓库：[https://github.com/caliber-…",
-    "ai_summary": "我们一直在构建 Calibre 来解决 AI 代理配置管理问题，并将我们的完整设置作为开源发布。反响非常好—— 888…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1l564/we_opensourced_our_ai_agent_config_management/"
-  },
-  {
-    "id": "f6641dfb11ab",
-    "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
-    "url": "https://36kr.com/p/3792155815304450?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-02T13:01:36",
-    "summary": "文｜周鑫雨 编辑｜杨轩 规模化落地，今年的具身公司都在谈这个。 数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。 激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。 在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营",
-    "collected_at": "2026-05-02T18:52:09.329114",
-    "content_text": "文｜周鑫雨\n编辑｜杨轩\n规模化落地，今年的具身公司都在谈这个。\n数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。\n激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。\n在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：\n2036年，要实现140亿美元的营收规模。\n在全球范围内打响品牌，也让这家公司，将发布会开进了硅谷。美西时间2026年4月28日，在云集Adobe、TikTok、IBM等公司的圣何塞，魔法原子发起了全球具身智能创新大会（GEIS）。\n魔法原子机器人MagicBot Z1现场给张艺兴表演。作者拍摄\n在会上，魔法原子发布了从底层模型本体的一系列新产品：\n世界模型Magic-Mix\n：魔法原子自研的“自主进化模型”。Magix-Mix由两个引擎构成：让机器人学会理解真实世界的Magic-WAM，以及可以离线生成大批量许年数据的Magic-Creator——这意味着，Mix可以在“数据生成-模型训练-真实世界反馈-数据在生成”的闭环中持续自主迭代。\nMagic-Mix架构。图源：魔法原子\n灵巧手MagicHand H01\n：搭载了20 DOF（自由度，人手约24-27 DOF）和44个高分辨率三维触觉传感器，主打工业制造、服务护理等场景的精细操作。\nMagicHand H01。图源：魔法原子\n人形机器人MagicBot X1\n：一款身高180cm、体重70kg、全身搭载31个主动DOF、极限关节扭矩达450N·m的机器人。基于无限续航双电系统，X1可以7*24连续作业。产品分为标准版和科研版，前者商业部署效率高、开箱即用，后者则面向高校、实验室、开发者和产业伙伴，支持底层二次开发和外形定制。\nMagicBot X1。图源：魔法原子\n在会上，Openmind、PrismaX、Chestnut Roborics等来自硅谷的具身大脑和本体公司，也出现在现场。有关大脑、本体、数据的解决方案，这些公司给出了不同的解决思路。\n以下是《智能涌现》关于现场讨论的整理：\n用机器合成数据训练，效果会比真实世界数据更好吗？\n高质量数据的稀缺，一直是掣肘具身模型训练的瓶颈。当前真机数据采集一直存在成本高、周期长、场景覆盖等问题。\n机器合成数据，就是解决方案之一。然而，合成数据的局限性在于真实信息的缺失，比如摩擦系数、延迟、触觉反馈等。这也造成业界对“sim-to-real-gap”的担忧。\n混合数据训练，是当下中美具身智能企业提出的主流解决方案。比如，魔法原子总裁顾诗韬介绍，魔法原子日均采集约16000条数据，再通过数据合成实现1万倍的体量扩展。她提到，由于产品迭代快、60%-70%的工序依赖人工，\n新能源汽车制造业，是数据采集的富矿\n。\n判断使用真实数据，还是机器合成数据，行业的共识是：基于具体训练目的和应用场景。\n亚马逊前沿AI与机器人研究院科学家Haozhi Qi提到，合成数据适用于让机器学习单一的反应基本技能，但\n难以让机器获得类似于做早餐之类的长程技能\n。此时，引入真实数据训练是有必要的，因为构建一个足够丰富的模拟环境，成本很高。\n英伟达GEAR Lab高级研究科学家Zhengyi Luo则透露，团队目前采用50%的模拟数据，用于基础训练；15%的动捕数据、25%的互联网视频数据，用于理解人类的动作；同时，训练还会添加10%的高质量真实世界数据。他还提到，有些公司甚至会使用社交媒体上的数据，来指导机器人的本体设计。\nVLA（视觉-语言-行动）是具身“大脑”最好的解决方案吗？\n由于强大的任务泛化能力，当下VLA已经成为具身模型最主流的架构范式。\n但事实上，当人类用手指旋转一个篮球时，只用依靠触觉和本体感知，并不需要视觉——这意味着，VLA在这两个感知系统上，存在短板。\n在GEIS大会上，亚马逊前沿AI与机器人研究院科学家Haozhi Qi认为，\nVLA的流行，与硬件传感器的发展程度有关\n：当下，视觉传感器趋于成熟，但触觉传感器还在初级开发阶段。\n因此，在他看来，具身系统需要通过其他感觉的输入，来补足不太成熟的传感系统，从而维持本体的操作。因此，\n通过视觉和语言补足触觉缺陷的VLA，成了当下最好的解决方案之一\n。不过，未来随着传感器和硬件层面的发展，算法也会随之迭代。\n灵巧手的三大路线之争：连杆、腱绳与直驱\n当下，有关灵巧手设计的核心迷思是：要不要像人手？围绕这一命题，诞生了连杆、腱绳、直驱三种设计方案。\n其中，“连杆”最不像人手，但胜在成本低、易于控制；“腱绳”最像人手，可以做精细化操作，但成本高、控制难。“直驱”则是一种折中方案，将驱动单元直接集成在每个关节上，但成本不低，同时力传导效率和热管理上仍然面临工程层面的挑战。\n混合架构路线，则是近期兴起的灵巧手技术解决方案。\nChestnut Robotics创始人、前Tesla Optimus灵巧手核心成员Evan Tao介绍，当下团队已经选择了混合架构路线，以可以完成精细化操作的腱绳结构为主，辅以AI控制和自主学习系统。未来的方案，“都会在灵活度和工程可靠性之间寻求平衡。”他提到。\n机器人如何真正规模化落地？\n在数据层，引入真实世界数据，依然被认为是让机器人真正理解应用场景、学习复杂任务操作的关键。\n比如，XGSynBot CEO Zizheng Li提到，他们采取的混合数据策略，依然引入了少量高质真实世界数据，控制成本的同时，也能提升模型能力和泛化水平。\n在系统层，XGSynBot CEO Zizheng Li认为，机器人需要从“单一功能设备”向“多任务通用平台”演进，比如XGSynBot的机械臂，带有6个Quick-chage的模块化系统，这样做的好处是，一台机器人可以在不同工序间灵活切换，提高落地场景的广泛性。\n最后，OpenMind创始人、斯坦福大学生物工程副教授Jan Liphardt总结：\n机器人进入真实世界，越早越好\n。\n他发现，实验室环境无法模拟所有复杂的现实场景，比如过亮的光线、泥泞潮湿的地面、生锈的门铰链、多个系统同时运行的负载——这些复杂的真实场景，往往导致机器人在离开实验室后，出现系统故障。\n因此，机器人落地前，不应该仅仅待在实验室中。Jan Liphardt建议，尽早让机器人在家庭、学校、机场、幼儿园和其他公共场景的实际部署中，收集交互数据，持续迭代。",
-    "content_source": "readability",
-    "content_chars": 2783,
-    "content_excerpt": "文｜周鑫雨\n编辑｜杨轩\n规模化落地，今年的具身公司都在谈这个。\n数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。\n激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。\n在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：\n2036年，要实现140亿美元的营收规模。\n在全球范围内打响品牌，也让这家公司，将发布会开进了硅谷。美西时间2026年4月28日，在云集Adobe、TikTok、IBM等公司的圣何塞，魔法原子发起了全球具身智能创新大会（GEIS）。\n魔法原子机器人MagicBot Z1现场给张艺兴表演。作者拍摄\n在会上，魔法原子发布了从底层模型本体的一系列新产品："
-  },
-  {
-    "id": "reddit-1t1kyx5",
-    "title": "The open-source AI agent config repo the community has been building just hit 888 stars — asking for feedback & feature ideas",
-    "url": "https://reddit.com/r/artificial/comments/1t1kyx5/the_opensource_ai_agent_config_repo_the_community/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-05-02T09:17:24",
-    "summary": "Over the past year our team and community have been building an open-source collection of AI agent configs: production-ready system prompts, tool-calling schemas, RAG setups, multi-agent orchestration patterns, and model-specific tuning files. Repo: [https://github.com/caliber-ai-org/ai-setup](https",
-    "points": 1,
-    "collected_at": "2026-05-02T09:53:57.359843",
-    "title_zh": "社区一直在构建的开源 AI 代理配置存储库刚刚获得 888 颗星——寻求反馈和功能想法",
-    "summary_zh": "在过去的一年里，我们的团队和社区一直在构建 AI 代理配置的开源集合：生产就绪的系统提示、工具调用架构、RAG 设置、多代理编排模式和特定于模型的调整文件。仓库：[https://github.com/caliber-ai-org/ai-s…",
-    "ai_summary": "在过去的一年里，我们的团队和社区一直在构建 AI 代理配置的开源集合：生产就绪的系统提示、工具调用架构、RAG 设置、多…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1kyx5/the_opensource_ai_agent_config_repo_the_community/"
-  },
-  {
     "id": "hn-47679121",
     "title": "Project Glasswing: Securing critical software for the AI era",
     "url": "https://www.anthropic.com/glasswing",
@@ -4612,22 +4614,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-11T09:29:26.348697"
-  },
-  {
-    "id": "reddit-1t1k9mr",
-    "title": "\"Prompt Engineering\" certs are a joke. So we built a FREE Agentic AI Practitioner Exam that actually forces you to build working swarms to pass.",
-    "url": "https://reddit.com/r/artificial/comments/1t1k9mr/prompt_engineering_certs_are_a_joke_so_we_built_a/",
-    "source": "r/artificial",
-    "lang": "en",
-    "published": "2026-05-02T08:36:54",
-    "summary": "Hey Everyone, If you look at the AI education space right now, it’s flooded with basic \"Prompt Engineering\" certificates that you can pass just by knowing what a system prompt is. But as anyone building in production knows, chatting with an LLM is 1% of the work. The real nightmare is orchestration,",
-    "points": 1,
-    "collected_at": "2026-05-02T09:53:57.360203",
-    "title_zh": "“即时工程”证书就是一个笑话。因此，我们构建了一个免费的 Agentic AI 从业者考试，实际上迫使您构建工作群体才能通过。",
-    "summary_zh": "大家好，如果你看看现在的人工智能教育领域，你会发现里面充斥着基本的“提示工程”证书，你只需知道系统提示是什么就可以通过这些证书。但任何参与生产的人都知道，与 LLM 聊天只占工作量的 1%。真正的噩梦是编排",
-    "ai_summary": "大家好，如果你看看现在的人工智能教育领域，你会发现里面充斥着基本的“提示工程”证书，你只需知道系统提示是什么就可以通过这…",
-    "extract_error": "403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/comments/1t1k9mr/prompt_engineering_certs_are_a_joke_so_we_built_a/"
+    "collected_at": "2026-05-11T14:34:12.132022"
   },
   {
     "id": "hn-47363754",
@@ -4638,7 +4625,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-11T09:29:26.348781"
+    "collected_at": "2026-05-11T14:34:12.132137"
   },
   {
     "id": "hn-47340079",
@@ -4649,7 +4636,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-11T09:29:26.348505"
+    "collected_at": "2026-05-11T14:34:12.131786"
   },
   {
     "id": "hn-47225130",
@@ -4660,7 +4647,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-11T09:29:26.348814"
+    "collected_at": "2026-05-11T14:34:12.132191"
   },
   {
     "id": "hn-47136179",
@@ -4671,7 +4658,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-11T09:29:26.348591"
+    "collected_at": "2026-05-11T14:34:12.131886"
   },
   {
     "id": "hn-46990729",
@@ -4682,7 +4669,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-11T09:29:26.348567"
+    "collected_at": "2026-05-11T14:34:12.131856"
   },
   {
     "id": "hn-45941596",
@@ -4693,7 +4680,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-11T09:29:26.348823"
+    "collected_at": "2026-05-11T14:34:12.132203"
   },
   {
     "id": "hn-45930151",
@@ -4704,18 +4691,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-11T09:29:26.348854"
-  },
-  {
-    "id": "hn-45722069",
-    "title": "It's insulting to read AI-generated blog posts",
-    "url": "https://blog.pabloecortez.com/its-insulting-to-read-your-ai-generated-blog-post/",
-    "source": "Hacker News",
-    "lang": "en",
-    "published": "2025-10-27T15:27:38Z",
-    "summary": "It's insulting to read AI-generated blog posts",
-    "points": 1300,
-    "collected_at": "2026-05-11T09:29:26.348889"
+    "collected_at": "2026-05-11T14:34:12.132246"
   },
   {
     "id": "hn-44972151",
@@ -4726,7 +4702,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-11T09:29:26.348655"
+    "collected_at": "2026-05-11T14:34:12.131969"
   },
   {
     "id": "hn-44396518",
@@ -4737,7 +4713,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-11T09:29:26.348755"
+    "collected_at": "2026-05-11T14:34:12.132089"
   },
   {
     "id": "hn-44314423",
@@ -4748,7 +4724,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-11T09:29:26.348791"
+    "collected_at": "2026-05-11T14:34:12.132150"
   },
   {
     "id": "hn-44163063",
@@ -4759,7 +4735,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-11T09:29:26.348547"
+    "collected_at": "2026-05-11T14:34:12.131832"
   },
   {
     "id": "hn-42910910",
@@ -4770,7 +4746,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-11T09:29:26.348665"
+    "collected_at": "2026-05-11T14:34:12.131981"
   },
   {
     "id": "hn-41392128",
@@ -4781,7 +4757,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-11T09:29:26.348603"
+    "collected_at": "2026-05-11T14:34:12.131902"
   },
   {
     "id": "hn-41386319",
@@ -4792,7 +4768,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-11T09:29:26.348613"
+    "collected_at": "2026-05-11T14:34:12.131915"
   },
   {
     "id": "hn-41069829",
@@ -4803,7 +4779,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-11T09:29:26.348863"
+    "collected_at": "2026-05-11T14:34:12.132258"
   },
   {
     "id": "hn-41046773",
@@ -4814,7 +4790,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-11T09:29:26.348537"
+    "collected_at": "2026-05-11T14:34:12.131819"
   },
   {
     "id": "hn-40767459",
@@ -4825,7 +4801,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-11T09:29:26.348873"
+    "collected_at": "2026-05-11T14:34:12.132271"
   },
   {
     "id": "hn-39918245",
@@ -4836,7 +4812,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-11T09:29:26.348833"
+    "collected_at": "2026-05-11T14:34:12.132218"
   },
   {
     "id": "hn-39526057",
@@ -4847,7 +4823,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-11T09:29:26.348526"
+    "collected_at": "2026-05-11T14:34:12.131805"
   },
   {
     "id": "hn-38544729",
@@ -4858,7 +4834,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-11T09:29:26.348576"
+    "collected_at": "2026-05-11T14:34:12.131867"
   },
   {
     "id": "hn-37021160",
@@ -4869,7 +4845,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-11T09:29:26.348675"
+    "collected_at": "2026-05-11T14:34:12.131994"
   },
   {
     "id": "hn-31812259",
@@ -4880,7 +4856,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-11T09:29:26.348800"
+    "collected_at": "2026-05-11T14:34:12.132162"
   },
   {
     "id": "hn-18249755",
@@ -4891,7 +4867,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-11T09:29:26.348634"
+    "collected_at": "2026-05-11T14:34:12.131940"
   },
   {
     "id": "hn-17022963",
@@ -4902,7 +4878,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-11T09:29:26.348625"
+    "collected_at": "2026-05-11T14:34:12.131929"
   },
   {
     "id": "hn-15892066",
@@ -4913,7 +4889,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-11T09:29:26.348771"
+    "collected_at": "2026-05-11T14:34:12.132124"
   },
   {
     "id": "hn-6830566",
@@ -4924,6 +4900,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-11T09:29:26.348841"
+    "collected_at": "2026-05-11T14:34:12.132230"
   }
 ]

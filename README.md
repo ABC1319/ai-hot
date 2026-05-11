@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-11 17:31:13
+🕐 **最近更新**：2026-05-11 22:36:18
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [Anthropic 表示对人工智能的“邪恶”描绘是克劳德勒索企图的罪魁祸首](https://aihot.bt199.com/news/224cbba90f0c/)
-   - Anthropic 表示，人工智能的虚构描述可以对人工智能模型产生真正的影响
-   - `TechCrunch AI · 2026-05-10`
+1. [没有足够的火箭用于太空数据中心。 Cowboy Space 筹集了 2.75 亿美元来建造它们。](https://aihot.bt199.com/news/8b55c4119673/)
+   - 牛仔航天公司希望将数据中心送入轨道。首先，它必须建造火箭才能到达那里
+   - `TechCrunch AI · 2026-05-11`
 
-2. [马斯克诉奥特曼第二周：OpenAI 反击，Shivon Zilis 透露马斯克试图挖走山姆·奥特曼](https://aihot.bt199.com/news/8e2b23460141/)
-   - 在埃隆·马斯克和 OpenAI 之间具有里程碑意义的审判的第二周，马斯克提起诉讼的动机受到了密切关注。上周，马斯克出庭…
-   - `MIT Tech Review · 2026-05-08`
+2. [通过客户支持工程促进突破性人工智能创新](https://aihot.bt199.com/news/14c481f9151a/)
+   - 麦肯锡的研究表明，尽管数字化已经进行了多年，但组织从数字投资中获得的价值还不到预期的三分之一。这是因为大多数大公司都是从…
+   - `MIT Tech Review · 2026-05-11`
 
-3. [人工智能数据中心的所有最新更新](https://aihot.bt199.com/news/3bc01457309b/)
+3. [在金融领域实施先进的人工智能技术](https://aihot.bt199.com/news/cff19a85c096/)
+   - 在长期以来以精确和控制为特征的财务部门中，人工智能的出现与其说是一种管理巧妙的升级，不如说是一种悄然的叛乱。员工已经在使…
+   - `MIT Tech Review · 2026-05-11`
+
+4. [人工智能数据中心的所有最新更新](https://aihot.bt199.com/news/3bc01457309b/)
    - 大规模的新数据中心是科技公司对人工智能的希望和梦想的物理基础。但急于扩建装满高耗能服务器的仓库的做法也引发了世界各地关于…
    - `The Verge AI · 2026-05-08`
 
-4. [PlayStation 将人工智能视为帮助制作游戏的“强大工具”](https://aihot.bt199.com/news/91cd61c2a457/)
+5. [PlayStation 将人工智能视为帮助制作游戏的“强大工具”](https://aihot.bt199.com/news/91cd61c2a457/)
    - 作为周五收益报告的一部分，索尼分享了公司对人工智能的看法，包括如何评估人工智能作为制作 PlayStation 游戏的一…
    - `The Verge AI · 2026-05-08`
-
-5. [以下是您需要了解的有关游轮汉坦病毒爆发的信息](https://aihot.bt199.com/news/2c5dba8eca78/)
-   - 麻省理工学院技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多…
-   - `MIT Tech Review · 2026-05-08`
 
 6. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
    - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
