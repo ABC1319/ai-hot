@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-11 22:36:18
+🕐 **最近更新**：2026-05-12 03:33:01
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -20,20 +20,20 @@
    - 牛仔航天公司希望将数据中心送入轨道。首先，它必须建造火箭才能到达那里
    - `TechCrunch AI · 2026-05-11`
 
-2. [通过客户支持工程促进突破性人工智能创新](https://aihot.bt199.com/news/14c481f9151a/)
+2. [一位诺贝尔奖获得者经济学家表示，人工智能领域值得关注的三件事](https://aihot.bt199.com/news/18e29f063a54/)
+   - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。在获得 2024…
+   - `MIT Tech Review · 2026-05-11`
+
+3. [谷歌阻止了一项零日攻击，据称该攻击是用人工智能开发的](https://aihot.bt199.com/news/5b6afa769aec/)
+   - 谷歌首次表示，它已经发现并阻止了人工智能开发的零日漏洞。根据谷歌威胁情报小组（GTIG）的一份报告，“著名的网络犯罪威胁…
+   - `The Verge AI · 2026-05-11`
+
+4. [通过客户支持工程促进突破性人工智能创新](https://aihot.bt199.com/news/14c481f9151a/)
    - 麦肯锡的研究表明，尽管数字化已经进行了多年，但组织从数字投资中获得的价值还不到预期的三分之一。这是因为大多数大公司都是从…
    - `MIT Tech Review · 2026-05-11`
 
-3. [在金融领域实施先进的人工智能技术](https://aihot.bt199.com/news/cff19a85c096/)
-   - 在长期以来以精确和控制为特征的财务部门中，人工智能的出现与其说是一种管理巧妙的升级，不如说是一种悄然的叛乱。员工已经在使…
-   - `MIT Tech Review · 2026-05-11`
-
-4. [人工智能数据中心的所有最新更新](https://aihot.bt199.com/news/3bc01457309b/)
+5. [人工智能数据中心的所有最新更新](https://aihot.bt199.com/news/3bc01457309b/)
    - 大规模的新数据中心是科技公司对人工智能的希望和梦想的物理基础。但急于扩建装满高耗能服务器的仓库的做法也引发了世界各地关于…
-   - `The Verge AI · 2026-05-08`
-
-5. [PlayStation 将人工智能视为帮助制作游戏的“强大工具”](https://aihot.bt199.com/news/91cd61c2a457/)
-   - 作为周五收益报告的一部分，索尼分享了公司对人工智能的看法，包括如何评估人工智能作为制作 PlayStation 游戏的一…
    - `The Verge AI · 2026-05-08`
 
 6. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
@@ -44,9 +44,9 @@
    - Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat
    - `Ars Technica AI · 2026-05-05`
 
-8. [为未来充满窃窃私语的办公室做好准备](https://aihot.bt199.com/news/8297c2208a18/)
-   - 如果我们花越来越多的时间与计算机交谈，工作设置将如何改变？
-   - `TechCrunch AI · 2026-05-10`
+8. [Digg 再次尝试，这次是作为人工智能新闻聚合器](https://aihot.bt199.com/news/0b86095285b9/)
+   - Digg（再次）作为阅读人工智能新闻的另一个地方回归
+   - `TechCrunch AI · 2026-05-11`
 
 
 ## 🤖 AI 简报
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

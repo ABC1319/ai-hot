@@ -4291,6 +4291,27 @@
     "collected_at": "2026-04-24T01:57:34.467646"
   },
   {
+    "id": "github-1234717086",
+    "name": "lucidrains/d4rt",
+    "display_name": "d4rt",
+    "url": "https://github.com/lucidrains/d4rt",
+    "description": "Implementation of D4RT, Efficiently Reconstructing Dynamic Scenes, Deepmind",
+    "stars": 39,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "4d",
+      "artificial-intelligence",
+      "attention",
+      "deep-learning"
+    ],
+    "created_at": "2026-05-10T14:52:54Z",
+    "updated_at": "2026-05-11T19:07:54Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-11T19:31:20.916608"
+  },
+  {
     "id": "github-1193342201",
     "name": "theogbrand/yoink",
     "display_name": "yoink",
