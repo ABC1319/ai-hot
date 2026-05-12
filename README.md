@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-12 16:32:54
+🕐 **最近更新**：2026-05-12 22:04:25
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,27 +16,23 @@
 
 ## 🔥 今日热点
 
-1. [Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能](https://aihot.bt199.com/news/d3b5b5ad9510/)
-   - 目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…
+1. [Dessn 为其以生产为中心的设计工具筹集了 600 万美元](https://aihot.bt199.com/news/ce3938d1553a/)
+   - 一家名为 Dessn 的新初创公司筹集了 600 万美元，用于构建直接与生产代码库配合使用的人工智能设计工具
    - `TechCrunch AI · 2026-05-12`
 
-2. [Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO](https://aihot.bt199.com/news/7a7c4cf1151c/)
-   - Robinhood 秘密提交了第二个风险基金的申请，这次的目标是成长型企业和早期初创企业
+2. [AI 语音初创公司 Vapi 在击败 40 多个竞争对手的 Amazon Ring 后估值达到 5 亿美元](https://aihot.bt199.com/news/55313edf898f/)
+   - Vapi 表示，自 2025 年初以来，随着公司将客户支持和销售电话转移给人工智能代理，其企业业务增长了 10 倍
    - `TechCrunch AI · 2026-05-12`
 
 3. [一位诺贝尔奖获得者经济学家表示，人工智能领域值得关注的三件事](https://aihot.bt199.com/news/18e29f063a54/)
    - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。在获得 2024…
    - `MIT Tech Review · 2026-05-11`
 
-4. [通过客户支持工程促进突破性人工智能创新](https://aihot.bt199.com/news/14c481f9151a/)
-   - 麦肯锡的研究表明，尽管数字化已经进行了多年，但组织从数字投资中获得的价值还不到预期的三分之一。这是因为大多数大公司都是从…
-   - `MIT Tech Review · 2026-05-11`
-
-5. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
+4. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
    - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
    - `Ars Technica AI · 2026-05-07`
 
-6. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
+5. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
    - Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat
    - `Ars Technica AI · 2026-05-05`
 
@@ -123,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
