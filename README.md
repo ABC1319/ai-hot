@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-12 10:16:06
+🕐 **最近更新**：2026-05-12 16:32:54
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,13 +16,13 @@
 
 ## 🔥 今日热点
 
-1. [Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO](https://aihot.bt199.com/news/7a7c4cf1151c/)
-   - Robinhood 秘密提交了第二个风险基金的申请，这次的目标是成长型企业和早期初创企业
+1. [Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能](https://aihot.bt199.com/news/d3b5b5ad9510/)
+   - 目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…
    - `TechCrunch AI · 2026-05-12`
 
-2. [通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工](https://aihot.bt199.com/news/a8dd42f86055/)
-   - 一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程
-   - `TechCrunch AI · 2026-05-11`
+2. [Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO](https://aihot.bt199.com/news/7a7c4cf1151c/)
+   - Robinhood 秘密提交了第二个风险基金的申请，这次的目标是成长型企业和早期初创企业
+   - `TechCrunch AI · 2026-05-12`
 
 3. [一位诺贝尔奖获得者经济学家表示，人工智能领域值得关注的三件事](https://aihot.bt199.com/news/18e29f063a54/)
    - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。在获得 2024…
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

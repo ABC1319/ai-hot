@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-05-12T02:16:05.882233",
+  "updated_at": "2026-05-12T08:32:54.005200",
   "total": 6,
   "hot_list": [
+    {
+      "title": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "name": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "title_zh": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-12",
+      "time": "2026-05-12",
+      "description": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "subtitle": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "ai_summary": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "category": "资讯",
+      "news_id": "d3b5b5ad9510",
+      "internal_url": "https://aihot.bt199.com/news/d3b5b5ad9510/",
+      "type_label": "📰 新闻"
+    },
     {
       "title": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
       "name": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
@@ -18,24 +36,6 @@
       "category": "资讯",
       "news_id": "7a7c4cf1151c",
       "internal_url": "https://aihot.bt199.com/news/7a7c4cf1151c/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "name": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "title_zh": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-11",
-      "time": "2026-05-11",
-      "description": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "subtitle": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "ai_summary": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "category": "资讯",
-      "news_id": "a8dd42f86055",
-      "internal_url": "https://aihot.bt199.com/news/a8dd42f86055/",
       "type_label": "📰 新闻"
     },
     {
@@ -113,6 +113,24 @@
   ],
   "top_20": [
     {
+      "title": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "name": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "title_zh": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-12",
+      "time": "2026-05-12",
+      "description": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "subtitle": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "ai_summary": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "category": "资讯",
+      "news_id": "d3b5b5ad9510",
+      "internal_url": "https://aihot.bt199.com/news/d3b5b5ad9510/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
       "name": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
       "title_zh": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
@@ -128,24 +146,6 @@
       "category": "资讯",
       "news_id": "7a7c4cf1151c",
       "internal_url": "https://aihot.bt199.com/news/7a7c4cf1151c/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "name": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "title_zh": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-11",
-      "time": "2026-05-11",
-      "description": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "subtitle": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "ai_summary": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "category": "资讯",
-      "news_id": "a8dd42f86055",
-      "internal_url": "https://aihot.bt199.com/news/a8dd42f86055/",
       "type_label": "📰 新闻"
     },
     {
@@ -229,6 +229,24 @@
   },
   "items": [
     {
+      "title": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "name": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "title_zh": "Thinking Machines 希望构建一个能够在说话时真正倾听的人工智能",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-12",
+      "time": "2026-05-12",
+      "description": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "subtitle": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "ai_summary": "目前，您使用过的每个人工智能模型都以相同的方式工作。你说话，它听。它会回应，你听着。 Thinking Machines…",
+      "category": "资讯",
+      "news_id": "d3b5b5ad9510",
+      "internal_url": "https://aihot.bt199.com/news/d3b5b5ad9510/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
       "name": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
       "title_zh": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
@@ -244,24 +262,6 @@
       "category": "资讯",
       "news_id": "7a7c4cf1151c",
       "internal_url": "https://aihot.bt199.com/news/7a7c4cf1151c/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "name": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "title_zh": "通用汽车刚刚解雇了数百名 IT 员工，转而雇用人工智能技能更强的员工",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-11",
-      "time": "2026-05-11",
-      "description": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "subtitle": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "ai_summary": "一些职位专注于人工智能原生开发、数据工程和分析、基于云的工程、代理和模型开发以及即时工程和新的人工智能工作流程",
-      "category": "资讯",
-      "news_id": "a8dd42f86055",
-      "internal_url": "https://aihot.bt199.com/news/a8dd42f86055/",
       "type_label": "📰 新闻"
     },
     {
