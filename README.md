@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-12 22:04:25
+🕐 **最近更新**：2026-05-13 03:33:28
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,23 +16,27 @@
 
 ## 🔥 今日热点
 
-1. [Dessn 为其以生产为中心的设计工具筹集了 600 万美元](https://aihot.bt199.com/news/ce3938d1553a/)
-   - 一家名为 Dessn 的新初创公司筹集了 600 万美元，用于构建直接与生产代码库配合使用的人工智能设计工具
+1. [奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子](https://aihot.bt199.com/news/000a74bed36f/)
+   - OpenAI 的首席执行官回忆起与 SpaceX 创始人的一次“特别令人毛骨悚然”的谈话
    - `TechCrunch AI · 2026-05-12`
 
-2. [AI 语音初创公司 Vapi 在击败 40 多个竞争对手的 Amazon Ring 后估值达到 5 亿美元](https://aihot.bt199.com/news/55313edf898f/)
-   - Vapi 表示，自 2025 年初以来，随着公司将客户支持和销售电话转移给人工智能代理，其企业业务增长了 10 倍
-   - `TechCrunch AI · 2026-05-12`
+2. [山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI](https://aihot.bt199.com/news/61896b729c5e/)
+   - OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 表示，埃隆·马斯克 (Elon Musk) 对这家人工…
+   - `The Verge AI · 2026-05-12`
 
-3. [一位诺贝尔奖获得者经济学家表示，人工智能领域值得关注的三件事](https://aihot.bt199.com/news/18e29f063a54/)
-   - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。在获得 2024…
-   - `MIT Tech Review · 2026-05-11`
+3. [Android 17 9大新功能](https://aihot.bt199.com/news/a35f27f13865/)
+   - 听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…
+   - `The Verge AI · 2026-05-12`
 
-4. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
+4. [世界模型：目前人工智能中最重要的 10 件事](https://aihot.bt199.com/news/431cb0e05d6f/)
+   - 世界模型最近被列入了我们目前人工智能领域最重要的 10 件事清单。观看执行编辑 Niall Firth 解释为什么人工智…
+   - `MIT Tech Review · 2026-05-12`
+
+5. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
    - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
    - `Ars Technica AI · 2026-05-07`
 
-5. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
+6. [广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门](https://aihot.bt199.com/news/b9dc4e2fd76e/)
    - Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat
    - `Ars Technica AI · 2026-05-05`
 
@@ -119,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
