@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-13 16:40:18
+🕐 **最近更新**：2026-05-13 22:18:09
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,27 +16,23 @@
 
 ## 🔥 今日热点
 
-1. [医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道](https://aihot.bt199.com/news/64b6496592c2/)
-   - 目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…
+1. [Ramp 数据显示，Anthropic 现在比 OpenAI 拥有更多的商业客户](https://aihot.bt199.com/news/a1cf4478c84d/)
+   - 根据金融科技公司 Ramp 本月发布的人工智能指数，Anthropic 首次拥有比 OpenAI 更多的经过验证的商业客…
    - `TechCrunch AI · 2026-05-13`
 
-2. [奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子](https://aihot.bt199.com/news/000a74bed36f/)
-   - OpenAI 的首席执行官回忆起与 SpaceX 创始人的一次“特别令人毛骨悚然”的谈话
-   - `TechCrunch AI · 2026-05-12`
+2. [WhatsApp 在 Meta AI 聊天中添加隐身模式](https://aihot.bt199.com/news/cca0dcac3600/)
+   - Meta 表示，这些隐身对话不会被保存，一旦关闭聊天，消息就会默认消失
+   - `TechCrunch AI · 2026-05-13`
 
-3. [Meta 不会让你在 Threads 上屏蔽其 AI 帐户](https://aihot.bt199.com/news/eed543b4bdb5/)
-   - Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…
-   - `The Verge AI · 2026-05-12`
+3. [数据中心即将进驻美国农村](https://aihot.bt199.com/news/b5b703a37cba/)
+   - 位于缅因州杰伊（波特兰西北约 67 英里的一个乡村小镇）的安德罗斯科金造纸厂在鼎盛时期雇用了约 1,500 名员工，直到…
+   - `The Verge AI · 2026-05-13`
 
-4. [山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI](https://aihot.bt199.com/news/61896b729c5e/)
-   - OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 表示，埃隆·马斯克 (Elon Musk) 对这家人工…
-   - `The Verge AI · 2026-05-12`
-
-5. [世界模型：目前人工智能中最重要的 10 件事](https://aihot.bt199.com/news/431cb0e05d6f/)
+4. [世界模型：目前人工智能中最重要的 10 件事](https://aihot.bt199.com/news/431cb0e05d6f/)
    - 世界模型最近被列入了我们目前人工智能领域最重要的 10 件事清单。观看执行编辑 Niall Firth 解释为什么人工智…
    - `MIT Tech Review · 2026-05-12`
 
-6. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
+5. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
    - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
    - `Ars Technica AI · 2026-05-07`
 
@@ -123,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
