@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "Cerebras预计本周公布定价"
 summary_zh = ""
 tags = []
-list_page = 13
+list_page = 14
 +++
 
 <!-- AUTO-GENERATED: news page -->

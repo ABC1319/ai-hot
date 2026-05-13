@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-13 22:18:09
+🕐 **最近更新**：2026-05-14 03:46:58
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,21 +16,21 @@
 
 ## 🔥 今日热点
 
-1. [Ramp 数据显示，Anthropic 现在比 OpenAI 拥有更多的商业客户](https://aihot.bt199.com/news/a1cf4478c84d/)
-   - 根据金融科技公司 Ramp 本月发布的人工智能指数，Anthropic 首次拥有比 OpenAI 更多的经过验证的商业客…
+1. [Anthropic 的 Cat Wu 表示，未来，人工智能将在你知道需求是什么之前预测你的需求](https://aihot.bt199.com/news/b5a2360916db/)
+   - Claude Code and Cowork 的产品负责人表示，人工智能的下一个重要步骤是主动性
    - `TechCrunch AI · 2026-05-13`
 
-2. [WhatsApp 在 Meta AI 聊天中添加隐身模式](https://aihot.bt199.com/news/cca0dcac3600/)
-   - Meta 表示，这些隐身对话不会被保存，一旦关闭聊天，消息就会默认消失
+2. [Origin Lab 融资 800 万美元，帮助视频游戏公司向世界模型构建者出售数据](https://aihot.bt199.com/news/f0c8a6dd55de/)
+   - Origin Lab 将成为人工智能实验室可以购买高质量许可数据、视频游戏公司可以出售这些数据的市场
    - `TechCrunch AI · 2026-05-13`
 
-3. [数据中心即将进驻美国农村](https://aihot.bt199.com/news/b5b703a37cba/)
-   - 位于缅因州杰伊（波特兰西北约 67 英里的一个乡村小镇）的安德罗斯科金造纸厂在鼎盛时期雇用了约 1,500 名员工，直到…
+3. [人工智能聊天机器人正在泄露人们的真实电话号码](https://aihot.bt199.com/news/110d107a61de/)
+   - 人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…
+   - `MIT Tech Review · 2026-05-13`
+
+4. [马克·扎克伯格宣布“完全私密”的加密 Meta AI 聊天](https://aihot.bt199.com/news/7bb505f9cb46/)
+   - Meta 首席执行官马克·扎克伯格表示，其新的隐身聊天是“第一个在服务器上不存储对话日志的主要人工智能产品”。隐身聊天中…
    - `The Verge AI · 2026-05-13`
-
-4. [世界模型：目前人工智能中最重要的 10 件事](https://aihot.bt199.com/news/431cb0e05d6f/)
-   - 世界模型最近被列入了我们目前人工智能领域最重要的 10 件事清单。观看执行编辑 Niall Firth 解释为什么人工智…
-   - `MIT Tech Review · 2026-05-12`
 
 5. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
    - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
