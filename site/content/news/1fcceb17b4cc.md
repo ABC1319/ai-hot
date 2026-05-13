@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "背靠国内最大ComfyUI生态"
 summary_zh = ""
 tags = []
-list_page = 20
+list_page = 21
 +++
 
 <!-- AUTO-GENERATED: news page -->

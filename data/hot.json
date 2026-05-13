@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-05-12T19:33:28.606434",
-  "total": 6,
+  "updated_at": "2026-05-13T02:31:01.522105",
+  "total": 7,
   "hot_list": [
+    {
+      "title": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "name": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "title_zh": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-13",
+      "time": "2026-05-13",
+      "description": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "subtitle": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "ai_summary": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "category": "资讯",
+      "news_id": "64b6496592c2",
+      "internal_url": "https://aihot.bt199.com/news/64b6496592c2/",
+      "type_label": "📰 新闻"
+    },
     {
       "title": "奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子",
       "name": "奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子",
@@ -21,6 +39,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "name": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "title_zh": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-12",
+      "time": "2026-05-12",
+      "description": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "subtitle": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "ai_summary": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "category": "资讯",
+      "news_id": "eed543b4bdb5",
+      "internal_url": "https://aihot.bt199.com/news/eed543b4bdb5/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
       "name": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
       "title_zh": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
@@ -36,24 +72,6 @@
       "category": "资讯",
       "news_id": "61896b729c5e",
       "internal_url": "https://aihot.bt199.com/news/61896b729c5e/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Android 17 9大新功能",
-      "name": "Android 17 9大新功能",
-      "title_zh": "Android 17 9大新功能",
-      "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-12",
-      "time": "2026-05-12",
-      "description": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "subtitle": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "ai_summary": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "category": "资讯",
-      "news_id": "a35f27f13865",
-      "internal_url": "https://aihot.bt199.com/news/a35f27f13865/",
       "type_label": "📰 新闻"
     },
     {
@@ -113,6 +131,24 @@
   ],
   "top_20": [
     {
+      "title": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "name": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "title_zh": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-13",
+      "time": "2026-05-13",
+      "description": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "subtitle": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "ai_summary": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "category": "资讯",
+      "news_id": "64b6496592c2",
+      "internal_url": "https://aihot.bt199.com/news/64b6496592c2/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子",
       "name": "奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子",
       "title_zh": "奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子",
@@ -131,6 +167,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "name": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "title_zh": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-12",
+      "time": "2026-05-12",
+      "description": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "subtitle": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "ai_summary": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "category": "资讯",
+      "news_id": "eed543b4bdb5",
+      "internal_url": "https://aihot.bt199.com/news/eed543b4bdb5/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
       "name": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
       "title_zh": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
@@ -146,24 +200,6 @@
       "category": "资讯",
       "news_id": "61896b729c5e",
       "internal_url": "https://aihot.bt199.com/news/61896b729c5e/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Android 17 9大新功能",
-      "name": "Android 17 9大新功能",
-      "title_zh": "Android 17 9大新功能",
-      "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-12",
-      "time": "2026-05-12",
-      "description": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "subtitle": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "ai_summary": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "category": "资讯",
-      "news_id": "a35f27f13865",
-      "internal_url": "https://aihot.bt199.com/news/a35f27f13865/",
       "type_label": "📰 新闻"
     },
     {
@@ -224,10 +260,28 @@
   "type_stats": {
     "tool": 0,
     "project": 0,
-    "news": 6,
+    "news": 7,
     "model": 0
   },
   "items": [
+    {
+      "title": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "name": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "title_zh": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-05-13",
+      "time": "2026-05-13",
+      "description": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "subtitle": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "ai_summary": "目前还没有政府机制来支付人工智能代理的费用，人工智能代理可以在两次就诊之间监控患者、打电话登记、协调住房转诊或确保有人领…",
+      "category": "资讯",
+      "news_id": "64b6496592c2",
+      "internal_url": "https://aihot.bt199.com/news/64b6496592c2/",
+      "type_label": "📰 新闻"
+    },
     {
       "title": "奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子",
       "name": "奥特曼作证称，马斯克曾考虑将 OpenAI 交给他的孩子",
@@ -247,6 +301,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "name": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "title_zh": "Meta 不会让你在 Threads 上屏蔽其 AI 帐户",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-12",
+      "time": "2026-05-12",
+      "description": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "subtitle": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "ai_summary": "Meta 周二宣布，它正在测试一项 Threads 功能，该功能允许用户标记 Meta AI 帐户，以获取问题的答案或平…",
+      "category": "资讯",
+      "news_id": "eed543b4bdb5",
+      "internal_url": "https://aihot.bt199.com/news/eed543b4bdb5/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
       "name": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
       "title_zh": "山姆·奥尔特曼 (Sam Altman) 表示埃隆·马斯克 (Elon Musk) 的心理游戏正在损害 OpenAI",
@@ -262,24 +334,6 @@
       "category": "资讯",
       "news_id": "61896b729c5e",
       "internal_url": "https://aihot.bt199.com/news/61896b729c5e/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Android 17 9大新功能",
-      "name": "Android 17 9大新功能",
-      "title_zh": "Android 17 9大新功能",
-      "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-12",
-      "time": "2026-05-12",
-      "description": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "subtitle": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "ai_summary": "听到 Android 17 充满了新的人工智能功能（例如改进的听写和振动编码小部件），您会感到震惊吗？幸运的是，这还不是…",
-      "category": "资讯",
-      "news_id": "a35f27f13865",
-      "internal_url": "https://aihot.bt199.com/news/a35f27f13865/",
       "type_label": "📰 新闻"
     },
     {

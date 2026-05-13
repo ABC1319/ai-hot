@@ -41,10 +41,8 @@
         "response_format",
         "stop",
         "structured_outputs",
-        "temperature",
         "tool_choice",
         "tools",
-        "top_p",
         "verbosity"
       ],
       "default_parameters": {
@@ -2477,13 +2475,13 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000098",
-        "completion": "0.00000308",
-        "input_cache_read": "0.000000182"
+        "prompt": "0.00000105",
+        "completion": "0.0000035",
+        "input_cache_read": "0.000000525"
       },
       "top_provider": {
         "context_length": 202752,
-        "max_completion_tokens": null,
+        "max_completion_tokens": 65535,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -11296,7 +11294,7 @@
       "name": "Mistral: Mistral Medium 3.1",
       "created": 1755095639,
       "description": "Mistral Medium 3.1 is an updated version of Mistral Medium 3, which is a high-performance enterprise-grade language model designed to deliver frontier-level capabilities at significantly reduced operational cost. It balances...",
-      "context_length": 262144,
+      "context_length": 131072,
       "architecture": {
         "modality": "text+image->text",
         "input_modalities": [
@@ -11315,7 +11313,7 @@
         "input_cache_read": "0.00000004"
       },
       "top_provider": {
-        "context_length": 262144,
+        "context_length": 131072,
         "max_completion_tokens": null,
         "is_moderated": false
       },
@@ -16240,53 +16238,6 @@
       }
     },
     {
-      "id": "qwen/qwen-vl-plus",
-      "canonical_slug": "qwen/qwen-vl-plus",
-      "hugging_face_id": "",
-      "name": "Qwen: Qwen VL Plus",
-      "created": 1738731255,
-      "description": "Qwen's Enhanced Large Visual Language Model. Significantly upgraded for detailed recognition capabilities and text recognition abilities, supporting ultra-high pixel resolutions up to millions of pixels and extreme aspect ratios for...",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text+image->text",
-        "input_modalities": [
-          "text",
-          "image"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Qwen",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000001365",
-        "completion": "0.0000004095",
-        "input_cache_read": "0.0000000273"
-      },
-      "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": 8192,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
-        "temperature",
-        "top_p"
-      ],
-      "default_parameters": {},
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-03-31",
-      "expiration_date": "2026-05-13",
-      "links": {
-        "details": "/api/v1/models/qwen/qwen-vl-plus/endpoints"
-      }
-    },
-    {
       "id": "aion-labs/aion-1.0",
       "canonical_slug": "aion-labs/aion-1.0",
       "hugging_face_id": "",
@@ -16417,106 +16368,6 @@
       }
     },
     {
-      "id": "qwen/qwen-vl-max",
-      "canonical_slug": "qwen/qwen-vl-max-2025-01-25",
-      "hugging_face_id": "",
-      "name": "Qwen: Qwen VL Max",
-      "created": 1738434304,
-      "description": "Qwen VL Max is a visual understanding model with 7500 tokens context length. It excels in delivering optimal performance for a broader spectrum of complex tasks.\n",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text+image->text",
-        "input_modalities": [
-          "text",
-          "image"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Qwen",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.00000052",
-        "completion": "0.00000208"
-      },
-      "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": 32768,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": null,
-        "top_p": null,
-        "frequency_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-03-31",
-      "expiration_date": "2026-05-13",
-      "links": {
-        "details": "/api/v1/models/qwen/qwen-vl-max-2025-01-25/endpoints"
-      }
-    },
-    {
-      "id": "qwen/qwen-turbo",
-      "canonical_slug": "qwen/qwen-turbo-2024-11-01",
-      "hugging_face_id": "",
-      "name": "Qwen: Qwen-Turbo",
-      "created": 1738410974,
-      "description": "Qwen-Turbo, based on Qwen2.5, is a 1M context model that provides fast speed and low cost, suitable for simple tasks.",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Qwen",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000000325",
-        "completion": "0.00000013",
-        "input_cache_read": "0.0000000065"
-      },
-      "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": 8192,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_p"
-      ],
-      "default_parameters": {},
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-03-31",
-      "expiration_date": "2026-05-13",
-      "links": {
-        "details": "/api/v1/models/qwen/qwen-turbo-2024-11-01/endpoints"
-      }
-    },
-    {
       "id": "qwen/qwen2.5-vl-72b-instruct",
       "canonical_slug": "qwen/qwen2.5-vl-72b-instruct",
       "hugging_face_id": "Qwen/Qwen2.5-VL-72B-Instruct",
@@ -16615,54 +16466,6 @@
       "expiration_date": null,
       "links": {
         "details": "/api/v1/models/qwen/qwen-plus-2025-01-25/endpoints"
-      }
-    },
-    {
-      "id": "qwen/qwen-max",
-      "canonical_slug": "qwen/qwen-max-2025-01-25",
-      "hugging_face_id": "",
-      "name": "Qwen: Qwen-Max ",
-      "created": 1738402289,
-      "description": "Qwen-Max, based on Qwen2.5, provides the best inference performance among [Qwen models](/qwen), especially for complex multi-step tasks. It's a large-scale MoE model that has been pretrained on over 20 trillion...",
-      "context_length": 32768,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Qwen",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.00000104",
-        "completion": "0.00000416",
-        "input_cache_read": "0.000000208"
-      },
-      "top_provider": {
-        "context_length": 32768,
-        "max_completion_tokens": 8192,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_p"
-      ],
-      "default_parameters": {},
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-03-31",
-      "expiration_date": "2026-05-13",
-      "links": {
-        "details": "/api/v1/models/qwen/qwen-max-2025-01-25/endpoints"
       }
     },
     {
@@ -20489,5 +20292,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-12T19:32:47.304451+00:00"
+  "updated_at": "2026-05-13T02:30:09.617322+00:00"
 }
