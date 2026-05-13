@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-13T02:31:01.522105",
-  "total": 7,
+  "updated_at": "2026-05-13T08:40:17.882581",
+  "total": 6,
   "hot_list": [
     {
       "title": "医疗保险的新支付模式是为人工智能而构建的，但大多数科技界并不知道",
@@ -108,24 +108,6 @@
       "category": "资讯",
       "news_id": "9fc187e8a48d",
       "internal_url": "https://aihot.bt199.com/news/9fc187e8a48d/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "name": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "title_zh": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-      "type": "news",
-      "source": "Ars Technica AI",
-      "score": 11,
-      "detail": "2026-05-05",
-      "time": "2026-05-05",
-      "description": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "subtitle": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "ai_summary": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "category": "资讯",
-      "news_id": "b9dc4e2fd76e",
-      "internal_url": "https://aihot.bt199.com/news/b9dc4e2fd76e/",
       "type_label": "📰 新闻"
     }
   ],
@@ -237,30 +219,12 @@
       "news_id": "9fc187e8a48d",
       "internal_url": "https://aihot.bt199.com/news/9fc187e8a48d/",
       "type_label": "📰 新闻"
-    },
-    {
-      "title": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "name": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "title_zh": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-      "type": "news",
-      "source": "Ars Technica AI",
-      "score": 11,
-      "detail": "2026-05-05",
-      "time": "2026-05-05",
-      "description": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "subtitle": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "ai_summary": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "category": "资讯",
-      "news_id": "b9dc4e2fd76e",
-      "internal_url": "https://aihot.bt199.com/news/b9dc4e2fd76e/",
-      "type_label": "📰 新闻"
     }
   ],
   "type_stats": {
     "tool": 0,
     "project": 0,
-    "news": 7,
+    "news": 6,
     "model": 0
   },
   "items": [
@@ -370,24 +334,6 @@
       "category": "资讯",
       "news_id": "9fc187e8a48d",
       "internal_url": "https://aihot.bt199.com/news/9fc187e8a48d/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "name": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "title_zh": "广泛使用的 Daemon Tools 磁盘应用程序在长达一个月的供应链攻击中存在后门",
-      "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-      "type": "news",
-      "source": "Ars Technica AI",
-      "score": 11,
-      "detail": "2026-05-05",
-      "time": "2026-05-05",
-      "description": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "subtitle": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "ai_summary": "Daemon Tools 用户：是时候检查您的计算机是否有隐秘感染了，stat",
-      "category": "资讯",
-      "news_id": "b9dc4e2fd76e",
-      "internal_url": "https://aihot.bt199.com/news/b9dc4e2fd76e/",
       "type_label": "📰 新闻"
     }
   ]
