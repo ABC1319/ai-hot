@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "打造“一人多面”的具身智能便利店"
 summary_zh = ""
 tags = []
-list_page = 13
+list_page = 14
 +++
 
 <!-- AUTO-GENERATED: news page -->

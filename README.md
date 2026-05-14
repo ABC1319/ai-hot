@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-14 21:54:05
+🕐 **最近更新**：2026-05-15 03:33:00
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [谁决定人工智能告诉你什么？曾任 Meta 新闻主管的坎贝尔·布朗 (Campbell Brown) 有想法](https://aihot.bt199.com/news/ebebd918aa44/)
-   - “在硅谷，这种对话是围绕一件事进行的，而消费者之间正在发生一种完全不同的对话。”
+1. [据报道，OpenAI 正准备对苹果采取法律行动；它不会是第一个感到被烧伤的合作伙伴](https://aihot.bt199.com/news/3a7e43483526/)
+   - 据彭博社报道，OpenAI 已经聘请了一家外部律师事务所来研究其选择
    - `TechCrunch AI · 2026-05-14`
 
-2. [随着 Anthropic 加大赌注，Clio 的 5 亿美元里程碑也随之到来](https://aihot.bt199.com/news/fb356e6d297c/)
-   - 法律科技初创公司，包括 ARR 刚刚达到 5 亿美元的 Clio，正在吸引大量客户采用
+2. [Clawdmeter 将您的 Claude Code 使用统计数据变成一个小型桌面仪表板](https://aihot.bt199.com/news/2c05eee6a567/)
+   - 一款名为 Clawdmeter 的新开源小工具将 Claude Code 使用统计数据转变为供 AI 编码高级用户使用的…
    - `TechCrunch AI · 2026-05-14`
 
-3. [金融服务中代理人工智能的数据准备情况](https://aihot.bt199.com/news/7db00b81e7f6/)
+3. [微软开始取消 Claude Code 许可证](https://aihot.bt199.com/news/d38fa000ee7a/)
+   - 微软于去年 12 月首次开放对 Claude Code 的访问，邀请数千名自己的开发人员每天使用 Anthropic 的…
+   - `The Verge AI · 2026-05-14`
+
+4. [使用此地图查找您后院的数据中心](https://aihot.bt199.com/news/826e85f4eccd/)
+   - 当俄勒冈州居民 Isabelle Reksopuro 听说 Google 正在吞噬公共土地为其家乡的数据中心提供燃料时…
+   - `The Verge AI · 2026-05-14`
+
+5. [金融服务中代理人工智能的数据准备情况](https://aihot.bt199.com/news/7db00b81e7f6/)
    - 金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…
    - `MIT Tech Review · 2026-05-14`
 
-4. [在自治系统时代建立人工智能和数据主权](https://aihot.bt199.com/news/f187631eef2e/)
+6. [在自治系统时代建立人工智能和数据主权](https://aihot.bt199.com/news/f187631eef2e/)
    - 当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…
    - `MIT Tech Review · 2026-05-14`
-
-5. [微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息](https://aihot.bt199.com/news/4e1c17be14ec/)
-   - Microsoft Edge 添加了一项新功能，允许其 Copilot AI 聊天机器人从所有打开的选项卡中收集信息。当…
-   - `The Verge AI · 2026-05-13`
-
-6. [马克·扎克伯格宣布“完全私密”的加密 Meta AI 聊天](https://aihot.bt199.com/news/7bb505f9cb46/)
-   - Meta 首席执行官马克·扎克伯格表示，其新的隐身聊天是“第一个在服务器上不存储对话日志的主要人工智能产品”。隐身聊天中…
-   - `The Verge AI · 2026-05-13`
 
 7. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
    - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
