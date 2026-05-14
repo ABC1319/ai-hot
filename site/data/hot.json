@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T08:33:39.683831",
-  "total": 6,
+  "updated_at": "2026-05-14T13:54:05.206280",
+  "total": 7,
   "hot_list": [
     {
       "title": "谁决定人工智能告诉你什么？曾任 Meta 新闻主管的坎贝尔·布朗 (Campbell Brown) 有想法",
@@ -39,6 +39,42 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "金融服务中代理人工智能的数据准备情况",
+      "name": "金融服务中代理人工智能的数据准备情况",
+      "title_zh": "金融服务中代理人工智能的数据准备情况",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-14",
+      "time": "2026-05-14",
+      "description": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "subtitle": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "ai_summary": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "category": "资讯",
+      "news_id": "7db00b81e7f6",
+      "internal_url": "https://aihot.bt199.com/news/7db00b81e7f6/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "在自治系统时代建立人工智能和数据主权",
+      "name": "在自治系统时代建立人工智能和数据主权",
+      "title_zh": "在自治系统时代建立人工智能和数据主权",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-14",
+      "time": "2026-05-14",
+      "description": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "subtitle": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "ai_summary": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "category": "资讯",
+      "news_id": "f187631eef2e",
+      "internal_url": "https://aihot.bt199.com/news/f187631eef2e/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
       "name": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
       "title_zh": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
@@ -54,24 +90,6 @@
       "category": "资讯",
       "news_id": "4e1c17be14ec",
       "internal_url": "https://aihot.bt199.com/news/4e1c17be14ec/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "name": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "title_zh": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "type": "news",
-      "source": "MIT Tech Review",
-      "score": 13,
-      "detail": "2026-05-13",
-      "time": "2026-05-13",
-      "description": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "subtitle": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "ai_summary": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "category": "资讯",
-      "news_id": "110d107a61de",
-      "internal_url": "https://aihot.bt199.com/news/110d107a61de/",
       "type_label": "📰 新闻"
     },
     {
@@ -149,6 +167,42 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "金融服务中代理人工智能的数据准备情况",
+      "name": "金融服务中代理人工智能的数据准备情况",
+      "title_zh": "金融服务中代理人工智能的数据准备情况",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-14",
+      "time": "2026-05-14",
+      "description": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "subtitle": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "ai_summary": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "category": "资讯",
+      "news_id": "7db00b81e7f6",
+      "internal_url": "https://aihot.bt199.com/news/7db00b81e7f6/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "在自治系统时代建立人工智能和数据主权",
+      "name": "在自治系统时代建立人工智能和数据主权",
+      "title_zh": "在自治系统时代建立人工智能和数据主权",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-14",
+      "time": "2026-05-14",
+      "description": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "subtitle": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "ai_summary": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "category": "资讯",
+      "news_id": "f187631eef2e",
+      "internal_url": "https://aihot.bt199.com/news/f187631eef2e/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
       "name": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
       "title_zh": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
@@ -164,24 +218,6 @@
       "category": "资讯",
       "news_id": "4e1c17be14ec",
       "internal_url": "https://aihot.bt199.com/news/4e1c17be14ec/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "name": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "title_zh": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "type": "news",
-      "source": "MIT Tech Review",
-      "score": 13,
-      "detail": "2026-05-13",
-      "time": "2026-05-13",
-      "description": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "subtitle": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "ai_summary": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "category": "资讯",
-      "news_id": "110d107a61de",
-      "internal_url": "https://aihot.bt199.com/news/110d107a61de/",
       "type_label": "📰 新闻"
     },
     {
@@ -224,7 +260,7 @@
   "type_stats": {
     "tool": 0,
     "project": 0,
-    "news": 6,
+    "news": 7,
     "model": 0
   },
   "items": [
@@ -265,6 +301,42 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "金融服务中代理人工智能的数据准备情况",
+      "name": "金融服务中代理人工智能的数据准备情况",
+      "title_zh": "金融服务中代理人工智能的数据准备情况",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-14",
+      "time": "2026-05-14",
+      "description": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "subtitle": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "ai_summary": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…",
+      "category": "资讯",
+      "news_id": "7db00b81e7f6",
+      "internal_url": "https://aihot.bt199.com/news/7db00b81e7f6/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "在自治系统时代建立人工智能和数据主权",
+      "name": "在自治系统时代建立人工智能和数据主权",
+      "title_zh": "在自治系统时代建立人工智能和数据主权",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-14",
+      "time": "2026-05-14",
+      "description": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "subtitle": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "ai_summary": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…",
+      "category": "资讯",
+      "news_id": "f187631eef2e",
+      "internal_url": "https://aihot.bt199.com/news/f187631eef2e/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
       "name": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
       "title_zh": "微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息",
@@ -280,24 +352,6 @@
       "category": "资讯",
       "news_id": "4e1c17be14ec",
       "internal_url": "https://aihot.bt199.com/news/4e1c17be14ec/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "name": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "title_zh": "人工智能聊天机器人正在泄露人们的真实电话号码",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "type": "news",
-      "source": "MIT Tech Review",
-      "score": 13,
-      "detail": "2026-05-13",
-      "time": "2026-05-13",
-      "description": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "subtitle": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "ai_summary": "人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…",
-      "category": "资讯",
-      "news_id": "110d107a61de",
-      "internal_url": "https://aihot.bt199.com/news/110d107a61de/",
       "type_label": "📰 新闻"
     },
     {

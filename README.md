@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-14 16:33:39
+🕐 **最近更新**：2026-05-14 21:54:05
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,19 +24,23 @@
    - 法律科技初创公司，包括 ARR 刚刚达到 5 亿美元的 Clio，正在吸引大量客户采用
    - `TechCrunch AI · 2026-05-14`
 
-3. [微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息](https://aihot.bt199.com/news/4e1c17be14ec/)
+3. [金融服务中代理人工智能的数据准备情况](https://aihot.bt199.com/news/7db00b81e7f6/)
+   - 金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…
+   - `MIT Tech Review · 2026-05-14`
+
+4. [在自治系统时代建立人工智能和数据主权](https://aihot.bt199.com/news/f187631eef2e/)
+   - 当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…
+   - `MIT Tech Review · 2026-05-14`
+
+5. [微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息](https://aihot.bt199.com/news/4e1c17be14ec/)
    - Microsoft Edge 添加了一项新功能，允许其 Copilot AI 聊天机器人从所有打开的选项卡中收集信息。当…
    - `The Verge AI · 2026-05-13`
 
-4. [人工智能聊天机器人正在泄露人们的真实电话号码](https://aihot.bt199.com/news/110d107a61de/)
-   - 人们报告说，他们的个人联系信息被 Google AI 泄露了，而且显然没有简单的方法可以阻止这种情况。 一位 Reddi…
-   - `MIT Tech Review · 2026-05-13`
-
-5. [马克·扎克伯格宣布“完全私密”的加密 Meta AI 聊天](https://aihot.bt199.com/news/7bb505f9cb46/)
+6. [马克·扎克伯格宣布“完全私密”的加密 Meta AI 聊天](https://aihot.bt199.com/news/7bb505f9cb46/)
    - Meta 首席执行官马克·扎克伯格表示，其新的隐身聊天是“第一个在服务器上不存储对话日志的主要人工智能产品”。隐身聊天中…
    - `The Verge AI · 2026-05-13`
 
-6. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
+7. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
    - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
    - `Ars Technica AI · 2026-05-07`
 
@@ -123,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
