@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-14 10:32:49
+🕐 **最近更新**：2026-05-14 16:33:39
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,13 +16,13 @@
 
 ## 🔥 今日热点
 
-1. [Notion刚刚将其工作空间变成了人工智能代理的中心](https://aihot.bt199.com/news/e4edfbe33d59/)
-   - 随着公司深入推进代理生产力软件，Notion 的新开发者平台让团队可以将人工智能代理、外部数据源和自定义代码直接连接到他…
-   - `TechCrunch AI · 2026-05-13`
+1. [谁决定人工智能告诉你什么？曾任 Meta 新闻主管的坎贝尔·布朗 (Campbell Brown) 有想法](https://aihot.bt199.com/news/ebebd918aa44/)
+   - “在硅谷，这种对话是围绕一件事进行的，而消费者之间正在发生一种完全不同的对话。”
+   - `TechCrunch AI · 2026-05-14`
 
-2. [马斯克的 xAI 在其密西西比州数据中心运行着近 50 台未经检查的燃气轮机](https://aihot.bt199.com/news/29058bb3c4c1/)
-   - xAI Colossus 2 数据中心的燃气轮机因该公司使用“移动”燃气轮机作为发电厂而提起诉讼
-   - `TechCrunch AI · 2026-05-13`
+2. [随着 Anthropic 加大赌注，Clio 的 5 亿美元里程碑也随之到来](https://aihot.bt199.com/news/fb356e6d297c/)
+   - 法律科技初创公司，包括 ARR 刚刚达到 5 亿美元的 Clio，正在吸引大量客户采用
+   - `TechCrunch AI · 2026-05-14`
 
 3. [微软的 Edge Copilot 更新使用人工智能从选项卡中提取信息](https://aihot.bt199.com/news/4e1c17be14ec/)
    - Microsoft Edge 添加了一项新功能，允许其 Copilot AI 聊天机器人从所有打开的选项卡中收集信息。当…
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

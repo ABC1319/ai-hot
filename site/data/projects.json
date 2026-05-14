@@ -5373,6 +5373,34 @@
     "collected_at": "2026-05-11T02:28:55.351047"
   },
   {
+    "id": "github-1232963755",
+    "name": "snktibor/Nectar-TP-AI-Hackathon",
+    "display_name": "Nectar-TP-AI-Hackathon",
+    "url": "https://github.com/snktibor/Nectar-TP-AI-Hackathon",
+    "description": "Domain-specializált, RAG-alapú multi-ágens pre-audit rendszer transzferár-dokumentációk (TP) elemzésére. 🏆 7. helyezés a PwC Hungary AI Hackathon 2026-on.",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "chromadb",
+      "document-intelligence",
+      "fastapi",
+      "langgraph",
+      "multi-agent-system",
+      "pwc-hackathon",
+      "rag",
+      "react",
+      "transfer-pricing",
+      "typescript"
+    ],
+    "created_at": "2026-05-08T12:57:41Z",
+    "updated_at": "2026-05-13T18:25:30Z",
+    "license": "NOASSERTION",
+    "source": "github-search",
+    "collected_at": "2026-05-14T08:31:50.845865"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",
@@ -5544,6 +5572,38 @@
     "license": "",
     "source": "github-search",
     "collected_at": "2026-05-11T09:29:28.120947"
+  },
+  {
+    "id": "github-1230041935",
+    "name": "rekursiv-ai/sagent",
+    "display_name": "sagent",
+    "url": "https://github.com/rekursiv-ai/sagent",
+    "description": "Strongly typed Python-first library and CLI for multi-provider, multi-agent coding LLMs with Erlang roots and aspirations.",
+    "stars": 8,
+    "forks": 1,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-orchestration",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "claude-code",
+      "codex-cli",
+      "coding-agent",
+      "gemini-cli",
+      "llm-agent",
+      "machine-learning",
+      "oss",
+      "python"
+    ],
+    "created_at": "2026-05-05T16:09:51Z",
+    "updated_at": "2026-05-14T05:28:27Z",
+    "license": "Apache-2.0",
+    "source": "github-search",
+    "collected_at": "2026-05-14T08:31:50.845882"
   },
   {
     "id": "github-1201368235",
