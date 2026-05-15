@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-15 03:33:00
+🕐 **最近更新**：2026-05-15 10:31:13
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,33 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [据报道，OpenAI 正准备对苹果采取法律行动；它不会是第一个感到被烧伤的合作伙伴](https://aihot.bt199.com/news/3a7e43483526/)
-   - 据彭博社报道，OpenAI 已经聘请了一家外部律师事务所来研究其选择
+1. [埃隆·马斯克 (Elon Musk) 的 SpaceXAI 自合并以来一直在裁员](https://aihot.bt199.com/news/a798c83d7c0e/)
+   - 据报道，自 2 月份以来，已有 50 多名员工离开了埃隆·马斯克 (Elon Musk) 新合并的 SpaceXAI，引…
    - `TechCrunch AI · 2026-05-14`
 
-2. [Clawdmeter 将您的 Claude Code 使用统计数据变成一个小型桌面仪表板](https://aihot.bt199.com/news/2c05eee6a567/)
-   - 一款名为 Clawdmeter 的新开源小工具将 Claude Code 使用统计数据转变为供 AI 编码高级用户使用的…
-   - `TechCrunch AI · 2026-05-14`
-
-3. [微软开始取消 Claude Code 许可证](https://aihot.bt199.com/news/d38fa000ee7a/)
-   - 微软于去年 12 月首次开放对 Claude Code 的访问，邀请数千名自己的开发人员每天使用 Anthropic 的…
+2. [关门时间](https://aihot.bt199.com/news/1d0c2f9f5af6/)
+   - 今天是马斯克诉奥特曼案审判的结案陈词，写下我刚刚目睹的令人难以置信的拆除德比，我几乎感觉很糟糕。马斯克的律师史蒂文·莫洛…
    - `The Verge AI · 2026-05-14`
 
-4. [使用此地图查找您后院的数据中心](https://aihot.bt199.com/news/826e85f4eccd/)
-   - 当俄勒冈州居民 Isabelle Reksopuro 听说 Google 正在吞噬公共土地为其家乡的数据中心提供燃料时…
+3. [看哪，埃隆·马斯克的傻瓜奖杯](https://aihot.bt199.com/news/173612216323/)
+   - 昨天，在马斯克诉奥特曼一案中，在陪审员到来之前，山姆·奥特曼的团队放弃了从远处看像是一个小联盟奖杯的东西。事实并非如此…
    - `The Verge AI · 2026-05-14`
 
-5. [金融服务中代理人工智能的数据准备情况](https://aihot.bt199.com/news/7db00b81e7f6/)
+4. [金融服务中代理人工智能的数据准备情况](https://aihot.bt199.com/news/7db00b81e7f6/)
    - 金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代…
    - `MIT Tech Review · 2026-05-14`
 
-6. [在自治系统时代建立人工智能和数据主权](https://aihot.bt199.com/news/f187631eef2e/)
+5. [在自治系统时代建立人工智能和数据主权](https://aihot.bt199.com/news/f187631eef2e/)
    - 当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数…
    - `MIT Tech Review · 2026-05-14`
 
-7. [Mozilla 表示 Mythos 发现的 271 个漏洞“几乎没有误报”](https://aihot.bt199.com/news/9fc187e8a48d/)
-   - Firefox 的开发商表示，它已经“完全接受”人工智能辅助的错误发现
-   - `Ars Technica AI · 2026-05-07`
+6. [OpenAI 表示 Codex 即将登陆你的手机](https://aihot.bt199.com/news/5cc6e708b103/)
+   - 此次更新为用户管理工作流程提供了更大的灵活性
+   - `TechCrunch AI · 2026-05-14`
 
 
 ## 🤖 AI 简报
@@ -127,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
