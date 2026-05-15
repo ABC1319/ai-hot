@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "实现过程开源可复现"
 summary_zh = ""
 tags = []
-list_page = 25
+list_page = 27
 +++
 
 <!-- AUTO-GENERATED: news page -->
