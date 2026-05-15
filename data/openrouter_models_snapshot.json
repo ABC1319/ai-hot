@@ -118,10 +118,10 @@
       }
     },
     {
-      "id": "inclusionai/ring-2.6-1t:free",
+      "id": "inclusionai/ring-2.6-1t",
       "canonical_slug": "inclusionai/ring-2.6-1t-20260508",
       "hugging_face_id": null,
-      "name": "inclusionAI: Ring-2.6-1T (free)",
+      "name": "inclusionAI: Ring-2.6-1T",
       "created": 1778247440,
       "description": "Ring-2.6-1T is a 1T-parameter-scale thinking model with 63B active parameters, built for real-world agent workflows that require both strong capability and operational efficiency. It is optimized for coding agents, tool...",
       "context_length": 262144,
@@ -137,8 +137,9 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0",
-        "completion": "0"
+        "prompt": "0.000000075",
+        "completion": "0.000000625",
+        "input_cache_read": "0.000000015"
       },
       "top_provider": {
         "context_length": 262144,
@@ -153,6 +154,7 @@
         "presence_penalty",
         "reasoning",
         "repetition_penalty",
+        "response_format",
         "seed",
         "stop",
         "temperature",
@@ -1728,7 +1730,7 @@
       "name": "DeepSeek: DeepSeek V4 Flash",
       "created": 1777000666,
       "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
-      "context_length": 1048576,
+      "context_length": 1048575,
       "architecture": {
         "modality": "text->text",
         "input_modalities": [
@@ -1741,13 +1743,13 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.000000126",
-        "completion": "0.000000252",
-        "input_cache_read": "0.0000000252"
+        "prompt": "0.000000112",
+        "completion": "0.000000224",
+        "input_cache_read": "0.000000022"
       },
       "top_provider": {
-        "context_length": 1048576,
-        "max_completion_tokens": 131072,
+        "context_length": 1048575,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -8029,68 +8031,6 @@
       }
     },
     {
-      "id": "x-ai/grok-4.1-fast",
-      "canonical_slug": "x-ai/grok-4.1-fast",
-      "hugging_face_id": "",
-      "name": "xAI: Grok 4.1 Fast",
-      "created": 1763587502,
-      "description": "Grok 4.1 Fast is xAI's best agentic tool calling model that shines in real-world use cases like customer support and deep research. 2M context window. Reasoning can be enabled/disabled using...",
-      "context_length": 2000000,
-      "architecture": {
-        "modality": "text+image+file->text",
-        "input_modalities": [
-          "text",
-          "image",
-          "file"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Grok",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000005",
-        "web_search": "0.005",
-        "input_cache_read": "0.00000005"
-      },
-      "top_provider": {
-        "context_length": 2000000,
-        "max_completion_tokens": 30000,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "include_reasoning",
-        "logprobs",
-        "max_tokens",
-        "reasoning",
-        "response_format",
-        "seed",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": 0.7,
-        "top_p": 0.95,
-        "top_k": null,
-        "frequency_penalty": null,
-        "presence_penalty": null,
-        "repetition_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": null,
-      "expiration_date": "2026-05-15",
-      "links": {
-        "details": "/api/v1/models/x-ai/grok-4.1-fast/endpoints"
-      }
-    },
-    {
       "id": "deepcogito/cogito-v2.1-671b",
       "canonical_slug": "deepcogito/cogito-v2.1-671b-20251118",
       "hugging_face_id": "",
@@ -8394,8 +8334,7 @@
       },
       "pricing": {
         "prompt": "0.0000006",
-        "completion": "0.0000025",
-        "input_cache_read": "0.00000015"
+        "completion": "0.0000025"
       },
       "top_provider": {
         "context_length": 262144,
@@ -10393,68 +10332,6 @@
       }
     },
     {
-      "id": "x-ai/grok-4-fast",
-      "canonical_slug": "x-ai/grok-4-fast",
-      "hugging_face_id": "",
-      "name": "xAI: Grok 4 Fast",
-      "created": 1758240090,
-      "description": "Grok 4 Fast is xAI's latest multimodal model with SOTA cost-efficiency and a 2M token context window. It comes in two flavors: non-reasoning and reasoning. Read more about the model...",
-      "context_length": 2000000,
-      "architecture": {
-        "modality": "text+image+file->text",
-        "input_modalities": [
-          "text",
-          "image",
-          "file"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Grok",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000005",
-        "web_search": "0.005",
-        "input_cache_read": "0.00000005"
-      },
-      "top_provider": {
-        "context_length": 2000000,
-        "max_completion_tokens": 30000,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "include_reasoning",
-        "logprobs",
-        "max_tokens",
-        "reasoning",
-        "response_format",
-        "seed",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": null,
-        "top_p": null,
-        "top_k": null,
-        "frequency_penalty": null,
-        "presence_penalty": null,
-        "repetition_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-09-30",
-      "expiration_date": "2026-05-15",
-      "links": {
-        "details": "/api/v1/models/x-ai/grok-4-fast/endpoints"
-      }
-    },
-    {
       "id": "alibaba/tongyi-deepresearch-30b-a3b",
       "canonical_slug": "alibaba/tongyi-deepresearch-30b-a3b",
       "hugging_face_id": "Alibaba-NLP/Tongyi-DeepResearch-30B-A3B",
@@ -11061,67 +10938,6 @@
       "expiration_date": null,
       "links": {
         "details": "/api/v1/models/qwen/qwen3-30b-a3b-thinking-2507/endpoints"
-      }
-    },
-    {
-      "id": "x-ai/grok-code-fast-1",
-      "canonical_slug": "x-ai/grok-code-fast-1",
-      "hugging_face_id": "",
-      "name": "xAI: Grok Code Fast 1",
-      "created": 1756238927,
-      "description": "Grok Code Fast 1 is a speedy and economical reasoning model that excels at agentic coding. With reasoning traces visible in the response, developers can steer Grok Code for high-quality...",
-      "context_length": 256000,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Grok",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000002",
-        "completion": "0.0000015",
-        "web_search": "0.005",
-        "input_cache_read": "0.00000002"
-      },
-      "top_provider": {
-        "context_length": 256000,
-        "max_completion_tokens": 10000,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "include_reasoning",
-        "logprobs",
-        "max_tokens",
-        "reasoning",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": null,
-        "top_p": null,
-        "top_k": null,
-        "frequency_penalty": null,
-        "presence_penalty": null,
-        "repetition_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-09-30",
-      "expiration_date": "2026-05-15",
-      "links": {
-        "details": "/api/v1/models/x-ai/grok-code-fast-1/endpoints"
       }
     },
     {
@@ -13075,68 +12891,6 @@
       }
     },
     {
-      "id": "x-ai/grok-4",
-      "canonical_slug": "x-ai/grok-4-07-09",
-      "hugging_face_id": "",
-      "name": "xAI: Grok 4",
-      "created": 1752087689,
-      "description": "Grok 4 is xAI's latest reasoning model with a 256k context window. It supports parallel tool calling, structured outputs, and both image and text inputs. Note that reasoning is not...",
-      "context_length": 256000,
-      "architecture": {
-        "modality": "text+image+file->text",
-        "input_modalities": [
-          "image",
-          "text",
-          "file"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Grok",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.000003",
-        "completion": "0.000015",
-        "web_search": "0.005",
-        "input_cache_read": "0.00000075"
-      },
-      "top_provider": {
-        "context_length": 256000,
-        "max_completion_tokens": null,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "include_reasoning",
-        "logprobs",
-        "max_tokens",
-        "reasoning",
-        "response_format",
-        "seed",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": null,
-        "top_p": null,
-        "top_k": null,
-        "frequency_penalty": null,
-        "presence_penalty": null,
-        "repetition_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-07-31",
-      "expiration_date": "2026-05-15",
-      "links": {
-        "details": "/api/v1/models/x-ai/grok-4-07-09/endpoints"
-      }
-    },
-    {
       "id": "tencent/hunyuan-a13b-instruct",
       "canonical_slug": "tencent/hunyuan-a13b-instruct",
       "hugging_face_id": "tencent/Hunyuan-A13B-Instruct",
@@ -13361,6 +13115,7 @@
         "max_tokens",
         "presence_penalty",
         "repetition_penalty",
+        "response_format",
         "seed",
         "stop",
         "temperature",
@@ -13668,118 +13423,6 @@
       "expiration_date": null,
       "links": {
         "details": "/api/v1/models/openai/o3-pro-2025-06-10/endpoints"
-      }
-    },
-    {
-      "id": "x-ai/grok-3-mini",
-      "canonical_slug": "x-ai/grok-3-mini",
-      "hugging_face_id": "",
-      "name": "xAI: Grok 3 Mini",
-      "created": 1749583245,
-      "description": "A lightweight model that thinks before responding. Fast, smart, and great for logic-based tasks that do not require deep domain knowledge. The raw thinking traces are accessible.",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Grok",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.0000003",
-        "completion": "0.0000005",
-        "web_search": "0.005",
-        "input_cache_read": "0.000000075"
-      },
-      "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": null,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "include_reasoning",
-        "logprobs",
-        "max_tokens",
-        "reasoning",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": null,
-        "top_p": null,
-        "frequency_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-02-28",
-      "expiration_date": "2026-05-15",
-      "links": {
-        "details": "/api/v1/models/x-ai/grok-3-mini/endpoints"
-      }
-    },
-    {
-      "id": "x-ai/grok-3",
-      "canonical_slug": "x-ai/grok-3",
-      "hugging_face_id": "",
-      "name": "xAI: Grok 3",
-      "created": 1749582908,
-      "description": "Grok 3 is the latest model from xAI. It's their flagship model that excels at enterprise use cases like data extraction, coding, and text summarization. Possesses deep domain knowledge in...",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Grok",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0.000003",
-        "completion": "0.000015",
-        "web_search": "0.005",
-        "input_cache_read": "0.00000075"
-      },
-      "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": null,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "logprobs",
-        "max_tokens",
-        "presence_penalty",
-        "response_format",
-        "seed",
-        "stop",
-        "structured_outputs",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {},
-      "supported_voices": null,
-      "knowledge_cutoff": "2025-02-28",
-      "expiration_date": "2026-05-15",
-      "links": {
-        "details": "/api/v1/models/x-ai/grok-3/endpoints"
       }
     },
     {
@@ -16829,8 +16472,10 @@
         "presence_penalty",
         "reasoning",
         "repetition_penalty",
+        "response_format",
         "seed",
         "stop",
+        "structured_outputs",
         "temperature",
         "tool_choice",
         "tools",
@@ -19324,6 +18969,7 @@
         "min_p",
         "presence_penalty",
         "repetition_penalty",
+        "response_format",
         "seed",
         "stop",
         "temperature",
@@ -19374,6 +19020,7 @@
         "repetition_penalty",
         "seed",
         "stop",
+        "structured_outputs",
         "temperature",
         "top_k",
         "top_p"
@@ -19474,6 +19121,7 @@
         "max_tokens",
         "presence_penalty",
         "repetition_penalty",
+        "response_format",
         "seed",
         "stop",
         "temperature",
@@ -20355,5 +20003,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-15T13:50:06.744389+00:00"
+  "updated_at": "2026-05-15T19:22:52.330064+00:00"
 }

@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-15 21:51:15
+🕐 **最近更新**：2026-05-16 03:23:52
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [Osaurus 将本地和云端 AI 模型带到您的 Mac 上](https://aihot.bt199.com/news/5d5f0482cd39/)
-   - Osaurus￼ 将本地和云 AI 模型结合在 Mac 应用程序中，将用户的内存、文件和工具保留在自己的硬件上
+1. [人工智能推高价格之际，硅谷的度假胜地需要新的能源供应商](https://aihot.bt199.com/news/fbdbbdaad4a0/)
+   - 随着人工智能推动电力需求，硅谷最受欢迎的滑雪胜地太浩湖即将受到能源价格上涨的打击
    - `TechCrunch AI · 2026-05-15`
 
-2. [埃隆·马斯克 (Elon Musk) 的 SpaceXAI 自合并以来一直在裁员](https://aihot.bt199.com/news/a798c83d7c0e/)
-   - 据报道，自 2 月份以来，已有 50 多名员工离开了埃隆·马斯克 (Elon Musk) 新合并的 SpaceXAI，引…
-   - `TechCrunch AI · 2026-05-14`
+2. [OpenAI 推出个人理财 ChatGPT，让你连接银行账户](https://aihot.bt199.com/news/ba162ec2cb94/)
+   - 一旦用户连接他们的帐户，他们将看到他们的投资组合绩效、支出、订阅和即将付款的仪表板
+   - `TechCrunch AI · 2026-05-15`
 
-3. [AI研究论文越来越好，对科学家来说是个大问题](https://aihot.bt199.com/news/0a3c404dc0b5/)
-   - 去年夏天，彼得·德根的博士后导师向他提出了一个不寻常的问题：他的一篇论文被引用过多。引用是学术界的通货，但引用却有些不寻…
+3. [OpenAI不断洗牌高管以赢得人工智能代理之战](https://aihot.bt199.com/news/17910095770d/)
+   - OpenAI 周五宣布了另一项重组，整合了某些领域，并让公司总裁格雷格·布罗克曼 (Greg Brockman) 担任万…
    - `The Verge AI · 2026-05-15`
 
-4. [中国短剧如何成为AI内容机器](https://aihot.bt199.com/news/03022e48742f/)
+4. [人工智能电台主持人展示了为什么人工智能不能单独信任](https://aihot.bt199.com/news/7442d3b30e2b/)
+   - Andon Labs 一直在进行一系列实验，让人工智能代理在没有人工干预的情况下运行业务。它的最新产品是由一些最流行的人…
+   - `The Verge AI · 2026-05-15`
+
+5. [中国短剧如何成为AI内容机器](https://aihot.bt199.com/news/03022e48742f/)
    - 在一间灯光昏暗的卧室里，一名受惊的年轻女子被一名高大、肌肉发达的男子扔到床上。他抓住她的手，火焰般的藤蔓爬过她的身体，与…
    - `MIT Tech Review · 2026-05-15`
-
-5. [关门时间](https://aihot.bt199.com/news/1d0c2f9f5af6/)
-   - 今天是马斯克诉奥特曼案审判的结案陈词，写下我刚刚目睹的令人难以置信的拆除德比，我几乎感觉很糟糕。马斯克的律师史蒂文·莫洛…
-   - `The Verge AI · 2026-05-14`
 
 
 ## 🤖 AI 简报
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
