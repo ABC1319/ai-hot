@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T13:07:24.929930",
+  "updated_at": "2026-05-16T18:56:25.857332",
   "total": 5,
   "hot_list": [
     {
@@ -39,6 +39,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "索尼试图解释其人工智能相机助手并不糟糕",
+      "name": "索尼试图解释其人工智能相机助手并不糟糕",
+      "title_zh": "索尼试图解释其人工智能相机助手并不糟糕",
+      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-16",
+      "time": "2026-05-16",
+      "description": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "subtitle": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "ai_summary": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "category": "资讯",
+      "news_id": "a667f385c15c",
+      "internal_url": "https://aihot.bt199.com/news/a667f385c15c/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
       "name": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
       "title_zh": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
@@ -72,24 +90,6 @@
       "category": "资讯",
       "news_id": "3ae6721de06e",
       "internal_url": "https://aihot.bt199.com/news/3ae6721de06e/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "name": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "title_zh": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-15",
-      "time": "2026-05-15",
-      "description": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "subtitle": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "ai_summary": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "category": "资讯",
-      "news_id": "00097bc0707b",
-      "internal_url": "https://aihot.bt199.com/news/00097bc0707b/",
       "type_label": "📰 新闻"
     }
   ],
@@ -131,6 +131,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "索尼试图解释其人工智能相机助手并不糟糕",
+      "name": "索尼试图解释其人工智能相机助手并不糟糕",
+      "title_zh": "索尼试图解释其人工智能相机助手并不糟糕",
+      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-16",
+      "time": "2026-05-16",
+      "description": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "subtitle": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "ai_summary": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "category": "资讯",
+      "news_id": "a667f385c15c",
+      "internal_url": "https://aihot.bt199.com/news/a667f385c15c/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
       "name": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
       "title_zh": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
@@ -164,24 +182,6 @@
       "category": "资讯",
       "news_id": "3ae6721de06e",
       "internal_url": "https://aihot.bt199.com/news/3ae6721de06e/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "name": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "title_zh": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-15",
-      "time": "2026-05-15",
-      "description": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "subtitle": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "ai_summary": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "category": "资讯",
-      "news_id": "00097bc0707b",
-      "internal_url": "https://aihot.bt199.com/news/00097bc0707b/",
       "type_label": "📰 新闻"
     }
   ],
@@ -229,6 +229,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "索尼试图解释其人工智能相机助手并不糟糕",
+      "name": "索尼试图解释其人工智能相机助手并不糟糕",
+      "title_zh": "索尼试图解释其人工智能相机助手并不糟糕",
+      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-16",
+      "time": "2026-05-16",
+      "description": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "subtitle": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "ai_summary": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…",
+      "category": "资讯",
+      "news_id": "a667f385c15c",
+      "internal_url": "https://aihot.bt199.com/news/a667f385c15c/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
       "name": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
       "title_zh": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
@@ -262,24 +280,6 @@
       "category": "资讯",
       "news_id": "3ae6721de06e",
       "internal_url": "https://aihot.bt199.com/news/3ae6721de06e/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "name": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "title_zh": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-15",
-      "time": "2026-05-15",
-      "description": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "subtitle": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "ai_summary": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…",
-      "category": "资讯",
-      "news_id": "00097bc0707b",
-      "internal_url": "https://aihot.bt199.com/news/00097bc0707b/",
       "type_label": "📰 新闻"
     }
   ]

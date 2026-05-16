@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-16 21:07:25
+🕐 **最近更新**：2026-05-17 02:56:26
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,16 +24,16 @@
    - 随着人工智能推动电力需求，硅谷最受欢迎的滑雪胜地太浩湖即将受到能源价格上涨的打击
    - `TechCrunch AI · 2026-05-15`
 
-3. [马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。](https://aihot.bt199.com/news/9c8aa558adfd/)
+3. [索尼试图解释其人工智能相机助手并不糟糕](https://aihot.bt199.com/news/a667f385c15c/)
+   - 索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…
+   - `The Verge AI · 2026-05-16`
+
+4. [马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。](https://aihot.bt199.com/news/9c8aa558adfd/)
    - 在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官萨姆·奥特曼的可信度展开了激烈的争论…
    - `MIT Tech Review · 2026-05-15`
 
-4. [YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户](https://aihot.bt199.com/news/3ae6721de06e/)
+5. [YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户](https://aihot.bt199.com/news/3ae6721de06e/)
    - YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…
-   - `The Verge AI · 2026-05-15`
-
-5. [ArXiv 将禁止上传充满 AI 垃圾论文的研究人员](https://aihot.bt199.com/news/00097bc0707b/)
-   - ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…
    - `The Verge AI · 2026-05-15`
 
 
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
