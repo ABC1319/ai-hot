@@ -4,10 +4,12 @@
   "news_count": 20,
   "sources": {
     "36氪": 4,
-    "MIT Tech Review": 2,
-    "The Verge AI": 7,
-    "Hacker News AI": 2,
-    "TechCrunch AI": 5
+    "量子位": 2,
+    "V2EX": 2,
+    "MIT Tech Review": 1,
+    "The Verge AI": 6,
+    "Hacker News AI": 1,
+    "TechCrunch AI": 4
   },
   "emoji": "⚡"
 }

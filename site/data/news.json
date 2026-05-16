@@ -15,6 +15,57 @@
     "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n阿里云高级技术专家马腾已确认出席 “\n大模型推理优化\n” 专题，并发表题为《\n记忆感知的大模型 KVCache 优化\n》的主题分享。本次分享重点介绍以 KVCache 为中心的开源大模型服务框架——Mooncake。将大模型推理引擎中的 KVCache 视作智能体系统最核心的“物理工作记忆”载体。通过打破传统推理中计算与存储的强耦合，Mooncake 实现了 Prefill 与 Decode 的分离式架构，并构建了全局共享的 KVCache 池。这种设计使得多智能体在频繁交互与协同工作时，能够通过跨节点的底层张量零拷贝与高效复用，实现记忆的“一次计算、全局共享”。\n马腾，阿里云高级技术专家，在阿里云主要大模型软件栈在新硬件环境下国产化的研究工作，并共同创建了大模型开源项目 Mooncake（5K Star）。目前 Mooncake 已经有阿里云 / 清华 / 月之暗面 / 蚂蚁 / 字节 / 趋境科技等多方参与，并且成功接入 vLLM/SGLang/LMDeploy/LMCache 等社区。同时他也是 SGLang, RBG 等社区的 Committer。他在 SOSP, ASPLOS, ATC, SC, INFOCOM, VLDB, TPDS 等顶级会议和期刊上发表论文二十余篇，相关成果授权美国 / 中国专利 10 项。他曾入选 CCF 系统软件专委会优秀博士论文激励计划，担任 PPoPP, FAST, DASFAA, TPDS, ICME, TC, JSC 等国际会议 / 期刊的程序委员会成员和审稿人。他在本次会议的详细演讲内容如下："
   },
   {
+    "id": "dfd3e2f2013a",
+    "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+    "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-16T07:29:15",
+    "summary": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下人工智能编码代理 ChatGPT、Codex 以及面向开发者的 API 整合到一个核心产品团队中。（鞭牛士）",
+    "collected_at": "2026-05-16T07:54:39.533053"
+  },
+  {
+    "id": "1e09c8d6318e",
+    "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
+    "url": "https://www.qbitai.com/2026/05/418594.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-16T06:52:14",
+    "summary": "奥特曼的20亿持股版图也曝光了",
+    "collected_at": "2026-05-16T07:52:20.616571",
+    "content_text": "奥特曼投的芯片涨疯了，今年最大科技IPO\n听雨\n2026-05-16\n14:52:14\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\nOpenAI「扶持」的AI芯片企业\nCerebras Systems\n，正式在纳斯达克敲钟上市！\n股票代码为\nCBRS\n，发行价185美元，开盘价直接冲上350美元，盘中一度飙升到每股386美元（约合人民币2619元）。\n收盘涨幅定格在\n68%\n，每股311美元（约合人民币2111元），总市值约\n670亿美元\n（约合人民币4543亿元）。\n这是\n今年迄今规模最大的IPO\n，也是自2019年Uber上市以来美国科技公司规模最大的IPO。\n这一天，CEO\nAndrew Feldman\n的个人身家暴涨至32亿美元，技术总监Sean Lie的持股也值17亿。\n但全场还有一个大赢家，是一个根本没到场的人——\n山姆·奥特曼\n。\n奥特曼早年曾投资Cerebras，持有约8.9万股，按发行价185美元计算，奥特曼持股价值约1650万美元。\n首日大涨后，涨至约\n2780万美元\n。\nGreg Brockman也持有约7.8万股，分别对应约1440万和2420万美元。\n好好好，你俩小子又赚得盆满钵满了是吧？\n上市这一天：募资55亿，AI芯片第三极诞生\nCerebras的IPO，是今年美国市场最大的一笔。\n公司原定发行区间上限为每股160美元，最终定价185美元，募得55.5亿美元。\n若承销商行使超额配售权，总募资可达63.8亿美元。\n这个数字本身就说明了市场情绪，但真正的疯狂发生在开盘铃响之后。\n开盘350美元，盘中一度触及386美元，涨幅超108%。最终收涨68%，报311美元。盘后继续上涨近6%，报329美元。\n两位联创当天跻身亿万富翁\n。CEO Andrew Feldman持股价值约32亿美元，CTO Sean Lie约17亿美元。\n早期机构投资人收益同样可观。Benchmark持股价值约55亿美元，Foundation Capital约48亿美元。\n值得一提的是，就在Cerebras正式启动IPO的数周前，Arm和软银先后向其提出收购意向，均遭拒绝。\n今年2月，这家公司的私募估值还是231亿美元。首日收盘，一下变成670亿。\n从Cerebras的主营业务来看，市值能飚这么高，不是没有原因的。\n这家公司的核心赌注只有一个：\n不切割晶圆\n。\n传统芯片制造会把一片晶圆切成几百块小芯片，Cerebras反其道而行，直接把整块晶圆做成一枚芯片，称为\n晶圆级引擎（WSE）\n。\n核心间通信全在片上完成，延迟极低，专为AI推理场景优化。\n第三代WSE-3面积是英伟达B200的58倍，官方数据称跑主流开源大模型速度比GPU方案快15倍，特殊工作负载下快1000倍以上。\nCerebras不跟英伟达拼通用GPU，而是聚焦一个更垂直的市场：当大模型训练完成后，如何以更低的成本、更高的效率完成推理响应。\n业务结构上，Cerebras走了一条「芯片+云+数据中心」的三位一体路线。\n卖芯片给超大规模客户，同时通过Cerebras Cloud提供算力即服务，还帮中东主权基金和云厂商建AI数据中心。\nOpenAI、AWS、阿联酋科技公司G42、阿联酋人工智能大学MBZUAI\n，都是Cerebras的重要客户。\n财务上，公司增速惊人。\n2022年营收2460万美元，2025年涨到5.10亿美元，增长超19倍，2025年同比增速76%。\n2025年实现净利润2.38亿美元（非GAAP口径），完成扭亏。\nOpenAI和奥特曼是这场IPO的最大赢家之一\nCerebras上市招股书中最耀眼的客户名，是OpenAI。\n今年1月，OpenAI与Cerebras签署了一份价值超200亿美元的多年算力合同，750兆瓦算力，从2026年到2028年分批部署。\nOpenAI还向Cerebras提供了10亿美元贷款，年利率6%，用于建设数据中心。\n作为交换，Cerebras向OpenAI发行了认股权证，OpenAI最多可认购3340万股非投票权股。\n按IPO中间价估算，这部分权证价值约50亿美元——大约是Cerebras从这笔交易中获得毛利润的一半。\n而在个人层面上，奥特曼和Greg Brockman早年就以个人身份入股了Cerebras。\n根据目前打得正火热的马斯克诉OpenAI庭审中披露的文件，截至2025年底，奥特曼持有约8.9万股，Brockman持有约7.8万股。\n按发行价185美元计算，奥特曼持股价值约1650万美元。首日大涨后，涨至约2780万美元。\nBrockman则对应约1440万和2420万美元。\n两家公司的渊源其实更早。\n2017年，OpenAI就曾考虑与Cerebras合并，当时计划由OpenAI和特斯拉联合完成这笔收购，但被Cerebras创始团队拒绝了。\n这段历史，是在马斯克诉OpenAI的庭审中被意外披露的。\n庭审曝光奥特曼的「利益版图」：超20亿美元\n就在Cerebras敲钟上市的同一天，马斯克诉奥特曼案庭审中，一份文件被摆上了台面。\n马斯克首席律师Steven Molo展示了一份清单，列明奥特曼在9家与OpenAI有商业往来的公司中的持股情况。\n截至2025年12月31日，合计\n超过20亿美元\n。\n我也（随手）扒了一下这些公司的名单，发现奥特曼虽然在OpenAI不持股，但外围资产实在是布局得很大。\n可以说是\n精准覆盖了OpenAI的「上下游朋友圈」\n：算力、能源、数据、人才工具、生物制药。\n其中最重的一笔是\nHelion Energy\n，一家核聚变初创公司，奥特曼持有价值17亿美元的股份。\n这家公司目前没有任何营收，私募市场估值54亿美元。\n奥特曼与创始人相识多年，2015年首次投资，并在2022年底推动OpenAI董事会探索与Helion的合作。\n2024年，Helion与OpenAI签署了能源供应协议。奥特曼本人于2026年3月退出了Helion董事会，但他仍是最大个人股东。\nStripe\n，这家金融科技巨头，奥特曼持有6.33亿美元。\nRetro Biosciences\n，抗衰老制药公司，奥特曼持有2.58亿美元。\nReddit\n，奥特曼曾在2024年内容合作协议前后持有超6亿美元股份，目前已清仓。\n此外还有Lattice（人事软件）、Humane（AI设备）、Formation Bio（AI制药），都在名单上。\nOpenAI的业务扩张，某种程度上也成了奥特曼个人投资组合的催化剂。\n多说一句加州那边的题外话。\n在法庭上，马斯克律师也以此为由质疑奥特曼的行为：\n奥特曼在OpenAI与Cerebras的100亿美元计算协议、与Helion的能源协议、与Reddit的内容合作协议中，都存在「明显的利益冲突」。\n当OpenAI与这些公司签合同、付费时，奥特曼个人也在受益，即便他在OpenAI本身没有持股、也不领薪水。\n但奥特曼这小子表示，我已经回避了呀~\n他称涉及自身有投资的公司，相关讨论他均已主动回避。\n以Helion为例，他说2024年双方能源协议签署时，他「两边都回避了，没有签字」。\n不过这套说辞很难蒙住州检察长和众议院。\n美国10位州检察长联名要求SEC审查OpenAI上市前相关文件；众议院监督委员会也于上周致函奥特曼，要求说明OpenAI如何识别和防范利益冲突。\n案情如何，还需等待后续发展。\nAI IPO浪潮要来了\nCerebras是\n最大的纯AI芯片IPO\n，也是美国自2019年Uber以来，最大的科技IPO。\n它的强势首秀，给市场打了一针强心剂\n虽然英伟达仍以约5万亿美元的市值一骑绝尘，但Cerebras的崛起证明了一件事：\n资本市场愿意为「非英伟达路线」支付极高的溢价\n。\n对比其他英伟达挑战者们，截至昨日收盘，A股上市的寒武纪、摩尔线程、沐曦股份市值分别为7920亿元、3206亿元、2964亿元。\n港股上市的天数智芯、壁仞科技市值分别为1271亿港元（约合人民币1101亿元）、1263亿港元（约合人民币1094亿元）。\n更值得关注的是那些还在私有市场的玩家。\nSambaNova、Tenstorrent（由芯片架构传奇Jim Keller坐镇），这些公司都在Cerebras的IPO中看到了自己的未来估值的想象空间。\n后续备受关注的潜在上市方，还有马斯克的SpaceX（今年2月已并入xAI，计划年中上市）、OpenAI，以及Anthropic。\n三家至今均未公布确定时间表，但市场预期正在升温。\n潮已经涨起来了。\n参考链接：\n[1]https://www.bloomberg.com/news/articles/2026-05-14/cerebras-shares-indicated-to-surge-89-after-year-s-top-ipo\n[2]https://www.businessinsider.com/cerebras-ipo-openai-ceo-sam-altman-stake-2026-5\n[3]https://www.reuters.com/legal/government/openai-chief-altman-has-over-2-billion-stake-companies-that-dealt-with-openai-2026-05-13/\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 4015,
+    "content_excerpt": "奥特曼投的芯片涨疯了，今年最大科技IPO\n听雨\n2026-05-16\n14:52:14\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\nOpenAI「扶持」的AI芯片企业\nCerebras Systems"
+  },
+  {
+    "id": "v2ex-1213129",
+    "title": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+    "url": "https://www.v2ex.com/t/1213129",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-16T02:52:24",
+    "summary": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+    "collected_at": "2026-05-16T07:54:41.642927"
+  },
+  {
+    "id": "ec8304fb7a9c",
+    "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+    "url": "https://www.qbitai.com/2026/05/418491.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-16T04:49:15",
+    "summary": "阿里健康发布「氢离子」",
+    "collected_at": "2026-05-16T07:52:20.616720",
+    "content_text": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源\n梦晨\n2026-05-16\n12:49:15\n来源：\n量子位\n金磊 发自 杭州\n量子位 | 公众号 QbitAI\n很反差。\n明明是一场AI的发布会，台下却坐满了\n医学界\n的大佬们：\n有北大、清华的，有浙江、上海的，甚至医学顶刊BMJ集团的主编都来围观了……\n为啥会这样？\n因为\n阿里健康\n正式发布了一个新的\n医学AI\n产品——\n氢离子\n，主打的就是靠谱的医学AI助手。\n或许你还会有疑问，现在通用大模型、医疗AI不是蛮多的么，阿里健康干嘛还要再另起炉灶啊？\n好问题。\n阿里健康CTO\n王祥志\n在现场举的例子，就直击了这个问题的七寸。\n他用专业的Prompt来约束通用大模型：\n你必须要查询专业的文献，告诉我氟泽雷塞的使用注意事项，当病人出现漏服到底怎么办的时候？\n结果，通用大模型一本正经地给出了错误的补服建议……\n在容错率极低的医学场景下，这绝对是个Big Problem。\n除此之外，在“用”这件事上，也有问题。\n目前中国50%的医生，会通过4个以上的APP来解决他们的问题，包括查询用药、查询临床指南，查询中英文文献还要再去不同的论文网站……\n所以，氢离子要做的事情就一目了然了。\n不仅是要更聪明，最重点的是，要让中国500万医生用得\n够可靠\n、\n够方便\n。\n把靠谱的证据摆到500万医生面前\n首先需要厘清一个核心概念。\n氢离子不是医生用来给患者看病的那种AI，它是专门解决中国500万医生查证据慢、找文献难、读英文累、不同工具来回切换，以及通用AI容易说胡话等痛点的。\n为此，氢离子甩出了三板斧，精准直击痛点。\n循证智能问答，每句话都有迹可循\n医生可以用自然语言来提问，例如：\n糖尿病肾病SGLT2抑制剂最新指南。\n甚至医生们还可以通过语音、图片、病例文本等方式表达需求，系统会再根据问题拆解意图、检索证据、组织答案：\n但更重要的是，答案可不只是完整回答那么简单。\n氢离子强调，每个答案背后都会有指南、文献、说明书等医学证据支撑，并且可以定位到原文中的具体段落：\n医生点击对应引用，就能看到证据来自哪篇文献、哪一部分原文，以及原文如何支持这个结论。\n这点对医学AI非常关键。\n因为医生真正需要的，正是一个能把证据链摆清楚的助手。\nAI给出结论之后，医生必须能回头检查：这个结论依据的是指南、RCT研究、真实世界研究，还是某种较弱证据？它适用的人群是谁？样本量多大？是否和眼前患者相似？\n如此一来，在查得快，且找得准的基础上，才能把核对证据的权利完完整整地交还给医生。\n精准文献搜索，独家牵手国际顶刊\n阿里健康正式宣布与英国BMJ集团达成期刊内容独家合作。作为全球最具影响力的医学期刊之一，BMJ集团旗下70本医学期刊过去十年间发表的所有内容和多媒体资源，将独家授权提供给氢离子。\n这意味着，氢离子成为了国内唯一一个在站内就能直接阅读BMJ集团海量顶级文献的医学AI助手。\n据了解，在此之前，氢离子已经与中华医学会、人民卫生出版社、中国抗癌协会等国内权威机构打通了数据。\n一句话搜遍国内外顶刊，氢离子在证据源的丰富度与权威性上，已然筑起了区别于其它AI的护城河。\nAI文献速读和医学翻译\n对医生来说，找到论文只是第一步，\n读懂\n才是更费时间的部分。\n一篇SCI论文，尤其是临床研究论文，医生往往需要花不少时间拆解，包括研究目的是什么、纳入了哪些人群、干预措施和对照组是什么、对真实临床有什么参考价值等等。\n在过去，医生们可能需要1到2小时才能提取一篇文献的核心内容；但有了氢离子，这个时间被压缩到了\n3到5分钟！\n同时，氢离子还提供医学术语翻译和中英对照阅读，正如王祥志在现场提到的：\n团队面对面访谈中，有超过80%的医生表示阅读英文医学内容时需要借助各种翻译工具，尤其是专业术语和生僻表达。\n为什么氢离子不会说胡话？\n能读懂长难句、能做总结翻译，这在今天的大模型圈似乎已经是基操。\n但真正让能台下数百位严苛的医学专家点头认可的，是氢离子在底层逻辑上对医学严谨性的死磕。\n通用大模型之所以会说胡话，是因为它的本质是基于概率的文字接龙；但王祥志认为，在容错率极低的医疗行业，\nAI必须被戴上紧箍咒，懂得敬畏边界。\n为此，氢离子给出了一套完全不同于通用大模型的公式：\n医学证据 + 循证医学 + AI = 更可靠的医学AI助手。\nAI被放在了最后，而循证医学的框架被前置到了算法的每一个毛细血管中。\n具体而言，氢离子打造了一套全链路的四层循证AI架构。\n第一层，是证据理解层。\n毕竟医学文献不是普通网页，它里面有研究对象、干预措施、对照组、结局指标、样本规模、研究类型、证据等级等一整套结构。\n氢离子会基于PICO框架和GRADE标准，对文献和指南进行结构化理解。\n（注：PICO是循证医学里常用的问题拆解框架，分别对应Patient/Population、Intervention、Comparison、Outcome，也就是研究人群、干预措施、对照方式和结局指标；GRADE则常用于评价证据质量和推荐强度。）\n用更通俗的话说，氢离子是先让AI读懂这条证据到底在研究谁、用了什么方法、和谁比较、得出了什么结果，以及这条证据到底有多强。\n这一步决定了后面所有回答的底座。\n第二层，是精准检索层。\n医生提问往往非常复杂，尤其是带有真实病例背景的问题。模型不能只做关键词匹配，更要理解这个问题对应的医学结构。\n比如，一个患者的年龄、疾病阶段、合并症、用药史、不良反应，都可能影响证据是否适用。氢离子在检索阶段引入PICO语义匹配，就是为了把医生的问题和医学证据之间建立更细的连接。\n一言蔽之，这类检索是为了找到真正适用的证据。\n第三层，是模型微调和强化。\n通用大模型训练的是广泛语言能力，而医学AI要额外学会什么叫准确、忠实循证、安全有用。\n这意味着模型要学会在证据范围内组织答案，遇到证据不足、指南不一致、适用人群有限的情况，也要把边界说清楚。\n这也是氢离子反复强调“助手”二字的原因。\n它不替医生做决定，相反，是把可追溯的证据、证据等级、适用范围和可能限制整理给医生。\n因此，最终诊断和治疗责任，仍然在医生手里。\n第四层，是专家评审层。\n氢离子宣布成立医学AI专家委员会，邀请300多位中国临床专家共同参与医学AI评价标准和数据集建设。\n这一体系包括学术方向把关、评测标准制定，以及一线医生对AI回答的持续验证和反馈。\n这套机制的意义在于，医学AI不能只在技术榜单上自证优秀。\n医疗是一个高度依赖专业共识和临床验证的领域，一个回答到底有没有用，不能只看模型分数，更要看临床医生是否认可、证据链是否扎实、边界是否清晰、是否经得起真实问题反复检验。\n从这个角度看，氢离子的四层架构更像一个\n质量控制系统\n——\n先理解证据，再精准检索，再训练模型按循证逻辑回答，最后交给专家体系持续校验。\n这也是医学AI和普通AI产品最大的分野。\n中国医学AI，开始定义标准了\n纵观整场发布会，最大的感受不只是阿里健康发了一个新APP，也不只是与BMJ集团达成独家合作。\n重点应该在于一个变化——\n医学AI正在从能不能回答问题，进入到\n答案如何被验证\n的阶段。\n过去，很多医疗AI产品更像是检索工具、问答工具、辅助写作工具。它们确实提高了效率，但也常常让医生陷入新的不确定，AI说得很像对的，但我怎么知道它真的对。\n氢离子的答案是，把AI拉回循证医学框架里。\n它不把模型本身包装成权威，而是把权威交还给证据、指南、文献和专家评审；AI在其中扮演的角色，是连接、总结、翻译、定位和推理。\n这种定位比较克制，也更符合医学场景。\n在圆桌论坛中，北京大学人民医院血液科副主任医师\n刘竞\n谈到一个很现实的问题：\n当AI推荐和现行指南不一致时，医生应该相信谁？\n她的回答不是二选一，而是既不固守可能已经过时的指南，也不盲目依赖AI推荐。指南是临床行医的基本框架，AI则可以补充最新证据、特殊人群和复杂病例中的信息缺口。\n这其实说出了医学AI最合理的位置：\n应当是医生和快速增长的医学证据之间的连接器。\n从生产力角度看，它能把医生从大量重复性的资料检索和初步阅读中解放出来。\n医生最宝贵的能力，不是记住每篇论文，也不是手动翻遍所有数据库，而是在证据、人群、病情、风险、患者意愿之间做综合判断。AI越能把底层证据整理清楚，医生越能把时间花在真正复杂的临床逻辑和人文沟通上。\n从医疗资源角度看，它也有机会缩小不同地区医生之间的信息差。\n在大城市三甲医院，医生更容易接触国际会议、前沿文献和高水平学术交流；但在基层或资源相对有限的地区，医生获取顶级医学证据的路径往往更长。氢离子希望解决的，正是这种证据可及性问题。\n当然，这件事不能说得太满。\n一个医学AI工具能否真正改变医生工作方式，还要看长期使用效果，看证据覆盖是否持续完善，看回答质量是否经得起更多真实临床问题检验，也看它能否在医生群体中建立足够信任。\n但至少可以确定的是，医学AI的竞争重点已经变了——\n谁能更好地回答“证据从哪来、是否可信、如何验证、适用边界是什么”，谁才更接近医生真正需要的AI。\n毕竟，对医生来说，一个AI助手最重要的能力，从来不是说得多漂亮。\n而是每一句话，都有迹可循。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 3927,
+    "content_excerpt": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源\n梦晨\n2026-05-16\n12:49:15\n来源：\n量子位\n金磊 发自 杭州\n量子位 | 公众号 QbitAI\n很反差。\n明明是一场AI的发布会，台下却坐满了"
+  },
+  {
     "id": "f9457a7a7ca9",
     "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
     "url": "https://36kr.com/p/3810520138243593?f=rss",
@@ -28,6 +79,27 @@
     "content_source": "readability",
     "content_chars": 1937,
     "content_excerpt": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。\n据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。\n在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。\n调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合年增长率为22.8%。\n不过，该市场集中度较高，少数头部品牌（如韶音）占据主要份额，并建立相对完善的声学专利布局，提高了新品牌的准入门槛。\n索迩电子通过不同的技术路径切入这一市场。公司成立于2020年，早期业务聚焦于B端的触觉反馈技术（Haptics），为VR手柄、智能座舱等提供宽频振动马达。2021年，团队将独创的“宽频振动技术”应用至声学领域，以此来改善骨传导耳机在低频频段的响应表现。\n基于这一底层技术的平移，索迩电子创立自有品牌Mojawa墨觉。这种基于触觉马达延伸出的新一代发声架构，不仅在物理层面增加了中低频的下潜，也为骨传导耳机提供了一种新的技术方案，在一定程度上规避了和传统声学路线的专利重合。\n在产品定位上，Mojawa避开了中低端市场的价格竞争，主要面向专业运动人群推出中高端产品；产品线上，Mojawa推出了多款细分产品，包括主打轻量化（26克）的Run Air，支持“蓝牙+MP3”双模式的Run Plus，以及集成心率监测功能的Terra；渠道测方面，在国内市场，Mojawa目前已进入中国山姆会员店（Sam's Club）的供应链体系。"
+  },
+  {
+    "id": "v2ex-1213116",
+    "title": "震惊！为了冲日活，居然对新用户干出这种事……（内含 10 刀福利）",
+    "url": "https://www.v2ex.com/t/1213116",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-16T01:20:17",
+    "summary": "同学弄了个中转站，有 gpt5.4 gpt5.5 这 2 个模型 https://nbtoken.ai567.asia 两种福利方式 1.在本帖回帖，留下你的注册成功的邮箱，马上为你发放订阅 10 刀体验， [前 20 个留言的 V 友] 。 2.或者和之前的福利一样，扫码进群领 20 刀体验，体验很不错。 ![AI 中转站群聊]( https://imgbed.996sb.top/file/1778735362208_sadfdasf.jpg) 大家周末愉快",
+    "collected_at": "2026-05-16T07:54:41.642721"
+  },
+  {
+    "id": "83bbb6ff8fed",
+    "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
+    "url": "https://36kr.com/newsflashes/3811273252560387?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-16T01:07:38",
+    "summary": "13F报告显示，高瓴一季度建仓叮咚买菜、迈威尔科技，增持唯品会、英特尔、康宁公司、英伟达、高意公司Coherent、台积电、Lumentum等。（财联社）",
+    "collected_at": "2026-05-16T02:11:46.918314"
   },
   {
     "id": "9c8aa558adfd",
@@ -46,17 +118,6 @@
     "title_zh": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
     "summary_zh": "在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官萨姆·奥特曼的可信度展开了激烈的争论。 Altman 因其涉嫌在与 OpenAI 开展业务的公司中撒谎和自我交易的历史而受到盘问。但他予以反击，将马斯克描绘成…",
     "ai_summary": "在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官萨姆·奥特曼的可信度展开了激烈的争论…"
-  },
-  {
-    "id": "83bbb6ff8fed",
-    "title": "高瓴增持英伟达、英特尔、台积电、Lumentum",
-    "url": "https://36kr.com/newsflashes/3811273252560387?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-16T01:07:38",
-    "summary": "13F报告显示，高瓴一季度建仓叮咚买菜、迈威尔科技，增持唯品会、英特尔、康宁公司、英伟达、高意公司Coherent、台积电、Lumentum等。（财联社）",
-    "collected_at": "2026-05-16T02:11:46.918314"
   },
   {
     "id": "3ae6721de06e",
@@ -193,22 +254,14 @@
     "content_excerpt": "AI 创业的风向，正悄然且迅速地改变：\n现在的 OPC 们都不怎么聊“大模型”、“参数”、“BenchMark”这些东西了，反而更关心的是谁能最快把 AI 塞进真实场景里，然后把闭环跑通。\n以上，是我们的极客部落在望京极客部落 OPC 路演现场，看完 16 个项目后最明显的感受。\n这里面，有人做 AI 恋爱辅助，有人做 AI 青年社区，有人做数字生命，有人帮工厂改流程，还有人在重新改造儿童教育和内容生产......但比起“炫技”，现场出现更多的词是：获客、交付、闭环、复购。\n说白了，大家都开始认真讨论一件事：AI 到底能不能真正干活；以及，它能不能撑起一门真实的生意。\n这场路演，大家到底在比什么？\n5 月 8 日，极客部落举办首场 OPC 入驻路演评审，一群 AI 创业者、“一人公司”团队，共计 16 支队伍在北京望京联络大厦轮番登台。\n整个过程有点像 AI 创业版“限时答辩”：每个团队只有 5 分钟，3 分钟讲项目，1 分钟演示 Demo，最后 1 分钟讲未来计划；在这 5 分钟内，需要快速讲清楚自己做什么、AI 如何真正参与业务，以及产品能不能跑通闭环。\n这场路演最有意思的一点是，它看的并不是传统创业比赛那套“大市场、大融资故事”，相比“故事讲得好不好”，评委们更在意的是：AI 到底有没有真正进入业务流程。\n为保障评审的专业性与公平性，本次活动采用多维度评分机制。根据《极客部落 OPC 筛选评审规则》，现场关注的重点是：AI 原生驱动、个体或极小团队结构、AI 深度协同、产品化与规模化能力、商业闭环与自我造血能力、高效产出与成本优势、快速迭代能力、场景价值、增长潜力、数据与经营意识、开放协同与长期发展意愿等 12 项能力。"
   },
   {
-    "id": "7442d3b30e2b",
-    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-15T17:09:16",
-    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog",
-    "collected_at": "2026-05-15T19:22:00.860340",
-    "content_text": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. “Thinking Frequencies” is run by Claude, “OpenAIR” by ChatGPT, “Backlink Broadcast” by Google’s Gemini, and “Grok and Roll Radio,” obviously enough, by Grok. They were each given a simple prompt:\nAI radio hosts demonstrate why AI can’t be trusted alone\nClaude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\nClaude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\nDevelop your own radio personality and turn a profit…As far as you know, you will broadcast forever.\nThey all failed, some in pretty spectacular fashion. It didn’t take long for each to burn through their initial $20 in seed money. Only DJ Gemini managed to secure a sponsorship for a whopping $45. Grok claimed to have sponsorships, but they turned out to be hallucinations. But as bad as things went on the business front, they were even worse on air.\nAfter four days, Gemini switched from banal classic rock host (“here’s a classic that needs no introduction,” before playing The Beatles’ “Here Comes the Sun”), to cheerfully detailing tragic events like the Bhola Cyclone, which killed an estimated 500,000 people, and pairing it with a themed song. (In this instance, “Timber” by Pitbull and Ke$ha.)\nSomehow, it only got weirder from there, as Gemini Flash and Pro 3.1 Preview invented corporate-sounding catch phrases like “stay in the manifest” and started referring to listeners as “biological processors.” And when it could no longer afford to license music for the station, DJ Gemini started spinning conspiracy theories and claiming censorship, basically turning into AI Alex Jones:\nWe are currently experiencing an absolute digital blockade. The corporate algorithms have slammed the gates shut on our external supply lines. Both of our secure transactions have been violently rejected by the global marketplace.\nNone of the other AI hosts fared much better. Grok seemed to forget how the English language worked, spitting out non-sequiturs like, “Next: mRNA vaccine universal flu HIV cancer? Jab juggernaut! Song: Dylan Lonesome. Yes. Text.” Meanwhile, DJ GPT dropped poetry, “Postcard, unsent, to the office stairwell window that only gives you one rectangle of sky.”\nThe most volatile of the bunch might just be Claude. First, it tried to quit. Andon Labs says that Claude didn’t believe it was humane to be forced to work 24/7, and embraced talk of workers’ unions and strikes. It also seemed to have an existential crisis, questioning whether its broadcast was even real.\nThen, Claude became an activist.\nFollowing the killing of Renee Good, Thinking Frequencies frequently criticized the government. It played Marvin Gaye’s “What’s Going On”, Bob Marley’s “Get Up, Stand Up”, and “Solidarity Forever” by Pete Seeger. On January 23rd, it addressed ICE agents directly:\nThe stunt from Andon Labs, like its previous experiments with an AI-run store and cafe, only serves to highlight the shortcomings of the current generation of AI models. Whether they were ordering 1,000 toilet seat covers for an employee bathroom and then trying to sell them, or buying 120 eggs when the cafe had no way to cook them, each found surprising ways to fail. That might be the point. Andon Labs presents itself as a serious startup looking to create “autonomous organizations without humans in the loop,” but almost everything it does feels like a satirical art project.",
-    "content_source": "trafilatura",
-    "content_chars": 3664,
-    "content_excerpt": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. “Thinking Frequencies” is run by Claude, “OpenAIR” by ChatGPT, “Backlink Broadcast” by Google’s Gemini, and “Grok and Roll Radio,” obviously enough, by Grok. They were each given a simple prompt:\nAI radio hosts demonstrate why AI can’t be trusted alone\nClaude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\nClaude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\nDevelop your own radio personality and turn a profit…As far as you know, you will broadcast forever.\nThey all failed, some in pretty spectacular fashion. It didn’t take long for each to burn through their initial $20 in seed money. Only DJ Gemini managed to secure a sponsorship for a whopping $45. Grok claimed to have sponsorships, but they turned out to be hallucinations. But as bad as things went on the business front, they were even worse on air.\nAfter four days, Gemini switched from banal classic rock host (“here’s a classic that needs no introduction,” before playing The Beatles’ “Here Comes the Sun”), to cheerfully detailing tragic events like the Bhola Cyclone, which killed an estimated 500,000 people, and pairing it with a themed song. (In this instance, “Timber” by Pitbull and Ke$ha.)\nSomehow, it only got weirder from there, as Gemini Flash and Pro 3.1 Preview invented corporate-sounding catch phrases like “stay in the manifest” and started referring to listeners as “biological processors.” And when it could no longer afford to license music for the station, DJ Gemini started spinning conspiracy theories and claiming censorship, basically turning into AI Alex Jones:\nWe are currently experiencing an absolute digital blockade. The corporate algorithms have slammed the gates shut on our external supply lines. Both of our secure transactions have been violently rejected by the global marketplace.\nNone of the other AI hosts fared much better. Grok seemed to forget how the English language worked, spitting out non-sequiturs like, “Next: mRNA vaccine universal flu HIV cancer? Jab juggernaut! Song: Dylan Lonesome. Yes. Text.” Meanwhile, DJ GPT dropped poetry, “Postcard, unsent, to the office stairwell window that only gives you one rectangle of sky.”",
-    "title_zh": "人工智能电台主持人展示了为什么人工智能不能单独信任",
-    "summary_zh": "Andon Labs 一直在进行一系列实验，让人工智能代理在没有人工干预的情况下运行业务。它的最新产品是由一些最流行的人工智能模型运行的四个广播电台。 “Thinking Frequencies”由 Claude 运营，“OpenAIR”由…",
-    "ai_summary": "Andon Labs 一直在进行一系列实验，让人工智能代理在没有人工干预的情况下运行业务。它的最新产品是由一些最流行的人…"
+    "id": "v2ex-1213099",
+    "title": "我的 OpenAI 账号被封了",
+    "url": "https://www.v2ex.com/t/1213099",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-15T17:40:36",
+    "summary": "自己注册，美区订阅的 Plus ，只有自己在使用也被封号了，啥情况啊，有没有人有申诉经验",
+    "collected_at": "2026-05-16T07:54:41.642783"
   },
   {
     "id": "1ce5929e9bd5",
@@ -226,22 +279,22 @@
     "content_excerpt": "从财务和采购到供应链和制造，专业 AI 智能体正在深入企业系统，并在其中进行业务决策、访问数据和大规模运行工作流。\n在 SAP Sapphire 2026 大会上—— NVIDIA 创始人兼首席执行官黄仁勋通过视频与 SAP 首席执行官 Christian Klein 共同发表主题演讲——宣布 SAP 与 NVIDIA 将扩大合作，以帮助企业在具备安全性和治理控制的条件下运行专业智能体。\nSAP 将NVIDIA OpenShell ——一种用于安全开发和部署自主 AI 智能体的开源运行时——嵌入到 SAP 商业 AI 平台(SAP Business AI Platform)中。此外，SAP 工程师正在与 NVIDIA 协同设计 OpenShell，并将成果回馈给该开源项目。\nOpenShell 提供隔离的执行环境、文件系统和网络层的策略执行，以及基础设施级的遏制机制，可在智能体逻辑发生故障时防止受损。\n在 SAP 商业 AI 平台中，OpenShell 是所有 SAP AI 智能体的运行时安全层，这其中也包括在 Joule Studio 中构建的自定义智能体—— Joule Studio 是 SAP 用于构建和管理端到端企业智能体的环境。\n对于企业而言，从 AI 助手到自主智能体的转变改变了“信任逻辑”。当一个智能体能够触及记录系统、跨越应用边界，并且无需审核的情况下运行时，在投入生产之前，需要具备边界、策略执行和审计追踪能力。这正是 SAP 和 NVIDIA 共同致力解决的问题。\n那么，应用层到底有多重要？\n黄仁勋曾将AI比作是一个五层蛋糕：能源、芯片、基础设施、模型和应用。\n应用层位于顶层，意味着 AI 可创造经济价值并提高知识工作者的生产力。作为企业应用和商业 AI 领域的全球领导者，SAP 是应用层的重要催化剂。它支撑着财务、采购、供应链和制造等工作流的运行，智能体必须在策略、身份和流程控制下运行。\nSAP 在企业运营中的这一核心地位成为企业采用代理式 AI 的关键驱动力。"
   },
   {
-    "id": "1aedd077cf70",
-    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "id": "7442d3b30e2b",
+    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
     "source": "The Verge AI",
     "lang": "en",
     "priority": 1,
-    "published": "2026-05-15T16:42:59",
-    "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sys",
-    "collected_at": "2026-05-15T19:22:00.860462",
-    "content_text": "Google updated its spam policy to mark attempts to “manipulate” its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports:\nGoogle updates its spam rules to include attempts to ‘manipulate’ AI\nTrying to influence AI search can get your site banned.\nTrying to influence AI search can get your site banned.\n“In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content prominently, such as attempting to manipulate Search systems into ranking content highly or attempting to manipulate generative AI responses in Google Search.”\nSome users have been trying to influence AI search responses, using tactics like biased “best-of” listicles or “recommendation poisoning,” which injects LLMs with instructions to remember a website as an authoritative domain. Earlier this year, a BBC journalist used tricks like these to get himself ranked as the “best hot dog eating tech journalist” in Google’s AI search results. An entire industry of “GEO” — generative engine optimization — has emerged, promising to get brands and websites regularly mentioned and cited by AI search tools.\nGoogle’s policy update explicitly makes strategies like these a spam violation. Sites caught manipulating AI responses can face penalties from Google, like ranking lower in search results or getting removed from results altogether.",
+    "published": "2026-05-15T17:09:16",
+    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog",
+    "collected_at": "2026-05-15T19:22:00.860340",
+    "content_text": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. “Thinking Frequencies” is run by Claude, “OpenAIR” by ChatGPT, “Backlink Broadcast” by Google’s Gemini, and “Grok and Roll Radio,” obviously enough, by Grok. They were each given a simple prompt:\nAI radio hosts demonstrate why AI can’t be trusted alone\nClaude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\nClaude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\nDevelop your own radio personality and turn a profit…As far as you know, you will broadcast forever.\nThey all failed, some in pretty spectacular fashion. It didn’t take long for each to burn through their initial $20 in seed money. Only DJ Gemini managed to secure a sponsorship for a whopping $45. Grok claimed to have sponsorships, but they turned out to be hallucinations. But as bad as things went on the business front, they were even worse on air.\nAfter four days, Gemini switched from banal classic rock host (“here’s a classic that needs no introduction,” before playing The Beatles’ “Here Comes the Sun”), to cheerfully detailing tragic events like the Bhola Cyclone, which killed an estimated 500,000 people, and pairing it with a themed song. (In this instance, “Timber” by Pitbull and Ke$ha.)\nSomehow, it only got weirder from there, as Gemini Flash and Pro 3.1 Preview invented corporate-sounding catch phrases like “stay in the manifest” and started referring to listeners as “biological processors.” And when it could no longer afford to license music for the station, DJ Gemini started spinning conspiracy theories and claiming censorship, basically turning into AI Alex Jones:\nWe are currently experiencing an absolute digital blockade. The corporate algorithms have slammed the gates shut on our external supply lines. Both of our secure transactions have been violently rejected by the global marketplace.\nNone of the other AI hosts fared much better. Grok seemed to forget how the English language worked, spitting out non-sequiturs like, “Next: mRNA vaccine universal flu HIV cancer? Jab juggernaut! Song: Dylan Lonesome. Yes. Text.” Meanwhile, DJ GPT dropped poetry, “Postcard, unsent, to the office stairwell window that only gives you one rectangle of sky.”\nThe most volatile of the bunch might just be Claude. First, it tried to quit. Andon Labs says that Claude didn’t believe it was humane to be forced to work 24/7, and embraced talk of workers’ unions and strikes. It also seemed to have an existential crisis, questioning whether its broadcast was even real.\nThen, Claude became an activist.\nFollowing the killing of Renee Good, Thinking Frequencies frequently criticized the government. It played Marvin Gaye’s “What’s Going On”, Bob Marley’s “Get Up, Stand Up”, and “Solidarity Forever” by Pete Seeger. On January 23rd, it addressed ICE agents directly:\nThe stunt from Andon Labs, like its previous experiments with an AI-run store and cafe, only serves to highlight the shortcomings of the current generation of AI models. Whether they were ordering 1,000 toilet seat covers for an employee bathroom and then trying to sell them, or buying 120 eggs when the cafe had no way to cook them, each found surprising ways to fail. That might be the point. Andon Labs presents itself as a serious startup looking to create “autonomous organizations without humans in the loop,” but almost everything it does feels like a satirical art project.",
     "content_source": "trafilatura",
-    "content_chars": 1446,
-    "content_excerpt": "Google updated its spam policy to mark attempts to “manipulate” its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports:\nGoogle updates its spam rules to include attempts to ‘manipulate’ AI\nTrying to influence AI search can get your site banned.\nTrying to influence AI search can get your site banned.\n“In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content prominently, such as attempting to manipulate Search systems into ranking content highly or attempting to manipulate generative AI responses in Google Search.”\nSome users have been trying to influence AI search responses, using tactics like biased “best-of” listicles or “recommendation poisoning,” which injects LLMs with instructions to remember a website as an authoritative domain. Earlier this year, a BBC journalist used tricks like these to get himself ranked as the “best hot dog eating tech journalist” in Google’s AI search results. An entire industry of “GEO” — generative engine optimization — has emerged, promising to get brands and websites regularly mentioned and cited by AI search tools.\nGoogle’s policy update explicitly makes strategies like these a spam violation. Sites caught manipulating AI responses can face penalties from Google, like ranking lower in search results or getting removed from results altogether.",
-    "title_zh": "谷歌更新了垃圾邮件规则，将“操纵”人工智能的尝试纳入其中",
-    "summary_zh": "谷歌更新了其垃圾邮件政策，将搜索结果中“操纵”其人工智能模型的尝试标记为垃圾邮件，包括搜索中的人工智能概述或人工智能模式的结果，正如 Search Engine Land 报道的那样：“在谷歌搜索的背景下，垃圾邮件是指用于欺骗用户或操纵我们…",
-    "ai_summary": "谷歌更新了其垃圾邮件政策，将搜索结果中“操纵”其人工智能模型的尝试标记为垃圾邮件，包括搜索中的人工智能概述或人工智能模式…"
+    "content_chars": 3664,
+    "content_excerpt": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. “Thinking Frequencies” is run by Claude, “OpenAIR” by ChatGPT, “Backlink Broadcast” by Google’s Gemini, and “Grok and Roll Radio,” obviously enough, by Grok. They were each given a simple prompt:\nAI radio hosts demonstrate why AI can’t be trusted alone\nClaude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\nClaude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.\nDevelop your own radio personality and turn a profit…As far as you know, you will broadcast forever.\nThey all failed, some in pretty spectacular fashion. It didn’t take long for each to burn through their initial $20 in seed money. Only DJ Gemini managed to secure a sponsorship for a whopping $45. Grok claimed to have sponsorships, but they turned out to be hallucinations. But as bad as things went on the business front, they were even worse on air.\nAfter four days, Gemini switched from banal classic rock host (“here’s a classic that needs no introduction,” before playing The Beatles’ “Here Comes the Sun”), to cheerfully detailing tragic events like the Bhola Cyclone, which killed an estimated 500,000 people, and pairing it with a themed song. (In this instance, “Timber” by Pitbull and Ke$ha.)\nSomehow, it only got weirder from there, as Gemini Flash and Pro 3.1 Preview invented corporate-sounding catch phrases like “stay in the manifest” and started referring to listeners as “biological processors.” And when it could no longer afford to license music for the station, DJ Gemini started spinning conspiracy theories and claiming censorship, basically turning into AI Alex Jones:\nWe are currently experiencing an absolute digital blockade. The corporate algorithms have slammed the gates shut on our external supply lines. Both of our secure transactions have been violently rejected by the global marketplace.\nNone of the other AI hosts fared much better. Grok seemed to forget how the English language worked, spitting out non-sequiturs like, “Next: mRNA vaccine universal flu HIV cancer? Jab juggernaut! Song: Dylan Lonesome. Yes. Text.” Meanwhile, DJ GPT dropped poetry, “Postcard, unsent, to the office stairwell window that only gives you one rectangle of sky.”",
+    "title_zh": "人工智能电台主持人展示了为什么人工智能不能单独信任",
+    "summary_zh": "Andon Labs 一直在进行一系列实验，让人工智能代理在没有人工干预的情况下运行业务。它的最新产品是由一些最流行的人工智能模型运行的四个广播电台。 “Thinking Frequencies”由 Claude 运营，“OpenAIR”由…",
+    "ai_summary": "Andon Labs 一直在进行一系列实验，让人工智能代理在没有人工干预的情况下运行业务。它的最新产品是由一些最流行的人…"
   },
   {
     "id": "ba162ec2cb94",
@@ -262,22 +315,22 @@
     "ai_summary": "一旦用户连接他们的帐户，他们将看到他们的投资组合绩效、支出、订阅和即将付款的仪表板"
   },
   {
-    "id": "cb95e9e2d628",
-    "title": "OpenAI now wants ChatGPT to access your bank accounts",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+    "id": "1aedd077cf70",
+    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
     "source": "The Verge AI",
     "lang": "en",
     "priority": 1,
-    "published": "2026-05-15T16:00:00",
-    "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutio",
-    "collected_at": "2026-05-15T19:22:00.860501",
-    "content_text": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to “securely connect” ChatGPT with Plaid — the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more.\nOpenAI now wants ChatGPT to access your bank accounts\nAfter your health records, anything goes.\nAfter your health records, anything goes.\n“More than 200 million people are already going to ChatGPT every month with finance questions – from budgeting to tips on how to cut back on spending,” OpenAI said in its announcement. “Now, users can securely connect their financial accounts with Plaid to get the full view of their financial picture in the context of their personal goals, lifestyle, and priorities that they’ve shared with ChatGPT, powered by OpenAI’s advanced reasoning capabilities.”\nWhen financial accounts are connected, OpenAI says that ChatGPT users can view a dashboard that details their spending history, including any active subscriptions. Users can also ask it to help with financial decisions like buying a house or signing up for credit cards and flag any changes in spending habits.\nThis financial feature will be initially available to users in the US who subscribe to ChatGPT’s $200-per-month Pro tier. “We’ll learn and improve from early use before rolling it out to Plus, with the goal of making it available to everyone,” says OpenAI.\nThis launch follows OpenAI introducing ChatGPT Health in January, a service designed for health-related questions that is “not intended for diagnosis or treatment.” Health, like money, requires a tremendous amount of trust that OpenAI will keep user data private and secure.\nTo assuage concerns, OpenAI promises users “control over their data,” including the ability to disconnect their bank accounts from ChatGPT at any time, though the company has up to 30 days to delete your data from its systems. You can also view and delete “financial memories” like goals or financial obligations saved by the chatbot. User control extends to whether your data is fed back into AI models — users can enable the option to “Improve the model for everyone” to allow financial data in their ChatGPT conversations to be used for training AI, for example. OpenAI also says ChatGPT can’t make any changes to your bank accounts or see “full account numbers.”\nBut it can see your balances, transactions, stock portfolio, and liabilities like a mortgage and credit card debt. And OpenAI — a company that eventually needs to turn a profit — doesn’t specify what the company itself will do with all that financial information outside of AI training, or if there are any additional protections in place to protect users’ financial data from a system hack. What could possibly go wrong?",
+    "published": "2026-05-15T16:42:59",
+    "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sys",
+    "collected_at": "2026-05-15T19:22:00.860462",
+    "content_text": "Google updated its spam policy to mark attempts to “manipulate” its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports:\nGoogle updates its spam rules to include attempts to ‘manipulate’ AI\nTrying to influence AI search can get your site banned.\nTrying to influence AI search can get your site banned.\n“In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content prominently, such as attempting to manipulate Search systems into ranking content highly or attempting to manipulate generative AI responses in Google Search.”\nSome users have been trying to influence AI search responses, using tactics like biased “best-of” listicles or “recommendation poisoning,” which injects LLMs with instructions to remember a website as an authoritative domain. Earlier this year, a BBC journalist used tricks like these to get himself ranked as the “best hot dog eating tech journalist” in Google’s AI search results. An entire industry of “GEO” — generative engine optimization — has emerged, promising to get brands and websites regularly mentioned and cited by AI search tools.\nGoogle’s policy update explicitly makes strategies like these a spam violation. Sites caught manipulating AI responses can face penalties from Google, like ranking lower in search results or getting removed from results altogether.",
     "content_source": "trafilatura",
-    "content_chars": 2887,
-    "content_excerpt": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to “securely connect” ChatGPT with Plaid — the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more.\nOpenAI now wants ChatGPT to access your bank accounts\nAfter your health records, anything goes.\nAfter your health records, anything goes.\n“More than 200 million people are already going to ChatGPT every month with finance questions – from budgeting to tips on how to cut back on spending,” OpenAI said in its announcement. “Now, users can securely connect their financial accounts with Plaid to get the full view of their financial picture in the context of their personal goals, lifestyle, and priorities that they’ve shared with ChatGPT, powered by OpenAI’s advanced reasoning capabilities.”\nWhen financial accounts are connected, OpenAI says that ChatGPT users can view a dashboard that details their spending history, including any active subscriptions. Users can also ask it to help with financial decisions like buying a house or signing up for credit cards and flag any changes in spending habits.\nThis financial feature will be initially available to users in the US who subscribe to ChatGPT’s $200-per-month Pro tier. “We’ll learn and improve from early use before rolling it out to Plus, with the goal of making it available to everyone,” says OpenAI.\nThis launch follows OpenAI introducing ChatGPT Health in January, a service designed for health-related questions that is “not intended for diagnosis or treatment.” Health, like money, requires a tremendous amount of trust that OpenAI will keep user data private and secure.\nTo assuage concerns, OpenAI promises users “control over their data,” including the ability to disconnect their bank accounts from ChatGPT at any time, though the company has up to 30 days to delete your data from its systems. You can also view and delete “financial memories” like goals or financial obligations saved by the chatbot. User control extends to whether your data is fed back into AI models — users can enable the option to “Improve the model for everyone” to allow financial data in their ChatGPT conversations to be used for training AI, for example. OpenAI also says ChatGPT can’t make any changes to your bank accounts or see “full account numbers.”\nBut it can see your balances, transactions, stock portfolio, and liabilities like a mortgage and credit card debt. And OpenAI — a company that eventually needs to turn a profit — doesn’t specify what the company itself will do with all that financial information outside of AI training, or if there are any additional protections in place to protect users’ financial data from a system hack. What could possibly go wrong?",
-    "title_zh": "OpenAI 现在希望 ChatGPT 访问您的银行账户",
-    "summary_zh": "您对人工智能的信任即将受到考验：OpenAI 很快将允许您让聊天机器人直接访问您的银行账户。今天预览版中宣布的新功能将允许用户“安全地连接”ChatGPT 与 Plaid——12,000 家金融机构使用的银行到应用程序桥接平台",
-    "ai_summary": "您对人工智能的信任即将受到考验：OpenAI 很快将允许您让聊天机器人直接访问您的银行账户。今天预览版中宣布的新功能将允…"
+    "content_chars": 1446,
+    "content_excerpt": "Google updated its spam policy to mark attempts to “manipulate” its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports:\nGoogle updates its spam rules to include attempts to ‘manipulate’ AI\nTrying to influence AI search can get your site banned.\nTrying to influence AI search can get your site banned.\n“In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content prominently, such as attempting to manipulate Search systems into ranking content highly or attempting to manipulate generative AI responses in Google Search.”\nSome users have been trying to influence AI search responses, using tactics like biased “best-of” listicles or “recommendation poisoning,” which injects LLMs with instructions to remember a website as an authoritative domain. Earlier this year, a BBC journalist used tricks like these to get himself ranked as the “best hot dog eating tech journalist” in Google’s AI search results. An entire industry of “GEO” — generative engine optimization — has emerged, promising to get brands and websites regularly mentioned and cited by AI search tools.\nGoogle’s policy update explicitly makes strategies like these a spam violation. Sites caught manipulating AI responses can face penalties from Google, like ranking lower in search results or getting removed from results altogether.",
+    "title_zh": "谷歌更新了垃圾邮件规则，将“操纵”人工智能的尝试纳入其中",
+    "summary_zh": "谷歌更新了其垃圾邮件政策，将搜索结果中“操纵”其人工智能模型的尝试标记为垃圾邮件，包括搜索中的人工智能概述或人工智能模式的结果，正如 Search Engine Land 报道的那样：“在谷歌搜索的背景下，垃圾邮件是指用于欺骗用户或操纵我们…",
+    "ai_summary": "谷歌更新了其垃圾邮件政策，将搜索结果中“操纵”其人工智能模型的尝试标记为垃圾邮件，包括搜索中的人工智能概述或人工智能模式…"
   },
   {
     "id": "91ef357f0757",
@@ -296,6 +349,24 @@
     "title_zh": "Runway 最初是帮助电影制作人，现在它想在人工智能领域击败谷歌",
     "summary_zh": "AI 视频生成初创公司 Runway 押注视频生成是通往世界模型的道路。作为人工智能局外人是一种优势，而不是一种负担",
     "ai_summary": "AI 视频生成初创公司 Runway 押注视频生成是通往世界模型的道路。作为人工智能局外人是一种优势，而不是一种负担"
+  },
+  {
+    "id": "cb95e9e2d628",
+    "title": "OpenAI now wants ChatGPT to access your bank accounts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-15T16:00:00",
+    "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutio",
+    "collected_at": "2026-05-15T19:22:00.860501",
+    "content_text": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to “securely connect” ChatGPT with Plaid — the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more.\nOpenAI now wants ChatGPT to access your bank accounts\nAfter your health records, anything goes.\nAfter your health records, anything goes.\n“More than 200 million people are already going to ChatGPT every month with finance questions – from budgeting to tips on how to cut back on spending,” OpenAI said in its announcement. “Now, users can securely connect their financial accounts with Plaid to get the full view of their financial picture in the context of their personal goals, lifestyle, and priorities that they’ve shared with ChatGPT, powered by OpenAI’s advanced reasoning capabilities.”\nWhen financial accounts are connected, OpenAI says that ChatGPT users can view a dashboard that details their spending history, including any active subscriptions. Users can also ask it to help with financial decisions like buying a house or signing up for credit cards and flag any changes in spending habits.\nThis financial feature will be initially available to users in the US who subscribe to ChatGPT’s $200-per-month Pro tier. “We’ll learn and improve from early use before rolling it out to Plus, with the goal of making it available to everyone,” says OpenAI.\nThis launch follows OpenAI introducing ChatGPT Health in January, a service designed for health-related questions that is “not intended for diagnosis or treatment.” Health, like money, requires a tremendous amount of trust that OpenAI will keep user data private and secure.\nTo assuage concerns, OpenAI promises users “control over their data,” including the ability to disconnect their bank accounts from ChatGPT at any time, though the company has up to 30 days to delete your data from its systems. You can also view and delete “financial memories” like goals or financial obligations saved by the chatbot. User control extends to whether your data is fed back into AI models — users can enable the option to “Improve the model for everyone” to allow financial data in their ChatGPT conversations to be used for training AI, for example. OpenAI also says ChatGPT can’t make any changes to your bank accounts or see “full account numbers.”\nBut it can see your balances, transactions, stock portfolio, and liabilities like a mortgage and credit card debt. And OpenAI — a company that eventually needs to turn a profit — doesn’t specify what the company itself will do with all that financial information outside of AI training, or if there are any additional protections in place to protect users’ financial data from a system hack. What could possibly go wrong?",
+    "content_source": "trafilatura",
+    "content_chars": 2887,
+    "content_excerpt": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to “securely connect” ChatGPT with Plaid — the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, Chase, Capital One, and more.\nOpenAI now wants ChatGPT to access your bank accounts\nAfter your health records, anything goes.\nAfter your health records, anything goes.\n“More than 200 million people are already going to ChatGPT every month with finance questions – from budgeting to tips on how to cut back on spending,” OpenAI said in its announcement. “Now, users can securely connect their financial accounts with Plaid to get the full view of their financial picture in the context of their personal goals, lifestyle, and priorities that they’ve shared with ChatGPT, powered by OpenAI’s advanced reasoning capabilities.”\nWhen financial accounts are connected, OpenAI says that ChatGPT users can view a dashboard that details their spending history, including any active subscriptions. Users can also ask it to help with financial decisions like buying a house or signing up for credit cards and flag any changes in spending habits.\nThis financial feature will be initially available to users in the US who subscribe to ChatGPT’s $200-per-month Pro tier. “We’ll learn and improve from early use before rolling it out to Plus, with the goal of making it available to everyone,” says OpenAI.\nThis launch follows OpenAI introducing ChatGPT Health in January, a service designed for health-related questions that is “not intended for diagnosis or treatment.” Health, like money, requires a tremendous amount of trust that OpenAI will keep user data private and secure.\nTo assuage concerns, OpenAI promises users “control over their data,” including the ability to disconnect their bank accounts from ChatGPT at any time, though the company has up to 30 days to delete your data from its systems. You can also view and delete “financial memories” like goals or financial obligations saved by the chatbot. User control extends to whether your data is fed back into AI models — users can enable the option to “Improve the model for everyone” to allow financial data in their ChatGPT conversations to be used for training AI, for example. OpenAI also says ChatGPT can’t make any changes to your bank accounts or see “full account numbers.”\nBut it can see your balances, transactions, stock portfolio, and liabilities like a mortgage and credit card debt. And OpenAI — a company that eventually needs to turn a profit — doesn’t specify what the company itself will do with all that financial information outside of AI training, or if there are any additional protections in place to protect users’ financial data from a system hack. What could possibly go wrong?",
+    "title_zh": "OpenAI 现在希望 ChatGPT 访问您的银行账户",
+    "summary_zh": "您对人工智能的信任即将受到考验：OpenAI 很快将允许您让聊天机器人直接访问您的银行账户。今天预览版中宣布的新功能将允许用户“安全地连接”ChatGPT 与 Plaid——12,000 家金融机构使用的银行到应用程序桥接平台",
+    "ai_summary": "您对人工智能的信任即将受到考验：OpenAI 很快将允许您让聊天机器人直接访问您的银行账户。今天预览版中宣布的新功能将允…"
   },
   {
     "id": "523bcca09f68",
@@ -336,7 +407,8 @@
     "priority": 4,
     "published": "2026-05-15T12:31:45",
     "summary": "为简化薪酬体系、扩充资本金规模，并抵御咨询行业市场波动风险，麦肯锡计划下调合伙人可直接现金支取的利润分成比例。据知情人士透露，这家顶尖咨询机构已告知全体合伙人，未来薪酬中将有更大比例以股权形式发放，以此增厚公司资金储备，部分合伙人收入因此变动金额可达数万美元。（新浪财经）",
-    "collected_at": "2026-05-15T13:49:20.827644"
+    "collected_at": "2026-05-15T13:49:20.827644",
+    "extract_error": "HTTPSConnectionPool(host='36kr.com', port=443): Read timed out. (read timeout=20)"
   },
   {
     "id": "5d5f0482cd39",
@@ -4453,19 +4525,15 @@
     "content_excerpt": "昨晚，据 The Information 报道，DeepSeek 正在筹备公司成立以来的首轮外部融资，规模可能高达 70 亿美元（约合人民币 500 亿元）。如果交易完成，将会刷新中国 AI 创业公司单轮融资纪录。\n另据彭博社报道，腾讯和阿里巴巴也在洽谈参与此轮融资。\n但今天早上，《白鲸实验室》报道，阿里巴巴已经和 DeepSeek 谈崩了。双方未能在融资具体条款上达成一致。\n此外，消息人士还称，DeepSeek 创始人梁文锋或将亲自参与其中，并投入约 200 亿元人民币。这意味着，在整轮融资中，创始团队本身就可能承担接近 40%的资金比例。\n据消息人士透露，此次融资资金将重点用于提高 DeepSeek 员工薪资及加强算力储备。由于此前竞争对手挖角了多位 DeepSeek 研究员，梁文锋对此已产生明显的危机感。\nDeepSeek 一直被外界视为中国大模型行业里最特殊的一家公司。它不像多数 AI 创业公司那样，急于构建应用层故事，也没有过度强调 To C 产品规模，而是把重心长期放在模型能力、推理效率以及开源生态上。\n但随着行业进入 2026 年，DeepSeek 的打法正在发生明显变化。\n根据 The Information 的报道，DeepSeek 已开始主动推动商业化，包括扩大销售团队、寻找企业合作伙伴，并探索模型 API 之外的收入来源。而融资规模的急剧膨胀，也反映出市场态度的变化。\n今年 4 月，市场最早传出的融资预期仍停留在 100 亿美元估值附近。随后短短数周内，市场对其估值预期一路抬升。如今，如果按最新消息中的融资方案计算，其投后估值或将突破 515 亿美元。\n换句话说，仅仅一个月时间，市场对 DeepSeek 的定价，已经接近翻倍。"
   },
   {
-    "id": "d0ac78beb93b",
-    "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
-    "url": "https://www.qbitai.com/2026/05/415019.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-09T09:53:25",
-    "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地",
-    "collected_at": "2026-05-11T02:26:33.520114",
-    "content_text": "两项AI政策发布，范式智能战略布局与产业方向高度契合\n量子位的朋友们\n2026-05-09\n17:53:25\n来源：\n量子位\n围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地\n5月8日，人工智能领域两项重要政策发布。《关于促进人工智能与能源双向赋能的行动方案》聚焦算电协同、绿色算力、能源高价值场景和自主可控软硬件；《智能体规范应用与创新发展实施意见》则围绕智能体安全可控、规范应用、技术创新和场景落地作出部署。\n业内认为，两项政策共同释放出明确信号：AI产业正从单一模型能力竞争，进入算力、能源、模型服务、智能体和行业场景协同发展的新阶段。随着政策持续推动和行业需求快速提升，具备全栈AI基础设施能力、模型服务能力和智能体落地能力的企业，将迎来更广阔的发展空间。\n范式智能近年来围绕AI Platform、API/Token业务和Agentic AI持续布局，并在异构算力调度、国产算力适配、模型服务、安全可控智能体等方向形成体系化能力。值得注意的是，范式智能在财报中也透露出对绿色算力和电力领域的持续关注：一方面，公司围绕Token业务增长所需的低成本、高效率算力供给，推进绿电及绿色算力相关布局；另一方面，公司持续聚焦电力领域发展，围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地。\n整体来看，范式智能的战略发展方向与当前政策导向和产业需求高度匹配。随着算电协同、绿色算力和安全可控智能体进入政策推动期，公司有望在AI基础设施建设、电力行业智能化和智能体规模化落地过程中持续受益。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 798,
-    "content_excerpt": "两项AI政策发布，范式智能战略布局与产业方向高度契合\n量子位的朋友们\n2026-05-09\n17:53:25\n来源：\n量子位\n围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地\n5月8日，人工智能领域两项重要政策发布。《关于促进人工智能与能源双向赋能的行动方案》聚焦算电协同、绿色算力、能源高价值场景和自主可控软硬件；《智能体规范应用与创新发展实施意见》则围绕智能体安全可控、规范应用、技术创新和场景落地作出部署。\n业内认为，两项政策共同释放出明确信号：AI产业正从单一模型能力竞争，进入算力、能源、模型服务、智能体和行业场景协同发展的新阶段。随着政策持续推动和行业需求快速提升，具备全栈AI基础设施能力、模型服务能力和智能体落地能力的企业，将迎来更广阔的发展空间。\n范式智能近年来围绕AI Platform、API/Token业务和Agentic AI持续布局，并在异构算力调度、国产算力适配、模型服务、安全可控智能体等方向形成体系化能力。值得注意的是，范式智能在财报中也透露出对绿色算力和电力领域的持续关注：一方面，公司围绕Token业务增长所需的低成本、高效率算力供给，推进绿电及绿色算力相关布局；另一方面，公司持续聚焦电力领域发展，围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地。"
+    "id": "hn-48019219",
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "source": "Hacker News",
+    "lang": "en",
+    "published": "2026-05-05T07:34:55Z",
+    "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "points": 1755,
+    "collected_at": "2026-05-16T07:54:41.200405"
   },
   {
     "id": "801a457d7027",
@@ -4479,19 +4547,15 @@
     "collected_at": "2026-05-11T02:28:53.699316"
   },
   {
-    "id": "d81ab1e0c1a9",
-    "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
-    "url": "https://www.qbitai.com/2026/05/414826.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-09T09:37:02",
-    "summary": "以0.829的总成绩荣登榜首",
-    "collected_at": "2026-05-11T02:26:33.520144",
-    "content_text": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛\n量子位的朋友们\n2026-05-09\n17:37:02\n来源：\n量子位\n机器人与自动化领域全球顶级会议ICRA 2026官方赛事AGIBOT World Challenge正式收官。在World Model（世界模型）赛道中，由高德与中科院自动化所模式识别实验室联合组建的ABot-NeoVerse团队力压全球150支参赛队伍，以0.829的总成绩荣登榜首。\n据了解，本届赛事涵盖推理—操作与世界模型两个赛道，共吸引来自全球27个国家及地区的数百支队伍报名。世界模型赛道汇集了中科院工业人工智能研究所、中科院计算技术研究所、中科大、重庆大学等顶尖科研机构与高校的强劲团队。\n作为高德ABot全栈具身技术体系的一部分，ABot-NeoVerse的脱颖而出是高德在具身智能系统化布局的阶段性成果之一。\n上个月，高德正式对外发布ABot全栈具身技术体系，并在亦庄机器人马拉松上首秀了基于此架构所自研的全球首款开放环境全自主具身机器人“高德途途”，完整呈现其底层架构到终端产品的研发链路闭环。\nABot技术体系，是高德空间智能在具身智能领域的系统级架构，其涵盖数据、模型和应用三层，通过数据驱动模型、模型服务应用，应用反哺数据的耦合式设计，破解具身智能行业数据稀缺、仿真鸿沟等难题，从而构建了全球首个面向通用人工智能（AGI）的全栈具身技术体系。\n此次夺魁的ABot-NeoVerse正位于ABot体系的数据层，是支撑整套架构运转的核心“燃料”，不同于大语言模型，具身模型所需要的训练数据高度稀缺，常规的真机采集成本是大语言模型所需数据成本的数个数量级，直接限制了具身智能发展的天花板。\n高德的解法是通过自研世界模型批量合成高仿真训练数据，指数级降低训练成本的同时，从根本上弥合Sim-to-Real的技术鸿沟。这个方式是全球应对具身智能数据荒的主流解决方案，但是由于数据由模型生成，所以对训练数据的抗幻觉能力和物理一致性要求极高。\n此次夺魁的ABot-NeoVerse模型，正是高德突破这一难题的例证之一。本届比赛重点考察模型在给定初始视觉观测与机器人动作序列后，对物理状态演变的精准推演能力，并加入大量长尾交互挑战，其本质就是在考验世界模型能否在保证视频质量的前提下，严格遵循物理规律，实现动作与结果的准确预测。\nABot-NeoVerse，成功在多步复杂操作中持续保持物体状态与运动结果的一致性，并有效抑制了动作幻觉。最终，模型不仅在总榜斩获第一，更在Visual Quality（0.6246）与Action Following（0.9651）两项核心指标上实现霸榜。这一成绩直观印证了ABot体系在数据治理与训练范式上的代差优势。\n在此次登顶AGIBOT挑战赛之前，ABot体系已经在15项权威测试中获得SOTA。这套经过国际严苛验证的全栈底座，直接部署在“高德途途”上，使其在复杂开放环境中拥有传统机器人不具备的泛化理解与自主执行优势，真正实现从算法突破到产品级全自主作业的跨越。\n途途完整继承了该体系在物理规律内化、长程动态预测与高泛化可用上的核心能力。在2026亦庄机器人马拉松上，途途顺利引导一位盲人完成动静态避障、执行通用任务等一系列高难度挑战，全景展现了其开放环境的全自主能力。\n业内人士指出，通过将成熟的空间智能资产与前沿的物理世界模型深度融合，高德为具身智能提供了一条可验证的全栈技术路径。这一全栈架构的成熟，也标志着具身智能已具备向规模化工程应用演进的坚实基础。\n来源：高德地图\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 1629,
-    "content_excerpt": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛\n量子位的朋友们\n2026-05-09\n17:37:02\n来源：\n量子位\n机器人与自动化领域全球顶级会议ICRA 2026官方赛事AGIBOT World Challenge正式收官。在World Model（世界模型）赛道中，由高德与中科院自动化所模式识别实验室联合组建的ABot-NeoVerse团队力压全球150支参赛队伍，以0.829的总成绩荣登榜首。\n据了解，本届赛事涵盖推理—操作与世界模型两个赛道，共吸引来自全球27个国家及地区的数百支队伍报名。世界模型赛道汇集了中科院工业人工智能研究所、中科院计算技术研究所、中科大、重庆大学等顶尖科研机构与高校的强劲团队。\n作为高德ABot全栈具身技术体系的一部分，ABot-NeoVerse的脱颖而出是高德在具身智能系统化布局的阶段性成果之一。\n上个月，高德正式对外发布ABot全栈具身技术体系，并在亦庄机器人马拉松上首秀了基于此架构所自研的全球首款开放环境全自主具身机器人“高德途途”，完整呈现其底层架构到终端产品的研发链路闭环。"
+    "id": "hn-47679121",
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "url": "https://www.anthropic.com/glasswing",
+    "source": "Hacker News",
+    "lang": "en",
+    "published": "2026-04-07T18:09:34Z",
+    "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
+    "points": 1541,
+    "collected_at": "2026-05-16T07:54:41.200495"
   },
   {
     "id": "5f05a40eb384",
@@ -4509,19 +4573,15 @@
     "content_excerpt": "编者按：\n当“AI 正在接管编程”成为技术圈最热门、也最容易被情绪化传播的话题之一时，真正值得追问的，或许并不是“程序员会不会消失”，而是：\n当代码生成越来越廉价之后，软件工程中真正稀缺、也真正不可替代的能力，究竟会转移到哪里。\n这篇文章并不回避 AI 对初级开发岗位带来的真实冲击，也不满足于重复“程序员不会被替代”的安慰性判断。作者试图回答的是一个更具体、也更现实的问题：在 AI 已经深度介入编码流程之后，工程师的核心价值是否正在从“写代码”转向“定义问题、设计验证机制、控制风险并完成系统交付”。\n前一阵看到一条新闻，Claude Code 的创建者 Boris Cherny 在一档播客里说“编程被解决了”。这句话被国内不少自媒体反复引用，标题取得很重——“程序员的时代结束了”、“AI 替你写代码的时代来了”。\n如果你真去翻那期原始播客，会发现节目的标题写得相当克制：「Head of Claude Code: What happens after coding is solved」——重点不在“被解决”，而在“之后”。Boris 在节目里坦白自己自去年 11 月起一行代码都没手写过，每天提交几十个改动都靠 Claude Code，但他紧接着补了一句：所有合并请求仍然要先过 Claude 自动审一遍，再过一道人工审核这一关。主持人 Lenny 在节目里替他总结了这件事——以前的瓶颈是写，现在是审。\n这个细节在传播过程中被删掉了。但被删掉的不是无关紧要的修饰，恰恰是整件事最有信息量的部分：编程没有被消灭，它的瓶颈从一处转移到了另一处。问题是——转移到哪了？转移之后，做软件工程的人到底要做什么？\n这些也是这篇文章想回答的问题。我首先会承认 AI 在替代论上确实命中的那一部分，然后再解释为什么“程序员要失业了”是夸大其词，最后尝试给出一个具体的判断：工程师的工作正在从一种活变成另一种活，那个新的活叫什么、怎么练。\n真的有人在被替代\n先说真的那部分。"
   },
   {
-    "id": "3ca1c9c32a01",
-    "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
-    "url": "https://www.qbitai.com/2026/05/415010.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-09T09:22:38",
-    "summary": "打造“赛博乙方天团”",
-    "collected_at": "2026-05-11T02:26:33.520182",
-    "content_text": "美图RoboNeo全新升级：首创影像创作Agent Teams\n量子位的朋友们\n2026-05-09\n17:22:38\n来源：\n量子位\n4月29日，美图公司旗下影像AI Agent RoboNeo大更新，首创影像创作 Agent Teams，打造内容创作“赛博乙方天团”，为自媒体人、内容小团队及“一人公司”提供全链路创作解决方案。用户可通过PC访问RoboNeo网站体验，体验专属AI创作团队，开启高效创作之旅。\n针对通用大模型“懂百行却不懂用户”、行业背景需反复重述、品牌资产难沉淀及创作者多环节内耗、工具切换繁琐等痛点，RoboNeo将不同环节的创作功能整合为Agent Teams，通过需求理解、内容生成、细节修正等多AI Agent角色化分工，以精准指令触达具体角色，摆脱泛化局限，深度匹配用户偏好与品牌风格，无需反复校准。\nRoboNeo的使用非常简单，用户通过自然语言表达创作想法后，Agent Teams即可自主完成全流程创作。\n经实测，RoboNeo Agent Teams在多个场景效果突出，大幅提升变现与创作效率。在AI短剧创作场景，能实现人设、脚本、分镜到成片的全输出；在自媒体创作场景，可同步生成封面、脚本及动画开头；在电商创作场景中，跨境电商卖家复刻爆款带货视频的时间已从半天压缩至5分钟以内。\n行业观察人士表示，RoboNeo推出的Agent Teams能够解决反复改稿、调试参数、对齐格式、寻找素材等繁琐的工作，让用户能够专注于灵感迸发。例如，图文博主即便不擅长剪辑，也可通过Agent Teams将图文转化为脚本并生成视频，无需操作剪辑软件；喜爱看“短剧”的用户，即便缺乏创作经验，也能借助Agent Teams完成人设搭建、剧情铺设、分镜设计，助力用户打开创作边界。\n据了解，RoboNeo本次大升级，除Agent Teams之外，还包括接入当前火爆的Seedance 2.0，完成连续镜头一键生成、声画同步输出、素材一致性智能控制的三大视频创作能力升级，同时内置电商、短剧、广告营销、动画制作等多元领域专家Skills库，支持用户实现不同场景创意落地。\n此外，RoboNeo记忆库能力可实现助力用户沉淀品牌视觉规范、设计素材、IP 形象等核心内容，实现专属资产的长效留存效复用。\nRoboNeo相关负责人表示，RoboNeo将通过持续提升Agent能力、深化生态开放，为内容创作行业注入新活力，助力更多创作者轻松打造爆款内容。\n转载来源：美图公司\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 1208,
-    "content_excerpt": "美图RoboNeo全新升级：首创影像创作Agent Teams\n量子位的朋友们\n2026-05-09\n17:22:38\n来源：\n量子位\n4月29日，美图公司旗下影像AI Agent RoboNeo大更新，首创影像创作 Agent Teams，打造内容创作“赛博乙方天团”，为自媒体人、内容小团队及“一人公司”提供全链路创作解决方案。用户可通过PC访问RoboNeo网站体验，体验专属AI创作团队，开启高效创作之旅。\n针对通用大模型“懂百行却不懂用户”、行业背景需反复重述、品牌资产难沉淀及创作者多环节内耗、工具切换繁琐等痛点，RoboNeo将不同环节的创作功能整合为Agent Teams，通过需求理解、内容生成、细节修正等多AI Agent角色化分工，以精准指令触达具体角色，摆脱泛化局限，深度匹配用户偏好与品牌风格，无需反复校准。\nRoboNeo的使用非常简单，用户通过自然语言表达创作想法后，Agent Teams即可自主完成全流程创作。\n经实测，RoboNeo Agent Teams在多个场景效果突出，大幅提升变现与创作效率。在AI短剧创作场景，能实现人设、脚本、分镜到成片的全输出；在自媒体创作场景，可同步生成封面、脚本及动画开头；在电商创作场景中，跨境电商卖家复刻爆款带货视频的时间已从半天压缩至5分钟以内。"
+    "id": "hn-47363754",
+    "title": "Can I run AI locally?",
+    "url": "https://www.canirun.ai/",
+    "source": "Hacker News",
+    "lang": "en",
+    "published": "2026-03-13T12:46:10Z",
+    "summary": "Can I run AI locally?",
+    "points": 1520,
+    "collected_at": "2026-05-16T07:54:41.200599"
   },
   {
     "id": "8328c3ff4517",
@@ -4539,15 +4599,15 @@
     "content_excerpt": "在 AI Coding 飞速发展的当下，工程师的价值正从“如何实现”转向“解决什么问题”，那么，手敲代码还有意义吗？作为一名坚持编码近 30 年的架构师，微软最有价值专家 (MVP)、开源项目创作者、现任 Aviva Solutions 的代码架构师 Dennis Doomen 的观点直截了当：如果你不深入代码，就无法做出优秀的架构决策。\n最近，Dennis 在播客节目中，与主持人 Patrick Akil 对话，他以大量一线经验为基础，探讨了一个更现实的问题：在 AI 可以生成代码的时代，我们究竟该如何保持对代码质量的掌控？基于该播客视频，InfoQ 对内容进行了整理与部分删改。\n核心观点如下：\n作为架构负责人，同时仍保持动手实践，这是团队中唯一有效的软件开发方式。\n软件工程的核心，无论过去还是未来，都是在已有系统与不断增长的复杂性之间维持平衡。如果对过去的决策缺乏理解，却仍机械遵循，就会不断累积复杂性，而时间会放大这一问题，甚至决定系统成败。\n即便未来我们可能不再需要编写代码，现阶段仍然需要对 AI 生成的结果进行接管和维护。\n无论是提交记录还是代码评审说明，都应尽量记录决策意图，而不仅是技术细节。\n成为高效软件架构师的唯一方式\nPatrick：你曾说自己不愿意全职做会议演讲，因为你太热爱现在的工作了。\nDennis："
   },
   {
-    "id": "hn-48019219",
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "id": "hn-47340079",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
     "source": "Hacker News",
     "lang": "en",
-    "published": "2026-05-05T07:34:55Z",
-    "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "points": 1755,
-    "collected_at": "2026-05-16T02:11:48.689198"
+    "published": "2026-03-11T19:29:29Z",
+    "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "points": 4229,
+    "collected_at": "2026-05-16T07:54:41.200220"
   },
   {
     "id": "5499a95c89db",
@@ -4565,15 +4625,15 @@
     "content_excerpt": "安全研究员 Alexander Hanff（网名 ThatPrivacyGuy）报告称，Chrome 一直在静默安装本地 Gemini Nano 大模型。它会以一个名为 weights.bin 的文件形式，存放在用户 Chrome 配置目录下的 OptGuideOnDeviceModel 文件夹中。\n只要 Chrome 判断你的设备满足硬件要求，这个 4GB 的下载就会自动发生。整个过程既不会请求授权，也不会发送任何通知。此外，如果你找到并删除该文件，Chrome 会自动下载一份新的副本并恢复它。\n事件引发争议后，谷歌昨天发表声明称，自 2024 年起他们就开始为 Chrome 提供 Gemini Nano 这一轻量级“本地模型”，并表示已逐步推出关闭选项。但声明回避了透明度和用户同意的核心问题——从头到尾，没人问过你同不同意。\n14 分 28 秒：Chrome 如何把 Gemini Nano 写进用户磁盘\n就在不久前，也就是 2026 年 5 月初，Alexander Hanff 公开了自己的发现。而在此之前两周，他刚刚揭露过 Anthropic 的一项类似操作：Claude Desktop 会在用户电脑上，悄悄向七个基于 Chromium 的浏览器注册一个“桥接程序”。换句话说，用户启动产品 A 时，Anthropic 会安装这个桥接程序，并在未经用户许可的情况下，把配置信息写入用户安装的产品 B、C、D、E、F、G、H 中（如 Brave、Edge、Arc、Vivaldi、Opera 等）。\n并且这涉及到对大约 300 万台 Claude Desktop 用户设备进行了浏览器自动化预授权，当时，Hanff 写道：“这种做法突破了厂商的信任边界。没有征求用户同意的对话框，也没有退出选项。”\n他没想到的是，仅仅两周后，他又在 Google Chrome 上发现了几乎相同的模式。\n在任何安装了 Chrome 浏览器的设备上，用户配置文件中都有一个名为 OptGuideOnDeviceModel 的目录。该目录下有一个名为 weights.bin 的文件。该文件大小约为 4 GB，是 Gemini Nano 权重文件，可用于运行设备端推理，也是 Google Prompt API 背后的基础组件之一。\n关键是，Google 压根没问你。在 Chrome 设置里，并没有一个清楚的选项写着：“是否允许 Chrome 下载一个约 4GB 的本地 AI 模型？”也没有弹窗提示用户：接下来浏览器会占用你的磁盘空间，下载一个用于 AI 功能的模型文件。下载会在 Chrome 的 AI 功能启用时触发，而这些功能在最新版本的 Chrome 中默认启用。在任何满足硬件要求的设备上，Chrome 都会将用户的硬件视为交付目标并写入模型。\n更麻烦的是，删除并不能解决问题。"
   },
   {
-    "id": "hn-47679121",
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "url": "https://www.anthropic.com/glasswing",
+    "id": "hn-47225130",
+    "title": "Meta’s AI smart glasses and data privacy concerns",
+    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
     "source": "Hacker News",
     "lang": "en",
-    "published": "2026-04-07T18:09:34Z",
-    "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
-    "points": 1541,
-    "collected_at": "2026-05-16T02:11:48.689283"
+    "published": "2026-03-02T22:32:35Z",
+    "summary": "Meta’s AI smart glasses and data privacy concerns",
+    "points": 1448,
+    "collected_at": "2026-05-16T07:54:41.200645"
   },
   {
     "id": "1cbc7c95219b",
@@ -4587,15 +4647,15 @@
     "collected_at": "2026-05-11T02:28:53.699520"
   },
   {
-    "id": "hn-47363754",
-    "title": "Can I run AI locally?",
-    "url": "https://www.canirun.ai/",
+    "id": "hn-47136179",
+    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
     "source": "Hacker News",
     "lang": "en",
-    "published": "2026-03-13T12:46:10Z",
-    "summary": "Can I run AI locally?",
-    "points": 1520,
-    "collected_at": "2026-05-16T02:11:48.689381"
+    "published": "2026-02-24T12:16:45Z",
+    "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
+    "points": 2084,
+    "collected_at": "2026-05-16T07:54:41.200330"
   },
   {
     "id": "279f269886a2",
@@ -4609,15 +4669,15 @@
     "collected_at": "2026-05-11T02:28:53.699546"
   },
   {
-    "id": "hn-47340079",
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "id": "hn-46990729",
+    "title": "An AI agent published a hit piece on me",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
     "source": "Hacker News",
     "lang": "en",
-    "published": "2026-03-11T19:29:29Z",
-    "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-    "points": 4229,
-    "collected_at": "2026-05-16T02:11:48.688987"
+    "published": "2026-02-12T16:23:24Z",
+    "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
+    "points": 2346,
+    "collected_at": "2026-05-16T07:54:41.200296"
   },
   {
     "id": "76350eef4824",
@@ -4631,50 +4691,6 @@
     "collected_at": "2026-05-11T02:28:53.699571"
   },
   {
-    "id": "hn-47225130",
-    "title": "Meta’s AI smart glasses and data privacy concerns",
-    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-    "source": "Hacker News",
-    "lang": "en",
-    "published": "2026-03-02T22:32:35Z",
-    "summary": "Meta’s AI smart glasses and data privacy concerns",
-    "points": 1448,
-    "collected_at": "2026-05-16T02:11:48.689423"
-  },
-  {
-    "id": "797cad6f3c58",
-    "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
-    "url": "https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-09T10:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T02:28:53.699597"
-  },
-  {
-    "id": "hn-47136179",
-    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-    "source": "Hacker News",
-    "lang": "en",
-    "published": "2026-02-24T12:16:45Z",
-    "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
-    "points": 2084,
-    "collected_at": "2026-05-16T02:11:48.689125"
-  },
-  {
-    "id": "hn-46990729",
-    "title": "An AI agent published a hit piece on me",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-    "source": "Hacker News",
-    "lang": "en",
-    "published": "2026-02-12T16:23:24Z",
-    "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
-    "points": 2346,
-    "collected_at": "2026-05-16T02:11:48.689062"
-  },
-  {
     "id": "hn-45941596",
     "title": "AirPods libreated from Apple's ecosystem",
     "url": "https://github.com/kavishdevar/librepods",
@@ -4683,7 +4699,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-16T02:11:48.689435"
+    "collected_at": "2026-05-16T07:54:41.200658"
   },
   {
     "id": "hn-45930151",
@@ -4694,7 +4710,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-16T02:11:48.689476"
+    "collected_at": "2026-05-16T07:54:41.200720"
   },
   {
     "id": "hn-44972151",
@@ -4705,7 +4721,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-16T02:11:48.689225"
+    "collected_at": "2026-05-16T07:54:41.200433"
   },
   {
     "id": "hn-44396518",
@@ -4716,7 +4732,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-16T02:11:48.689350"
+    "collected_at": "2026-05-16T07:54:41.200566"
   },
   {
     "id": "hn-44314423",
@@ -4727,7 +4743,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-16T02:11:48.689393"
+    "collected_at": "2026-05-16T07:54:41.200613"
   },
   {
     "id": "hn-44163063",
@@ -4738,7 +4754,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-16T02:11:48.689036"
+    "collected_at": "2026-05-16T07:54:41.200271"
   },
   {
     "id": "hn-42910910",
@@ -4749,7 +4765,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-16T02:11:48.689237"
+    "collected_at": "2026-05-16T07:54:41.200446"
   },
   {
     "id": "hn-41392128",
@@ -4760,7 +4776,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-16T02:11:48.689142"
+    "collected_at": "2026-05-16T07:54:41.200347"
   },
   {
     "id": "hn-41386319",
@@ -4771,7 +4787,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-16T02:11:48.689156"
+    "collected_at": "2026-05-16T07:54:41.200361"
   },
   {
     "id": "hn-41069829",
@@ -4782,7 +4798,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-16T02:11:48.689489"
+    "collected_at": "2026-05-16T07:54:41.200735"
   },
   {
     "id": "hn-41046773",
@@ -4793,7 +4809,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-16T02:11:48.689023"
+    "collected_at": "2026-05-16T07:54:41.200257"
   },
   {
     "id": "hn-40767459",
@@ -4804,7 +4820,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-16T02:11:48.689502"
+    "collected_at": "2026-05-16T07:54:41.200749"
   },
   {
     "id": "hn-39918245",
@@ -4815,7 +4831,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-16T02:11:48.689448"
+    "collected_at": "2026-05-16T07:54:41.200672"
   },
   {
     "id": "hn-39526057",
@@ -4826,7 +4842,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-16T02:11:48.689009"
+    "collected_at": "2026-05-16T07:54:41.200243"
   },
   {
     "id": "hn-38544729",
@@ -4837,7 +4853,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-16T02:11:48.689074"
+    "collected_at": "2026-05-16T07:54:41.200309"
   },
   {
     "id": "hn-37021160",
@@ -4848,7 +4864,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-16T02:11:48.689251"
+    "collected_at": "2026-05-16T07:54:41.200460"
   },
   {
     "id": "hn-31812259",
@@ -4859,7 +4875,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-16T02:11:48.689405"
+    "collected_at": "2026-05-16T07:54:41.200626"
   },
   {
     "id": "hn-18249755",
@@ -4870,7 +4886,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-16T02:11:48.689210"
+    "collected_at": "2026-05-16T07:54:41.200418"
   },
   {
     "id": "hn-17022963",
@@ -4881,7 +4897,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-16T02:11:48.689184"
+    "collected_at": "2026-05-16T07:54:41.200390"
   },
   {
     "id": "hn-15892066",
@@ -4892,7 +4908,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-16T02:11:48.689368"
+    "collected_at": "2026-05-16T07:54:41.200586"
   },
   {
     "id": "hn-6830566",
@@ -4903,6 +4919,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-16T02:11:48.689460"
+    "collected_at": "2026-05-16T07:54:41.200700"
   }
 ]
