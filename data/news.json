@@ -15,15 +15,44 @@
     "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n阿里云高级技术专家马腾已确认出席 “\n大模型推理优化\n” 专题，并发表题为《\n记忆感知的大模型 KVCache 优化\n》的主题分享。本次分享重点介绍以 KVCache 为中心的开源大模型服务框架——Mooncake。将大模型推理引擎中的 KVCache 视作智能体系统最核心的“物理工作记忆”载体。通过打破传统推理中计算与存储的强耦合，Mooncake 实现了 Prefill 与 Decode 的分离式架构，并构建了全局共享的 KVCache 池。这种设计使得多智能体在频繁交互与协同工作时，能够通过跨节点的底层张量零拷贝与高效复用，实现记忆的“一次计算、全局共享”。\n马腾，阿里云高级技术专家，在阿里云主要大模型软件栈在新硬件环境下国产化的研究工作，并共同创建了大模型开源项目 Mooncake（5K Star）。目前 Mooncake 已经有阿里云 / 清华 / 月之暗面 / 蚂蚁 / 字节 / 趋境科技等多方参与，并且成功接入 vLLM/SGLang/LMDeploy/LMCache 等社区。同时他也是 SGLang, RBG 等社区的 Committer。他在 SOSP, ASPLOS, ATC, SC, INFOCOM, VLDB, TPDS 等顶级会议和期刊上发表论文二十余篇，相关成果授权美国 / 中国专利 10 项。他曾入选 CCF 系统软件专委会优秀博士论文激励计划，担任 PPoPP, FAST, DASFAA, TPDS, ICME, TC, JSC 等国际会议 / 期刊的程序委员会成员和审稿人。他在本次会议的详细演讲内容如下："
   },
   {
-    "id": "dfd3e2f2013a",
-    "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
-    "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
+    "id": "dd8ed0b4ffe4",
+    "title": "阿里健康正式发布医学AI助手“氢离子”",
+    "url": "https://36kr.com/newsflashes/3811712103423746?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-16T07:29:15",
-    "summary": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下人工智能编码代理 ChatGPT、Codex 以及面向开发者的 API 整合到一个核心产品团队中。（鞭牛士）",
-    "collected_at": "2026-05-16T07:54:39.533053"
+    "published": "2026-05-16T08:34:03",
+    "summary": "36氪获悉，近日，阿里健康正式发布医学AI助手“氢离子”，同时宣布与英国BMJ集团达成独家合作。据了解，BMJ旗下70本医学期刊过去十年的内容资源接入氢离子，这是国际顶级期刊首次与中国AI平台达成此类合作。氢离子聚焦循证医学，采用四层架构：PICO+GRADE结构化理解、检索增强、模型微调、专家评审闭环。超300位中国临床专家参与共建评价标准，黄晓军、肖瑞平、于金明等10位顶级专家把关学术方向。",
+    "collected_at": "2026-05-16T13:05:38.985620"
+  },
+  {
+    "id": "8c47a5370e73",
+    "title": "Frontier AI has broken the open CTF format",
+    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-16T07:01:55",
+    "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 200 # Comments: 170",
+    "collected_at": "2026-05-16T13:05:36.523813",
+    "content_text": "What makes me qualified to say this?\nI started playing CTFs in 2021, the same year I started university. My first CTF was HCKSYD, a 48-hour solo CTF. I full solved it and won in 2 hours. I was completely hooked. That led me to win DownUnderCTF, Australia's largest CTF, with Blitzkrieg multiple times. Blitzkrieg was one of Australia's strongest teams at the time. I later joined TheHackersCrew, an international top-tier team that was consistently ranked highly on CTFTime, the main global ranking and event calendar the scene uses as its scoreboard. With them, I competed in some of the most prestigious CTFs in the world, consistently placing well within the top 10 until the end of 2025.\nI am not saying this because I dislike CTFs. I am saying it because CTFs were the thing that made me fall in love with security. They taught me how to learn, gave me a way to measure myself, and introduced me to many of the people I respect most in the field. Watching people pretend the format is still fine is frustrating because the old game is not there anymore.\nWhat changed?\nAs AI tools ramped up in capability, especially when GPT-4 first came out, a significant percentage of medium difficulty CTF challenges started becoming one-shottable, meaning a single prompt from a user could produce the solve and flag. You could paste a cryptography challenge into ChatGPT, come back in 10 minutes, and have the solution. At the time, we did not think too much of it. Hard challenges went mostly untouched, and the time save was not large enough to ruin the competition.\nThe issue was never that AI could help. CTF players have always used tools. The issue is when the model does the reasoning, writes the solve, and leaves the human with nothing meaningful to do besides copy the flag.\nEnter Claude Opus 4.5\nWhen Opus 4.5 dropped, the tone changed. Almost every medium difficulty challenge, and some hard challenges, became agent-solvable. Claude Code packaged everything into a CLI and made it easy to connect other CLI and MCP tools. It became trivial to build an orchestrator that used the CTFd API to spin up a Claude instance for every challenge. You could let the system run for the first hour, then only start working on whatever was left.\nThat changed the game. Teams that refused to use AI were not just missing a convenience; they were playing a slower version of the competition. Open online CTFs started becoming a question of how quickly you could automate the easy and medium work, then how much human attention you had left for the hardest challenges. The scoreboard started measuring orchestration and willingness to use frontier models alongside, and sometimes above, security skill.\nThe effects were obvious. The CTFTime leaderboard started feeling wrong. Some legendary teams that were consistently near the top appeared less often. Player activity felt lower. Challenge developers who treated CTFs as an artform had less reason to spend weeks building something beautiful if it was going to be eaten by an agent in minutes.\nGPT-5.5 seals the deal\nI have been working heavily with GPT-5.5 and GPT-5.5 Pro after launch. By benchmark metrics, 5.5 is close to Claude Mythos' capability, and Pro likely surpasses it. These models can one-shot Insane difficulty active leakless heap pwn challenges on HackTheBox. They can solve a large portion of what a smaller CTF organiser can realistically produce. If you orchestrate Pro against Insane challenges in a 48-hour CTF, there is a good chance you get the flag before the event ends.\nThat makes open CTFs pay-to-win. The more tokens you can throw at a competition, the faster you can burn down the board. Specialised cybersecurity models like alias1 by Alias Robotics are becoming less relevant compared to general frontier LLMs. The competition is turning into \"who can afford to run enough agents, with enough context, for long enough.\"\nCTFs feel much more like a cheesable mess than a competition. Your performance in a CTF no longer defines your skill the way it used to. Recruiting security practitioners by CTF performance is becoming less meaningful. It is not even a particularly good measure of AI skill, because most of the orchestration needed for CTFs is already open source or vibe codeable.\nThe \"beginners are fine\" take\nI have seen various takes that beginners can still learn from CTFs as they always have. These takes miss the scoreboard. CTFs were not just a set of puzzles. They were a ladder. Even as a beginner, you had something to climb. You could see yourself improve, solve more challenges, place higher, join better teams, and become more competitive over time.\nThat feedback loop is breaking. If the visible scoreboard is dominated by teams using AI, a beginner is pushed toward using AI before they have built the instincts the AI is replacing. That is an anti-pattern. It prevents active learning, and active struggle is the bit that actually teaches you. It is also completely demotivating to put in real effort and see no visible progress because the ladder above you has been automated.\nIt also changes what challenge authors want to build. If beginner CTFs become another place where people quietly paste prompts and climb a scoreboard, authors have more reason to put their effort into learning platforms instead. At least on platforms like picoGym and HackTheBox, the expectation is education, and beginners are less incentivised to cheat themselves out of learning.\nBeginners are better off using picoGym, HackTheBox, and other lab environments where the point is actually learning instead of pretending the public scoreboard still reflects human growth.\n\"CTF isn't dead\"\nI have seen some hopium posts about how CTF is not dead, it is just augmented by AI. They often point at CTFs like DEF CON to argue that AI still cannot solve everything. That is true, but it is the wrong defence.\nThe hardest top-tier finals have very few participants, and they are usually gated behind qualifiers that are easier than the finals themselves. If those qualifiers fall to agents, fewer genuinely qualified people reach the challenges that still resist AI. A tiny number of elite finals does not save the open online format that most people actually play.\nThe claim is not that every challenge is solved. The claim is that enough of the scoreboard has been automated that the scoreboard no longer means what it used to mean.\nThe \"AI is useful for security research\" take\nCTFs were never meant to be security research. They can showcase new and interesting techniques, but the CTF itself is not the point of discovery. Just because AI is useful within a field does not mean it belongs in the competitive landscape of that field.\nIn CTFs, unrestricted AI removes the human from the puzzle almost entirely and reduces the art of security to a prompt. Sure, LLMs will keep getting better at security as long as CTFs are around, but that does not mean the competitive format is healthy. CTFs were an artform, a way to share techniques with nerds, and a way to push the human bounds of security skill. That purpose is being stripped away.\nThe \"LLMs are chess engines for cyber\" take\nChess has been dominated by computers for well over a decade. People use chess engines as an analogy for LLMs in CTFs, but they miss the point: chess engines are not allowed during competitive play. They are used for analysis, training, commentary, and practice. They enrich the game around the competition without replacing the person competing.\nImagine giving every competitive chess player the best chess engine and letting them use it freely during matches. Would that be considered fair? Would it be fun to watch? Would it justify prize pools? Would it push the human limits of what could be achieved in chess? The same questions apply to CTFs.\nOrganisers can't fight back\nCTF organisers have tried techniques to break or deter LLM solutions, but they are temporary friction at best. Claude Code does not meaningfully care about old refusal-string tricks anymore. Frontier models are getting better at noticing prompt injections. Web search capabilities weaken challenges based on technologies released after the training cutoff. Rules that ask people not to use LLMs are ignored and almost impossible to enforce in open online events.\nThat leaves organisers in a bad position. If they make normal challenges, agents solve too much. If they make challenges deliberately hostile to agents, the challenges often become guessy, overengineered, or unpleasant for humans too. That is not a real fix. It just makes CTFs worse for everyone.\n\"just adapt bro\"\nThis take is infuriating. People I have always looked up to in the community have said it. To me, it is completely nonsensical unless you explain what we are adapting into.\nIf adaptation means building better tooling, CTF players already did that. If adaptation means writing harder challenges, organisers already tried. If adaptation means accepting that the scoreboard is now an AI orchestration benchmark, then we should say that honestly instead of pretending the old competition still exists.\nEven if organisers create guessier or more overengineered challenges that current LLMs cannot solve, there are no good paths for players to learn the required skills while staying competitive. A few models from now, that point may be irrelevant anyway. The trajectory of LLM security capability is moving too quickly for challenge design to stay ahead for long.\nThe aftermath\nThe scene that grew my love for CTFs is emptying out. The CTFTime leaderboard has almost no semblance of history or human skill anymore. The 2026 scoreboard is unrecognisable compared to every year before it. TheHackersCrew, alongside many other large and reputable teams, either do not play, play with far fewer people, or struggle to cut into the top 10. Unregulated cheating is through the roof. Some of the best CTFs, like Plaid CTF, are not running anymore.\nThese sentiments are not only mine. Many members of my local team, Emu Exploit, feel similarly. These are people who consistently attend the International Cybersecurity Championship, perform at the top level in bug bounty programmes, compete in Pwn2Own, and present at conferences including Black Hat. The people losing interest are not casual observers. They are exactly the kind of people the scene used to produce and retain.\nThe fun of CTFing is gone for many of the people who cared most. The loss is not just a scoreboard. It is the ladder from beginner curiosity to elite competition. It is the craft of challenge design. It is the feeling that a clever human solved something difficult because they understood it deeply.\nThat legacy is not being carried forward by open online CTFs in their current form. The format is dead. Something else may replace it, but pretending nothing fundamental has changed only makes the loss harder to talk about honestly. It also gives AI shills more room to capitalise on the decline by selling mediocre wrappers back to the community that made the training data valuable in the first place.\nWhat now?\nWhile a lot of what's happening in the CTF/AI space is super commercialised and out of our control, CTF has had a hugely positive impact on the industry. I have met so many kind, smart, and passionate people through CTFs. I have played some of the most beautifully crafted challenges and found some of the most intriguing unintended solutions.\nThe community around CTFing has been an amazing place to learn, grow, and connect. That's something we shouldn't lose, no matter where the competition goes. As a community, we should strive to stay together and build new avenues to stay passionate and keep learning. Security-adjacent social events like SecTalks, student conferences, and local meetups are great ways to stay connected and stay involved. Learning platforms and the communities they provide through platforms like Discord are also a valuable resource.\nWhile it may be a struggle to find an alternative to what we had, the amazing community we have built around it is more important now more than ever as we find new ways to keep the competitive spirit alive.",
+    "content_source": "trafilatura",
+    "content_chars": 12159,
+    "content_excerpt": "What makes me qualified to say this?\nI started playing CTFs in 2021, the same year I started university. My first CTF was HCKSYD, a 48-hour solo CTF. I full solved it and won in 2 hours. I was completely hooked. That led me to win DownUnderCTF, Australia's largest CTF, with Blitzkrieg multiple times. Blitzkrieg was one of Australia's strongest teams at the time. I later joined TheHackersCrew, an international top-tier team that was consistently ranked highly on CTFTime, the main global ranking and event calendar the scene uses as its scoreboard. With them, I competed in some of the most prestigious CTFs in the world, consistently placing well within the top 10 until the end of 2025.\nI am not saying this because I dislike CTFs. I am saying it because CTFs were the thing that made me fall in love with security. They taught me how to learn, gave me a way to measure myself, and introduced me to many of the people I respect most in the field. Watching people pretend the format is still fine is frustrating because the old game is not there anymore.\nWhat changed?\nAs AI tools ramped up in capability, especially when GPT-4 first came out, a significant percentage of medium difficulty CTF challenges started becoming one-shottable, meaning a single prompt from a user could produce the solve and flag. You could paste a cryptography challenge into ChatGPT, come back in 10 minutes, and have the solution. At the time, we did not think too much of it. Hard challenges went mostly untouched, and the time save was not large enough to ruin the competition.\nThe issue was never that AI could help. CTF players have always used tools. The issue is when the model does the reasoning, writes the solve, and leaves the human with nothing meaningful to do besides copy the flag.\nEnter Claude Opus 4.5\nWhen Opus 4.5 dropped, the tone changed. Almost every medium difficulty challenge, and some hard challenges, became agent-solvable. Claude Code packaged everything into a CLI and made it easy to connect other CLI and MCP tools. It became trivial to build an orchestrator that used the CTFd API to spin up a Claude instance for every challenge. You could let the system run for the first hour, then only start working on whatever was left.\nThat changed the game. Teams that refused to use AI were not just missing a convenience; they were playing a slower version of the competition. Open online CTFs started becoming a question of how quickly you could automate the easy and medium work, then how much human attention you had left for the hardest challenges. The scoreboard started measuring orchestration and willingness to use frontier models alongside, and sometimes above, security skill.\nThe effects were obvious. The CTFTime leaderboard started feeling wrong. Some legendary teams that were consistently near the top appeared less often. Player activity felt lower. Challenge developers who treated CTFs as an artform had less reason to spend weeks building something beautiful if it was going to be eaten by an agent in minutes.",
+    "title_zh": "Frontier AI 打破了开放的 CTF 格式",
+    "summary_zh": "文章网址：https://kabir.au/blog/the-ctf-scene-is-dead 评论网址：https://news.ycombinator.com/item?id=48157559 积分：200 # 评论：170",
+    "ai_summary": "文章网址：https://kabir.au/blog/the-ctf-scene-is-dead 评论网址：https:…"
+  },
+  {
+    "id": "06ac1055a45e",
+    "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+    "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-16T08:01:59",
+    "summary": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+    "collected_at": "2026-05-16T13:05:38.985668"
   },
   {
     "id": "1e09c8d6318e",
@@ -41,14 +70,15 @@
     "content_excerpt": "奥特曼投的芯片涨疯了，今年最大科技IPO\n听雨\n2026-05-16\n14:52:14\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\nOpenAI「扶持」的AI芯片企业\nCerebras Systems"
   },
   {
-    "id": "v2ex-1213129",
-    "title": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
-    "url": "https://www.v2ex.com/t/1213129",
-    "source": "V2EX",
+    "id": "dfd3e2f2013a",
+    "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+    "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
+    "source": "36氪",
     "lang": "zh",
-    "published": "2026-05-16T02:52:24",
-    "summary": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
-    "collected_at": "2026-05-16T07:54:41.642927"
+    "priority": 4,
+    "published": "2026-05-16T07:29:15",
+    "summary": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下人工智能编码代理 ChatGPT、Codex 以及面向开发者的 API 整合到一个核心产品团队中。（鞭牛士）",
+    "collected_at": "2026-05-16T07:54:39.533053"
   },
   {
     "id": "ec8304fb7a9c",
@@ -64,6 +94,16 @@
     "content_source": "readability",
     "content_chars": 3927,
     "content_excerpt": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源\n梦晨\n2026-05-16\n12:49:15\n来源：\n量子位\n金磊 发自 杭州\n量子位 | 公众号 QbitAI\n很反差。\n明明是一场AI的发布会，台下却坐满了"
+  },
+  {
+    "id": "v2ex-1213129",
+    "title": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+    "url": "https://www.v2ex.com/t/1213129",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-16T02:52:24",
+    "summary": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+    "collected_at": "2026-05-16T07:54:41.642927"
   },
   {
     "id": "f9457a7a7ca9",
@@ -102,6 +142,20 @@
     "collected_at": "2026-05-16T02:11:46.918314"
   },
   {
+    "id": "v2ex-1213114",
+    "title": "一个稍稍严肃的 Infra 开发， 200 刀 Codex 周消耗量",
+    "url": "https://www.v2ex.com/t/1213114",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-16T00:56:12",
+    "summary": "5 月 12 日下午 3 时刷新了一周用量，到 5 月 15 日下午用完，下次刷新要等到 5 月 19 日了，套餐是 ChatGPT 200 刀，模型是 gpt-5.5 high fast 。 Infra 开发进入中后期（加模块），习惯是 Codex 主程（一个长期的 session ，token 使用量已经有 3.3B 左右），然后另开两个 Codex Review ，再加两个 Claude Code Review(100 刀套餐)。偶尔零散单开，忽略之。 按下面的统计来看，周用量如果跑标准 5.5API 大概是 1200 刀，fast 走 Priority ，也就是 2.5 倍是 3000",
+    "collected_at": "2026-05-16T13:05:41.262861",
+    "content_text": "5 月 12 日下午 3 时刷新了一周用量，到 5 月 15 日下午用完，下次刷新要等到 5 月 19 日了，套餐是 ChatGPT 200 刀，模型是 gpt-5.5 high fast 。\nInfra 开发进入中后期（加模块），习惯是 Codex 主程（一个长期的 session ，token 使用量已经有 3.3B 左右），然后另开两个 Codex Review ，再加两个 Claude Code Review(100 刀套餐)。偶尔零散单开，忽略之。\n按下面的统计来看，周用量如果跑标准 5.5API 大概是 1200 刀，fast 走 Priority ，也就是 2.5 倍是 3000 刀，但是套餐费是 200/4=50 刀。\n分享一下供大家参考，以下使用了\nhttps://github.com/huajiexiewenfeng/codex-token-usage-skill\n这个 skill ，略修改提供按日的数据。\n范围: 2026-05-12 to 2026-05-15\n调用次数: 10,612\n会话数: 17\n指标\nToken 数\n说明\n总量\n1,697,105,658\ntotal_tokens\n汇总\nInput\n1,684,776,812\n输入 token ，包含 cached input\nCached input\n1,617,974,144\n命中缓存的输入 token\nOutput\n3,181,341\n输出 token\nReasoning output\n967,432\n推理输出 token\n非缓存 Input\n66,802,668\nInput - Cached input\n净用量\n69,984,009\n非缓存 Input + Output\n缓存命中率\n96.03%\nCached input / Input\n日均总量\n424,276,414.50\n总量 / 统计天数\n最多的一天: 2026-05-14, 590,184,843 tokens.\n日期\n总量\nInput\nCached input\nOutput\nReasoning output\n非缓存 Input\n净用量\n缓存命中率\n调用次数\n会话数\n2026-05-12\n332,727,335\n330,002,701\n317,752,064\n639,247\n196,753\n12,250,637\n12,889,884\n96.29%\n2,056\n6\n2026-05-13\n568,982,985\n564,878,467\n542,723,712\n1,123,134\n395,888\n22,154,755\n23,277,889\n96.08%\n3,616\n10\n2026-05-14\n590,184,843\n586,391,899\n564,809,728\n1,047,875\n269,174\n21,582,171\n22,630,046\n96.32%\n3,660\n8\n2026-05-15\n205,210,495\n203,503,745\n192,688,640\n371,085\n105,617\n10,815,105\n11,186,190\n94.69%\n1,280\n5",
+    "content_source": "readability",
+    "content_chars": 1327,
+    "content_excerpt": "5 月 12 日下午 3 时刷新了一周用量，到 5 月 15 日下午用完，下次刷新要等到 5 月 19 日了，套餐是 ChatGPT 200 刀，模型是 gpt-5.5 high fast 。\nInfra 开发进入中后期（加模块），习惯是 Codex 主程（一个长期的 session ，token 使用量已经有 3.3B 左右），然后另开两个 Codex Review ，再加两个 Claude Code Review(100 刀套餐)。偶尔零散单开，忽略之。\n按下面的统计来看，周用量如果跑标准 5.5API 大概是 1200 刀，fast 走 Priority ，也就是 2.5 倍是 3000 刀，但是套餐费是 200/4=50 刀。\n分享一下供大家参考，以下使用了\nhttps://github.com/huajiexiewenfeng/codex-token-usage-skill\n这个 skill ，略修改提供按日的数据。\n范围: 2026-05-12 to 2026-05-15\n调用次数: 10,612\n会话数: 17\n指标"
+  },
+  {
     "id": "9c8aa558adfd",
     "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
     "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
@@ -138,17 +192,17 @@
     "ai_summary": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…"
   },
   {
-    "id": "0fa3fe113173",
+    "id": "hn-48153379",
     "title": "I believe there are entire companies right now under AI psychosis",
     "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "source": "Hacker News AI",
+    "source": "Hacker News",
     "lang": "en",
-    "priority": 2,
-    "published": "2026-05-15T20:26:47",
-    "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 825 # Comments: 360",
-    "collected_at": "2026-05-16T02:11:45.441463",
+    "published": "2026-05-15T20:26:47Z",
+    "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
+    "points": 1498,
+    "collected_at": "2026-05-16T13:05:40.859724",
     "title_zh": "我相信现在整个公司都处于人工智能精神病状态",
-    "summary_zh": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 评论网址：https://…",
+    "summary_zh": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130",
     "ai_summary": "https://xcancel.com/mitchellh/status/2055380239711457578http…"
   },
   {
@@ -168,6 +222,20 @@
     "title_zh": "ArXiv 将禁止上传充满 AI 垃圾论文的研究人员",
     "summary_zh": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可争议的证据表明作者没有检查LLM生成的结果”，例如幻觉的参考文献或“元评论”l",
     "ai_summary": "ArXiv 是一个流行的预印本学术研究平台，它正在采取新的举措，试图减少包含 AI 垃圾的论文数量。如果一篇论文有“无可…"
+  },
+  {
+    "id": "0fa3fe113173",
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-15T20:26:47",
+    "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 825 # Comments: 360",
+    "collected_at": "2026-05-16T02:11:45.441463",
+    "title_zh": "我相信现在整个公司都处于人工智能精神病状态",
+    "summary_zh": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 评论网址：https://…",
+    "ai_summary": "https://xcancel.com/mitchellh/status/2055380239711457578http…"
   },
   {
     "id": "2a9cfc82264a",
@@ -4492,22 +4560,15 @@
     "content_excerpt": "5 月 8 日，由新华三集团主办的 NAVIGATE 2026 领航者峰会在北京召开。紫光股份董事长、新华三集团总裁兼首席执行官于英涛发表主旨演讲。\n以下是完整演讲内容：\n时代之问\n各位嘉宾，前天，我们刚刚迎来新华三成立十周年的重要节点。站在这样一个特殊的时间坐标回望，焦虑，始终伴随我们前行。\n年度业绩的压力、核心技术的攻坚、团队协作的磨合、客户需求的瞬息万变……\n我想身处数字化行业的在座各位，大概也都有同感。\n焦虑，成为我们这个行业从业者的“\n生存常态\n”。\n但今年不一样。"
   },
   {
-    "id": "4b6db41ff386",
-    "title": "Nvidia has already committed $40B to equity AI deals this year",
-    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "source": "TechCrunch AI",
+    "id": "hn-48019219",
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "source": "Hacker News",
     "lang": "en",
-    "priority": 1,
-    "published": "2026-05-09T14:43:30",
-    "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-    "collected_at": "2026-05-11T02:28:48.906135",
-    "content_text": "Nvidia continues to be a major investor in the AI ecosystem, committing more than $40 billion to equity investments in AI companies — and that’s just in these early months of 2026,\naccording to CNBC\n.\nMuch of that total comes from a single bet,\na $30 billion investment in OpenAI\n. But CNBC reports that the chipmaker has also announced seven multi-billion dollar investments in publicly traded companies, most recently deals to invest up to $3.2 billion in glassmaker Corning and up to $2.1 billion in data center operator IREN.\nWe’ve previously\nrounded up Nvidia’s investments in AI startups\n, including 67 venture deals in 2025. And according to FactSet data, it’s already participated in around two dozen investment rounds in private startups in 2026.\nThe fact that Nvidia has been investing in some of its own customers has led to the recurring criticism that these are\ncircular deals\nmoving money back-and-forth between the same companies.\nWedbush Securities analyst Matthew Bryson said Nvidia’s investments fall “squarely into the circular investment theme,” but suggested that if successful, they could help the company build a “competitive moat.”",
-    "content_source": "readability",
-    "content_chars": 1155,
-    "content_excerpt": "Nvidia continues to be a major investor in the AI ecosystem, committing more than $40 billion to equity investments in AI companies — and that’s just in these early months of 2026,\naccording to CNBC\n.\nMuch of that total comes from a single bet,\na $30 billion investment in OpenAI\n. But CNBC reports that the chipmaker has also announced seven multi-billion dollar investments in publicly traded companies, most recently deals to invest up to $3.2 billion in glassmaker Corning and up to $2.1 billion in data center operator IREN.\nWe’ve previously\nrounded up Nvidia’s investments in AI startups\n, including 67 venture deals in 2025. And according to FactSet data, it’s already participated in around two dozen investment rounds in private startups in 2026.\nThe fact that Nvidia has been investing in some of its own customers has led to the recurring criticism that these are",
-    "title_zh": "Nvidia 今年已承诺投资 40B 美元用于股权人工智能交易",
-    "summary_zh": "英伟达仍然是人工智能生态系统的重要投资者",
-    "ai_summary": "英伟达仍然是人工智能生态系统的重要投资者"
+    "published": "2026-05-05T07:34:55Z",
+    "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "points": 1755,
+    "collected_at": "2026-05-16T13:05:40.859510"
   },
   {
     "id": "f01039e7c9e6",
@@ -4525,15 +4586,15 @@
     "content_excerpt": "昨晚，据 The Information 报道，DeepSeek 正在筹备公司成立以来的首轮外部融资，规模可能高达 70 亿美元（约合人民币 500 亿元）。如果交易完成，将会刷新中国 AI 创业公司单轮融资纪录。\n另据彭博社报道，腾讯和阿里巴巴也在洽谈参与此轮融资。\n但今天早上，《白鲸实验室》报道，阿里巴巴已经和 DeepSeek 谈崩了。双方未能在融资具体条款上达成一致。\n此外，消息人士还称，DeepSeek 创始人梁文锋或将亲自参与其中，并投入约 200 亿元人民币。这意味着，在整轮融资中，创始团队本身就可能承担接近 40%的资金比例。\n据消息人士透露，此次融资资金将重点用于提高 DeepSeek 员工薪资及加强算力储备。由于此前竞争对手挖角了多位 DeepSeek 研究员，梁文锋对此已产生明显的危机感。\nDeepSeek 一直被外界视为中国大模型行业里最特殊的一家公司。它不像多数 AI 创业公司那样，急于构建应用层故事，也没有过度强调 To C 产品规模，而是把重心长期放在模型能力、推理效率以及开源生态上。\n但随着行业进入 2026 年，DeepSeek 的打法正在发生明显变化。\n根据 The Information 的报道，DeepSeek 已开始主动推动商业化，包括扩大销售团队、寻找企业合作伙伴，并探索模型 API 之外的收入来源。而融资规模的急剧膨胀，也反映出市场态度的变化。\n今年 4 月，市场最早传出的融资预期仍停留在 100 亿美元估值附近。随后短短数周内，市场对其估值预期一路抬升。如今，如果按最新消息中的融资方案计算，其投后估值或将突破 515 亿美元。\n换句话说，仅仅一个月时间，市场对 DeepSeek 的定价，已经接近翻倍。"
   },
   {
-    "id": "hn-48019219",
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "id": "hn-47679121",
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "url": "https://www.anthropic.com/glasswing",
     "source": "Hacker News",
     "lang": "en",
-    "published": "2026-05-05T07:34:55Z",
-    "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "points": 1755,
-    "collected_at": "2026-05-16T07:54:41.200405"
+    "published": "2026-04-07T18:09:34Z",
+    "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
+    "points": 1541,
+    "collected_at": "2026-05-16T13:05:40.859598"
   },
   {
     "id": "801a457d7027",
@@ -4547,15 +4608,15 @@
     "collected_at": "2026-05-11T02:28:53.699316"
   },
   {
-    "id": "hn-47679121",
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "url": "https://www.anthropic.com/glasswing",
+    "id": "hn-47363754",
+    "title": "Can I run AI locally?",
+    "url": "https://www.canirun.ai/",
     "source": "Hacker News",
     "lang": "en",
-    "published": "2026-04-07T18:09:34Z",
-    "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
-    "points": 1541,
-    "collected_at": "2026-05-16T07:54:41.200495"
+    "published": "2026-03-13T12:46:10Z",
+    "summary": "Can I run AI locally?",
+    "points": 1520,
+    "collected_at": "2026-05-16T13:05:40.859703"
   },
   {
     "id": "5f05a40eb384",
@@ -4573,32 +4634,6 @@
     "content_excerpt": "编者按：\n当“AI 正在接管编程”成为技术圈最热门、也最容易被情绪化传播的话题之一时，真正值得追问的，或许并不是“程序员会不会消失”，而是：\n当代码生成越来越廉价之后，软件工程中真正稀缺、也真正不可替代的能力，究竟会转移到哪里。\n这篇文章并不回避 AI 对初级开发岗位带来的真实冲击，也不满足于重复“程序员不会被替代”的安慰性判断。作者试图回答的是一个更具体、也更现实的问题：在 AI 已经深度介入编码流程之后，工程师的核心价值是否正在从“写代码”转向“定义问题、设计验证机制、控制风险并完成系统交付”。\n前一阵看到一条新闻，Claude Code 的创建者 Boris Cherny 在一档播客里说“编程被解决了”。这句话被国内不少自媒体反复引用，标题取得很重——“程序员的时代结束了”、“AI 替你写代码的时代来了”。\n如果你真去翻那期原始播客，会发现节目的标题写得相当克制：「Head of Claude Code: What happens after coding is solved」——重点不在“被解决”，而在“之后”。Boris 在节目里坦白自己自去年 11 月起一行代码都没手写过，每天提交几十个改动都靠 Claude Code，但他紧接着补了一句：所有合并请求仍然要先过 Claude 自动审一遍，再过一道人工审核这一关。主持人 Lenny 在节目里替他总结了这件事——以前的瓶颈是写，现在是审。\n这个细节在传播过程中被删掉了。但被删掉的不是无关紧要的修饰，恰恰是整件事最有信息量的部分：编程没有被消灭，它的瓶颈从一处转移到了另一处。问题是——转移到哪了？转移之后，做软件工程的人到底要做什么？\n这些也是这篇文章想回答的问题。我首先会承认 AI 在替代论上确实命中的那一部分，然后再解释为什么“程序员要失业了”是夸大其词，最后尝试给出一个具体的判断：工程师的工作正在从一种活变成另一种活，那个新的活叫什么、怎么练。\n真的有人在被替代\n先说真的那部分。"
   },
   {
-    "id": "hn-47363754",
-    "title": "Can I run AI locally?",
-    "url": "https://www.canirun.ai/",
-    "source": "Hacker News",
-    "lang": "en",
-    "published": "2026-03-13T12:46:10Z",
-    "summary": "Can I run AI locally?",
-    "points": 1520,
-    "collected_at": "2026-05-16T07:54:41.200599"
-  },
-  {
-    "id": "8328c3ff4517",
-    "title": "停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南",
-    "url": "https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-09T12:32:48",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T02:28:53.699465",
-    "content_text": "在 AI Coding 飞速发展的当下，工程师的价值正从“如何实现”转向“解决什么问题”，那么，手敲代码还有意义吗？作为一名坚持编码近 30 年的架构师，微软最有价值专家 (MVP)、开源项目创作者、现任 Aviva Solutions 的代码架构师 Dennis Doomen 的观点直截了当：如果你不深入代码，就无法做出优秀的架构决策。\n最近，Dennis 在播客节目中，与主持人 Patrick Akil 对话，他以大量一线经验为基础，探讨了一个更现实的问题：在 AI 可以生成代码的时代，我们究竟该如何保持对代码质量的掌控？基于该播客视频，InfoQ 对内容进行了整理与部分删改。\n核心观点如下：\n作为架构负责人，同时仍保持动手实践，这是团队中唯一有效的软件开发方式。\n软件工程的核心，无论过去还是未来，都是在已有系统与不断增长的复杂性之间维持平衡。如果对过去的决策缺乏理解，却仍机械遵循，就会不断累积复杂性，而时间会放大这一问题，甚至决定系统成败。\n即便未来我们可能不再需要编写代码，现阶段仍然需要对 AI 生成的结果进行接管和维护。\n无论是提交记录还是代码评审说明，都应尽量记录决策意图，而不仅是技术细节。\n成为高效软件架构师的唯一方式\nPatrick：你曾说自己不愿意全职做会议演讲，因为你太热爱现在的工作了。\nDennis：\n我也不认为有必要全职从事演讲，我仍然希望亲自参与实践。我更愿意称自己为“动手型架构师”或“编码型架构师”，几乎所有分享内容都源于我的一线经验。\n如果停止编写代码，不再亲自构建并上线生产系统，就会逐渐失去这些经验。\n我现在 52 岁，从事这一领域已近 30 年，几乎无法想象自己停止编码。幸运的是，我的工作通常兼具架构设计与团队协作，我既是架构师，也是团队成员，会与开发者一起编写生产代码，从中能够获得大量实践经验。同时，我也能向开发者展示：只要稍微调整方法，代码的可维护性就能显著提升，这一点非常有价值。此外，在实践中还会不断遇到框架限制，学习新技术、新范式，这些都极具价值。因此，我通常只分享自身经验，而不是单纯介绍新技术，因为后者已有很多人可以胜任。我更愿意讲述日常工作中的真实经历，包括遇到的困难与取得的成功。\nPatrick：作为架构负责人，同时仍保持动手实践，这是否是团队中最有效的软件开发方式？\nDennis：\n我认为这是唯一有效的方式。我接触过许多企业架构师，他们通常关注高层设计，例如策略或信息架构，但往往缺乏一线经验，难以判断某种方案是否可行，或某种技术路径对长期可维护性与可持续性的影响。对我来说，软件架构师若想真正发挥作用，必须清楚自己在做什么，并通过实践不断验证设想，需要亲自观察方案在实际中的表现。即使只是修复现有代码库中的缺陷，也极具价值，因为可以从中学到大量经验。我曾多次以顾问身份加入团队，发现他们在维护代码时面临困难，例如高耦合、结构混乱等问题。\n当从更高视角审视时，往往会发现其架构本质上类似某种成熟模式。但问题在于，当前团队已经完全失去了对原始架构理念的理解，甚至不知道其底层设计思想。他们只是机械地复制项目结构与文件夹，而不理解其背后的原因，这种教条化做法反而削弱了优化和简化代码的能力。如果不深入代码库，很难发现这些问题。\n在从零开始设计系统时，架构师通常会基于功能与非功能需求做出合理假设，但将这些设计真正落地，并非仅靠文档即可完成，开发团队仍会在实现过程中犯错。架构本身也包含假设，例如是否需要某种抽象，或是否采用特定模式，最终可能发现方案过于复杂或性能不足，需要调整。有时团队经验不足，也难以判断某种模式是否适用。因此，这一过程本质上是持续迭代的：设计、实现、反思、再调整，这与敏捷开发非常相似，也是工作的重要组成部分。\nPatrick：我认为软件工程的核心，无论过去还是未来，都是在已有系统与不断增长的复杂性之间维持平衡。如果对过去的决策缺乏理解，却仍机械遵循，就会不断累积复杂性，而时间会放大这一问题，甚至决定系统成败。\nDennis：\n如果你意识到系统中存在不必要的复杂性，就需要持续投入精力去消除它。但实践中常会面临权衡，例如某个模块过于复杂，却遵循统一模式，是否应打破模式以简化该模块。如果这样做，系统的一致性会受到影响，部分开发者更倾向于保持一致性，即使代价是更高复杂度。我的观点是，应将模块视为边界，在该边界内保持一致性即可，而优先简化模块本身，因为这将显著提升可维护性。许多开发者在抽象、单元测试范围等问题上感到困惑，本质上也是复杂性带来的问题。\n关于避免重复（DRY）原则，我持相对务实的态度：在某些情况下，我会有意识地复制代码，以降低耦合，但这必须是经过权衡的决策，而非盲目复制或完全避免复制。我观察到，许多有 10 至 15 年经验的开发者，在掌握设计模式后，往往会过度依赖这些模式。当你提出当前并不需要某种抽象时，他们常常会引用开闭原则或单一职责原则进行辩护，但这些抽象往往只是为未来的可能性做准备，而非现实需求。例如，有人会为了未来可能支持多种数据库而设计复杂抽象，即使当前并无此需求。但不同数据库在语义上的差异，使这种抽象往往难以真正成立。\nPatrick：如果存在一套固定规则，严格遵循是否会更简单？\nDennis：\n理论上可以想象这样的情况，例如一种完全统一的标准，但现实并非如此。\nPatrick：\n我更感兴趣的是“规范与务实”的平衡，以及当下与未来的取舍。随着 AI 辅助开发不断加速，我们或许会逐渐不再关注实现方式本身，只要系统最终是可维护的即可。\nDennis：\n我认为在未来的某个阶段，人们可能真的不再关心代码本身，就像科幻作品中那样，只需表达需求，系统便能自动完成。去年，我开发了一个 .NET 的开源 HTTP Mock 库，起因是现有工具无法满足需求，于是我开始自行构建，并整理需求与 API 设计。\n出于好奇，我将 GitHub issue 分配给 Copilot。令人惊讶的是，它生成了一个高质量的开源项目，基本实现了所有需求，并遵循了我的编码规范。随后我通过评论不断补充需求，例如增加断言方法、支持不同版本等，它也能够很好地完成这些任务，甚至可以自动拆分项目、生成文档示例。在此基础上，我继续手动优化，并将其视为自己的代码进行迭代。现在，我采用人机协作的方式开发：部分功能由 AI 生成，部分由我完成。目前代码中存在一些不完全符合我标准的部分，例如方法较长，但我选择接受这一现实，并在后续逐步重构。\nPatrick：\n只要功能正确、测试通过，就可以接受，而不必立即优化。\nDennis：\n确实如此。代码本身并不差，也遵循一定规范。我仍在不断尝试新的工具与方法，同时会重点审查测试，确保其能够准确反映预期行为。测试不仅用于验证功能，也帮助我理解系统行为与 API 设计。在实践中持续迭代，而对于重复性任务，我通常会优先交由 AI 处理，以提高效率。\n即使是在日常项目中，我也会让 AI 生成额外的测试用例，以确保覆盖率足够全面。但随后我一定会逐一审查这些测试，确认它们确实达到了预期目的，同时也符合我偏好的编码模式。在此基础上，我会要求 AI 进行调整，并同步更新指令文件，使其在下一次生成时更贴近我的规范。虽然这并不能完全保证结果，但这已经成为当前较为有效的工作流程。\n测试在 AI 时代成为“安全网”\nPatrick：\n我曾在一些团队中经历过这样的流程：在需求细化阶段，就将解决方案写得非常具体，包括要修改的内容、代码位置、采用的规范和模式等。在没有 AI 辅助工具的情况下，我并不喜欢这种方式，但它的优点是开发者只需读取任务并执行。如今，执行本身正在显著加速，我们不再需要亲自完成所有实现。这让我开始思考：\n当构建能力不断提升、各种工具层出不穷时，研究与规划、识别问题本身的重要性是否会进一步提升？与此同时，分发与用户获取也将变得更加关键，因为如果用户可以轻易自行构建工具，那么产品真正解决的问题才是核心。\nDennis：\n这也让我思考，开发开源项目是否仍然值得。不过，从现实来看，并非所有人都具备自行构建工具的能力。我们往往容易忽视自己身处一个“技术圈层”之中：以我为例，我有机会参加各种会议，并活跃于开源社区，接触到大量持续学习、追求技术前沿的开发者。在会议交流中，可以从许多经验丰富的人身上学到东西。但事实上，还有大量开发者并没有这样的条件，他们只能在日常工作中获取知识，甚至可能因为缺乏引导而长期停滞。因此，我们所做的事情不仅是为自己或这个小圈子，也是为更广泛的开发者群体服务。\n以我的开源项目为例，很多团队在实际项目中会使用它，并结合 AI 来重写测试、替换旧的 mock 方案，或为特定场景自动生成测试代码。我始终坚持的目标，是让代码尽可能具备良好的可读性。同时，我一直推崇测试驱动开发，并努力让测试本身具备自解释性，避免噪音，使其可以作为文档使用。因此，我倾向于使用更清晰的测试方式，而不是依赖复杂、难以理解的 mock 结构。本质上，这些工具最初是为我自己服务的，在此基础上再开放出来，观察是否能被更多人接受。\nPatrick：\n我过去非常重视测试的结构与组织，不仅是为当前的自己，也是为未来的自己和团队成员。我会在提交信息和代码评审中尽量提供上下文，使每次变更清晰且可理解。如今，我越来越觉得测试质量就是系统的“安全网”。如果我们将实现过程视为黑箱，那么只要测试足够可靠，就可以信任系统的行为，无论代码是由人还是 AI 生成。因此，如何设计测试、测试什么内容，正变得愈发重要。有些团队甚至会先编写测试和规范，再基于此生成实现。\nDennis：\n即便未来我们可能不再需要编写代码，现阶段仍然需要对 AI 生成的结果进行接管和维护。回顾过去两三年，从 AI 工具开始普及到现在的发展速度是非常惊人的。尽管底层技术仍在优化，但真正显著的进步更多体现在工具层面，使其更快、更强大。坦率地说，我并不真正理解 AI 的内部原理，但这并不妨碍我高频使用它。\nPatrick：\n我也尝试深入理解 AI，但后来意识到这更多是出于好奇，而非解决实际问题。我更倾向于直接使用工具进行实验，尤其是在个人项目或生产环境中。我曾尝试完全依赖 AI 进行开发，但很快遇到问题，例如上下文被压缩，导致理解丢失，最终甚至在主分支上直接提交了实验性代码。这是一次教训，但也是通过实践获得的经验。与此同时，这种快速变化也带来了一定的焦虑，如果没有实验环境，很容易落后。\nDennis：\n我也有类似经历。比如我曾使用 AI 工具修改代码，并频繁提交以便随时回滚。但后来发现某些修改被意外覆盖，甚至开始怀疑是自己操作失误。通过查看 Git 记录，才发现是 AI 在某次修改中撤销了我之前的更改。\n这说明在使用 AI 时必须格外谨慎，良好的分支管理和代码审查尤为重要。\n至于“实验”，我更倾向于在已有项目中逐步尝试，而不是随意构建后再丢弃。我曾被问到团队是否应统一使用某种 AI 工具，我的建议是不要这样做。因为工具变化极快，强制统一反而限制探索空间。更合理的方式是允许团队自由选择工具，同时跟踪使用情况并定期评估。\n至于成本问题，其实很容易被误解。我曾遇到一些团队在讨论是否引入 Copilot，他们会担心成本问题，例如为几位开发者支付每月订阅费用。但如果从效率角度看，这类投入通常可以在极短时间内收回，甚至带来数倍收益。\n不过，另一面的问题在于，一些经验尚浅的开发者在使用 AI 时可能面临挑战。一部分人担心使用 AI 会削弱自身学习能力，因此刻意避免使用；他们更愿意通过查阅资料、阅读文档、反复试错来积累经验。另一部分人则过度依赖 AI，却缺乏判断能力，无法验证生成代码是否正确。我确实见过有人提交代码时并不理解其实现逻辑，只是确认“测试通过”。在这种情况下，我会强调：可以使用 AI，但必须确保代码质量达到团队标准，即使你不完全遵循某种方法论，也应具备相应的设计质量。\n在 AI 时代保持好奇心与批判性思维\nPatrick：回顾我的学习经历，从最初的独立探索，到进入职场后学会主动提问、与团队协作，再到如今使用 AI 进行“自我问答”，我认为关键在于保持好奇心与批判性思维。你可以选择简单复制答案，也可以利用 AI 深入理解原理，并与团队讨论验证。只要持续提问与反思，就能快速成长。\nDennis：\n确实如此。在过去，我也经常与不同水平的开发者合作。有些人频繁提问，有些人则因顾虑而不敢发问。如今，这些人可能会转向 AI 获取答案，这未必是坏事。我自己也经常使用 AI 来快速获取信息，例如对比不同技术方案、查询行业实践等。AI 的优势在于能够整合多种观点，提供结构化总结，这在很多场景下非常高效。因此，我几乎每天都会使用它，无论是工作问题，还是生活决策，都会借助 AI 获取参考意见。\nPatrick：如果让你从零培养一名软件工程师，基于你现在的经验，你会重点关注哪些方面？\nDennis：\n实际上，这种情况在我的团队中经常出现，因为团队里有不少刚入行的开发者。\n从根本上来说，我认为方法与过去并没有本质变化：让他们从真实代码库中入手，例如修复缺陷、完成小规模改进，在逐步接触较大范围代码的过程中理解系统。\n同时，鼓励他们不断提问。\n在代码评审中，我有一个长期使用的做法：通过表情符号来传达反馈的语气和意图。这并不是为了表达情绪，而是帮助开发者理解评论的重要程度。例如，我会用“镐子⛏️”表示这是细节层面的改进建议，尤其是在面对初级开发者时，这种方式可以更清晰地传达“可以优化但不是错误”的信息。我还会用“思考🤔”的表情表示这是一种可讨论的实现方式，从而引导他们主动思考不同方案的优缺点，并通过交流进一步加深理解。有时我还会使用“营地⛺️”的表情，表达“让代码比来时更干净”的理念，即当前实现是可接受的，但仍有优化空间。\n这些评审本身就是一种学习过程，如果开发者在某个问题上卡住，即使我知道答案，也可能会建议他们先借助 AI 工具进行探索，然后将结果作为讨论基础。这样不仅能提高效率，也能促进更深入的理解。\n不过，在架构层面，例如抽象设计或依赖反转原则的应用，仍然需要整体视角的判断，这类问题目前 AI 还难以完全胜任\n。只要系统仍需维护，我们就必须持续关注耦合、内聚等核心设计问题。\nPatrick：\n有时我会因为不懂某些问题而感到尴尬，不敢直接问同事，而是先借助工具理解背景，再进行讨论。我认为 AI 可以帮助我们快速获取上下文信息，尤其是在复杂系统中，但最终决策仍然需要人来承担。\nDennis：\n确实如此，AI 在理解复杂代码库方面非常有帮助。例如，在微服务架构中，它可以帮助你梳理服务之间的数据流，快速定位调用路径。但对于“为什么这样设计”的历史原因，仍需要依赖版本控制系统或文档记录。因此，我始终强调：在提交代码时，不仅要说明“做了什么”，更要说明“为什么这么做”。\n代码本身往往无法体现决策背后的动机，而这些信息极易丢失。因此，无论是提交记录还是代码评审说明，都应尽量记录决策意图，而不仅是技术细节。我自己也会借助 AI 自动生成提交说明，并对结果进行适当调整。这些工具往往能够准确抓住变更的本质，而不仅仅是文件层面的修改。这也进一步说明，高质量的历史记录对于后续理解系统至关重要。\nPatrick：\n有些公司会记录业务决策，如成本优化或增长策略，而不仅是技术决策。如果能够通过提交记录、任务系统和文档持续积累上下文，那么在未来借助 AI 工具进行分析时，这些信息将极具价值。\nDennis：\n在实践中，我通常会推动团队使用文档工具来记录关键决策，包括背景、备选方案及其优缺点，以及参与决策的人。尤其对于非简单决策，这些记录在长期来看极为重要。当新成员加入团队或有人质疑既有方案时，这些文档可以清晰还原当时的决策背景，避免重复讨论或错误推翻原有设计。\nPatrick：记录决策是否可能导致“路径依赖”，即团队过于坚持过去的选择，而忽视当前环境的变化？\nDennis：\n这种情况确实存在，但我也经历过相反的情境：当管理层变动或新成员加入时，可能会基于不完整的信息质疑既有架构。如果缺乏记录，很容易做出错误决策。而有了清晰的决策依据，就可以解释当时选择的合理性，从而避免不必要的推翻。关键在于：如果环境发生变化，应重新评估；如果没有变化，就不应轻易否定过去的决定。\nPatrick：随着 AI 可以快速复现开源项目的部分功能，一些依赖“开源+付费扩展”的商业模式正面临挑战，这是否会影响开发者参与开源的动力？\nDennis：\n使用开源并不意味着可以获得长期维护的保证，很多用户会默认项目会持续更新，但实际上并非如此。在架构实践中，我通常会制定开源使用规范。例如，在选择开源库时，需要评估其质量、维护情况以及社区活跃度。如果未来该项目停止维护，团队是否有能力接手？这意味着，开源代码在某种程度上也可能成为你的“自有代码”。\n因此，需要考虑多个因素，例如维护者规模、代码质量、测试覆盖、文档完善程度以及发布流程等。关键不是简单判断“能不能用”，而是充分理解其风险与成本。如果采用这种思路，即使项目停止维护，也可以通过分叉继续维护。\n很多人低估了构建高质量库的复杂度，即使借助 AI，开发成熟工具仍需要大量时间与经验。因此，在大多数情况下，使用开源依然是更高效的选择。\nPatrick：如果有人在考虑是否将自己的项目开源，你会如何建议？\nDennis：\n首先它本身是有趣的过程，同时也是展示能力的一种方式。当看到他人使用你的项目并从中受益，会带来很大的成就感。如果项目被广泛采用，甚至有人主动提交修复或改进，这种协作体验非常宝贵。\n更重要的是，开源是一个“付出与回报并存”的过程。你不仅分享成果，也能从社区中获得大量反馈、经验以及新的技术视角。很多改进建议、工具推荐甚至全新的思路，都是通过社区互动获得的。这些知识与经验的积累，是开源最具价值的部分。\n参考链接：\nhttps://www.youtube.com/watch?v=Z4MUDojhihQ",
-    "content_source": "readability",
-    "content_chars": 7393,
-    "content_excerpt": "在 AI Coding 飞速发展的当下，工程师的价值正从“如何实现”转向“解决什么问题”，那么，手敲代码还有意义吗？作为一名坚持编码近 30 年的架构师，微软最有价值专家 (MVP)、开源项目创作者、现任 Aviva Solutions 的代码架构师 Dennis Doomen 的观点直截了当：如果你不深入代码，就无法做出优秀的架构决策。\n最近，Dennis 在播客节目中，与主持人 Patrick Akil 对话，他以大量一线经验为基础，探讨了一个更现实的问题：在 AI 可以生成代码的时代，我们究竟该如何保持对代码质量的掌控？基于该播客视频，InfoQ 对内容进行了整理与部分删改。\n核心观点如下：\n作为架构负责人，同时仍保持动手实践，这是团队中唯一有效的软件开发方式。\n软件工程的核心，无论过去还是未来，都是在已有系统与不断增长的复杂性之间维持平衡。如果对过去的决策缺乏理解，却仍机械遵循，就会不断累积复杂性，而时间会放大这一问题，甚至决定系统成败。\n即便未来我们可能不再需要编写代码，现阶段仍然需要对 AI 生成的结果进行接管和维护。\n无论是提交记录还是代码评审说明，都应尽量记录决策意图，而不仅是技术细节。\n成为高效软件架构师的唯一方式\nPatrick：你曾说自己不愿意全职做会议演讲，因为你太热爱现在的工作了。\nDennis："
-  },
-  {
     "id": "hn-47340079",
     "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "url": "https://news.ycombinator.com/newsguidelines.html#generated",
@@ -4607,22 +4642,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-16T07:54:41.200220"
-  },
-  {
-    "id": "5499a95c89db",
-    "title": "Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下",
-    "url": "https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-09T12:26:47",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T02:28:53.699495",
-    "content_text": "安全研究员 Alexander Hanff（网名 ThatPrivacyGuy）报告称，Chrome 一直在静默安装本地 Gemini Nano 大模型。它会以一个名为 weights.bin 的文件形式，存放在用户 Chrome 配置目录下的 OptGuideOnDeviceModel 文件夹中。\n只要 Chrome 判断你的设备满足硬件要求，这个 4GB 的下载就会自动发生。整个过程既不会请求授权，也不会发送任何通知。此外，如果你找到并删除该文件，Chrome 会自动下载一份新的副本并恢复它。\n事件引发争议后，谷歌昨天发表声明称，自 2024 年起他们就开始为 Chrome 提供 Gemini Nano 这一轻量级“本地模型”，并表示已逐步推出关闭选项。但声明回避了透明度和用户同意的核心问题——从头到尾，没人问过你同不同意。\n14 分 28 秒：Chrome 如何把 Gemini Nano 写进用户磁盘\n就在不久前，也就是 2026 年 5 月初，Alexander Hanff 公开了自己的发现。而在此之前两周，他刚刚揭露过 Anthropic 的一项类似操作：Claude Desktop 会在用户电脑上，悄悄向七个基于 Chromium 的浏览器注册一个“桥接程序”。换句话说，用户启动产品 A 时，Anthropic 会安装这个桥接程序，并在未经用户许可的情况下，把配置信息写入用户安装的产品 B、C、D、E、F、G、H 中（如 Brave、Edge、Arc、Vivaldi、Opera 等）。\n并且这涉及到对大约 300 万台 Claude Desktop 用户设备进行了浏览器自动化预授权，当时，Hanff 写道：“这种做法突破了厂商的信任边界。没有征求用户同意的对话框，也没有退出选项。”\n他没想到的是，仅仅两周后，他又在 Google Chrome 上发现了几乎相同的模式。\n在任何安装了 Chrome 浏览器的设备上，用户配置文件中都有一个名为 OptGuideOnDeviceModel 的目录。该目录下有一个名为 weights.bin 的文件。该文件大小约为 4 GB，是 Gemini Nano 权重文件，可用于运行设备端推理，也是 Google Prompt API 背后的基础组件之一。\n关键是，Google 压根没问你。在 Chrome 设置里，并没有一个清楚的选项写着：“是否允许 Chrome 下载一个约 4GB 的本地 AI 模型？”也没有弹窗提示用户：接下来浏览器会占用你的磁盘空间，下载一个用于 AI 功能的模型文件。下载会在 Chrome 的 AI 功能启用时触发，而这些功能在最新版本的 Chrome 中默认启用。在任何满足硬件要求的设备上，Chrome 都会将用户的硬件视为交付目标并写入模型。\n更麻烦的是，删除并不能解决问题。\n已经有多个 Windows 用户报告了同样的循环：用户手动删除，过一段时间，Chrome 又把它下载回来；用户再次删除，Chrome 再次恢复。这个过程反复发生，唯一的办法是去 chrome://flags 里关闭相关 AI 功能，或者彻底卸载 Chrome。\n在 macOS 上，情况略有不同：该文件权限为 600，归用户所有（因此理论上可以删除）。但 Chrome 会在写入文件后，将安装状态保存在 Local State 中，一旦 Chrome 的灰度配置服务器再次判断该配置文件符合条件，下载就会再次触发。也就是说，权限机制不同，但整体逻辑一样：用户删掉的，只是文件本身；Chrome 仍然认为它应该存在。\nHanff 还在一台全新的 macOS 设备上进行了独立验证。他利用 macOS 内核维护的 .fseventsd 文件系统事件日志，追踪了整个安装过程。这个日志不受 Chrome 或 Google 控制，会记录操作系统层面的文件创建、修改和删除事件。\n日志显示，2026 年 4 月 24 日 16:38:54，Chrome 在审计配置文件中创建了 OptGuideOnDeviceModel 目录；16:47:22，Chrome 启动多个解包进程，其中一个开始写入 weights.bin、模型配置和校验文件；到 16:53:22，解包完成，weights.bin 及相关配置被移动到最终位置。\n从目录创建到模型落位，整个过程只用了 14 分 28 秒。而且在这段时间里，这个 Chrome 配置文件没有任何真实用户输入，也从未打开过任何 AI 相关界面。前台浏览器可能只是按审计流程加载网页、等待倒计时结束，后台却已经完成了一个约 4GB 本地 AI 模型的下载、解包和安装。整个过程没有弹窗，没有通知，也没有任何“是否允许”的对话框。\nGoogle 的潜台词：我先下载，你不同意再自己去关\n对于这场争议，Google 的回应透露出一个关键信息：Gemini Nano 进入 Chrome 并不是最近才发生的事。按照官方的说法：\n“自 2024 年以来，我们一直为 Chrome 浏览器提供 Gemini Nano，它是一款轻量级的本地安全模型。它支持重要的安全功能，例如欺诈检测和开发者 API，而无需将您的数据发送到云端。虽然它需要占用一些本地桌面空间才能运行，但如果设备资源不足，该模型会自动卸载。今年 2 月，我们开始逐步推出一项功能，允许用户直接在 Chrome 设置中轻松关闭和移除该模型。禁用后，该模型将不再下载或更新。”\n换句话说，这项“静默部署”已经持续了一年多，只是最近才被大规模曝光。而在社区里，关于这个模型的讨论其实更早就有迹可循：2025 年 4 月，Reddit 上有人发现这个缓存模型占了他 3GB 空间；到了同年 11 月，Stack Overflow 上的提问显示它已经涨到了 4GB。\n据分析，Chrome 会下载两个版本的 Gemini Nano：一个是适用于 GPU 的版本，体积约 4GB，根据 GPU 性能的不同，可选择“最高质量”（HIGHEST_QUALITY）或“最快推理”（FASTEST_INFERENCE）两种运行模式；另一个是适用于没有 GPU 的设备的 CPU 版本，体积约 2.7GB。\nGoogle 管这个模型叫“Nano”——纳米级，听起来很小巧。但对于用户存储空间本就有限的设备来说，一个 4GB 的“纳米”模型多少有些讽刺。\n谷歌的声明也并未真正回应外界对透明度和用户同意的广泛批评。其立场很明确：下载是故意的，与 Chrome 的 AI 功能有关。如果用户不希望本地存储这个模型，现在可以选择手动退出。\n更值得关注的是它的覆盖范围：Chrome 全球用户大约在 34.5 亿到 38.3 亿之间，市场占有率长期维持在 64% 以上。即便只有部分设备满足硬件要求，被影响的依然是数亿台桌面设备。这意味着，Google 正在进行的，已经不是一次普通功能更新，而是一场全球规模的“本地 AI 预部署实验”。\n令人费解的事情之一是 Chrome 地址栏上那个显眼的“AI 模式”按钮，实际上依赖的是云端处理，而不是本地的 Gemini Nano 模型。这就让人不得不问：既然那个最常用的 AI 功能根本用不到本地模型，那 Chrome 为什么非要提前把这 4GB 塞进你的硬盘？\n而且，更值得玩味的是，Chrome 148 版本刚刚悄悄移除了此前版本中“设备端 AI 不会将你的数据发送到 Google 服务器”的声明。连这句承诺都没了，数据去向可想而知。\n有开发者给出了一个合理猜测：这本质上是一个概念验证方案——它既能把计算成本转移到用户设备上，同时还能继续收集查询元数据。\n如果有足够多的 Chrome 用户安装了它，Google 就可以开始做分组实验，对比“云端完整版模型”和“设备端 Nano 模型”生成的结果差异。如果本地模型的输出质量足够接近，或者用户能够接受，那么 Google 就可以逐步把这些查询从自己的服务器卸载到用户设备上，而且不会遭遇太大的阻力。\n现在，无论是设备性能（尤其是手机），还是模型优化技术，都已经成熟到这样一种程度：大多数普通用户（非开发者、非 IT 从业者）根本不会注意到，自己搜索“苹果派怎么做”时看到的结果，到底来自本地模型，还是来自数据中心里的大型云端模型。\n但这一切的代价，远不止占点硬盘空间。\nHanff 认为，Chrome 正在向数亿台设备推送一个 4GB 的二进制文件，这会带来可衡量、可量化，而且相当令人担忧的环境影响。\n按照他的测算，仅把这个 4GB 模型传输到一台设备，就会产生约 0.06 kg 二氧化碳当量排放。如果覆盖 5 亿台设备，总排放将达到 3 万吨 CO₂e，相当于 6500 辆汽车一整年的尾气排放；如果覆盖 10 亿台设备，这一数字将升至 6 万吨。而这还只是初始推送的成本。用户删除后重新下载、模型后续更新、本地推理运行，都会继续把这笔账往上推。\n但比气候账单更值得警惕的，是这件事背后的趋势。Anthropic 和 Google 做了同一件事：先动手，让用户自己去发现后果。用户的设备被当成了部署目标，而不是由用户主动控制的东西。对平台受益的功能默认开启、藏在角落、难以移除——转向设备端 AI，非但没有改变这种暗黑模式，反而在加速它。\nChrome 这个“危险的头”已经开了。而且，这不是 Google 一家的事——Anthropic 试过了，Google 铺开了，微软、苹果会站在旁边看吗？“本地算力强征”是否会在从个别厂商的试探，变成整个行业的默认选项？\n也许唯一能让这个趋势停下来的，不是某家公司的“良心发现”，而是足够多的用户知道这件事、感到不舒服，并且开始追问一句：我的设备，到底谁说了算？\n参考链接：\nhttps://news.ycombinator.com/item?id=48019219\nhttps://adsm.dev/posts/prompt-api/\nhttps://www.androidauthority.com/google-chrome-weights-bin-file-statement-3664379/\nhttps://www.theregister.com/ai-and-ml/2026/05/07/chrome-silently-installs-a-4-gb-local-llm-on-your-computer/5230893",
-    "content_source": "readability",
-    "content_chars": 4318,
-    "content_excerpt": "安全研究员 Alexander Hanff（网名 ThatPrivacyGuy）报告称，Chrome 一直在静默安装本地 Gemini Nano 大模型。它会以一个名为 weights.bin 的文件形式，存放在用户 Chrome 配置目录下的 OptGuideOnDeviceModel 文件夹中。\n只要 Chrome 判断你的设备满足硬件要求，这个 4GB 的下载就会自动发生。整个过程既不会请求授权，也不会发送任何通知。此外，如果你找到并删除该文件，Chrome 会自动下载一份新的副本并恢复它。\n事件引发争议后，谷歌昨天发表声明称，自 2024 年起他们就开始为 Chrome 提供 Gemini Nano 这一轻量级“本地模型”，并表示已逐步推出关闭选项。但声明回避了透明度和用户同意的核心问题——从头到尾，没人问过你同不同意。\n14 分 28 秒：Chrome 如何把 Gemini Nano 写进用户磁盘\n就在不久前，也就是 2026 年 5 月初，Alexander Hanff 公开了自己的发现。而在此之前两周，他刚刚揭露过 Anthropic 的一项类似操作：Claude Desktop 会在用户电脑上，悄悄向七个基于 Chromium 的浏览器注册一个“桥接程序”。换句话说，用户启动产品 A 时，Anthropic 会安装这个桥接程序，并在未经用户许可的情况下，把配置信息写入用户安装的产品 B、C、D、E、F、G、H 中（如 Brave、Edge、Arc、Vivaldi、Opera 等）。\n并且这涉及到对大约 300 万台 Claude Desktop 用户设备进行了浏览器自动化预授权，当时，Hanff 写道：“这种做法突破了厂商的信任边界。没有征求用户同意的对话框，也没有退出选项。”\n他没想到的是，仅仅两周后，他又在 Google Chrome 上发现了几乎相同的模式。\n在任何安装了 Chrome 浏览器的设备上，用户配置文件中都有一个名为 OptGuideOnDeviceModel 的目录。该目录下有一个名为 weights.bin 的文件。该文件大小约为 4 GB，是 Gemini Nano 权重文件，可用于运行设备端推理，也是 Google Prompt API 背后的基础组件之一。\n关键是，Google 压根没问你。在 Chrome 设置里，并没有一个清楚的选项写着：“是否允许 Chrome 下载一个约 4GB 的本地 AI 模型？”也没有弹窗提示用户：接下来浏览器会占用你的磁盘空间，下载一个用于 AI 功能的模型文件。下载会在 Chrome 的 AI 功能启用时触发，而这些功能在最新版本的 Chrome 中默认启用。在任何满足硬件要求的设备上，Chrome 都会将用户的硬件视为交付目标并写入模型。\n更麻烦的是，删除并不能解决问题。"
+    "collected_at": "2026-05-16T13:05:40.859324"
   },
   {
     "id": "hn-47225130",
@@ -4633,18 +4653,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-16T07:54:41.200645"
-  },
-  {
-    "id": "1cbc7c95219b",
-    "title": "Cloudflare构建了面向LLM的高性能基础设施",
-    "url": "https://www.infoq.cn/article/wvRSqDH2uloYeu4f6GB0?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-09T12:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T02:28:53.699520"
+    "collected_at": "2026-05-16T13:05:40.859769"
   },
   {
     "id": "hn-47136179",
@@ -4655,18 +4664,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-16T07:54:41.200330"
-  },
-  {
-    "id": "279f269886a2",
-    "title": "技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践",
-    "url": "https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-09T11:12:41",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T02:28:53.699546"
+    "collected_at": "2026-05-16T13:05:40.859436"
   },
   {
     "id": "hn-46990729",
@@ -4677,18 +4675,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-16T07:54:41.200296"
-  },
-  {
-    "id": "76350eef4824",
-    "title": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
-    "url": "https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-09T10:14:19",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T02:28:53.699571"
+    "collected_at": "2026-05-16T13:05:40.859404"
   },
   {
     "id": "hn-45941596",
@@ -4699,7 +4686,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-16T07:54:41.200658"
+    "collected_at": "2026-05-16T13:05:40.859782"
   },
   {
     "id": "hn-45930151",
@@ -4710,7 +4697,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-16T07:54:41.200720"
+    "collected_at": "2026-05-16T13:05:40.859826"
   },
   {
     "id": "hn-44972151",
@@ -4721,7 +4708,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-16T07:54:41.200433"
+    "collected_at": "2026-05-16T13:05:40.859537"
   },
   {
     "id": "hn-44396518",
@@ -4732,7 +4719,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-16T07:54:41.200566"
+    "collected_at": "2026-05-16T13:05:40.859669"
   },
   {
     "id": "hn-44314423",
@@ -4743,7 +4730,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-16T07:54:41.200613"
+    "collected_at": "2026-05-16T13:05:40.859738"
   },
   {
     "id": "hn-44163063",
@@ -4754,7 +4741,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-16T07:54:41.200271"
+    "collected_at": "2026-05-16T13:05:40.859374"
   },
   {
     "id": "hn-42910910",
@@ -4765,7 +4752,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-16T07:54:41.200446"
+    "collected_at": "2026-05-16T13:05:40.859550"
   },
   {
     "id": "hn-41392128",
@@ -4776,7 +4763,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-16T07:54:41.200347"
+    "collected_at": "2026-05-16T13:05:40.859453"
   },
   {
     "id": "hn-41386319",
@@ -4787,7 +4774,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-16T07:54:41.200361"
+    "collected_at": "2026-05-16T13:05:40.859467"
   },
   {
     "id": "hn-41069829",
@@ -4798,7 +4785,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-16T07:54:41.200735"
+    "collected_at": "2026-05-16T13:05:40.859840"
   },
   {
     "id": "hn-41046773",
@@ -4809,7 +4796,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-16T07:54:41.200257"
+    "collected_at": "2026-05-16T13:05:40.859361"
   },
   {
     "id": "hn-40767459",
@@ -4820,7 +4807,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-16T07:54:41.200749"
+    "collected_at": "2026-05-16T13:05:40.859854"
   },
   {
     "id": "hn-39918245",
@@ -4831,7 +4818,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-16T07:54:41.200672"
+    "collected_at": "2026-05-16T13:05:40.859796"
   },
   {
     "id": "hn-39526057",
@@ -4842,7 +4829,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-16T07:54:41.200243"
+    "collected_at": "2026-05-16T13:05:40.859346"
   },
   {
     "id": "hn-38544729",
@@ -4853,7 +4840,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-16T07:54:41.200309"
+    "collected_at": "2026-05-16T13:05:40.859416"
   },
   {
     "id": "hn-37021160",
@@ -4864,7 +4851,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-16T07:54:41.200460"
+    "collected_at": "2026-05-16T13:05:40.859565"
   },
   {
     "id": "hn-31812259",
@@ -4875,7 +4862,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-16T07:54:41.200626"
+    "collected_at": "2026-05-16T13:05:40.859751"
   },
   {
     "id": "hn-18249755",
@@ -4886,7 +4873,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-16T07:54:41.200418"
+    "collected_at": "2026-05-16T13:05:40.859522"
   },
   {
     "id": "hn-17022963",
@@ -4897,7 +4884,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-16T07:54:41.200390"
+    "collected_at": "2026-05-16T13:05:40.859495"
   },
   {
     "id": "hn-15892066",
@@ -4908,7 +4895,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-16T07:54:41.200586"
+    "collected_at": "2026-05-16T13:05:40.859689"
   },
   {
     "id": "hn-6830566",
@@ -4919,6 +4906,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-16T07:54:41.200700"
+    "collected_at": "2026-05-16T13:05:40.859808"
   }
 ]
