@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "阿里 AI 在模型、云基础设施和应用各层实现加速突破"
 summary_zh = ""
 tags = []
-list_page = 13
+list_page = 14
 +++
 
 <!-- AUTO-GENERATED: news page -->

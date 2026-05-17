@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T08:15:56.816422",
+  "updated_at": "2026-05-17T13:05:52.739350",
   "total": 5,
   "hot_list": [
     {
@@ -18,6 +18,24 @@
       "category": "资讯",
       "news_id": "f04b5b1c9763",
       "internal_url": "https://aihot.bt199.com/news/f04b5b1c9763/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "得来速的聊天机器人只是一个开始",
+      "name": "得来速的聊天机器人只是一个开始",
+      "title_zh": "得来速的聊天机器人只是一个开始",
+      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-17",
+      "time": "2026-05-17",
+      "description": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "subtitle": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "ai_summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "category": "资讯",
+      "news_id": "79f4caf2b75d",
+      "internal_url": "https://aihot.bt199.com/news/79f4caf2b75d/",
       "type_label": "📰 新闻"
     },
     {
@@ -54,24 +72,6 @@
       "category": "资讯",
       "news_id": "9c8aa558adfd",
       "internal_url": "https://aihot.bt199.com/news/9c8aa558adfd/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "name": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "title_zh": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-15",
-      "time": "2026-05-15",
-      "description": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "subtitle": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "ai_summary": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "category": "资讯",
-      "news_id": "3ae6721de06e",
-      "internal_url": "https://aihot.bt199.com/news/3ae6721de06e/",
       "type_label": "📰 新闻"
     },
     {
@@ -113,6 +113,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "得来速的聊天机器人只是一个开始",
+      "name": "得来速的聊天机器人只是一个开始",
+      "title_zh": "得来速的聊天机器人只是一个开始",
+      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-17",
+      "time": "2026-05-17",
+      "description": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "subtitle": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "ai_summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "category": "资讯",
+      "news_id": "79f4caf2b75d",
+      "internal_url": "https://aihot.bt199.com/news/79f4caf2b75d/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "索尼试图解释其人工智能相机助手并不糟糕",
       "name": "索尼试图解释其人工智能相机助手并不糟糕",
       "title_zh": "索尼试图解释其人工智能相机助手并不糟糕",
@@ -146,24 +164,6 @@
       "category": "资讯",
       "news_id": "9c8aa558adfd",
       "internal_url": "https://aihot.bt199.com/news/9c8aa558adfd/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "name": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "title_zh": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-15",
-      "time": "2026-05-15",
-      "description": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "subtitle": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "ai_summary": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "category": "资讯",
-      "news_id": "3ae6721de06e",
-      "internal_url": "https://aihot.bt199.com/news/3ae6721de06e/",
       "type_label": "📰 新闻"
     },
     {
@@ -211,6 +211,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "得来速的聊天机器人只是一个开始",
+      "name": "得来速的聊天机器人只是一个开始",
+      "title_zh": "得来速的聊天机器人只是一个开始",
+      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-05-17",
+      "time": "2026-05-17",
+      "description": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "subtitle": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "ai_summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…",
+      "category": "资讯",
+      "news_id": "79f4caf2b75d",
+      "internal_url": "https://aihot.bt199.com/news/79f4caf2b75d/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "索尼试图解释其人工智能相机助手并不糟糕",
       "name": "索尼试图解释其人工智能相机助手并不糟糕",
       "title_zh": "索尼试图解释其人工智能相机助手并不糟糕",
@@ -244,24 +262,6 @@
       "category": "资讯",
       "news_id": "9c8aa558adfd",
       "internal_url": "https://aihot.bt199.com/news/9c8aa558adfd/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "name": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "title_zh": "YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户",
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-05-15",
-      "time": "2026-05-15",
-      "description": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "subtitle": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "ai_summary": "YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…",
-      "category": "资讯",
-      "news_id": "3ae6721de06e",
-      "internal_url": "https://aihot.bt199.com/news/3ae6721de06e/",
       "type_label": "📰 新闻"
     },
     {
