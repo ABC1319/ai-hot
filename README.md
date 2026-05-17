@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-17 02:56:26
+🕐 **最近更新**：2026-05-17 10:18:32
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [OpenAI试验结束，马斯克创始人机器继续运转](https://aihot.bt199.com/news/f87ad16de1e1/)
-   - 马斯克诉奥特曼案的审判本周结束，最终的争论不断回到一个问题：我们可以信任负责人工智能的人吗？ 所有这一切都在 Space…
-   - `TechCrunch AI · 2026-05-15`
+1. [如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年](https://aihot.bt199.com/news/f04b5b1c9763/)
+   - ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为
+   - `TechCrunch AI · 2026-05-16`
 
-2. [人工智能推高价格之际，硅谷的度假胜地需要新的能源供应商](https://aihot.bt199.com/news/fbdbbdaad4a0/)
-   - 随着人工智能推动电力需求，硅谷最受欢迎的滑雪胜地太浩湖即将受到能源价格上涨的打击
-   - `TechCrunch AI · 2026-05-15`
-
-3. [索尼试图解释其人工智能相机助手并不糟糕](https://aihot.bt199.com/news/a667f385c15c/)
+2. [索尼试图解释其人工智能相机助手并不糟糕](https://aihot.bt199.com/news/a667f385c15c/)
    - 索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…
    - `The Verge AI · 2026-05-16`
 
-4. [马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。](https://aihot.bt199.com/news/9c8aa558adfd/)
+3. [马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。](https://aihot.bt199.com/news/9c8aa558adfd/)
    - 在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官萨姆·奥特曼的可信度展开了激烈的争论…
    - `MIT Tech Review · 2026-05-15`
 
-5. [YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户](https://aihot.bt199.com/news/3ae6721de06e/)
+4. [YouTube 正在将其 AI Deepfake 检测工具扩展到所有成人用户](https://aihot.bt199.com/news/3ae6721de06e/)
    - YouTube 正在将其人工智能相似检测计划扩展到 18 岁以上的所有用户，这意味着几乎任何人都可以让该平台寻找自己的潜…
    - `The Verge AI · 2026-05-15`
+
+5. [人工智能淘金热中的富人和穷人](https://aihot.bt199.com/news/859b70ce116b/)
+   - 当前人工智能热潮的氛围并不好，即使是在科技行业也是如此
+   - `TechCrunch AI · 2026-05-16`
 
 
 ## 🤖 AI 简报
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 

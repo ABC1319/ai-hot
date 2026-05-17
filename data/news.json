@@ -1,5 +1,71 @@
 [
   {
+    "id": "f452a7809d53",
+    "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+    "url": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-17T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-17T02:16:55.929185",
+    "content_text": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n涂鸦智能云端架构师吕永猛已确认出席 “\n端侧 AI、物理与数字空间智能化\n” 专题，并发表题为《\nAI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢\n》的主题分享。本演讲将聚焦 AI 的深层“下沉”，探讨如何通过 OpenClaw 架构的本地化演进，实现从嵌入式 MCU 到高性能边缘网关的全算力适配。深入拆解量化轻量化封装、TEE 本地可信执行等核心技术，揭秘如何在保障行业合规与家庭隐私的前提下，将传统硬件瞬间转化为具备复杂决策能力的智能 Agent。\n吕永猛，涂鸦智能云端架构师，拥有十余年基础架构与 AI+IoT 领域经验。现任涂鸦智能云端架构师，主导边缘 AI 架构研发，致力于构建全算力场景下的 AI Agent 硬件生态。曾深度参与超大规模物联网消息网关、自动化运维及 SaaS 平台架构设计。此前任职于蚂蚁集团，负责核心基础架构与中间件研发，在大规模分布式系统及云边端协同方面具备深厚实战经验。他在本次会议的详细演讲内容如下：\n演讲提纲：\n引言：AI 的“下沉”与“落地”\n现状挑战： 当前 AI 模型虽然强大，但在家庭隐私、工业响应实时性以及跨设备协同上仍存在“最后一公里”的断层\n我们的核心命题： 如何让 AI 走出对话框，真正进入硬件生态，实现从毫秒级低功耗控制到复杂决策的全算力覆盖\n核心架构：全算力适配与 OpenClaw 演进\n算力伸缩： 介绍项目如何实现一套架构同时运行在嵌入式微控制器（小算力）到高性能边缘网关（大算力）上\n技术亮点： 针对低算力环境的量化与轻量化封装；针对大算力的多模态任务云端协同并行\nOpenClaw 的本地化改造： 重点讲解如何对 AI 进行“黑盒化”封装，确保敏感指令在本地 TEE（可信执行环境）中运行\n隐私安全：本地执行的刚需\n数据不出户 / 厂： 强调本地执行不仅仅是速度问题，更是行业合规与家庭隐私的底线\n生态接入标准： 介绍如何无缝对接现有的智能硬件协议（如 Matter, Zigbee, 以及公司自有的涂鸦硬件生态），将传统硬件瞬间“Agent 化”\n全场景应用案例\n家庭场景： 隐私原生的全屋智能管家，无需联网即可控制家电，理解家庭成员习惯\n垂直场景： 在弱网或断网环境下，边缘侧 Agent 如何独立进行作物生长分析或设备故障预警\n听众收益：\n掌握一套架构如何同时兼容“微控制算力”与“边缘大算力”的伸缩策略，了解 OpenClaw 在本地化改造中的核心逻辑\n获取在本地 TEE（可信执行环境）中进行“黑盒化”封装的实战经验，解决行业合规与数据不出户的刚需痛点\n了解如何无缝对接 Matter、Zigbee 及涂鸦等主流协议，获取将传统硬件快速“Agent 化”的标准化流程与案例\n除此之外，本次大会还策划了\n端侧 AI、物理与数字空间智能化\n、\n世界模型与多模态智能突破\n、\nAgent 架构与工程化实践\n、\nAgent 安全与可信治理\n、\n企业级研发体系重构\n、\nAI 原生数据工程\n、\nAI 时代的个人提效与组织变革\n等 14 个专题论坛，届时将有来自不同行业、不同领域、不同企业的 50+资深专家在现场带来前沿技术洞察和一线实践经验。\n更多详情可扫码或联系票务经理 13269078023 进行咨询。",
+    "content_source": "readability",
+    "content_chars": 1637,
+    "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n涂鸦智能云端架构师吕永猛已确认出席 “\n端侧 AI、物理与数字空间智能化\n” 专题，并发表题为《\nAI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢\n》的主题分享。本演讲将聚焦 AI 的深层“下沉”，探讨如何通过 OpenClaw 架构的本地化演进，实现从嵌入式 MCU 到高性能边缘网关的全算力适配。深入拆解量化轻量化封装、TEE 本地可信执行等核心技术，揭秘如何在保障行业合规与家庭隐私的前提下，将传统硬件瞬间转化为具备复杂决策能力的智能 Agent。\n吕永猛，涂鸦智能云端架构师，拥有十余年基础架构与 AI+IoT 领域经验。现任涂鸦智能云端架构师，主导边缘 AI 架构研发，致力于构建全算力场景下的 AI Agent 硬件生态。曾深度参与超大规模物联网消息网关、自动化运维及 SaaS 平台架构设计。此前任职于蚂蚁集团，负责核心基础架构与中间件研发，在大规模分布式系统及云边端协同方面具备深厚实战经验。他在本次会议的详细演讲内容如下："
+  },
+  {
+    "id": "859b70ce116b",
+    "title": "The haves and have nots of the AI gold rush",
+    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-16T20:17:16",
+    "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+    "collected_at": "2026-05-17T02:16:51.808993",
+    "content_text": "The vibes around the current AI boom aren’t great, even in the tech industry, according to a lengthy social media post from Menlo Ventures partner Deedy Das.\nDas described San Francisco as “pretty frenetic right now,” as “the divide in outcomes is the worst I’ve ever seen.”\nUsing a “back of the envelope AI calculation,” he projected that there are around 10,000 people — founders and employees at companies like OpenAI, Anthropic, and Nvidia — that have “hit retirement wealth of well above $20M,” while everyone else worries “they can work their well-paying (but <$500k) job for their whole life and never get there.”\nPlus, “layoffs are in full swing,” and “many software engineers feel that their life’s skill is no longer useful,” leading to confusion about the best career paths and “a deep malaise about work (and its future),” Das said.\nThis prompted some eye-rolling on X, with entrepreneur Deva Hazarika arguing that “most of the people in this post” are “incredibly fortunate and can simply make a choice to be happy.”\nAnother user suggested it’s “pretty damn novel & also kinda nasty” that in the current cycle, “the same technology is both the lottery ticket & the thing eating your fallback.”",
+    "content_source": "trafilatura",
+    "content_chars": 1206,
+    "content_excerpt": "The vibes around the current AI boom aren’t great, even in the tech industry, according to a lengthy social media post from Menlo Ventures partner Deedy Das.\nDas described San Francisco as “pretty frenetic right now,” as “the divide in outcomes is the worst I’ve ever seen.”\nUsing a “back of the envelope AI calculation,” he projected that there are around 10,000 people — founders and employees at companies like OpenAI, Anthropic, and Nvidia — that have “hit retirement wealth of well above $20M,” while everyone else worries “they can work their well-paying (but <$500k) job for their whole life and never get there.”\nPlus, “layoffs are in full swing,” and “many software engineers feel that their life’s skill is no longer useful,” leading to confusion about the best career paths and “a deep malaise about work (and its future),” Das said.\nThis prompted some eye-rolling on X, with entrepreneur Deva Hazarika arguing that “most of the people in this post” are “incredibly fortunate and can simply make a choice to be happy.”\nAnother user suggested it’s “pretty damn novel & also kinda nasty” that in the current cycle, “the same technology is both the lottery ticket & the thing eating your fallback.”",
+    "title_zh": "人工智能淘金热中的富人和穷人",
+    "summary_zh": "当前人工智能热潮的氛围并不好，即使是在科技行业也是如此",
+    "ai_summary": "当前人工智能热潮的氛围并不好，即使是在科技行业也是如此"
+  },
+  {
+    "id": "39288f18c175",
+    "title": "US is starting to see heavy job losses in roles exposed to AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-16T17:59:45",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 139 # Comments: 230",
+    "collected_at": "2026-05-17T02:16:52.975150",
+    "extract_error": "403 Client Error: Forbidden for url: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+    "title_zh": "美国开始看到与人工智能相关的岗位大量失业",
+    "summary_zh": "文章网址：https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-expose-to-ai 评论网…",
+    "ai_summary": "文章网址：https://www.bloomberg.com/news/articles/2026-05-15/us-i…"
+  },
+  {
+    "id": "f04b5b1c9763",
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-16T18:54:28",
+    "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+    "collected_at": "2026-05-17T02:16:51.809029",
+    "content_text": "ArXiv\n, a widely used open repository for preprint research, is doing more to crack down on the careless use of large language models in scientific papers.\nAlthough papers are posted to the site before they are peer-reviewed, arXiv (pronounced “archive”) has become one of the main ways that research circulates in fields like computer science and math, and the site itself has become\na source of data on trends in scientific research\n.\nArXiv has already taken steps to combat a growing number of low-quality, AI-generated papers, for example by requiring first-time posters to\nget an endorsement from an established author\n. And after being hosted by Cornell for more than 20 years, the organization is becoming an independent nonprofit, which should allow it to\nraise more money to address issues like AI slop\n.\nIn its latest move, Thomas Dietterich — the chair of arXiv’s computer science section —\nposted\nThursday\nthat “if a submission contains incontrovertible evidence that the authors did not check the results of LLM generation, this means we can’t trust anything in the paper.”\nThat incontrovertible evidence could include things like “hallucinated references” and comments to or from the LLM, Dietterich said. If such evidence is found, a paper’s authors will face “a 1-year ban from arXiv followed by the requirement that subsequent arXiv submissions must first be accepted by a reputable peer-reviewed venue.”\nNote that this isn’t an outright prohibition on using LLMs, but rather an insistence that, as Dietterich put it, authors take “full responsibility” for the content, “irrespective of how the contents are generated.” So if researchers copy-paste “inappropriate language, plagiarized content, biased content, errors, mistakes, incorrect references, or misleading content” directly from an LLM, then they’re still responsible for it.\nDietterich\ntold 404 Media\nthat this will be a “one-strike” rule, but moderators must flag the issue and section chairs must confirm the evidence before imposing the penalty. Authors will also be able to appeal the decision.\nRecent peer-reviewed research has found that\nfabricated citations are on the rise\nin biomedical research, likely due to LLMs — though to be fair, scientists aren’t the only ones getting caught\nusing citations that were made up by AI\n.",
+    "content_source": "readability",
+    "content_chars": 2310,
+    "content_excerpt": "ArXiv\n, a widely used open repository for preprint research, is doing more to crack down on the careless use of large language models in scientific papers.\nAlthough papers are posted to the site before they are peer-reviewed, arXiv (pronounced “archive”) has become one of the main ways that research circulates in fields like computer science and math, and the site itself has become\na source of data on trends in scientific research\n.\nArXiv has already taken steps to combat a growing number of low-quality, AI-generated papers, for example by requiring first-time posters to\nget an endorsement from an established author\n. And after being hosted by Cornell for more than 20 years, the organization is becoming an independent nonprofit, which should allow it to\nraise more money to address issues like AI slop\n.",
+    "title_zh": "如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年",
+    "summary_zh": "ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为",
+    "ai_summary": "ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为"
+  },
+  {
     "id": "a667f385c15c",
     "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
     "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
@@ -16,6 +82,24 @@
     "title_zh": "索尼试图解释其人工智能相机助手并不糟糕",
     "summary_zh": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理。该公司表示，它不会编辑照片，而是根据光线、深度和主题提出建议。将相机对准某物，它就会",
     "ai_summary": "索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…"
+  },
+  {
+    "id": "85331331526c",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-16T15:33:33",
+    "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+    "collected_at": "2026-05-17T02:16:51.809061",
+    "content_text": "OpenAI co-founder and president Greg Brockman is officially taking the reins of the company’s product strategy,\naccording to Wired\n.\nThis seems to solidify an already-existing change, with Brockman overseeing OpenAI’s products on an interim basis while the company’s CEO of AGI deployment Fidji Simo is out on medical leave. Wired also reports that in a staff memo, Brockman described plans to combine ChatGPT and its programming product Codex into a single unified experience.\n“We’re consolidating our product efforts to execute with maximum focus toward the agentic future, to win across both consumer and enterprise,” Brockman reportedly said.\nOpenAI told TechCrunch that although Simo remains on medical leave she worked with Brockman on these changes. It also noted that OpenAI has\nalready been talking\nabout plans to combine ChatGPT, Codex, and its API into a single platform, with one core product team.\nAt the end of last year, CEO Sam Altman\ndeclared a “code red”\nand said the company needs to refocus on the core ChatGPT experience. Since then, OpenAI has\nhalted “side quests”\nincluding video generator Sora and OpenAI for Science.\nThis post has been updated with additional information from OpenAI.",
+    "content_source": "readability",
+    "content_chars": 1209,
+    "content_excerpt": "OpenAI co-founder and president Greg Brockman is officially taking the reins of the company’s product strategy,\naccording to Wired\n.\nThis seems to solidify an already-existing change, with Brockman overseeing OpenAI’s products on an interim basis while the company’s CEO of AGI deployment Fidji Simo is out on medical leave. Wired also reports that in a staff memo, Brockman described plans to combine ChatGPT and its programming product Codex into a single unified experience.\n“We’re consolidating our product efforts to execute with maximum focus toward the agentic future, to win across both consumer and enterprise,” Brockman reportedly said.\nOpenAI told TechCrunch that although Simo remains on medical leave she worked with Brockman on these changes. It also noted that OpenAI has\nalready been talking\nabout plans to combine ChatGPT, Codex, and its API into a single platform, with one core product team.\nAt the end of last year, CEO Sam Altman\ndeclared a “code red”",
+    "title_zh": "OpenAI 联合创始人 Greg Brockman 负责产品战略",
+    "summary_zh": "据报道，OpenAI 计划将 ChatGPT 与其编程产品 Codex 结合起来，因此进行了最新的重组",
+    "ai_summary": "据报道，OpenAI 计划将 ChatGPT 与其编程产品 Codex 结合起来，因此进行了最新的重组"
   },
   {
     "id": "7f1dddbf9c49",
@@ -105,6 +189,27 @@
     "collected_at": "2026-05-16T13:05:38.985620"
   },
   {
+    "id": "v2ex-1213164",
+    "title": "ai coding 后已经慢慢丧失了对程序员这份职业的热爱了",
+    "url": "https://www.v2ex.com/t/1213164",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-16T07:58:42",
+    "summary": "之前是因为喜欢写代码，才会选择程序员这份职业，现在 100%的代码都是 ai 生成，这份职业也慢慢变成了只是糊口的工作而已了，难不成为了想要能手写代码专门去找内网开发的工作吗？那也没必要，因为自从发现 ai 写代码水平远超我之后，就认为古法编程是一种效率很低的行为艺术",
+    "collected_at": "2026-05-17T02:16:56.678618"
+  },
+  {
+    "id": "06ac1055a45e",
+    "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+    "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-16T08:01:59",
+    "summary": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+    "collected_at": "2026-05-16T13:05:38.985668"
+  },
+  {
     "id": "8c47a5370e73",
     "title": "Frontier AI has broken the open CTF format",
     "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
@@ -123,15 +228,15 @@
     "ai_summary": "文章网址：https://kabir.au/blog/the-ctf-scene-is-dead 评论网址：https:…"
   },
   {
-    "id": "06ac1055a45e",
-    "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
-    "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+    "id": "dfd3e2f2013a",
+    "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+    "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-16T08:01:59",
-    "summary": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
-    "collected_at": "2026-05-16T13:05:38.985668"
+    "published": "2026-05-16T07:29:15",
+    "summary": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下人工智能编码代理 ChatGPT、Codex 以及面向开发者的 API 整合到一个核心产品团队中。（鞭牛士）",
+    "collected_at": "2026-05-16T07:54:39.533053"
   },
   {
     "id": "1e09c8d6318e",
@@ -149,15 +254,14 @@
     "content_excerpt": "奥特曼投的芯片涨疯了，今年最大科技IPO\n听雨\n2026-05-16\n14:52:14\n来源：\n量子位\n听雨 发自 凹非寺\n量子位 | 公众号 QbitAI\nOpenAI「扶持」的AI芯片企业\nCerebras Systems"
   },
   {
-    "id": "dfd3e2f2013a",
-    "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
-    "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
-    "source": "36氪",
+    "id": "v2ex-1213129",
+    "title": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+    "url": "https://www.v2ex.com/t/1213129",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-16T07:29:15",
-    "summary": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下人工智能编码代理 ChatGPT、Codex 以及面向开发者的 API 整合到一个核心产品团队中。（鞭牛士）",
-    "collected_at": "2026-05-16T07:54:39.533053"
+    "published": "2026-05-16T02:52:24",
+    "summary": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+    "collected_at": "2026-05-16T07:54:41.642927"
   },
   {
     "id": "ec8304fb7a9c",
@@ -173,16 +277,6 @@
     "content_source": "readability",
     "content_chars": 3927,
     "content_excerpt": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源\n梦晨\n2026-05-16\n12:49:15\n来源：\n量子位\n金磊 发自 杭州\n量子位 | 公众号 QbitAI\n很反差。\n明明是一场AI的发布会，台下却坐满了"
-  },
-  {
-    "id": "v2ex-1213129",
-    "title": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
-    "url": "https://www.v2ex.com/t/1213129",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-16T02:52:24",
-    "summary": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
-    "collected_at": "2026-05-16T07:54:41.642927"
   },
   {
     "id": "f9457a7a7ca9",
@@ -4500,97 +4594,6 @@
     "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n混元资深技术专家杨祥辉已确认出席 “人工智能前沿技术探索” 专题，并发表题为《迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路》的主题分享。3D 资产是游戏、影视、工业设计等数字内容产业的刚需，但传统 3D 建模存在门槛高、周期长（单模型平均 7 天）、成本昂贵（百元至万元）的核心痛点。腾讯混元 3D 生成大模型致力于通过 AIGC 技术重塑 3D 内容生产管线。本次演讲杨祥辉将深度解析如何通过三大核心技术突破实现 SOTA 效果。\n杨祥辉，目前任职于腾讯 TEG，专注于 3D 生成大模型的研发与落地。作为腾讯混元 3D 生成大模型的核心研发成员，深度参与了从混元 3D 1.0 到 3.0 的全系列模型迭代，主导了包括几何基模、纹理基模等多个关键模块的技术演进与工程化实现。在研发中，攻克了高分辨率 3D 表征、高效 3D 稀疏 VAE 解码、PBR 材质生成、美术级智能拓扑等多个技术挑战，推动模型效果达到业界 SOTA。相关成果已成功落地于多个腾讯内部业务，并通过开源（GitHub Star >2.8 万，HuggingFace 下载量超 300 万）及开放平台赋能超过 150 家行业标杆客户，显著降低了 3D 内容创作门槛。研究方向覆盖 3D 生成、多模态理解与生成、AI for Content Creation。他在本次会议的详细演讲内容如下：\n演讲提纲：\n引言：3D AIGC 的机遇与工业级挑战\n3D 内容的稀缺性与生产瓶颈数据分析\n从“能生成”到“好用、可用、可落地”的鸿沟：精度、可控性、美术规范\n2. 核心突破一：超高清 3D 几何生成的架构演进\n数据瓶颈：如何构建支持超高分辨率的 3D 数据管线？"
   },
   {
-    "id": "73135f8c63ab",
-    "title": "Task Paralysis and AI",
-    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-10T06:20:50",
-    "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 202 # Comments: 109",
-    "collected_at": "2026-05-11T02:28:50.340727",
-    "content_text": "Task Paralysis & AI\nAbout Task Paralysis\nStraight away: I am not diagnosed yet. So I'm hesitant to say \"I have ADHD\", because the truth is: I don't know it. There are signs: My siblings have been diagnosed as kids, and I'm personally struggling with tasks that others deem to be \"easy\". I have a tremendous need for novelty, and I can hardly picture myself doing the same job for the next 30 years.\nI'm not kidding: At the moment, I change roles every 2-3 years. This isn't really sustainable. Due to circumstances out of my control, I wasn't able to tackle that earlier.\nAlso, it doesn't really help if you want to build a career: I can navigate myself around a lot of technical fields, but I have no special knowledge.\nOften, I struggle with the execution of a strategy that I successfully laid out. I will simply refuse to do the first step, because everything now feels overwhelming.\nSo... there are signs. Yes. But that might be another article.\nI'm aware that there is something called\nAnalysis Paralysis\n. But that's different, at least for me and to my understanding. Let me put it this way: When\nAnalysis Paralysis\nkicks in, my brain will run in circles. When\nTask Paralysis\nkicks in, my brain won't run at all. That sucks.\nAbout AI\nI won't go as far and say that I HATE AI per se. I just shelled out almost 100 € in tokens (\nMax\n-plan for Claude) to code a game. And an iOS App. Because I need the latter and want the former. But I see all the negative effects that come with AI: People are loosing their jobs, sometimes loosing themselves. Art gets stolen, and suddenly, piracy isn't piracy any longer once large companies are doing the deed. That feels unfair, to say the least, and strange at best.\n(I ð´ grew up in the 2000s, so I have\nsome\nknowledge about piracy from back in the days, and how copyright holders went after people.)\nI refrain to use AI for anything artistic since a couple of months. I either buy it, or try to do it myself \"the old way\". I can fail, I can succeed - but I did it on my own. That's important. The effect AI has on artists feels just too destructive.\nWhat is it good for?\nFor me, personally? It helps me overcome my task paralysis. As mentioned earlier: I have a plan. A strategy. An idea. I just need someone (or something), who has fun in churning through the implementation. I have the ideas. But boy is coding exhausting. As I learned quite late in my life, it is indeed not normal to fight with your motivation to create code every time you tackle a new user story, but succeed once you started.\nThe Catch\nClaude Code in this case is the\nsomething\nthat just helps me getting started. And, lo' and behold, I see myself struggling to not get addicted to that.\nWhat do I mean by that? While overcoming the task paralysis on one hand, it quickly produces really good results. Last time I tried AI was in fall of 2025. It's an understatement to say that a lot has changed. There are worlds between what is possible today and what was possible back then.\nThat means that the dopamine really kicks fast, because the cycle between \"I have an idea\" and \"This is the result!\" is so tremendously short. But Claude has token limits. You can only spend a limited amount of tokens per 5 hours or 7 days. But you can buy additional API tokens. And now you set yourself in a position where you throw endless money at your source of dopamine, like a junkie running to their dealer, begging for the next shot. Or a poor player waiting for the golden ticket.\nAnd, to be brutally honest: I know because I fell for it. After getting the\nPro\n-plan, I added another 20 € for API credits. After that, I realized I should go for\nMax\nfor this month, and also leverage some tricks like\n/modus opusplan\nto reduce the amount of tokens that are used.\nBut the dopamine feels so freaking good.\nDisclaimer: No AI was used to create this article.",
-    "content_source": "readability",
-    "content_chars": 3865,
-    "content_excerpt": "Task Paralysis & AI\nAbout Task Paralysis\nStraight away: I am not diagnosed yet. So I'm hesitant to say \"I have ADHD\", because the truth is: I don't know it. There are signs: My siblings have been diagnosed as kids, and I'm personally struggling with tasks that others deem to be \"easy\". I have a tremendous need for novelty, and I can hardly picture myself doing the same job for the next 30 years.\nI'm not kidding: At the moment, I change roles every 2-3 years. This isn't really sustainable. Due to circumstances out of my control, I wasn't able to tackle that earlier.\nAlso, it doesn't really help if you want to build a career: I can navigate myself around a lot of technical fields, but I have no special knowledge.\nOften, I struggle with the execution of a strategy that I successfully laid out. I will simply refuse to do the first step, because everything now feels overwhelming.\nSo... there are signs. Yes. But that might be another article.\nI'm aware that there is something called\nAnalysis Paralysis\n. But that's different, at least for me and to my understanding. Let me put it this way: When",
-    "title_zh": "任务瘫痪与人工智能",
-    "summary_zh": "文章网址：https://g5t.de/articles/20260510-task-parathesis-and-ai/index.html 评论网址：https://news.ycombinator.com/item?id=480814…",
-    "ai_summary": "文章网址：https://g5t.de/articles/20260510-task-parathesis-and-ai…"
-  },
-  {
-    "id": "v2ex-1211625",
-    "title": "我有一招可以在裁员潮的当下反击你的老板，并提高自身竞争力。",
-    "url": "https://www.v2ex.com/t/1211625",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-10T06:03:05",
-    "summary": "那就是用 AI 把前公司的产品搓出来，可以是个 lite 版，挑高品质功能/内容。然后开源。 你的前司再想搞一些奇怪的收费方式的时候，可能就会有人选择你这个开源竞品了。 你还可以麒麟 OS+国密，更有竞争力，而且也不难，golang 写的，别用 cgo ，都可以在麒麟上面跑。目标系统也可以微信小程序。 这样你至少积累了项目经验，其次出了口气。因为有 ai 在，这些也不难，你也可以多一些 AI 经验。 这样你的前司就属于是 成也 AI ，败也 AI 。",
-    "collected_at": "2026-05-11T02:28:54.421122"
-  },
-  {
-    "id": "2d1d48ae4ad0",
-    "title": "浙大校友用AI突破32年拉姆齐数下界",
-    "url": "https://www.qbitai.com/2026/05/415031.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-10T04:01:40",
-    "summary": "拉姆齐数R(3,17) 下界从92提升至93",
-    "collected_at": "2026-05-11T02:26:33.520004",
-    "content_text": "浙大校友用AI突破32年拉姆齐数下界\n西风\n2026-05-10\n12:01:40\n来源：\n量子位\n闻乐 发自 凹非寺\n量子位 | 公众号 QbitAI\n数学界尘封32年的拉姆齐数经典难题被打破！\n浙大校友\n王宜平\n借助自研AI框架\nScaleAutoResearch-Ramsey\n，成功将\n拉姆齐数R(3,17)\n下界\n从92提升至93\n，终结了自1994年以来长期停滞的纪录。\n同时他还将\nR(4,15)\n下界刷新至160，成果直接超越谷歌DeepMind同期AlphaEvolve的研究水平。\n而且，这次世界级数学突破并没有依赖超级算力集群，仅用Claude Code、Codex+1台CPU服务器就完成全部攻坚，\n成果已全量开源\n。\n拉姆齐数\n如果外星人威胁地球，要求我们给R (5,5) 的精确值，人类应动用所有算力；但如果要的是R (6,6)，我们不如直接开战。\n数学巨匠保罗・埃尔德什的这句调侃，直接说明了拉姆齐数有多难缠。\n作为组合数学的核心难题，拉姆齐数本质上是在寻找“无序中必然出现秩序”的临界值。\nR (3,17) 下界用生活化的派对问题来理解就是：\n无论派对上的人如何随机社交，总能找到3个互相认识的小圈子（对应数学中的三角形结构），或是17个完全互不相识的人（对应“17点独立集”），这个最小的派对人数，就是R (3,17) 的精确值。\n但求解这个数值远比想象中艰难。\n如今R (5,5) 的精确值仍卡在43-48的区间，算出R (6,6)还不如向外星人开战……\n而R (3,17) 自1994年被数学家Wang-Wang-Yan锁定在92后，全球顶尖团队轮番攻关，却始终无法撼动这一数字，渐渐成了横跨32年的学术僵局。\n而且，它的研究成果直接关联图论、算法设计、网络优化等关键领域，从人工智能到通信网络，都能找到它的应用影子，是数学与计算机科学交叉领域的香饽饽。\n怎么做到的？\n王宜平的突破，始于一次“反其道而行之”的尝试。\n在此之前，传统方法的思路是：\n先构造一张没有三角形的图，再慢慢压缩其中的独立集规模。\n但无论算法如何优化，在92个顶点的限制下，独立集始终停留在18个，怎么也压不到16个的目标。\n但王宜平换了一条逆向思路：\n放弃零三角形的初始要求，先构建一张独立集不超过16个但含少量三角形的图，再通过AI的复合删除修复策略，一点点删掉三角形，同时修复过程中新生的独立集冲突。\n他融合了了karpathy autoresearch、AlphaEvolve、拉姆齐数综述等成熟思路，搭建了一套AI自我迭代进化的研究框架，让AI可以不断沿用过往的优质探索结果，往更深、更细的方向持续深挖。\n系统会同时启动多组独立智能体，用不同算法、不同初始参数并行搜索图结构空间，有效避免探索陷入局部无解；\n全程以结构冲突数为评判标准，把每一次优化出的更好图谱保存下来当作基础模板，后续迭代都在已有优质成果上继续打磨，靠不断沉淀积累逼近最优解，这也是其和谷歌AlphaEvolve最大的区别；\n而且所有推演得出的结果都会通过专业核验工具严格筛查，精准校验图中是否存在违规三角形、是否超出独立集数量上限，每一个关键突破节点都有完整核验记录，从根源上保证研究结果严谨可信。\n这套AI框架从最初仅含12个三角形的图结构出发，像闯关升级一样逐步推进。\n12个、11个、10个……每一步都要平衡“删三角形”和“控独立集”的矛盾，最终在92个顶点上，成功构造出一张完美的图——\n既没有三角形，也不存在17个互不相连的点，直接证明了R (3,17)≥93。\n这套框架还顺带攻克了R (4,15) 的下界难题，将其从159提升至160。\n而就在今年，谷歌DeepMind的AlphaEvolve也只做到了复刻R (3,17) 的旧下界92，没能实现实质性突破。\n作者介绍\n王宜平本科毕业于浙江大学竺可桢荣誉学院，获计算机科学与数学双学位。\n现在是华盛顿大学保罗·G·艾伦计算机科学与工程学院博士生。\n他现任xAI 技术团队成员，并曾在微软实习。长期研究目标是开发安全、可扩展的超人类AI系统，推动科学进步。\n近期研究聚焦于大语言模型的推理强化学习以及AI for Math，同时也涉猎多模态和机器学习理论等领域。\nOne More Thing\n除此之外，中科大马杰教授、清华申武杰、中科大谢晟捷团队在拉姆齐数研究中实现\n78年来首次指数级理论改进\n。\n就在前几天，相关成果发表于\n数学四大顶刊之一《Inventiones Mathematicae》\n（《数学新进展》）；\n从宏观数学规律层面，显著拔高了拉姆齐数下界的增长阶数，相当于给这类问题的求解划定了更高的理论天花板。\n参考链接：\n[1]https://x.com/ypwang61/status/2052508685591785619\n[2]https://github.com/ypwang61/ScaleAutoResearch-Ramsey\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 2196,
-    "content_excerpt": "浙大校友用AI突破32年拉姆齐数下界\n西风\n2026-05-10\n12:01:40\n来源：\n量子位\n闻乐 发自 凹非寺\n量子位 | 公众号 QbitAI\n数学界尘封32年的拉姆齐数经典难题被打破！\n浙大校友"
-  },
-  {
-    "id": "99bf9f142a76",
-    "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
-    "url": "https://36kr.com/p/3802822550839047?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-10T02:18:57",
-    "summary": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。 这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着这些疑问，36氪和Ozon大中华区总裁Simon Huang（黄效）进行了一次交流。结论就是：俄语区还有比较长的红利期，中国电商迁移过去有足够的品牌优势、供应链优势，以及运营优势。以下为正文： 过去几年，中国跨境",
-    "collected_at": "2026-05-11T02:28:52.188939",
-    "content_text": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。\n这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着这些疑问，36氪和Ozon大中华区总裁Simon Huang（黄效）进行了一次交流。结论就是：俄语区还有比较长的红利期，中国电商迁移过去有足够的品牌优势、供应链优势，以及运营优势。以下为正文：\n过去几年，中国跨境电商最拥挤的地方，是欧美。\n以深圳坂田、龙华、华强北为代表的无数跨境卖家，围绕亚马逊、独立站、TikTok Shop和Temu，构建起了一整套成熟的方法论：选品、投流、铺货、品牌化、海外仓、达人营销……。可以说，中国供应链几乎把全球电商卷了个遍。\n但2025年以来，越来越多卖家开始感受到一种变化：欧美市场越来越难了。\n一方面，小包关税、物流、平台规则不断收紧；另一方面，竞争开始从“增量争夺”变成“存量内卷”。多位卖家直言：“流量越来越贵，广告越来越卷，利润越来越薄”。不少卖家还发现，即使店铺GMV还在增长，但利润是下降的。\n于是，大量中国卖家开始寻找新的市场。而这一次，他们把目光投向了一个过去长期被忽视的区域：俄罗斯和独联体。\n“过去一年，有非常多原来做欧美市场的卖家，转到了俄语区，做独联体市场。”Ozon大中华区总裁Simon Huang告诉36氪。\n其实对于很多中国卖家来说，俄罗斯一直是个“熟悉又陌生”的市场。熟悉，是因为它足够大。俄罗斯拥有1.5亿人口，加上中亚五国、白俄罗斯等独联体国家，总人口达到2.5亿，相当于一个印尼规模的区域市场。\n陌生，则是因为过去很长时间里，这个市场始终缺乏真正成熟的电商基础设施。中国企业想进入俄罗斯，大多只能依赖传统贸易：层层代理、线下渠道、高物流成本、低效率流通。很多中国品牌最终甚至变成了当地贴牌。\n但现在，一切开始改变。\n根据Ozon官方披露的数据，2025年俄罗斯电商市场规模已达到14万亿卢布，约合1900亿美元；而到2029年，这一数字有望进一步增长至30万亿卢布，接近4000亿美元。与此同时，俄罗斯电商渗透率仍只有23%，远低于中国、韩国等成熟市场。\n这意味着，一个巨大的增量市场，才刚刚开始。而在这场变化中，俄罗斯最大电商平台之一Ozon，正成为中国卖家进入独联体市场最重要的入口。\n一个被低估十年的市场，开始爆发\n如果从时间线来看，俄罗斯电商的发展，明显比中国慢了至少十年。Ozon成立于1998年，比淘宝还早。但在前20年里，它更像一家“小而美”的图书和文创网站。直到2018年前后，Ozon才真正转向平台模式，并迎来爆发式增长。\n“2018年是一个关键分界线。”Simon对36氪回忆，“当时全球电商平台的成功路径已经非常清晰。亚马逊、阿里、京东，包括Shopee、Coupang（韩国电商）等平台，都证明了电商平台是一个具备巨大规模效应和网络效应的商业模式。”\n转型之后，Ozon开始疯狂投入。过去5年，Ozon在俄罗斯建设了超过500万平方米仓储中心，拥有2万多个专职司机和运输车辆，并建立了超过84000个自提点网络，覆盖90%以上用户。\n这些数字背后，实际上是一场关于“基础设施”的战争。因为俄罗斯电商最大的问题，从来不是消费能力，而是履约能力。这个横跨欧亚大陆的国家，拥有极其复杂的地理结构：地广人稀、冬季漫长、物流成本高昂。莫斯科和圣彼得堡之外，大量人口分布在中小城市和乡镇地区。\n传统物流公司并不愿意投入如此巨大的基础设施成本。但电商平台必须做。“只有物流基建跑通了，电商这个商业模式才能成立。”Simon告诉36氪。于是，Ozon做了一件非常“中国式”的事：把物流、自提点、补贴、支付、数字化能力全部做成平台基础设施。\n某种程度上，它很像十年前的中国电商平台。比如，自提点网络就是一个极具俄罗斯特色的模式。\n与中国大量“送货上门”不同，俄罗斯消费者更习惯到附近自提点取货。Ozon最初尝试自建自提点，但发现速度太慢，随后改为加盟模式：任何人都可以把自己的空间改造成Ozon自提点，平台按GMV进行分成。\n结果，自提点数量迅速扩张到84000个。消费者可以在这里试穿、试用、退货，甚至完成二次配送。“这是一个很强的网络效应。”Simon说，“物流规模越大，成本越低，时效越快；用户越多，商家越愿意进来；商家越多，消费者选择越丰富。”\n这套逻辑，与中国电商过去十年的飞轮极其相似。而基础设施成熟之后，中国卖家终于开始真正进入这个市场。\n中国卖家，正在迁徙\n过去几年，中国跨境卖家经历了一轮极度残酷的全球竞争。\n欧美市场流量成本上涨、关税政策变化、平台规则收紧，很多卖家开始重新评估自己的全球布局。而俄语区市场，开始变成新的目的地。“独联体市场现在还是增量市场，不需要卷存量。”Simon对36氪表示。\n相比欧美市场，俄罗斯和独联体最大的特点，是电商仍处于高速增长阶段。这里的消费者需求长期没有被充分满足，而中国供应链则恰好具备极强的性价比优势。尤其是在下沉市场。\nSimon观察到，俄罗斯超过1亿人口生活在中小城市和乡镇地区，这些消费者对价格极其敏感。而中国的产业带卖家——无论是福建鞋服、义乌小商品，还是珠三角消费电子——都能以极高性价比快速满足这些需求。\n于是，中国卖家开始大量进入。截至目前，Ozon平台活跃卖家超过75万，中国卖家占比已超过20%。 而这些卖家里，逐渐出现了两种完全不同的路径。\n第一种，是典型的产业带铺货型卖家。他们拥有大量SKU，依赖成熟ERP系统进行精细化运营，通过极致性价比覆盖俄罗斯下沉市场。\n第二种，则是越来越多开始做品牌的中国企业。这也是Simon最看重的一类卖家。“未来AI会把很多运营优势拉平。”他说，“真正能形成长期壁垒的，是品牌、IP、技术、审美和用户信任。”\n在他看来，中国卖家过去最大的优势，是信息差和运营效率。但AI出现之后，这些优势正在被迅速削弱。AI可以完成选品分析、本地化翻译、内容生成、广告优化、客服运营、店铺管理等。\n甚至，AI还能24小时无间断运营。“过去，大卖家最大的优势是可以堆很多运营人员。但现在AI员工出现后，这个优势没了。”Simon说。 于是，整个行业开始回到最底层的问题：\n你的核心资产到底是什么？\n如果供应链人人都能找到，运营人人都能AI化，那么最后真正能留下来的，只能是品牌。这也是为什么，越来越多中国卖家开始在俄罗斯市场做长期投入。有人开始注册本地商标；\n有人开始做本地化营销；有人开始与俄罗斯KOL合作；甚至有人开始在当地开快闪店。\n在Simon看来，这种变化，本质上是中国跨境卖家从“短期套利”转向“长期经营”。“短期主义越来越难了。”他说。\nAI时代，跨境电商开始进入“一人公司”时代\n在这次采访里，Simon反复提到一个词：OPC（One Person Company，一人公司）。他认为，AI正在把跨境电商带入一个全新的阶段。过去，一个跨境团队可能需要运营、美工、文案、小语种客服、数据分析、广告投手。但现在，AI开始逐渐替代这些岗位。\n“未来很多企业不需要雇佣很多员工，它需要的是数字员工。”Simon说。 在他看来，AI带来的变化并不只是效率提升，而是整个竞争逻辑的重构。\n首先，AI消灭了信息差。过去，一个经验丰富的运营，最大的价值是知道平台规则、知道怎么选品、知道怎么投广告。但现在，AI已经可以低成本分析全球公开数据，快速找到趋势和需求。\n其次，AI也消灭了组织规模优势。过去大卖家可以通过堆人建立效率壁垒，但AI出现后，小团队甚至一个人，也能拥有过去大公司的运营能力。这意味着：跨境电商的创业门槛，正在被迅速拉低。\n“未来会有越来越多运营出来创业。”Simon说，“只要配一个AI工具，他就可以跑起来。” 但与此同时，AI也让整个行业变得更加残酷。因为当所有人都能运营时，真正拉开差距的，就不再是运营。而是产品、品牌、IP、用户信任、内容审美，以及消费者洞察。\n这也是为什么，Simon始终强调“品牌化”和“合规”。在他看来，未来跨境电商最核心的资产，是无法被AI迅速复制的东西。尤其专利、商标、技术、品牌心智和用户关系。这些东西，才是真正的长期壁垒。\n某种程度上，这也意味着：中国跨境电商正在结束“野蛮生长”阶段。过去依赖信息差、流量套利、铺货逻辑的时代，正在逐渐过去。而一个新的阶段，开始出现：平台越来越重基础设施；卖家越来越重品牌；AI越来越重效率；而竞争，则越来越回归长期主义。\n对Ozon来说，它希望成为这场变化里的基础设施提供者。对中国卖家来说，俄罗斯和独联体，则像是一个新的增长大陆。而在AI、物流基础设施和全球供应链重新组合的背景下，这个过去长期被忽视的市场，正在被重新发现。",
-    "content_source": "trafilatura",
-    "content_chars": 3693,
-    "content_excerpt": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。\n这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着这些疑问，36氪和Ozon大中华区总裁Simon Huang（黄效）进行了一次交流。结论就是：俄语区还有比较长的红利期，中国电商迁移过去有足够的品牌优势、供应链优势，以及运营优势。以下为正文：\n过去几年，中国跨境电商最拥挤的地方，是欧美。\n以深圳坂田、龙华、华强北为代表的无数跨境卖家，围绕亚马逊、独立站、TikTok Shop和Temu，构建起了一整套成熟的方法论：选品、投流、铺货、品牌化、海外仓、达人营销……。可以说，中国供应链几乎把全球电商卷了个遍。\n但2025年以来，越来越多卖家开始感受到一种变化：欧美市场越来越难了。\n一方面，小包关税、物流、平台规则不断收紧；另一方面，竞争开始从“增量争夺”变成“存量内卷”。多位卖家直言：“流量越来越贵，广告越来越卷，利润越来越薄”。不少卖家还发现，即使店铺GMV还在增长，但利润是下降的。\n于是，大量中国卖家开始寻找新的市场。而这一次，他们把目光投向了一个过去长期被忽视的区域：俄罗斯和独联体。\n“过去一年，有非常多原来做欧美市场的卖家，转到了俄语区，做独联体市场。”Ozon大中华区总裁Simon Huang告诉36氪。\n其实对于很多中国卖家来说，俄罗斯一直是个“熟悉又陌生”的市场。熟悉，是因为它足够大。俄罗斯拥有1.5亿人口，加上中亚五国、白俄罗斯等独联体国家，总人口达到2.5亿，相当于一个印尼规模的区域市场。\n陌生，则是因为过去很长时间里，这个市场始终缺乏真正成熟的电商基础设施。中国企业想进入俄罗斯，大多只能依赖传统贸易：层层代理、线下渠道、高物流成本、低效率流通。很多中国品牌最终甚至变成了当地贴牌。"
-  },
-  {
-    "id": "78ff151ea44f",
-    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-10T02:00:00",
-    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "collected_at": "2026-05-11T02:28:48.906060",
-    "content_text": "India’s internet users already rely heavily on voice notes, voice search, and multilingual messaging. Turning those habits into a scalable AI business, however, remains difficult because of the country’s linguistic complexity, mixed-language usage, and uneven monetization patterns. Wispr Flow is betting the opportunity is worth the challenge.\nThe Bay Area-headquartered startup, which builds AI-powered voice input software, says India is now its fastest-growing market, even though voice-based AI products remain early and fragmented in the South Asian nation. That growth has pushed Wispr Flow to expand more aggressively for Indian users, beginning with Hinglish — a hybrid mix of Hindi and English commonly spoken by locals. The startup is also planning broader multilingual voice support, a local hiring push, and, eventually, lower pricing as it looks to expand beyond white-collar users and into Indian households.\nEarlier waves of voice technology in India — from digital assistants to WhatsApp voice notes — largely revolved around convenience. AI startups such as Wispr Flow are now betting that generative AI can turn those habits into a broader computing layer.\nTo make the product more relevant for Indian users, Wispr Flow began beta testing a Hinglish voice model earlier this year and launched on Android — India’s dominant mobile operating system — after initially debuting on Mac and Windows before expanding to iOS in 2025.\nCo-founder and CEO Tanay Kothari told TechCrunch that the startup initially saw adoption in India largely among white-collar professionals such as managers and engineers, but it’s increasingly seeing broader usage patterns emerge, including among students and older users being onboarded by younger family members.\nIndia has emerged as Wispr Flow’s second-largest market after the U.S. in terms of both users and revenue, Kothari said, with growth accelerating following the startup’s recent India-focused push. The startup has seen faster growth following the rollout of Hinglish support, benefiting from the widespread habit among Indian users of mixing Hindi and English in everyday conversations, particularly as users began expanding beyond work-focused use cases into more personal communication.\n“The biggest thing is people are starting to use it more in personal apps,” Kothari said, pointing to messaging platforms such as WhatsApp and social media apps where users frequently switch between Hindi and English while speaking.\nThis Week Only: Buy one pass, get the second at 50% off\nThis Week Only: Buy one pass, get the second at 50% off\nWispr Flow, Kothari said, was growing about 60% month over month in India earlier this year, but growth accelerated to around 100% following its recent India launch campaign. The startup last month rolled out a broader marketing push in the country, including a launch video from Kothari and offline campaigns in Bengaluru aimed at introducing the product to more mainstream users.\nKothari told TechCrunch that Wispr Flow plans to expand its multilingual voice support over the next 12 months, allowing users to switch between English and other Indian languages beyond Hindi while speaking. In December, the startup introduced India-specific pricing at ₹320 (around $3.4) per month for annual plans, significantly lower than its standard $12 monthly pricing globally.\nThe startup eventually wants to bring costs down even further — potentially to as low as ₹10–20 (around 10–20 cents) per month — as it looks to expand beyond white-collar and urban users.\n“I want every single person in the country to be able to use Wispr Flow, and that’s what we’re really building for,” Kothari said. “That’s going to happen slowly and steadily.”\nEarlier this year, Wispr Flow hired Nimisha Mehta to lead its India operations as it looks to expand its local presence. Kothari told TechCrunch the startup plans to grow to around 30 employees in India over the next year, building out consumer growth, partnerships, and enterprise teams alongside existing engineering and support functions. The startup currently has about 60 employees globally.\nIndia’s voice AI challenge\nWispr Flow is not alone in viewing India as a key market for voice-based AI products. Companies including ElevenLabs have highlighted India as an important growth market for some time. Similarly, local startups such as Gnani.ai, Smallest AI, and Bolna have continued attracting investor interest as voice-based AI tools gain wider adoption across consumer and business use cases.\nNevertheless, turning voice AI into a mainstream consumer product in India remains challenging despite growing interest from startups and investors.\n“India is the ultimate stress test for voice AI,” Neil Shah, vice president of research at Counterpoint Research, told TechCrunch, adding that “linguistic, accent, and contextual friction” continue to slow wider adoption.\nData shared with TechCrunch from Sensor Tower shows Wispr Flow was downloaded more than 2.5 million times globally between October 2025 and April 2026, with India accounting for 14% of installs during the period, making India its second-largest market by downloads (after, as mentioned, the U.S.). India, however, contributed only around 2% of Wispr Flow’s in-app purchase revenue during the same period, according to Sensor Tower. However, the startup remains largely desktop-driven globally.\nWispr Flow’s usage in India, Kothari said, is currently split roughly 50:50 between desktop and mobile, compared with an 80:20 desktop-heavy mix in the U.S.\nKothari said Wispr Flow sees strong repeat usage among its users, claiming roughly 70% retention after 12 months globally and in India. Moreover, the startup currently employs two full-time linguistics PhDs as it continues refining multilingual voice models and expanding support for additional Indian language combinations.",
-    "content_source": "trafilatura",
-    "content_chars": 6500,
-    "content_excerpt": "India’s internet users already rely heavily on voice notes, voice search, and multilingual messaging. Turning those habits into a scalable AI business, however, remains difficult because of the country’s linguistic complexity, mixed-language usage, and uneven monetization patterns. Wispr Flow is betting the opportunity is worth the challenge.\nThe Bay Area-headquartered startup, which builds AI-powered voice input software, says India is now its fastest-growing market, even though voice-based AI products remain early and fragmented in the South Asian nation. That growth has pushed Wispr Flow to expand more aggressively for Indian users, beginning with Hinglish — a hybrid mix of Hindi and English commonly spoken by locals. The startup is also planning broader multilingual voice support, a local hiring push, and, eventually, lower pricing as it looks to expand beyond white-collar users and into Indian households.\nEarlier waves of voice technology in India — from digital assistants to WhatsApp voice notes — largely revolved around convenience. AI startups such as Wispr Flow are now betting that generative AI can turn those habits into a broader computing layer.\nTo make the product more relevant for Indian users, Wispr Flow began beta testing a Hinglish voice model earlier this year and launched on Android — India’s dominant mobile operating system — after initially debuting on Mac and Windows before expanding to iOS in 2025.\nCo-founder and CEO Tanay Kothari told TechCrunch that the startup initially saw adoption in India largely among white-collar professionals such as managers and engineers, but it’s increasingly seeing broader usage patterns emerge, including among students and older users being onboarded by younger family members.\nIndia has emerged as Wispr Flow’s second-largest market after the U.S. in terms of both users and revenue, Kothari said, with growth accelerating following the startup’s recent India-focused push. The startup has seen faster growth following the rollout of Hinglish support, benefiting from the widespread habit among Indian users of mixing Hindi and English in everyday conversations, particularly as users began expanding beyond work-focused use cases into more personal communication.\n“The biggest thing is people are starting to use it more in personal apps,” Kothari said, pointing to messaging platforms such as WhatsApp and social media apps where users frequently switch between Hindi and English while speaking.\nThis Week Only: Buy one pass, get the second at 50% off\nThis Week Only: Buy one pass, get the second at 50% off\nWispr Flow, Kothari said, was growing about 60% month over month in India earlier this year, but growth accelerated to around 100% following its recent India launch campaign. The startup last month rolled out a broader marketing push in the country, including a launch video from Kothari and offline campaigns in Bengaluru aimed at introducing the product to more mainstream users.",
-    "title_zh": "语音人工智能在印度很难发展。无论如何，Wispr Flow 都在押注它。",
-    "summary_zh": "Wispr Flow 表示，尽管语音人工智能产品继续面临挑战，但印度英语推出后，印度的增长加速",
-    "ai_summary": "Wispr Flow 表示，尽管语音人工智能产品继续面临挑战，但印度英语推出后，印度的增长加速"
-  },
-  {
-    "id": "00c345ac2215",
-    "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
-    "url": "https://36kr.com/p/3801745491943169?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-10T01:27:31",
-    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。 长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。 根据Euromonitor等报告显示，2024年，全球割草机器人销售额占割草机总额的9.1%，处于较",
-    "collected_at": "2026-05-11T02:28:52.189087",
-    "content_text": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。\n长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。\n根据Euromonitor等报告显示，2024年，全球割草机器人销售额占割草机总额的9.1%，处于较低水平。分区域看，欧洲市场存量渗透率达20%-30%，普及率较高，但无边界产品替代空间依然广阔；北美家庭草坪面积大、地形复杂，渗透率不足2%位数，是未来扩容的关键市场。\n随着庭院机器人市场持续升温，竞争日趋白热化。面对日益同质化的价格战与功能堆叠，市场分化的背后，是现有产品力难以匹配用户的深层需求。长曜创新创始人胡岳告诉硬氪，“用户不是要一台会跑的割草机，而是要一片好看的草坪。破除竞争的最好方式，就是不断保持创新，去打造更好的产品。行业第一往往靠规模化成本取胜，行业第二则通过产品与渠道的差异化来击败竞争者。”\n这一思路，在长曜创新最新旗舰产品Tron Ultra系列割草机器人身上得到充分印证。\nTron Ultra系列搭载了行业首创的四轮独立驱动与独立转向系统，允许每个轮子以任意角度独立旋转。这使得机器人能够实现原地自转、横向平移、斜向移动等复杂运动模式，从而有效应对传统割草机器人难以克服的运动死角，彻底解决磨草、边缘死角以及在复杂草坪场景中的脱困难题。这一突破性创新，首次将汽车领域的复杂底盘方案引入机器人行业。\nTron系列割草机器人，避免边界磨草（图源/企业）\n在工程实现上，为兼顾紧凑空间、越野通过性、可靠性与成本，长曜创新的研发团队自研了轮毂电机与独立转向节的一体化设计，取消了传统机械转向拉杆，大幅减少了活动部件数量。配合升级后的AI视觉导航系统以及独创的碎草模块，整机的响应速度、故障率与维护成本均得到显著优化。\n目前，Tron Ultra系列已完成研发与工程验证，将于今年年中正式开启全球销售。长曜创新表示，将持续以“产品差异化×渠道差异化”为双引擎，在中高端割草机器人市场建立清晰的品牌认知\n除了线上渠道外，长曜长期专注欧洲及北美线下专业渠道的搭建，包括区域性的庭院设备专营店、园艺用品连锁网络等，以形成相对稳定的出货预期。\n硬氪了解到，截至目前，长曜创新在欧洲线下渠道订单较去年同期实现5倍以上增长，新款割草机器人产品已拿下数亿元意向订单。\nTron系列割草机器人（图源/企业）\n当前，庭院机器人赛道正经历从“单功能工具”向“场景化平台”的范式迁移。从硬件迭代到生态构建，长曜创新对庭院的想象远不止于割草。\n相比于部分厂商仍聚焦在轮式底盘、单一割草功能上的持续迭代时，长曜创新选择走向另一条的路径。“当单一功能及场景的技术壁垒陆续被供应链成熟度稀释，用户需要一个能够统筹打理整个庭院空间的智能系统。”胡岳表示，“庭院的工作很多，我们要做的不只是割草场景。我们将会用一种全新、有别于目前所有轮式底盘设计的形态，在园林行业第一次落地消费级的具身终端，去改变庭院的格局，重新塑造欧美的‘第二起居室’生活方式。”\n以下为硬氪与长曜创新创始人胡岳的访谈节选（略经编辑）：\n硬氪：目前欧洲仍是主力市场，近半年来美国市场开始起量了吗？\n胡岳：\n欧洲市场基本盘稳固，美国市场今年虽已开始缓慢起量，但整体增速依然偏慢，这也是整个行业当前共同攻坚的难题。不少品牌看似已进驻北美大型商超的线上渠道，但目前更多仍停留在品牌曝光和用户心智的初步搭建阶段。\n据我们实际观察，美国用户对中国出海硬件品牌的刻板印象依然根深蒂固，普遍认为中国产品只是平价的替代品，高端化、品牌化心智还处于建立期。\n这也意味着，在海外用户眼中，绝大多数中国硬件公司实际上站在同一条起跑线上——即便是国内的大厂，在美国普通消费者心中的认知度也与其体量严重不匹配。好处是大家起跑线相近，坏处则是“廉价低端”的标签难以在短期内撕掉。\nTron系列割草机器人（图源/企业）\n硬氪：国内割草机器人赛道的“内卷”声量很大，你们如何判断行业当前所处的竞争阶段？\n胡岳：\n目前行业已进入淘汰赛阶段，远非当初的热身赛。对企业综合实力、供应链管理、本地化服务以及全球销售网络的搭建都提出了极高要求。但很多玩家仍停留在浅层内卷：一窝蜂堆技术、拼参数、打价格战，卷得太早、太浅，扎堆在表层红海厮杀，却不愿深耕蓝海场景。\n产品同质化严重也是行业普遍问题。大多数产品仅停留在基础割草功能，草坪养护、碎草还田、节水灌溉等深层用户痛点几乎无人深耕。更值得关注的是，大厂的入局思路也偏保守——部分企业的行业习惯是，等市场跑出三家定位清晰的玩家后才跟风进入，很少主动做前沿探索。而小的创业公司企业受制于资金和资源，同样难以支撑深度研发。结果就是，大家都在海面上卷，没人往深海挖机会。\n在场景探索上，商用智能割草目前尚未出现成熟落地的商业模式。虽有团队在尝试，但远未到规模化阶段。而且商用和家用在渠道、研发、售后上是两套完全不同的逻辑，需要单独组建团队。基于这些判断，我们现阶段暂时不会重点布局商用方向。\n硬氪：你们给自己的定位远不止是割草机器人公司。长曜在生态布局上有哪些设想？\n胡岳：\n我们思考的底层逻辑，从来不是做一堆孤立的硬件单品。长曜要构建的，是一套能够自我进化、全域感知的庭院生命体。\n以割草机器人为感知与交互的切入点，我们持续沉淀庭院场景的环境数据、用户行为轨迹以及植物生长的隐性模型，逐步形成具备语义理解能力的认知上下文。但这只是表象。真正的内核，将由一款彻底颠覆当下轮式底盘运动方式的终端机器人来承载——它将是行业内首个真正落地于庭院消费级场景的“具身终端”，一种打通物理世界与数字感知的实体界面。\n长曜的演进路径清晰而深远：短期，聚焦单品硬件的极致落地；长期，则是在庭院生态与具身智能的深层维度上加速编织一张不可见的网。我们想要的，不是一个工具，而是一个高壁垒的庭院智能入口——在那里，庭院不再是机器的作业场，而是人与环境、数据与实体共生共感的“第二起居室”。",
-    "content_source": "readability",
-    "content_chars": 2611,
-    "content_excerpt": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。\n长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。\n根据Euromonitor等报告显示，2024年，全球割草机器人销售额占割草机总额的9.1%，处于较低水平。分区域看，欧洲市场存量渗透率达20%-30%，普及率较高，但无边界产品替代空间依然广阔；北美家庭草坪面积大、地形复杂，渗透率不足2%位数，是未来扩容的关键市场。\n随着庭院机器人市场持续升温，竞争日趋白热化。面对日益同质化的价格战与功能堆叠，市场分化的背后，是现有产品力难以匹配用户的深层需求。长曜创新创始人胡岳告诉硬氪，“用户不是要一台会跑的割草机，而是要一片好看的草坪。破除竞争的最好方式，就是不断保持创新，去打造更好的产品。行业第一往往靠规模化成本取胜，行业第二则通过产品与渠道的差异化来击败竞争者。”\n这一思路，在长曜创新最新旗舰产品Tron Ultra系列割草机器人身上得到充分印证。\nTron Ultra系列搭载了行业首创的四轮独立驱动与独立转向系统，允许每个轮子以任意角度独立旋转。这使得机器人能够实现原地自转、横向平移、斜向移动等复杂运动模式，从而有效应对传统割草机器人难以克服的运动死角，彻底解决磨草、边缘死角以及在复杂草坪场景中的脱困难题。这一突破性创新，首次将汽车领域的复杂底盘方案引入机器人行业。\nTron系列割草机器人，避免边界磨草（图源/企业）\n在工程实现上，为兼顾紧凑空间、越野通过性、可靠性与成本，长曜创新的研发团队自研了轮毂电机与独立转向节的一体化设计，取消了传统机械转向拉杆，大幅减少了活动部件数量。配合升级后的AI视觉导航系统以及独创的碎草模块，整机的响应速度、故障率与维护成本均得到显著优化。"
-  },
-  {
     "id": "hn-48019219",
     "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
@@ -4599,7 +4602,7 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "points": 1755,
-    "collected_at": "2026-05-16T18:54:46.775620"
+    "collected_at": "2026-05-17T02:16:56.278456"
   },
   {
     "id": "hn-47679121",
@@ -4610,7 +4613,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-16T18:54:46.775719"
+    "collected_at": "2026-05-17T02:16:56.278536"
   },
   {
     "id": "hn-47363754",
@@ -4621,7 +4624,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-16T18:54:46.775854"
+    "collected_at": "2026-05-17T02:16:56.278639"
   },
   {
     "id": "hn-47340079",
@@ -4632,7 +4635,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-16T18:54:46.775445"
+    "collected_at": "2026-05-17T02:16:56.278229"
   },
   {
     "id": "hn-47225130",
@@ -4643,7 +4646,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-16T18:54:46.775898"
+    "collected_at": "2026-05-17T02:16:56.278682"
   },
   {
     "id": "hn-47136179",
@@ -4654,7 +4657,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-16T18:54:46.775550"
+    "collected_at": "2026-05-17T02:16:56.278365"
   },
   {
     "id": "hn-46990729",
@@ -4665,7 +4668,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-16T18:54:46.775519"
+    "collected_at": "2026-05-17T02:16:56.278303"
   },
   {
     "id": "hn-45941596",
@@ -4676,7 +4679,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-16T18:54:46.775910"
+    "collected_at": "2026-05-17T02:16:56.278694"
   },
   {
     "id": "hn-45930151",
@@ -4687,7 +4690,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-16T18:54:46.775950"
+    "collected_at": "2026-05-17T02:16:56.278734"
   },
   {
     "id": "hn-44972151",
@@ -4698,7 +4701,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-16T18:54:46.775664"
+    "collected_at": "2026-05-17T02:16:56.278482"
   },
   {
     "id": "hn-44396518",
@@ -4709,7 +4712,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-16T18:54:46.775790"
+    "collected_at": "2026-05-17T02:16:56.278606"
   },
   {
     "id": "hn-44314423",
@@ -4720,7 +4723,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-16T18:54:46.775867"
+    "collected_at": "2026-05-17T02:16:56.278652"
   },
   {
     "id": "hn-44163063",
@@ -4731,7 +4734,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-16T18:54:46.775494"
+    "collected_at": "2026-05-17T02:16:56.278279"
   },
   {
     "id": "hn-42910910",
@@ -4742,7 +4745,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-16T18:54:46.775677"
+    "collected_at": "2026-05-17T02:16:56.278494"
   },
   {
     "id": "hn-41392128",
@@ -4753,7 +4756,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-16T18:54:46.775567"
+    "collected_at": "2026-05-17T02:16:56.278381"
   },
   {
     "id": "hn-41386319",
@@ -4764,7 +4767,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-16T18:54:46.775580"
+    "collected_at": "2026-05-17T02:16:56.278395"
   },
   {
     "id": "hn-41069829",
@@ -4775,7 +4778,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-16T18:54:46.775963"
+    "collected_at": "2026-05-17T02:16:56.278747"
   },
   {
     "id": "hn-41046773",
@@ -4786,7 +4789,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-16T18:54:46.775482"
+    "collected_at": "2026-05-17T02:16:56.278266"
   },
   {
     "id": "hn-40767459",
@@ -4797,7 +4800,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-16T18:54:46.775977"
+    "collected_at": "2026-05-17T02:16:56.278760"
   },
   {
     "id": "hn-39918245",
@@ -4808,7 +4811,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-16T18:54:46.775923"
+    "collected_at": "2026-05-17T02:16:56.278707"
   },
   {
     "id": "hn-39526057",
@@ -4819,7 +4822,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-16T18:54:46.775468"
+    "collected_at": "2026-05-17T02:16:56.278252"
   },
   {
     "id": "hn-38544729",
@@ -4830,7 +4833,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-16T18:54:46.775531"
+    "collected_at": "2026-05-17T02:16:56.278345"
   },
   {
     "id": "hn-37021160",
@@ -4841,7 +4844,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-16T18:54:46.775690"
+    "collected_at": "2026-05-17T02:16:56.278507"
   },
   {
     "id": "hn-31812259",
@@ -4852,7 +4855,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-16T18:54:46.775879"
+    "collected_at": "2026-05-17T02:16:56.278664"
   },
   {
     "id": "hn-18249755",
@@ -4863,7 +4866,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-16T18:54:46.775631"
+    "collected_at": "2026-05-17T02:16:56.278468"
   },
   {
     "id": "hn-17022963",
@@ -4874,7 +4877,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-16T18:54:46.775606"
+    "collected_at": "2026-05-17T02:16:56.278442"
   },
   {
     "id": "hn-15892066",
@@ -4885,7 +4888,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-16T18:54:46.775840"
+    "collected_at": "2026-05-17T02:16:56.278626"
   },
   {
     "id": "hn-6830566",
@@ -4896,6 +4899,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-16T18:54:46.775934"
+    "collected_at": "2026-05-17T02:16:56.278718"
   }
 ]
