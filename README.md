@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-17 21:05:52
+🕐 **最近更新**：2026-05-18 03:00:44
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年](https://aihot.bt199.com/news/f04b5b1c9763/)
-   - ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为
-   - `TechCrunch AI · 2026-05-16`
+1. [TechCrunch Mobility：汽车领域的人工智能技能军备竞赛即将来临](https://aihot.bt199.com/news/481cbcf6e999/)
+   - 欢迎回到 TechCrunch Mobility——您获取关于未来交通的新闻和见解的中心枢纽
+   - `TechCrunch AI · 2026-05-17`
 
-2. [得来速的聊天机器人只是一个开始](https://aihot.bt199.com/news/79f4caf2b75d/)
-   - 这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能如何渗透到我们日常生活的更多…
+2. [据报道，改进后的 Siri 将提供自动删除聊天记录的功能](https://aihot.bt199.com/news/5c90a84245fe/)
+   - 苹果公司希望其在隐私方面的记录能够成为人工智能领域的差异化因素，甚至可能会因为它继续落后于竞争对手而感到有点松懈。据彭博…
    - `The Verge AI · 2026-05-17`
 
-3. [索尼试图解释其人工智能相机助手并不糟糕](https://aihot.bt199.com/news/a667f385c15c/)
-   - 索尼因在 Xperia 1 XIII 上展示人工智能相机助手的帖子引起了一些不必要的关注，该帖子试图澄清该功能的工作原理…
-   - `The Verge AI · 2026-05-16`
+3. [亚利桑那大学学生在毕业典礼上对埃里克·施密特的人工智能啦啦队发出嘘声](https://aihot.bt199.com/news/73aa8f92605e/)
+   - 谷歌前首席执行官埃里克·施密特周五在亚利桑那大学发表毕业典礼致辞。而且，当他的演讲转向人工智能时，他的声音一再被嘘声淹没…
+   - `The Verge AI · 2026-05-17`
 
 4. [马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。](https://aihot.bt199.com/news/9c8aa558adfd/)
    - 在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官萨姆·奥特曼的可信度展开了激烈的争论…
    - `MIT Tech Review · 2026-05-15`
 
-5. [人工智能淘金热中的富人和穷人](https://aihot.bt199.com/news/859b70ce116b/)
-   - 当前人工智能热潮的氛围并不好，即使是在科技行业也是如此
-   - `TechCrunch AI · 2026-05-16`
+5. [如果你要在 2026 年发表毕业演讲，也许不要提及人工智能](https://aihot.bt199.com/news/f4e20e1053ea/)
+   - 让即将毕业的学生对人工智能塑造的未来感到兴奋是很困难的
+   - `TechCrunch AI · 2026-05-17`
 
 
 ## 🤖 AI 简报
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
