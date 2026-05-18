@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-18 17:48:15
+🕐 **最近更新**：2026-05-18 23:01:14
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [为什么信任是 Elon Musk-OpenAI 试验中的一个大问题](https://aihot.bt199.com/news/0687ec213c6d/)
-   - 审判最后几天的一个重要主题是 OpenAI 首席执行官 Sam Altman 是否值得信任
-   - `TechCrunch AI · 2026-05-17`
+1. [亚马逊新的 Alexa+ 支持功能可以生成播客剧集](https://aihot.bt199.com/news/3a9b0386203c/)
+   - 随着亚马逊将其助手扩展为个性化人工智能内容平台，亚马逊的 Alexa+ 现在可以按需生成定制人工智能播客
+   - `TechCrunch AI · 2026-05-18`
 
-2. [据报道，改进后的 Siri 将提供自动删除聊天记录的功能](https://aihot.bt199.com/news/5c90a84245fe/)
+2. [韩国 LetinAR 正在构建人工智能眼镜背后的光学器件](https://aihot.bt199.com/news/ed128b31ae1c/)
+   - 缩略图大小的镜片——以及制造它的韩国初创公司可能成为人工智能眼镜时代的光学支柱
+   - `TechCrunch AI · 2026-05-18`
+
+3. [据报道，改进后的 Siri 将提供自动删除聊天记录的功能](https://aihot.bt199.com/news/5c90a84245fe/)
    - 苹果公司希望其在隐私方面的记录能够成为人工智能领域的差异化因素，甚至可能会因为它继续落后于竞争对手而感到有点松懈。据彭博…
    - `The Verge AI · 2026-05-17`
 
-3. [亚利桑那大学学生在毕业典礼上对埃里克·施密特的人工智能啦啦队发出嘘声](https://aihot.bt199.com/news/73aa8f92605e/)
+4. [亚利桑那大学学生在毕业典礼上对埃里克·施密特的人工智能啦啦队发出嘘声](https://aihot.bt199.com/news/73aa8f92605e/)
    - 谷歌前首席执行官埃里克·施密特周五在亚利桑那大学发表毕业典礼致辞。而且，当他的演讲转向人工智能时，他的声音一再被嘘声淹没…
    - `The Verge AI · 2026-05-17`
 
-4. [马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。](https://aihot.bt199.com/news/9c8aa558adfd/)
+5. [马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。](https://aihot.bt199.com/news/9c8aa558adfd/)
    - 在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官萨姆·奥特曼的可信度展开了激烈的争论…
    - `MIT Tech Review · 2026-05-15`
-
-5. [如果你要在 2026 年发表毕业演讲，也许不要提及人工智能](https://aihot.bt199.com/news/f4e20e1053ea/)
-   - 让即将毕业的学生对人工智能塑造的未来感到兴奋是很困难的
-   - `TechCrunch AI · 2026-05-17`
 
 
 ## 🤖 AI 简报
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
