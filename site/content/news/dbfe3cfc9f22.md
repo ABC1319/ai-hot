@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "芯片与系统级双重创新"
 summary_zh = ""
 tags = []
-list_page = 1
+list_page = 2
 +++
 
 <!-- AUTO-GENERATED: news page -->

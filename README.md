@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-18 23:01:14
+🕐 **最近更新**：2026-05-19 03:31:07
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [亚马逊新的 Alexa+ 支持功能可以生成播客剧集](https://aihot.bt199.com/news/3a9b0386203c/)
-   - 随着亚马逊将其助手扩展为个性化人工智能内容平台，亚马逊的 Alexa+ 现在可以按需生成定制人工智能播客
+1. [埃隆·马斯克 (Elon Musk) 输掉了对萨姆·奥尔特曼 (Sam Altman) 和 OpenAI 的诉讼](https://aihot.bt199.com/news/f568df07558f/)
+   - 埃隆·马斯克 (Elon Musk) 声称自己受到 OpenAI 联合创始人虐待的说法失败了，因为九名加州陪审员一致裁定…
    - `TechCrunch AI · 2026-05-18`
 
-2. [韩国 LetinAR 正在构建人工智能眼镜背后的光学器件](https://aihot.bt199.com/news/ed128b31ae1c/)
-   - 缩略图大小的镜片——以及制造它的韩国初创公司可能成为人工智能眼镜时代的光学支柱
-   - `TechCrunch AI · 2026-05-18`
+2. [马斯克诉奥特曼案证明人工智能是由错误的人领导的](https://aihot.bt199.com/news/3be90d994a82/)
+   - 今年的科技审判“马斯克诉奥特曼”最终是一场控制权之争。埃隆·马斯克 (Elon Musk) 认为，山姆·奥尔特曼 (Sa…
+   - `The Verge AI · 2026-05-18`
 
-3. [据报道，改进后的 Siri 将提供自动删除聊天记录的功能](https://aihot.bt199.com/news/5c90a84245fe/)
-   - 苹果公司希望其在隐私方面的记录能够成为人工智能领域的差异化因素，甚至可能会因为它继续落后于竞争对手而感到有点松懈。据彭博…
-   - `The Verge AI · 2026-05-17`
+3. [本周对谷歌有什么期待](https://aihot.bt199.com/news/824e77ca4c6b/)
+   - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。当谷歌明天开幕其…
+   - `MIT Tech Review · 2026-05-18`
 
-4. [亚利桑那大学学生在毕业典礼上对埃里克·施密特的人工智能啦啦队发出嘘声](https://aihot.bt199.com/news/73aa8f92605e/)
-   - 谷歌前首席执行官埃里克·施密特周五在亚利桑那大学发表毕业典礼致辞。而且，当他的演讲转向人工智能时，他的声音一再被嘘声淹没…
-   - `The Verge AI · 2026-05-17`
+4. [埃隆·马斯克 (Elon Musk) 败诉山姆·奥尔特曼 (Sam Altman)](https://aihot.bt199.com/news/4f2f8f4da2b7/)
+   - 经过大约两个小时的审议，陪审团对年度科技审判“马斯克诉奥特曼案”达成了一致裁决。该组织发现，两项索赔均已超出诉讼时效，而…
+   - `The Verge AI · 2026-05-18`
 
-5. [马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。](https://aihot.bt199.com/news/9c8aa558adfd/)
-   - 在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官萨姆·奥特曼的可信度展开了激烈的争论…
-   - `MIT Tech Review · 2026-05-15`
+5. [Anduril 和 Meta 致力于制造战争智能眼镜](https://aihot.bt199.com/news/981e2ce3b8c4/)
+   - 国防科技公司 Anduril 分享了有关其与 Meta 合作开发的军用增强现实耳机原型的新细节，包括通过眼动追踪和语音命…
+   - `MIT Tech Review · 2026-05-18`
 
 
 ## 🤖 AI 简报
@@ -119,6 +119,8 @@
 ---
 
 MIT License
+
+
 
 
 
