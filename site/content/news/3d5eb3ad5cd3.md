@@ -20,12 +20,29 @@ ai_summary = "这家科技巨头表示，它意识到大多数人会在多种设
 summary = "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart."
 summary_zh = "这家科技巨头表示，它意识到大多数人会在多种设备、多家零售商和多天的时间内进行购物，这就是它推出通用购物车的原因"
 tags = []
-list_page = 6
+list_page = 7
 +++
 
 <!-- AUTO-GENERATED: news page -->
 
-这家科技巨头表示，它意识到大多数人会在多种设备、多家零售商和多天的时间内进行购物，这就是它推出通用购物车的原因
+At Google I/O on Tuesday
+, Google introduced Universal Cart, its agentic hub for managing shopping in one place.
+
+The tech giant also announced updates to its Agent Payments Protocol (AP2) and teased that it would bring the technology to Google products in the coming months, enabling users to authorize agents to make payments on their behalf.
+The announcements signal
+Google’s push to turn AI assistants from passive recommendation tools into active participants
+in online commerce.
+
+By launching a centralized shopping system and building infrastructure that lets software agents complete purchases autonomously, the company is positioning itself to control more of the entire shopping journey, and potentially the relationship between consumers and the merchants competing for their attention.
+With Universal Cart, users can add products they’re considering from anywhere on Google — while browsing Search, chatting with Gemini, watching YouTube, or reading Gmail.
+
+Once items are added, Universal Cart tracks deals, monitors price drops, surfaces price history insights, and alerts users when items are back in stock.
+Image Credits:
+Sarah Perez/TechCrunch
+The feature is built around something Google knows well, which is that most people shop across multiple devices, multiple retailers, and over the course of many days.
+The cart also uses AI to help shoppers make better decisions.
+
+For example, if you’re building your first custom PC, you can add parts from multiple merchants into a single cart, and Google may flag compatibility issues, such as a processor that doesn’t work with the motherboard you selected — and suggest an alternative.
 
 ## 🔗 原始来源
 
