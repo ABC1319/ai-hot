@@ -647,14 +647,7 @@
         "top_k",
         "top_p"
       ],
-      "default_parameters": {
-        "temperature": null,
-        "top_p": null,
-        "top_k": null,
-        "frequency_penalty": null,
-        "presence_penalty": null,
-        "repetition_penalty": null
-      },
+      "default_parameters": null,
       "supported_voices": null,
       "knowledge_cutoff": null,
       "expiration_date": null,
@@ -7165,6 +7158,7 @@
         "presence_penalty",
         "reasoning",
         "repetition_penalty",
+        "response_format",
         "seed",
         "stop",
         "temperature",
@@ -19978,5 +19972,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-19T19:47:53.288415+00:00"
+  "updated_at": "2026-05-20T02:37:10.113356+00:00"
 }

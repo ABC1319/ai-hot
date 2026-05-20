@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-20 03:48:38
+🕐 **最近更新**：2026-05-20 10:37:59
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,21 +16,21 @@
 
 ## 🔥 今日热点
 
-1. [谷歌借鉴 Meta 的经验，推出新型音频驱动智能眼镜](https://aihot.bt199.com/news/8f59029ef9e0/)
-   - 谷歌将这些新设备称为“音频眼镜”，因为用户将能够向它们发出口头命令，并通过其应用程序和服务生态系统（包括 Gemini）…
+1. [谷歌刚刚在 IO 2026 上宣布自己是人工智能设计领域的竞争者](https://aihot.bt199.com/news/849677abbb40/)
+   - 谷歌表示，该应用程序的设计初衷是让所有人都可以使用，从教师到小企业主
    - `TechCrunch AI · 2026-05-19`
 
-2. [借助 Gemini 3.5 Flash，谷歌将下一波人工智能浪潮押注于代理，而不是聊天机器人](https://aihot.bt199.com/news/333d754287f2/)
-   - 谷歌在公司年度开发者大会上推出了 Gemini 3.5 Flash，这是迄今为止最强大的编码和代理人工智能模型。它能够自…
+2. [您现在可以与 Gmail 收件箱交谈，如 Google IO 2026 中所示](https://aihot.bt199.com/news/df9d01ab5f19/)
+   - 谷歌通过对话式语音搜索扩展了 Gmail 的 AI 收件箱，让用户可以要求 Gemini 查找隐藏的电子邮件详细信息
    - `TechCrunch AI · 2026-05-19`
 
-3. [Gemini 将使用沃尔沃的外部摄像头来解读停车标志](https://aihot.bt199.com/news/536bff690f24/)
-   - 双子座正在获得视力和行动能力。在今天的 I/O 大会上，谷歌和沃尔沃宣布，人工智能助手将能够访问即将推出的 EX60 S…
+3. [谷歌的人工智能未来需要信任以及您的个人数据](https://aihot.bt199.com/news/40602be22bd7/)
+   - 谷歌对其人工智能驱动的未来做出了巨大的承诺——而这在很大程度上取决于您的信任。在 I/O 2026 上，Google 描…
    - `The Verge AI · 2026-05-19`
 
-4. [Google I/O 2026 上的 13 项重大公告](https://aihot.bt199.com/news/4aff86b3999c/)
-   - 谷歌今天的 I/O 2026 主题演讲再次充满了与人工智能相关的公告，包括新的 Gemini 3.5 人工智能模型系列、…
-   - `The Verge AI · 2026-05-19`
+4. [圆桌会议：马斯克诉奥特曼审判内部](https://aihot.bt199.com/news/25e688045343/)
+   - 听听会议或观看下面的视频。埃隆·马斯克 (Elon Musk) 在对 OpenAI 的诉讼中败诉，他在诉讼中声称首席执行…
+   - `MIT Tech Review · 2026-05-19`
 
 5. [了解现代网络犯罪格局](https://aihot.bt199.com/news/6dfb885ed4e2/)
    - 2025 年全年，慧与观察到网络犯罪分子的运作方式发生了重大变化。通过分析现实世界的威胁，我们的 HPE 威胁实验室在其…
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
