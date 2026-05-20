@@ -1403,6 +1403,7 @@
         "frequency_penalty",
         "include_reasoning",
         "logit_bias",
+        "logprobs",
         "max_tokens",
         "min_p",
         "presence_penalty",
@@ -1416,6 +1417,7 @@
         "tool_choice",
         "tools",
         "top_k",
+        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {
@@ -19971,5 +19973,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-20T08:58:37.886354+00:00"
+  "updated_at": "2026-05-20T14:44:05.067789+00:00"
 }

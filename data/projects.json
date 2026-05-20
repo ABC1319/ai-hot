@@ -4893,6 +4893,40 @@
     "collected_at": "2026-04-28T10:16:45.050901"
   },
   {
+    "id": "github-1242408629",
+    "name": "wdnmd1265/ai-flow-architect",
+    "display_name": "ai-flow-architect",
+    "url": "https://github.com/wdnmd1265/ai-flow-architect",
+    "description": "Multi-model AI workflow engine with built-in quality arbitration. Plan → Approve → Execute → Audit pipeline. Dual-brain design: Brain #1 (planner) + Brain #2 (arbiter, different model) stops hallucination leaks cold. Zero-config token saving. ",
+    "stars": 15,
+    "forks": 1,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-workflow",
+      "anthropic",
+      "artificial-intelligence",
+      "async-python",
+      "cost-optimization",
+      "llm",
+      "llm-orchestration",
+      "multi-model",
+      "openai",
+      "prompt-engineering",
+      "python",
+      "token-optimization",
+      "workflow-automation",
+      "workflow-engine"
+    ],
+    "created_at": "2026-05-18T11:58:51Z",
+    "updated_at": "2026-05-20T10:23:47Z",
+    "license": "Apache-2.0",
+    "source": "github-search",
+    "collected_at": "2026-05-20T14:43:15.390707"
+  },
+  {
     "id": "github-1205331153",
     "name": "JohnCrickett/MScArtificialIntelligence",
     "display_name": "MScArtificialIntelligence",
@@ -6174,6 +6208,29 @@
     "license": "MIT",
     "source": "github-search",
     "collected_at": "2026-05-20T08:57:42.940686"
+  },
+  {
+    "id": "github-1243319764",
+    "name": "2aronS/llm-cli",
+    "display_name": "llm-cli",
+    "url": "https://github.com/2aronS/llm-cli",
+    "description": "Command-line interface for querying large language models",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "cli",
+      "command-line",
+      "language-models",
+      "llm",
+      "python"
+    ],
+    "created_at": "2026-05-19T08:30:28Z",
+    "updated_at": "2026-05-20T10:23:52Z",
+    "license": "NOASSERTION",
+    "source": "github-search",
+    "collected_at": "2026-05-20T14:43:15.390730"
   },
   {
     "id": "github-1229012201",

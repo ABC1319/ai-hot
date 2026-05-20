@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-20 16:59:51
+🕐 **最近更新**：2026-05-20 22:45:05
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,27 +16,19 @@
 
 ## 🔥 今日热点
 
-1. [谷歌刚刚在 IO 2026 上宣布自己是人工智能设计领域的竞争者](https://aihot.bt199.com/news/849677abbb40/)
-   - 谷歌表示，该应用程序的设计初衷是让所有人都可以使用，从教师到小企业主
-   - `TechCrunch AI · 2026-05-19`
+1. [人工智能标签系统的成败已到了关键时刻](https://aihot.bt199.com/news/0c6e87a7593a/)
+   - 我们即将了解旨在使深度伪造和人工智能生成的内容易于识别的系统是否真的符合标准。 SynthID 和 C2PA 内容凭证是…
+   - `The Verge AI · 2026-05-20`
 
-2. [您现在可以与 Gmail 收件箱交谈，如 Google IO 2026 中所示](https://aihot.bt199.com/news/df9d01ab5f19/)
-   - 谷歌通过对话式语音搜索扩展了 Gmail 的 AI 收件箱，让用户可以要求 Gemini 查找隐藏的电子邮件详细信息
-   - `TechCrunch AI · 2026-05-19`
+2. [如果谷歌不能让人工智能代理变得有用，也许没有人可以](https://aihot.bt199.com/news/e5dc1c5b7201/)
+   - 多年来，科技公司一直承诺人工智能将为每个人提供一个有能力的个人助理，但提供的东西更像是一个无知的实习生。在过去的六个月里…
+   - `The Verge AI · 2026-05-20`
 
-3. [谷歌的人工智能未来需要信任以及您的个人数据](https://aihot.bt199.com/news/40602be22bd7/)
-   - 谷歌对其人工智能驱动的未来做出了巨大的承诺——而这在很大程度上取决于您的信任。在 I/O 2026 上，Google 描…
-   - `The Verge AI · 2026-05-19`
+3. [波士顿金属公司获得 7500 万美元的生命线来生产关键金属](https://aihot.bt199.com/news/a835a1c19b54/)
+   - 据《麻省理工科技评论》独家报道，初创公司 Boston Metal 已筹集 7500 万美元资金用于生产关键金属。 该公…
+   - `MIT Tech Review · 2026-05-20`
 
-4. [圆桌会议：马斯克诉奥特曼审判内部](https://aihot.bt199.com/news/25e688045343/)
-   - 听听会议或观看下面的视频。埃隆·马斯克 (Elon Musk) 在对 OpenAI 的诉讼中败诉，他在诉讼中声称首席执行…
-   - `MIT Tech Review · 2026-05-19`
-
-5. [了解现代网络犯罪格局](https://aihot.bt199.com/news/6dfb885ed4e2/)
-   - 2025 年全年，慧与观察到网络犯罪分子的运作方式发生了重大变化。通过分析现实世界的威胁，我们的 HPE 威胁实验室在其…
-   - `MIT Tech Review · 2026-05-19`
-
-6. [令人震惊地展示了在公共 GitHub 存储库中发现的愚蠢、秘密的 CISA 凭证](https://aihot.bt199.com/news/ca3eef7aa463/)
+4. [令人震惊地展示了在公共 GitHub 存储库中发现的愚蠢、秘密的 CISA 凭证](https://aihot.bt199.com/news/ca3eef7aa463/)
    - 自 2025 年 11 月以来，SSH 密钥、明文密码和其他敏感数据一直在增加
    - `Ars Technica AI · 2026-05-19`
 
@@ -123,6 +115,8 @@
 ---
 
 MIT License
+
+
 
 
 
