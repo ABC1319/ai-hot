@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-20 22:45:05
+🕐 **最近更新**：2026-05-21 04:07:54
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,19 +16,27 @@
 
 ## 🔥 今日热点
 
-1. [人工智能标签系统的成败已到了关键时刻](https://aihot.bt199.com/news/0c6e87a7593a/)
-   - 我们即将了解旨在使深度伪造和人工智能生成的内容易于识别的系统是否真的符合标准。 SynthID 和 C2PA 内容凭证是…
+1. [IrisGo 是一家由吴恩达 (Andrew Ng) 支持的初创公司，它希望成为您永远不知道自己需要的人工智能桌面伙伴](https://aihot.bt199.com/news/4f3ec8edc1c2/)
+   - Iris 联合创始人表示，最初被宣传为“人工智能管家”，它可以观察用户桌面上发生的情况，并自动学习如何为他们执行任务
+   - `TechCrunch AI · 2026-05-20`
+
+2. [OpenAI 有望在 9 月份进行 IPO](https://aihot.bt199.com/news/8ee8f9a64ecd/)
+   - 埃隆·马斯克 (Elon Musk) 在威胁 OpenAI 结构、领导力和财务的诉讼中败诉一天后，据报道 OpenAI…
+   - `TechCrunch AI · 2026-05-20`
+
+3. [Vibe 编码即将登陆您的手机](https://aihot.bt199.com/news/d79dfbc9e546/)
+   - “有一款应用程序可以满足您的需求”是 App Store 从一开始就做出的承诺。哪个应用程序可以让你的手机做你想做的事情…
    - `The Verge AI · 2026-05-20`
 
-2. [如果谷歌不能让人工智能代理变得有用，也许没有人可以](https://aihot.bt199.com/news/e5dc1c5b7201/)
-   - 多年来，科技公司一直承诺人工智能将为每个人提供一个有能力的个人助理，但提供的东西更像是一个无知的实习生。在过去的六个月里…
+4. [您现在可以使用 AI 重新混合其他人的 YouTube Shorts](https://aihot.bt199.com/news/d07c1834493e/)
+   - 谷歌宣布推出新的 YouTube Shorts Remix 功能，用户可以使用 Gemini Omni 重新调整剪辑的样…
    - `The Verge AI · 2026-05-20`
 
-3. [波士顿金属公司获得 7500 万美元的生命线来生产关键金属](https://aihot.bt199.com/news/a835a1c19b54/)
+5. [波士顿金属公司获得 7500 万美元的生命线来生产关键金属](https://aihot.bt199.com/news/a835a1c19b54/)
    - 据《麻省理工科技评论》独家报道，初创公司 Boston Metal 已筹集 7500 万美元资金用于生产关键金属。 该公…
    - `MIT Tech Review · 2026-05-20`
 
-4. [令人震惊地展示了在公共 GitHub 存储库中发现的愚蠢、秘密的 CISA 凭证](https://aihot.bt199.com/news/ca3eef7aa463/)
+6. [令人震惊地展示了在公共 GitHub 存储库中发现的愚蠢、秘密的 CISA 凭证](https://aihot.bt199.com/news/ca3eef7aa463/)
    - 自 2025 年 11 月以来，SSH 密钥、明文密码和其他敏感数据一直在增加
    - `Ars Technica AI · 2026-05-19`
 
@@ -115,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
