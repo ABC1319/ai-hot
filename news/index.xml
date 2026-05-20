@@ -7,11 +7,12 @@
 &lt;p&gt;AI 创业的风向，正悄然且迅速地改变：
 现在的 OPC 们都不怎么聊“大模型”、“参数”、“BenchMark”这些东西了，反而更关心的是谁能最快把 AI 塞进真实场景里，然后把闭环跑通。&lt;/p&gt;</description></item><item><title>[Relay AI] ChatGPT / Codex API 网关试运营开放：注册 $10 + 回帖 $10 + 加群 $10</title><link>https://aihot.bt199.com/news/v2ex-1213914/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1213914/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;做了一个 AI API 网关 Relay AI ，目前是早期试运营阶段，今天开放注册并发放限时额度。&lt;/p&gt;
-&lt;h2 id="背景-最近想稳定调用-chatgpt--codex-api-做一些个人项目调研了一圈现有的第三方中转后发现几个常见痛点---账号池来源不透明可能掺入-plus-假冒-pro-的账号配额一耗尽就静默降级---历史请求和响应是否留存无从验证---充值与退款机制不透明担心跑路-干脆自己搭了一个慢慢迭代成完整的-api-网关--relay-ai-"&gt;背景 最近想稳定调用 ChatGPT / Codex API 做一些个人项目，调研了一圈现有的第三方中转后发现几个常见痛点： - 账号池来源不透明，可能掺入 Plus 假冒 Pro 的账号，配额一耗尽就静默降级 - 历史请求和响应是否留存无从验证 - 充值与退款机制不透明，担心跑路 干脆自己搭了一个，慢慢迭代成完整的 API 网关 —— Relay AI 。&lt;/h2&gt;
-&lt;h2 id="当前状态---上游账号统一升级到-chatgpt-pro全部自持严格鉴别-plan-类型配额充裕---支持-c"&gt;当前状态 - 上游账号统一升级到 &lt;strong&gt;ChatGPT Pro&lt;/strong&gt;，全部自持，严格鉴别 Plan 类型，配额充裕 - 支持 C&lt;/h2&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.v2ex.com/t/1213914"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[免费蹬 Opus 4.7 ] 回帖送 100 美金 Claude Code API 额度，限时 3 天</title><link>https://aihot.bt199.com/news/v2ex-1213790/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1213790/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;背景
+最近想稳定调用 ChatGPT / Codex API 做一些个人项目，调研了一圈现有的第三方中转后发现几个常见痛点：
+账号池来源不透明，可能掺入 Plus 假冒 Pro 的账号，配额一耗尽就静默降级
+历史请求和响应是否留存无从验证
+充值与退款机制不透明，担心跑路
+干脆自己搭了一个，慢慢迭代成完整的 API 网关 —— Relay AI 。&lt;/p&gt;</description></item><item><title>[免费蹬 Opus 4.7 ] 回帖送 100 美金 Claude Code API 额度，限时 3 天</title><link>https://aihot.bt199.com/news/v2ex-1213790/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1213790/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;感恩回馈 V 友，上次压力测试 GPT 中转 发现了很多问题，多次重构了架构 网站现已支持超 2 千人同时蹬 GPT 自营 AWS Claude 渠道号池已上线 ，感恩回馈 V 站，开放限时活动，帮我们压力测试下 AWS 号池 回帖送 100 美金 Cluade Code 额度，限时 3 天用完 链接： &lt;a href="https://freemodel.dev"&gt;https://freemodel.dev&lt;/a&gt; 评论留下编号约 1 小时候到账&lt;/p&gt;</description></item><item><title>0 元购，听书阅读器 Aurader 征集新功能</title><link>https://aihot.bt199.com/news/v2ex-1213307/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1213307/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;各位佬，大家好！&lt;/p&gt;
 &lt;p&gt;两个多月前，我上线了一款名为 Aurader 的听书应用。&lt;/p&gt;
@@ -406,21 +407,25 @@ or
 follow along with our live blog
 , you can catch up on everything you missed in our roundup below.
 Google launched updated AI models at I/O, starting with Gemini 3.5 Flash, with Gemini 3.5 Pro following next month.&lt;/p&gt;</description></item><item><title>Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026</title><link>https://aihot.bt199.com/news/947ea2dcc241/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/947ea2dcc241/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026。&lt;/p&gt;
-&lt;p&gt;来源：TechCrunch AI。&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/"&gt;TechCrunch AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Google Pics 是一款尝试修复 AI 图像编辑的新应用</title><link>https://aihot.bt199.com/news/05ca026179d4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/05ca026179d4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;At Google IO 2026
+, the company unveiled a new version of its agentic coding app, Google Antigravity 2.0, with an updated desktop app, a CLI tool, and an SDK for custom workflows.&lt;/p&gt;
+&lt;p&gt;The company launched its
+Antigravity tool last year
+as a response to agentic coding software such as Cursor.
+The company said that with the new desktop app, users can orchestrate multiple agents and execute tasks simultaneously.&lt;/p&gt;</description></item><item><title>Google Pics 是一款尝试修复 AI 图像编辑的新应用</title><link>https://aihot.bt199.com/news/05ca026179d4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/05ca026179d4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Google is launching a new AI image generation app to Workspace that it’s calling Pics, and it has a new feature to try and reduce the hassle of iterating on AI images: Instead of having to write an entire prompt just to change one small aspect of an image, you’ll be able to click on what you want to change and leave a note about what you want to see, almost like leaving a comment in a Google Doc.
 Google Pics is a new app that tries to fix AI image editing
 Leave a comment on an image so Pics can fix just that one part.
 Leave a comment on an image so Pics can fix just that one part.
 Pics is powered by a mix of Gemini and Google’s Nano Banana 2 image model.&lt;/p&gt;</description></item><item><title>Google updates its Gemini app to take on ChatGPT and Claude at IO 2026</title><link>https://aihot.bt199.com/news/f8e07eea8773/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/f8e07eea8773/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;Google updates its Gemini app to take on ChatGPT and Claude at IO 2026。&lt;/p&gt;
-&lt;p&gt;来源：TechCrunch AI。&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/"&gt;TechCrunch AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Google 的 AI 现在可让您与 Gmail 收件箱对话</title><link>https://aihot.bt199.com/news/6a3556082c31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6a3556082c31/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;At its annual Google I/O event on Tuesday
+, Google announced that the Gemini app is getting a series of new updates, including a “Daily Brief” feature, a redesigned interface, access to a new AI video model called
+Gemini Omni
+, and new personal AI agent called
+Gemini Spark
+.
+The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot and to make the AI assistant more competitive with apps like ChatGPT and Claude.
+Google describes the new Daily Brief feature as a personalized digest designed to be your first stop each morning.&lt;/p&gt;</description></item><item><title>Google 的 AI 现在可让您与 Gmail 收件箱对话</title><link>https://aihot.bt199.com/news/6a3556082c31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6a3556082c31/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Google isn’t finished infusing AI into your inbox.&lt;/p&gt;
 &lt;p&gt;On Tuesday, the tech giant announced an expansion of its
 “AI Inbox” functionality for Gmail
@@ -485,7 +490,17 @@ iPhone 17 Pro 实付 7999 元（原价 8999 元）
 iPhone 17 Pro Max 实付 8999 元（原价 9999 元） iPhone Air 实付 5499 元（原价 7999 元）
 iPhone 17 实付 5299 元（原价 5999 元）
 iPhone 17 Pro 实付 7999 元（原价 8999 元）
-iPhone 17 Pro Max 实付 8999 元（原价 9999 元） iPhone Air 实付 5499 元（原价 7999 元）&lt;/p&gt;</description></item><item><title>Java近期资讯：GraalVM、Spring AI、JobRunr、GlassFish、Grails、Groovy和Quarkus Agent MCP</title><link>https://aihot.bt199.com/news/0add0cf70295/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0add0cf70295/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+iPhone 17 Pro Max 实付 8999 元（原价 9999 元） iPhone Air 实付 5499 元（原价 7999 元）&lt;/p&gt;</description></item><item><title>IrisGo 是一家由吴恩达 (Andrew Ng) 支持的初创公司，它希望成为您永远不知道自己需要的人工智能桌面伙伴</title><link>https://aihot.bt199.com/news/4f3ec8edc1c2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/4f3ec8edc1c2/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;dl&gt;
+&lt;dt&gt;Industry insiders say the next big thing in AI is&lt;/dt&gt;
+&lt;dt&gt;“proactive” systems&lt;/dt&gt;
+&lt;dd&gt;agents that can anticipate a user’s needs — and fulfill them — before the user even knows what those needs are.
+One startup that’s looking to make headway in this area is IrisGo.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;The company, which closed
+a $2.8 million seed round
+led by Andrew Ng’s AI Fund earlier this year, is building a desktop companion for PCs that can learn about a user’s daily workflows and then automate them with limited to no human prompting.
+Iris was co-founded by Jeffrey Lai, a former Apple engineer who helped to build the Chinese language version of Siri, the company’s automated assistant.&lt;/p&gt;</description></item><item><title>Java近期资讯：GraalVM、Spring AI、JobRunr、GlassFish、Grails、Groovy和Quarkus Agent MCP</title><link>https://aihot.bt199.com/news/0add0cf70295/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0add0cf70295/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;最近 Java 新闻的重点包括，多个面向 JDK27 的 OpenJDK JEP；Spring AI 2.0 发布第六个里程碑版本；Grails 8.0 发布首个里程碑版本；Groovy 6.0 发布首个 Alpha 版本；JobRunr 发布小版本更新；GlassFish、TomEE 和 Tomcat 发布维护版本；GraalVM 启用加速版的发布列车，以及 Quarkus CVE 的修复。&lt;/p&gt;</description></item><item><title>Khosla Ventures 在 Ian Crosby 身上押注了 1000 万美元，他的第一家初创公司 Bench 倒闭了</title><link>https://aihot.bt199.com/news/6cc7aedcf8cc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6cc7aedcf8cc/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Ian Crosby, whose previous startup Bench Accounting famously
 shut down in 2024
@@ -550,10 +565,7 @@ In a matter of weeks, NanoClaw creator Gavriel Cohen (pictured above, left) said
 说明需求，Qoder就能帮你实现
 闻乐 发自 凹非寺
 量子位 | 公众号 QbitAI
-AI Coding的玩法，又变了。&lt;/p&gt;</description></item><item><title>Netflix 推出“模型生命周期图”，扩展企业级机器学习</title><link>https://aihot.bt199.com/news/889b0aa7b168/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/889b0aa7b168/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;Netflix
-概述
-了一种用于管理企业级机器学习系统的、基于图的架构，并阐述了其内部的“模型生命周期图”如何映射数据集、模型、特征、评估、工作流和生产系统之间的关系。&lt;/p&gt;</description></item><item><title>Open source AI is the path forward</title><link>https://aihot.bt199.com/news/hn-41046773/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/hn-41046773/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+AI Coding的玩法，又变了。&lt;/p&gt;</description></item><item><title>Open source AI is the path forward</title><link>https://aihot.bt199.com/news/hn-41046773/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/hn-41046773/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Open source AI is the path forward。&lt;/p&gt;
 &lt;p&gt;来源：Hacker News。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -573,11 +585,13 @@ OpenAI’s Codex is now in the ChatGPT mobile app
 You’ll be able to tell the company’s desktop AI tool what to do from your iOS or Android phone.
 You’ll be able to tell the company’s desktop AI tool what to do from your iOS or Android phone.
 Following the surge in popularity for Anthropic’s Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on “side quests,” shutting down projects like the Sora video-generation tool, and focusing on growing its enterprise business.&lt;/p&gt;</description></item><item><title>OpenAI 联合创始人 Andrej Karpathy 加入 Anthropic 预训练团队</title><link>https://aihot.bt199.com/news/a173121408da/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a173121408da/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;据该公司称，预培训负责大规模培训，为克劳德提供核心知识和能力。&lt;/p&gt;
-&lt;p&gt;这也是构建前沿模型中最昂贵、计算密集型的阶段之一&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/"&gt;TechCrunch AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>OpenAI 联合创始人 Greg Brockman 负责产品战略</title><link>https://aihot.bt199.com/news/85331331526c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/85331331526c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Andrej Karpathy, the AI researcher who co-founded and formerly worked at OpenAI and previously led AI at Tesla, has joined Anthropic.
+“I’ve joined Anthropic,” Karpathy
+posted on X
+Tuesday.&lt;/p&gt;
+&lt;p&gt;“I think the next few years at the frontier of LLMs will be especially formative.&lt;/p&gt;
+&lt;p&gt;I am very excited to join the team here and get back to R&amp;amp;D.”
+Karpathy started this week at Anthropic, where he is working on pre-training under team lead Nick Joseph.&lt;/p&gt;</description></item><item><title>OpenAI 联合创始人 Greg Brockman 负责产品战略</title><link>https://aihot.bt199.com/news/85331331526c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/85331331526c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;OpenAI co-founder and president Greg Brockman is officially taking the reins of the company’s product strategy,
 according to Wired
 .
@@ -596,7 +610,15 @@ OpenAI has partnered with the financial connection service Plaid to manage the a
 OpenAI now wants ChatGPT to access your bank accounts
 After your health records, anything goes.
 After your health records, anything goes.
-“More than 200 million people are already going to ChatGPT every month with finance questions – from budgeting to tips on how to cut back on spending,” OpenAI said in its announcement.&lt;/p&gt;</description></item><item><title>OpenAI不断洗牌高管以赢得人工智能代理之战</title><link>https://aihot.bt199.com/news/17910095770d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/17910095770d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+“More than 200 million people are already going to ChatGPT every month with finance questions – from budgeting to tips on how to cut back on spending,” OpenAI said in its announcement.&lt;/p&gt;</description></item><item><title>OpenAI 有望在 9 月份进行 IPO</title><link>https://aihot.bt199.com/news/8ee8f9a64ecd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8ee8f9a64ecd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;A day after Elon Musk
+lost his lawsuit
+that threatened OpenAI’s structure, leadership, and finances, the AI giant is ready to move forward with its initial public offering, sources told
+the Wall Street Journal
+.
+OpenAI chief executive Sam Altman reportedly hopes that his company will be ready to go public by September.&lt;/p&gt;
+&lt;p&gt;The ChatGPT maker has been working with tech IPO powerhouse bankers Goldman Sachs and Morgan Stanley, and may file IPO paperwork confidentially with regulators within days or weeks, per the WSJ.
+The news of OpenAI’s potential IPO, which by all accounts should be a blockbuster, comes as the world awaits the public disclosure of SpaceX’s IPO filings, which are expected to appear as soon as Wednesday, according to reports.&lt;/p&gt;</description></item><item><title>OpenAI不断洗牌高管以赢得人工智能代理之战</title><link>https://aihot.bt199.com/news/17910095770d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/17910095770d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product.
 OpenAI keeps shuffling its executives in bid to win AI agent battle
 Greg Brockman, who will lead product, wrote in a memo that OpenAI plans to ‘invest in a single agentic platform.’
@@ -684,7 +706,12 @@ fits your card fine
 &lt;p&gt;点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！&lt;/p&gt;</description></item><item><title>Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势</title><link>https://aihot.bt199.com/news/7734ecbd9e52/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7734ecbd9e52/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;2026 年，智能体将在企业级应用中取得哪些实质性突破？&lt;/p&gt;
 &lt;p&gt;点击下载
-《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！&lt;/p&gt;</description></item><item><title>TechCrunch Mobility：汽车领域的人工智能技能军备竞赛即将来临</title><link>https://aihot.bt199.com/news/481cbcf6e999/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/481cbcf6e999/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！&lt;/p&gt;</description></item><item><title>Stability AI发布新音频模型 可创作6分钟歌曲</title><link>https://aihot.bt199.com/news/17cdb3afa6c1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/17cdb3afa6c1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Stability AI, the company behind Stable Diffusion, is releasing a new family of audio models, called Stability Audio 3.0.&lt;/p&gt;
+&lt;p&gt;The top model can generate professional-grade music of more than six minutes long, the company claimed.
+The company is releasing four new models under the Stable Audio 3.0 name: small SFX (459M parameters), small (459M parameters), medium (1.4B parameters), and large (2.7B parameters).&lt;/p&gt;
+&lt;p&gt;The duo of small models is suitable for on-device sound and music generation of up to two minutes.
+Both medium and large models can create full compositions of 6 minutes, 20 seconds long that can maintain musical structure and melodic tone.&lt;/p&gt;</description></item><item><title>TechCrunch Mobility：汽车领域的人工智能技能军备竞赛即将来临</title><link>https://aihot.bt199.com/news/481cbcf6e999/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/481cbcf6e999/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.&lt;/p&gt;
 &lt;p&gt;To get this in your inbox, sign up here for free — just click
 TechCrunch Mobility
@@ -711,7 +738,10 @@ ThinkPad has shipped continuously since October 1992 under two corporate owners 
 量子位
 允中 发自 凹非寺
 量子位 | 公众号 QbitAI
-AI的发展正陷入一场巨大的“灯下黑”。&lt;/p&gt;</description></item><item><title>Wirestock 融资 2300 万美元，为人工智能实验室提供创意多模式数据</title><link>https://aihot.bt199.com/news/701532e0c3d2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/701532e0c3d2/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+AI的发展正陷入一场巨大的“灯下黑”。&lt;/p&gt;</description></item><item><title>Vibe 编码即将登陆您的手机</title><link>https://aihot.bt199.com/news/d79dfbc9e546/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/d79dfbc9e546/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;“There’s an app for that” was the promise of the App Store from the very beginning.&lt;/p&gt;
+&lt;p&gt;The app that will get your phone to do the thing you want it to? It’s just a few taps away.&lt;/p&gt;
+&lt;p&gt;The tagline wasn’t strictly true — I’m still waiting for that one perfect grocery list app.&lt;/p&gt;</description></item><item><title>Wirestock 融资 2300 万美元，为人工智能实验室提供创意多模式数据</title><link>https://aihot.bt199.com/news/701532e0c3d2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/701532e0c3d2/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;In the past few years, creative marketplaces and platforms have realized they are sitting on a data gold mine, and they can either use that data to develop AI models or turn it into a source of revenue by licensing it to other AI labs.
 Wirestock
 , which previously helped photographers distribute and sell their work on stock photography services like Shutterstock, has taken the latter path.
@@ -775,9 +805,7 @@ Cerebras Systems&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://www.qbitai.com/2026/05/418594.html"&gt;量子位原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>北京今日宜休公司增资</title><link>https://aihot.bt199.com/news/e9a847371acf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e9a847371acf/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;36氪获悉，天眼查App显示，近日，北京今日宜休科技有限责任公司发生工商变更，新增深圳弘晖天使创新投资合伙企业（有限合伙）、青岛君礼星浩创业投资合伙企业（有限合伙）等为股东，注册资本由约110.9万人民币增至约120万人民币，同时，部分高管发生变更。&lt;/p&gt;</description></item><item><title>本地优先 AI 推理：高性价比文档处理云架构模式</title><link>https://aihot.bt199.com/news/3b0e51d22251/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3b0e51d22251/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;一种三层混合架构可将 Azure OpenAI 的成本降低 75%，并在 4700 份文档的生产级工作负载中把处理耗时缩短 55%。&lt;/p&gt;
-&lt;p&gt;2026 年云文档处理的默认架构是将每份文档都推送给托管 AI 端点，然后接收返回的结构化数据。&lt;/p&gt;</description></item><item><title>本周对谷歌有什么期待</title><link>https://aihot.bt199.com/news/824e77ca4c6b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/824e77ca4c6b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;36氪获悉，天眼查App显示，近日，北京今日宜休科技有限责任公司发生工商变更，新增深圳弘晖天使创新投资合伙企业（有限合伙）、青岛君礼星浩创业投资合伙企业（有限合伙）等为股东，注册资本由约110.9万人民币增至约120万人民币，同时，部分高管发生变更。&lt;/p&gt;</description></item><item><title>本周对谷歌有什么期待</title><link>https://aihot.bt199.com/news/824e77ca4c6b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/824e77ca4c6b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI.&lt;/p&gt;
 &lt;p&gt;To get stories like this in your inbox first, sign up here.
 When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race.&lt;/p&gt;
@@ -919,7 +947,13 @@ By offering the ability to essentially vibe-code Android apps via web-based tool
 &lt;p&gt;Google has big promises for its AI-powered future — and a lot of it depends on your trust.&lt;/p&gt;
 &lt;p&gt;At I/O 2026, Google described a bunch of new tools that it claims will make your life easier.
 Gemini Spark
-, Google’s always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown of what to expect during your day.&lt;/p&gt;</description></item><item><title>谷歌的新通用购物车希望在整个互联网上跟随你</title><link>https://aihot.bt199.com/news/3d5eb3ad5cd3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3d5eb3ad5cd3/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+, Google’s always-on AI agent, can help organize an upcoming event, while Daily Brief can offer a rundown of what to expect during your day.&lt;/p&gt;</description></item><item><title>谷歌的人工智能正在被操纵。搜索巨头正在悄然反击</title><link>https://aihot.bt199.com/news/b41d6bc595e7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b41d6bc595e7/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Google&amp;rsquo;s AI is being manipulated.&lt;/p&gt;
+&lt;p&gt;The search giant is quietly fighting back
+A BBC investigation revealed a simple way AI chatbots are being made to spit out misinformation to the public.&lt;/p&gt;
+&lt;p&gt;Google and other AI companies are now trying to fix the problem.
+I did something stupid back in February.&lt;/p&gt;
+&lt;p&gt;I heard there was an easy way to poison AI chatbots and make them spread lies on your behalf.&lt;/p&gt;</description></item><item><title>谷歌的新通用购物车希望在整个互联网上跟随你</title><link>https://aihot.bt199.com/news/3d5eb3ad5cd3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3d5eb3ad5cd3/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;At Google I/O on Tuesday
 , Google introduced Universal Cart, its agentic hub for managing shopping in one place.&lt;/p&gt;
 &lt;p&gt;The tech giant also announced updates to its Agent Payments Protocol (AP2) and teased that it would bring the technology to Google products in the coming months, enabling users to authorize agents to make payments on their behalf.
@@ -967,7 +1001,13 @@ Google is calling the new devices “audio glasses,” in that users will be abl
 Image Credits:
 TechCrunch
 The user simply talks to their glasses (the demo shared on Tuesday involved a Googler ordering a coffee online by merely talking to the glasses), and the device, when synced, complies.
-Google has dabbled in smart glasses a number of times over the years.&lt;/p&gt;</description></item><item><title>谷歌搜索正在经历有史以来最大的变化</title><link>https://aihot.bt199.com/news/39e619a0d38b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/39e619a0d38b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Google has dabbled in smart glasses a number of times over the years.&lt;/p&gt;</description></item><item><title>谷歌搜索的人工智能进化包括更多广告</title><link>https://aihot.bt199.com/news/66a2141d8958/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/66a2141d8958/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Google’s AI-powered Search era apparently also extends to its ads.&lt;/p&gt;
+&lt;p&gt;Now, when you look for a product in Search, Google’s Gemini AI model will surface relevant items and generate a “custom explainer” about why you should purchase a specific one.
+Google Search’s AI evolution includes more ads
+Sponsored products will get AI-generated descriptions in Search.
+Sponsored products will get AI-generated descriptions in Search.
+The update comes just one day after Google revealed a new Search box for larger, more conversational queries, along with a focus on AI-generated results.&lt;/p&gt;</description></item><item><title>谷歌搜索正在经历有史以来最大的变化</title><link>https://aihot.bt199.com/news/39e619a0d38b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/39e619a0d38b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Google Search is entering the next phase of its AI evolution.&lt;/p&gt;
 &lt;p&gt;During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated summaries that appear at the top of search results, and AI Mode, Google’s chatbot-like search experience.
 Google Search is getting its biggest changes ever
@@ -1027,8 +1067,7 @@ Gemini Spark is powered by the newly introduced Gemini 3.5 Flash and runs in the
 This is not a concept video.&lt;/p&gt;
 &lt;p&gt;It’s heading to European roads as early as this year.&lt;/p&gt;
 &lt;p&gt;And it’s one early glimpse of where smart glasses are heading.
-Over the past few years, Big Tech has been quietly (and not so quietly) placing its bets.&lt;/p&gt;</description></item><item><title>韩国无水氢氟酸商或将对三星、SK海力士提价， 6至7月或大幅上涨</title><link>https://aihot.bt199.com/news/54d46daaaff3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/54d46daaaff3/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;据报道，业内人士透露，韩国无水氢氟酸生产商，包括Solbrain、ENF Technology、Huseong等将向包括三星电子和SK海力士在内的半导体公司供应电子级氢氟酸，且价格预计将在6月和7月大幅上涨。&lt;/p&gt;</description></item><item><title>杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元</title><link>https://aihot.bt199.com/news/14e4f1b0e8d4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/14e4f1b0e8d4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Over the past few years, Big Tech has been quietly (and not so quietly) placing its bets.&lt;/p&gt;</description></item><item><title>杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元</title><link>https://aihot.bt199.com/news/14e4f1b0e8d4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/14e4f1b0e8d4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;5月14日至16日‌，2026第二届杭州国际人形机器人与机器人技术展览会在杭州举行。&lt;/p&gt;
 &lt;p&gt;本次展会聚焦具身智能人形机器人产业链，汇聚国内外473家行业领军企业、顶尖科研机构参展，是国内规模领先的人形机器人全产业链专业展，人形机器人、核心零部件、脑机接口等前沿科技成果集中亮相。&lt;/p&gt;</description></item><item><title>禾赛成为奔驰L3激光雷达战略合作伙伴，相关产品将于泰国工厂投产</title><link>https://aihot.bt199.com/news/7c14aa1c5455/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7c14aa1c5455/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;36氪获悉，禾赛科技公布了2026年第一季度未经审计的财务数据。&lt;/p&gt;
@@ -1049,10 +1088,7 @@ Over the past few years, Big Tech has been quietly (and not so quietly) placing 
 18:14:54
 来源：
 量子位
-近日，华为云INSPIRE创想者大会官网披露主题演讲议程，将围绕Agentic AI呈现一条完整的技术链路：从底层算力与基础设施，延伸至模型训练与强化学习，再到企业级智能体平台与安全体系，并进一步拓展至行业应用与生态共建，形成贯穿Agentic AI全生命周期的系统化能力体系。&lt;/p&gt;</description></item><item><title>黄仁勋最后一刻登上访华飞机，英伟达中国市场再添变量</title><link>https://aihot.bt199.com/news/383447748be4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/383447748be4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;特朗普访华的随行名单里，直到出发前一天晚上都没有黄仁勋。&lt;/p&gt;
-&lt;p&gt;但反转来的就是这么突然。&lt;/p&gt;
-&lt;p&gt;根据 Bloomberg 最新报道，老黄在最后一刻登上了飞机（Last-minute addition），属于临时加入。&lt;/p&gt;</description></item><item><title>基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响</title><link>https://aihot.bt199.com/news/53a00917d3bc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/53a00917d3bc/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+近日，华为云INSPIRE创想者大会官网披露主题演讲议程，将围绕Agentic AI呈现一条完整的技术链路：从底层算力与基础设施，延伸至模型训练与强化学习，再到企业级智能体平台与安全体系，并进一步拓展至行业应用与生态共建，形成贯穿Agentic AI全生命周期的系统化能力体系。&lt;/p&gt;</description></item><item><title>基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响</title><link>https://aihot.bt199.com/news/53a00917d3bc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/53a00917d3bc/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Brandon Foley
 在 CNCF 博客上发布
 了一项基准测试研究，证实 AI 编码智能体能够发现并修复孤立的漏洞，但它们通常难以理解系统范围内的影响。&lt;/p&gt;
@@ -1218,7 +1254,9 @@ At Google I/O, the company unveiled the latest iteration of its AI commerce tool
 &lt;p&gt;&lt;img src="https://cdn3.ldstatic.com/optimized/4X/6/7/c/67cce585f4090706e7140dc3ccf1505a508639be_2_500x500.jpeg" alt="ChatGPT Image 2026 年 5 月 17 日 11_13_19"&gt;&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.v2ex.com/t/1213268"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>您现在可以与 Gmail 收件箱交谈，如 Google IO 2026 中所示</title><link>https://aihot.bt199.com/news/df9d01ab5f19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/df9d01ab5f19/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://www.v2ex.com/t/1213268"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>您现在可以使用 AI 重新混合其他人的 YouTube Shorts</title><link>https://aihot.bt199.com/news/d07c1834493e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/d07c1834493e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people’s videos using Gemini Omni.&lt;/p&gt;
+&lt;p&gt;Now, at the bottom of a YouTube Short, when you click the remix icon, you’ll see an option to “reimagine” it.&lt;/p&gt;</description></item><item><title>您现在可以与 Gmail 收件箱交谈，如 Google IO 2026 中所示</title><link>https://aihot.bt199.com/news/df9d01ab5f19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/df9d01ab5f19/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Google isn’t finished infusing AI into your inbox.&lt;/p&gt;
 &lt;p&gt;On Tuesday at
 their IO 2026 developer conference
@@ -1240,13 +1278,7 @@ Before, you’d have to type in keywords in the search box (or maybe type in som
 量子位
 智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。&lt;/p&gt;</description></item><item><title>曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报</title><link>https://aihot.bt199.com/news/2776e1e96186/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2776e1e96186/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;引言：时隔 13 年再同框！&lt;/p&gt;
-&lt;p&gt;雷军用小米 17 Pro 与马斯克合影，马斯克 Wink 表情太俏皮；传蜜雪 CEO 朋友圈隔空回复黄仁勋，“大佬同款”销量暴增；兼职也能拿期权？&lt;/p&gt;</description></item><item><title>前阿里Qwen负责人林俊旸再创业，新AI Lab估值136亿元</title><link>https://aihot.bt199.com/news/5a27e4c3f6fc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/5a27e4c3f6fc/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;两个月前，林俊旸在 X 上用一句“bye my beloved qwen”告别千问，让 AI 圈为之震动。&lt;/p&gt;
-&lt;p&gt;震动的原因，不只是他顶着
-“阿里最年轻 P10”
-的头衔，更重要的是，他是把
-Qwen 从阿里内部项目，一路推到全球开源大模型顶流
-的关键人物。&lt;/p&gt;</description></item><item><title>前沿人工智能的获取很快就会受到经济和安全限制</title><link>https://aihot.bt199.com/news/553e5c49ebcd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/553e5c49ebcd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;雷军用小米 17 Pro 与马斯克合影，马斯克 Wink 表情太俏皮；传蜜雪 CEO 朋友圈隔空回复黄仁勋，“大佬同款”销量暴增；兼职也能拿期权？&lt;/p&gt;</description></item><item><title>前沿人工智能的获取很快就会受到经济和安全限制</title><link>https://aihot.bt199.com/news/553e5c49ebcd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/553e5c49ebcd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Cut Off
 Soon, access to frontier AI will be scarce and selective
 There’s a common mantra in the outskirts of AI policy thought: driven by market pressures and overheated capital markets, AI tokens will soon be abundant—and the future belongs to those who can use them best.&lt;/p&gt;
@@ -1277,7 +1309,12 @@ Yesterday during its I/O conference, Google announced that the ability to verify
 &lt;a href="https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>人工智能电台主持人展示了为什么人工智能不能单独信任</title><link>https://aihot.bt199.com/news/7442d3b30e2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7442d3b30e2b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention.&lt;/p&gt;
 &lt;p&gt;Its latest is a quartet of radio stations run by some of the most popular AI models out there.&lt;/p&gt;
-&lt;p&gt;“Thinking Frequencies” is run by Claude, “OpenAIR” by ChatGPT, “Backlink Broadcast” by Google’s Gemini, and “Grok and Roll Radio,” obviously enough, by Grok.&lt;/p&gt;</description></item><item><title>人工智能太贵了</title><link>https://aihot.bt199.com/news/2387fc59c255/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2387fc59c255/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;“Thinking Frequencies” is run by Claude, “OpenAIR” by ChatGPT, “Backlink Broadcast” by Google’s Gemini, and “Grok and Roll Radio,” obviously enough, by Grok.&lt;/p&gt;</description></item><item><title>人工智能搜索初创公司正在蓬勃发展</title><link>https://aihot.bt199.com/news/a8b9af8f050e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a8b9af8f050e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Yesterday’s big news was Google’s plan to
+blow up its traditional Search
+in favor of an AI-powered experience — but Google isn’t the only company planning for the next generation of discoverability.AThis morning,
+Bloomberg has news
+of the Andreessen Horowitz-backed Exa Labs, which has raised $250 million against a $2.2 billion valuation to go after the same market.&lt;/p&gt;</description></item><item><title>人工智能太贵了</title><link>https://aihot.bt199.com/news/2387fc59c255/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2387fc59c255/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;If you liked this piece, you should subscribe to my premium newsletter.&lt;/p&gt;
 &lt;p&gt;It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of
 NVIDIA
@@ -1441,26 +1478,17 @@ The examples that Sony posted on X, while better than those it posted on May 14t
 量子位
 编辑部 整理自 AIGC2026
 量子位 | 公众号 QbitAI
-2026年，AI产业正在进入新一轮高强度算力周期。&lt;/p&gt;</description></item><item><title>淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践</title><link>https://aihot.bt199.com/news/cc7a2908632f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/cc7a2908632f/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践
-量子位的朋友们
-2026-05-14
-18:28:08
-来源：
-量子位
-5月14日，第二届淘天集团业务技术金码奖落下帷幕。&lt;/p&gt;
-&lt;p&gt;本届金码奖共吸引了1000多名技术员工报名参赛、司龄最短的仅3个月，最终有20名参赛者获得金码奖·超级工程师奖；团体AI Maker挑战赛中“达拉然”、“弱水3千”、“买完你的买你的”等脱颖而出，成为冠亚季军。&lt;/p&gt;</description></item><item><title>特朗普：本应要求获得更多英特尔公司的股份</title><link>https://aihot.bt199.com/news/212c46413c7e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/212c46413c7e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+2026年，AI产业正在进入新一轮高强度算力周期。&lt;/p&gt;</description></item><item><title>特朗普：本应要求获得更多英特尔公司的股份</title><link>https://aihot.bt199.com/news/212c46413c7e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/212c46413c7e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;美国总统唐纳德・特朗普在周一出版的杂志采访中表示，他本应代表美国政府要求获得更多英特尔股份。&lt;/p&gt;
-&lt;p&gt;特朗普政府去年持有英特尔10%的股份，并宣布向这家芯片制造商投资约100亿美元，用于在美国境内新建或扩建工厂。&lt;/p&gt;</description></item><item><title>腾讯，把AI塞入一切</title><link>https://aihot.bt199.com/news/acb43e098b15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/acb43e098b15/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;文｜王毓婵
-2026年Q1，腾讯的一切都与AI相关。&lt;/p&gt;
-&lt;p&gt;一季度，腾讯营收1964.6亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。&lt;/p&gt;</description></item><item><title>腾讯要懂得花钱</title><link>https://aihot.bt199.com/news/2a8e9411181e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2a8e9411181e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;作者 | 黄绎达
-编辑 | 张帆
-5月13日，腾讯公布了2026年一季度财报。&lt;/p&gt;
-&lt;p&gt;财报显示，腾讯在2026Q1实现收入1964.58亿元，同比增长9%；同期实现经营利润673.75亿元，同比增长17%；Non-IFRS经营利润录得756.3亿元，同比增长9%。&lt;/p&gt;</description></item><item><title>腾讯云发布大数据Agent工作台DataBuddy</title><link>https://aihot.bt199.com/news/8cfc556a4fb4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8cfc556a4fb4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;特朗普政府去年持有英特尔10%的股份，并宣布向这家芯片制造商投资约100亿美元，用于在美国境内新建或扩建工厂。&lt;/p&gt;</description></item><item><title>腾讯云发布大数据Agent工作台DataBuddy</title><link>https://aihot.bt199.com/news/8cfc556a4fb4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8cfc556a4fb4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;36氪获悉，腾讯云正式发布大数据智能体工作台DataBuddy。&lt;/p&gt;
-&lt;p&gt;这是一款基于WorkBuddy同源Agent底层能力打造的大数据原生智能体工作台，用户通过自然语言对话，即可完成接入→开发→治理→分析全链路数据任务。&lt;/p&gt;</description></item><item><title>外行式 Vibe Coding 正跟专业的Agent 工程走向融合：最吓人的是，我们“摆烂”有正当理由了？</title><link>https://aihot.bt199.com/news/04c50f0deaf8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/04c50f0deaf8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;这是一款基于WorkBuddy同源Agent底层能力打造的大数据原生智能体工作台，用户通过自然语言对话，即可完成接入→开发→治理→分析全链路数据任务。&lt;/p&gt;</description></item><item><title>通过 AI 从 10 万行 Rust 中学习 (2025)</title><link>https://aihot.bt199.com/news/b35c18d48fd9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b35c18d48fd9/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;In the past few months, I’ve been stress-testing how far AI coding agents can take us when building real, production-grade distributed systems.
+The result: a Rust-based multi-Paxos consensus engine that not only implements all the features of Azure’s Replicated State Library (RSL) [
+1
+] — which underpins most major Azure services — but also modernizes it for today’s hardware.
+The entire project took me ~3 months, with 100K lines of Rust code written in ~4 weeks and performance optimization from 23K operations/sec to 300K ops/sec achieved in ~3 weeks.
+Besides unprecedented productivity, I discovered several techniques that were instrumental.&lt;/p&gt;</description></item><item><title>外行式 Vibe Coding 正跟专业的Agent 工程走向融合：最吓人的是，我们“摆烂”有正当理由了？</title><link>https://aihot.bt199.com/news/04c50f0deaf8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/04c50f0deaf8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Vibe Coding，在不少专业开发者看来，几乎不值得认真讨论。&lt;/p&gt;
 &lt;p&gt;不查看代码，不关心实现质量，AI 生成什么就先用什么，能运行即可。&lt;/p&gt;
 &lt;p&gt;它更像一种“许愿式”开发：仅限个人使用也许无妨，一旦进入生产环境、服务于他人，就很难说是负责任的软件开发。&lt;/p&gt;</description></item><item><title>完成“由铁到钢”的生态蜕变 刘军携联想全场景AI终端点亮智能未来</title><link>https://aihot.bt199.com/news/b5e6cc9c213d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b5e6cc9c213d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -1537,11 +1565,7 @@ The baby chicks were shifting and starting to pip—or trying to hatch.&lt;/p&gt
 &lt;p&gt;But not from an egg.&lt;/p&gt;
 &lt;p&gt;Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences.
 The biotech company yesterday claimed it has developed a “fully artificial egg” as part of its effort to resurrect extinct avian species, including birds like the dodo and the giant moa.
-Some scientists think Colossal is overstating the breakthrough.&lt;/p&gt;</description></item><item><title>下载：深度伪造色情片被盗的身体和人工智能共享私人号码</title><link>https://aihot.bt199.com/news/9a693d8973ad/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/9a693d8973ad/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;This is today&amp;rsquo;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;rsquo;s going on in the world of technology.
-The shock of seeing your body used in deepfake porn
-When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program.&lt;/p&gt;
-&lt;p&gt;She wanted to see whether it would pull up the porn videos she’d made more than a decade earlier.&lt;/p&gt;</description></item><item><title>下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标</title><link>https://aihot.bt199.com/news/034c5dfe93ab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/034c5dfe93ab/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Some scientists think Colossal is overstating the breakthrough.&lt;/p&gt;</description></item><item><title>下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标</title><link>https://aihot.bt199.com/news/034c5dfe93ab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/034c5dfe93ab/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;This is today&amp;rsquo;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;rsquo;s going on in the world of technology.
 How Chinese short dramas became AI content machines
 China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scrolling.&lt;/p&gt;
@@ -1647,9 +1671,7 @@ When generative AI first moved from research labs into real-world business appli
 &lt;p&gt;On Monday, the jury in Musk v.&lt;/p&gt;
 &lt;p&gt;Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations.&lt;/p&gt;
 &lt;p&gt;US District Judge Yvonne Gonzalez Rogers immediately accepted it.
-Musk announced on X that he will be appealing the decision.&lt;/p&gt;</description></item><item><title>浙江人形联合施耐德电气首发具身智能化工实验场景解决方案</title><link>https://aihot.bt199.com/news/8ed116b39490/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8ed116b39490/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;36氪获悉，近日，浙江人形机器人创新中心联合施耐德电气，全球首发具身智能化工实验场景解决方案。&lt;/p&gt;
-&lt;p&gt;据了解，该方案以NAVIAI-WA2轮臂式人形机器人为核心，适配施耐德PLC及协作机械臂。&lt;/p&gt;</description></item><item><title>震惊！为了冲日活，居然对新用户干出这种事……（内含 10 刀福利）</title><link>https://aihot.bt199.com/news/v2ex-1213116/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1213116/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Musk announced on X that he will be appealing the decision.&lt;/p&gt;</description></item><item><title>震惊！为了冲日活，居然对新用户干出这种事……（内含 10 刀福利）</title><link>https://aihot.bt199.com/news/v2ex-1213116/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1213116/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;同学弄了个中转站，有 gpt5.4 gpt5.5 这 2 个模型 &lt;a href="https://nbtoken.ai567.asia"&gt;https://nbtoken.ai567.asia&lt;/a&gt; 两种福利方式 1.在本帖回帖，留下你的注册成功的邮箱，马上为你发放订阅 10 刀体验， [前 20 个留言的 V 友] 。&lt;/p&gt;</description></item><item><title>智能无处不在：OpenClaw预示的AI未来</title><link>https://aihot.bt199.com/news/c16330f8e197/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c16330f8e197/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;智能无处不在：OpenClaw预示的AI未来
 量子位的朋友们
@@ -1660,7 +1682,14 @@ Musk announced on X that he will be appealing the decision.&lt;/p&gt;</descripti
 作者：Sascha Segan
 高通技术公司高级公关经理
 要点：
-• 随着 Claude Cowork、Hermes、Perplexity Computer 等“AI coworker”形态不断涌现，OpenClaw 也在持续演进，它的出现标志着AI智能体角色的范式转变，智能开始具备执行能力。&lt;/p&gt;</description></item><item><title>中国500万医生的新AI：顶刊独家联手，卷的就是证据源</title><link>https://aihot.bt199.com/news/ec8304fb7a9c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ec8304fb7a9c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+• 随着 Claude Cowork、Hermes、Perplexity Computer 等“AI coworker”形态不断涌现，OpenClaw 也在持续演进，它的出现标志着AI智能体角色的范式转变，智能开始具备执行能力。&lt;/p&gt;</description></item><item><title>智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速</title><link>https://aihot.bt199.com/news/3b2c075a417e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3b2c075a417e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速
+量子位的朋友们
+2026-05-20
+22:09:25
+来源：
+量子位
+5月19日，北京。&lt;/p&gt;</description></item><item><title>中国500万医生的新AI：顶刊独家联手，卷的就是证据源</title><link>https://aihot.bt199.com/news/ec8304fb7a9c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ec8304fb7a9c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;中国500万医生的新AI：顶刊独家联手，卷的就是证据源
 梦晨
 2026-05-16
@@ -1679,17 +1708,7 @@ Musk announced on X that he will be appealing the decision.&lt;/p&gt;</descripti
 &lt;p&gt;“Give me an heir, or I will eat you.”
 The scene is from Carrying the Dragon King’s Baby, one of the many hundreds of short dramas that appear on apps like DramaWave and ReelShort.&lt;/p&gt;</description></item><item><title>中信证券：AI+能化可能是今年更合适的杠铃结构</title><link>https://aihot.bt199.com/news/9989a229e7e1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/9989a229e7e1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;36氪获悉，中信证券研报表示，AI+能化可能是今年更合适的杠铃结构。&lt;/p&gt;
-&lt;p&gt;今年的AI+能化，或与2023-2024年的AI+红利、2025年的AI+资源类似，有望在全年维度上，成为主要的供需缺口和超额收益来源。&lt;/p&gt;</description></item><item><title>重生之我在AI时代当老板：让一群Agent互相PUA</title><link>https://aihot.bt199.com/news/b022fe9845e1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b022fe9845e1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;重生之我在AI时代当老板：让一群Agent互相PUA
-Jay
-2026-05-14
-19:14:25
-来源：
-量子位
-Jay 发自 凹非寺
-量子位 | 公众号 QbitAI
-终于，不用一直对AI说「继续」了……
-刚刚，MiniMax推出了新Agent。&lt;/p&gt;</description></item><item><title>重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代</title><link>https://aihot.bt199.com/news/dbfe3cfc9f22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/dbfe3cfc9f22/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;今年的AI+能化，或与2023-2024年的AI+红利、2025年的AI+资源类似，有望在全年维度上，成为主要的供需缺口和超额收益来源。&lt;/p&gt;</description></item><item><title>重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代</title><link>https://aihot.bt199.com/news/dbfe3cfc9f22/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/dbfe3cfc9f22/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代
 量子位的朋友们
 2026-05-18
