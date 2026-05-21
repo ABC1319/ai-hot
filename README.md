@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-21 10:39:05
+🕐 **最近更新**：2026-05-21 17:03:33
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,12 +24,12 @@
    - Anthropic 告诉投资者，第二季度的收入将增加一倍多，达到 109 亿美元左右
    - `TechCrunch AI · 2026-05-21`
 
-3. [Vibe 编码即将登陆您的手机](https://aihot.bt199.com/news/d79dfbc9e546/)
-   - “有一款应用程序可以满足您的需求”是 App Store 从一开始就做出的承诺。哪个应用程序可以让你的手机做你想做的事情…
-   - `The Verge AI · 2026-05-20`
+3. [SpaceX IPO 埃隆·马斯克是风险因素](https://aihot.bt199.com/news/11239c245982/)
+   - SpaceX 首次公开募股 (IPO) 即将到来，这不仅仅是一次历史性的公开发行，它可能使埃隆·马斯克 (Elon Mu…
+   - `The Verge AI · 2026-05-21`
 
-4. [您现在可以使用 AI 重新混合其他人的 YouTube Shorts](https://aihot.bt199.com/news/d07c1834493e/)
-   - 谷歌宣布推出新的 YouTube Shorts Remix 功能，用户可以使用 Gemini Omni 重新调整剪辑的样…
+4. [Vibe 编码即将登陆您的手机](https://aihot.bt199.com/news/d79dfbc9e546/)
+   - “有一款应用程序可以满足您的需求”是 App Store 从一开始就做出的承诺。哪个应用程序可以让你的手机做你想做的事情…
    - `The Verge AI · 2026-05-20`
 
 5. [波士顿金属公司获得 7500 万美元的生命线来生产关键金属](https://aihot.bt199.com/news/a835a1c19b54/)
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
