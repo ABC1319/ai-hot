@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-21 22:53:44
+🕐 **最近更新**：2026-05-22 03:48:58
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [Hark 因其神秘的“通用”人工智能界面筹集了 7 亿美元的 A 轮融资](https://aihot.bt199.com/news/65ea913ba782/)
-   - Brett Adcock 的新人工智能初创公司目前被投资者估值为 60 亿美元
+1. [谷歌不再是真正的谷歌了，六个值得尝试的搜索引擎](https://aihot.bt199.com/news/7d8088891c85/)
+   - 谷歌即将看起来非常不同，如果你不喜欢人工智能概述功能，那么你不会喜欢即将到来的东西
    - `TechCrunch AI · 2026-05-21`
 
-2. [The Path 由 Tony Robbins 和 Calm 校友创立，希望提供更安全的人工智能治疗](https://aihot.bt199.com/news/7b8293e95bcb/)
-   - Path 表示，其人工智能模型在心理健康安全人工智能基准 Vera-MH 上得分为 95 分。相比之下，消费者机器人的最…
-   - `TechCrunch AI · 2026-05-21`
-
-3. [Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否](https://aihot.bt199.com/news/e46b93e1759f/)
-   - Anthropic 在伦敦为软件开发人员举办的为期两天的活动 Code with Claude 于 5 月 19 日开幕…
+2. [人工智能时代的创造力扩展](https://aihot.bt199.com/news/13fdcf243334/)
+   - 讲故事是人类 DNA 的核心，源于我们表达理想、警告、希望和经历的冲动。技术始终贯穿于媒介和传播之中：从早期人类对用于洞…
    - `MIT Tech Review · 2026-05-21`
 
-4. [马斯克诉奥特曼：无事生非](https://aihot.bt199.com/news/328bff723868/)
-   - 今天我正在采访莉兹·洛帕托，她在上个月报道了马斯克诉奥特曼案的混乱审判。你会听到她将法院描述为“动物园”，并解释说外面每…
+3. [Endless AI 吉他踏板具有潜力](https://aihot.bt199.com/news/c9e9794d3616/)
+   - 我不确定是否有人真的需要人工智能吉他踏板。但不可避免的是有人会建造一个。最先尝试的公司之一是 Polyend，这是一家备…
    - `The Verge AI · 2026-05-21`
 
-5. [Anthropic 每年支付 150 亿美元用于访问埃隆·马斯克的数据中心](https://aihot.bt199.com/news/58b3c6ce7358/)
-   - 本月早些时候，SpaceX 和 Anthropic 宣布建立新的计算合作伙伴关系，提供对火箭公司位于田纳西州孟菲斯的 C…
+4. [Spotify 正在推出人工智能生成的混音](https://aihot.bt199.com/news/7db89da1a3f3/)
+   - Spotify 和环球音乐集团 (UMG) 刚刚宣布了一项许可协议，该协议将允许用户提示为流媒体歌曲创建人工智能生成的混…
    - `The Verge AI · 2026-05-21`
+
+5. [Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否](https://aihot.bt199.com/news/e46b93e1759f/)
+   - Anthropic 在伦敦为软件开发人员举办的为期两天的活动 Code with Claude 于 5 月 19 日开幕…
+   - `MIT Tech Review · 2026-05-21`
 
 6. [令人震惊地展示了在公共 GitHub 存储库中发现的愚蠢、秘密的 CISA 凭证](https://aihot.bt199.com/news/ca3eef7aa463/)
    - 自 2025 年 11 月以来，SSH 密钥、明文密码和其他敏感数据一直在增加
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
