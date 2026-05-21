@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-21 17:03:33
+🕐 **最近更新**：2026-05-21 22:53:44
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [Jensen Huang 表示他为 Nvidia 找到了一个“全新”的 200B 美元市场](https://aihot.bt199.com/news/f5f013421de1/)
-   - Nvidia 的下一件大事将是用于人工智能代理的 CPU，首席执行官黄仁勋 (Jensen Huang) 预测，价值 2…
+1. [Hark 因其神秘的“通用”人工智能界面筹集了 7 亿美元的 A 轮融资](https://aihot.bt199.com/news/65ea913ba782/)
+   - Brett Adcock 的新人工智能初创公司目前被投资者估值为 60 亿美元
    - `TechCrunch AI · 2026-05-21`
 
-2. [Anthropic 表示即将迎来第一个盈利季度](https://aihot.bt199.com/news/e6eed5941e8d/)
-   - Anthropic 告诉投资者，第二季度的收入将增加一倍多，达到 109 亿美元左右
+2. [The Path 由 Tony Robbins 和 Calm 校友创立，希望提供更安全的人工智能治疗](https://aihot.bt199.com/news/7b8293e95bcb/)
+   - Path 表示，其人工智能模型在心理健康安全人工智能基准 Vera-MH 上得分为 95 分。相比之下，消费者机器人的最…
    - `TechCrunch AI · 2026-05-21`
 
-3. [SpaceX IPO 埃隆·马斯克是风险因素](https://aihot.bt199.com/news/11239c245982/)
-   - SpaceX 首次公开募股 (IPO) 即将到来，这不仅仅是一次历史性的公开发行，它可能使埃隆·马斯克 (Elon Mu…
+3. [Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否](https://aihot.bt199.com/news/e46b93e1759f/)
+   - Anthropic 在伦敦为软件开发人员举办的为期两天的活动 Code with Claude 于 5 月 19 日开幕…
+   - `MIT Tech Review · 2026-05-21`
+
+4. [马斯克诉奥特曼：无事生非](https://aihot.bt199.com/news/328bff723868/)
+   - 今天我正在采访莉兹·洛帕托，她在上个月报道了马斯克诉奥特曼案的混乱审判。你会听到她将法院描述为“动物园”，并解释说外面每…
    - `The Verge AI · 2026-05-21`
 
-4. [Vibe 编码即将登陆您的手机](https://aihot.bt199.com/news/d79dfbc9e546/)
-   - “有一款应用程序可以满足您的需求”是 App Store 从一开始就做出的承诺。哪个应用程序可以让你的手机做你想做的事情…
-   - `The Verge AI · 2026-05-20`
-
-5. [波士顿金属公司获得 7500 万美元的生命线来生产关键金属](https://aihot.bt199.com/news/a835a1c19b54/)
-   - 据《麻省理工科技评论》独家报道，初创公司 Boston Metal 已筹集 7500 万美元资金用于生产关键金属。 该公…
-   - `MIT Tech Review · 2026-05-20`
+5. [Anthropic 每年支付 150 亿美元用于访问埃隆·马斯克的数据中心](https://aihot.bt199.com/news/58b3c6ce7358/)
+   - 本月早些时候，SpaceX 和 Anthropic 宣布建立新的计算合作伙伴关系，提供对火箭公司位于田纳西州孟菲斯的 C…
+   - `The Verge AI · 2026-05-21`
 
 6. [令人震惊地展示了在公共 GitHub 存储库中发现的愚蠢、秘密的 CISA 凭证](https://aihot.bt199.com/news/ca3eef7aa463/)
    - 自 2025 年 11 月以来，SSH 密钥、明文密码和其他敏感数据一直在增加
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
