@@ -5789,12 +5789,13 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000001",
-        "completion": "0.0000003"
+        "prompt": "0.00000009",
+        "completion": "0.0000003",
+        "input_cache_read": "0.00000002"
       },
       "top_provider": {
         "context_length": 262144,
-        "max_completion_tokens": 65536,
+        "max_completion_tokens": 16384,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -20051,5 +20052,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-20T20:07:11.609112+00:00"
+  "updated_at": "2026-05-21T02:38:19.613503+00:00"
 }

@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-21 04:07:54
+🕐 **最近更新**：2026-05-21 10:39:05
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,13 +16,13 @@
 
 ## 🔥 今日热点
 
-1. [IrisGo 是一家由吴恩达 (Andrew Ng) 支持的初创公司，它希望成为您永远不知道自己需要的人工智能桌面伙伴](https://aihot.bt199.com/news/4f3ec8edc1c2/)
-   - Iris 联合创始人表示，最初被宣传为“人工智能管家”，它可以观察用户桌面上发生的情况，并自动学习如何为他们执行任务
-   - `TechCrunch AI · 2026-05-20`
+1. [Jensen Huang 表示他为 Nvidia 找到了一个“全新”的 200B 美元市场](https://aihot.bt199.com/news/f5f013421de1/)
+   - Nvidia 的下一件大事将是用于人工智能代理的 CPU，首席执行官黄仁勋 (Jensen Huang) 预测，价值 2…
+   - `TechCrunch AI · 2026-05-21`
 
-2. [OpenAI 有望在 9 月份进行 IPO](https://aihot.bt199.com/news/8ee8f9a64ecd/)
-   - 埃隆·马斯克 (Elon Musk) 在威胁 OpenAI 结构、领导力和财务的诉讼中败诉一天后，据报道 OpenAI…
-   - `TechCrunch AI · 2026-05-20`
+2. [Anthropic 表示即将迎来第一个盈利季度](https://aihot.bt199.com/news/e6eed5941e8d/)
+   - Anthropic 告诉投资者，第二季度的收入将增加一倍多，达到 109 亿美元左右
+   - `TechCrunch AI · 2026-05-21`
 
 3. [Vibe 编码即将登陆您的手机](https://aihot.bt199.com/news/d79dfbc9e546/)
    - “有一款应用程序可以满足您的需求”是 App Store 从一开始就做出的承诺。哪个应用程序可以让你的手机做你想做的事情…
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
