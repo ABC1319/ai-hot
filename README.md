@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-22 03:48:58
+🕐 **最近更新**：2026-05-22 10:40:38
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -20,20 +20,20 @@
    - 谷歌即将看起来非常不同，如果你不喜欢人工智能概述功能，那么你不会喜欢即将到来的东西
    - `TechCrunch AI · 2026-05-21`
 
-2. [人工智能时代的创造力扩展](https://aihot.bt199.com/news/13fdcf243334/)
-   - 讲故事是人类 DNA 的核心，源于我们表达理想、警告、希望和经历的冲动。技术始终贯穿于媒介和传播之中：从早期人类对用于洞…
+2. [圆桌会议：人工智能能否学会理解世界？](https://aihot.bt199.com/news/bf40a95dd6a6/)
+   - 收听会议或观看以下内容 人工智能公司希望构建能够理解外部世界并克服法学硕士局限性的系统。最近的发展使世界模型成为人工智能…
    - `MIT Tech Review · 2026-05-21`
 
-3. [Endless AI 吉他踏板具有潜力](https://aihot.bt199.com/news/c9e9794d3616/)
-   - 我不确定是否有人真的需要人工智能吉他踏板。但不可避免的是有人会建造一个。最先尝试的公司之一是 Polyend，这是一家备…
+3. [埃隆·马斯克 (Elon Musk) 和萨姆·奥尔特曼 (Sam Altman) 围绕 OpenAI 之争的所有最新动态](https://aihot.bt199.com/news/74cdffe7e5df/)
+   - 萨姆·奥尔特曼 (Sam Altman) 和埃隆·马斯克 (Elon Musk) 正在一场高风险的试验中对峙，这场试验可…
    - `The Verge AI · 2026-05-21`
 
-4. [Spotify 正在推出人工智能生成的混音](https://aihot.bt199.com/news/7db89da1a3f3/)
-   - Spotify 和环球音乐集团 (UMG) 刚刚宣布了一项许可协议，该协议将允许用户提示为流媒体歌曲创建人工智能生成的混…
+4. [在绝望时期，毕业生通过羞辱科技首席执行官找到希望](https://aihot.bt199.com/news/32ece92680df/)
+   - 大学毕业生在毕业典礼上对那些赞扬人工智能的企业高管发出嘘声和质问，而真正对此感到惊讶的人似乎只有高管本身。在一系列病毒视…
    - `The Verge AI · 2026-05-21`
 
-5. [Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否](https://aihot.bt199.com/news/e46b93e1759f/)
-   - Anthropic 在伦敦为软件开发人员举办的为期两天的活动 Code with Claude 于 5 月 19 日开幕…
+5. [人工智能时代的创造力扩展](https://aihot.bt199.com/news/13fdcf243334/)
+   - 讲故事是人类 DNA 的核心，源于我们表达理想、警告、希望和经历的冲动。技术始终贯穿于媒介和传播之中：从早期人类对用于洞…
    - `MIT Tech Review · 2026-05-21`
 
 6. [令人震惊地展示了在公共 GitHub 存储库中发现的愚蠢、秘密的 CISA 凭证](https://aihot.bt199.com/news/ca3eef7aa463/)
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 
