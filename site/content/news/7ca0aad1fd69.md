@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "AMD持续加码中国开发者生态建设"
 summary_zh = ""
 tags = []
-list_page = 14
+list_page = 15
 +++
 
 <!-- AUTO-GENERATED: news page -->
