@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-23 03:33:12
+🕐 **最近更新**：2026-05-23 10:17:05
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,12 +16,12 @@
 
 ## 🔥 今日热点
 
-1. [你不能再用谷歌搜索“忽视”这个词](https://aihot.bt199.com/news/7e9de1698fc8/)
-   - 谷歌搜索的人工智能更新后，“忽视”这个词现在有效地打破了搜索界面
+1. [人工智能被用来复活死去飞行员的声音](https://aihot.bt199.com/news/fd275f985643/)
+   - 人们在驾驶舱记录的频谱图图像上使用人工智能来重建它们，迫使 NTSB 暂时阻止对其记录系统的访问
    - `TechCrunch AI · 2026-05-22`
 
-2. [我们尝试了谷歌的人工智能眼镜，它们就快到了](https://aihot.bt199.com/news/3db5dbae3cb2/)
-   - 谷歌演示了 Android XR 眼镜原型，该眼镜将由 Gemini 驱动的翻译、导航和其他信息直接覆盖到您的视野中
+2. [风险投资家和创始人如何利用膨胀的“ARR”来为人工智能初创公司加冕](https://aihot.bt199.com/news/6c669bd48f01/)
+   - 一些人工智能初创公司在公开谈论进展时正在扩展传统的收入指标。他们的投资者也充分意识到这一点
    - `TechCrunch AI · 2026-05-22`
 
 3. [Elon，别再试图让 Grok 发生了](https://aihot.bt199.com/news/5e435b725c5f/)
@@ -36,9 +36,9 @@
    - GitHub 只是 TeamPCP 的最新受害者，该团伙发起了一系列软件供应链攻击
    - `Ars Technica AI · 2026-05-22`
 
-6. [令人震惊地展示了在公共 GitHub 存储库中发现的愚蠢、秘密的 CISA 凭证](https://aihot.bt199.com/news/ca3eef7aa463/)
-   - 自 2025 年 11 月以来，SSH 密钥、明文密码和其他敏感数据一直在增加
-   - `Ars Technica AI · 2026-05-19`
+6. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
+   - 批评人士指出，美国参议院候选人提起的诉讼缺乏事实支持
+   - `Ars Technica AI · 2026-05-22`
 
 
 ## 🤖 AI 简报
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

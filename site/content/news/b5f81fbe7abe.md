@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "商汤大装置林海谈AIDC"
 summary_zh = ""
 tags = []
-list_page = 17
+list_page = 18
 +++
 
 <!-- AUTO-GENERATED: news page -->
