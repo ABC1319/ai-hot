@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-23 10:17:05
+🕐 **最近更新**：2026-05-23 21:09:47
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,20 +16,20 @@
 
 ## 🔥 今日热点
 
-1. [人工智能被用来复活死去飞行员的声音](https://aihot.bt199.com/news/fd275f985643/)
+1. [埃隆·马斯克（Elon Musk）放弃了（在地球上）太阳能](https://aihot.bt199.com/news/049609b07c31/)
+   - Elon Muks 的 xAI 全力投入天然气，而 SpaceX 则痴迷于轨道数据中心。他承诺的“太阳能电力经济”怎么了…
+   - `TechCrunch AI · 2026-05-23`
+
+2. [人工智能被用来复活死去飞行员的声音](https://aihot.bt199.com/news/fd275f985643/)
    - 人们在驾驶舱记录的频谱图图像上使用人工智能来重建它们，迫使 NTSB 暂时阻止对其记录系统的访问
    - `TechCrunch AI · 2026-05-22`
 
-2. [风险投资家和创始人如何利用膨胀的“ARR”来为人工智能初创公司加冕](https://aihot.bt199.com/news/6c669bd48f01/)
-   - 一些人工智能初创公司在公开谈论进展时正在扩展传统的收入指标。他们的投资者也充分意识到这一点
-   - `TechCrunch AI · 2026-05-22`
+3. [谷歌新的万物互联人工智能模型非常疯狂](https://aihot.bt199.com/news/b01ec93d479b/)
+   - 去年，我深度伪造了我孩子的毛绒动物，让它看起来像是他的毛绒鹿在度假。这是一个实验，看看我是否可以重现谷歌正在运行的双子座…
+   - `The Verge AI · 2026-05-23`
 
-3. [Elon，别再试图让 Grok 发生了](https://aihot.bt199.com/news/5e435b725c5f/)
+4. [Elon，别再试图让 Grok 发生了](https://aihot.bt199.com/news/5e435b725c5f/)
    - 关于埃隆·马斯克（Elon Musk）的“求真”人工智能聊天机器人 Grok，有一个残酷的事实：它不是很好，而且没有多少…
-   - `The Verge AI · 2026-05-22`
-
-4. [谷歌的人工智能搜索太糟糕了，它可以“忽略”你正在寻找的内容](https://aihot.bt199.com/news/955ca9a5f55f/)
-   - 谷歌的人工智能概述现在遇到了一个有趣的问题。截至撰写本文时，如果您搜索术语“忽略”，则“AI 概述”部分不会显示通常由…
    - `The Verge AI · 2026-05-22`
 
 5. [黑客组织正在以前所未有的规模毒害开源代码](https://aihot.bt199.com/news/682b115b447c/)
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

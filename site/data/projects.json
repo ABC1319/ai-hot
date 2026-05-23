@@ -3511,6 +3511,38 @@
     "collected_at": "2026-04-20T18:54:55.937618"
   },
   {
+    "id": "github-1125856365",
+    "name": "can1357/oh-my-pi",
+    "display_name": "oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "stars": 6607,
+    "forks": 535,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "anthropic",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "llm",
+      "mcp",
+      "multi-provider",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "typescript"
+    ],
+    "created_at": "2025-12-31T14:01:28Z",
+    "updated_at": "2026-05-23T13:05:25Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-23T13:07:59.498390"
+  },
+  {
     "id": "github-900577388",
     "name": "crestalnetwork/intentkit",
     "display_name": "intentkit",
