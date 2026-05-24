@@ -1,5 +1,59 @@
 [
   {
+    "id": "9c8e2a8fc51f",
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-24T16:31:29",
+    "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares Comments URL: https://news.ycombinator.com/item?id=48258684 Points: 132 # Comments: 133",
+    "collected_at": "2026-05-24T19:07:23.632119",
+    "content_text": "Epoch's work is free to use, distribute, and reproduce provided the source and authors are credited under the Creative Commons BY license.\nLearn more about this graph\nFor each AI chip designed by Nvidia, AMD, Google, and Amazon, we estimate the per-chip cost of four component categories: memory (HBM), logic dies, advanced packaging (CoWoS), and auxiliary components. We then multiply those per-chip costs by estimated quarterly production volumes to get total component spending in each category, and compute each categoryâs share of total component spending per quarter from Q1 2024 to Q4 2025.\nWe find that memoryâs share rose from 52% to 63% over this period, while packaging fell from 19% to 15% and auxiliary components from 15% to 9%. Logic die share stayed roughly constant near 13â14%. Total component spend on AI chips grew from approximately $22 billion in 2024 to $52 billion in 2025, with HBM spending alone accounting for roughly $20 billion of that increase.",
+    "content_source": "trafilatura",
+    "content_chars": 974,
+    "content_excerpt": "Epoch's work is free to use, distribute, and reproduce provided the source and authors are credited under the Creative Commons BY license.\nLearn more about this graph\nFor each AI chip designed by Nvidia, AMD, Google, and Amazon, we estimate the per-chip cost of four component categories: memory (HBM), logic dies, advanced packaging (CoWoS), and auxiliary components. We then multiply those per-chip costs by estimated quarterly production volumes to get total component spending in each category, and compute each categoryâs share of total component spending per quarter from Q1 2024 to Q4 2025.\nWe find that memoryâs share rose from 52% to 63% over this period, while packaging fell from 19% to 15% and auxiliary components from 15% to 9%. Logic die share stayed roughly constant near 13â14%. Total component spend on AI chips grew from approximately $22 billion in 2024 to $52 billion in 2025, with HBM spending alone accounting for roughly $20 billion of that increase.",
+    "title_zh": "内存已占 AI 芯片组件成本的近三分之二",
+    "summary_zh": "文章网址：https://epoch.ai/data-insights/ai-chip-component-cost-shares 评论网址：https://news.ycombinator.com/item?id=48258684 积分…",
+    "ai_summary": "文章网址：https://epoch.ai/data-insights/ai-chip-component-cost-s…"
+  },
+  {
+    "id": "8907bc013160",
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-24T15:00:00",
+    "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+    "collected_at": "2026-05-24T19:07:22.283270",
+    "content_text": "I recently had the opportunity to test out a wearable from\nBee\n, the AI wrist gadget that Amazon\nacquired\nlast year and has since\nupdated\nwith a number of new features.\nLike other AI wearables, Bee is designed as a kind personal assistant: it records, transcribes, and summarizes the user’s conversations throughout the day, providing an ongoing note-taking capability that’s useful if you’re forgetful or just want to be more organized about your life. If you sync it with your calendar, it can also send you alerts and reminders about things you’re supposed to do throughout the day.\nTechCrunch has\nwritten about Bee\nbefore, and the way it works is pretty simple: the user powers it up, puts it on, syncs it with the Bee mobile app, and enters some basic personal information. Bee has a built-in recorder that can be turned on and off by clicking the wearable’s button. When Bee is recording, a green light flashes. When it’s not, that green light goes off. After a conversation has been recorded, the app will create an automated summary that is easy to read, as well as an entire transcription of the conversation.\nYour mileage may vary on how exciting (or not) this whole conceit is. The problem for me is that I am something of a privacy enthusiast. In a world where the average person is beset from all sides by constant digital surveillance, I appreciate any opportunity I can get to not be recorded. Therefore, the idea of walking around with an eavesdropping gizmo strapped to my wrist 24/7 was not particularly appealing.\nYet, even I have to admit that — in the right context — Bee could have a lot of potential to help organize your life.\nBee really comes through in the context of professional engagements. If your day is full of meetings and you have trouble keeping it all straight, Bee could be a moderately competent assistant.\nDuring a business-related phone call this week, I activated Bee after getting confirmation that I could record our meeting. Afterward, the app faithfully regurgitated a summary of the conversation, helpfully breaking down each segment of our talk so that I could review it later without having to re-listen to our entire conversation. This was undeniably helpful, although it should be noted that this isn’t something that’s markedly different than those offered by other transcription services,\nlike Otter\nor\nGranola\nand others, which also offer transcriptions and auto-generated summaries.\nThat said, you could envision a situation in which a professional who has to navigate between various meetings throughout the day would be well-served by this device. You could just keep Bee running throughout the day and, later, review the conversation summaries for anything you’re not clear about.\nImage Credits:\nTechCrunch\nBee does a relatively good job at summarizing conversations, but the actual transcripts offered by the wearable can be a bit of a mess. Previous critics have noted that you usually have to manually enter the names of other speakers, as Bee doesn’t always know who is talking. During my conversation, I noticed that it had also omitted certain sections of our chat — nothing huge, but it wasn’t a complete account of everything that had been said.\nI also took Bee to my semi-weekly movie night with my friends and left it running throughout the night. Given the fact that we watched\nReservoir Dogs\n, I was mildly afraid that the wearable would mistake all of the vulgar carnage for real-life bloodshed and potentially trigger some sort of internal alarm. However, Bee knew — basically — what was happening. The wearable figured out that we were watching a movie and, in the summary of events afterward, the wearable labeled the conversation “Tarantino Film Scene Analysis.”\nWhile Bee shows early promise as a professional tool, I would not want this thing recording me in my personal life. Weirdly enough, Bee has largely been marketed as a product for personal use. To be comfortable with that, you have to be comfortable with Bee having access to a majority of both your offline and digital life.\nIndeed, to work well, Bee needs expansive mobile permissions — including access to your location, photos, phone contacts, calendar, and mobile notifications. You can also share your health data with it — should you, for whatever reason, want it to know about your sleep patterns or your resting heart rate.\nThe large accumulation of data Bee collects is stored in the cloud, which — again, for the digital privacy enthusiast — presents its own concerns. In a message to tech YouTuber Becca Farsace, Bee apparently\nunveiled a demo\nof the device running entirely locally. Were the company able to produce such a device, I would be thoroughly impressed — and might even consider buying one. That said, Amazon hasn’t offered any update on those plans.\nAs for Bee’s\ndigital privacy protections\n, the company says that it offers encryption to protect user data — both at rest and in-transit. In its privacy policy, the company states that it has “implemented technical and organizational security measures designed to protect the security of any personal information” that the company processes. Bee also claims that it undergoes “rigorous third-party security audits” and employs continuous security monitoring. That all sounds quite good, although it’s worth noting that Amazon — like many large tech companies — has been subject to the occasional\ndata security issue or two\n(not exactly surprising for a company that governs as much of the global cloud environment as it does, but still).\nIn short, Bee is a curious piece of hardware that, given some time and some tweaking, could have some promising professional applications further down the road. As a digital assistant for your personal life, however, it might prove to be a little too invasive for some users.",
+    "content_source": "readability",
+    "content_chars": 5823,
+    "content_excerpt": "I recently had the opportunity to test out a wearable from\nBee\n, the AI wrist gadget that Amazon\nacquired\nlast year and has since\nupdated\nwith a number of new features.\nLike other AI wearables, Bee is designed as a kind personal assistant: it records, transcribes, and summarizes the user’s conversations throughout the day, providing an ongoing note-taking capability that’s useful if you’re forgetful or just want to be more organized about your life. If you sync it with your calendar, it can also send you alerts and reminders about things you’re supposed to do throughout the day.\nTechCrunch has\nwritten about Bee",
+    "title_zh": "我尝试了亚马逊的 Bee 可穿戴设备，既好奇又有点害怕",
+    "summary_zh": "与其他人工智能可穿戴设备一样，亚马逊的 Bee 提供了便利性和隐私焦虑的奇怪组合",
+    "ai_summary": "与其他人工智能可穿戴设备一样，亚马逊的 Bee 提供了便利性和隐私焦虑的奇怪组合"
+  },
+  {
+    "id": "8a78ea72de71",
+    "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+    "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-24T15:21:28",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand Comments URL: https://news.ycombinator.com/item?id=48257980 Points: 115 # Comments: 85",
+    "collected_at": "2026-05-24T19:07:23.632156",
+    "content_text": "UK companies are performing “yoga-level” stretches to describe themselves as AI specialists in an attempt to capitalise on the buzz around the technology, public relations firms have said.\nWeary communications executives tasked with securing media coverage for brands have complained that bosses in low-tech industries or running businesses that use automation but not generative AI, are increasingly demanding they are pitched to journalists as artificial intelligence companies.\n“You can almost hear the eyes roll when you mention the word AI to a reporter,” said a publicist in south London who represents a portfolio of tech and design firms. “I’ve watched a steady stream of companies try to bolt the label AI on to whatever they do, no matter how tenuous the link.”\nImran Ariff, a media strategist for Fight or Flight, a London-based communications agency, said: “It can be easy for brands to ‘drink their own Kool-Aid’ when they’re so proud of what they’re doing and consequently, go too far in their efforts to promote their AI capabilities.”\nLast month, the US shoe company AllBirds “pivoted” to to\nacquiring AI graphics processing units\n, while genetics companies have hyped AI-powered blood tests. In inboxes this month, there have been press releases about AI-powered basketball hoops, and AI-powered lasers that – somehow – protect women from predators on crowded underground platforms.\nSome companies have been accused of “AI washing”, trying to rebrand familiar, often years-old, technologies as “AI”.\nThe shoe company AllBirds was said to have ‘pivoted’ to acquiring AI graphics processing units last month.\nPhotograph: Bloomberg/Getty\nTechnology PRs – whose job it is to send tens, or hundreds, of pitches to journalists each week, the vast majority of which get ignored – have complained about being forced to send out AI-related press releases under duress despite their industries’ image for unscrupulously hyping up products.\n“A lot of companies are trying to name every single product with ‘AI’ first, or trying to get ‘AI’ into an actual product name,” said an account director at another firm, based in central London.\n“People are littering marketing with how AI is making a difference. It’s an ‘AI-driven’ or ‘AI-powered’ product when in reality, it’s just better automation than we’ve seen before.”\nAs an example, he described a property company trying to market a tool that would scan a building and generate its floor plan as AI.\n“It’s just a handheld scanner. There’s probably elements of AI in it that sort of speed the process up … but it’s actually just automation,” he said. “It’s not the kind of AI that many of us assume it to be.”\nHe added: “Everyone’s kind of become a bit numb to the AI-powered, AI-driven language. It depends company by company, but I would say about 50% of the stories I send out, I don’t want to send out.”\nCommunications workers also said that bosses were asked to be presented as commentators on the technology to appear relevant.\n“I have seen some Bikram yoga-level stretches by brands in service of trying to manufacture reasons to talk about AI,” said a PR working for a global agency with offices in New York and London.\n“It’s something we often have to counsel against, like ‘no journalist is going to include our comment about the government’s sovereign AI fund just because we released a chatbot.’”\nLarge companies around the world are assessing how closely they want to align their image with AI as they make thousands of job cuts and implement the technology. Last week, the chief executive of Standard Chartered\napologised\nafter describing workers poised to lose their jobs to AI as\n“lower-value human capital”\n.\nStock market investors have\nlargely shrugged off recent jitters over the AI boom\n, as well as rising inflation and the war in Iran.",
+    "content_source": "readability",
+    "content_chars": 3814,
+    "content_excerpt": "UK companies are performing “yoga-level” stretches to describe themselves as AI specialists in an attempt to capitalise on the buzz around the technology, public relations firms have said.\nWeary communications executives tasked with securing media coverage for brands have complained that bosses in low-tech industries or running businesses that use automation but not generative AI, are increasingly demanding they are pitched to journalists as artificial intelligence companies.\n“You can almost hear the eyes roll when you mention the word AI to a reporter,” said a publicist in south London who represents a portfolio of tech and design firms. “I’ve watched a steady stream of companies try to bolt the label AI on to whatever they do, no matter how tenuous the link.”\nImran Ariff, a media strategist for Fight or Flight, a London-based communications agency, said: “It can be easy for brands to ‘drink their own Kool-Aid’ when they’re so proud of what they’re doing and consequently, go too far in their efforts to promote their AI capabilities.”\nLast month, the US shoe company AllBirds “pivoted” to to\nacquiring AI graphics processing units\n, while genetics companies have hyped AI-powered blood tests. In inboxes this month, there have been press releases about AI-powered basketball hoops, and AI-powered lasers that – somehow – protect women from predators on crowded underground platforms.\nSome companies have been accused of “AI washing”, trying to rebrand familiar, often years-old, technologies as “AI”.\nThe shoe company AllBirds was said to have ‘pivoted’ to acquiring AI graphics processing units last month.\nPhotograph: Bloomberg/Getty",
+    "title_zh": "“人工智能清洗”：企业正争先恐后地将自己重塑为以技术为中心的公司",
+    "summary_zh": "文章网址：https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand 评论网址：https://news.ycombin…",
+    "ai_summary": "文章网址：https://www.theguardian.com/technology/2026/may/24/ai-w…"
+  },
+  {
     "id": "a51bc6b64f11",
     "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
     "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
@@ -18,6 +72,21 @@
     "ai_summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能恶作剧的更多信息，请关注 R…"
   },
   {
+    "id": "040cf1bd1e8e",
+    "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-24T14:09:33",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model Comments URL: https://news.ycombinator.com/item?id=48257410 Points: 127 # Comments: 123",
+    "collected_at": "2026-05-24T19:07:23.632188",
+    "extract_error": "403 Client Error: Forbidden for url: https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "title_zh": "DeepSeek 旗舰 AI 模型永久享受 75% 折扣",
+    "summary_zh": "文章网址：https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model 评论网址…",
+    "ai_summary": "文章网址：https://www.bloomberg.com/news/articles/2026-05-23/deep…"
+  },
+  {
     "id": "394ac6bd628c",
     "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
     "url": "https://www.qbitai.com/2026/05/423421.html",
@@ -31,6 +100,20 @@
     "content_source": "readability",
     "content_chars": 9530,
     "content_excerpt": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛\n梦瑶\n2026-05-24\n18:50:44\n来源：\n量子位\n编辑部 整理自 AIGC2026\n量子位 | 公众号 QbitAI\n现在，讨论AI产业，绕不开的最热关键词就是\nAgent"
+  },
+  {
+    "id": "1d1c383a9abd",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-24T13:02:06",
+    "summary": "Article URL: https://esengine.github.io/DeepSeek-Reasonix/ Comments URL: https://news.ycombinator.com/item?id=48256953 Points: 229 # Comments: 126",
+    "collected_at": "2026-05-24T19:07:23.632222",
+    "title_zh": "DeepSeek Reasonix，高缓存、低成本的 DeepSeek 原生编码代理",
+    "summary_zh": "文章网址：https://esengine.github.io/DeepSeek-Reasonix/ 评论网址：https://news.ycombinator.com/item?id=48256953 积分：229 # 评论：126",
+    "ai_summary": "文章网址：https://esengine.github.io/DeepSeek-Reasonix/ 评论网址：http…"
   },
   {
     "id": "1f8fbf027cb5",
@@ -4583,19 +4666,15 @@
     "content_excerpt": "文｜王欣逸\n编辑｜邱晓芬\n一句话介绍\n鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。\n融资进展\n近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。\n本轮融资将用于团队增长、产品的量产交付、专家技能的研发以及数采运营相关工作。\n星海图表示：“具身智能的下半场，拼的是‘数据效率×模型泛化×末端执行’的系统能力。鲸跃动力锚定数据主线，专注在真实场景实现快速交付迭代，与我们追求物理世界数据闭环的理念高度一致。团队兼具数据、模型与交付的稀缺基因，这种团队组合在行业里并不多见，因此我们看好它从高质量数据出发走向全球领先的具身智能应用先锋。”\n产品及业务\n鲸跃动力瞄准To B市场，围绕数据，专注在真实场景实现快速交付迭代，提供了「数据+模型+末端执行器」的软硬件一体化解决方案。"
   },
   {
-    "id": "05d7d19cda9d",
-    "title": "The American Rebellion Against AI Is Gaining Steam",
-    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
-    "source": "Hacker News AI",
+    "id": "hn-48153379",
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "source": "Hacker News",
     "lang": "en",
-    "priority": 2,
-    "published": "2026-05-19T01:51:48",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 114 # Comments: 113",
-    "collected_at": "2026-05-19T14:43:18.906518",
-    "extract_error": "401 Client Error: HTTP Forbidden for url: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
-    "title_zh": "美国对人工智能的反抗正在升温",
-    "summary_zh": "文章网址：https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 评论网址：https://news.ycombinat…",
-    "ai_summary": "文章网址：https://www.wsj.com/tech/ai/the-american-rebellion-agai…"
+    "published": "2026-05-15T20:26:47Z",
+    "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
+    "points": 2102,
+    "collected_at": "2026-05-24T19:07:26.758276"
   },
   {
     "id": "95d121610237",
@@ -4609,117 +4688,6 @@
     "collected_at": "2026-05-19T02:35:45.195542"
   },
   {
-    "id": "9b154231c9e4",
-    "title": "Here’s why Elon Musk lost his suit against OpenAI",
-    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-19T00:53:10",
-    "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
-    "collected_at": "2026-05-19T02:35:42.463019",
-    "content_text": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.\nMusk announced on X that he will be appealing the decision. “The judge & jury never actually ruled on the merits of the case, just on a calendar technicality,” he wrote.\nOpenAI was cofounded by Musk and a group of researchers in 2015 as a nonprofit with a mission to develop AI for the benefit of humanity, unconstrained by a need to generate financial returns. Musk donated $38 million to the company during its early days, allegedly on the basis that OpenAI CEO Sam Altman and president Greg Brockman had promised to keep the company a nonprofit committed to the mission.\nMusk brought two claims against OpenAI. First, he argued that Altman and Brockman breached the charitable trust he created through his donations by breaking their promise to keep the company a nonprofit and creating a for-profit subsidiary that ballooned over the years. Second, he argued that Altman and Brockman unjustly enriched themselves at Musk’s expense. He sued OpenAI in 2024.\nMusk asked the court to unwind a 2025 restructuring that converted OpenAI’s for-profit subsidiary into a public benefit corporation and to remove Altman and Brockman from their roles.\nOpenAI argued that the time for Musk to sue the company had run out before he brought the case. The statute of limitations on the breach of charitable trust claim is three years, while the statute of limitations on the unjust enrichment claim is two years. This means that Musk should have discovered, or had reason to discover, Altman and Brockman’s alleged breach of charitable trust no earlier than 2021 and their alleged unjust enrichment no earlier than 2022.\nWhile Musk argued he discovered that Altman and Brockman had broken their promise only in 2022, OpenAI claimed that Musk had reason to think this well before 2021.\nMusk told the jury that he has gone through “three phases” in his beliefs about OpenAI: In phase one, he was “enthusiastically supportive” of the company. In phase two, “I started to lose confidence that they were telling me the truth,” he said. In phase three, “I’m sure they’re looting the nonprofit.”\nHere’s a deeper dive into a timeline of the events as testified in the trial. You can read my dispatches from all three weeks of the trial here and here and here.\n2017: Musk proposes creating a for-profit subsidiary\nIn 2017, two years after OpenAI was founded, Musk and the other cofounders tried to create a for-profit subsidiary to raise enough capital to build artificial general intelligence—powerful AI that can compete with humans on most cognitive tasks. They fought a bitter power battle over who would get to control the entity. Musk also proposed merging OpenAI with his electric-car company, Tesla.\nDuring the trial, OpenAI’s lawyers pressed Musk on these discussions, suggesting that Musk knew in 2017 about Altman and Brockman’s plans to pivot the company—even participating in such plans—and had reason to sue then.\n“I was not opposed to there being a small for-profit that provides funding to the nonprofit,” Musk told the jury, “as long as the tail didn’t wag the dog.”\n2019: OpenAI creates a for-profit subsidiary with capped profits\nIn 2019, OpenAI created a for-profit subsidiary, under which employees and investors would receive a capped return on their investment. At the same time, the company secured a $1 billion investment from Microsoft. OpenAI argued that Musk again had reason to sue the company then.\nBut Musk testified that he didn’t think the move was violating the nonprofit’s mission. “If you’ve got a capped-profit situation, it hasn’t violated the nonprofit’s goal,” Musk told the jury earlier in the trial. “There was no basis for me to file a lawsuit at that time.”\n2020: Microsoft snags an exclusive license\nIn 2020, when Microsoft secured an exclusive license to OpenAI’s GPT-3 model, Musk posted on X: “This does seem like the opposite of open. OpenAI is essentially captured by Microsoft.” OpenAI once again argued that Musk had reason to sue then.\nBut Musk testified that after reading the post, Altman reassured him that “OpenAI was staying on the mission as a nonprofit.” Musk said although he was skeptical, he still had no reason to sue the company at that point.\n2022: Microsoft prepares to invest $10 billion in OpenAI\nIt was only in 2022, Musk testified, that he discovered OpenAI had abandoned its nonprofit mission. At that time, Microsoft was preparing to invest $10 billion in OpenAI—a deal that closed in 2023.\n“I was disturbed to see OpenAI with a $20B valuation,” Musk texted Altman after reading the news. “This is a bait and switch.”\nMusk told the jury this was the moment that made him realize “the for-profit is the tail wagging the dog.” He thought Microsoft would give $10 billion only if it expected “a very big financial return.” He argued that this was the point he realized “OpenAI had become, for all intents and purposes, a for-profit company with a $20 billion valuation.”\n“The 2023 deal was different,” Steven Molo, one of Musk’s lawyers, hammered home during his closing argument.\nThe jury sides with OpenAI\nIt was up to the jury to decide whether the evidence supported Musk’s claim that he first realized in 2023 that OpenAI was no longer a nonprofit committed to its mission. In the verdict announced today, they found Musk did in fact have reason to think that he was being misled by Altman and Brockman before 2021. They did not address whether he was in fact misled.\nCourts often decide cases on procedural grounds like statutes of limitations when they can, because it can be the cleaner way to resolve a case than to grapple with its merits.\nMusk has said he will appeal the decision to the Ninth Circuit Court of Appeals, a federal appellate court that reviews decisions from district courts in California and other states.\nDeep Dive\nArtificial intelligence\nOpenAI is throwing everything into building a fully automated researcher\nAn exclusive conversation with OpenAI’s chief scientist, Jakub Pachocki, about his firm's new grand challenge and the future of AI.\nWant to understand the current state of AI? Check out these charts.\nAccording to Stanford’s 2026 AI Index, AI is sprinting, and we’re struggling to keep up.\n10 Things That Matter in AI Right Now\nMIT Technology Review's authoritative overview of the 10 technologies, emerging trends, bold ideas, and powerful movements in AI in 2026.\nMusk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models\nMusk kept his cool, and OpenAI’s lawyer bulldozed him with piercing questions about his motivations for suing the company.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
-    "content_source": "trafilatura",
-    "content_chars": 7018,
-    "content_excerpt": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.\nMusk announced on X that he will be appealing the decision. “The judge & jury never actually ruled on the merits of the case, just on a calendar technicality,” he wrote.\nOpenAI was cofounded by Musk and a group of researchers in 2015 as a nonprofit with a mission to develop AI for the benefit of humanity, unconstrained by a need to generate financial returns. Musk donated $38 million to the company during its early days, allegedly on the basis that OpenAI CEO Sam Altman and president Greg Brockman had promised to keep the company a nonprofit committed to the mission.\nMusk brought two claims against OpenAI. First, he argued that Altman and Brockman breached the charitable trust he created through his donations by breaking their promise to keep the company a nonprofit and creating a for-profit subsidiary that ballooned over the years. Second, he argued that Altman and Brockman unjustly enriched themselves at Musk’s expense. He sued OpenAI in 2024.\nMusk asked the court to unwind a 2025 restructuring that converted OpenAI’s for-profit subsidiary into a public benefit corporation and to remove Altman and Brockman from their roles.\nOpenAI argued that the time for Musk to sue the company had run out before he brought the case. The statute of limitations on the breach of charitable trust claim is three years, while the statute of limitations on the unjust enrichment claim is two years. This means that Musk should have discovered, or had reason to discover, Altman and Brockman’s alleged breach of charitable trust no earlier than 2021 and their alleged unjust enrichment no earlier than 2022.\nWhile Musk argued he discovered that Altman and Brockman had broken their promise only in 2022, OpenAI claimed that Musk had reason to think this well before 2021.\nMusk told the jury that he has gone through “three phases” in his beliefs about OpenAI: In phase one, he was “enthusiastically supportive” of the company. In phase two, “I started to lose confidence that they were telling me the truth,” he said. In phase three, “I’m sure they’re looting the nonprofit.”\nHere’s a deeper dive into a timeline of the events as testified in the trial. You can read my dispatches from all three weeks of the trial here and here and here.\n2017: Musk proposes creating a for-profit subsidiary",
-    "title_zh": "这就是埃隆·马斯克 (Elon Musk) 败诉 OpenAI 的原因",
-    "summary_zh": "周一，马斯克诉奥特曼一案的陪审团对埃隆·马斯克造成了重大打击，一致做出咨询裁决，认为他起诉 OpenAI 的时间太晚了，因此，他的主张受到适用时效法规的限制。美国地区法官伊冯·冈萨雷斯·罗杰斯立即接受了这一请求。 麝香",
-    "ai_summary": "周一，马斯克诉奥特曼一案的陪审团对埃隆·马斯克造成了重大打击，一致做出咨询裁决，认为他起诉 OpenAI 的时间太晚了…"
-  },
-  {
-    "id": "v2ex-1213663",
-    "title": "做了一个免费的 AI 公益站，今天重新开放注册，送 50 刀额度兑换码",
-    "url": "https://www.v2ex.com/t/1213663",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-19T00:10:38",
-    "summary": "免费的 AI 公益站，今天重新开放注册 https://cngpt.net 这个站原本是基于我自己的大模型中转站 Claude360 搭建的，主要提供 Claude 、GPT 等模型服务。最近我这边自建的 GPT Pro 号池还有不少余量，资源消耗不完，所以开放了一部分额度，做成公益站，免费提供给大家体验和使用。 目前站内可用模型包括 GPT-5.3 / GPT-5.4 / GPT-5.5 等模型，也会根据实际资源情况动态调整。 需要兑换码的朋友，欢迎在评论区留下你的站内 ID ，我看到后会手动给大家加一些额度。 需要提前说明一下：因为服务器、账号池和资源负载都有限，后续可能会根据实际使用情况",
-    "collected_at": "2026-05-19T02:35:47.269331",
-    "content_text": "免费的 AI 公益站，今天重新开放注册\nhttps://cngpt.net\n这个站原本是基于我自己的大模型中转站 Claude360 搭建的，主要提供 Claude 、GPT 等模型服务。最近我这边自建的 GPT Pro 号池还有不少余量，资源消耗不完，所以开放了一部分额度，做成公益站，免费提供给大家体验和使用。\n目前站内可用模型包括 GPT-5.3 / GPT-5.4 / GPT-5.5 等模型，也会根据实际资源情况动态调整。\n需要兑换码的朋友，欢迎在评论区留下你的站内 ID ，我看到后会手动给大家加一些额度。\n需要提前说明一下：因为服务器、账号池和资源负载都有限，后续可能会根据实际使用情况动态调整可用模型、额度或并发策略，还请大家理解。公益站的初衷是让更多人能低成本甚至免费体验到好用的模型服务，也希望大家合理使用，不要滥用资源。\n欢迎大家试用，也欢迎反馈问题或建议。",
-    "content_source": "readability",
-    "content_chars": 390,
-    "content_excerpt": "免费的 AI 公益站，今天重新开放注册\nhttps://cngpt.net\n这个站原本是基于我自己的大模型中转站 Claude360 搭建的，主要提供 Claude 、GPT 等模型服务。最近我这边自建的 GPT Pro 号池还有不少余量，资源消耗不完，所以开放了一部分额度，做成公益站，免费提供给大家体验和使用。\n目前站内可用模型包括 GPT-5.3 / GPT-5.4 / GPT-5.5 等模型，也会根据实际资源情况动态调整。\n需要兑换码的朋友，欢迎在评论区留下你的站内 ID ，我看到后会手动给大家加一些额度。\n需要提前说明一下：因为服务器、账号池和资源负载都有限，后续可能会根据实际使用情况动态调整可用模型、额度或并发策略，还请大家理解。公益站的初衷是让更多人能低成本甚至免费体验到好用的模型服务，也希望大家合理使用，不要滥用资源。\n欢迎大家试用，也欢迎反馈问题或建议。"
-  },
-  {
-    "id": "0cb88f747704",
-    "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-    "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-18T23:18:10",
-    "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html Comments URL: https://news.ycombinator.com/item?id=48187201 Points: 117 # Comments: 70",
-    "collected_at": "2026-05-19T02:35:43.504667",
-    "content_text": "Pope Leo XIVâs first encyclical, Magnifica humanitas, on preserving the human person in the age of artificial intelligence, will be released on May 25. A presentation event with the Pope and various speakers is scheduled for the same day at the Vatican.\nVatican News\nPope Leo XIVâs first Encyclical Letter\nMagnifica humanitas,\non preserving the human person in the age of artificial intelligence, will be released on May 25, 2026.\nIt bears the Popeâs signature dated May 15th, 135th anniversary of the publication of Pope Leo XIIIâs encyclical\nRerum novarum\n.\nMagnifica humanitas\nwill be presented on the day of its release at 11:30 a.m. at the Vaticanâs Synod Hall.\nThe Pope will be present, along with several speakers: Cardinal Víctor Manuel Fernández, Prefect of the Dicastery for the Doctrine of the Faith; Cardinal Michael Czerny, S.J., Prefect of the Dicastery for Promoting Integral Human Development; Professor Anna Rowlands, a theologian and professor at Durham University (United Kingdom); Christopher Olah, co-founder of Anthropic (USA) and head of research on the interpretability of artificial intelligence; and Professor Leocadie Lushombo, I.T., professor of political theology and Catholic social thought at the Jesuit School of Theology / Santa Clara University in California (USA).\nCardinal Secretary of State Pietro Parolin will offer closing remarks, followed by an address and blessing by Pope Leo XIV.",
-    "content_source": "readability",
-    "content_chars": 1433,
-    "content_excerpt": "Pope Leo XIVâs first encyclical, Magnifica humanitas, on preserving the human person in the age of artificial intelligence, will be released on May 25. A presentation event with the Pope and various speakers is scheduled for the same day at the Vatican.\nVatican News\nPope Leo XIVâs first Encyclical Letter\nMagnifica humanitas,\non preserving the human person in the age of artificial intelligence, will be released on May 25, 2026.\nIt bears the Popeâs signature dated May 15th, 135th anniversary of the publication of Pope Leo XIIIâs encyclical\nRerum novarum\n.\nMagnifica humanitas\nwill be presented on the day of its release at 11:30 a.m. at the Vaticanâs Synod Hall.",
-    "title_zh": "Anthrotic 联合创始人将与教皇利奥十四世一起发表人工智能通谕",
-    "summary_zh": "文章网址：https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclal-magnifica- humanitas.html 评论网址：https://…",
-    "ai_summary": "文章网址：https://www.vaticannews.va/en/pope/news/2026-05/pope-le…"
-  },
-  {
-    "id": "d8859cfa6328",
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-18T21:29:31",
-    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-    "collected_at": "2026-05-19T02:35:42.107515",
-    "content_text": "Drug discovery is one of the most expensive pursuits in modern industry. Finding a single viable molecule can take a decade and cost billions, and most candidates still don’t make it. A generation of AI startups has promised to fix that — most have made the problem less painful for researchers, who are already technically sophisticated enough to use the tools.\nBut SandboxAQ thinks the bottleneck isn’t the models. It’s the interface.\nThe company has teamed up with Anthropic to integrate its scientific AI models directly into Claude — putting powerful drug discovery and materials science tools behind a conversational interface that requires no specialized computing infrastructure to use.\nFounded roughly five years ago as an Alphabet spinout, SandboxAQ counts Eric Schmidt, Google’s former CEO, as its chairman. The company, which has raised\nmore than $950 million from investors\n, has built out a number of different business lines, including\na cybersecurity business\n.\nOne of the more unique things SandboxAQ does, however, is produce large quantitative models, or LQMs. These proprietary models are “physics-grounded,” meaning they’re built on the rules of the physical world rather than patterns in text. They can run quantum chemistry calculations and simulate both molecular dynamics and microkinetics, the study of how chemical reactions unfold at the molecular level. That matters because it tells researchers how candidate molecules are likely to behave before anyone sets foot in a lab.\n“Trained on real-world lab data and scientific equations, LQMs are AI models engineered for the quantitative economy, a $50+ trillion sector spanning biopharma, financial services, energy, and advanced materials,” the company said in a news release that strongly suggests Sandbox AQ isn’t building another chatbot or code assistant — it’s chasing the economy that AI is supposed to transform.\nChai Discovery\nand\nIsomorphic Labs\n— both well-funded bets on better models — have focused on the science. SandboxAQ is focused on who can actually use it.\n“For the first time, we have a frontier [quantitative] model on a frontier LLM that someone can access in natural language,” Nadia Harhen, SandboxAQ’s general manager of AI simulation, told TechCrunch. Previously, users of SandboxAQ’s LQMs would have had to provide their own digital infrastructure to run the models.\nSandboxAQ’s customers tend to be computational scientists, research scientists, or experimentalists. Generally, these people work at large pharmaceutical or industrial companies and are searching for new materials that can become marketable products.\n“Our customers come to us because they’ve tried all the other software out there, and the complexity of their problem is such that it didn’t work or didn’t yield positive results for them when that translation went to take place in the real world,” said Harhen.",
-    "content_source": "readability",
-    "content_chars": 2883,
-    "content_excerpt": "Drug discovery is one of the most expensive pursuits in modern industry. Finding a single viable molecule can take a decade and cost billions, and most candidates still don’t make it. A generation of AI startups has promised to fix that — most have made the problem less painful for researchers, who are already technically sophisticated enough to use the tools.\nBut SandboxAQ thinks the bottleneck isn’t the models. It’s the interface.\nThe company has teamed up with Anthropic to integrate its scientific AI models directly into Claude — putting powerful drug discovery and materials science tools behind a conversational interface that requires no specialized computing infrastructure to use.\nFounded roughly five years ago as an Alphabet spinout, SandboxAQ counts Eric Schmidt, Google’s former CEO, as its chairman. The company, which has raised\nmore than $950 million from investors\n, has built out a number of different business lines, including\na cybersecurity business\n.\nOne of the more unique things SandboxAQ does, however, is produce large quantitative models, or LQMs. These proprietary models are “physics-grounded,” meaning they’re built on the rules of the physical world rather than patterns in text. They can run quantum chemistry calculations and simulate both molecular dynamics and microkinetics, the study of how chemical reactions unfold at the molecular level. That matters because it tells researchers how candidate molecules are likely to behave before anyone sets foot in a lab.\n“Trained on real-world lab data and scientific equations, LQMs are AI models engineered for the quantitative economy, a $50+ trillion sector spanning biopharma, financial services, energy, and advanced materials,” the company said in a news release that strongly suggests Sandbox AQ isn’t building another chatbot or code assistant — it’s chasing the economy that AI is supposed to transform.",
-    "title_zh": "SandboxAQ 将其药物发现模型带给 Claude——无需计算机博士学位",
-    "summary_zh": "Chai Discovery 和 Isomorphic Labs 等其他风险投资支持的公司也竞相构建更好的模型。 SandboxAQ 认为，访问是更大的障碍，而克劳德可以解决这个问题",
-    "ai_summary": "Chai Discovery 和 Isomorphic Labs 等其他风险投资支持的公司也竞相构建更好的模型。 San…"
-  },
-  {
-    "id": "v2ex-1213659",
-    "title": "32 岁大龄研究生毕业 gap1 年，是考公考编，还是做 IT 开发？",
-    "url": "https://www.v2ex.com/t/1213659",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-18T21:17:46",
-    "summary": "本人 94 年 本科双非 工作 5 年 数据开发外包岗。 后来考研，考上双非计算机研究生。25 年毕业后，发现找不到工作，大部分的同学都进了国企还有体制内。我是极少数没找到的(可能因为 32 岁问题)，着实有些难受了。国企校招卡 28 岁，嫌弃年龄大；走社招吧，招聘方觉得读研 3 年空窗期，不想要。作为有工作经验的应届生，本以为有点优势，结果是被两边嫌弃。 不知道还能有什么出路，目前能想到的，一是回头继续做数据开发，二是考公考编。 如果继续做开发，目前 32 岁现在感觉也不好找。AI 发展太快了，联系了不少之前的程序员朋友，也面临裁员或降薪的问题。目前只能找到外包的工作，正编的工作找不到。可是",
-    "collected_at": "2026-05-19T14:43:23.686792",
-    "content_text": "本人 94 年 本科双非 工作 5 年 数据开发外包岗。 后来考研，考上双非计算机研究生。25 年毕业后，发现找不到工作，大部分的同学都进了国企还有体制内。我是极少数没找到的(可能因为 32 岁问题)，着实有些难受了。国企校招卡 28 岁，嫌弃年龄大；走社招吧，招聘方觉得读研 3 年空窗期，不想要。作为有工作经验的应届生，本以为有点优势，结果是被两边嫌弃。\n不知道还能有什么出路，目前能想到的，一是回头继续做数据开发，二是考公考编。\n如果继续做开发，目前 32 岁现在感觉也不好找。AI 发展太快了，联系了不少之前的程序员朋友，也面临裁员或降薪的问题。目前只能找到外包的工作，正编的工作找不到。可是读研之前就在外包公司开发，读研 3 年出来，还是只有劳务派遣和外包能要我，心里有点接受不了。35 岁算是职业分水岭了，做 3 年到 35 岁，如果被裁员也很难再找到工作。\n如果选择考公考编，工资预计 4000 多，优点不会失业，估计就在小县城或者某地级市呆一辈子了。往届应届生身份。假设顺利考公考编上岸后，会直接面临接下来的 2 个问题，找对象和买房。体制内多数情况是往下一级找一个普通人，结婚平淡过完余生。买房是自己背 30 年房贷，还一辈子。体制内的工资还房贷确实有些捉襟见肘。\n非常焦虑，感觉迷茫，想问问大家，请各位指教。",
-    "content_source": "trafilatura",
-    "content_chars": 564,
-    "content_excerpt": "本人 94 年 本科双非 工作 5 年 数据开发外包岗。 后来考研，考上双非计算机研究生。25 年毕业后，发现找不到工作，大部分的同学都进了国企还有体制内。我是极少数没找到的(可能因为 32 岁问题)，着实有些难受了。国企校招卡 28 岁，嫌弃年龄大；走社招吧，招聘方觉得读研 3 年空窗期，不想要。作为有工作经验的应届生，本以为有点优势，结果是被两边嫌弃。\n不知道还能有什么出路，目前能想到的，一是回头继续做数据开发，二是考公考编。\n如果继续做开发，目前 32 岁现在感觉也不好找。AI 发展太快了，联系了不少之前的程序员朋友，也面临裁员或降薪的问题。目前只能找到外包的工作，正编的工作找不到。可是读研之前就在外包公司开发，读研 3 年出来，还是只有劳务派遣和外包能要我，心里有点接受不了。35 岁算是职业分水岭了，做 3 年到 35 岁，如果被裁员也很难再找到工作。\n如果选择考公考编，工资预计 4000 多，优点不会失业，估计就在小县城或者某地级市呆一辈子了。往届应届生身份。假设顺利考公考编上岸后，会直接面临接下来的 2 个问题，找对象和买房。体制内多数情况是往下一级找一个普通人，结婚平淡过完余生。买房是自己背 30 年房贷，还一辈子。体制内的工资还房贷确实有些捉襟见肘。\n非常焦虑，感觉迷茫，想问问大家，请各位指教。"
-  },
-  {
-    "id": "d023da2950a3",
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-18T19:27:52",
-    "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
-    "collected_at": "2026-05-18T19:29:32.716356",
-    "content_text": "Anthropic announced Monday it has acquired Stainless, a startup founded by former Stripe engineer Alex Rattray whose software is widely used by rival AI labs, including OpenAI and Google.\nAnthropic didn’t disclose terms of the deal. However, The Information\nreported\nlast week that Anthropic was in talks to acquire Stainless, which is backed by Sequoia Capital and Andreessen Horowitz, for more than $300 million.\nThe acquisition will take a key infrastructure supplier out of the hands of Anthropic’s competitors. The company told TechCrunch it will wind down\nall hosted Stainless products\n, including its SDK generator. An Anthropic spokesperson said Stainless customers will still own the SDKs they’ve generated to date, and have full rights to modify and extend them however they wish.\nThe New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.\nRattray\ndeveloped software\nthat could take API specifications and turn them into production-ready SDKs across multiple programming languages, including Python, TypeScript, Kotlin, Go, and Java. It became a popular tool because the platform automatically updates the SDKs as APIs change and eliminated the time-consuming process of manually maintaining them.\nThe technology is particularly valuable to\ncompanies\nlike Anthropic, OpenAI, Google, Replicate, Runway, and Cloudflare that are building AI agents that can connect to external software and complete tasks on behalf of users. Stainless’s SDK tools are an easy way to build and maintain those connections — but going forward, the tools will only be available to Anthropic, not its competitors.\nAccording to Anthropic, Stainless software has powered the generation of every official Anthropic SDK since the earliest days of its API.\n“I started Stainless because SDKs deserve as much care as the APIs they wrap,” Rattray said\nin a press release\nposted Monday. “Anthropic was one of the first teams to bet on this with us. We have been watching what developers have built on Claude over the last few years, which made bringing our teams together an easy decision. The team gets to keep doing the work we love, on the platform where it matters most.”",
-    "content_source": "readability",
-    "content_chars": 2320,
-    "content_excerpt": "Anthropic announced Monday it has acquired Stainless, a startup founded by former Stripe engineer Alex Rattray whose software is widely used by rival AI labs, including OpenAI and Google.\nAnthropic didn’t disclose terms of the deal. However, The Information\nreported\nlast week that Anthropic was in talks to acquire Stainless, which is backed by Sequoia Capital and Andreessen Horowitz, for more than $300 million.\nThe acquisition will take a key infrastructure supplier out of the hands of Anthropic’s competitors. The company told TechCrunch it will wind down\nall hosted Stainless products\n, including its SDK generator. An Anthropic spokesperson said Stainless customers will still own the SDKs they’ve generated to date, and have full rights to modify and extend them however they wish.\nThe New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.\nRattray\ndeveloped software",
-    "title_zh": "Anthropic 收购了 OpenAI、Google 和 Cloudflare 使用的开发工具初创公司",
-    "summary_zh": "作为收购的一部分，总部位于纽约的初创公司不锈钢将逐步关闭所有托管产品",
-    "ai_summary": "作为收购的一部分，总部位于纽约的初创公司不锈钢将逐步关闭所有托管产品"
-  },
-  {
-    "id": "hn-48153379",
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "source": "Hacker News",
-    "lang": "en",
-    "published": "2026-05-15T20:26:47Z",
-    "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
-    "points": 2102,
-    "collected_at": "2026-05-24T13:06:56.929093"
-  },
-  {
     "id": "hn-48085821",
     "title": "Local AI needs to be the norm",
     "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
@@ -4728,7 +4696,7 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-05-24T13:06:56.929155"
+    "collected_at": "2026-05-24T19:07:26.758340"
   },
   {
     "id": "hn-48019219",
@@ -4739,7 +4707,7 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "points": 1755,
-    "collected_at": "2026-05-24T13:06:56.929184"
+    "collected_at": "2026-05-24T19:07:26.758368"
   },
   {
     "id": "hn-47679121",
@@ -4750,7 +4718,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-24T13:06:56.929277"
+    "collected_at": "2026-05-24T19:07:26.758450"
   },
   {
     "id": "hn-47363754",
@@ -4761,7 +4729,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-24T13:06:56.929375"
+    "collected_at": "2026-05-24T19:07:26.758546"
   },
   {
     "id": "hn-47340079",
@@ -4772,7 +4740,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-24T13:06:56.928987"
+    "collected_at": "2026-05-24T19:07:26.758170"
   },
   {
     "id": "hn-47225130",
@@ -4783,7 +4751,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-24T13:06:56.929418"
+    "collected_at": "2026-05-24T19:07:26.758588"
   },
   {
     "id": "hn-47136179",
@@ -4794,7 +4762,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-24T13:06:56.929116"
+    "collected_at": "2026-05-24T19:07:26.758299"
   },
   {
     "id": "hn-46990729",
@@ -4805,7 +4773,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-24T13:06:56.929061"
+    "collected_at": "2026-05-24T19:07:26.758244"
   },
   {
     "id": "hn-45941596",
@@ -4816,7 +4784,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-24T13:06:56.929430"
+    "collected_at": "2026-05-24T19:07:26.758600"
   },
   {
     "id": "hn-45930151",
@@ -4827,7 +4795,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-24T13:06:56.929472"
+    "collected_at": "2026-05-24T19:07:26.758641"
   },
   {
     "id": "hn-44972151",
@@ -4838,7 +4806,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-24T13:06:56.929210"
+    "collected_at": "2026-05-24T19:07:26.758394"
   },
   {
     "id": "hn-44396518",
@@ -4849,7 +4817,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-24T13:06:56.929344"
+    "collected_at": "2026-05-24T19:07:26.758516"
   },
   {
     "id": "hn-44314423",
@@ -4860,7 +4828,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-24T13:06:56.929388"
+    "collected_at": "2026-05-24T19:07:26.758559"
   },
   {
     "id": "hn-44163063",
@@ -4871,7 +4839,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-24T13:06:56.929036"
+    "collected_at": "2026-05-24T19:07:26.758219"
   },
   {
     "id": "hn-42910910",
@@ -4882,7 +4850,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-24T13:06:56.929222"
+    "collected_at": "2026-05-24T19:07:26.758407"
   },
   {
     "id": "hn-41392128",
@@ -4893,7 +4861,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-24T13:06:56.929130"
+    "collected_at": "2026-05-24T19:07:26.758314"
   },
   {
     "id": "hn-41386319",
@@ -4904,7 +4872,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-24T13:06:56.929143"
+    "collected_at": "2026-05-24T19:07:26.758327"
   },
   {
     "id": "hn-41069829",
@@ -4915,7 +4883,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-24T13:06:56.929485"
+    "collected_at": "2026-05-24T19:07:26.758653"
   },
   {
     "id": "hn-41046773",
@@ -4926,7 +4894,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-24T13:06:56.929023"
+    "collected_at": "2026-05-24T19:07:26.758206"
   },
   {
     "id": "hn-40767459",
@@ -4937,7 +4905,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-24T13:06:56.929499"
+    "collected_at": "2026-05-24T19:07:26.758666"
   },
   {
     "id": "hn-39918245",
@@ -4948,7 +4916,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-24T13:06:56.929443"
+    "collected_at": "2026-05-24T19:07:26.758613"
   },
   {
     "id": "hn-39526057",
@@ -4959,7 +4927,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-24T13:06:56.929008"
+    "collected_at": "2026-05-24T19:07:26.758192"
   },
   {
     "id": "hn-38544729",
@@ -4970,7 +4938,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-24T13:06:56.929072"
+    "collected_at": "2026-05-24T19:07:26.758255"
   },
   {
     "id": "hn-37021160",
@@ -4981,7 +4949,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-24T13:06:56.929236"
+    "collected_at": "2026-05-24T19:07:26.758421"
   },
   {
     "id": "hn-31812259",
@@ -4992,7 +4960,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-24T13:06:56.929401"
+    "collected_at": "2026-05-24T19:07:26.758571"
   },
   {
     "id": "hn-18249755",
@@ -5003,7 +4971,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-24T13:06:56.929195"
+    "collected_at": "2026-05-24T19:07:26.758380"
   },
   {
     "id": "hn-17022963",
@@ -5014,7 +4982,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-24T13:06:56.929170"
+    "collected_at": "2026-05-24T19:07:26.758354"
   },
   {
     "id": "hn-15892066",
@@ -5025,7 +4993,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-24T13:06:56.929363"
+    "collected_at": "2026-05-24T19:07:26.758534"
   },
   {
     "id": "hn-6830566",
@@ -5036,6 +5004,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-24T13:06:56.929455"
+    "collected_at": "2026-05-24T19:07:26.758624"
   }
 ]
