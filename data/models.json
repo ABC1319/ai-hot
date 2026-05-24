@@ -7031,6 +7031,37 @@
     "is_core": true
   },
   {
+    "id": "hf-Abhaykoul--JARVIS-tool-search-v3",
+    "name": "Abhaykoul/JARVIS-tool-search-v3",
+    "display_name": "JARVIS-tool-search-v3",
+    "url": "https://huggingface.co/Abhaykoul/JARVIS-tool-search-v3",
+    "author": "Abhaykoul",
+    "pipeline_tag": "sentence-similarity",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "sentence-transformers",
+      "safetensors",
+      "sentence-similarity",
+      "feature-extraction",
+      "generated_from_trainer",
+      "dataset_size:13700",
+      "loss:MultipleNegativesRankingLoss",
+      "ml-intern",
+      "arxiv:1908.10084",
+      "arxiv:1807.03748",
+      "base_model:AI4free/JARVIS-tool-search-v2",
+      "base_model:finetune:AI4free/JARVIS-tool-search-v2",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-24T08:01:17.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-24T08:22:04.330582",
+    "display_priority": 215,
+    "is_core": true
+  },
+  {
     "id": "hf-py-feat--arcface_r50",
     "name": "py-feat/arcface_r50",
     "display_name": "arcface_r50",
@@ -7052,7 +7083,7 @@
     "created_at": "2026-05-03T01:53:19.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-03T02:07:03.468722",
-    "display_priority": 215,
+    "display_priority": 216,
     "is_core": true
   },
   {
@@ -7079,7 +7110,7 @@
     "created_at": "2026-05-07T02:00:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-07T02:08:16.316954",
-    "display_priority": 216,
+    "display_priority": 217,
     "is_core": true
   },
   {
@@ -7110,7 +7141,7 @@
     "created_at": "2026-05-18T19:19:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-18T19:29:42.689189",
-    "display_priority": 217,
+    "display_priority": 218,
     "is_core": true
   },
   {
@@ -7138,7 +7169,7 @@
     "created_at": "2026-05-19T02:27:20.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-19T02:35:51.440651",
-    "display_priority": 218,
+    "display_priority": 219,
     "is_core": true
   },
   {
@@ -7170,7 +7201,7 @@
     "created_at": "2026-05-12T02:01:31.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T02:14:25.437223",
-    "display_priority": 219,
+    "display_priority": 220,
     "is_core": true
   },
   {
@@ -7196,7 +7227,7 @@
     "created_at": "2026-05-12T08:28:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T08:31:12.408150",
-    "display_priority": 220,
+    "display_priority": 221,
     "is_core": true
   },
   {
@@ -7222,7 +7253,7 @@
     "created_at": "2026-05-12T08:25:26.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T08:31:12.408160",
-    "display_priority": 221,
+    "display_priority": 222,
     "is_core": true
   },
   {
@@ -7248,7 +7279,7 @@
     "created_at": "2026-05-12T08:20:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T08:31:12.408213",
-    "display_priority": 222,
+    "display_priority": 223,
     "is_core": true
   },
   {
@@ -7284,7 +7315,7 @@
     "created_at": "2026-05-16T07:47:31.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-16T07:54:46.633038",
-    "display_priority": 223,
+    "display_priority": 224,
     "is_core": true
   },
   {
@@ -7316,7 +7347,7 @@
     "created_at": "2026-05-18T09:35:29.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-18T09:46:06.128435",
-    "display_priority": 224,
+    "display_priority": 225,
     "is_core": true
   },
   {
@@ -7346,7 +7377,7 @@
     "created_at": "2026-05-22T02:37:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-22T02:38:57.192133",
-    "display_priority": 225,
+    "display_priority": 226,
     "is_core": true
   },
   {
@@ -7371,7 +7402,7 @@
     "created_at": "2026-05-12T13:54:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T14:02:35.800235",
-    "display_priority": 226,
+    "display_priority": 227,
     "is_core": true
   },
   {
@@ -7403,7 +7434,7 @@
     "created_at": "2026-05-19T19:40:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-19T19:47:09.469929",
-    "display_priority": 227,
+    "display_priority": 228,
     "is_core": true
   },
   {
@@ -7428,7 +7459,7 @@
     "created_at": "2026-05-22T19:20:43.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-22T19:31:36.998019",
-    "display_priority": 228,
+    "display_priority": 229,
     "is_core": true
   },
   {
@@ -7456,7 +7487,7 @@
     "created_at": "2026-05-15T08:28:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-15T08:42:52.479853",
-    "display_priority": 229,
+    "display_priority": 230,
     "is_core": true
   },
   {
@@ -7480,7 +7511,7 @@
     "created_at": "2026-05-19T09:15:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-19T09:31:04.691221",
-    "display_priority": 230,
+    "display_priority": 231,
     "is_core": true
   },
   {
@@ -7504,7 +7535,7 @@
     "created_at": "2026-05-20T02:33:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-20T02:36:23.493951",
-    "display_priority": 231,
+    "display_priority": 232,
     "is_core": true
   },
   {
@@ -7528,7 +7559,46 @@
     "created_at": "2026-05-20T02:25:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-20T02:36:23.494009",
-    "display_priority": 232,
+    "display_priority": 233,
+    "is_core": true
+  },
+  {
+    "id": "hf-Satyawan1--praxis-timbre",
+    "name": "Satyawan1/praxis-timbre",
+    "display_name": "praxis-timbre",
+    "url": "https://huggingface.co/Satyawan1/praxis-timbre",
+    "author": "Satyawan1",
+    "pipeline_tag": "voice-activity-detection",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "pytorch",
+      "speaker-diarization",
+      "speaker-embedding",
+      "ecapa-tdnn",
+      "aam-softmax",
+      "clinical",
+      "medical",
+      "nhs",
+      "gp",
+      "primary-care",
+      "english",
+      "en-GB",
+      "primock57",
+      "praxis",
+      "praxis-timbre",
+      "timbre",
+      "voice-activity-detection",
+      "en",
+      "dataset:librispeech_asr",
+      "license:cc-by-nc-4.0",
+      "model-index",
+      "region:us"
+    ],
+    "created_at": "2026-05-24T08:13:45.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-24T08:22:04.330518",
+    "display_priority": 234,
     "is_core": true
   }
 ]

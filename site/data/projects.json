@@ -6046,6 +6046,34 @@
     "collected_at": "2026-05-17T02:16:57.677904"
   },
   {
+    "id": "github-1241159711",
+    "name": "dharshiyan/Real-Time-Multi-Emotion-Detection-System",
+    "display_name": "Real-Time-Multi-Emotion-Detection-System",
+    "url": "https://github.com/dharshiyan/Real-Time-Multi-Emotion-Detection-System",
+    "description": "artificial-intelligence computer-vision deep-learning emotion-detection facial-expression-recognition tensorflow opencv cnn machine-learning python real-time-ai",
+    "stars": 7,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "emotion-detection",
+      "facial-expression-recognition",
+      "machine-learning",
+      "opencv",
+      "python",
+      "real-time-ai",
+      "tensorflow"
+    ],
+    "created_at": "2026-05-17T03:07:05Z",
+    "updated_at": "2026-05-24T05:49:35Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-24T08:22:01.131152"
+  },
+  {
     "id": "github-1213064866",
     "name": "abbosaliboev/free-ai-bible",
     "display_name": "free-ai-bible",
