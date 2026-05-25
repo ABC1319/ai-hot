@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "用“人类心智”重做具身智能"
 summary_zh = ""
 tags = []
-list_page = 2
+list_page = 3
 +++
 
 <!-- AUTO-GENERATED: news page -->
