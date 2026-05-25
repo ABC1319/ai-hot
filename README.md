@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-25 22:42:25
+🕐 **最近更新**：2026-05-26 03:20:45
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [我尝试了亚马逊的 Bee 可穿戴设备，既好奇又有点害怕](https://aihot.bt199.com/news/8907bc013160/)
-   - 与其他人工智能可穿戴设备一样，亚马逊的 Bee 提供了便利性和隐私焦虑的奇怪组合
-   - `TechCrunch AI · 2026-05-24`
+1. [教皇的人工智能通谕并不是真正关于人工智能的](https://aihot.bt199.com/news/96a0ae8f1cd7/)
+   - 教皇利奥十四世的第一部通谕使用人工智能作为镜头来诊断老问题：权力集中、民主受到侵蚀，以及科技精英为了自己的利益而塑造世界…
+   - `TechCrunch AI · 2026-05-25`
 
-2. [黑客正在学习利用聊天机器人的“个性”](https://aihot.bt199.com/news/a51bc6b64f11/)
+2. [教皇利奥呼吁在人工智能时代成为“深刻的人性”](https://aihot.bt199.com/news/dca55dc7620e/)
+   - 教皇利奥十四世在周一发布的第一份重要教皇文件中警告了人工智能和不受限制的技术力量的风险。 《Magnifica Huma…
+   - `The Verge AI · 2026-05-25`
+
+3. [黑客正在学习利用聊天机器人的“个性”](https://aihot.bt199.com/news/a51bc6b64f11/)
    - 这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关人工智能恶作剧的更多信息，请关注 R…
    - `The Verge AI · 2026-05-24`
-
-3. [谷歌新的万物互联人工智能模型非常疯狂](https://aihot.bt199.com/news/b01ec93d479b/)
-   - 去年，我深度伪造了我孩子的毛绒动物，让它看起来像是他的毛绒鹿在度假。这是一个实验，看看我是否可以重现谷歌正在运行的双子座…
-   - `The Verge AI · 2026-05-23`
 
 4. [黑客组织正在以前所未有的规模毒害开源代码](https://aihot.bt199.com/news/682b115b447c/)
    - GitHub 只是 TeamPCP 的最新受害者，该团伙发起了一系列软件供应链攻击
    - `Ars Technica AI · 2026-05-22`
 
-5. [每个人都在实时应对人工智能安全问题——甚至谷歌](https://aihot.bt199.com/news/a1acbef14ea2/)
-   - 我们所有人都处于过渡时期
-   - `TechCrunch AI · 2026-05-24`
+5. [ClickUp 的大规模裁员告诉我们什么是工作的未来](https://aihot.bt199.com/news/abb22fea2763/)
+   - 这家成立九年的初创公司正在用数千名人工智能代理取代数百名员工
+   - `TechCrunch AI · 2026-05-25`
 
 6. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
    - 批评人士指出，美国参议院候选人提起的诉讼缺乏事实支持
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

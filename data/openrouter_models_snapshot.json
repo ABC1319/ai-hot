@@ -12320,6 +12320,7 @@
         "presence_penalty",
         "reasoning",
         "repetition_penalty",
+        "response_format",
         "seed",
         "stop",
         "temperature",
@@ -19999,5 +20000,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-25T14:41:09.195533+00:00"
+  "updated_at": "2026-05-25T19:20:01.673611+00:00"
 }
