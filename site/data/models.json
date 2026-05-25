@@ -3148,6 +3148,36 @@
     "is_core": true
   },
   {
+    "id": "hf-meituan-longcat--LongCat-Video-Avatar-1.5",
+    "name": "meituan-longcat/LongCat-Video-Avatar-1.5",
+    "display_name": "LongCat-Video-Avatar-1.5",
+    "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+    "author": "meituan-longcat",
+    "pipeline_tag": "",
+    "likes": 131,
+    "downloads": 0,
+    "tags": [
+      "diffusers",
+      "onnx",
+      "safetensors",
+      "audio-text-to-video",
+      "audio-image-text-to-video",
+      "audio-driven-video-continuation",
+      "transformers",
+      "avatar",
+      "video-generation",
+      "en",
+      "zh",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-05-21T09:05:55.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-25T02:42:48.443010",
+    "display_priority": 86,
+    "is_core": true
+  },
+  {
     "id": "hf-inclusionAI--LLaDA2.0-Uni",
     "name": "inclusionAI/LLaDA2.0-Uni",
     "display_name": "LLaDA2.0-Uni",
@@ -3182,7 +3212,7 @@
     "created_at": "2026-04-22T17:10:47.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-23T13:09:14.937690",
-    "display_priority": 86,
+    "display_priority": 87,
     "is_core": true
   },
   {
@@ -3210,7 +3240,7 @@
     "created_at": "2026-04-13T09:12:47.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-11T19:31:24.390358",
-    "display_priority": 87,
+    "display_priority": 88,
     "is_core": true
   },
   {
@@ -3237,7 +3267,7 @@
     "created_at": "2026-03-16T04:01:31.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-20T08:57:46.993962",
-    "display_priority": 88,
+    "display_priority": 89,
     "is_core": true
   },
   {
@@ -3261,28 +3291,6 @@
     "created_at": "2026-03-22T09:30:01.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-21T13:07:47.733947",
-    "display_priority": 89,
-    "is_core": true
-  },
-  {
-    "id": "hf-facebook--VGGT-Omega",
-    "name": "facebook/VGGT-Omega",
-    "display_name": "VGGT-Omega",
-    "url": "https://huggingface.co/facebook/VGGT-Omega",
-    "author": "facebook",
-    "pipeline_tag": "",
-    "likes": 92,
-    "downloads": 0,
-    "tags": [
-      "facebook",
-      "meta-pytorch",
-      "en",
-      "license:cc-by-nc-4.0",
-      "region:us"
-    ],
-    "created_at": "2026-03-17T20:47:45.000Z",
-    "source": "hf-trending",
-    "collected_at": "2026-05-24T19:07:31.962350",
     "display_priority": 90,
     "is_core": true
   },
@@ -3698,6 +3706,35 @@
     "is_core": true
   },
   {
+    "id": "hf-zhifeixie--Mega-ASR",
+    "name": "zhifeixie/Mega-ASR",
+    "display_name": "Mega-ASR",
+    "url": "https://huggingface.co/zhifeixie/Mega-ASR",
+    "author": "zhifeixie",
+    "pipeline_tag": "automatic-speech-recognition",
+    "likes": 49,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "automatic-speech-recognition",
+      "speech-recognition",
+      "audio",
+      "robust-asr",
+      "qwen3-asr",
+      "en",
+      "zh",
+      "dataset:zhifeixie/Voices-in-the-Wild-2M",
+      "arxiv:2605.19833",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-19T08:58:01.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-25T02:42:48.443062",
+    "display_priority": 101,
+    "is_core": true
+  },
+  {
     "id": "hf-numind--NuExtract3",
     "name": "numind/NuExtract3",
     "display_name": "NuExtract3",
@@ -3733,7 +3770,7 @@
     "created_at": "2026-04-29T07:46:41.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-21T02:37:42.027416",
-    "display_priority": 101,
+    "display_priority": 102,
     "is_core": true
   },
   {
@@ -3818,7 +3855,7 @@
     "created_at": "2026-04-20T15:15:55.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T13:31:26.989174",
-    "display_priority": 102,
+    "display_priority": 103,
     "is_core": true
   },
   {
@@ -3843,7 +3880,7 @@
     "created_at": "2026-05-15T03:49:25.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-16T07:54:46.509121",
-    "display_priority": 103,
+    "display_priority": 104,
     "is_core": true
   },
   {
@@ -3872,7 +3909,7 @@
     "created_at": "2026-04-23T06:30:09.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T10:16:49.982171",
-    "display_priority": 104,
+    "display_priority": 105,
     "is_core": true
   },
   {
@@ -3903,7 +3940,7 @@
     "created_at": "2026-04-17T07:17:52.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-14T19:31:26.705293",
-    "display_priority": 105,
+    "display_priority": 106,
     "is_core": true
   },
   {
@@ -3930,7 +3967,7 @@
     "created_at": "2026-05-12T02:15:21.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-16T18:54:51.001437",
-    "display_priority": 106,
+    "display_priority": 107,
     "is_core": true
   },
   {
@@ -3966,7 +4003,7 @@
     "created_at": "2026-04-25T17:32:08.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T02:13:43.817676",
-    "display_priority": 107,
+    "display_priority": 108,
     "is_core": true
   },
   {
@@ -3999,7 +4036,7 @@
     "created_at": "2026-05-09T04:20:48.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-15T13:49:27.928797",
-    "display_priority": 108,
+    "display_priority": 109,
     "is_core": true
   },
   {
@@ -4072,7 +4109,7 @@
     "created_at": "2026-05-11T12:31:04.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-20T20:06:23.431025",
-    "display_priority": 109,
+    "display_priority": 110,
     "is_core": true
   },
   {
@@ -4100,7 +4137,7 @@
     "created_at": "2026-04-16T00:53:48.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T19:29:46.779831",
-    "display_priority": 110,
+    "display_priority": 111,
     "is_core": true
   },
   {
@@ -4121,7 +4158,7 @@
     "created_at": "2026-04-30T10:18:49.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-13T14:16:25.219466",
-    "display_priority": 111,
+    "display_priority": 112,
     "is_core": true
   },
   {
@@ -4159,7 +4196,7 @@
     "created_at": "2026-04-16T13:55:49.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-03T07:52:24.422760",
-    "display_priority": 112,
+    "display_priority": 113,
     "is_core": true
   },
   {
@@ -4185,7 +4222,7 @@
     "created_at": "2026-05-11T07:57:36.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-13T14:16:25.219471",
-    "display_priority": 113,
+    "display_priority": 114,
     "is_core": true
   },
   {
@@ -4211,7 +4248,7 @@
     "created_at": "2026-05-13T15:12:13.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-19T02:35:51.388166",
-    "display_priority": 114,
+    "display_priority": 115,
     "is_core": true
   },
   {
@@ -4252,7 +4289,7 @@
     "created_at": "2026-04-26T01:37:45.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-14T02:31:09.229483",
-    "display_priority": 115,
+    "display_priority": 116,
     "is_core": true
   },
   {
@@ -4279,7 +4316,7 @@
     "created_at": "2026-05-18T11:14:09.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-20T08:57:46.994012",
-    "display_priority": 116,
+    "display_priority": 117,
     "is_core": true
   },
   {
@@ -4320,7 +4357,7 @@
     "created_at": "2026-03-10T12:21:20.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-05T13:21:22.339381",
-    "display_priority": 117,
+    "display_priority": 118,
     "is_core": true
   },
   {
@@ -4355,7 +4392,7 @@
     "created_at": "2026-05-02T18:30:02.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-02T18:52:15.666108",
-    "display_priority": 118,
+    "display_priority": 119,
     "is_core": true
   },
   {
@@ -4382,7 +4419,7 @@
     "created_at": "2026-05-01T12:57:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T13:13:50.687297",
-    "display_priority": 119,
+    "display_priority": 120,
     "is_core": true
   },
   {
@@ -4407,7 +4444,7 @@
     "created_at": "2026-04-29T19:02:58.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T19:15:02.966320",
-    "display_priority": 120,
+    "display_priority": 121,
     "is_core": true
   },
   {
@@ -4434,7 +4471,7 @@
     "created_at": "2026-05-15T13:45:54.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-15T13:49:28.031352",
-    "display_priority": 121,
+    "display_priority": 122,
     "is_core": true
   },
   {
@@ -4555,7 +4592,7 @@
     "created_at": "2026-04-23T07:12:51.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-23T07:27:21.081938",
-    "display_priority": 122,
+    "display_priority": 123,
     "is_core": true
   },
   {
@@ -4589,7 +4626,7 @@
     "created_at": "2026-04-24T08:14:31.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-24T08:20:51.403160",
-    "display_priority": 123,
+    "display_priority": 124,
     "is_core": true
   },
   {
@@ -4616,30 +4653,6 @@
     "created_at": "2026-04-29T02:10:27.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T02:15:56.733383",
-    "display_priority": 124,
-    "is_core": true
-  },
-  {
-    "id": "hf-VED-G--whisper-small-mucs-hindi-v2",
-    "name": "VED-G/whisper-small-mucs-hindi-v2",
-    "display_name": "whisper-small-mucs-hindi-v2",
-    "url": "https://huggingface.co/VED-G/whisper-small-mucs-hindi-v2",
-    "author": "VED-G",
-    "pipeline_tag": "automatic-speech-recognition",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "whisper",
-      "automatic-speech-recognition",
-      "arxiv:1910.09700",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-05-02T10:11:42.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-05-02T10:22:45.281296",
     "display_priority": 125,
     "is_core": true
   },

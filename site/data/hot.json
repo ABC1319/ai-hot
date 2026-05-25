@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T19:09:12.896237",
+  "updated_at": "2026-05-25T02:44:20.643738",
   "total": 6,
   "hot_list": [
     {
@@ -18,24 +18,6 @@
       "category": "资讯",
       "news_id": "8907bc013160",
       "internal_url": "https://aihot.bt199.com/news/8907bc013160/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "name": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "title_zh": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-23",
-      "time": "2026-05-23",
-      "description": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "subtitle": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "ai_summary": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "category": "资讯",
-      "news_id": "32e0243942b6",
-      "internal_url": "https://aihot.bt199.com/news/32e0243942b6/",
       "type_label": "📰 新闻"
     },
     {
@@ -90,6 +72,24 @@
       "category": "资讯",
       "news_id": "682b115b447c",
       "internal_url": "https://aihot.bt199.com/news/682b115b447c/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "name": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "title_zh": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 10,
+      "detail": "2026-05-24",
+      "time": "2026-05-24",
+      "description": "我们所有人都处于过渡时期",
+      "subtitle": "我们所有人都处于过渡时期",
+      "ai_summary": "我们所有人都处于过渡时期",
+      "category": "资讯",
+      "news_id": "a1acbef14ea2",
+      "internal_url": "https://aihot.bt199.com/news/a1acbef14ea2/",
       "type_label": "📰 新闻"
     },
     {
@@ -131,24 +131,6 @@
       "type_label": "📰 新闻"
     },
     {
-      "title": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "name": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "title_zh": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-23",
-      "time": "2026-05-23",
-      "description": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "subtitle": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "ai_summary": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "category": "资讯",
-      "news_id": "32e0243942b6",
-      "internal_url": "https://aihot.bt199.com/news/32e0243942b6/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "黑客正在学习利用聊天机器人的“个性”",
       "name": "黑客正在学习利用聊天机器人的“个性”",
       "title_zh": "黑客正在学习利用聊天机器人的“个性”",
@@ -200,6 +182,24 @@
       "category": "资讯",
       "news_id": "682b115b447c",
       "internal_url": "https://aihot.bt199.com/news/682b115b447c/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "name": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "title_zh": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 10,
+      "detail": "2026-05-24",
+      "time": "2026-05-24",
+      "description": "我们所有人都处于过渡时期",
+      "subtitle": "我们所有人都处于过渡时期",
+      "ai_summary": "我们所有人都处于过渡时期",
+      "category": "资讯",
+      "news_id": "a1acbef14ea2",
+      "internal_url": "https://aihot.bt199.com/news/a1acbef14ea2/",
       "type_label": "📰 新闻"
     },
     {
@@ -247,24 +247,6 @@
       "type_label": "📰 新闻"
     },
     {
-      "title": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "name": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "title_zh": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-05-23",
-      "time": "2026-05-23",
-      "description": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "subtitle": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "ai_summary": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验",
-      "category": "资讯",
-      "news_id": "32e0243942b6",
-      "internal_url": "https://aihot.bt199.com/news/32e0243942b6/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "黑客正在学习利用聊天机器人的“个性”",
       "name": "黑客正在学习利用聊天机器人的“个性”",
       "title_zh": "黑客正在学习利用聊天机器人的“个性”",
@@ -316,6 +298,24 @@
       "category": "资讯",
       "news_id": "682b115b447c",
       "internal_url": "https://aihot.bt199.com/news/682b115b447c/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "name": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "title_zh": "每个人都在实时应对人工智能安全问题——甚至谷歌",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 10,
+      "detail": "2026-05-24",
+      "time": "2026-05-24",
+      "description": "我们所有人都处于过渡时期",
+      "subtitle": "我们所有人都处于过渡时期",
+      "ai_summary": "我们所有人都处于过渡时期",
+      "category": "资讯",
+      "news_id": "a1acbef14ea2",
+      "internal_url": "https://aihot.bt199.com/news/a1acbef14ea2/",
       "type_label": "📰 新闻"
     },
     {
