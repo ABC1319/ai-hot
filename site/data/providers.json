@@ -158,13 +158,13 @@
       "Qwen3.5 Plus 2026-04-20",
       "Qwen3.6 Flash"
     ],
-    "model_count": 49,
+    "model_count": 48,
     "last_updated": "2026-05-21",
     "modalities": [
       "文本",
       "视频"
     ],
-    "live_summary": "OpenRouter 已收录 49 个该作者/厂商相关模型，最近更新为 Qwen3.7 Max",
+    "live_summary": "OpenRouter 已收录 48 个该作者/厂商相关模型，最近更新为 Qwen3.7 Max",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=alibabacloud.com&sz=64"
   },
