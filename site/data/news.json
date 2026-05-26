@@ -1,5 +1,75 @@
 [
   {
+    "id": "1e05b65a0552",
+    "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+    "url": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-26T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-26T02:32:17.480786",
+    "content_text": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n小红书数据引擎开发工程师陈宇确认出席 “\nAI 原生数据工程\n” 专题，发表题为\n《\n从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践\n》\n的主题分享。小红书数据引擎团队以 Ray 为统一引擎底座，基于 Ray 引擎的统一调度能力与丰富的上层框架，覆盖了 AI 数据生产三个阶段截然不同的算力诉求——同一套引擎底座，通过不同的框架组合与资源供给策略，驱动从稳定常驻集群到海量弹性算力的全场景落地。本演讲将以这三个阶段为线索，分享 Ray 引擎如何凭借统一的调度底座，通过不同的框架组合与资源供给策略，覆盖 AI 数据生产全生命周期中截然不同的算力诉求，以及在工程实践中形成的核心判断：算力供给模式必须匹配业务阶段的特征，而非用单一模式覆盖所有场景。\n陈宇，小红书数据引擎团队核心成员，负责 RED-Ray 分布式计算平台的研发与落地。专注 AI 数据基础设施方向，覆盖大规模预训练数据处理、模型离线刷库与近线推理入库等核心场景；主导向 KubeRay 开源社区提出并设计 KubeRay Federation 跨集群联邦方案（kuberay#4561）。在 AI 算力供给与弹性调度方向有丰富的一线实战经验。他在本次会议的详细演讲内容如下：\n演讲提纲：\n一、开篇（为什么一套引擎覆盖三类场景）\nAI 数据生产分三阶段：训练数据准备（稳定常驻+多引擎协同）、离线刷库（短期爆发+容忍驱逐+跨云）、近线增量入库（持续自适应+精确断点恢复）\nRay 的核心价值：统一调度、支持异构资源、上层生态丰富。整体规模：弹性 CPU 上亿核时/月，GPU 百万卡时/月\n二、Ray 底座能力\nRay Core：全局资源视图、任意节点发起分布式任务、高性能通信（小数据直传/大数据零拷贝）\nAutoScaler：按需扩缩容，无需预规划\n生态：RayData、RayServe、RayKlein、Daft、RayDP、DataJuicer\n三、训练数据准备（多引擎协同）\n挑战：数据来源多样、处理链路复杂、无万能引擎且协同成本高\n方案：多引擎统一在 Ray 底座，一个 Python 脚本无缝切换不同引擎\n实践：RuntimeEnv 做依赖隔离，本地直连集群开发，大规模集群解决 GCS、调度、日志等稳定性问题\n四、离线刷库（弹性算力）\n挑战：任务紧急、规模大、资源碎片化（多云多区 GPU）\n痛点：大任务拆分导致长尾严重\n演进：\nVirtual Kubelet 聚合多集群 CPU，支持大规模推理，但扩容和驱逐成本高\n存算分离：Serve 化模型算子，用轻量客户端驱动弹性 GPU\nKubeRay Federation：在框架层实现跨集群统一调度，从根本解决负载不均\n近线增量入库（流式算力）\n需求：分钟级处理、7×24 运行、弹性扩缩容、精确恢复\n方案：自研 Ray Klein\n基于分布式一致性快照，实现 Kafka offset 级恢复\n数据驱动+反压机制，自动平衡吞吐\n全局重启与可观测性完善\n一套代码支持流批统一\n总结\n训练数据：统一底座+多引擎协同。\n离线刷库：VK 解决资源聚合，Federation 解决调度\n近线入库：Checkpoint 粒度决定可靠性\n核心结论：算力供给模式必须匹配业务阶段，Ray 提供灵活底座支持差异化\n后续：推进 Federation、Ray Serverless 化、Daft 多模态规模化落地\n听众收益：\n了解如何基于 Ray 构建覆盖训练数据处理、离线推理、近线推理的统一算力供给体系\n了解 RayDP、Ray Data、Daft、DataJuicer 在真实 PreTrain / SFT 数据处理链路中的选型逻辑与协同方式\n获得流批统一引擎 Ray Klein 的设计思路，解决近线与离线场景代码割裂的问题\n除此之外，本次大会还策划了\n端侧 AI、物理与数字空间智能化\n、\n世界模型与多模态智能突破\n、\nAgent 架构与工程化实践\n、\nAgent 安全与可信治理\n、\n企业级研发体系重构\n、\nAI 原生数据工程\n、\nAI 时代的个人提效与组织变革\n等 14 个专题论坛，届时将有来自不同行业、不同领域、不同企业的 50+资深专家在现场带来前沿技术洞察和一线实践经验。\n更多详情可扫码或联系票务经理 13269078023 进行咨询。",
+    "content_source": "readability",
+    "content_chars": 2077,
+    "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n小红书数据引擎开发工程师陈宇确认出席 “\nAI 原生数据工程\n” 专题，发表题为\n《\n从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践\n》"
+  },
+  {
+    "id": "c84756b66182",
+    "title": "思特威与紫光展锐联合布局MicroLED高速光互连",
+    "url": "https://36kr.com/newsflashes/3825499233817224?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-26T02:19:03",
+    "summary": "36氪获悉，据思特威消息，近日，思特威（上海）电子科技股份有限公与紫光展锐（上海）科技股份有限公司正式达成战略合作。双方联合布局MicroLED高速光互连领域，围绕光互连芯片设计与系统解决方案落地展开深度协同，为AI算力集群短距高速互连场景，提供高带宽、低功耗、高集成、高可靠的国产化核心解决方案。",
+    "collected_at": "2026-05-26T02:32:16.069076"
+  },
+  {
+    "id": "bad81c2e80a9",
+    "title": "微软将弃用Claude：太贵了还是薅明白了？",
+    "url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-26T08:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-26T02:32:17.480876",
+    "content_text": "微软也用不起 Claude Code 了\n谁敢想，微软——那个曾经给 OpenAI 累计投了 100 多亿美元的科技巨头，最近也因为 Claude“太贵了，用不起”而在内部叫停。\n事情是这样的：近日，微软内部传出一个消息，从 6 月 30 日起，数千名负责 Windows、Microsoft 365、Teams、Outlook 和 Surface 相关工作的工程师，将不再被允许使用 Claude Code。微软自己引导他们转向自家的 GitHub Copilot CLI。\n微软没有公开具体在 Claude Code 上花费的具体数字，但知情人士透露此次叫停 Claude Code 的确是因为成本太高了，高到连微软都觉得“肉疼”。\nUber 不久前经历也做出了和微软一样的选择。\n据爆料，Claude Code 每个月为每位 Uber 工程师花掉的 AI 工具费用大概在 500 ～ 2000 美元。\n这是什么概念？一个百人技术团队，光这一项 AI 工具，一年下来就是几百万美元。Uber 2026 年的 AI 预算，在 4 月份就被“烧”完了。\n这背后其实藏着一个很多公司还没反应过来、但已经开始头疼的变化：AI 的定价模式，正在从以前的“办套餐”变成现在的“按表走字”。\n过去，许多 AI 工具采用按月固定收费的模式，成本相对可预测。但如今，越来越多面向编程场景的 AI 助手开始转向基于 Token 的计费方式——提问越复杂、调用越频繁、任务越深入，产生的费用就越高。对于日常需要处理大量编码工作的技术团队而言，这笔开支正迅速膨胀为一项不可忽视的财务压力。\n在这样的背景下，即便是微软、Uber 这样体量的科技公司，也不得不重新算一笔账：高昂的第三方 AI 工具费用，是否真的物有所值？是继续支付不断攀升的账单，还是转向更经济的开源方案，或改用自有工具来替代？\n微软的选择很明确：用自家的 GitHub Copilot CLI 替代 Claude Code。虽然功能体验上可能稍逊一筹，但成本可控，内部资源流转也更具效率。\n这一选择传递出一个清晰的信号——连微软都开始觉得“贵”的 AI 定价，正在倒逼企业重新审视自己的技术采购策略。\n毕竟，节约下来的成本，最终会直接反映在利润上。\n但《The Verge》也指出，取消 Claude Code 授权不会影响微软与 Anthropic 达成的 Foundry 协议，该协议包括向 Anthropic 投资高达 50 亿美元，并向 Foundry 客户提供 Claude 模型的使用权限，以及 Anthropic 承诺斥资 300 亿美元购买 Azure 计算能力。\n让员工用 Claude Code 只是一场实验？\n微软突然取消内部工程师的 Claude Code 使用许可，是在其让员工使用该工具的六个月后，于是外界认为，这不是一次仓促的封禁，倒像是一场精心安排的实验。\n据微软内部备忘录显示，体验与设备事业部执行副总裁 Rajesh Jha 对此做出了说明：“当我们开始同时提供 Copilot CLI 和 Claude Code 时，我们的目标是快速学习，在真实的工程工作流程中对这些工具进行基准测试，并了解哪些工具最能支持我们的团队。Claude Code 在这一学习过程中发挥了重要作用……与此同时，Copilot CLI 也为我们带来了一些特别重要的东西：一个我们可以直接与 GitHub 合作，根据微软的代码库、工作流程、安全预期和工程需求来打造的产品。”\n换句话说，微软主动让竞争对手的产品进入自己的工程团队，让 Claude Code 暴露自家 Copilot CLI 的短板。然后用半年时间收集反馈、修复差距，最后关掉对手的工具，把工程师全部迁回自家产品。\n在 LinkedIn 平台，有用户将这一策略概括为：先让竞品当“陪练”，学完了就收网。\n一位 LinkedIn 用户对此评价道：“如果微软想要继续使用 Claude，成本绝对不会是阻碍因素，微软曾经的 Tokenmaxxing 策略就仿佛一开始就奔着学习目的去的。”\n还有用户表示，“使用对手的产品对自己的产品进行压力测试，需要很强的自律性。而将所学知识付诸实践，需要更多努力。”\n从结果来看，微软确实这样做了。Copilot CLI 在六个月内根据工程师的对比使用反馈进行了多次迭代。\n所以此次的弃用也被解读成为不是“用不起”而被动放弃，而是借力打力、补足短板之后，主动结束了这场内部实验。\n不过，外界对此看法并不一致。有开发者指出，微软能够这样做，前提是它同时拥有底层云基础设施、自有的代码托管平台 GitHub，以及足够庞大的工程师群体作为“实验样本”。大多数公司不具备这种条件——它们只能单纯地“用不起”，而微软可以选择“学完再停”。\n叫停 Claude Code 背后，微软面临三大困境\n然而，成本压力和外界猜测的“实验测试”或许只是浮在水面上的冰山一角。微软叫停 Claude Code 的决定，远不止是一笔财务账——它触及了一个更令这家软件巨头不安的事实：在大模型时代的产业链条上，微软正在丧失定义权。\n2026 年 3 月，企业支出管理平台 Ramp 发布了一期 AI Index，在首次购买 AI 服务的企业中，Anthropic 在与 OpenAI 的直接对决中胜率约为 70%。这与 Ramp 2025 年观察到的趋势完全相反，当时 OpenAI 的普及速度超过了其他任何一家模型公司。Anthropic 年化收入飙升至 190 亿美元，直逼 OpenAI 的 250 亿美元。\n到了 4 月份，据 Anthropic 的企业 AI 采用率已达 34.4%，首次超越 OpenAI 的 32.3%，成为企业市场新的 AI 头号供应商。推动这一反超的核心引擎，正是 Claude Code——这款编程工具发布仅半年就做到了 10 亿美元的年化收入，占当时所有 GitHub 代码提交的 4%。\n而在这一轮市场中，微软几乎没占什么位置。\n在微软被迫依赖 OpenAI 和 Anthropic 的外部模型时，2026 年 AI 创业公司年化收入已达 800 亿美元，OpenAI 和 Anthropic 两家就瓜分了 89%。\n这揭示了一个残酷的事实：基础模型的商业价值正在向模型研发方回流，而微软——只是渠道商。当渠道商试图封杀源头的时候，只能说明一件事：它已经买不到真正的入场券了。\n总结起来或许可以概括为——微软在三个战场都被边缘化了：模型、开发者、生态控制权。\n困境一：没有前沿基模，外部依赖严重\n时至今日，微软最大的隐忧，是它始终没有真正属于自己的前沿通用大模型。\n自 2019 年起，微软累计向 OpenAI 投入超过 130 亿美元，并获得约 27%的股权，但其自研大语言模型始终未能对标 GPT-4 或 Claude。\n2026 年 4 月，微软 AI 研究实验室发布的三款 MAI 系列模型——MAI-Transcribe-1、MAI-Voice-1 和 MAI-Image-2——仅覆盖语音转录、语音生成和图像创建，并未推出通用大语言模型。\n微软虽然拥有全球最强的 AI 商业入口之一，却缺乏真正决定 AI 能力上限的“基模控制权”。\n缺少了自研通用模型，微软也就无法在通用对话、编程推理等核心场景实现技术闭环，其核心 AI 能力系于 OpenAI。2026 年 4 月，微软与 OpenAI 联合宣布结束持续七年的排他性绑定，Azure 不再是 OpenAI 唯一的云出口，IP 授权从独家转为非独家。\n过去微软最大的护城河之一，是“独占 OpenAI”。但现在，这种独占正在松动。\n而一旦微软失去对 OpenAI 的独家绑定，它就必须面对一个残酷现实：它自己并没有能够替代 GPT-4 或 Claude 的底层模型。这也是为什么，微软今天在 AI 领域呈现出一种非常割裂的状态：它是全球 AI 商业化最深的公司之一，但同时，它又高度依赖外部模型提供核心能力。这种“平台强、模型弱”的结构，本质上是一种技术空心化。\n困境二：自身产品力不敌竞争对手\n更让微软难过是，不仅仅是没有拿得出手的通用大模型，连曾经抢占了早期智能编程窗口期的 Copilot 也遭到了 Claude Code 实质性碾压。\n过去两年，GitHub Copilot 一直是 AI 编程的代名词。但 2026 年的 AI 编程市场，已经发生了根本变化。Claude Code 真正改变行业的地方，在于它把“代码补全工具”变成了“长上下文工程代理”。\n传统 Copilot 更像：“帮你写几行代码”，Claude Code 则能做到直接参与整个软件工程流程。\n在微软内部，最受欢迎的编程工具并非自家 Copilot，而是 Claude Code。\n据《The Verge》记者 Tom Warren 报道，微软工程师在过去几个月中“明显偏向”Claude Code 而非自家工具。这一偏好并非源于员工“不爱用自家产品”，而是产品力本身存在实质性差距。\n据测试数据，Claude Code 在 SWE-bench 上的得分为 80.8%，基于 GPT-4o 的 GitHub Copilot 仅为 72.5%，相差 8.3 个百分点。\nClaude Code 支持百万 token 上下文窗口，单次会话可处理约 3000 个文件，而 Copilot CLI 上限仅为 128K token。在跨数十个文件进行重构或调试的场景下，Claude Code 完成率达 89%，Copilot 只有 60%。\n工程师日常使用 Claude Code，意味着开发工作流、调试数据和操作习惯都在 Anthropic 的生态中沉淀。据《The Verge》报道，在向内部开放 Claude Code 前，91%的微软工程团队在使用 GitHub Copilot，但过去六个月中 Claude Code 的使用量“严重蚕食”了这一比例。\n微软体验与设备事业部负责人 Rajesh Jha 在备忘录中坦承 Claude Code 是“学习过程的重要组成部分”，但仍要求强制切换。这一矛盾的根源在于战略层面的根本焦虑——当工程师将开发工具链中的关键环节寄托于外部产品，微软对自身技术栈的控制力正在逐步削弱。\n员工长期使用外部工具，意味着培养竞争对手的用户习惯，未来将开发技能和流程知识直接带入竞对公司。\n一名微软内部人士对《The Information》表示，Claude Code 在微软工程师群体中的满意度高达 91%。当一家公司的核心开发者对自己的工具满意度低于外部竞品，其技术凝聚力便面临重大挑战。这不是“害怕对手赚钱”，而是担心开发文化被外部工具渗透，导致核心人才和开发流程被锁定在竞争对手的产品上。\n困境三：生态控制权减弱\n更让微软难受的是：不仅内部工程师在转向 Claude，整个企业市场也开始出现类似趋势。\n微软投资 OpenAI 和 Anthropic 两个主要合作伙伴，但二者均正逐步摆脱对微软的依赖。\n根据 Ramp AI Index 数据，2026 年 4 月，Anthropic 的企业付费采用率已达 34.4%，首次超越 OpenAI 的 32.3%。过去 12 个月，Anthropic 的企业采用率从仅 9%飙升至 34.4%，增长近 4 倍，而 OpenAI 的企业采用率同期仅增长了 0.3%。\n当企业在 2026 年首次采购 AI 服务时，约 70%的直接对决中最终签单的是 Claude 而非 ChatGPT。\n推动这一反超的核心引擎正是 Claude Code。\n据市场估算，全球 GitHub 公开提交中约 4%由 Claude Code 参与完成，Anthropic 预计到 2026 年底将超过 20%。Claude Code 占据 AI 编程工具市场 54%份额，全球财富十强企业中 8 家为其付费客户。从年化收入来看，Claude Code 在 2025 年 11 月突破 10 亿美元，到 2026 年初已达 25 亿美元。相比之下，OpenAI 的 Codex 年化收入约为 10 亿美元。\n据高盛统计，2026 年 AI 创业公司年化总收入约为 800 亿美元，OpenAI 约 250 亿、Anthropic 约 190 亿，两家合计占 89%。当 Claude Code 的收入由 Anthropic 获取而非微软时，微软所扮演的角色本质上仍是渠道商——提供了算力和部分投资，却未能获取大模型核心价值中最厚的利润。\n2026 年 4 月，亚马逊与 OpenAI 达成战略合作，承诺最多投资 500 亿美元，AWS 还将作为 OpenAI 企业级平台 Frontier 的独家第三方云分销商。\n据 Business Insider 报道，微软内部评估显示 GitHub Copilot 在 AI 编程工具市场中的份额已下滑至约 25%。\n这些数据意味着：AI 竞争正在从“聊天机器人”转向“工程系统”。\n而在这一轮竞争中，Claude Code 正在成为新的基础设施入口。问题在于——微软本来应该是这场 AI 编程革命最大的受益者。因为 GitHub 本来就掌握着全球最大的开发者生态。\n但现在 Claude Code 占据开发者心智，Anthropic 拿走企业增长，OpenAI 逐渐脱离微软独占体系，更可怕的是，GitHub Copilot 反而开始被边缘化。\n微软突然发现：自己拥有 GitHub，却未必拥有下一代 AI 编程生态。\n一步错，步步错\n微软今天面临的问题，其实已经不是某一个产品落后那么简单了。\n从表面上看，这只是一次“内部停用 Claude Code”的管理动作，但往更深层看，会发现背后是一整条正在失控的链条。\n最开始，是微软迟迟没有做出真正能对标 GPT-4、Claude 的自研通用大模型。底层模型能力缺位之后，它只能长期依赖 OpenAI 提供核心 AI 能力。可问题在于，OpenAI 如今也在逐步摆脱微软的独家绑定，双方的关系已经从“深度捆绑”变成了“合作但不排他”。\n而另一边，更危险的事情正在微软内部发生。\n越来越多微软工程师开始日常使用 Claude Code，而不是自家的 Copilot。表面看只是开发工具选择，实际上影响的是整个开发生态：代码工作流、调试习惯、工程上下文、Agent 使用方式，都会随着工具一起迁移。对一家平台型公司来说，最可怕的从来不是竞争对手赚到钱，而是自己的开发者开始在竞争对手生态里工作。\n接下来，问题开始进一步传导。\n开发者大量转向 Claude Code 后，真正赚到钱的是 Anthropic。企业客户也开始跟着迁移，Claude 在 AI 编程领域的话语权迅速扩大。微软虽然仍然能通过 Azure 提供算力赚钱，但 AI 时代利润最厚、控制力最强的那部分价值，正在被模型公司和 Agent 平台拿走。\n这种情况下，微软内部开始出现一种很微妙的状态：产品竞争不过，但又不能继续放任员工全面倒向外部工具。于是最后采取的办法，不是先把 Copilot 能力追上，而是先暂停 Claude Code 的内部使用权限。\n这其实已经说明，问题开始从“产品竞争”演变成“组织防御”。\n据《The Verge》报道，微软甚至一度考虑收购 Cursor，来弥补 Copilot 在 AI 编程体验上的差距，只是后来因为监管风险等因素没有推进。\n某种程度上，这恰恰暴露了微软现在最尴尬的地方：它拥有全球最强的开发者平台之一，也拥有最庞大的企业客户体系，但 AI 编程时代最关键的入口——开发者每天真正使用的 Agent 工具——却正在落到别人手里。\n而一旦开发者习惯、工作流和工程生态都被重新建立，后面再想夺回来，就不是加几个功能、换一次产品策略那么简单了。\n参考链接：\nhttps://ramp.com/leading-indicators/ai-index-may-2026?utm_source=chatgpt.com\nhttps://tech.yahoo.com/ai/copilot/articles/microsoft-ditching-claude-code-copilot-133318848.html\nhttps://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/\nhttps://www.linkedin.com/posts/matthew-johnson-71a059b3_microsoft-gave-claude-code-to-thousands-of-activity-7462552767300272128-b0dx/",
+    "content_source": "readability",
+    "content_chars": 6937,
+    "content_excerpt": "微软也用不起 Claude Code 了\n谁敢想，微软——那个曾经给 OpenAI 累计投了 100 多亿美元的科技巨头，最近也因为 Claude“太贵了，用不起”而在内部叫停。\n事情是这样的：近日，微软内部传出一个消息，从 6 月 30 日起，数千名负责 Windows、Microsoft 365、Teams、Outlook 和 Surface 相关工作的工程师，将不再被允许使用 Claude Code。微软自己引导他们转向自家的 GitHub Copilot CLI。\n微软没有公开具体在 Claude Code 上花费的具体数字，但知情人士透露此次叫停 Claude Code 的确是因为成本太高了，高到连微软都觉得“肉疼”。\nUber 不久前经历也做出了和微软一样的选择。\n据爆料，Claude Code 每个月为每位 Uber 工程师花掉的 AI 工具费用大概在 500 ～ 2000 美元。\n这是什么概念？一个百人技术团队，光这一项 AI 工具，一年下来就是几百万美元。Uber 2026 年的 AI 预算，在 4 月份就被“烧”完了。\n这背后其实藏着一个很多公司还没反应过来、但已经开始头疼的变化：AI 的定价模式，正在从以前的“办套餐”变成现在的“按表走字”。\n过去，许多 AI 工具采用按月固定收费的模式，成本相对可预测。但如今，越来越多面向编程场景的 AI 助手开始转向基于 Token 的计费方式——提问越复杂、调用越频繁、任务越深入，产生的费用就越高。对于日常需要处理大量编码工作的技术团队而言，这笔开支正迅速膨胀为一项不可忽视的财务压力。\n在这样的背景下，即便是微软、Uber 这样体量的科技公司，也不得不重新算一笔账：高昂的第三方 AI 工具费用，是否真的物有所值？是继续支付不断攀升的账单，还是转向更经济的开源方案，或改用自有工具来替代？"
+  },
+  {
+    "id": "b3d83f9365df",
+    "title": "今年我国养老机器人市场规模将破百亿元",
+    "url": "https://36kr.com/newsflashes/3825463530574466?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-26T01:42:44",
+    "summary": "今天（26日），中国软件评测中心发布了《智能养老服务机器人产业演进与未来趋势研究》报告。报告显示，我国养老服务机器人产业已初步形成体系，正在从“技术验证”阶段向“规模化应用”过渡的关键期，但技术与复杂养老场景的适配性仍是当前面临的核心挑战。据预测，今年我国养老服务机器人市场规模将突破100亿元。（央视新闻）",
+    "collected_at": "2026-05-26T02:32:16.069251"
+  },
+  {
+    "id": "fa282796bd3c",
+    "title": "Using AI to write better code more slowly",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-25T23:16:59",
+    "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ Comments URL: https://news.ycombinator.com/item?id=48272984 Points: 167 # Comments: 56",
+    "collected_at": "2026-05-26T02:32:14.332485",
+    "content_text": "A lot of people seem convinced that the point of AI coding is to write low-quality code as fast as possible. Spew out barely-passable slop, open massive PRs, and merge them unvetted. Ship it!\nBut the thing is, LLMs are very flexible. And you can use them just as effectively to write high-quality code more slowly.\nThis statement seems completely obvious to me at this point, and I almost didn’t want to write this post for that reason. But there seem to be enough people convinced that LLMs are only good as slop cannons that it’s worth making the opposite case.\nIf Mythos taught us anything, it’s that LLM agents are really good at finding bugs. Throw them at a codebase enough times, and they will find so many bugs that you’ll barely know what to do with them.\nLike many others, I’ve also found this is true of non-Mythos models – some may be better than others at finding subtle bugs or avoiding false positives, but the fact is that the latest public models from Anthropic and OpenAI are good enough to find plenty of bugs in an unscrutinized codebase.\nThe problem is not so much finding the bugs, but instead prioritizing and validating them. For this reason I have a Claude skill I adapted from this article‘s core insight, which is that the more, different models you throw at a PR review, the less likely you are to get hallucinations or bogus bugs.\nThe skill says (paraphrasing):\nRun a Claude sub-agent, Codex, and Cursor Bugbot to find bugs in this PR ranked by critical/high/medium/low. Once they’re all done, review their findings, do your own research to rule out false positives, and write a final report.\nThat’s basically it. You can add your own definition of “bug” if you want – mine has stipulations about the KISS and DRY principles, writing accessible HTML/JSX, using proper indexes for SQL queries, etc.\nIn my experience, this skill always finds tons of bugs in a PR, and the false positive rate is near zero. It finds so many bugs that you’ll be bored senseless if you try to tackle them all. They’ll range from critical security or correctness bugs to the more mundane medium-level perf bugs to low-level “this comment is misleading”-type bugs.\nMy typical workflow is:\n- Have an agent fix all the criticals and highs (with my guidance on the proper solution), then repeat until no criticals/highs\n- Skip highs/mediums where the juice isn’t worth the squeeze (e.g. 100 lines of code to fix a narrow edge case)\n- Abandon the PR if it has so many criticals that I realize the whole approach is misguided\nWhen I use this technique, I haven’t necessarily seen my velocity go up. If anything, the review process often finds pre-existing bugs, so I end up on a tangential side-quest where I’m writing unit tests and fixing subtle flaws that pre-date the PR. This is the opposite of the “10x productivity” slop-cannon style of development that most people imagine when they think of vibe coding, but I find it very satisfying.\nIt’s a great way to improve the overall health of the codebase while also teaching you about the odd corners of it. In my experience, the happy-path of a complex architecture is less interesting than its failure modes. And pre-LLMs, this is usually how I got familiar with a codebase anyway: understanding where the assumptions break down, and then getting my hands dirty to fix it.\nIf you’re the kind of person who is skeptical that AI coding is good for anything, then I doubt this post will persuade you. But if you’re the kind of developer who uses agents to write multi-hundred-line PRs that you barely understand yourself, I’d invite you to slow down a bit and try this other, slower style of “vibe coding.” Ask an agent how your PR works and how it might fail. Have it write Markdown docs with Mermaid charts if necessary. Use Matt Pocock’s /grill-me\nskill until you understand the entire PR front-to-back.\nYou might not be more “productive” in terms of raw lines of code. You might burn a ton of tokens just to find out that your entire plan was wrongheaded from the start. But I find this style of coding to be a more super-powered version of the kind of programming I was already trying to do before LLMs: careful, methodical, quality-obsessed, focused on making things better for the next coder.\nSo take a deep breath, slow down, try this technique, and see if you don’t enjoy writing better code more slowly.",
+    "content_source": "trafilatura",
+    "content_chars": 4364,
+    "content_excerpt": "A lot of people seem convinced that the point of AI coding is to write low-quality code as fast as possible. Spew out barely-passable slop, open massive PRs, and merge them unvetted. Ship it!\nBut the thing is, LLMs are very flexible. And you can use them just as effectively to write high-quality code more slowly.\nThis statement seems completely obvious to me at this point, and I almost didn’t want to write this post for that reason. But there seem to be enough people convinced that LLMs are only good as slop cannons that it’s worth making the opposite case.\nIf Mythos taught us anything, it’s that LLM agents are really good at finding bugs. Throw them at a codebase enough times, and they will find so many bugs that you’ll barely know what to do with them.\nLike many others, I’ve also found this is true of non-Mythos models – some may be better than others at finding subtle bugs or avoiding false positives, but the fact is that the latest public models from Anthropic and OpenAI are good enough to find plenty of bugs in an unscrutinized codebase.\nThe problem is not so much finding the bugs, but instead prioritizing and validating them. For this reason I have a Claude skill I adapted from this article‘s core insight, which is that the more, different models you throw at a PR review, the less likely you are to get hallucinations or bogus bugs.\nThe skill says (paraphrasing):\nRun a Claude sub-agent, Codex, and Cursor Bugbot to find bugs in this PR ranked by critical/high/medium/low. Once they’re all done, review their findings, do your own research to rule out false positives, and write a final report.\nThat’s basically it. You can add your own definition of “bug” if you want – mine has stipulations about the KISS and DRY principles, writing accessible HTML/JSX, using proper indexes for SQL queries, etc.\nIn my experience, this skill always finds tons of bugs in a PR, and the false positive rate is near zero. It finds so many bugs that you’ll be bored senseless if you try to tackle them all. They’ll range from critical security or correctness bugs to the more mundane medium-level perf bugs to low-level “this comment is misleading”-type bugs.",
+    "title_zh": "使用 AI 更慢地编写更好的代码",
+    "summary_zh": "文章网址：https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/ 评论网址：https://news.ycombinator.com/ite…",
+    "ai_summary": "文章网址：https://nolanlawson.com/2026/05/25/using-ai-to-write-be…"
+  },
+  {
     "id": "45384c323141",
     "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
     "url": "https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
@@ -13,6 +83,24 @@
     "content_source": "readability",
     "content_chars": 2133,
     "content_excerpt": "Bintrail 是一个新推出的数据层，为 MySQL 带来了\n针对特定时间点的查询和行级历史查询功能\n。在主要的关系型数据库中，MySQL 是目前唯一缺乏时间查询功能原生支持的。Bintrail 通过在 ProxySQL 后面使用索引二进制日志，无需修改 MySQL 或应用程序代码，即可支持按过去的时间戳查询数据并查看变更历史。该功能主要面向恢复和审计场景。\n该方法将基于 ProxySQL 的查询路由与索引二进制日志相结合，为标准 MySQL 添加了时间旅行查询功能\nAS OF\n和\nBETWEEN\n。Bintrail 解析 MySQL 中 ROW 格式的二进制日志，为每个行事件建立包含完整前后快照的索引，并生成用于特定时间点恢复的逆向 SQL 语句，整个过程不需要原始二进制日志文件。数据库专家\nDaniel Guzman-Burgos\n解释了他启动该项目的初衷："
+  },
+  {
+    "id": "2555fa13492d",
+    "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+    "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-25T19:37:57",
+    "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910 Comments URL: https://news.ycombinator.com/item?id=48270770 Points: 167 # Comments: 77",
+    "collected_at": "2026-05-26T02:32:14.332525",
+    "content_text": "FLASH\nNorway’s 2 petabytes of Huawei flash storage and LLM training\nNorway’s National Library is developing a large language model (LLM) that understands the Norwegian language and is using 2 PB of Huawei OceanStor Dorado flash storage in its AI training data pipeline.\nMarius Husnes, the Head of IT Platform at the library (\nNasjonlbiblioteket\n) discussed the project at Huawei’s ID Forum 2026 in Paris, saying that no commercial LLM provider was developing a local (Norwegian) language LLM. He asserted that any country with its own language that did not have a sovereign LLM trained in that language was at a disadvantage as a globally trained, English-speaking LLM would not know about that country’s history, news and culture that was described in the local language.\nNorway’s Ministry of Culture tasked the National Library with building a sovereign AI (LLM) as the library has the single largest digital collection of Norwegian books, newspapers, web pages and so forth in the country. Like many state libraries it is entitled to receive copies of every published book and broadcasted content. Its\nlegal deposit mandate\nin this area extended beyond books, as it was duty-bound to collect and preserve all of Norway’s cultural heritage.\nAn agreement with Norwegian newspapers permitted LLM training on copyrighted content and, Husnes said: ”No private company has this.”\nThe library was also well-placed to do this as it had been digitizing its collection since 2005 and had amassed 20 PB of unique data stored in 3-2-1 form (3 copies, 2 media types, 1 off-site), meaning some 60 PB overall. The digitization process for the raw text, sound, moving pictures, still images and web content involved much OCR scanning, and generated a lot of metadata, and also APIs for online access.\nThe bulk of the data was deposited in a digital disk plus tape archive, a preservation system. Husnes’ task was to get this data to the LLM training system. He said the bottlemeck was not compute; it was data quality, cleaning and pipeline throughput. There were two main processing stages. First there was in-house computation, using an Nvidia DGX H200 system, a 384 core CPU cluster and multiple Huawei\nOceanStor Dorado\nall-flash arrays, totalling 2 PB of flash capacity. This is low-latency storage for the data pipelines and training preparation.\nHusnes - training national LLM.\nThe pipeline has data ingestion, cleaning, deduplication, format normalization, validation and preparation steps.Once the data has passed through the pipeline it’s sent to Norway’s national supercomputer, the\nSigma2\nOlivia system, for the actual training runs. The Olivia system is an HPE Cray Supercomputing EX system, with 448 GPUs and 64,512 CPU cores. It uses a 5.3 PB Cray\nClusterStor\nE1000 storage system.\nOne large problem area has been over-coming two different storage system needs. The 60 PB preservation system is optimized for durability and cost, not fast IO, and has a high read latency, being designed for infrequent access. The AI Pipeline storage is designed for high-throughput, low-latency, parallel data IO. Husnes said he learnt that nobody was talking about the problems involved in moving PB-scale datasets from an archive to, and through, an AI data pipeline system. His team had to find out how to do it themselves.\nHusnes - preservation and AI pipeline storage.\nThe LLM training is ongoing and he finished his talk with a summary of what his team is stll learning about:\nEvaluation - there are no standard evaluation tools to assess a sovereign Norwegian LLM.The language has two written forms, multiple dialects and historical changes. They are building their own evaluation tool on the fly.\nGovernance - who controls access to a sovereign LLM? Who decides what it can be used for? These are institutional and political questions with no easy answers.\nOrchestration - making three systems; preservation archive + on-prem AI environment + national Sigma2 supercomputer, work smoothly together is an ongoing project.\nOur takeaways here are, one, that Huawei storage is playing a serious and significant role in the European market, and two, that any country developing a sovereign, local language LLM would do well to consult with Husnes and get acquainted with what’s involved.\nAs Husnes put it; Norway is a small country solving a problem every non-English-speaking nation will face: how do you build AI that reflects your language, your culture and your history? AI needs custodians, not just builders.",
+    "content_source": "readability",
+    "content_chars": 4501,
+    "content_excerpt": "FLASH\nNorway’s 2 petabytes of Huawei flash storage and LLM training\nNorway’s National Library is developing a large language model (LLM) that understands the Norwegian language and is using 2 PB of Huawei OceanStor Dorado flash storage in its AI training data pipeline.\nMarius Husnes, the Head of IT Platform at the library (\nNasjonlbiblioteket\n) discussed the project at Huawei’s ID Forum 2026 in Paris, saying that no commercial LLM provider was developing a local (Norwegian) language LLM. He asserted that any country with its own language that did not have a sovereign LLM trained in that language was at a disadvantage as a globally trained, English-speaking LLM would not know about that country’s history, news and culture that was described in the local language.\nNorway’s Ministry of Culture tasked the National Library with building a sovereign AI (LLM) as the library has the single largest digital collection of Norwegian books, newspapers, web pages and so forth in the country. Like many state libraries it is entitled to receive copies of every published book and broadcasted content. Its\nlegal deposit mandate\nin this area extended beyond books, as it was duty-bound to collect and preserve all of Norway’s cultural heritage.\nAn agreement with Norwegian newspapers permitted LLM training on copyrighted content and, Husnes said: ”No private company has this.”",
+    "title_zh": "挪威2PB华为闪存及LLM培训",
+    "summary_zh": "文章网址：https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/524491…",
+    "ai_summary": "文章网址：https://www.blocksandfiles.com/flash/2026/05/22/norways…"
   },
   {
     "id": "abb22fea2763",
@@ -258,19 +346,18 @@
     "content_excerpt": "OpenJDK\nJEP 523：\n在所有环境中将G1设为默认垃圾回收器（Make G1 the Default Garbage Collector in All Environments）\n，已经从\nCandidate\n状态提升为 JDK 27 的\nProposed to Target\n状态（参见\n公告\n）。该 JEP 提议将 Garbage-First 垃圾收集器（G1 GC）设为“所有环境下的默认选项，而不仅是服务端环境”。如果命令行未显式指定垃圾回收器，HotSpot JVM 将始终选择 G1 GC。评审会于 2026 年 5 月 19 日结束。"
   },
   {
-    "id": "6122f1f0b8c5",
-    "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
-    "url": "https://www.qbitai.com/2026/05/424794.html",
-    "source": "量子位",
+    "id": "v2ex-1215389",
+    "title": "自建了一个 AI 中转站，邀请大家帮忙压测（支持 Claude Code 调用 GPT-5.5）",
+    "url": "https://www.v2ex.com/t/1215389",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-25T09:37:05",
-    "summary": "硬件不该让人适应，它应该主动适应你",
-    "collected_at": "2026-05-25T14:37:52.662551",
-    "content_text": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026\n闻乐\n2026-05-25\n17:37:05\n来源：\n量子位\n编辑部 整理自 AIGC2026\n量子位 | 公众号 QbitAI\nAI浪潮正从线上数字空间，全面涌向\n线下物理世界\n。\n关注点也从单一流量入口的争夺，转向去中心化AI入口的创造。AI从数字技术融入物理世界的产业价值落地正逐步实现。\n所以，在AI Agent、Vibe Coding火热迭代的当下，\n京东科技JoyInside业务负责人戴文军\n提出另一种思路：\n当前我们正在经历一种全新的生活方式，人类不再需要去学习和适应复杂的工具，而是硬件像人一样主动融入我们的物理世界，理解并满足我们的需求。我们称之为“AI World”。\n他认为，未来AI不再局限于手机、屏幕，而是深度融入家居、玩具、机器人、健康设备等万物终端；\n硬件不再需要用户主动适配，而是能像人一样\n主动感知、理解需求，提供陪伴与服务\n，行业正式迈入全新\nAI World\n时代。\n依托京东JoyAI大模型、超级供应链与全场景产业积淀，JoyInside正以\n附身智能\n的方式，给各类硬件植入AI大脑，重新定义人机交互与家庭生活体验，成为AI落地物理世界的关键载体。\n为了完整体现戴文军的思考，在不改变原意的基础上，量子位对演讲内容进行了翻译和编辑整理，希望能给你带来更多启发。\n2026中国AIGC产业峰会是由量子位主办的行业峰会，近20位产业代表与会讨论。线下参会观众超千人，线上直播观众近400万，获得了主流媒体的广泛关注与报道。\n核心观点梳理\n大模型还没有深度介入物理世界。未来硬件会像人一样走进物理空间，理解并满足人的需求。在这个AI World里，技术是隐形的、温暖的、善解人意的。\n家是首选的AI World，因为它既是生活场所，也是情感纽带。硬件成为可以陪伴、乐于分担的家庭新成员。\n从宏观来看，人工智能正在从“算力堆积”向“价值创造”、从“大模型比拼”向“具身智能布局”转向。在此背景下，AI硬件需要从创意走向真实好用的产品，让天马行空的创意真正变成用户手中的商品。\nAI价值公式是“（模型×体验×产业厚度）²”。产业厚度包括数据、业务复杂性、供应链复杂性和运营经验，平方则是指产业厚度对AI价值的指数级放大作用。\n依托于超级供应链与细分场景的深度嵌入，京东构建了从\nA\nI基础设施、\nB\nusiness产业应用到\nC\nonsumer用户体验的全链路布局，让数字技术融入物理世界创造真实价值。京东正在打造\n全球最大的物理世界运营中心\n，推动AI从千行百业走向千家万户。\n以下为戴文军演讲原文：\n家是首选的AI World\n大家好，我是戴文军，来自京东科技。\n刚才很多老师谈了很多Vibe Coding和智能体相关的事情，我想跟大家介绍一下，有一个非常大的空间，是今天AI大模型还没有那么深入地接入进去探索的，它就是我们今天的物理世界。\n我们现在感知到什么？当前我们正在经历一种全新的生活方式，人类不再需要去学习和适应复杂的工具，而是硬件像人一样主动融入我们的物理世界，理解并满足我们的需求。我们称之为“AI World”。\n在这个世界里技术是隐形的也是温暖的，更是善解人意的，希望大家一起看“AI World”、一起来看物理世界，下面介绍一下我们在这方面的一些探索。\n我们选择\n从“家”开始打造AI World\n，家是生活的场所更是情感的纽带，我们可能因为忙于工作，短暂缺失了对家人的关心，琐碎的家务也在消耗着我们的精力与耐心。\n我们就在想什么？JoyInside让我们家庭中各类硬件不再是冰冷的，它会像人一样的，所以我们把它定义成家庭新成员，这样一个家庭新成员可以陪伴我们也是乐于分担的伙伴。\n在家里人常常做的事情有两件，一件在于一家人在一起唠唠嗑，还有一些一家人在一起打扫打扫卫生，或者是跟爸爸妈妈一起做做饭，再进一步来说管管孩子的学习。\n我们自身对于JoyInside的定义比较简单，能陪你说会儿话，能帮你干点活儿，这就是我们认为AI World里面最核心需要做的两件事情。\n机器人一定会走向家庭\n过去一年多时间里，我们给很多玩具加上JoyInside，可以陪孩子玩一些游戏，有时候也会陪他过家家，大一点的孩子会发挥他很多的想象，我们和京东图书去联合，把一个个玩具变成了原生的故事机，我们跟京东京造一起打造的AI玩具好评率整个平台第一。\n我们现在也在探索家庭中真实存在的一些痛点，近期我们会上线一些小的融入家庭的功能。\n我不知道大家会不会陪孩子听写，第二天老师听写你还没有准备好，我们就会在玩具上面，在闹钟上面，台灯上面把听写的功能加上去。\n最终扮演像妈妈一样跟孩子在家里面一个词一个词读过去，当他不会的时候还会等他，他再进一步不会的时候还会提示他，这就是我们要上线的听写的功能。\n再比如说许愿池，我们都会希望孩子变得更勇敢一点，有可能希望他跟爸爸交流更多一点，这样的话有时候不一定能够很好地跟孩子表达，我们通过许愿池方式构建孩子跟爸爸妈妈之间新的沟通的桥梁。\n我们跟机器人的合作是比较深的，为什么考虑机器人呢？\n虽然今天机器人很多，大家做一些运控方面的事情，做一些操作方面的事情，但我们最终会认为机器人一定会走向家庭，所以我们跟机器人进行很深度的合作，比如说现在的宇树机器人、还有松延机器人等都已经接入到JoyInside。\n进家庭前一步我们把它放到了京东Mall，它就像街溜子里面来回地溜达，碰到人就打招呼，打招呼就问问你想买点什么。\n我们想在京东Mall场所中打磨，打磨得足够好的时候，当家庭机器人真正落地家庭的时候就会像家人一样实现陪伴。\n刚才提到玩具、早教、机器人，今天进入到全新的关键的升级，我们全品类的AI化，现在在APP、笔记本上面有很多应用都已经加入了AI。\n今天我们会看到有沙发，我们有床垫还有空调、洗衣机，陪伴老人的还有轮椅，这一类的我们正在往上面加AI，加智能，变成像家里家人一样更贴心地陪伴你，我们在这样子的交互体验上进行非常大的升级。\n过去我们会感受我们跟AI之间是一来一回的，这不太符合人跟人之间互动形态的，现在做这件事情根据家庭需要来规划，像人一样给你提供服务。\n我们今天也带来了近期打造的四个产品，让大家感受一下像人一样家里面的硬件，它们提供的体验是什么样子。\n把创意变成好用的产品\n我们先来看第一款是围绕学习，它是一个投影仪又是一个台灯，大部分时候会讲题，孩子不一定能听得明白，怎么在讲题过程中跟孩子进行深度的交互，它会是什么样的体验呢？我下面播放一个视频。\n视频地址：https://mp.weixin.qq.com/s/e-oCjseI5CAbVMz3EZxb4g\n看完以后会不会像爸爸妈妈在家陪伴孩子的感觉？解决完孩子学习的问题，一日三餐也是非常重要的，如何通过AI结合更好地做饭，更好地选择今天吃什么，更好地让我们健康地往前走，我们看一下炒菜机器人。\n视频地址：https://mp.weixin.qq.com/s/e-oCjseI5CAbVMz3EZxb4g\n这样这道菜就炒好了，你不用再去关心怎么去炒，你想吃什么只要准备好食材就可以。\n回到孩子的世界，除了学习之外更多的是想象，先埋个伏笔，这是一个打印机，叫魔法打印，它看起来还是比较粗糙的，一会儿我给大家详细介绍。\n下面我们体验一下怎么把孩子的一些想法在不经意间展现出来，这是一个不一样的体验，大家可以稍微观察一下。\n视频地址：https://mp.weixin.qq.com/s/e-oCjseI5CAbVMz3EZxb4g\n可以观察一下这一段。其实并没有真正告诉它需要打印一个风筝，在交流过程中风筝可以打印出来可以提供，我们认为打印是新的沟通的媒介，像今天语言一样，像屏幕一样，后面非常多的硬件上面都会加上打印，它是一种输出。\n这种输出是主动型的，一开始我们放寒假的时候孩子回到家跟妈妈谈怎么规划寒假，谈着谈着形成一个计划，这个计划被打印出来，而不是妈妈回去再用Excel整理，整理完以后找个打印机打印，这是我们对于未来世界的设计。\n下面看一下睡眠这一块。\n视频地址：https://mp.weixin.qq.com/s/e-oCjseI5CAbVMz3EZxb4g\n整个交互的过程没有任何指令，只是体会关心它，我相信大家能感受到JoyInside带来不一样的生活体验，我们周边各种硬件都值得我们重新做一次，重新用AI定义新的体验，我希望大家能够一起加入到硬件这个方向，融入到物理世界中。\n我下面快速介绍一下，我们想把JoyInside家族变的更加丰富有趣，我们也做了一些努力，今年4月份发起JoyInside创新创业大赛，在大赛里面激发各种想象力，刚才演示的打印机就是在这个大赛中产的。\n我们要做的是把天马行空的创意变成用户手中真实好用的产品。\n京东的AI，从千行百业走向千家万户\n除了刚才创意的激发，京东怎么帮助企业和品牌实现AI化呢？\n这个过程中企业会定义它的一些产品，我们用实验室为它提供数据上的支撑以及用户在需求上的洞察，并且一起参与到软硬件的研发和测试中去，共同打造AI World新的体验。\n我们今年的目标是，到2026年底希望把京东大模型植入到超千万台终端设备上去，希望通过京东服务于整体的供应链，全力以赴用AI提升用户的交互体验。\n当然，京东除了在消费端和用户体验之外，我们还做了很多全场景、全产业融入今年京东618，产业端实现成本效率重大的革新，京东拥有AI基建、产业应用还有消费场景全链条布局。\n京东构建了从AI基础设施、Business产业应用到Consumer用户体验的全链路布局，我们希望依托超级供应链覆盖目前的产业流通和消费的各个场景，\n数字技术融入物理世界全链路\n中创造价值。\n我们去年提出模型×体验×产业厚度的平方，这是我们认为AI人工智能的价值公式。我们现在说说什么叫产业厚度，里面包括了数据，包括了业务的复杂性，包括供应链的复杂和运营的经验，这个平方是什么？AI在这里面对于整体价值指数级放大的作用。\n我们正在打造全球最大的物理世界运营中心，推动AI从千行百业走进千家万户，未来京东将持续投入开发能力，推动AI进一步走向万亿人工智能的生态。\n今天我看到很多年轻人，我们刚刚启动新一年的技术人才招聘。\n也就是我们的\n“TGT顶尖青年技术天才计划”\n，我们在这里面诚挚地邀请各位年轻的伙伴能加入我们，在我们丰富的业务场景里面一起探索技术的前沿，一起用技术创造更多真实的价值，在京东我们为技术人才提供最顶级的资源和最自由的空间，期待和大家探索下一场的边界，谢谢大家。\nTGT计划详情：https://mp.weixin.qq.com/s/-ougNQS5dyN6M-yhZ2YhDg\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "published": "2026-05-25T10:38:32",
+    "summary": "之前有在站内提过，我们自己折腾了一个 AI 中转站，也有一些 V 友注册体验过。 最近这段时间主要在搞稳定性优化、上游渠道调整和监控告警，陆续解决了一些模型可用性和响应速度方面的问题，现在准备再拉一些用户进来做压力测试和长期使用验证。 欢迎注册体验，帮忙测测稳定性和兼容性。 价格方面目前应该还算有竞争力，主要还是想做一个自己也愿意长期使用的平台。 目前开放测试期间： 注册赠送 50 刀 充值 1 元到账 10 刀 邀请好友可得 50 刀 本帖留言前 100 位用户额外送 100 刀(请留下 base64 编码的 QQ ，我会逐个发放) 官网： https://tokenwork.app 交流群",
+    "collected_at": "2026-05-26T02:32:18.175741",
+    "content_text": "之前有在站内提过，我们自己折腾了一个 AI 中转站，也有一些 V 友注册体验过。\n最近这段时间主要在搞稳定性优化、上游渠道调整和监控告警，陆续解决了一些模型可用性和响应速度方面的问题，现在准备再拉一些用户进来做压力测试和长期使用验证。\n欢迎注册体验，帮忙测测稳定性和兼容性。\n价格方面目前应该还算有竞争力，主要还是想做一个自己也愿意长期使用的平台。\n目前开放测试期间：\n注册赠送 50 刀\n充值 1 元到账 10 刀\n邀请好友可得 50 刀\n本帖留言前 100 位用户额外送 100 刀(请留下 base64 编码的 QQ ，我会逐个发放)\n官网：\nhttps://tokenwork.app\n交流群：\nQQ 群：768465677\n如果测试过程中遇到：\n模型不可用\n响应速度异常\nClaude Code 兼容问题\n余额计费异常\n其他 Bug\n欢迎直接在群里反馈，我基本都会第一时间处理。",
     "content_source": "readability",
-    "content_chars": 4574,
-    "content_excerpt": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026\n闻乐\n2026-05-25\n17:37:05\n来源：\n量子位\n编辑部 整理自 AIGC2026\n量子位 | 公众号 QbitAI\nAI浪潮正从线上数字空间，全面涌向\n线下物理世界"
+    "content_chars": 394,
+    "content_excerpt": "之前有在站内提过，我们自己折腾了一个 AI 中转站，也有一些 V 友注册体验过。\n最近这段时间主要在搞稳定性优化、上游渠道调整和监控告警，陆续解决了一些模型可用性和响应速度方面的问题，现在准备再拉一些用户进来做压力测试和长期使用验证。\n欢迎注册体验，帮忙测测稳定性和兼容性。\n价格方面目前应该还算有竞争力，主要还是想做一个自己也愿意长期使用的平台。\n目前开放测试期间：\n注册赠送 50 刀\n充值 1 元到账 10 刀\n邀请好友可得 50 刀\n本帖留言前 100 位用户额外送 100 刀(请留下 base64 编码的 QQ ，我会逐个发放)\n官网："
   },
   {
     "id": "9ff48f4ffa2d",
@@ -288,15 +375,19 @@
     "content_excerpt": "Claude Code 定义了当前 AI 编程工具的上限，但它不对中国开发者开放。这个缺口，就是 DeepSeek 的机会。最新组建的团队，正在补上这一层最关键的基础设施——它叫 Harness。\nDeepSeek 公开招兵买马：从零开始，对标 Claude Code\n5 月中下旬，DeepSeek 开始了一场横跨多个平台的招聘动作：官网、小红书、X 同步放出信息，目标是组建一支全新的 Harness 团队，从零开始构建对标 Claude Code 的代码智能体产品。\nDeepSeek 官网上发布的“Agent Harness 产品经理”和“Agent Harness 研发工程师”职位，开头就写着一句很醒目的公式：Model + Harness = Agent\n。\nDeepSeek 对这个团队的定义很清楚：他们正在把 DeepSeek 的前沿模型能力转化为领先的 Agent 产品，而除模型本身以外的所有工作，都属于 Harness 的范畴。\n在小红书上，“陈小礼”发布的帖子也非常直白：“简单来说就是对标 Claude Code，做 DeepSeek Code Harness”。\n在 X（推特）上，DeepSeek 高级研究员陈德里（Deli Chen）发布了一条更带个人色彩的招聘推文：\n陈德里毕业于北京大学，于 2023 年加入 DeepSeek 担任研究员，此后他的名字多次出现在公司发布的重要研究报告中。由于创始人梁文锋很少公开露面，陈德里已成为公司对外沟通的重要代表，曾在 2024 年 NVIDIA GTC 开发者大会和 2025 年世界互联网大会乌镇峰会上发表过公开演讲。\n在这条推文的评论区，陈德里还补充了一句：“简历直达部门老大”，鼓励大家私信内推。这条推文获得了超过 30 万次浏览，以及 1600 多个点赞。网友反应普遍积极，可以说是万众期待。连 Redis 之父也在头排推荐人选 Armin Ronacher（Rust 核心贡献者、常用命令行工具的知名开发者）和 Mario Zechner（游戏开发领域的技术专家）。"
   },
   {
-    "id": "a954c0960f3d",
-    "title": "龙磁科技：研发的芯片电感产品产能正在建设，处于客户端验证及小批量出货阶段",
-    "url": "https://36kr.com/newsflashes/3824498595238018?f=rss",
-    "source": "36氪",
+    "id": "6122f1f0b8c5",
+    "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
+    "url": "https://www.qbitai.com/2026/05/424794.html",
+    "source": "量子位",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-25T09:21:09",
-    "summary": "36氪获悉，龙磁科技公告，目前公司研发的芯片电感产品产能正在建设，处于客户端验证及小批量出货阶段，当前该产品尚未形成稳定营收贡献，业务合作及订单交付进度存在不确定性，存在未来业务推进不及预期的风险。",
-    "collected_at": "2026-05-25T09:54:18.214076"
+    "priority": 1,
+    "published": "2026-05-25T09:37:05",
+    "summary": "硬件不该让人适应，它应该主动适应你",
+    "collected_at": "2026-05-25T14:37:52.662551",
+    "content_text": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026\n闻乐\n2026-05-25\n17:37:05\n来源：\n量子位\n编辑部 整理自 AIGC2026\n量子位 | 公众号 QbitAI\nAI浪潮正从线上数字空间，全面涌向\n线下物理世界\n。\n关注点也从单一流量入口的争夺，转向去中心化AI入口的创造。AI从数字技术融入物理世界的产业价值落地正逐步实现。\n所以，在AI Agent、Vibe Coding火热迭代的当下，\n京东科技JoyInside业务负责人戴文军\n提出另一种思路：\n当前我们正在经历一种全新的生活方式，人类不再需要去学习和适应复杂的工具，而是硬件像人一样主动融入我们的物理世界，理解并满足我们的需求。我们称之为“AI World”。\n他认为，未来AI不再局限于手机、屏幕，而是深度融入家居、玩具、机器人、健康设备等万物终端；\n硬件不再需要用户主动适配，而是能像人一样\n主动感知、理解需求，提供陪伴与服务\n，行业正式迈入全新\nAI World\n时代。\n依托京东JoyAI大模型、超级供应链与全场景产业积淀，JoyInside正以\n附身智能\n的方式，给各类硬件植入AI大脑，重新定义人机交互与家庭生活体验，成为AI落地物理世界的关键载体。\n为了完整体现戴文军的思考，在不改变原意的基础上，量子位对演讲内容进行了翻译和编辑整理，希望能给你带来更多启发。\n2026中国AIGC产业峰会是由量子位主办的行业峰会，近20位产业代表与会讨论。线下参会观众超千人，线上直播观众近400万，获得了主流媒体的广泛关注与报道。\n核心观点梳理\n大模型还没有深度介入物理世界。未来硬件会像人一样走进物理空间，理解并满足人的需求。在这个AI World里，技术是隐形的、温暖的、善解人意的。\n家是首选的AI World，因为它既是生活场所，也是情感纽带。硬件成为可以陪伴、乐于分担的家庭新成员。\n从宏观来看，人工智能正在从“算力堆积”向“价值创造”、从“大模型比拼”向“具身智能布局”转向。在此背景下，AI硬件需要从创意走向真实好用的产品，让天马行空的创意真正变成用户手中的商品。\nAI价值公式是“（模型×体验×产业厚度）²”。产业厚度包括数据、业务复杂性、供应链复杂性和运营经验，平方则是指产业厚度对AI价值的指数级放大作用。\n依托于超级供应链与细分场景的深度嵌入，京东构建了从\nA\nI基础设施、\nB\nusiness产业应用到\nC\nonsumer用户体验的全链路布局，让数字技术融入物理世界创造真实价值。京东正在打造\n全球最大的物理世界运营中心\n，推动AI从千行百业走向千家万户。\n以下为戴文军演讲原文：\n家是首选的AI World\n大家好，我是戴文军，来自京东科技。\n刚才很多老师谈了很多Vibe Coding和智能体相关的事情，我想跟大家介绍一下，有一个非常大的空间，是今天AI大模型还没有那么深入地接入进去探索的，它就是我们今天的物理世界。\n我们现在感知到什么？当前我们正在经历一种全新的生活方式，人类不再需要去学习和适应复杂的工具，而是硬件像人一样主动融入我们的物理世界，理解并满足我们的需求。我们称之为“AI World”。\n在这个世界里技术是隐形的也是温暖的，更是善解人意的，希望大家一起看“AI World”、一起来看物理世界，下面介绍一下我们在这方面的一些探索。\n我们选择\n从“家”开始打造AI World\n，家是生活的场所更是情感的纽带，我们可能因为忙于工作，短暂缺失了对家人的关心，琐碎的家务也在消耗着我们的精力与耐心。\n我们就在想什么？JoyInside让我们家庭中各类硬件不再是冰冷的，它会像人一样的，所以我们把它定义成家庭新成员，这样一个家庭新成员可以陪伴我们也是乐于分担的伙伴。\n在家里人常常做的事情有两件，一件在于一家人在一起唠唠嗑，还有一些一家人在一起打扫打扫卫生，或者是跟爸爸妈妈一起做做饭，再进一步来说管管孩子的学习。\n我们自身对于JoyInside的定义比较简单，能陪你说会儿话，能帮你干点活儿，这就是我们认为AI World里面最核心需要做的两件事情。\n机器人一定会走向家庭\n过去一年多时间里，我们给很多玩具加上JoyInside，可以陪孩子玩一些游戏，有时候也会陪他过家家，大一点的孩子会发挥他很多的想象，我们和京东图书去联合，把一个个玩具变成了原生的故事机，我们跟京东京造一起打造的AI玩具好评率整个平台第一。\n我们现在也在探索家庭中真实存在的一些痛点，近期我们会上线一些小的融入家庭的功能。\n我不知道大家会不会陪孩子听写，第二天老师听写你还没有准备好，我们就会在玩具上面，在闹钟上面，台灯上面把听写的功能加上去。\n最终扮演像妈妈一样跟孩子在家里面一个词一个词读过去，当他不会的时候还会等他，他再进一步不会的时候还会提示他，这就是我们要上线的听写的功能。\n再比如说许愿池，我们都会希望孩子变得更勇敢一点，有可能希望他跟爸爸交流更多一点，这样的话有时候不一定能够很好地跟孩子表达，我们通过许愿池方式构建孩子跟爸爸妈妈之间新的沟通的桥梁。\n我们跟机器人的合作是比较深的，为什么考虑机器人呢？\n虽然今天机器人很多，大家做一些运控方面的事情，做一些操作方面的事情，但我们最终会认为机器人一定会走向家庭，所以我们跟机器人进行很深度的合作，比如说现在的宇树机器人、还有松延机器人等都已经接入到JoyInside。\n进家庭前一步我们把它放到了京东Mall，它就像街溜子里面来回地溜达，碰到人就打招呼，打招呼就问问你想买点什么。\n我们想在京东Mall场所中打磨，打磨得足够好的时候，当家庭机器人真正落地家庭的时候就会像家人一样实现陪伴。\n刚才提到玩具、早教、机器人，今天进入到全新的关键的升级，我们全品类的AI化，现在在APP、笔记本上面有很多应用都已经加入了AI。\n今天我们会看到有沙发，我们有床垫还有空调、洗衣机，陪伴老人的还有轮椅，这一类的我们正在往上面加AI，加智能，变成像家里家人一样更贴心地陪伴你，我们在这样子的交互体验上进行非常大的升级。\n过去我们会感受我们跟AI之间是一来一回的，这不太符合人跟人之间互动形态的，现在做这件事情根据家庭需要来规划，像人一样给你提供服务。\n我们今天也带来了近期打造的四个产品，让大家感受一下像人一样家里面的硬件，它们提供的体验是什么样子。\n把创意变成好用的产品\n我们先来看第一款是围绕学习，它是一个投影仪又是一个台灯，大部分时候会讲题，孩子不一定能听得明白，怎么在讲题过程中跟孩子进行深度的交互，它会是什么样的体验呢？我下面播放一个视频。\n视频地址：https://mp.weixin.qq.com/s/e-oCjseI5CAbVMz3EZxb4g\n看完以后会不会像爸爸妈妈在家陪伴孩子的感觉？解决完孩子学习的问题，一日三餐也是非常重要的，如何通过AI结合更好地做饭，更好地选择今天吃什么，更好地让我们健康地往前走，我们看一下炒菜机器人。\n视频地址：https://mp.weixin.qq.com/s/e-oCjseI5CAbVMz3EZxb4g\n这样这道菜就炒好了，你不用再去关心怎么去炒，你想吃什么只要准备好食材就可以。\n回到孩子的世界，除了学习之外更多的是想象，先埋个伏笔，这是一个打印机，叫魔法打印，它看起来还是比较粗糙的，一会儿我给大家详细介绍。\n下面我们体验一下怎么把孩子的一些想法在不经意间展现出来，这是一个不一样的体验，大家可以稍微观察一下。\n视频地址：https://mp.weixin.qq.com/s/e-oCjseI5CAbVMz3EZxb4g\n可以观察一下这一段。其实并没有真正告诉它需要打印一个风筝，在交流过程中风筝可以打印出来可以提供，我们认为打印是新的沟通的媒介，像今天语言一样，像屏幕一样，后面非常多的硬件上面都会加上打印，它是一种输出。\n这种输出是主动型的，一开始我们放寒假的时候孩子回到家跟妈妈谈怎么规划寒假，谈着谈着形成一个计划，这个计划被打印出来，而不是妈妈回去再用Excel整理，整理完以后找个打印机打印，这是我们对于未来世界的设计。\n下面看一下睡眠这一块。\n视频地址：https://mp.weixin.qq.com/s/e-oCjseI5CAbVMz3EZxb4g\n整个交互的过程没有任何指令，只是体会关心它，我相信大家能感受到JoyInside带来不一样的生活体验，我们周边各种硬件都值得我们重新做一次，重新用AI定义新的体验，我希望大家能够一起加入到硬件这个方向，融入到物理世界中。\n我下面快速介绍一下，我们想把JoyInside家族变的更加丰富有趣，我们也做了一些努力，今年4月份发起JoyInside创新创业大赛，在大赛里面激发各种想象力，刚才演示的打印机就是在这个大赛中产的。\n我们要做的是把天马行空的创意变成用户手中真实好用的产品。\n京东的AI，从千行百业走向千家万户\n除了刚才创意的激发，京东怎么帮助企业和品牌实现AI化呢？\n这个过程中企业会定义它的一些产品，我们用实验室为它提供数据上的支撑以及用户在需求上的洞察，并且一起参与到软硬件的研发和测试中去，共同打造AI World新的体验。\n我们今年的目标是，到2026年底希望把京东大模型植入到超千万台终端设备上去，希望通过京东服务于整体的供应链，全力以赴用AI提升用户的交互体验。\n当然，京东除了在消费端和用户体验之外，我们还做了很多全场景、全产业融入今年京东618，产业端实现成本效率重大的革新，京东拥有AI基建、产业应用还有消费场景全链条布局。\n京东构建了从AI基础设施、Business产业应用到Consumer用户体验的全链路布局，我们希望依托超级供应链覆盖目前的产业流通和消费的各个场景，\n数字技术融入物理世界全链路\n中创造价值。\n我们去年提出模型×体验×产业厚度的平方，这是我们认为AI人工智能的价值公式。我们现在说说什么叫产业厚度，里面包括了数据，包括了业务的复杂性，包括供应链的复杂和运营的经验，这个平方是什么？AI在这里面对于整体价值指数级放大的作用。\n我们正在打造全球最大的物理世界运营中心，推动AI从千行百业走进千家万户，未来京东将持续投入开发能力，推动AI进一步走向万亿人工智能的生态。\n今天我看到很多年轻人，我们刚刚启动新一年的技术人才招聘。\n也就是我们的\n“TGT顶尖青年技术天才计划”\n，我们在这里面诚挚地邀请各位年轻的伙伴能加入我们，在我们丰富的业务场景里面一起探索技术的前沿，一起用技术创造更多真实的价值，在京东我们为技术人才提供最顶级的资源和最自由的空间，期待和大家探索下一场的边界，谢谢大家。\nTGT计划详情：https://mp.weixin.qq.com/s/-ougNQS5dyN6M-yhZ2YhDg\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 4574,
+    "content_excerpt": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026\n闻乐\n2026-05-25\n17:37:05\n来源：\n量子位\n编辑部 整理自 AIGC2026\n量子位 | 公众号 QbitAI\nAI浪潮正从线上数字空间，全面涌向\n线下物理世界"
   },
   {
     "id": "4c8430607d8e",
@@ -314,19 +405,15 @@
     "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n深信服科技副总裁廖俊峰确认出席 “AI 原生数据工程” 专题，发表题为《AI 时代数据面临新的挑战和解决之道》的主题分享。传统数据湖信奉“先存后管”，导致大量非结构化数据处于不可视、不可用的“数据沼泽”状态，面临治理溃败与 ROI 难以证明的困境。AI 时代，Agent 应用对数据的需求从单纯“文件”转向可引用的“上下文”。本次演讲提出从 Data Lake 向 AI 数据湖（Context Lake） 的战略升级。通过构建“湖原生存储底座+统一数据视图（UDV）”，实现非结构化数据的资产化激活，为 AI Pipeline 提供可信的记忆层。\n廖俊峰，专家级技术领袖，深信服 AI 及存储业务核心领航人。清华大学计算机科学与技术系博士，深耕高性能计算（HPC）、异构计算及大规模分布式存储领域十余年。曾任职于国家超算中心，相关科研工作入围全球高性能计算领域最高奖项“戈登贝尔奖”（Gordon Bell Prize）决赛前三。他在本次会议的详细演讲内容如下：\n演讲提纲：\n背景与痛点：为什么传统数据湖在 AI 面前“哑火”了？\n从“先存后管”到“数据沼泽”：\n核心痛点： 传统数据湖信奉 Schema-on-Read，导致入湖门槛极低，缺乏强制元数据定义\n现状： 存储只回答“文件在哪里”，不回答“数据是什么”。企业存了数 PB 数据，却因为找不到、不可信、权限乱，变成了“数据坟场”\nAI 应用的消费壁垒："
   },
   {
-    "id": "79295bacaf26",
-    "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-    "url": "https://36kr.com/p/3824164325412992?f=rss",
+    "id": "a954c0960f3d",
+    "title": "龙磁科技：研发的芯片电感产品产能正在建设，处于客户端验证及小批量出货阶段",
+    "url": "https://36kr.com/newsflashes/3824498595238018?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-25T08:54:18",
-    "summary": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。 麻亚炜将AI转型划分为四个递进阶段： 第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。 第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。 第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖",
-    "collected_at": "2026-05-25T09:54:18.212657",
-    "content_text": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。\n麻亚炜将AI转型划分为四个递进阶段：\n第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。\n第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。\n第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖全链路的\"AI全家桶\"与数字员工体系，实现效率与体验的双重跃升。\n第四阶段（2026）：AI Native 原生创新 以AI原生思维开辟全新业务赛道，完成从\"工具赋能\"到\"基因重塑\"的质变。\n核心启示： 真正的AI转型，不是技术的堆砌，而是组织共识的构建与战略意志的穿透。\n以下为演讲内容，经36氪整理编辑：\n麻亚炜丨新通教育集团创始人&董事长\n大家下午好，非常高兴受36氪的邀请，在这里跟大家分享我们作为一家教育集团，在传统教育赛道上如何用AI重构增长。\n这是我第一次来到36氪的现场，跟过往的分享场景不太一样，今天看到了非常多的创业者。在创业者角色上会有两种非常明显的差别：第一种，你可能结束了商业模式，结束了你的公司，把它变成一笔钱，拿上钱和资源去重新面对AGI挑战，重新开始新的生意或者探索新的赛道。第二种，我们既是企业的创始人，在面对AGI挑战、需要做新的增长的同时，身上依然有比较大的负担——在过去十年、二十年甚至更长的时间里，伴随中国经济增长过程，积累着传统资源、传统产品、传统团队、传统组织。这是大部分创业者或者持续成功的创业者一定会碰到的问题，大概率不会一件事结束后你才开始另一件事。\n今天的主题是“用AI重构增长”，希望跟大家分享两个部分的内容：第一，如果你和我一样，有传统业务依然在持续运营中谋求更高效率的增长，我们可以怎样做；第二，我们同时不想放弃在新的增长部分用AI Native的方式去做，或许可以用什么样的探索方式。这是想跟大家分享的两块内容。\n36氪聚集了大量高科技、科技企业，新通教育并不是大家非常熟悉的名字。今年是新通教育成立30周年，过去30年我们主要做一件事，围绕中国中高净值人群的国际化成长道路，延伸出升学规划、就业规划、海外国际课程引进等等。2021年开始，面对新的技术浪潮逐步来临，我们是这个行业比较早进入组织数字化转型的，也因此才有机会在36氪的场合跟大家分享我们过去探索的成果。\n换一个角度看新通教育集团，我们是相对庞大的组织，目前在全国和全球一共有30多家分子公司，2000多名员工。对于一个组织面对AGI浪潮时，要追求增长，首先的前提并不是就增长讲增长，甚至不是就产品做探索，而是组织文化的变革。我今天的分享也是从这里开始的。开始之前，先说说过去几年探索获得了什么成果。第一，在人数不增加甚至减少的情况下实现了营收和人效的增长；第二，2025年真正实现第二条增长曲线的探索，形成了一定营收规模，也得到了市场验证；第三，2025年我们获得了哈佛商业评论年度卓越企业数字化转型大奖，跟我们比肩的是像商汤、菜鸟这样更科技化的公司，而不是传统赛道上的企业。\n今年5月份，我们参加了由教育部组织的2026世界数字教育大会，有三款产品——躺着学雅思、HSK中文出海、来华留学——入选了2026世界数字教育大会的成果展示。这是我们在过去几年获得的成果。如果把这些成果做回头看的归纳，一个相对大型组织的变革是生长的过程，我们把新通教育集团数字化转型以及从去年开始AI+教育部分做出的阶段性成果回溯来看，经历了几个阶段：\n一、2021年到2022年，花了两年的时间完成了数字化基建工作；二、2023到2024年，全组织内部推行战略AI Must，必须要有AI，AI必用；三、2025年把AI嵌入所有关键组织流程；到今年开展新业务的时候，不是把AI嵌入到流程当中，而是用AI Native的方式构建新的流程。经历了这四个阶段，2026年赛程还没有过半，还需要用更多时间验证我们在组织战略到最终营收增长方面取得了什么样的结果。\n对于大部分传统企业，如果不是科技行业，数字化基建是如何建设的？简单过一下，我们把数字化本身烟囱式、坑坑洼洼的省道变成搭建AGI的高速路，这是最初期的工作。初期工作之后，更重要的工作在2023到2024年完成。今天坐在这里有非常多的创始人，对创始人来说，面向未来的趋势探索，下定一个决心、找到一个方向并没有那么难，难的是如何让你的决策、战略，从董事会落地到一线，这是大家的挑战。\n在这个部分新通教育集团做了几件事，在座如果也有从传统赛道拥抱AGI的过程，或许可以做些参考。\n第一个，引进了外脑对整个组织进行诊断、评价和开启；第二个，鼓励全员开讲，传统业务上但凡用过AI的同学，都可以把他的经历分享给组织当中的其他成员；第三个，在组织中孵化标杆小组做全AI托管产品的试点；第四个，带着我们的产品去到哈佛、斯坦福，在教育、科技最前沿的地方去碰撞，看看我们的产品是不是对的方向，是否有足够的竞争力。这是在2023到2024年做的大量看起来非常基础的工作，让AI Must的公开课在全集团几千名员工中逐步渗透，让大家看到AI战略并不是自上而下的命令，同时也是身边同事最真实的感受。2023年当我们躺着学雅思——这个全AI托管的语言学习产品还没有诞生的时候，把产品雏形带到了哈佛和斯坦福，我们得到的最大的感受并不是胆怯、威胁，而是更大的确信：当新通教育集团有了几十年语言学习数据积累的时候，我们在这些垂类产品的开发和应用上，是有非常独到的优势的。\n到了2025年，我们就把战略组织转型到AI in All，AI必须嵌入组织的关键流程。这张图上是我们今天所有新通教育集团同事非常熟悉的AI全家桶，他们有自己的AI伙伴、各种各样的数字员工，也有自己的智能工具和智能平台。我们很多同事，当碰到一个问题需要解决的时候，本能的想法并不是如何做，而会想到如何让AI来做，这是非常重要的转型。\n我们构建出以智能为中心的全链路服务系统，回溯今天讲的从AI基建到AI Must、AI in All的过程，整个传统组织尤其是大规模的传统组织，在AI战略落地过程中会有三个非常重要的挑战。\n第一如何解决一线员工、普通员工无感的问题，让战略从董事会走到一线员工，并且能够接受、推行。我个体的感受，靠命令、说教甚至是简单激励工具是无法解决无感问题的，要让员工有感，还是要有更精心的设计。当我们做公开课的时候，外请的大脑常常只做开题报告，更多的分享来自于一线员工，让员工可以看到门槛，在AI的加持下，既有知识平权也有技术平权，这个过程非常顺畅地解决了从董事会到一线员工的问题。\n第二在组织中孵化自己的种子选手，让种子选手有代入感和参与感。当我们用AI重新改造核心场景的时候，核心场景的选择从哪里入手？选择标准：第一，选择人数最多的场景；第二，选择耗时最长的场景；第三，选择了不直接面对用户的场景，而是把它作为组织内部提效的工具来完成。当场景选得足够对，让每一个员工看到AI带给他的好处，这是激励整个组织做AI转型非常重要的动力。\n我们花了非常大的时间和精力做了全息用户画像。咨询服务、教学服务中，用户各种各样个性化需求的叠加和统计是一件非常麻烦的事，就好像一个医生看病只有三分钟，写完整的病历却需要半个小时。我们用AI全息模式、AI打标签的方式，帮助员工大大释放了在这方面的时间。我们有很多AI助理，员工跟AI交互过程中，无论是电话、微信还是其他方式，客户的需求和特点绝大部分被沉淀下来，并且变成了员工在持续为客户提供服务的过程中，更具象、生动、完整的画像。\n新通几十年有50多万留学生，我们做了几十万全球的智能案例，通过智能案例把学生的所有轨迹——录取轨迹、不录取轨迹、就业轨迹沉淀下来，未来成为一代代学生在做专业规划过程中非常好的技术支撑，就好像一个医生有无穷大的案例中心一样。\n我们有数字员工, 可以帮助一线员工解决基础重复工作。作为教育公司，我们token使用量从2024年的3亿到去年的120亿，今年是更夸张的数字，这也比较侧面地表明我们团队全员在AI转型过程中的渗透率是可以看到的。\n第三个增长曲线的问题，我们用AI原生的方式开辟了新业务。首先我们做了躺着学雅思，大家在小程序上可以看到，是全AI托管的产品，2024年7月份正式上线，到今天为止，全网有30万的学习者在这上面。\n除此之外，到2025年结束的时候，有了30万用户，单产品赛道上实现了两千万营收，可以看到产品基本的可行性和商业实践能够完成。我们在今年年初做了汉语出海，也是全AI产品托管的。\n归纳一下传统企业在AI转型过程中我们自己的经验：在人才部分，一方面有外求的部分，更重要的是做人才内求的部分；在内部更多使用吸引力法则而不是命令；在AI创新过程中也要有适度的对齐，允许适度浪费，这是我们要做的。我们在组织内部做了孵化基金，帮助组织中最优秀的同事用AI+产业——产业还是非常重要的关键词——去做更多新的探索。\n作为教育企业，我们关注的问题是，未来我们的教育服务企业也能够帮助未来的世界去培养更多优秀的人。我们的目标是帮助未来各种各样的产业去培养能够自然使用AI、能够和AI协作学习、并且能够在创造中持续成长的人才，这是我们想做的。\n以上是我简要跟大家分享的新通教育集团作为一家传统教育企业，在过去五年中，拥抱AI做组织转型的实践和探索。希望跟所有的创业者一样，当我们面对越来越多的问题与挑战，我们也可以与时俱进，跟AI共同进步。\n谢谢大家！",
-    "content_source": "trafilatura",
-    "content_chars": 4019,
-    "content_excerpt": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。\n麻亚炜将AI转型划分为四个递进阶段：\n第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。\n第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。\n第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖全链路的\"AI全家桶\"与数字员工体系，实现效率与体验的双重跃升。\n第四阶段（2026）：AI Native 原生创新 以AI原生思维开辟全新业务赛道，完成从\"工具赋能\"到\"基因重塑\"的质变。\n核心启示： 真正的AI转型，不是技术的堆砌，而是组织共识的构建与战略意志的穿透。\n以下为演讲内容，经36氪整理编辑：\n麻亚炜丨新通教育集团创始人&董事长\n大家下午好，非常高兴受36氪的邀请，在这里跟大家分享我们作为一家教育集团，在传统教育赛道上如何用AI重构增长。"
+    "published": "2026-05-25T09:21:09",
+    "summary": "36氪获悉，龙磁科技公告，目前公司研发的芯片电感产品产能正在建设，处于客户端验证及小批量出货阶段，当前该产品尚未形成稳定营收贡献，业务合作及订单交付进度存在不确定性，存在未来业务推进不及预期的风险。",
+    "collected_at": "2026-05-25T09:54:18.214076"
   },
   {
     "id": "813e3a1321f2",
@@ -344,19 +431,19 @@
     "content_excerpt": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026\n一水\n2026-05-25\n14:56:42\n来源：\n量子位\n大模型的爆发，吃的是互联网几十年积累的数据红利。\n可当AI从数字世界迈向物理世界，蚂蚁灵波科技首席科学家沈宇军发现：\n机器人的数据，几乎还是一片空白\n。"
   },
   {
-    "id": "af68c795a1b6",
-    "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
-    "url": "https://36kr.com/p/3824158896312709?f=rss",
+    "id": "79295bacaf26",
+    "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
+    "url": "https://36kr.com/p/3824164325412992?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-25T06:26:35",
-    "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。 广州因特智能科技有限公司孵化于西安电子科技大学广州研究院，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持软硬一体，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。 以下为演讲内容，经36氪整理编辑： 刘金硕丨广州因特智能科技CEO 非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术解决工业",
-    "collected_at": "2026-05-25T09:54:18.212900",
-    "content_text": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。\n广州因特智能科技有限公司孵化于\n西安电子科技大学广州研究院\n，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持\n软硬一体\n，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。\n以下为演讲内容，经36氪整理编辑：\n刘金硕丨广州因特智能科技CEO\n非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术解决工业场景的“卡脖子”检测难题。\n简单介绍我们公司，广州因特智能科技有限公司。我们是由西安电子科技大学广州研究院产业成果转化联合实验室孵化，专注于高端制造AI视觉检测装备。公司建有光学测试实验室、高速显微测试实验室、AI 算法通用训练平台测试实验室、AI 边缘服务器研发实验室和柔性化机构研发实验室，并配备近 2000 平方米万级无尘制造车间，形成了从算法研发、光学测试、装备集成到生产交付的完整能力体系。\n目前主要聚焦三大细分领域：半导体大基板检测，包含FPD光罩、玻璃基板和陶瓷封装基板；在光通信领域，侧重MPO、CPO光纤端面检测；在新能源汽车主要是压铸件、IGBT总成。\n在这三个细分领域里，我们为行业内的头部客户提供了检测装备，有自己的研发、生产、销售。我们成立了智能检测装备联合研究中心，集中西电及产业高精尖资源专门做装备的落地。目前拥有核心软著和发明专利2项，还在申请的专利8项，发明专利8项，软著5项。\n我们不只是专注于实验室，而是专注整个产业去做落地。\n成立至今，我们服务的主要是产业内的头部大客户，目前已出了可复制的设备，可批量落地。接下来跟大家介绍一下核心产品和技术。\n产品一是高速显微AOI检测平台，主要针对半导体行业和光通信行业。肉眼看不见的东西，都是用这个平台来实现的。这个平台用显微镜做检测镜头，通过控制再加上AI算法，实现缺陷检测。光罩检测、玻璃基板检测、晶圆检测、OLED基板检测，大部分偏向高精度、高速度的检测。\n光学成像是在高速显微里我们最核心的技术之一。最小检出缺陷0.18μm，测量精度达到亚纳米级，另外集成线光谱共聚焦模组、白光干涉模组、深紫外线光源、原子力显微镜应用满足行业2D、2.5D和3D检测测量需求，微观检测成像综合应用和精度行业第一梯队。整个检测模组是比较复杂的，光路设计、移动控制都非常精密。第二个核心技术是算法。算法用的是行业比较先进的DD+DB+Starlight增强算法，基于我们在整个行业中需要做到的程度，这些在国内都比较领先。我们还配备了高精密运控平台。有高精密大理石平台和气浮检测运控平台，核心技术是我们高精度的传动控制导轨加上基台定位精度的反馈算法补偿。\n产品二是AI通用训练平台，主要针对新能源汽车行业。汽车压铸件检测面临的挑战更为棘手，产品尺寸大、复杂曲面种类繁多，这些外观特性长期干扰着高效检测的实现。\nAI方面，我们自研AI算法，采用“小样本、无监督训练模式”，最少仅需5张图片即可训练一个检测模型；无需复杂编程，15分钟即可完成新零件规格适配，快速响应产线切换。用通俗的比喻来解释：传统AI训练像“手把手教孩子认字”，需要海量标注数据；而无监督自学习则像“孩子自己观察世界”，能够自主学习、持续进化。广州因特智能科技的AI算法就像一位可以自我成长的质检员，在生产中不断积累经验，越用越聪明。\n我们一直注重软硬件结合，汽车压铸件AI视觉检测设备搭载西门子边缘服务器，凭借其强大的局部实时算力与毫秒级数据处理能力，打破了海量图像回传的带宽瓶颈，可实现360度全域无死角视觉覆盖，对深腔、凹槽、弧面等难检测区域精准“锁定”。柔性运动控制模块支持高速飞拍，瞬时捕捉缺陷，单个点位检测耗时仅需120毫秒，较行业检测耗时缩短74.4%，充分适配产线高速节拍，各类缺陷0.1毫米级识别，漏检率低至5%。\n针对上面提及的三大细分领域，最后给大家介绍我们的实施的案例。\n目前因特智能配备了国内首台套、国产替代的FPD光罩缺陷检测设备，小检出缺陷能做到0.18μm。玻璃基板TGV检测设备，能快速把玻璃基板上的每个孔径大概只有3微米，几万到几十万个孔，在极短的时间内把这些孔的孔径测量完，包括检测缺陷。\n在光通信领域，针对MPO光纤检测低效难题，广州因特智能科技打造出MPO端面一体化检测设备，包括光模块、MPO模块、CPO等，设备系列比较多。\n最后一个是汽车压铸件外观检测设备，我们公司更看重的是给客户交付一整台能用的设备。这台设备是机械臂或多机械臂系列，把相机、镜头、光源集装到机械臂的前端，通过运控对整个压铸件进行飞拍、巡拍。上面的图像根据客户要求检测每个点位，用飞拍的方式再用AI算法输出结果，哪个点位合格、哪个点位不合格，都可以轻松地进行追溯。最终形态的表达，是多个机械臂相互协作，产品兼容度、复杂度高，上面既有2D、2.5D、3D，还有测量功能全部放上去，给用户去用，包括上料、下料功能。\n精准检测，科技领航，广州因特智能科技会持续深耕工业缺陷检测领域，以专业技术体系赋能工业品质管控。\n我的演讲就结束了，谢谢大家。",
-    "content_source": "readability",
-    "content_chars": 2196,
-    "content_excerpt": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。\n广州因特智能科技有限公司孵化于\n西安电子科技大学广州研究院\n，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持\n软硬一体\n，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。\n以下为演讲内容，经36氪整理编辑：\n刘金硕丨广州因特智能科技CEO\n非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术解决工业场景的“卡脖子”检测难题。\n简单介绍我们公司，广州因特智能科技有限公司。我们是由西安电子科技大学广州研究院产业成果转化联合实验室孵化，专注于高端制造AI视觉检测装备。公司建有光学测试实验室、高速显微测试实验室、AI 算法通用训练平台测试实验室、AI 边缘服务器研发实验室和柔性化机构研发实验室，并配备近 2000 平方米万级无尘制造车间，形成了从算法研发、光学测试、装备集成到生产交付的完整能力体系。"
+    "published": "2026-05-25T08:54:18",
+    "summary": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。 麻亚炜将AI转型划分为四个递进阶段： 第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。 第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。 第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖",
+    "collected_at": "2026-05-25T09:54:18.212657",
+    "content_text": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。\n麻亚炜将AI转型划分为四个递进阶段：\n第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。\n第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。\n第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖全链路的\"AI全家桶\"与数字员工体系，实现效率与体验的双重跃升。\n第四阶段（2026）：AI Native 原生创新 以AI原生思维开辟全新业务赛道，完成从\"工具赋能\"到\"基因重塑\"的质变。\n核心启示： 真正的AI转型，不是技术的堆砌，而是组织共识的构建与战略意志的穿透。\n以下为演讲内容，经36氪整理编辑：\n麻亚炜丨新通教育集团创始人&董事长\n大家下午好，非常高兴受36氪的邀请，在这里跟大家分享我们作为一家教育集团，在传统教育赛道上如何用AI重构增长。\n这是我第一次来到36氪的现场，跟过往的分享场景不太一样，今天看到了非常多的创业者。在创业者角色上会有两种非常明显的差别：第一种，你可能结束了商业模式，结束了你的公司，把它变成一笔钱，拿上钱和资源去重新面对AGI挑战，重新开始新的生意或者探索新的赛道。第二种，我们既是企业的创始人，在面对AGI挑战、需要做新的增长的同时，身上依然有比较大的负担——在过去十年、二十年甚至更长的时间里，伴随中国经济增长过程，积累着传统资源、传统产品、传统团队、传统组织。这是大部分创业者或者持续成功的创业者一定会碰到的问题，大概率不会一件事结束后你才开始另一件事。\n今天的主题是“用AI重构增长”，希望跟大家分享两个部分的内容：第一，如果你和我一样，有传统业务依然在持续运营中谋求更高效率的增长，我们可以怎样做；第二，我们同时不想放弃在新的增长部分用AI Native的方式去做，或许可以用什么样的探索方式。这是想跟大家分享的两块内容。\n36氪聚集了大量高科技、科技企业，新通教育并不是大家非常熟悉的名字。今年是新通教育成立30周年，过去30年我们主要做一件事，围绕中国中高净值人群的国际化成长道路，延伸出升学规划、就业规划、海外国际课程引进等等。2021年开始，面对新的技术浪潮逐步来临，我们是这个行业比较早进入组织数字化转型的，也因此才有机会在36氪的场合跟大家分享我们过去探索的成果。\n换一个角度看新通教育集团，我们是相对庞大的组织，目前在全国和全球一共有30多家分子公司，2000多名员工。对于一个组织面对AGI浪潮时，要追求增长，首先的前提并不是就增长讲增长，甚至不是就产品做探索，而是组织文化的变革。我今天的分享也是从这里开始的。开始之前，先说说过去几年探索获得了什么成果。第一，在人数不增加甚至减少的情况下实现了营收和人效的增长；第二，2025年真正实现第二条增长曲线的探索，形成了一定营收规模，也得到了市场验证；第三，2025年我们获得了哈佛商业评论年度卓越企业数字化转型大奖，跟我们比肩的是像商汤、菜鸟这样更科技化的公司，而不是传统赛道上的企业。\n今年5月份，我们参加了由教育部组织的2026世界数字教育大会，有三款产品——躺着学雅思、HSK中文出海、来华留学——入选了2026世界数字教育大会的成果展示。这是我们在过去几年获得的成果。如果把这些成果做回头看的归纳，一个相对大型组织的变革是生长的过程，我们把新通教育集团数字化转型以及从去年开始AI+教育部分做出的阶段性成果回溯来看，经历了几个阶段：\n一、2021年到2022年，花了两年的时间完成了数字化基建工作；二、2023到2024年，全组织内部推行战略AI Must，必须要有AI，AI必用；三、2025年把AI嵌入所有关键组织流程；到今年开展新业务的时候，不是把AI嵌入到流程当中，而是用AI Native的方式构建新的流程。经历了这四个阶段，2026年赛程还没有过半，还需要用更多时间验证我们在组织战略到最终营收增长方面取得了什么样的结果。\n对于大部分传统企业，如果不是科技行业，数字化基建是如何建设的？简单过一下，我们把数字化本身烟囱式、坑坑洼洼的省道变成搭建AGI的高速路，这是最初期的工作。初期工作之后，更重要的工作在2023到2024年完成。今天坐在这里有非常多的创始人，对创始人来说，面向未来的趋势探索，下定一个决心、找到一个方向并没有那么难，难的是如何让你的决策、战略，从董事会落地到一线，这是大家的挑战。\n在这个部分新通教育集团做了几件事，在座如果也有从传统赛道拥抱AGI的过程，或许可以做些参考。\n第一个，引进了外脑对整个组织进行诊断、评价和开启；第二个，鼓励全员开讲，传统业务上但凡用过AI的同学，都可以把他的经历分享给组织当中的其他成员；第三个，在组织中孵化标杆小组做全AI托管产品的试点；第四个，带着我们的产品去到哈佛、斯坦福，在教育、科技最前沿的地方去碰撞，看看我们的产品是不是对的方向，是否有足够的竞争力。这是在2023到2024年做的大量看起来非常基础的工作，让AI Must的公开课在全集团几千名员工中逐步渗透，让大家看到AI战略并不是自上而下的命令，同时也是身边同事最真实的感受。2023年当我们躺着学雅思——这个全AI托管的语言学习产品还没有诞生的时候，把产品雏形带到了哈佛和斯坦福，我们得到的最大的感受并不是胆怯、威胁，而是更大的确信：当新通教育集团有了几十年语言学习数据积累的时候，我们在这些垂类产品的开发和应用上，是有非常独到的优势的。\n到了2025年，我们就把战略组织转型到AI in All，AI必须嵌入组织的关键流程。这张图上是我们今天所有新通教育集团同事非常熟悉的AI全家桶，他们有自己的AI伙伴、各种各样的数字员工，也有自己的智能工具和智能平台。我们很多同事，当碰到一个问题需要解决的时候，本能的想法并不是如何做，而会想到如何让AI来做，这是非常重要的转型。\n我们构建出以智能为中心的全链路服务系统，回溯今天讲的从AI基建到AI Must、AI in All的过程，整个传统组织尤其是大规模的传统组织，在AI战略落地过程中会有三个非常重要的挑战。\n第一如何解决一线员工、普通员工无感的问题，让战略从董事会走到一线员工，并且能够接受、推行。我个体的感受，靠命令、说教甚至是简单激励工具是无法解决无感问题的，要让员工有感，还是要有更精心的设计。当我们做公开课的时候，外请的大脑常常只做开题报告，更多的分享来自于一线员工，让员工可以看到门槛，在AI的加持下，既有知识平权也有技术平权，这个过程非常顺畅地解决了从董事会到一线员工的问题。\n第二在组织中孵化自己的种子选手，让种子选手有代入感和参与感。当我们用AI重新改造核心场景的时候，核心场景的选择从哪里入手？选择标准：第一，选择人数最多的场景；第二，选择耗时最长的场景；第三，选择了不直接面对用户的场景，而是把它作为组织内部提效的工具来完成。当场景选得足够对，让每一个员工看到AI带给他的好处，这是激励整个组织做AI转型非常重要的动力。\n我们花了非常大的时间和精力做了全息用户画像。咨询服务、教学服务中，用户各种各样个性化需求的叠加和统计是一件非常麻烦的事，就好像一个医生看病只有三分钟，写完整的病历却需要半个小时。我们用AI全息模式、AI打标签的方式，帮助员工大大释放了在这方面的时间。我们有很多AI助理，员工跟AI交互过程中，无论是电话、微信还是其他方式，客户的需求和特点绝大部分被沉淀下来，并且变成了员工在持续为客户提供服务的过程中，更具象、生动、完整的画像。\n新通几十年有50多万留学生，我们做了几十万全球的智能案例，通过智能案例把学生的所有轨迹——录取轨迹、不录取轨迹、就业轨迹沉淀下来，未来成为一代代学生在做专业规划过程中非常好的技术支撑，就好像一个医生有无穷大的案例中心一样。\n我们有数字员工, 可以帮助一线员工解决基础重复工作。作为教育公司，我们token使用量从2024年的3亿到去年的120亿，今年是更夸张的数字，这也比较侧面地表明我们团队全员在AI转型过程中的渗透率是可以看到的。\n第三个增长曲线的问题，我们用AI原生的方式开辟了新业务。首先我们做了躺着学雅思，大家在小程序上可以看到，是全AI托管的产品，2024年7月份正式上线，到今天为止，全网有30万的学习者在这上面。\n除此之外，到2025年结束的时候，有了30万用户，单产品赛道上实现了两千万营收，可以看到产品基本的可行性和商业实践能够完成。我们在今年年初做了汉语出海，也是全AI产品托管的。\n归纳一下传统企业在AI转型过程中我们自己的经验：在人才部分，一方面有外求的部分，更重要的是做人才内求的部分；在内部更多使用吸引力法则而不是命令；在AI创新过程中也要有适度的对齐，允许适度浪费，这是我们要做的。我们在组织内部做了孵化基金，帮助组织中最优秀的同事用AI+产业——产业还是非常重要的关键词——去做更多新的探索。\n作为教育企业，我们关注的问题是，未来我们的教育服务企业也能够帮助未来的世界去培养更多优秀的人。我们的目标是帮助未来各种各样的产业去培养能够自然使用AI、能够和AI协作学习、并且能够在创造中持续成长的人才，这是我们想做的。\n以上是我简要跟大家分享的新通教育集团作为一家传统教育企业，在过去五年中，拥抱AI做组织转型的实践和探索。希望跟所有的创业者一样，当我们面对越来越多的问题与挑战，我们也可以与时俱进，跟AI共同进步。\n谢谢大家！",
+    "content_source": "trafilatura",
+    "content_chars": 4019,
+    "content_excerpt": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。\n麻亚炜将AI转型划分为四个递进阶段：\n第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。\n第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。\n第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖全链路的\"AI全家桶\"与数字员工体系，实现效率与体验的双重跃升。\n第四阶段（2026）：AI Native 原生创新 以AI原生思维开辟全新业务赛道，完成从\"工具赋能\"到\"基因重塑\"的质变。\n核心启示： 真正的AI转型，不是技术的堆砌，而是组织共识的构建与战略意志的穿透。\n以下为演讲内容，经36氪整理编辑：\n麻亚炜丨新通教育集团创始人&董事长\n大家下午好，非常高兴受36氪的邀请，在这里跟大家分享我们作为一家教育集团，在传统教育赛道上如何用AI重构增长。"
   },
   {
     "id": "8d83d9503c28",
@@ -372,6 +459,35 @@
     "content_source": "readability",
     "content_chars": 1663,
     "content_excerpt": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动\n量子位的朋友们\n2026-05-25\n14:26:38\n来源：\n量子位\n蚂蚁灵波科技与香港科技大学等高校合作完成的研究论文 《Causal World Modeling for Robot Control》被国际机器人顶级学术会议 Robotics: Science and Systems（RSS）2026 接收。\nRSS 是全球机器人领域公认的顶级学术会议之一，长期关注机器人学习、控制、感知、规划与系统等前沿方向，录用标准严格。论文被 RSS 接收，意味着相关研究不仅具有学术创新性，也获得了国际机器人研究共同体的高度认可。\n这项研究的核心，是让机器人不只是完成动作，还能够在行动前预测世界会如何变化。论文提出了面向机器人控制的因果世界建模框架，并将其落地为全球首个开源的自回归视频-动作世界模型 LingBot-VA。该模型能够在机器人执行任务的过程中，持续预测环境变化，并根据预测结果生成下一步动作指令，使机器人具备类似人类“边观察、边判断、边行动”的能力。\n对蚂蚁灵波而言，此次论文入选 RSS 2026，标志着其在“世界模型驱动机器人控制”方向上的探索获得国际顶级学术平台认可，也进一步验证了 LingBot-VA 作为具身智能基础模型的技术价值。未来，这一路线有望推动机器人从依赖指令执行，走向更强的环境理解、任务泛化和自主决策。"
+  },
+  {
+    "id": "af68c795a1b6",
+    "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
+    "url": "https://36kr.com/p/3824158896312709?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-25T06:26:35",
+    "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。 广州因特智能科技有限公司孵化于西安电子科技大学广州研究院，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持软硬一体，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。 以下为演讲内容，经36氪整理编辑： 刘金硕丨广州因特智能科技CEO 非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术解决工业",
+    "collected_at": "2026-05-25T09:54:18.212900",
+    "content_text": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。\n广州因特智能科技有限公司孵化于\n西安电子科技大学广州研究院\n，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持\n软硬一体\n，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。\n以下为演讲内容，经36氪整理编辑：\n刘金硕丨广州因特智能科技CEO\n非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术解决工业场景的“卡脖子”检测难题。\n简单介绍我们公司，广州因特智能科技有限公司。我们是由西安电子科技大学广州研究院产业成果转化联合实验室孵化，专注于高端制造AI视觉检测装备。公司建有光学测试实验室、高速显微测试实验室、AI 算法通用训练平台测试实验室、AI 边缘服务器研发实验室和柔性化机构研发实验室，并配备近 2000 平方米万级无尘制造车间，形成了从算法研发、光学测试、装备集成到生产交付的完整能力体系。\n目前主要聚焦三大细分领域：半导体大基板检测，包含FPD光罩、玻璃基板和陶瓷封装基板；在光通信领域，侧重MPO、CPO光纤端面检测；在新能源汽车主要是压铸件、IGBT总成。\n在这三个细分领域里，我们为行业内的头部客户提供了检测装备，有自己的研发、生产、销售。我们成立了智能检测装备联合研究中心，集中西电及产业高精尖资源专门做装备的落地。目前拥有核心软著和发明专利2项，还在申请的专利8项，发明专利8项，软著5项。\n我们不只是专注于实验室，而是专注整个产业去做落地。\n成立至今，我们服务的主要是产业内的头部大客户，目前已出了可复制的设备，可批量落地。接下来跟大家介绍一下核心产品和技术。\n产品一是高速显微AOI检测平台，主要针对半导体行业和光通信行业。肉眼看不见的东西，都是用这个平台来实现的。这个平台用显微镜做检测镜头，通过控制再加上AI算法，实现缺陷检测。光罩检测、玻璃基板检测、晶圆检测、OLED基板检测，大部分偏向高精度、高速度的检测。\n光学成像是在高速显微里我们最核心的技术之一。最小检出缺陷0.18μm，测量精度达到亚纳米级，另外集成线光谱共聚焦模组、白光干涉模组、深紫外线光源、原子力显微镜应用满足行业2D、2.5D和3D检测测量需求，微观检测成像综合应用和精度行业第一梯队。整个检测模组是比较复杂的，光路设计、移动控制都非常精密。第二个核心技术是算法。算法用的是行业比较先进的DD+DB+Starlight增强算法，基于我们在整个行业中需要做到的程度，这些在国内都比较领先。我们还配备了高精密运控平台。有高精密大理石平台和气浮检测运控平台，核心技术是我们高精度的传动控制导轨加上基台定位精度的反馈算法补偿。\n产品二是AI通用训练平台，主要针对新能源汽车行业。汽车压铸件检测面临的挑战更为棘手，产品尺寸大、复杂曲面种类繁多，这些外观特性长期干扰着高效检测的实现。\nAI方面，我们自研AI算法，采用“小样本、无监督训练模式”，最少仅需5张图片即可训练一个检测模型；无需复杂编程，15分钟即可完成新零件规格适配，快速响应产线切换。用通俗的比喻来解释：传统AI训练像“手把手教孩子认字”，需要海量标注数据；而无监督自学习则像“孩子自己观察世界”，能够自主学习、持续进化。广州因特智能科技的AI算法就像一位可以自我成长的质检员，在生产中不断积累经验，越用越聪明。\n我们一直注重软硬件结合，汽车压铸件AI视觉检测设备搭载西门子边缘服务器，凭借其强大的局部实时算力与毫秒级数据处理能力，打破了海量图像回传的带宽瓶颈，可实现360度全域无死角视觉覆盖，对深腔、凹槽、弧面等难检测区域精准“锁定”。柔性运动控制模块支持高速飞拍，瞬时捕捉缺陷，单个点位检测耗时仅需120毫秒，较行业检测耗时缩短74.4%，充分适配产线高速节拍，各类缺陷0.1毫米级识别，漏检率低至5%。\n针对上面提及的三大细分领域，最后给大家介绍我们的实施的案例。\n目前因特智能配备了国内首台套、国产替代的FPD光罩缺陷检测设备，小检出缺陷能做到0.18μm。玻璃基板TGV检测设备，能快速把玻璃基板上的每个孔径大概只有3微米，几万到几十万个孔，在极短的时间内把这些孔的孔径测量完，包括检测缺陷。\n在光通信领域，针对MPO光纤检测低效难题，广州因特智能科技打造出MPO端面一体化检测设备，包括光模块、MPO模块、CPO等，设备系列比较多。\n最后一个是汽车压铸件外观检测设备，我们公司更看重的是给客户交付一整台能用的设备。这台设备是机械臂或多机械臂系列，把相机、镜头、光源集装到机械臂的前端，通过运控对整个压铸件进行飞拍、巡拍。上面的图像根据客户要求检测每个点位，用飞拍的方式再用AI算法输出结果，哪个点位合格、哪个点位不合格，都可以轻松地进行追溯。最终形态的表达，是多个机械臂相互协作，产品兼容度、复杂度高，上面既有2D、2.5D、3D，还有测量功能全部放上去，给用户去用，包括上料、下料功能。\n精准检测，科技领航，广州因特智能科技会持续深耕工业缺陷检测领域，以专业技术体系赋能工业品质管控。\n我的演讲就结束了，谢谢大家。",
+    "content_source": "readability",
+    "content_chars": 2196,
+    "content_excerpt": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。\n广州因特智能科技有限公司孵化于\n西安电子科技大学广州研究院\n，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持\n软硬一体\n，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。\n以下为演讲内容，经36氪整理编辑：\n刘金硕丨广州因特智能科技CEO\n非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术解决工业场景的“卡脖子”检测难题。\n简单介绍我们公司，广州因特智能科技有限公司。我们是由西安电子科技大学广州研究院产业成果转化联合实验室孵化，专注于高端制造AI视觉检测装备。公司建有光学测试实验室、高速显微测试实验室、AI 算法通用训练平台测试实验室、AI 边缘服务器研发实验室和柔性化机构研发实验室，并配备近 2000 平方米万级无尘制造车间，形成了从算法研发、光学测试、装备集成到生产交付的完整能力体系。"
+  },
+  {
+    "id": "v2ex-1215291",
+    "title": "送 $5 余额｜ Claude 满血 Opus 99% SLA / GPT 倍率 0.2， API 中转站 comeu.ai",
+    "url": "https://www.v2ex.com/t/1215291",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-25T06:07:19",
+    "summary": "又来打扰各位 V 友了，上次发过一帖介绍自己运营的 API 中转站 [comeu.ai]( https://comeu.ai)，这次带了点更新和福利。 --- ### 📌 本次更新 - **Claude 推荐稳定线路**：满血 Opus ，99% SLA ，自建号池 + AWS 混合渠道，体验拉满 - **Claude 普通线路**：倍率已下调至 **0.5**，日常够用党福音 - **GPT 全系列**：倍率 **0.2**，全 Pro 号池，四舍五入不要钱 - **充值汇率**：1 RMB = 1 USD ，明码标价 --- ### 🎁 新人福利 注册后在本帖回复你的 **站内用户 ID*",
+    "collected_at": "2026-05-26T02:32:18.176028",
+    "content_text": "又来打扰各位 V 友了，上次发过一帖介绍自己运营的 API 中转站 comeu.ai，这次带了点更新和福利。\n📌 本次更新\n- Claude 推荐稳定线路：满血 Opus ，99% SLA ，自建号池 + AWS 混合渠道，体验拉满\n- Claude 普通线路：倍率已下调至 0.5，日常够用党福音\n- GPT 全系列：倍率 0.2，全 Pro 号池，四舍五入不要钱\n- 充值汇率：1 RMB = 1 USD ，明码标价\n🎁 新人福利\n注册后在本帖回复你的 站内用户 ID，管理员确认后直接充 $5 余额，先体验再决定。\n之前送过的还可以再送 5 刀！\n老帖没看过的简单补一下\n- 兼容 OpenAI & Anthropic SDK ，改个\nbase_url\n直接用 - 不混卖、不降智，请求什么模型就转发什么模型\n- 多上游容灾，单点挂了秒切\n- 非 CF 优质 CDN ，国内直连低延迟，首 token 响应快\n- 支付宝 / 微信直充，人民币结算\n- 117+ 模型，新模型上线 24h 内跟进\n站点：comeu.ai 联系方式： https://t.me/comeuai",
+    "content_source": "trafilatura",
+    "content_chars": 489,
+    "content_excerpt": "又来打扰各位 V 友了，上次发过一帖介绍自己运营的 API 中转站 comeu.ai，这次带了点更新和福利。\n📌 本次更新\n- Claude 推荐稳定线路：满血 Opus ，99% SLA ，自建号池 + AWS 混合渠道，体验拉满\n- Claude 普通线路：倍率已下调至 0.5，日常够用党福音\n- GPT 全系列：倍率 0.2，全 Pro 号池，四舍五入不要钱\n- 充值汇率：1 RMB = 1 USD ，明码标价\n🎁 新人福利\n注册后在本帖回复你的 站内用户 ID，管理员确认后直接充 $5 余额，先体验再决定。\n之前送过的还可以再送 5 刀！\n老帖没看过的简单补一下"
   },
   {
     "id": "195870f35599",
@@ -4544,114 +4660,6 @@
     "ai_summary": "谷歌通过对话式语音搜索扩展了 Gmail 的 AI 收件箱，让用户可以要求 Gemini 查找隐藏的电子邮件详细信息"
   },
   {
-    "id": "91ed7323a1e2",
-    "title": "Would you let robots spend your money? Google is betting on it",
-    "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-19T17:45:00",
-    "summary": "Google is going all in on AI-driven shopping even as some competitors back off. At Google I/O, the company unveiled the latest iteration of its AI commerce tools: a \"Universal Cart\" that works across different retailers and Google products like Gemini - and eventually YouTube and Gmail, too. Users c",
-    "collected_at": "2026-05-19T19:46:58.791649",
-    "content_text": "Google is going all in on AI-driven shopping even as some competitors back off.\nAt Google I/O, the company unveiled the latest iteration of its AI commerce tools: a “Universal Cart” that works across different retailers and Google products like Gemini — and eventually YouTube and Gmail, too. Users can add products to Google’s universal cart as they browse Search and chat with Gemini and then check out through Google. The cart will also track prices, provide in-stock notifications, suggest potential discounts, and alert shoppers to potential issues with their selections.\nDespite the transformative changes AI has brought to the workplace, business, and culture, tech companies are still trying to make the case to the average person that AI can improve their lives or make tedious, unpleasant tasks easier. One place Google thinks that could be is shopping. In November, the company\nintroduced\na way for shoppers to dispatch an AI voice to call brick-and-mortar stores to ask about inventory; it also began rolling out a semi-automatic way for shoppers to have AI agents purchase items online on their behalf.\nThe Universal Cart attempts to corral people’s shopping habits into one place. People shop over the course of days, across different devices and accounts, says Vidhya Srinivasan, vice president and general manager of ads and commerce at Google.\n“A lot of the ways I capture this is by having many, many, many tabs open and by syncing profiles and things like that. And it kind of works,” Srinivasan said in an exclusive briefing. “What the shopping cart does from a current problem perspective is it brings all of this together … It is a cart that’s going to be available wherever I am across Google properties.” A cart icon will be displayed next to a user’s profile picture.\nThe Universal Cart works across retailers and across Google surfaces.\nSrinivasan envisions the cart almost like a personal shopper working in the background. The Universal Cart works across different retailers, including Sephora, Target, Wayfair, and Walmart, and eventually users will be able to add items to their cart from YouTube or when they see products in Gmail. Once a product is in the cart, users can get price-drop alerts, view price history, and be notified when an out-of-stock item is available again. Srinivasan says the cart — which runs on Gemini — can also alert a user to potential issues with their planned purchases. She gives the example of someone building their first PC choosing a motherboard and processor with incompatible sockets without realizing it; the cart would flag the discrepancy and warn the shopper of potential problems. Shoppers can also connect retailer loyalty programs and credit cards through Google Pay, and the Universal Cart will suggest payment methods and potential ways to save money. If a shopper wants to build a cart but doesn’t want to check out through Google, they can also transfer the contents of their cart to a retailer’s website and finish checkout there.\n“The retailer might have other things they want to show the person when they land over there, and they can go deeper in other ways potentially,” Srinivasan says.\nAgentic shopping is only possible — and helpful — with the buy-in from a variety of actors: search engines, retailers, payment processors, and so on. Participation from retailers is especially important, considering widespread adoption of agentic shopping could mean customers have little reason to actually visit a store’s website at all (we’ve been\ncalling this “the Doordash problem”\nat\nThe Verge).\nAmazon\nsued AI company Perplexity\nin November for allowing users to buy products through its Comet AI browser. OpenAI’s\nefforts at checkout features within ChatGPT\nwere disappointing. As more shoppers use AI chatbots to research products to buy or get recommendations, getting surfaced in AI search platforms is becoming more and more urgent for retailers and brands, which are already\ntweaking their online presence\nto try to get chatbots to mention them.\nGoogle seems to know it is getting between merchants and their customers; Srinivasan says the company is “very focused” on the value exchange between all parties. “[Consumers] benefit, but also merchants benefit, because [in the] long run, that’s the only way it works,” she says.\nSrinivasan describes Google’s place in the interaction as a “matchmaker”\nHaving billions of products available for purchase within Gemini is great for Google, but retailers need something in return. Srinivasan says Google does not currently take a cut of sales or a commission for products purchased. I asked Srinivasan whether she’s heard concerns from retailers about the idea that Google could become the portal through which shoppers buy things online. She describes Google’s place in the interaction as a “matchmaker.”\n“We really want to facilitate lots of consumers talking to lots of merchants,” Srinivasan says. “We don’t want to be the merchant of record.”\nOn the infrastructure level, there are signs that the retail industry is coalescing around Google. In January, the company announced the Universal Commerce Protocol (UCP), a new open standard it developed with major retailers like Walmart, Shopify, and Target that makes the entire AI shopping journey possible: researching items, putting them in a cart, buying them, paying for them, and getting post-purchase customer service. (OpenAI has\nits own competing version\n.) In April, Amazon, Meta, Microsoft, Salesforce, and Stripe\njoined the committee\nthat governs UCP.\nThe Universal Cart also gives users price insights.\nGoogle previously introduced a way for shoppers\nto purchase products directly\nwithin AI Mode in Search and in the Gemini app, and it’s now expanding into hotel and local food delivery categories. Using Gemini Spark, a new “24/7 personal AI agent” announced by Google, users will also be able to give AI agents more specific guidelines for purchases, like the brands they like, items they’re looking for, and budget. The shopping agent can then make purchases on the shopper’s behalf, provided all criteria are met. A shopper could specify the exact model of a pair of boots they want, for example, set a price limit, and have the AI agent purchase the item when it finds it. The purchases use a technology\ncalled Agent Payments Protocol (AP2)\n, essentially a digital paper trail and approval process for having an AI agent carry out a task like buying something.\nShopping is complicated — what happens, for example, when the robot buys something under the price a user specifies, but with tax and shipping it ends up being much more expensive than another option? Would most shoppers trust AI enough to spend their money on their behalf? (Srinivasan tells me Google is currently working through all of this, but that in general, a shopper would go to the actual retailer, not Google, to resolve problems after purchase. Which raises another question: Will retailers introduce policies around purchases made with AI?) Buying things is also emotional: If a rare item on my wishlist pops up for $4 more than I told the chatbot was my limit, I might pull the trigger even if the robot couldn’t. It is hard to imagine a world where shoppers immediately outsource their shopping to a machine: It would be a radical reshaping of what it means to buy things. Most of all, adoption would require an enormous amount of consumer trust —\nand that is still an uphill battle\n.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nMia Sato\nAI\nBusiness\nGoogle\nGoogle I/O 2026\nNews\nOnline Shopping\nTech",
-    "content_source": "readability",
-    "content_chars": 7658,
-    "content_excerpt": "Google is going all in on AI-driven shopping even as some competitors back off.\nAt Google I/O, the company unveiled the latest iteration of its AI commerce tools: a “Universal Cart” that works across different retailers and Google products like Gemini — and eventually YouTube and Gmail, too. Users can add products to Google’s universal cart as they browse Search and chat with Gemini and then check out through Google. The cart will also track prices, provide in-stock notifications, suggest potential discounts, and alert shoppers to potential issues with their selections.\nDespite the transformative changes AI has brought to the workplace, business, and culture, tech companies are still trying to make the case to the average person that AI can improve their lives or make tedious, unpleasant tasks easier. One place Google thinks that could be is shopping. In November, the company\nintroduced\na way for shoppers to dispatch an AI voice to call brick-and-mortar stores to ask about inventory; it also began rolling out a semi-automatic way for shoppers to have AI agents purchase items online on their behalf.\nThe Universal Cart attempts to corral people’s shopping habits into one place. People shop over the course of days, across different devices and accounts, says Vidhya Srinivasan, vice president and general manager of ads and commerce at Google.\n“A lot of the ways I capture this is by having many, many, many tabs open and by syncing profiles and things like that. And it kind of works,” Srinivasan said in an exclusive briefing. “What the shopping cart does from a current problem perspective is it brings all of this together … It is a cart that’s going to be available wherever I am across Google properties.” A cart icon will be displayed next to a user’s profile picture.\nThe Universal Cart works across retailers and across Google surfaces.\nSrinivasan envisions the cart almost like a personal shopper working in the background. The Universal Cart works across different retailers, including Sephora, Target, Wayfair, and Walmart, and eventually users will be able to add items to their cart from YouTube or when they see products in Gmail. Once a product is in the cart, users can get price-drop alerts, view price history, and be notified when an out-of-stock item is available again. Srinivasan says the cart — which runs on Gemini — can also alert a user to potential issues with their planned purchases. She gives the example of someone building their first PC choosing a motherboard and processor with incompatible sockets without realizing it; the cart would flag the discrepancy and warn the shopper of potential problems. Shoppers can also connect retailer loyalty programs and credit cards through Google Pay, and the Universal Cart will suggest payment methods and potential ways to save money. If a shopper wants to build a cart but doesn’t want to check out through Google, they can also transfer the contents of their cart to a retailer’s website and finish checkout there.\n“The retailer might have other things they want to show the person when they land over there, and they can go deeper in other ways potentially,” Srinivasan says.",
-    "title_zh": "你会让机器人花你的钱吗？谷歌正在押注它",
-    "summary_zh": "尽管一些竞争对手有所退缩，但谷歌仍在全力进军人工智能驱动的购物领域。在 Google I/O 大会上，该公司推出了最新版的 AI 商务工具：一款适用于不同零售商和 Gemini 等 Google 产品的“通用购物车”，最终也适用于 YouT…",
-    "ai_summary": "尽管一些竞争对手有所退缩，但谷歌仍在全力进军人工智能驱动的购物领域。在 Google I/O 大会上，该公司推出了最新版…"
-  },
-  {
-    "id": "8a8955bb3b4f",
-    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-    "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-19T17:45:00",
-    "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-    "collected_at": "2026-05-19T19:46:58.707389",
-    "content_text": "The AI coding boom is now coming directly for Android app development. On Tuesday, Google\nannounced\nnew native Android app creation capabilities in its web-based\nGoogle AI Studio,\nshrinking a process that takes weeks of setup and coding down to minutes.\nThe company also said that consumers will be able to use Gemini AI to find the apps they need, both on the Play Store and the web, expanding opportunities for developers to have their apps discovered.\nGoogle says the new capabilities could make sense for anyone from a seasoned developer looking to prototype a new app quickly to a first-time creator.\nBy offering the ability to essentially vibe-code Android apps via web-based tools, Google is ramping up the competition with other AI-powered development tools, like Cursor, Replit, Lovable, Claude Code, and others, while also opening up Android development to a new type of user: a non-technical creator. The news also represents an expansion of Google’s earlier addition of\nAI-powered coding with Gemini\nin its\ndesktop version\nof Android Studio.\nThe apps are built with the\nKotlin\nprogramming language using Google’s Jetpack Compose toolkit and with support integration with hardware sensors like GPS, Bluetooth, and NFC, the company says. However, the resulting creations, for now, are only meant to be used personally, as publishing for family and friends is still on the roadmap.\nThe company suggests the technology could be used for the creation of personal utilities and simple social apps, hardware-enabled experiences, or AI-powered experiences.\nFor now, would-be app developers can use the embedded Android Emulator directly in a web browser to preview and interact with the app as it’s being built. Users can then install the app on their Android phone over a USB cable connected to their computer, using the integrated Android Debug Bridge (adb).\nFor those looking to take their project further,\nAI Studio\ncan automatically create the app record, package the bundle, and upload it to an internal testing track in\nGoogle Play Console\nfor developers. This allows users to continue to iterate on their app while updating on their devices along the way.\nThose who want to take the next steps to publishing the app more publicly can hand off this version of the project to Android Studio by downloading a zip file and exporting it directly to GitHub. In time, Google plans to allow creators to publish their apps for use by family and friends and will add support for Firebase integrations (Firestore, Firebase Auth, Firebase App Check, and other tooling).\nIn doing so, the company is imagining an Android app ecosystem where users find apps from among their own network of friends, not just the Play Store.\nHowever, for the latter, Google is infusing AI into the experience here, too.\nA new “Ask Play” AI-powered overlay will allow users to discover new apps by having natural conversations with AI within the Play Store.\nImage Credits:\nGoogle (screenshot)\nPerhaps more importantly, apps will begin to be surfaced with users’ conversations with Google’s Gemini virtual assistant, exposing developers’ apps to millions of users. This will roll out in the weeks ahead across Gemini on the web and on Android. Later this year, Gemini will also surface over 450,000 movies and TV shows, plus where to livestream sports, which can directly link users from their queries to a developer’s Android app with the content in question.\nImage Credits:\nGoogle\nWhile Google previewed a number of\nAndroid-related announcements last week\n, it held back on sharing the news of the native Android app development until Tuesday’s start of its annual developer conference, Google I/O. That suggests the company believes this is bigger news and more closely tied to its idea of putting AI to real-world use, as was the larger theme of this year’s event, where AI was spread across Google products, from workspace productivity apps to AI tools, search, mobile apps, and more.",
-    "content_source": "readability",
-    "content_chars": 3966,
-    "content_excerpt": "The AI coding boom is now coming directly for Android app development. On Tuesday, Google\nannounced\nnew native Android app creation capabilities in its web-based\nGoogle AI Studio,\nshrinking a process that takes weeks of setup and coding down to minutes.\nThe company also said that consumers will be able to use Gemini AI to find the apps they need, both on the Play Store and the web, expanding opportunities for developers to have their apps discovered.\nGoogle says the new capabilities could make sense for anyone from a seasoned developer looking to prototype a new app quickly to a first-time creator.\nBy offering the ability to essentially vibe-code Android apps via web-based tools, Google is ramping up the competition with other AI-powered development tools, like Cursor, Replit, Lovable, Claude Code, and others, while also opening up Android development to a new type of user: a non-technical creator. The news also represents an expansion of Google’s earlier addition of\nAI-powered coding with Gemini\nin its",
-    "title_zh": "谷歌的 AI Studio 现在可以让任何人在几分钟内构建 Android 应用程序",
-    "summary_zh": "谷歌推出了新的基于网络的人工智能工具，可以在几分钟内生成原生 Android 应用程序，因为该公司正在扩大人工智能驱动的软件开发",
-    "ai_summary": "谷歌推出了新的基于网络的人工智能工具，可以在几分钟内生成原生 Android 应用程序，因为该公司正在扩大人工智能驱动的…"
-  },
-  {
-    "id": "39e619a0d38b",
-    "title": "Google Search is getting its biggest changes ever",
-    "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-19T17:45:00",
-    "summary": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated summaries that appear at the top of search results, and AI Mode, Google's chatbot-like search exper",
-    "collected_at": "2026-05-19T19:46:58.791687",
-    "content_text": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated summaries that appear at the top of search results, and AI Mode, Google’s chatbot-like search experience.\nGoogle Search is getting its biggest changes ever\nA reimagined search bar, AI information agents, and built-in widgets are part of a new future of Search.\nA reimagined search bar, AI information agents, and built-in widgets are part of a new future of Search.\nPowered by the new Gemini 3.5 Flash model, Google’s updated search box expands for longer queries, while offering a new AI-powered autocomplete feature to build on your question. Robby Stein, Google’s vice president of product for Search, told The Verge you’ll “reliably” see AI Overviews if you ask a natural-language question. Asking follow-up questions in an AI Overview will redirect you to AI Mode, but you can just jump straight into AI Mode by attaching documents, photos, videos, and Chrome tabs to the search box and entering a question.\nLiz Reid, Google’s vice president of Search, said during a briefing that the company wanted to eliminate the “friction” between AI Overviews and AI Mode. “We really work to make that much more seamless and simplified, so that for most users, they don’t have to think about where to go, they can just go to the search box they’re familiar with and it feels like they get the best experience afterwards,” Reid said.\nThe updated search box is rolling out across desktop and mobile devices globally starting on Tuesday. You can still view traditional results only by selecting the “Web” tab in Google Search.\nGoogle is also moving toward a future where it does the googling for you. This summer, it will roll out new AI information agents for AI Pro and AI Ultra subscribers that can monitor topics when you’re not online. If you want to keep track of when your favorite band is going on tour, for example, Google’s AI agents can look for upcoming shows in the background and then notify you of an update. “You could be asleep, and it’s researching, finding information, doing tasks for you,” Stein said.\nThese new AI agents can connect to your other Google accounts using Personal Intelligence, allowing them to pull information from apps like Gmail to personalize their response. The updates provided by agents look a bit like the responses you’d get in AI Mode, complete with text, links to the web, and videos. Google is expanding its AI-powered booking feature this summer as well, which will soon be able to schedule local experiences and services on your behalf. The feature can also call certain businesses for you, such as pet groomers, beauty businesses, and home repair services.\nSearch is becoming even more capable in other ways, too, as a new “generative UI” feature arriving in the coming months will help you build custom widgets and apps directly in the search engine. Google’s AI Overviews can now code interactive visualizations, such as a diagram showing how a black hole works, and include them in its response.\nGoogle AI Pro and AI Ultra subscribers will also gain access to a new feature that allows them to create “super apps” directly in Search. Subscribers can ask Search to create a home fitness tracker, for instance, and connect it with real-time information, like the weather and your calendar. Google will use AI to whip up an app that users can revisit and share with others.\n“This is really the next generation of what it means to be Search,” Stein said. “This is really a moment for AI Search itself to be available to everyone and easy to use for the world, so that they can really ask anything right within Google now.”",
-    "content_source": "trafilatura",
-    "content_chars": 3765,
-    "content_excerpt": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated summaries that appear at the top of search results, and AI Mode, Google’s chatbot-like search experience.\nGoogle Search is getting its biggest changes ever\nA reimagined search bar, AI information agents, and built-in widgets are part of a new future of Search.\nA reimagined search bar, AI information agents, and built-in widgets are part of a new future of Search.\nPowered by the new Gemini 3.5 Flash model, Google’s updated search box expands for longer queries, while offering a new AI-powered autocomplete feature to build on your question. Robby Stein, Google’s vice president of product for Search, told The Verge you’ll “reliably” see AI Overviews if you ask a natural-language question. Asking follow-up questions in an AI Overview will redirect you to AI Mode, but you can just jump straight into AI Mode by attaching documents, photos, videos, and Chrome tabs to the search box and entering a question.\nLiz Reid, Google’s vice president of Search, said during a briefing that the company wanted to eliminate the “friction” between AI Overviews and AI Mode. “We really work to make that much more seamless and simplified, so that for most users, they don’t have to think about where to go, they can just go to the search box they’re familiar with and it feels like they get the best experience afterwards,” Reid said.\nThe updated search box is rolling out across desktop and mobile devices globally starting on Tuesday. You can still view traditional results only by selecting the “Web” tab in Google Search.\nGoogle is also moving toward a future where it does the googling for you. This summer, it will roll out new AI information agents for AI Pro and AI Ultra subscribers that can monitor topics when you’re not online. If you want to keep track of when your favorite band is going on tour, for example, Google’s AI agents can look for upcoming shows in the background and then notify you of an update. “You could be asleep, and it’s researching, finding information, doing tasks for you,” Stein said.\nThese new AI agents can connect to your other Google accounts using Personal Intelligence, allowing them to pull information from apps like Gmail to personalize their response. The updates provided by agents look a bit like the responses you’d get in AI Mode, complete with text, links to the web, and videos. Google is expanding its AI-powered booking feature this summer as well, which will soon be able to schedule local experiences and services on your behalf. The feature can also call certain businesses for you, such as pet groomers, beauty businesses, and home repair services.\nSearch is becoming even more capable in other ways, too, as a new “generative UI” feature arriving in the coming months will help you build custom widgets and apps directly in the search engine. Google’s AI Overviews can now code interactive visualizations, such as a diagram showing how a black hole works, and include them in its response.",
-    "title_zh": "谷歌搜索正在经历有史以来最大的变化",
-    "summary_zh": "谷歌搜索正在进入人工智能发展的下一阶段。在 Google I/O 2026 期间，该公司展示了一个重新设计的搜索框，可以更轻松地在 AI 概述（出现在搜索结果顶部的 AI 生成的摘要）和 AI 模式（Google 的类似聊天机器人的搜索体验…",
-    "ai_summary": "谷歌搜索正在进入人工智能发展的下一阶段。在 Google I/O 2026 期间，该公司展示了一个重新设计的搜索框，可以…"
-  },
-  {
-    "id": "9e74f9cc3573",
-    "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
-    "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-19T17:45:00",
-    "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
-    "collected_at": "2026-05-19T19:46:58.707439",
-    "content_text": "When Google launched\nGemini three years ago\n, the goal was to build a multimodal large language model — a single neural network that was trained on text, image, audio, and video and could generate content in any of those formats.\nToday, at its Google I/O developer conference, the company took a concrete step toward that goal with Gemini Omni, a new family of multimodal models that Google CEO Sundar Pichai says will be able to “create anything from any input.”\nOmni will start with video. Users can now combine images, audio, video, and text, and rather than simply stitching those inputs together, Omni reasons across all of them to produce a consistent output. The result is high-quality videos that reflect an understanding of physics, culture, history, and science.\nOmni also lets users edit photos with plain text commands rather than complex editing software, similar to\nGoogle’s Nano Banana\n.\nGoogle already has a dedicated video model,\nVeo\n, that lets users turn text and images into videos, and even\ndirect and customize avatars\n. But Google DeepMind director of product management Nicole Brichtova says that today’s release is more than a Veo update: “It’s the next step towards the progression of combining the intelligence of Gemini with the rendering capabilities of our media models.”\nOne example that Koray Kavukcuoglu, DeepMind’s chief technologist, gave reporters during a media briefing on Monday: When Omni was given a simple prompt like “a claymation explainer of protein folding,” it quickly rendered a video of a stop-motion explainer with a voice-over that said, “Proteins start as chains of amino acids. They fold into patterns like the alpha helix and flat sections called beta sheets, forming a perfect three-dimensional shape.”\nThe long-term vision for Omni is broader, involving the model being used to do things like generate images from audio, or audio from video.\n“When we first announced Gemini, it was our first AI model to be natively multimodal,” Pichai said during the briefing. “We knew that training it on a combination of text, code, audio, images, and video would give it a deeper understanding of the world. With world models, AI is moving from predicting text to simulating reality. Gemini Omni is the next step in that direction.”\nAs part of the release, users will also be able to create videos with their own digital avatars — something OpenAI popularized on its now-defunct Sora app with Cameos. To prevent deepfakes, users will have to go through a dedicated product onboarding, which involves recording themselves and speaking out a series of numbers, per Brichtova. The avatar then gets stored for future use.\nAdditionally, all videos created with Omni will include Google’s SynthID digital watermark, which allows users to verify if videos were generated via the Gemini products.\nThe first model in the family is Gemini Omni Flash, which will roll out today to the Gemini app, YouTube Shorts, and AI creative studio Flow. Flash will be capable of rendering 10 seconds of video, which Brichtova says isn’t a model limitation, but rather a decision based both on a desire to get it into more hands and an anticipation that most users won’t want to make much longer videos yet. Longer video durations are in the pipeline for the near future, though.\nGoogle seems to be pitching Omni Flash as more of a consumer tool. The examples Brichtova and Gabe Barth-Maron, a research engineer at DeepMind, gave on a call with TechCrunch of uses for digital avatars were all personal: Making a video of yourself winning an award or going to the moon, or removing a passerby from the background of a video you took on vacation.\nBarth-Maron put it more simply: “They’re like personalized memes.”\n“We definitely did focus on making this easy to use for consumers,” Brichtova said. “Not many video models have breached that chasm with consumers, so this is our play to do that.”\nThe ease of use comes with a caveat: Brichtova and Barth-Maron noted that editing prompts will need to be highly specific, otherwise Omni risks over-editing or unintentionally altering elements the user wanted to keep — a problem Nano Banana users would have run into.\nImage Credits:\nGoogle\nDespite the near-term consumer focus, Omni’s enterprise and\ncreative implications\nare obvious, and Google will make Omni available via API in the coming weeks. The avatar-generating tool — a capability that is available today on Shorts — is something Google expects content creators to pick up. But more broadly, an end-to-end multimodal workflow could be transformative for advertisers and filmmakers.\nStartup Luma AI is building something similar,\nan agentic tool\nthat can generate an entire ad campaign based on a short brief and a product image, powered by its own “unified” model.\n“We’re actually pretty proud of the model’s text-rendering capabilities, which is really useful for things like advertising,” Brichtova said. “If you want a product somewhere, or even just a slogan, it needs to be accurate … We definitely anticipate filmmakers and other kinds of creators are going to be using this model as well.”\nThe more professional use cases might be better served by the Omni Pro model, which should perform better across all Omni tasks. Google hasn’t said when it will release Pro yet, but Brichtova said that will happen when “we feel like we’re at a point where we have a step change above Flash.”",
-    "content_source": "readability",
-    "content_chars": 5413,
-    "content_excerpt": "When Google launched\nGemini three years ago\n, the goal was to build a multimodal large language model — a single neural network that was trained on text, image, audio, and video and could generate content in any of those formats.\nToday, at its Google I/O developer conference, the company took a concrete step toward that goal with Gemini Omni, a new family of multimodal models that Google CEO Sundar Pichai says will be able to “create anything from any input.”\nOmni will start with video. Users can now combine images, audio, video, and text, and rather than simply stitching those inputs together, Omni reasons across all of them to produce a consistent output. The result is high-quality videos that reflect an understanding of physics, culture, history, and science.\nOmni also lets users edit photos with plain text commands rather than complex editing software, similar to\nGoogle’s Nano Banana\n.\nGoogle already has a dedicated video model,\nVeo",
-    "title_zh": "Google 的 Gemini Omni 将图像、音频和文本转换为视频 - 这仅仅是开始",
-    "summary_zh": "Google 的 Gemini Omni 是一种新的多模式模型，它从 Omni Flash 开始，通过简单的对话对文本、图像、音频和视频进行推理，生成和编辑视频",
-    "ai_summary": "Google 的 Gemini Omni 是一种新的多模式模型，它从 Omni Flash 开始，通过简单的对话对文本、…"
-  },
-  {
-    "id": "b8b473395d6c",
-    "title": "Gmail is going to start talking to you",
-    "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-19T17:45:00",
-    "summary": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that's basically the Gemini Live experience but built specifically for your inbox. To use Gmail Live, tap an icon that will appear in your search bar and just start talking. In a press briefing, a Google e",
-    "collected_at": "2026-05-19T19:46:58.791723",
-    "content_text": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that’s basically the Gemini Live experience but built specifically for your inbox.\nGmail is going to start talking to you\nTo help find something in your inbox, you can just ask a question with your voice.\nTo help find something in your inbox, you can just ask a question with your voice.\nTo use Gmail Live, tap an icon that will appear in your search bar and just start talking. In a press briefing, a Google employee showed a live demo of the feature where she asked questions about things like events at her kid’s school and an upcoming trip to Detroit. Gmail pulled up relevant details in the Gmail Live interface, like the date and location of a show-and-tell event at the school, all sourced from the employee’s inbox.\nIt was an intriguing demo, and you can see how Gmail Live could be useful; when searching, instead of wading through the usual intimidating list of emails while you’re searching for one specific detail, you could just ask Gmail Live to figure it out and tell you what you’re looking for. But that means the feature must be trustworthy — if it’s not accurate in a pinch, like pulling up a flight’s confirmation code in a hurry at the airport, then people probably won’t use it.\n“Trust is the bedrock of how we think about Gmail in general,” Blake Barnes, VP of product for Gmail, tells The Verge. He says the company has spent a lot of time figuring out how, in every step of using Gmail Live, “you’re getting a product you can trust,” even when it’s trying to help you with complex queries. “It’s our job to take that complexity away from you in a way that you can trust and rely on us.” Gmail Live will also be able to show you the source where it’s getting its information, which lets you verify what it’s telling you.\nGoogle is bringing voice-driven AI features to Docs and Keep, too. With Docs Live, you can talk over your ideas with Gemini and it will help structure a document and pull in details from places like your Gmail and Google Drive. In Keep, as you talk about things you might want the app to track, it can put together things like reminders and grocery lists for you. Gmail Live, Docs Live, and the voice-driven Keep features will roll out on mobile starting this summer to subscribers of Google’s AI Pro and Ultra tiers (though the Keep upgrade will roll out first just on Android).\nGoogle is also expanding availability of Gmail’s AI Inbox, which basically turns your inbox into an email version of Google Search’s AI Mode, to subscribers of its Pro and Plus tiers. It’s already available for Ultra subscribers.",
-    "content_source": "trafilatura",
-    "content_chars": 2649,
-    "content_excerpt": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that’s basically the Gemini Live experience but built specifically for your inbox.\nGmail is going to start talking to you\nTo help find something in your inbox, you can just ask a question with your voice.\nTo help find something in your inbox, you can just ask a question with your voice.\nTo use Gmail Live, tap an icon that will appear in your search bar and just start talking. In a press briefing, a Google employee showed a live demo of the feature where she asked questions about things like events at her kid’s school and an upcoming trip to Detroit. Gmail pulled up relevant details in the Gmail Live interface, like the date and location of a show-and-tell event at the school, all sourced from the employee’s inbox.\nIt was an intriguing demo, and you can see how Gmail Live could be useful; when searching, instead of wading through the usual intimidating list of emails while you’re searching for one specific detail, you could just ask Gmail Live to figure it out and tell you what you’re looking for. But that means the feature must be trustworthy — if it’s not accurate in a pinch, like pulling up a flight’s confirmation code in a hurry at the airport, then people probably won’t use it.\n“Trust is the bedrock of how we think about Gmail in general,” Blake Barnes, VP of product for Gmail, tells The Verge. He says the company has spent a lot of time figuring out how, in every step of using Gmail Live, “you’re getting a product you can trust,” even when it’s trying to help you with complex queries. “It’s our job to take that complexity away from you in a way that you can trust and rely on us.” Gmail Live will also be able to show you the source where it’s getting its information, which lets you verify what it’s telling you.\nGoogle is bringing voice-driven AI features to Docs and Keep, too. With Docs Live, you can talk over your ideas with Gemini and it will help structure a document and pull in details from places like your Gmail and Google Drive. In Keep, as you talk about things you might want the app to track, it can put together things like reminders and grocery lists for you. Gmail Live, Docs Live, and the voice-driven Keep features will roll out on mobile starting this summer to subscribers of Google’s AI Pro and Ultra tiers (though the Keep upgrade will roll out first just on Android).\nGoogle is also expanding availability of Gmail’s AI Inbox, which basically turns your inbox into an email version of Google Search’s AI Mode, to subscribers of its Pro and Plus tiers. It’s already available for Ultra subscribers.",
-    "title_zh": "Gmail 将开始与您对话",
-    "summary_zh": "Google 正在为 Gmail 推出一项名为 Gmail Live 的重要新功能，这是一种新的人工智能驱动的语音模式，基本上是 Gemini Live 体验，但专门为您的收件箱构建。要使用 Gmail Live，请点击搜索栏中出现的图标…",
-    "ai_summary": "Google 正在为 Gmail 推出一项名为 Gmail Live 的重要新功能，这是一种新的人工智能驱动的语音模式…"
-  },
-  {
-    "id": "fc249c0e6342",
-    "title": "OpenAI is making it easier to check if an image was made by their models",
-    "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-19T17:45:00",
-    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-    "collected_at": "2026-05-19T19:46:58.707470",
-    "content_text": "With AI image generators widely available online and more sophisticated than ever, it’s never been harder to tell if an image is authentic. But on Tuesday, OpenAI announced two new measures to help fight the problem.\nThe company has committed to an open standard called C2PA, which adds a clear signal in metadata that an image was generated by AI. OpenAI is also partnering with Google to include an invisible watermark called SynthID, which will be harder to detect, but also harder to erase if bad actors try to cover their tracks.\nThe new protections only apply to images generated by OpenAI products, so they won’t affect the flood of imagery coming from less reputable AI tools; they can help ensure that OpenAI isn’t part of the problem.\nOpenAI is also previewing a public verification tool that will check for both signals, allowing users to easily test whether an image was generated using AI. Initially, the tool will only extend to images generated by OpenAI products; the company hopes to expand it to cover other tools over time.\nFounded in 2021, the Coalition for Content Provenance and Authenticity (C2PA) is a non-profit dedicated to mitigating the harmful effects of AI imagery on public discourse. The C2PA standard has been adopted by a range of Google products, but adoption remains inconsistent across the industry. Because the C2PA signal is clearly accessible in the metadata of each file, it can be manipulated, and is most useful among trusted users.\nSynthID is a newer effort designed to be a more robust measure to meddling. Developed by Google, the SynthID watermark is designed to persist even when bad actors attempt to remove it, either through screenshots, resizing or digital manipulation.\nThe two systems are meant to complement each other, with each addressing the other’s weaknesses.\n“Watermarking can be more durable through transformations like screenshots, while metadata can provide more information than a watermark alone,” OpenAI noted in its announcement. “Together, they make provenance more resilient than either layer would be on its own.”",
-    "content_source": "trafilatura",
-    "content_chars": 2085,
-    "content_excerpt": "With AI image generators widely available online and more sophisticated than ever, it’s never been harder to tell if an image is authentic. But on Tuesday, OpenAI announced two new measures to help fight the problem.\nThe company has committed to an open standard called C2PA, which adds a clear signal in metadata that an image was generated by AI. OpenAI is also partnering with Google to include an invisible watermark called SynthID, which will be harder to detect, but also harder to erase if bad actors try to cover their tracks.\nThe new protections only apply to images generated by OpenAI products, so they won’t affect the flood of imagery coming from less reputable AI tools; they can help ensure that OpenAI isn’t part of the problem.\nOpenAI is also previewing a public verification tool that will check for both signals, allowing users to easily test whether an image was generated using AI. Initially, the tool will only extend to images generated by OpenAI products; the company hopes to expand it to cover other tools over time.\nFounded in 2021, the Coalition for Content Provenance and Authenticity (C2PA) is a non-profit dedicated to mitigating the harmful effects of AI imagery on public discourse. The C2PA standard has been adopted by a range of Google products, but adoption remains inconsistent across the industry. Because the C2PA signal is clearly accessible in the metadata of each file, it can be manipulated, and is most useful among trusted users.\nSynthID is a newer effort designed to be a more robust measure to meddling. Developed by Google, the SynthID watermark is designed to persist even when bad actors attempt to remove it, either through screenshots, resizing or digital manipulation.\nThe two systems are meant to complement each other, with each addressing the other’s weaknesses.\n“Watermarking can be more durable through transformations like screenshots, while metadata can provide more information than a watermark alone,” OpenAI noted in its announcement. “Together, they make provenance more resilient than either layer would be on its own.”",
-    "title_zh": "OpenAI 让检查图像是否由他们的模型制作变得更加容易",
-    "summary_zh": "OpenAI 宣布了两项新措施来帮助检测 AI 生成的图像：加入开放 C2PA 标准并将 Google 的 SynthID 添加到其产品中",
-    "ai_summary": "OpenAI 宣布了两项新措施来帮助检测 AI 生成的图像：加入开放 C2PA 标准并将 Google 的 SynthI…"
-  },
-  {
     "id": "hn-48153379",
     "title": "I believe there are entire companies right now under AI psychosis",
     "url": "https://twitter.com/mitchellh/status/2055380239711457578",
@@ -4659,8 +4667,8 @@
     "lang": "en",
     "published": "2026-05-15T20:26:47Z",
     "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
-    "points": 2103,
-    "collected_at": "2026-05-25T19:19:13.808755"
+    "points": 2104,
+    "collected_at": "2026-05-26T02:32:17.792200"
   },
   {
     "id": "hn-48085821",
@@ -4671,7 +4679,7 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-05-25T19:19:13.808821"
+    "collected_at": "2026-05-26T02:32:17.792261"
   },
   {
     "id": "hn-48019219",
@@ -4682,7 +4690,7 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "points": 1755,
-    "collected_at": "2026-05-25T19:19:13.808852"
+    "collected_at": "2026-05-26T02:32:17.792288"
   },
   {
     "id": "hn-47679121",
@@ -4693,7 +4701,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-25T19:19:13.808939"
+    "collected_at": "2026-05-26T02:32:17.792369"
   },
   {
     "id": "hn-47363754",
@@ -4704,7 +4712,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-25T19:19:13.809043"
+    "collected_at": "2026-05-26T02:32:17.792473"
   },
   {
     "id": "hn-47340079",
@@ -4715,7 +4723,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-25T19:19:13.808645"
+    "collected_at": "2026-05-26T02:32:17.792094"
   },
   {
     "id": "hn-47225130",
@@ -4726,7 +4734,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-25T19:19:13.809088"
+    "collected_at": "2026-05-26T02:32:17.792516"
   },
   {
     "id": "hn-47136179",
@@ -4737,7 +4745,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-25T19:19:13.808779"
+    "collected_at": "2026-05-26T02:32:17.792222"
   },
   {
     "id": "hn-46990729",
@@ -4748,7 +4756,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-25T19:19:13.808721"
+    "collected_at": "2026-05-26T02:32:17.792168"
   },
   {
     "id": "hn-45941596",
@@ -4759,7 +4767,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-25T19:19:13.809101"
+    "collected_at": "2026-05-26T02:32:17.792528"
   },
   {
     "id": "hn-45930151",
@@ -4770,7 +4778,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-25T19:19:13.809163"
+    "collected_at": "2026-05-26T02:32:17.792568"
   },
   {
     "id": "hn-44972151",
@@ -4781,7 +4789,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-25T19:19:13.808880"
+    "collected_at": "2026-05-26T02:32:17.792313"
   },
   {
     "id": "hn-44396518",
@@ -4792,7 +4800,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-25T19:19:13.809010"
+    "collected_at": "2026-05-26T02:32:17.792440"
   },
   {
     "id": "hn-44314423",
@@ -4803,7 +4811,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-25T19:19:13.809057"
+    "collected_at": "2026-05-26T02:32:17.792486"
   },
   {
     "id": "hn-44163063",
@@ -4814,7 +4822,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-25T19:19:13.808695"
+    "collected_at": "2026-05-26T02:32:17.792144"
   },
   {
     "id": "hn-42910910",
@@ -4825,7 +4833,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-25T19:19:13.808893"
+    "collected_at": "2026-05-26T02:32:17.792326"
   },
   {
     "id": "hn-41392128",
@@ -4836,7 +4844,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-25T19:19:13.808794"
+    "collected_at": "2026-05-26T02:32:17.792236"
   },
   {
     "id": "hn-41386319",
@@ -4847,7 +4855,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-25T19:19:13.808807"
+    "collected_at": "2026-05-26T02:32:17.792249"
   },
   {
     "id": "hn-41069829",
@@ -4858,7 +4866,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-25T19:19:13.809176"
+    "collected_at": "2026-05-26T02:32:17.792581"
   },
   {
     "id": "hn-41046773",
@@ -4869,7 +4877,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-25T19:19:13.808682"
+    "collected_at": "2026-05-26T02:32:17.792131"
   },
   {
     "id": "hn-40767459",
@@ -4880,7 +4888,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-25T19:19:13.809189"
+    "collected_at": "2026-05-26T02:32:17.792594"
   },
   {
     "id": "hn-39918245",
@@ -4891,7 +4899,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-25T19:19:13.809115"
+    "collected_at": "2026-05-26T02:32:17.792541"
   },
   {
     "id": "hn-39526057",
@@ -4902,7 +4910,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-25T19:19:13.808667"
+    "collected_at": "2026-05-26T02:32:17.792117"
   },
   {
     "id": "hn-38544729",
@@ -4913,7 +4921,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-25T19:19:13.808734"
+    "collected_at": "2026-05-26T02:32:17.792180"
   },
   {
     "id": "hn-37021160",
@@ -4924,7 +4932,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-25T19:19:13.808908"
+    "collected_at": "2026-05-26T02:32:17.792340"
   },
   {
     "id": "hn-31812259",
@@ -4935,7 +4943,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-25T19:19:13.809070"
+    "collected_at": "2026-05-26T02:32:17.792498"
   },
   {
     "id": "hn-18249755",
@@ -4946,7 +4954,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-25T19:19:13.808864"
+    "collected_at": "2026-05-26T02:32:17.792300"
   },
   {
     "id": "hn-17022963",
@@ -4957,7 +4965,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-25T19:19:13.808837"
+    "collected_at": "2026-05-26T02:32:17.792275"
   },
   {
     "id": "hn-15892066",
@@ -4968,7 +4976,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-25T19:19:13.809030"
+    "collected_at": "2026-05-26T02:32:17.792460"
   },
   {
     "id": "hn-6830566",
@@ -4979,6 +4987,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-25T19:19:13.809142"
+    "collected_at": "2026-05-26T02:32:17.792552"
   }
 ]
