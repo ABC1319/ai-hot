@@ -6223,6 +6223,27 @@
     "collected_at": "2026-05-25T19:19:15.147113"
   },
   {
+    "id": "github-1244661797",
+    "name": "lucidrains/dmpo",
+    "display_name": "dmpo",
+    "url": "https://github.com/lucidrains/dmpo",
+    "description": "Implementation and explorations into MPO / DMPO",
+    "stars": 7,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "policy-optimization",
+      "reinforcement-learning"
+    ],
+    "created_at": "2026-05-20T13:28:05Z",
+    "updated_at": "2026-05-26T12:42:32Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-26T14:51:14.866695"
+  },
+  {
     "id": "github-1213064866",
     "name": "abbosaliboev/free-ai-bible",
     "display_name": "free-ai-bible",
