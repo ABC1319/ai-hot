@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "核心观点都在这了~"
 summary_zh = ""
 tags = []
-list_page = 21
+list_page = 23
 +++
 
 <!-- AUTO-GENERATED: news page -->

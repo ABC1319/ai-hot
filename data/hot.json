@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T02:34:01.516377",
-  "total": 6,
+  "updated_at": "2026-05-26T09:42:43.008091",
+  "total": 8,
   "hot_list": [
     {
       "title": "教皇的人工智能通谕并不是真正关于人工智能的",
@@ -18,6 +18,42 @@
       "category": "资讯",
       "news_id": "96a0ae8f1cd7",
       "internal_url": "https://aihot.bt199.com/news/96a0ae8f1cd7/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "对人工智能就业歇斯底里的现实检验",
+      "name": "对人工智能就业歇斯底里的现实检验",
+      "title_zh": "对人工智能就业歇斯底里的现实检验",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-26",
+      "time": "2026-05-26",
+      "description": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "subtitle": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "ai_summary": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "category": "资讯",
+      "news_id": "7400dc01b3a1",
+      "internal_url": "https://aihot.bt199.com/news/7400dc01b3a1/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "是时候解决初级工作中迫在眉睫的危机了。",
+      "name": "是时候解决初级工作中迫在眉睫的危机了。",
+      "title_zh": "是时候解决初级工作中迫在眉睫的危机了。",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-26",
+      "time": "2026-05-26",
+      "description": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "subtitle": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "ai_summary": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "category": "资讯",
+      "news_id": "e49dc2a61c4b",
+      "internal_url": "https://aihot.bt199.com/news/e49dc2a61c4b/",
       "type_label": "📰 新闻"
     },
     {
@@ -131,6 +167,42 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "对人工智能就业歇斯底里的现实检验",
+      "name": "对人工智能就业歇斯底里的现实检验",
+      "title_zh": "对人工智能就业歇斯底里的现实检验",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-26",
+      "time": "2026-05-26",
+      "description": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "subtitle": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "ai_summary": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "category": "资讯",
+      "news_id": "7400dc01b3a1",
+      "internal_url": "https://aihot.bt199.com/news/7400dc01b3a1/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "是时候解决初级工作中迫在眉睫的危机了。",
+      "name": "是时候解决初级工作中迫在眉睫的危机了。",
+      "title_zh": "是时候解决初级工作中迫在眉睫的危机了。",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-26",
+      "time": "2026-05-26",
+      "description": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "subtitle": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "ai_summary": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "category": "资讯",
+      "news_id": "e49dc2a61c4b",
+      "internal_url": "https://aihot.bt199.com/news/e49dc2a61c4b/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "教皇利奥呼吁在人工智能时代成为“深刻的人性”",
       "name": "教皇利奥呼吁在人工智能时代成为“深刻的人性”",
       "title_zh": "教皇利奥呼吁在人工智能时代成为“深刻的人性”",
@@ -224,7 +296,7 @@
   "type_stats": {
     "tool": 0,
     "project": 0,
-    "news": 6,
+    "news": 8,
     "model": 0
   },
   "items": [
@@ -244,6 +316,42 @@
       "category": "资讯",
       "news_id": "96a0ae8f1cd7",
       "internal_url": "https://aihot.bt199.com/news/96a0ae8f1cd7/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "对人工智能就业歇斯底里的现实检验",
+      "name": "对人工智能就业歇斯底里的现实检验",
+      "title_zh": "对人工智能就业歇斯底里的现实检验",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-26",
+      "time": "2026-05-26",
+      "description": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "subtitle": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "ai_summary": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…",
+      "category": "资讯",
+      "news_id": "7400dc01b3a1",
+      "internal_url": "https://aihot.bt199.com/news/7400dc01b3a1/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "是时候解决初级工作中迫在眉睫的危机了。",
+      "name": "是时候解决初级工作中迫在眉睫的危机了。",
+      "title_zh": "是时候解决初级工作中迫在眉睫的危机了。",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-05-26",
+      "time": "2026-05-26",
+      "description": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "subtitle": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "ai_summary": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能…",
+      "category": "资讯",
+      "news_id": "e49dc2a61c4b",
+      "internal_url": "https://aihot.bt199.com/news/e49dc2a61c4b/",
       "type_label": "📰 新闻"
     },
     {
