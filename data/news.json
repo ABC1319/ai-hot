@@ -1,5 +1,23 @@
 [
   {
+    "id": "1ab37a271eb8",
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-26T18:33:01",
+    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "collected_at": "2026-05-26T20:01:09.029587",
+    "content_text": "Popular AI gateway maker\nOpenRouter\n, founded in 2023, has raised a hefty $113 million Series B led by CapitalG, the growth venture fund of Google parent company Alphabet. While the startup didn’t disclose its new valuation, The New York Times\nreports\nthat it landed at about $1.3 billion post-money.\nThis is a hefty increase from the estimated $547 million post-money valuation it hit a year ago, per PitchBook,\nafter raising $40 million in Series A funding\nin June 2025. That round was led by Andreessen Horowitz and Menlo Ventures, with participation from Sequoia.\nWhat a difference a year makes. Since then, AI work has shifted from training to inference to, now, agents. And OpenRouter’s AI gateway has soared in popularity in response. The gateway helps enterprises and other AI users select different models for different jobs to control costs or increase reasoning and accuracy for the task at hand.\nOpenRouter provides access to over 400 models, including Anthropic, Google, OpenAI, xAI, and DeepSeek, it says. It claims 8 million global users and 100 trillion tokens processed per month, or about 25 trillion per week. That’s a 5x increase from the 5 trillion tokens it was processing per week just six months ago.\nOpenRouter’s success means that the AI model is increasingly becoming an invisible, swappable engine for AI tasks.\nRather than a future where startups or enterprises standardize on a model of choice — perhaps creating a single all-powerful model maker in the process — the growth of OpenRouter indicates something else. Companies have no plans to get locked into a model vendor as they did with their various SaaS providers. The multi-model future is already here.",
+    "content_source": "readability",
+    "content_chars": 1689,
+    "content_excerpt": "Popular AI gateway maker\nOpenRouter\n, founded in 2023, has raised a hefty $113 million Series B led by CapitalG, the growth venture fund of Google parent company Alphabet. While the startup didn’t disclose its new valuation, The New York Times\nreports\nthat it landed at about $1.3 billion post-money.\nThis is a hefty increase from the estimated $547 million post-money valuation it hit a year ago, per PitchBook,\nafter raising $40 million in Series A funding\nin June 2025. That round was led by Andreessen Horowitz and Menlo Ventures, with participation from Sequoia.\nWhat a difference a year makes. Since then, AI work has shifted from training to inference to, now, agents. And OpenRouter’s AI gateway has soared in popularity in response. The gateway helps enterprises and other AI users select different models for different jobs to control costs or increase reasoning and accuracy for the task at hand.\nOpenRouter provides access to over 400 models, including Anthropic, Google, OpenAI, xAI, and DeepSeek, it says. It claims 8 million global users and 100 trillion tokens processed per month, or about 25 trillion per week. That’s a 5x increase from the 5 trillion tokens it was processing per week just six months ago.",
+    "title_zh": "OpenRouter 一年内估值翻倍多至 $1.3B",
+    "summary_zh": "OpenRouter 已筹集由 CapitalG 领投的 1.13 亿美元 B 轮融资。六个月内其使用量增长了 5 倍，这表明多人工智能模型的未来已经到来",
+    "ai_summary": "OpenRouter 已筹集由 CapitalG 领投的 1.13 亿美元 B 轮融资。六个月内其使用量增长了 5 倍…"
+  },
+  {
     "id": "269d421de6aa",
     "title": "蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了",
     "url": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&utm_medium=article",
@@ -13,6 +31,75 @@
     "content_source": "readability",
     "content_chars": 2991,
     "content_excerpt": "近日，光轮智能完成新一轮融资。本轮由蚂蚁集团领投，建投投资、大湾区共同家园基金、森马方道基金、山东孚弘（工业富联参与管理产业基金）、芯能投资、临芯投资等知名国资、产业以及财务机构共同参与；同时，三七互娱、国方创新、道禾长期投资、鼎石资管等老股东超额跟投。\n据介绍，本轮融资将主要用于物理 AI 的数据与评测基础设施相关核心技术投入，持续加强规模化交付能力建设，并加快全球市场开拓与生态合作。光轮智能致力于为物理 AI 构建数据与仿真基础设施，持续面向具身智能、世界模型与产业场景提供高质量数据生成、仿真训练与评测验证等关键能力。本轮融资，既是资本市场对光轮智能技术路线与商业进展的认可，也体现出产业界对物理 AI 基础设施长期价值的持续看好。\n具身数据规模化元年：数据与评测基础设施成为新的价值中心\n此次，产业资本和国资力量纷纷加码光轮智能，既是对光轮智能阶段性成果的认可，也反映出市场对物理 AI 数据与评测基础设施长期价值的持续看好。随着具身智能从技术验证走向规模化落地，行业对高质量数据供给、可复现评测体系和持续反馈能力的需求正在快速提升，物理 AI 的数据与评测基础设施正成为支撑产业发展的关键环节。\n光轮智能在这一方向上已形成系统能力，持续服务具身大模型、世界模型及真实产业场景中的训练、评测与部署需求。此次产业资本的加入，将进一步强化光轮在技术、场景与生态侧的协同能力，推动高质量具身数据、仿真训练、模型评测与产业落地形成更高效的闭环，加速物理 AI 基础设施能力走向规模化应用。\n人类、仿真、部署全闭环，构建数据与评测基础设施\n光轮智能构建的是一套贯穿训练、评测与部署反馈的物理 AI 数据与评测基础设施。其内核来自“求解—测量—生成”三位一体全栈自研仿真平台：求解负责在虚拟环境中还原力、碰撞、接触和形变，让仿真在物理上可信；测量负责把材料、接触、摩擦、形变等真实物理属性带入系统；生成则把这些物理规律规模化扩展为可训练、可评测、可复用的仿真世界。\n在这一技术内核之上，人类视频数据提供真实世界的人类行为与任务经验；仿真则将这些经验规模化扩展为仿真合成数据；评测判断模型能力边界，并指出下一轮数据需求；真实部署把模型带回产业现场，产生新的失败、反馈和任务约束；这些反馈再回流，推动下一轮数据生成、仿真扩展、评测迭代和真实部署。这套内核与外循环共同指向一个结果：更高质量的数据与评测能力。\n光轮智能已在人类视频数据、仿真合成数据和工业级仿真评测三个关键维度形成全球第一的规模化交付能力。其中，人类视频数据与仿真合成数据相互增强：人类视频数据为仿真系统提供真实场景、任务与操作轨迹先验的规模化积累，提升仿真的真实性与可靠性；仿真合成数据则将这些真实经验在不同物体、材质、布局和任务条件下进一步泛化扩展，形成更大规模、更丰富分布的训练数据。\n由此，光轮智能逐步构建起以人类数据校准仿真、以仿真放大人类数据的协同闭环，进一步提升对具身模型训练、泛化与落地的支撑能力。目前，光轮智能的人类视频数据体系已覆盖 25,000+ 环境节点、100,000+ 任务种类，累计交付超 150 万小时高质量人类数据。相关能力的持续突破，也正加速转化为商业成果：2026 年第一季度新增订单达 5.5 亿元。"
+  },
+  {
+    "id": "96f157c6ce9a",
+    "title": "This startup is betting India’s gig economy can train the world’s robots",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-26T16:00:00",
+    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+    "collected_at": "2026-05-26T20:01:09.029655",
+    "content_text": "In the last few years, India’s\nonline food delivery market\nhas grown significantly, with both Zomato and Swiggy going public and the number of cloud kitchens increasing. Meanwhile, startups working on home services, such as on-demand household staffing platforms like Urban Company,\nSnabbit\n, and\nPronto\n, have gained popularity.\nSilicon Valley-based startup\nHuman Archive\nis tapping into this trend, partnering with these companies to have workers wear special caps with cameras to collect egocentric (first-person point of view) video data of everyday tasks that could be used to train robots.\nWithout naming specific partners, the startup said it is working with companies in the home services, hotel, and restaurant sectors to collect egocentric data, and it says it has more than 1,000 active headsets deployed across multiple locations.\nOn the back of that traction, Human Archive said Tuesday it has raised $8.2 million in funding from Wing Venture Capital, NVP Capital, Y Combinator, and angels from OpenAI, Nvidia, Google, Mercor, AfterQuery, BAIR, SAIL, Brad Boa, and Meta.\nThe startup was founded by three students from UC Berkeley and one from Stanford — Samay Maini, Rushil Agarwal, Shloke Patel, and Raj Patel, the latter two being cousins. (Raj Patel is CEO.) All four have research backgrounds spanning robotics, hardware, and tactile data.\nThe company’s founding is a direct bet on where the AI industry is heading. As robotics labs and frontier AI companies race to build machines that can perform physical tasks in the real world, they face a critical bottleneck — a shortage of high-quality, real-world training data showing humans doing everyday work. Human Archive’s bet is that the workers staffing India’s booming gig economy represent an untapped and scalable source of exactly that data.\nWhile Human Archive is working with multiple partners, the startup said it was rejected by many Indian home services companies, including Pronto and Urban Company, for a collaboration.\nThe company’s rejection by major players became public fodder last weekend, when Indian outlet Entrackr\nreported\nthat Pronto is actively seeking partnerships to collect worker data for robotics training and that Snabbit had held early discussions with Human Archive before the project fell apart.\nUrban Company CEO Abhiraj Singh Bhal\nresponded\non X, stating the company would not engage in such arrangements — prompting Patel to\nfire back\nthat Urban Company would soon be forced to reconsider or risk losing relevance to customer churn. Co-founder Rushil Agarwal was blunter still, posting that Pronto founder Anjali Sardana had\nlaughed\nat him and called him “stupid” when he raised the idea of a data partnership. Pronto acknowledged the conversations but said it chose not to move forward.\nAcross the country, other startups are collecting egocentric data from\ndifferent work environments\n, including factory floors. To differentiate itself, Human Archive is using and developing additional devices, such as tactile gloves, a full-body motion capture suit, and wrist cameras to capture data, including motion and tactile force, synchronously aligned with RGB-D (color imagery paired in real time with depth information), to sell to AI labs. The startup believes that video data alone is not sufficient but that pairing it with other sensor data makes it much more valuable.\nInitially, Human Archive used makeshift setups or off-the-shelf rigs to capture the data. Now it is working on custom hardware that works together and captures different kinds of data. It already has more than 50 different devices deployed to collect different data points.\n“To capture data, we started with iPhones; then we built our own custom rigs and caps. Now we have more than seven different hardware products that we use interchangeably across different modalities. After data collection from different devices, we worked on synchronizing data from all these different sources,” Patel said in a call.\nThe company said it is developing ways to fine-tune AI models with its own data and test them on robots to evaluate task effectiveness. By doing this, the startup can demonstrate the quality of its data to potential customers and post-train internal models.\nZach DeWitt, a partner at Wing VC, said the startup has a unique advantage in collecting data from multiple sensors.\n“No one else in the world has been able to synchronize and collect headset RGB-D, force feedback, full-body motion capture, and synchronized chest and wrist camera data at scale. They’ve been doing internal model training on this data, and every major lab and university is interested in running experiments on it due to the novelty of the sensors and the scale of the new dataset they are releasing soon,” he told TechCrunch.\nCollecting data in India and expansion plans\nDespite rejection from notable players in the home services industry, Human Archive teamed up with smaller startups to offer discounted services to customers. When a worker arrives at a home, consumers are offered a choice through the app: pay a discounted price in exchange for consenting to data collection, or pay the full price for an unrecorded visit.\nVIDEO\nPatel mentioned that customers have been happy to opt for the former, as disputes about service quality are common, and video recordings can help resolve them.\nThe company pays workers a base rate of $1 per hour for participating in egocentric data collection. A report from the Economic Times suggests that other companies pay ₹250 to ₹400 per hour (roughly $2.63 to $4.20). Patel said competitors pay more than Human Archive, but its on-the-ground presence in India allows it to keep compensation lower.\n“Human Archive’s network provides immediate, flexible earning opportunities globally, lowering the barrier to participating in the AI economy. We see this as a critical bridge that funds immediate livelihoods while building the infrastructure for a safer, more productive future,” DeWitt said.\nBeyond wage payment, there are privacy concerns around data collection via video recording. It is not clear what information Human Archive gives workers about how their footage is used. The company said that its commercial contracts are compliant with India’s\nDigital Personal Data Protection (DPDP) Act\n, as it displays a privacy policy notice, along with consent information detailing the purpose of data collection and how it is processed. The company said all data is anonymized and faces are blurred from recordings. Last week, Moneycontrol\nreported\nthat India’s Ministry of Electronics and Information Technology is looking into the consent mechanisms and data-collection practices of startups collecting egocentric data through home service workers.\nWhile Human Archive largely collects data in India, it has started expanding into Southeast Asia and the U.S. The company is also building a platform for anyone to participate in data collection and earn money. It also wants to offer customers in the U.S. services like cleaning or cooking in exchange for data collection by participating workers — though these programs are just in an early pilot stage.\nMultiple well-funded startups are\nracing\nto build\nphysical AI\n. Doing so requires massive amounts of training data showing humans at work — and Human Archive is one of the players competing to serve that demand. Whether its approach can scale will hinge on the partnerships it strikes and the uniqueness and volume of the data it can collect to satisfy the appetite of physical AI labs.",
+    "content_source": "readability",
+    "content_chars": 7542,
+    "content_excerpt": "In the last few years, India’s\nonline food delivery market\nhas grown significantly, with both Zomato and Swiggy going public and the number of cloud kitchens increasing. Meanwhile, startups working on home services, such as on-demand household staffing platforms like Urban Company,\nSnabbit\n, and\nPronto\n, have gained popularity.\nSilicon Valley-based startup\nHuman Archive\nis tapping into this trend, partnering with these companies to have workers wear special caps with cameras to collect egocentric (first-person point of view) video data of everyday tasks that could be used to train robots.",
+    "title_zh": "这家初创公司押注印度的零工经济可以训练世界各地的机器人",
+    "summary_zh": "Human Archive 是一家由加州大学伯克利分校和斯坦福大学研究人员创立的初创公司，它正在向印度的零工工人支付费用，要求他们佩戴配备摄像头的帽子和传感器设备，以收集人工智能和机器人实验室正在竞相获取的真实世界体能训练数据",
+    "ai_summary": "Human Archive 是一家由加州大学伯克利分校和斯坦福大学研究人员创立的初创公司，它正在向印度的零工工人支付费用…"
+  },
+  {
+    "id": "b920d871e577",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-26T14:54:10",
+    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They",
+    "collected_at": "2026-05-26T20:01:09.453645",
+    "content_text": "Sponsored\nIn partnership withEma\nAmid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.\nAlthough 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.\nThe sticky tape problem\nThe challenge is that many organisations are often layering AI agents onto existing operations, rather than reimagine the operating model and how work will need to be rewired, explains Prasun Shah, global CTO for workforce consulting and chief AI officer at PwC UK Consulting. “They’re embedding AI employees into what is a human operating model,” layering on AI agents to existing workplace structures when “this is like adding sticky tapes to parts of an operating model that is breaking.”\nDoing so may be preventing organizations from unlocking the full value agentic AI offers, creating circumstances where disillusionment can quickly creep in. That full value lies in agents’ capacity to execute entire workflows with limited human input. They can coordinate complex tasks, make independent decisions, adjust to changing conditions, and iterate performance.\nIn early proving grounds that span customer service, HR, and sales, it’s already estimated that AI agents could accelerate business processes by as much as 30% to 50% and low-value work time by 25% to 40% when deployed at scale. But with this capability comes greater complexity and the need for an enterprise-wide change.\nGrowing the AI vocabulary\nEnterprise agentic AI platform Ema describes this change as agentic business transformation (ABT), a term it coined last year in partnership with HFS Research, in an attempt to plug what it sees as a gap in the existing lexicon about AI agents, and to provide enterprises with a new framework with which to think about their own adoption of the technology.\n“None of the existing vocabulary captures the full scope of the change,” explains Ema CEO and founder Surojit Chatterjee. “Digital transformation was about moving from paper to software. AI transformation was about adding artificial intelligence to existing processes. Co-pilot is about AI assisting in various human tasks. But ABT is something categorically different: It's the integration of AI agents into the fabric of the organization.”\nFor Shah, the dedicated term (ABT) “helps drive the need to redesign an organization in its entirety: its operating model, its workflows, decision rights, and performance management systems.” He emphasizes that “everything that’s needed to ensure those agents are actually active participants in value creation, rather than just point tools or productivity aids.”\nAccording to Ema, ABT encompasses three core pillars: an organization’s technology stack, its workforce, and the metrics used for success.\nAI agents as connective tissue\nThe first pillar of ABT is the technology stack. “Your existing tech stack was designed for human-operated, application-centric workflows,” says Chatterjee. “It needs to be reconsidered when the actor is an AI agent operating at machine speed across multiple systems simultaneously.”\nAs AI agents are integrated into an organization, enterprises will need to pivot from a set of linear processes and steps, to rewiring work in a very different way, explains Shah. That’s because the value in AI agents isn’t as another layer in an existing technology stack but as a connective tissue, he explains, moving between or across layers to coordinate a high-level task or retrieve and interpret data from multiple discrete applications. AI agents can create “a true competitive differentiation for an enterprise” by making decisions based on this capacity to contextualize, he says. “That is where the next battleground will be.”\nTo build this connective tissue, leaders need to adapt their technology stack to surface higher quality decisions from AI agents, prioritizing access to multiple datasets and applications simultaneously to develop tacit knowledge. “Organizations that make this architectural shift become genuinely more adaptive,” says Chatterjee. “When a new business requirement emerges, you don't wait six months for a software vendor to build a feature. You configure an AI employee using natural language and connect it to the systems it needs. The time from business to production workflow drops from months to days.”\nThe workforce, redesigned\nAs AI agents are deployed for more use cases, enterprise leaders must consider what this means for dynamics across their workforce, the second pillar of ABT.\nWorkforce structures today deviate little from the hierarchical model of the early days of industrialization. To maximize efficiency and scale, processes are standardized, tasks are clearly delineated between strategic business units (SBUs), and employees progress up through an organization based on their capacity to optimize output from teams below them. But with AI agents that can execute, coordinate, and optimize tasks—often without managerial coordination—the lines of that established hierarchy become blurred.\nIn a workforce that blends AI agents and human employees, managers will be freed up from many execution-based tasks but take on new responsibilities associated with managing hybrid teams. Managers “will need to be able to manage issues around trust, explainability, psychological safety, and even status dynamics” to navigate new tensions that could arise in a hybrid workforce, says Shah.\nThe impact of agentic AI on existing workforce structures goes far beyond the management layer, too. McKinsey predicts that by 2030, three-quarters of current jobs will require redesign, upskilling, or redeployment, and organizations will need to act swiftly to amend recruitment, retention, and remuneration.\nFrom output to outcome\nSuccess metrics are the third and final pillar of ABT.\nAs AI agents assume greater ownership of core enterprise processes, taking on collaborative roles alongside human employees, traditional workforce metrics that focus on activity or output—such as calls handled or reports filed—no longer make sense.\n“When you add AI employees into the workforce, activity metrics become meaningless or actively misleading,” says Chatterjee. “An AI employee can handle a thousand customer interactions in the time it takes a human to handle ten. If you measure success by interactions handled, you'll conclude the AI is working brilliantly while missing whether any of those interactions actually drove customer satisfaction, retention, or revenue.” To correct this, enterprises must develop a new set of metrics that focus on outcome rather than output. That is, metrics on the broader benefits or changes achieved, rather than individual deliverables.\nFor example, when one of Ema’s large enterprise customers overhauled its own metrics, switching from tool metrics like cost per query and AI accuracy, to outcomes like the percentage of contracts reviewed without human escalation, the measured ROI from agentic AI tripled within two quarters. The changes meant “this customer stopped building point solutions in high-volume, low-complexity workflows and started deploying AI employees where the outcome value was highest,” says Chatterjee.\nIntegrating new metrics may also require a complete reconfiguration of reward and talent management processes, as well as accountability and ownership within organizations, points out Shah. In human-AI teams, for example, although ethical and fiduciary responsibilities will likely remain with human employees, operational accountability will become significantly more diffused to reflect the systemic role of AI agents.\nThis change will raise new questions that senior leadership teams will need to wrestle with, Shah adds. They’ll need to consider: Who is accountable when an AI employee makes a mistake? What happens when AI and humans disagree? What guardrails should be erected to safeguard customers?\nLaying the groundwork for systems-level change\nSystems-level change is gradual. These are complex lines of inquiry that experts continue to grapple with. But in kickstarting internal dialogue about the core pillars of ABT—the workforce, the technology stack, and the metrics by which success can be gauged—leaders can lay the groundwork for an enterprise better poised to embrace AI agents at a systems level and start to close the gap between their ambition and execution.\nThis content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used were limited to secondary production processes that passed thorough human review.\nDeep Dive\nArtificial intelligence\nWant to understand the current state of AI? Check out these charts.\nAccording to Stanford’s 2026 AI Index, AI is sprinting, and we’re struggling to keep up.\n10 Things That Matter in AI Right Now\nMIT Technology Review's authoritative overview of the 10 technologies, emerging trends, bold ideas, and powerful movements in AI in 2026.\nMusk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models\nMusk kept his cool, and OpenAI’s lawyer bulldozed him with piercing questions about his motivations for suing the company.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+    "content_source": "trafilatura",
+    "content_chars": 9710,
+    "content_excerpt": "Sponsored\nIn partnership withEma\nAmid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.\nAlthough 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.\nThe sticky tape problem\nThe challenge is that many organisations are often layering AI agents onto existing operations, rather than reimagine the operating model and how work will need to be rewired, explains Prasun Shah, global CTO for workforce consulting and chief AI officer at PwC UK Consulting. “They’re embedding AI employees into what is a human operating model,” layering on AI agents to existing workplace structures when “this is like adding sticky tapes to parts of an operating model that is breaking.”\nDoing so may be preventing organizations from unlocking the full value agentic AI offers, creating circumstances where disillusionment can quickly creep in. That full value lies in agents’ capacity to execute entire workflows with limited human input. They can coordinate complex tasks, make independent decisions, adjust to changing conditions, and iterate performance.\nIn early proving grounds that span customer service, HR, and sales, it’s already estimated that AI agents could accelerate business processes by as much as 30% to 50% and low-value work time by 25% to 40% when deployed at scale. But with this capability comes greater complexity and the need for an enterprise-wide change.\nGrowing the AI vocabulary\nEnterprise agentic AI platform Ema describes this change as agentic business transformation (ABT), a term it coined last year in partnership with HFS Research, in an attempt to plug what it sees as a gap in the existing lexicon about AI agents, and to provide enterprises with a new framework with which to think about their own adoption of the technology.",
+    "title_zh": "重新思考代理人工智能时代的组织设计",
+    "summary_zh": "随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。 尽管 85% 的组织表示他们希望在未来三年内实现代理，但 76% 的组织表示他们当前的运营和基础设施无法支持这种变化。他们",
+    "ai_summary": "随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。 尽管 85% 的组织表示他们希望在未来三年内实现代理，但…"
+  },
+  {
+    "id": "f2c5d9ca1e26",
+    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-26T14:55:05",
+    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+    "collected_at": "2026-05-26T20:01:09.029687",
+    "content_text": "Universal Music Group (UMG) and TikTok recently\nannounced\nthe renewal of their licensing agreement, which includes a commitment to get rid of unauthorized AI-generated music from the platform to improve how artists and songwriters are credited.\nIn their joint announcement, UMG stated the agreement “extends TikTok and UMG’s groundbreaking commitment to AI protections that promote human artistry and ensure platform economics effectively flow through to artists and songwriters. TikTok and UMG will work together to remove unauthorized AI-generated music from the platform, while further improving artist and songwriter attribution.”\nThis new agreement represents a notable shift in the relationship between UMG and TikTok.\nFor years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies. Tensions between\nUMG and TikTok\nescalated in 2024 when UMG accused TikTok of inadequately addressing issues related to AI-generated music and copyright. This public dispute led to UMG temporarily pulling its music catalog from TikTok — a decision that underscored the app’s growing reliance on major label licenses as popular tracks vanished from user videos overnight.\nThe timing of TikTok’s commitment to crack down on fake or unlicensed music is significant, especially as the music industry wrestles with an influx of AI-generated content. Over the past couple of years, the industry has been increasingly worried about AI tools that can mimic artists’ voices or create counterfeit songs that exploit streaming algorithms. Viral AI-generated tracks imitating big names like Drake and The Weeknd sparked widespread concern, especially when some racked up millions of streams before being taken down.\nThe deal may also serve as a template for how the broader tech industry navigates the collision of AI, intellectual property, and platform accountability. As the EU\ntightens its regulatory grip\non AI-generated content (and U.S. states increasingly\nfollow suit\n), the pressure on other platforms to formalize similar governance frameworks is growing.\nTikTok has been working to demonstrate to the music industry that it can deliver significant earnings for artists and rights holders. Last year, the platform launched “\nTikTok for Artists\n,” an insights platform designed to help artists strengthen their promotional efforts and provide music labels with access to data.",
+    "content_source": "readability",
+    "content_chars": 2422,
+    "content_excerpt": "Universal Music Group (UMG) and TikTok recently\nannounced\nthe renewal of their licensing agreement, which includes a commitment to get rid of unauthorized AI-generated music from the platform to improve how artists and songwriters are credited.\nIn their joint announcement, UMG stated the agreement “extends TikTok and UMG’s groundbreaking commitment to AI protections that promote human artistry and ensure platform economics effectively flow through to artists and songwriters. TikTok and UMG will work together to remove unauthorized AI-generated music from the platform, while further improving artist and songwriter attribution.”\nThis new agreement represents a notable shift in the relationship between UMG and TikTok.\nFor years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies. Tensions between\nUMG and TikTok\nescalated in 2024 when UMG accused TikTok of inadequately addressing issues related to AI-generated music and copyright. This public dispute led to UMG temporarily pulling its music catalog from TikTok — a decision that underscored the app’s growing reliance on major label licenses as popular tracks vanished from user videos overnight.\nThe timing of TikTok’s commitment to crack down on fake or unlicensed music is significant, especially as the music industry wrestles with an influx of AI-generated content. Over the past couple of years, the industry has been increasingly worried about AI tools that can mimic artists’ voices or create counterfeit songs that exploit streaming algorithms. Viral AI-generated tracks imitating big names like Drake and The Weeknd sparked widespread concern, especially when some racked up millions of streams before being taken down.\nThe deal may also serve as a template for how the broader tech industry navigates the collision of AI, intellectual property, and platform accountability. As the EU",
+    "title_zh": "环球音乐集团与 TikTok 续签协议，打击未经授权的人工智能音乐",
+    "summary_zh": "多年来，UMG 一直推动平台、流媒体服务和人工智能公司实施更严格的内容审核政策",
+    "ai_summary": "多年来，UMG 一直推动平台、流媒体服务和人工智能公司实施更严格的内容审核政策"
+  },
+  {
+    "id": "bf8019c3a287",
+    "title": "Node.js 拟内置虚拟文件系统，AI 生成代码引争议",
+    "url": "https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-26T14:03:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-26T09:40:43.474470",
+    "content_text": "Matteo Collina 是 Node.js 技术指导委员会成员，同时也是 Platformatic 联合创始人。他提议在 Node.js 核心中新增\nnode:vfs\n模块，正式引入原生级虚拟文件系统（VFS）。该提案以\nPR #61478\n的形式提交至 Node.js GitHub 仓库，新增约 19000 行代码，涉及 100 个文件，并在社区引发了广泛讨论——大家既关注这项新功能本身，也热议该功能主要是使用\nClaude Code\n开发的这一事实。\nNode.js 的核心始终围绕 I/O，流、缓冲区、套接字和文件共同构成了运行时骨干。然而，运行 AI 生成代码、无磁盘测试、打包单文件可执行应用以及在多租户平台中对文件访问进行沙箱隔离这类常见工作流程以往都只能依靠变通方案实现。此次提议的\nnode:vfs\n模块通过提供基于内存且兼容\nfs\n的 API，以及支持挂载点、覆盖模式、符号链接和模块加载钩子，一次性解决这四个问题。\n与该核心提案同步推进的还有，Platformatic 已在 npm 上发布了用户态包 ，适用于 Node.js 22 及以上版本。该包完整复刻了提案新增的核心 API，待\nnode:vfs\n正式推出时，\n只需修改一行导入语句\n即可完成迁移：将\n'@platformatic/vfs'\n替换为\n'node:vfs'\n。Vercel 已将这套 API 封装到自己的 包中，而 LangChain 也已通过 将 VFS 用于智能体沙箱化。\n该功能已获得了看到其明显优势的开发者的支持。在\nHacker News\n上，一位评论者指出：\nYarn、pnpm、webpack 都有各自对应的解决方案。很高兴这项能力即将成为标准。我有个项目曾受文件系统限制严重：原本执行 13000 个测试需要 40 分钟，若 Node 原生支持虚拟文件系统，耗时可缩短至 3 分钟。\n在\nHashnode\n上，开发者 Jake Morrison 强调了 AI 智能体的使用场景：\n我一直将生成的代码写入临时文件，然后再清理，这种方式总觉得不够妥当。将代码保留在内存中并直接导入，会合理得多。\n但这个 PR 也引发了一场更大范围的争论。Collina 坦言，该实现是在 2025 年圣诞节期间借助 AI 辅助完成的，他表示“ AI 处理了繁琐的部分”，自己则专注于架构、API 设计和代码审核。对此，Node.js 核心资深贡献者、io.js 分支发起人 Fedor Indutny 在 GitHub 上发起了一份\n请愿书\n，呼吁禁止在 Node.js 核心中加入 AI 生成的代码。请愿内容指出，该 PR 的代码体量大，让人对开发者原产地证书（DCO）以及审核人员能否充分核验机器生成代码产生顾虑。Indutny 在\nReddit\n上写道：\n我始终认为，Node.js 这类核心基础设施并不适合做出这类改动。\n也有人提出反驳，\nHacker News\n上的一些评论者表示：“如果要选择信任谁去探索这些方向，我会相信他，还有这几年在 Node.js 仓库中表现出色的维护者们。”\n目前 Bun 和 Deno 均未提供同类的内置 VFS。Deno 已创建\nissue #32783\n用于跟踪添加\nnode:vfs\n兼容性的工作。在原始文件系统吞吐量方面领先基准测试的 Bun 尚未宣布类似的计划。Node.js TSC 计划就 AI 辅助代码贡献的管理规则开展投票，这将决定该 PR 的命运。用户态包及迁移路径的文档可在\nPlatformatic 博客\n和\n@platformatic/vfs GitHub 仓库\n查看。\n查看英文原文：\nhttps://www.infoq.com/news/2026/05/node-js-file-system/",
+    "content_source": "readability",
+    "content_chars": 1581,
+    "content_excerpt": "Matteo Collina 是 Node.js 技术指导委员会成员，同时也是 Platformatic 联合创始人。他提议在 Node.js 核心中新增\nnode:vfs\n模块，正式引入原生级虚拟文件系统（VFS）。该提案以\nPR #61478\n的形式提交至 Node.js GitHub 仓库，新增约 19000 行代码，涉及 100 个文件，并在社区引发了广泛讨论——大家既关注这项新功能本身，也热议该功能主要是使用\nClaude Code\n开发的这一事实。\nNode.js 的核心始终围绕 I/O，流、缓冲区、套接字和文件共同构成了运行时骨干。然而，运行 AI 生成代码、无磁盘测试、打包单文件可执行应用以及在多租户平台中对文件访问进行沙箱隔离这类常见工作流程以往都只能依靠变通方案实现。此次提议的\nnode:vfs\n模块通过提供基于内存且兼容"
   },
   {
     "id": "f56416e4fc5c",
@@ -33,19 +120,19 @@
     "ai_summary": "今天，我正在与 Google 和 Alphabet 首席执行官 Sundar Pichai 进行对话，这是我们在 Goo…"
   },
   {
-    "id": "bf8019c3a287",
-    "title": "Node.js 拟内置虚拟文件系统，AI 生成代码引争议",
-    "url": "https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&utm_medium=article",
+    "id": "202911016469",
+    "title": "Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "priority": 3,
-    "published": "2026-05-26T14:03:00",
+    "published": "2026-05-26T13:43:12",
     "summary": "点击查看原文>",
-    "collected_at": "2026-05-26T09:40:43.474470",
-    "content_text": "Matteo Collina 是 Node.js 技术指导委员会成员，同时也是 Platformatic 联合创始人。他提议在 Node.js 核心中新增\nnode:vfs\n模块，正式引入原生级虚拟文件系统（VFS）。该提案以\nPR #61478\n的形式提交至 Node.js GitHub 仓库，新增约 19000 行代码，涉及 100 个文件，并在社区引发了广泛讨论——大家既关注这项新功能本身，也热议该功能主要是使用\nClaude Code\n开发的这一事实。\nNode.js 的核心始终围绕 I/O，流、缓冲区、套接字和文件共同构成了运行时骨干。然而，运行 AI 生成代码、无磁盘测试、打包单文件可执行应用以及在多租户平台中对文件访问进行沙箱隔离这类常见工作流程以往都只能依靠变通方案实现。此次提议的\nnode:vfs\n模块通过提供基于内存且兼容\nfs\n的 API，以及支持挂载点、覆盖模式、符号链接和模块加载钩子，一次性解决这四个问题。\n与该核心提案同步推进的还有，Platformatic 已在 npm 上发布了用户态包 ，适用于 Node.js 22 及以上版本。该包完整复刻了提案新增的核心 API，待\nnode:vfs\n正式推出时，\n只需修改一行导入语句\n即可完成迁移：将\n'@platformatic/vfs'\n替换为\n'node:vfs'\n。Vercel 已将这套 API 封装到自己的 包中，而 LangChain 也已通过 将 VFS 用于智能体沙箱化。\n该功能已获得了看到其明显优势的开发者的支持。在\nHacker News\n上，一位评论者指出：\nYarn、pnpm、webpack 都有各自对应的解决方案。很高兴这项能力即将成为标准。我有个项目曾受文件系统限制严重：原本执行 13000 个测试需要 40 分钟，若 Node 原生支持虚拟文件系统，耗时可缩短至 3 分钟。\n在\nHashnode\n上，开发者 Jake Morrison 强调了 AI 智能体的使用场景：\n我一直将生成的代码写入临时文件，然后再清理，这种方式总觉得不够妥当。将代码保留在内存中并直接导入，会合理得多。\n但这个 PR 也引发了一场更大范围的争论。Collina 坦言，该实现是在 2025 年圣诞节期间借助 AI 辅助完成的，他表示“ AI 处理了繁琐的部分”，自己则专注于架构、API 设计和代码审核。对此，Node.js 核心资深贡献者、io.js 分支发起人 Fedor Indutny 在 GitHub 上发起了一份\n请愿书\n，呼吁禁止在 Node.js 核心中加入 AI 生成的代码。请愿内容指出，该 PR 的代码体量大，让人对开发者原产地证书（DCO）以及审核人员能否充分核验机器生成代码产生顾虑。Indutny 在\nReddit\n上写道：\n我始终认为，Node.js 这类核心基础设施并不适合做出这类改动。\n也有人提出反驳，\nHacker News\n上的一些评论者表示：“如果要选择信任谁去探索这些方向，我会相信他，还有这几年在 Node.js 仓库中表现出色的维护者们。”\n目前 Bun 和 Deno 均未提供同类的内置 VFS。Deno 已创建\nissue #32783\n用于跟踪添加\nnode:vfs\n兼容性的工作。在原始文件系统吞吐量方面领先基准测试的 Bun 尚未宣布类似的计划。Node.js TSC 计划就 AI 辅助代码贡献的管理规则开展投票，这将决定该 PR 的命运。用户态包及迁移路径的文档可在\nPlatformatic 博客\n和\n@platformatic/vfs GitHub 仓库\n查看。\n查看英文原文：\nhttps://www.infoq.com/news/2026/05/node-js-file-system/",
-    "content_source": "readability",
-    "content_chars": 1581,
-    "content_excerpt": "Matteo Collina 是 Node.js 技术指导委员会成员，同时也是 Platformatic 联合创始人。他提议在 Node.js 核心中新增\nnode:vfs\n模块，正式引入原生级虚拟文件系统（VFS）。该提案以\nPR #61478\n的形式提交至 Node.js GitHub 仓库，新增约 19000 行代码，涉及 100 个文件，并在社区引发了广泛讨论——大家既关注这项新功能本身，也热议该功能主要是使用\nClaude Code\n开发的这一事实。\nNode.js 的核心始终围绕 I/O，流、缓冲区、套接字和文件共同构成了运行时骨干。然而，运行 AI 生成代码、无磁盘测试、打包单文件可执行应用以及在多租户平台中对文件访问进行沙箱隔离这类常见工作流程以往都只能依靠变通方案实现。此次提议的\nnode:vfs\n模块通过提供基于内存且兼容"
+    "collected_at": "2026-05-26T09:40:43.474506",
+    "content_text": "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！\nSnowflake 世界中的数据工程正在经历一场重大变化。如今，越来越多的工作不再完全依赖手动完成，而是由 AI 工具辅助推进。这些工具正在出现在各个地方——IDE、命令行，以及 Snowflake 的 Web UI（Snowsight）中。对于今天的 Snowflake 数据工程师来说，工作不再只是移动数据。它更多关乎在 AI 的帮助下，构建可靠、管理良好且成本高效的系统。本文将探讨这种新工作方式的三个主要部分：使用 Cursor 和 GitHub Copilot 进行 Terraform 开发，使用 Cortex Code CLI 打通本地与云端环境，以及使用 Snowflake Cortex UI 直接在 Snowflake 内提升工作效率。\n为什么 Snowflake 专业能力比以往任何时候都更加关键\n将初级开发者与 Snowflake 专家结合起来，可以形成一个强大的反馈循环，在快速执行与架构完整性之间取得平衡。初级工程师可以使用 AI 快速起草管道或 Snowflake 专用 SQL，而专家则提供必要的治理层，对代码进行审计，确保其符合计算效率、安全数据共享和最佳聚类等最佳实践。这种以指导为核心的审计流程，不仅能捕捉“幻觉”代码或次优查询；它还像一个实时课堂，让初级工程师学习 Snowflake Data Cloud 的细微之处，例如管理 Warehouse credit 消耗以及利用 Dynamic Tables。最终，这种协作确保由初级工程师主导、AI 辅助的开发速度，永远不会以造成臃肿、难以管理或不安全的数据环境为代价。\n掌握基础设施即代码：使用 Cursor 和 GitHub Copilot 进行 Terraform 开发\nSnowflake 多层架构的管理——包括数据库、warehouse、基于角色的访问控制和网络策略——越来越多地通过 Terraform 完成，以确保可复现性和版本控制。然而，Snowflake Terraform provider 的复杂性，以及 HashiCorp Configuration Language（HCL）固有的冗长性，都会带来显著开销。Cursor 和 GitHub Copilot 等 AI 助手已经成为降低这种复杂性的关键工具，但要有效应用它们，需要对其设置方式以及基础设施任务所需的特定提示工程有细致理解。\n架构设置与环境配置\n对于数据工程师来说，第一步是根据所需的项目级感知能力选择合适的助手。GitHub Copilot 在行内代码补全和通用 SQL 辅助方面非常有效，但与更集成化的工具相比，它对更广泛工作区上下文的理解可能有限——尤其是在跨多个文件进行复杂 Terraform 重构时。Cursor 是一款基于 VS Code、内置 AI 能力的编辑器，它通过索引代码库并支持跨文件推理，提供更深入的项目感知能力。这使它能够更好地理解关系。\n要建立生产级环境，工程师必须安装 HashiCorp Terraform 扩展，并配置 Snowflake provider。项目布局对 AI 效能至关重要；模块化结构允许 AI 解析更小、逻辑上分离的代码块，从而降低上下文窗口耗尽的可能性。\n推荐配置\n需要注意的一个关键细节是，Snowflake Terraform provider 遵循语义化版本控制，而主要版本发布（例如 2.0.0 及之后版本）对资源 schema 引入了重大破坏性变更。在向 AI 提示之前，确保 providers.tf\n中的 required_providers\n块被准确定义，是最重要的“须知事项”，因为这可以防止助手生成与旧版、不受支持的 provider 兼容的代码。\n面向 Terraform 工作流的高级提示工程\n为 Terraform 编写有效提示，与为 Python 或 SQL 编写提示有根本不同。目标通常是转换现有状态，或生成复杂、相互依赖的资源层级结构。数据工程师应避免使用“创建一个 Snowflake 数据库”这类通用提示，而应专注于上下文重构和以安全为中心的模式。\n一个高价值工作流是消除硬编码值，也就是“魔法数字”。当工程师发现 CIDR 块、warehouse 大小或保留期限散落在代码各处时，可以通过有针对性的提示来自动完成清理。像这样的提示：“Analyze all .tf\nfiles in this workspace. Identify every hard-coded value for warehouse_size\n, data_retention_time_in_days\n, and comment\n. Extract these into variables in variables.tf\nwith appropriate descriptions, and update the original resources to use these variables. Ensure terraform validate\nwould pass after these changes,” 可以利用助手的多文件编辑能力执行全面重构。\n通过提示进行安全审计同样重要。数据工程师可以利用 Cursor 的工作区感知能力，扫描权限过于宽泛的 grant。一个有效提示可能是：“Scan our Terraform configurations for any usage of the ACCOUNTADMIN\nrole or any grant that applies ALL PRIVILEGES\nto the PUBLIC\nrole. Suggest more restrictive alternatives using custom functional roles and generate the necessary snowflake_role\nand snowflake_grant_privileges_to_role\nresource blocks”。这种方法通过在误配置真正应用到 Snowflake 环境之前识别它们，将安全“左移”。\n对 Terraform plan 的解读，或许是这些助手最复杂的使用方式。大型 plan notoriously 难以手动审查。通过将 plan 输出为 JSON——terraform plan -out=plan.tfplan && terraform show -json plan.tfplan > plan.json\n——工程师可以将该文件提供给 AI，并使用提示：“Act as a Senior DevOps Engineer. Analyze this plan JSON. List every resource marked for destruction or replacement. For each, identify the specific attribute change triggering the replacement and suggest if a create_before_destroy\nlifecycle block is necessary to avoid downtime”。\n“架构师警告”：谨慎处理\n虽然 AI 是一个巨大的力量倍增器，但它不能替代你的工程判断。项目开头的一个“幻觉”提示，可能会把结构性缺陷嵌入到整个代码库中。\n在你发布到生产环境之前，请记住以下三条规则：\nExperiment First：使用“沙箱”或一个虚拟 Snowflake worksheet 来测试 AI 生成的逻辑，然后再将其集成到主仓库中；\nThe Human Overlook：永远不要“盲目复制”代码。AI 偶尔可能会建议已弃用的 Snowflake 语法或低效的 join 模式，从而导致你的 credit 消耗飙升；\nThe Terraform Safety Net：如果你使用 AI 生成 HCL，请务必先运行\nterraform plan\n。确保 AI 没有幻觉出资源删除操作，或者——但愿不会——决定启动一个 4XL Warehouse 来在你的账户里“复制自己”。\n信任，但要验证。你的 Snowflake credits（以及你的睡眠时间表）都会感谢你。\n用 AI agent 编写优秀的 Terraform 代码，不只是关于第一版草稿；它关乎你的意图与 agent 执行之间反复迭代的“握手”。\n一旦你的 AI agent 提供了初始代码块，请按照以下步骤，从“建议的”脚本推进到生产就绪的基础设施：\n💡 寻求优化：不要满足于第一版草稿。让 agent 就模块化、变量使用和命名约定提出改进建议，确保代码“干净”且可扩展；\n🛡️ 审计安全性与 Bug：明确提示 agent 查找初始生成中可能遗漏的 bug、逻辑错误或安全漏洞——例如权限过于宽泛的安全组。即使在第二次或第三次迭代中，Copilot 仍然可能识别出它此前遗漏的 bug；\n📝 自动化文档：通过让 agent 编写完整的 README 文件，并创建解释架构选择和资源依赖关系的设计文档来节省时间；\n🤖 强制执行本地标准：切换到 CLI，运行\nterraform validate\n和terraform fmt\n。这可以确保 AI 生成的代码在语法上正确，并遵循标准 HCL 风格；\n🔍 验证意图：设计确定后，运行\nterraform plan\n，并仔细审查输出，确保拟议的基础设施变更与你的预期设计完全一致，然后再执行 apply。\nIDE 中的战略性 Token 节省\n虽然许多 IDE 助手采用固定月订阅模式，但 Token 效率对于保持低延迟，以及确保模型处在其有效上下文窗口内仍然至关重要。输入上下文中过多的噪声会导致准确性下降。为了节省 Token，工程师应实施若干最佳实践：\n第一是使用选择性索引和 .cursorrules\n。在 Cursor 中，可以定义规则，指示模型忽略大型无关目录，例如 .terraform/\n或大量日志文件。这确保模型的“注意力”纯粹集中在 HCL 源代码上。此外，工程师应使用“选择性上下文”：在发起聊天之前，只高亮相关代码块，而不是每次都发送整个文件。这可以减少 LLM 推理中的 prefill 阶段，也就是模型在生成响应之前处理输入提示的阶段。\n另一种节省 Token 的机制是使用本地“记忆”或持久化指令。通过定义全局风格指南，例如“始终使用小写 Snowflake 对象名称”或“资源循环中优先使用 for_each\n而不是 count\n”，工程师无需在每个单独提示中重复这些约束。这会缩短每次交互的长度，并确保模型更频繁地实现“一次成功”。\nCortex Code CLI：改变本地开发体验\nSnowflake Cortex Code 命令行界面（CLI）是一种范式转变工具，它弥合了本地终端与 Snowflake AI Data Cloud 之间的差距。不同于执行固定命令的传统 CLI 工具，Cortex Code CLI 充当一个 Agentic shell，能够理解数据工程师的意图、规划多步操作，并与本地文件和云端 Snowflake 对象交互。\n安装与多平台支持\nSnowflake 最近扩展了 Cortex Code CLI，使其在既有 macOS 和 Linux 支持之外，也支持原生 Windows 环境。对于在多样化技术环境中运行的企业数据团队而言，这一扩展至关重要。\nmacOS / Linux\ncurl -LsS\nhttps://ai.snowflake.com/static/cc-scripts/install.sh\n| sh\n~/.local/bin/cortex\nWindows（原生）\nirm\nhttps://ai.snowflake.com/static/cc-scripts/install.ps1\n| iex\n%LOCALAPPDATA%\\cortex\\cortex.exe\n安装之后，首要“须知事项”是它与现有 connections.toml\n文件的集成。如果工程师已经在使用标准 Snowflake CLI（snow\n），Cortex Code CLI 可以无缝继承这些连接定义。这避免了重复凭据管理带来的安全风险。在身份验证方面，CLI 支持面向交互式会话的基于浏览器的 SSO，以及面向需要严格角色绑定场景的 Programmatic Access Tokens（PAT），例如 CI/CD 管道。\n与 dbt 和 Apache Airflow 的 Agentic 集成\n对于数据工程师来说，Cortex Code CLI 的真正力量在于它对现代数据系统模式的深度理解，尤其是 dbt 和 Apache Airflow。CLI 可以自动完成这些项目的“样板”设置，同时遵循现有连接配置文件，例如 ~/.dbt/profiles.yml\n。\n对于 dbt 开发者，CLI 可用于搭建完整的转换层。像这样的提示：“Explore the raw source tables in the BRONZE schema. Propose and create a set of staging models in dbt that clean and standardize these tables, adding not_null and uniqueness tests to all inferred primary keys,” 允许 CLI 通过 Snowflake SQL 调用执行 schema discovery，然后在本地生成对应的 .sql\n和 .yml\n文件。这将传统上需要数小时手动完成的任务，压缩成一次具备上下文感知能力的对话。\nAirflow 集成同样具有变革性。数据工程工作流经常因为跨工具依赖而失败——例如某个 DAG 任务失败，是因为 Snowflake warehouse 被暂停，或某个 dbt 模型没有填充数据。Cortex Code CLI 可以监控 DAG 健康状态，通过 cortex airflow runs trigger\n触发运行，并分析任务日志，以自然语言提供根因分析。它允许工程师提出这样的问题：“Trace the upstream dependencies of the failed daily_sales task and identify if the issue lies in the raw data arrival or a warehouse timeout,” 从而提供数据管道的端到端视图。\n运营安全：规划与信任模型\n由于 Cortex Code CLI 可以执行 shell 命令并编写 SQL，因此它包含一个基于风险级别的复杂安全架构。这是工程师必须掌握的最关键运营细节，以避免在生产环境中意外执行破坏性操作。\nCortex CLI 的风险\nCLI 提供三种交互模式来管理这种风险：Confirm（默认模式，在危险操作前提示）、Plan（通过 /plan\n启用，会在采取任何步骤之前显示完整执行序列）以及 Bypass（自动批准所有调用，通常不建议在生产环境中使用）。对于复杂的数据工程任务，从 /plan\n开始是一项最佳实践，因为它允许工程师在 AI 修改任何本地文件或 Snowflake 对象之前，先审查其推理。\n优化 CLI 中的 Token 使用与性能\nCLI 中的 Token 成本由提示的复杂度和长度，以及为任务选择的模型决定。Claude 4.6 和 GPT 5.2 等前沿模型提供最高质量，但会消耗更多 credits。为了最大限度降低支出，工程师应采用以下策略：\n战略性会话管理至关重要。CLI 中的每次对话都会自动保存，历史记录会作为上下文传递到后续回合。在长时间运行的会话中，每个回合的输入 Token 会显著增长。使用 /new\n为不同任务启动全新会话，或使用 /rewind\n回滚到错误转向之前的某个点，可以在一天的工作中节省数千个 Token。\n此外，CLI 允许通过 RunSubagent\n工具使用 “Subagents”。工程师不必让一个模型在同一上下文中处理研究、编码和测试，而是可以指示 CLI 启动一个特定子 agent——例如用于代码库研究的 Explore\n——来处理专门的子任务。这种模块化方法可以保持单个上下文窗口精简，并减少与通用规划相关的“Token 膨胀”。\nSnowflake Cortex UI：在 Snowsight 中最大化平台内速度\nIDE 和 CLI 面向开发者工作流，而直接集成到 Snowsight 界面中的 Snowflake Cortex UI，则旨在与 Snowflake Data Cloud 进行即时、高保真交互。这个持久化 AI 编码 agent 完全感知用户的活动工作区、UI 位置和数据目录，因此它是用于临时 SQL 开发和管理任务的、上下文最丰富的助手。\n设置与可访问性功能\n在 Snowsight 中访问 Cortex Code 几乎是即时的。它不需要本地安装；工程师只需在 Worksheet 或 Workspace 右下角选择 Cortex Code 图标。最关键的前提条件是分配 SNOWFLAKE.CORTEX_USER\n数据库角色，该角色默认授予 PUBLIC\n角色，但可能会受到组织策略限制。\nSnowsight 中的 Cortex Code 深度集成到 Snowflake Intelligence 的 “agentic” 工作流中。这意味着它不只是建议代码；它使用编排来规划并执行数据探索、PII 识别和成本分析等任务。一个“重要须知”是，Snowflake 最近统一了其 AI 界面，弃用了旧版 Snowflake Copilot，转而采用能力更强的 Cortex Code agent。\n加速 SQL 开发与管理工作流\nSnowsight 助手擅长将自然语言转换为生产就绪的 SQL，并提供对建议变更的可视化审查。当工程师高亮一段 SQL 并请求优化时，助手会提供 “Diff View”，以便在任何更改应用到 worksheet 之前，清晰比较插入和删除内容。\n对于管理任务，助手可以提供此前隐藏在复杂 ACCOUNT_USAGE\n查询背后的洞察。工程师可以提示：“Show me a trend of warehouse credit consumption for the MARKETING_WH\nover the last 30 days and identify any queries that consumed more than 10 credits individually,” 或 “Explain the purpose of the views in the SNOWFLAKE.ACCOUNT_USAGE\nschema and how they relate to query history”。这种能力将助手转变为一个始终可用的虚拟 “DBA partner”。\n数据工程师还可以使用助手生成用于测试的合成数据。像这样的提示：“Create a table named TEST_TRANSACTIONS\nwith 100,000 rows. Include columns for TRANSACTION_ID, AMOUNT\n, MERCHANT_CATEGORY\n, and IS_FRAUDULENT\n. Ensure that ~0.5% of the rows are marked as fraudulent and that their amounts are statistically significantly higher than the average,” 可以在不暴露敏感生产数据的情况下快速创建测试环境。\nSnowsight 中的高级提示技巧\n为了在 UI 中实现高准确率，工程师必须将模型“锚定”到自己的具体 schema 中。最有效的做法是使用 @\n符号搜索并在提示中包含特定数据库、schema、表或视图。这会为助手提供生成可执行代码所需的精确元数据、列名和数据类型。例如，像 “Query the top 10 customers by revenue using @CUSTOMER_STAGING\nand @ORDERS_MART\n” 这样的提示，可以确保模型不会幻觉出对象名称。\n此外，助手支持跨会话持久存在的 “Custom Instructions”。这里非常适合存储组织标准，例如“在表定义中始终包含 CREATED_AT\n时间戳”或“在复杂 join 中使用 common table expressions（CTEs）以提升可读性”。通过将这些要求移到自定义指令中，工程师可以降低每个提示的复杂度，并确保整个团队的代码质量一致。\n在 UI 中节省 Token 并管理 AI 消耗\n在 Snowsight 中管理 Token 使用，是提示设计与利用平台内置可观测性功能之间的平衡。与 Cortex Code 助手的每次交互都基于 Token 消耗计费，并通过CORTEX_AI_FUNCTIONS_USAGE_HISTORY\n视图进行跟踪。\n一种节省 Token 的关键策略是 worksheet 级会话管理。由于每个聊天会话都与特定 worksheet 关联，工程师可以将不同任务拆分到不同 worksheet 中。这可以防止模型不得不处理冗长且无关的历史对话回合，从而尽可能降低输入 Token 数量。此外，如果某个响应不令人满意，使用“thumbs down”按钮可以提供反馈，帮助优化未来生成结果，并可能通过更少回合到达正确解决方案来节省 Token。\n工程师还应使用 AI_COUNT_TOKENS\n函数对提示进行基准测试。通过测试标准 “staging model” 提示与 “incremental logic” 提示的 Token 数量，团队可以开发只提供必要上下文的“精简”模板。随着组织内 AI 工作负载不断扩展，这种主动式 FinOps 方法至关重要。\nAI Data Cloud 中的战略性成本管理与治理\n随着组织向 AI 原生数据工程转型，基于 Token 的成本管理和 AI 模型治理成为关键架构问题。Snowflake 引入了技术创新和管理控制，以确保 AI 的采用既具备高性能，又具备财务可持续性。\n技术优化：Prefill 与 Decode 阶段\n理解 LLM 推理的工作方式，是优化的第一步。推理主要发生在两个阶段：prefill 阶段和 decode 阶段。在 prefill 阶段，系统处理用户输入提示并将其转换为 Token；这正是“提示膨胀”成本最高的地方。在 decode 阶段，模型逐个 Token 生成响应。\nSnowflake 的 SwiftKV\n技术专门优化 prefill 阶段。通过复用早期 transformer 层的“隐藏状态”，为后续层生成 KV（Key-Value）缓存，SwiftKV\n消除了冗余计算。对于数据工程师来说，这意味着 Llama 3.3 和 Llama 3.1-405B 等模型可以处理大型上下文窗口——例如向 AI 提供庞大的 DDL schema——同时推理成本最高可降低 75%，并使 “time to first token” 加快 50%。\n通过 Account Usage 视图实现可观测性与 FinOps\n为了管理 AI 支出的“不可预测”性质，Snowflake 通过 Account Usage 视图提供全面遥测。这些视图将使用数据聚合到一小时窗口中，使工程师能够按模型、用户和查询跟踪消耗。\n跟踪 AI 成本\n工程师可以通过查询这些视图，使用 Streamlit in Snowflake（SiS）构建交互式监控仪表板。仪表板可以可视化输入与输出 Token 之间的比例，帮助团队识别提示是否过于冗长（高输入），或模型是否被要求生成过长响应（高输出）。这种粒度对于 chargeback 报告和容量规划至关重要。\n实施按用户和按账户的支出限制\n为防止未优化提示或失控查询导致“预算危机”，管理员可以实施多层级成本控制。Snowflake 允许在账户和单个用户级别配置每日 credit 限制。\n-- Set an account-wide daily limit of 20 credits for the Cortex Code CLI\nALTER ACCOUNT SET CORTEX_CODE_CLI_DAILY_EST_CREDIT_LIMIT_PER_USER = 20;\n-- Set a per-user override for a lead data engineer needing more capacity\nALTER USER senior_engineer SET CORTEX_CODE_CLI_DAILY_EST_CREDIT_LIMIT_PER_USER = 50;\n-- Block your boss's access to the CLI while allowing Snowsight access\nALTER USER boss SET CORTEX_CODE_CLI_DAILY_EST_CREDIT_LIMIT_PER_USER = 0;\nALTER USER senior_analyst SET CORTEX_CODE_SNOWSIGHT_DAILY_EST_CREDIT_LIMIT_PER_USER;\n当用户达到其每日限制时，对该特定使用界面（CLI 或 Snowsight）的访问将在滚动 24 小时窗口内被阻止。对于更高层级的控制，工程师可以实施自动告警。可以配置一个每小时运行的 task，检查 CORTEX_AI_FUNCTIONS_USAGE_HISTORY\n，并在账户总支出超过月度阈值（例如 1000 credits）时发送电子邮件通知。\n治理与安全最佳实践\nAI Data Cloud 中最重要的安全原则，是遵循 Role-Based Access Control（RBAC）。Cortex Code 及相关 CLI 工具会遵守当前活动 Snowflake 角色的权限。数据工程师绝不应使用 ACCOUNTADMIN\n角色进行日常开发；相反，他们应使用 DEVELOPER_ROLE\n或 ANALYST_ROLE\n等功能角色，确保 AI 只能访问当前任务所需的数据。\n在托管型企业环境中，组织可以向用户工作站部署系统级 managed-settings.json\n文件。该文件可以强制执行单个用户无法覆盖的策略，例如将工具访问限制在某个模式 “allowlist” 中、强制最低 CLI 版本，或完全禁用 “Bypass” 模式。这确保即使单个工程师使用 AI 加速工作，组织仍能保持一致且安全的运营姿态。\n结论：编排数据工程的未来\nCursor、Cortex Code CLI 和 Snowflake Cortex UI 的集成，不仅仅代表一组生产力工具；它标志着数据工程实践方式的根本转变。通过从手动编码模式转向智能编排模式，工程师可以弥合复杂基础设施需求与快速数据交付需求之间的差距。无论是通过 Cursor 面向 Terraform 的多文件重构能力、Cortex Code CLI 提供的无缝本地到云端桥接，还是 Snowsight 助手具备上下文感知能力的高速度，AI 增强型工程师都能够构建更具韧性、治理更完善且成本更高效的系统。\n在这个新时代取得成功，需要秉持 “FinOps for AI” 思维——主动管理 Token 消耗、利用技术优化，并通过 RBAC 和托管设置实施强健治理。随着 Snowflake 持续演进为一个“Snowflake 专业能力成为始终在线能力”的平台，数据工程师的角色将越来越聚焦于对这些 Agentic 系统进行战略性编排，以大规模交付可信的企业智能。\n更多\n如需持续了解更多 Snowflake 相关文章，请在我的 Medium 主页关注我：Eylon’s Snowflake Articles。\n我是 Eylon Steiner，Infostrux Solutions 工程经理，也是 Snowflake Data Superhero。你可以在 LinkedIn 上关注我。\n订阅 Infostrux Medium Blog：https://blog.infostrux.com，获取最有趣的数据工程和 Snowflake 新闻。通过 GitHub 关注 Infostrux 的开源工作。\n点击链接立即报名注册：Ascent - Snowflake Platform Training - China，更多 Snowflake 精彩活动请关注专区。",
+    "content_source": "trafilatura",
+    "content_chars": 12136,
+    "content_excerpt": "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！\nSnowflake 世界中的数据工程正在经历一场重大变化。如今，越来越多的工作不再完全依赖手动完成，而是由 AI 工具辅助推进。这些工具正在出现在各个地方——IDE、命令行，以及 Snowflake 的 Web UI（Snowsight）中。对于今天的 Snowflake 数据工程师来说，工作不再只是移动数据。它更多关乎在 AI 的帮助下，构建可靠、管理良好且成本高效的系统。本文将探讨这种新工作方式的三个主要部分：使用 Cursor 和 GitHub Copilot 进行 Terraform 开发，使用 Cortex Code CLI 打通本地与云端环境，以及使用 Snowflake Cortex UI 直接在 Snowflake 内提升工作效率。\n为什么 Snowflake 专业能力比以往任何时候都更加关键\n将初级开发者与 Snowflake 专家结合起来，可以形成一个强大的反馈循环，在快速执行与架构完整性之间取得平衡。初级工程师可以使用 AI 快速起草管道或 Snowflake 专用 SQL，而专家则提供必要的治理层，对代码进行审计，确保其符合计算效率、安全数据共享和最佳聚类等最佳实践。这种以指导为核心的审计流程，不仅能捕捉“幻觉”代码或次优查询；它还像一个实时课堂，让初级工程师学习 Snowflake Data Cloud 的细微之处，例如管理 Warehouse credit 消耗以及利用 Dynamic Tables。最终，这种协作确保由初级工程师主导、AI 辅助的开发速度，永远不会以造成臃肿、难以管理或不安全的数据环境为代价。\n掌握基础设施即代码：使用 Cursor 和 GitHub Copilot 进行 Terraform 开发\nSnowflake 多层架构的管理——包括数据库、warehouse、基于角色的访问控制和网络策略——越来越多地通过 Terraform 完成，以确保可复现性和版本控制。然而，Snowflake Terraform provider 的复杂性，以及 HashiCorp Configuration Language（HCL）固有的冗长性，都会带来显著开销。Cursor 和 GitHub Copilot 等 AI 助手已经成为降低这种复杂性的关键工具，但要有效应用它们，需要对其设置方式以及基础设施任务所需的特定提示工程有细致理解。\n架构设置与环境配置\n对于数据工程师来说，第一步是根据所需的项目级感知能力选择合适的助手。GitHub Copilot 在行内代码补全和通用 SQL 辅助方面非常有效，但与更集成化的工具相比，它对更广泛工作区上下文的理解可能有限——尤其是在跨多个文件进行复杂 Terraform 重构时。Cursor 是一款基于 VS Code、内置 AI 能力的编辑器，它通过索引代码库并支持跨文件推理，提供更深入的项目感知能力。这使它能够更好地理解关系。\n要建立生产级环境，工程师必须安装 HashiCorp Terraform 扩展，并配置 Snowflake provider。项目布局对 AI 效能至关重要；模块化结构允许 AI 解析更小、逻辑上分离的代码块，从而降低上下文窗口耗尽的可能性。\n推荐配置"
   },
   {
     "id": "e63fb63c520b",
@@ -64,21 +151,6 @@
     "title_zh": "没有人愿意告诉我为什么他们只听自己的 Suno slop",
     "summary_zh": "Suno Reddit 子版块中出现了这种令人担忧的趋势。人们不仅会提示人工智能歌曲，还会提示人工智能歌曲。他们坐在那儿，几乎只听自己的声音。在某些情况下，他们自豪地宣称他们不再在传统流媒体平台上听音乐——整天都是人工智能",
     "ai_summary": "Suno Reddit 子版块中出现了这种令人担忧的趋势。人们不仅会提示人工智能歌曲，还会提示人工智能歌曲。他们坐在那儿…"
-  },
-  {
-    "id": "202911016469",
-    "title": "Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践",
-    "url": "https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-26T13:43:12",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-26T09:40:43.474506",
-    "content_text": "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！\nSnowflake 世界中的数据工程正在经历一场重大变化。如今，越来越多的工作不再完全依赖手动完成，而是由 AI 工具辅助推进。这些工具正在出现在各个地方——IDE、命令行，以及 Snowflake 的 Web UI（Snowsight）中。对于今天的 Snowflake 数据工程师来说，工作不再只是移动数据。它更多关乎在 AI 的帮助下，构建可靠、管理良好且成本高效的系统。本文将探讨这种新工作方式的三个主要部分：使用 Cursor 和 GitHub Copilot 进行 Terraform 开发，使用 Cortex Code CLI 打通本地与云端环境，以及使用 Snowflake Cortex UI 直接在 Snowflake 内提升工作效率。\n为什么 Snowflake 专业能力比以往任何时候都更加关键\n将初级开发者与 Snowflake 专家结合起来，可以形成一个强大的反馈循环，在快速执行与架构完整性之间取得平衡。初级工程师可以使用 AI 快速起草管道或 Snowflake 专用 SQL，而专家则提供必要的治理层，对代码进行审计，确保其符合计算效率、安全数据共享和最佳聚类等最佳实践。这种以指导为核心的审计流程，不仅能捕捉“幻觉”代码或次优查询；它还像一个实时课堂，让初级工程师学习 Snowflake Data Cloud 的细微之处，例如管理 Warehouse credit 消耗以及利用 Dynamic Tables。最终，这种协作确保由初级工程师主导、AI 辅助的开发速度，永远不会以造成臃肿、难以管理或不安全的数据环境为代价。\n掌握基础设施即代码：使用 Cursor 和 GitHub Copilot 进行 Terraform 开发\nSnowflake 多层架构的管理——包括数据库、warehouse、基于角色的访问控制和网络策略——越来越多地通过 Terraform 完成，以确保可复现性和版本控制。然而，Snowflake Terraform provider 的复杂性，以及 HashiCorp Configuration Language（HCL）固有的冗长性，都会带来显著开销。Cursor 和 GitHub Copilot 等 AI 助手已经成为降低这种复杂性的关键工具，但要有效应用它们，需要对其设置方式以及基础设施任务所需的特定提示工程有细致理解。\n架构设置与环境配置\n对于数据工程师来说，第一步是根据所需的项目级感知能力选择合适的助手。GitHub Copilot 在行内代码补全和通用 SQL 辅助方面非常有效，但与更集成化的工具相比，它对更广泛工作区上下文的理解可能有限——尤其是在跨多个文件进行复杂 Terraform 重构时。Cursor 是一款基于 VS Code、内置 AI 能力的编辑器，它通过索引代码库并支持跨文件推理，提供更深入的项目感知能力。这使它能够更好地理解关系。\n要建立生产级环境，工程师必须安装 HashiCorp Terraform 扩展，并配置 Snowflake provider。项目布局对 AI 效能至关重要；模块化结构允许 AI 解析更小、逻辑上分离的代码块，从而降低上下文窗口耗尽的可能性。\n推荐配置\n需要注意的一个关键细节是，Snowflake Terraform provider 遵循语义化版本控制，而主要版本发布（例如 2.0.0 及之后版本）对资源 schema 引入了重大破坏性变更。在向 AI 提示之前，确保 providers.tf\n中的 required_providers\n块被准确定义，是最重要的“须知事项”，因为这可以防止助手生成与旧版、不受支持的 provider 兼容的代码。\n面向 Terraform 工作流的高级提示工程\n为 Terraform 编写有效提示，与为 Python 或 SQL 编写提示有根本不同。目标通常是转换现有状态，或生成复杂、相互依赖的资源层级结构。数据工程师应避免使用“创建一个 Snowflake 数据库”这类通用提示，而应专注于上下文重构和以安全为中心的模式。\n一个高价值工作流是消除硬编码值，也就是“魔法数字”。当工程师发现 CIDR 块、warehouse 大小或保留期限散落在代码各处时，可以通过有针对性的提示来自动完成清理。像这样的提示：“Analyze all .tf\nfiles in this workspace. Identify every hard-coded value for warehouse_size\n, data_retention_time_in_days\n, and comment\n. Extract these into variables in variables.tf\nwith appropriate descriptions, and update the original resources to use these variables. Ensure terraform validate\nwould pass after these changes,” 可以利用助手的多文件编辑能力执行全面重构。\n通过提示进行安全审计同样重要。数据工程师可以利用 Cursor 的工作区感知能力，扫描权限过于宽泛的 grant。一个有效提示可能是：“Scan our Terraform configurations for any usage of the ACCOUNTADMIN\nrole or any grant that applies ALL PRIVILEGES\nto the PUBLIC\nrole. Suggest more restrictive alternatives using custom functional roles and generate the necessary snowflake_role\nand snowflake_grant_privileges_to_role\nresource blocks”。这种方法通过在误配置真正应用到 Snowflake 环境之前识别它们，将安全“左移”。\n对 Terraform plan 的解读，或许是这些助手最复杂的使用方式。大型 plan notoriously 难以手动审查。通过将 plan 输出为 JSON——terraform plan -out=plan.tfplan && terraform show -json plan.tfplan > plan.json\n——工程师可以将该文件提供给 AI，并使用提示：“Act as a Senior DevOps Engineer. Analyze this plan JSON. List every resource marked for destruction or replacement. For each, identify the specific attribute change triggering the replacement and suggest if a create_before_destroy\nlifecycle block is necessary to avoid downtime”。\n“架构师警告”：谨慎处理\n虽然 AI 是一个巨大的力量倍增器，但它不能替代你的工程判断。项目开头的一个“幻觉”提示，可能会把结构性缺陷嵌入到整个代码库中。\n在你发布到生产环境之前，请记住以下三条规则：\nExperiment First：使用“沙箱”或一个虚拟 Snowflake worksheet 来测试 AI 生成的逻辑，然后再将其集成到主仓库中；\nThe Human Overlook：永远不要“盲目复制”代码。AI 偶尔可能会建议已弃用的 Snowflake 语法或低效的 join 模式，从而导致你的 credit 消耗飙升；\nThe Terraform Safety Net：如果你使用 AI 生成 HCL，请务必先运行\nterraform plan\n。确保 AI 没有幻觉出资源删除操作，或者——但愿不会——决定启动一个 4XL Warehouse 来在你的账户里“复制自己”。\n信任，但要验证。你的 Snowflake credits（以及你的睡眠时间表）都会感谢你。\n用 AI agent 编写优秀的 Terraform 代码，不只是关于第一版草稿；它关乎你的意图与 agent 执行之间反复迭代的“握手”。\n一旦你的 AI agent 提供了初始代码块，请按照以下步骤，从“建议的”脚本推进到生产就绪的基础设施：\n💡 寻求优化：不要满足于第一版草稿。让 agent 就模块化、变量使用和命名约定提出改进建议，确保代码“干净”且可扩展；\n🛡️ 审计安全性与 Bug：明确提示 agent 查找初始生成中可能遗漏的 bug、逻辑错误或安全漏洞——例如权限过于宽泛的安全组。即使在第二次或第三次迭代中，Copilot 仍然可能识别出它此前遗漏的 bug；\n📝 自动化文档：通过让 agent 编写完整的 README 文件，并创建解释架构选择和资源依赖关系的设计文档来节省时间；\n🤖 强制执行本地标准：切换到 CLI，运行\nterraform validate\n和terraform fmt\n。这可以确保 AI 生成的代码在语法上正确，并遵循标准 HCL 风格；\n🔍 验证意图：设计确定后，运行\nterraform plan\n，并仔细审查输出，确保拟议的基础设施变更与你的预期设计完全一致，然后再执行 apply。\nIDE 中的战略性 Token 节省\n虽然许多 IDE 助手采用固定月订阅模式，但 Token 效率对于保持低延迟，以及确保模型处在其有效上下文窗口内仍然至关重要。输入上下文中过多的噪声会导致准确性下降。为了节省 Token，工程师应实施若干最佳实践：\n第一是使用选择性索引和 .cursorrules\n。在 Cursor 中，可以定义规则，指示模型忽略大型无关目录，例如 .terraform/\n或大量日志文件。这确保模型的“注意力”纯粹集中在 HCL 源代码上。此外，工程师应使用“选择性上下文”：在发起聊天之前，只高亮相关代码块，而不是每次都发送整个文件。这可以减少 LLM 推理中的 prefill 阶段，也就是模型在生成响应之前处理输入提示的阶段。\n另一种节省 Token 的机制是使用本地“记忆”或持久化指令。通过定义全局风格指南，例如“始终使用小写 Snowflake 对象名称”或“资源循环中优先使用 for_each\n而不是 count\n”，工程师无需在每个单独提示中重复这些约束。这会缩短每次交互的长度，并确保模型更频繁地实现“一次成功”。\nCortex Code CLI：改变本地开发体验\nSnowflake Cortex Code 命令行界面（CLI）是一种范式转变工具，它弥合了本地终端与 Snowflake AI Data Cloud 之间的差距。不同于执行固定命令的传统 CLI 工具，Cortex Code CLI 充当一个 Agentic shell，能够理解数据工程师的意图、规划多步操作，并与本地文件和云端 Snowflake 对象交互。\n安装与多平台支持\nSnowflake 最近扩展了 Cortex Code CLI，使其在既有 macOS 和 Linux 支持之外，也支持原生 Windows 环境。对于在多样化技术环境中运行的企业数据团队而言，这一扩展至关重要。\nmacOS / Linux\ncurl -LsS\nhttps://ai.snowflake.com/static/cc-scripts/install.sh\n| sh\n~/.local/bin/cortex\nWindows（原生）\nirm\nhttps://ai.snowflake.com/static/cc-scripts/install.ps1\n| iex\n%LOCALAPPDATA%\\cortex\\cortex.exe\n安装之后，首要“须知事项”是它与现有 connections.toml\n文件的集成。如果工程师已经在使用标准 Snowflake CLI（snow\n），Cortex Code CLI 可以无缝继承这些连接定义。这避免了重复凭据管理带来的安全风险。在身份验证方面，CLI 支持面向交互式会话的基于浏览器的 SSO，以及面向需要严格角色绑定场景的 Programmatic Access Tokens（PAT），例如 CI/CD 管道。\n与 dbt 和 Apache Airflow 的 Agentic 集成\n对于数据工程师来说，Cortex Code CLI 的真正力量在于它对现代数据系统模式的深度理解，尤其是 dbt 和 Apache Airflow。CLI 可以自动完成这些项目的“样板”设置，同时遵循现有连接配置文件，例如 ~/.dbt/profiles.yml\n。\n对于 dbt 开发者，CLI 可用于搭建完整的转换层。像这样的提示：“Explore the raw source tables in the BRONZE schema. Propose and create a set of staging models in dbt that clean and standardize these tables, adding not_null and uniqueness tests to all inferred primary keys,” 允许 CLI 通过 Snowflake SQL 调用执行 schema discovery，然后在本地生成对应的 .sql\n和 .yml\n文件。这将传统上需要数小时手动完成的任务，压缩成一次具备上下文感知能力的对话。\nAirflow 集成同样具有变革性。数据工程工作流经常因为跨工具依赖而失败——例如某个 DAG 任务失败，是因为 Snowflake warehouse 被暂停，或某个 dbt 模型没有填充数据。Cortex Code CLI 可以监控 DAG 健康状态，通过 cortex airflow runs trigger\n触发运行，并分析任务日志，以自然语言提供根因分析。它允许工程师提出这样的问题：“Trace the upstream dependencies of the failed daily_sales task and identify if the issue lies in the raw data arrival or a warehouse timeout,” 从而提供数据管道的端到端视图。\n运营安全：规划与信任模型\n由于 Cortex Code CLI 可以执行 shell 命令并编写 SQL，因此它包含一个基于风险级别的复杂安全架构。这是工程师必须掌握的最关键运营细节，以避免在生产环境中意外执行破坏性操作。\nCortex CLI 的风险\nCLI 提供三种交互模式来管理这种风险：Confirm（默认模式，在危险操作前提示）、Plan（通过 /plan\n启用，会在采取任何步骤之前显示完整执行序列）以及 Bypass（自动批准所有调用，通常不建议在生产环境中使用）。对于复杂的数据工程任务，从 /plan\n开始是一项最佳实践，因为它允许工程师在 AI 修改任何本地文件或 Snowflake 对象之前，先审查其推理。\n优化 CLI 中的 Token 使用与性能\nCLI 中的 Token 成本由提示的复杂度和长度，以及为任务选择的模型决定。Claude 4.6 和 GPT 5.2 等前沿模型提供最高质量，但会消耗更多 credits。为了最大限度降低支出，工程师应采用以下策略：\n战略性会话管理至关重要。CLI 中的每次对话都会自动保存，历史记录会作为上下文传递到后续回合。在长时间运行的会话中，每个回合的输入 Token 会显著增长。使用 /new\n为不同任务启动全新会话，或使用 /rewind\n回滚到错误转向之前的某个点，可以在一天的工作中节省数千个 Token。\n此外，CLI 允许通过 RunSubagent\n工具使用 “Subagents”。工程师不必让一个模型在同一上下文中处理研究、编码和测试，而是可以指示 CLI 启动一个特定子 agent——例如用于代码库研究的 Explore\n——来处理专门的子任务。这种模块化方法可以保持单个上下文窗口精简，并减少与通用规划相关的“Token 膨胀”。\nSnowflake Cortex UI：在 Snowsight 中最大化平台内速度\nIDE 和 CLI 面向开发者工作流，而直接集成到 Snowsight 界面中的 Snowflake Cortex UI，则旨在与 Snowflake Data Cloud 进行即时、高保真交互。这个持久化 AI 编码 agent 完全感知用户的活动工作区、UI 位置和数据目录，因此它是用于临时 SQL 开发和管理任务的、上下文最丰富的助手。\n设置与可访问性功能\n在 Snowsight 中访问 Cortex Code 几乎是即时的。它不需要本地安装；工程师只需在 Worksheet 或 Workspace 右下角选择 Cortex Code 图标。最关键的前提条件是分配 SNOWFLAKE.CORTEX_USER\n数据库角色，该角色默认授予 PUBLIC\n角色，但可能会受到组织策略限制。\nSnowsight 中的 Cortex Code 深度集成到 Snowflake Intelligence 的 “agentic” 工作流中。这意味着它不只是建议代码；它使用编排来规划并执行数据探索、PII 识别和成本分析等任务。一个“重要须知”是，Snowflake 最近统一了其 AI 界面，弃用了旧版 Snowflake Copilot，转而采用能力更强的 Cortex Code agent。\n加速 SQL 开发与管理工作流\nSnowsight 助手擅长将自然语言转换为生产就绪的 SQL，并提供对建议变更的可视化审查。当工程师高亮一段 SQL 并请求优化时，助手会提供 “Diff View”，以便在任何更改应用到 worksheet 之前，清晰比较插入和删除内容。\n对于管理任务，助手可以提供此前隐藏在复杂 ACCOUNT_USAGE\n查询背后的洞察。工程师可以提示：“Show me a trend of warehouse credit consumption for the MARKETING_WH\nover the last 30 days and identify any queries that consumed more than 10 credits individually,” 或 “Explain the purpose of the views in the SNOWFLAKE.ACCOUNT_USAGE\nschema and how they relate to query history”。这种能力将助手转变为一个始终可用的虚拟 “DBA partner”。\n数据工程师还可以使用助手生成用于测试的合成数据。像这样的提示：“Create a table named TEST_TRANSACTIONS\nwith 100,000 rows. Include columns for TRANSACTION_ID, AMOUNT\n, MERCHANT_CATEGORY\n, and IS_FRAUDULENT\n. Ensure that ~0.5% of the rows are marked as fraudulent and that their amounts are statistically significantly higher than the average,” 可以在不暴露敏感生产数据的情况下快速创建测试环境。\nSnowsight 中的高级提示技巧\n为了在 UI 中实现高准确率，工程师必须将模型“锚定”到自己的具体 schema 中。最有效的做法是使用 @\n符号搜索并在提示中包含特定数据库、schema、表或视图。这会为助手提供生成可执行代码所需的精确元数据、列名和数据类型。例如，像 “Query the top 10 customers by revenue using @CUSTOMER_STAGING\nand @ORDERS_MART\n” 这样的提示，可以确保模型不会幻觉出对象名称。\n此外，助手支持跨会话持久存在的 “Custom Instructions”。这里非常适合存储组织标准，例如“在表定义中始终包含 CREATED_AT\n时间戳”或“在复杂 join 中使用 common table expressions（CTEs）以提升可读性”。通过将这些要求移到自定义指令中，工程师可以降低每个提示的复杂度，并确保整个团队的代码质量一致。\n在 UI 中节省 Token 并管理 AI 消耗\n在 Snowsight 中管理 Token 使用，是提示设计与利用平台内置可观测性功能之间的平衡。与 Cortex Code 助手的每次交互都基于 Token 消耗计费，并通过CORTEX_AI_FUNCTIONS_USAGE_HISTORY\n视图进行跟踪。\n一种节省 Token 的关键策略是 worksheet 级会话管理。由于每个聊天会话都与特定 worksheet 关联，工程师可以将不同任务拆分到不同 worksheet 中。这可以防止模型不得不处理冗长且无关的历史对话回合，从而尽可能降低输入 Token 数量。此外，如果某个响应不令人满意，使用“thumbs down”按钮可以提供反馈，帮助优化未来生成结果，并可能通过更少回合到达正确解决方案来节省 Token。\n工程师还应使用 AI_COUNT_TOKENS\n函数对提示进行基准测试。通过测试标准 “staging model” 提示与 “incremental logic” 提示的 Token 数量，团队可以开发只提供必要上下文的“精简”模板。随着组织内 AI 工作负载不断扩展，这种主动式 FinOps 方法至关重要。\nAI Data Cloud 中的战略性成本管理与治理\n随着组织向 AI 原生数据工程转型，基于 Token 的成本管理和 AI 模型治理成为关键架构问题。Snowflake 引入了技术创新和管理控制，以确保 AI 的采用既具备高性能，又具备财务可持续性。\n技术优化：Prefill 与 Decode 阶段\n理解 LLM 推理的工作方式，是优化的第一步。推理主要发生在两个阶段：prefill 阶段和 decode 阶段。在 prefill 阶段，系统处理用户输入提示并将其转换为 Token；这正是“提示膨胀”成本最高的地方。在 decode 阶段，模型逐个 Token 生成响应。\nSnowflake 的 SwiftKV\n技术专门优化 prefill 阶段。通过复用早期 transformer 层的“隐藏状态”，为后续层生成 KV（Key-Value）缓存，SwiftKV\n消除了冗余计算。对于数据工程师来说，这意味着 Llama 3.3 和 Llama 3.1-405B 等模型可以处理大型上下文窗口——例如向 AI 提供庞大的 DDL schema——同时推理成本最高可降低 75%，并使 “time to first token” 加快 50%。\n通过 Account Usage 视图实现可观测性与 FinOps\n为了管理 AI 支出的“不可预测”性质，Snowflake 通过 Account Usage 视图提供全面遥测。这些视图将使用数据聚合到一小时窗口中，使工程师能够按模型、用户和查询跟踪消耗。\n跟踪 AI 成本\n工程师可以通过查询这些视图，使用 Streamlit in Snowflake（SiS）构建交互式监控仪表板。仪表板可以可视化输入与输出 Token 之间的比例，帮助团队识别提示是否过于冗长（高输入），或模型是否被要求生成过长响应（高输出）。这种粒度对于 chargeback 报告和容量规划至关重要。\n实施按用户和按账户的支出限制\n为防止未优化提示或失控查询导致“预算危机”，管理员可以实施多层级成本控制。Snowflake 允许在账户和单个用户级别配置每日 credit 限制。\n-- Set an account-wide daily limit of 20 credits for the Cortex Code CLI\nALTER ACCOUNT SET CORTEX_CODE_CLI_DAILY_EST_CREDIT_LIMIT_PER_USER = 20;\n-- Set a per-user override for a lead data engineer needing more capacity\nALTER USER senior_engineer SET CORTEX_CODE_CLI_DAILY_EST_CREDIT_LIMIT_PER_USER = 50;\n-- Block your boss's access to the CLI while allowing Snowsight access\nALTER USER boss SET CORTEX_CODE_CLI_DAILY_EST_CREDIT_LIMIT_PER_USER = 0;\nALTER USER senior_analyst SET CORTEX_CODE_SNOWSIGHT_DAILY_EST_CREDIT_LIMIT_PER_USER;\n当用户达到其每日限制时，对该特定使用界面（CLI 或 Snowsight）的访问将在滚动 24 小时窗口内被阻止。对于更高层级的控制，工程师可以实施自动告警。可以配置一个每小时运行的 task，检查 CORTEX_AI_FUNCTIONS_USAGE_HISTORY\n，并在账户总支出超过月度阈值（例如 1000 credits）时发送电子邮件通知。\n治理与安全最佳实践\nAI Data Cloud 中最重要的安全原则，是遵循 Role-Based Access Control（RBAC）。Cortex Code 及相关 CLI 工具会遵守当前活动 Snowflake 角色的权限。数据工程师绝不应使用 ACCOUNTADMIN\n角色进行日常开发；相反，他们应使用 DEVELOPER_ROLE\n或 ANALYST_ROLE\n等功能角色，确保 AI 只能访问当前任务所需的数据。\n在托管型企业环境中，组织可以向用户工作站部署系统级 managed-settings.json\n文件。该文件可以强制执行单个用户无法覆盖的策略，例如将工具访问限制在某个模式 “allowlist” 中、强制最低 CLI 版本，或完全禁用 “Bypass” 模式。这确保即使单个工程师使用 AI 加速工作，组织仍能保持一致且安全的运营姿态。\n结论：编排数据工程的未来\nCursor、Cortex Code CLI 和 Snowflake Cortex UI 的集成，不仅仅代表一组生产力工具；它标志着数据工程实践方式的根本转变。通过从手动编码模式转向智能编排模式，工程师可以弥合复杂基础设施需求与快速数据交付需求之间的差距。无论是通过 Cursor 面向 Terraform 的多文件重构能力、Cortex Code CLI 提供的无缝本地到云端桥接，还是 Snowsight 助手具备上下文感知能力的高速度，AI 增强型工程师都能够构建更具韧性、治理更完善且成本更高效的系统。\n在这个新时代取得成功，需要秉持 “FinOps for AI” 思维——主动管理 Token 消耗、利用技术优化，并通过 RBAC 和托管设置实施强健治理。随着 Snowflake 持续演进为一个“Snowflake 专业能力成为始终在线能力”的平台，数据工程师的角色将越来越聚焦于对这些 Agentic 系统进行战略性编排，以大规模交付可信的企业智能。\n更多\n如需持续了解更多 Snowflake 相关文章，请在我的 Medium 主页关注我：Eylon’s Snowflake Articles。\n我是 Eylon Steiner，Infostrux Solutions 工程经理，也是 Snowflake Data Superhero。你可以在 LinkedIn 上关注我。\n订阅 Infostrux Medium Blog：https://blog.infostrux.com，获取最有趣的数据工程和 Snowflake 新闻。通过 GitHub 关注 Infostrux 的开源工作。\n点击链接立即报名注册：Ascent - Snowflake Platform Training - China，更多 Snowflake 精彩活动请关注专区。",
-    "content_source": "trafilatura",
-    "content_chars": 12136,
-    "content_excerpt": "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！\nSnowflake 世界中的数据工程正在经历一场重大变化。如今，越来越多的工作不再完全依赖手动完成，而是由 AI 工具辅助推进。这些工具正在出现在各个地方——IDE、命令行，以及 Snowflake 的 Web UI（Snowsight）中。对于今天的 Snowflake 数据工程师来说，工作不再只是移动数据。它更多关乎在 AI 的帮助下，构建可靠、管理良好且成本高效的系统。本文将探讨这种新工作方式的三个主要部分：使用 Cursor 和 GitHub Copilot 进行 Terraform 开发，使用 Cortex Code CLI 打通本地与云端环境，以及使用 Snowflake Cortex UI 直接在 Snowflake 内提升工作效率。\n为什么 Snowflake 专业能力比以往任何时候都更加关键\n将初级开发者与 Snowflake 专家结合起来，可以形成一个强大的反馈循环，在快速执行与架构完整性之间取得平衡。初级工程师可以使用 AI 快速起草管道或 Snowflake 专用 SQL，而专家则提供必要的治理层，对代码进行审计，确保其符合计算效率、安全数据共享和最佳聚类等最佳实践。这种以指导为核心的审计流程，不仅能捕捉“幻觉”代码或次优查询；它还像一个实时课堂，让初级工程师学习 Snowflake Data Cloud 的细微之处，例如管理 Warehouse credit 消耗以及利用 Dynamic Tables。最终，这种协作确保由初级工程师主导、AI 辅助的开发速度，永远不会以造成臃肿、难以管理或不安全的数据环境为代价。\n掌握基础设施即代码：使用 Cursor 和 GitHub Copilot 进行 Terraform 开发\nSnowflake 多层架构的管理——包括数据库、warehouse、基于角色的访问控制和网络策略——越来越多地通过 Terraform 完成，以确保可复现性和版本控制。然而，Snowflake Terraform provider 的复杂性，以及 HashiCorp Configuration Language（HCL）固有的冗长性，都会带来显著开销。Cursor 和 GitHub Copilot 等 AI 助手已经成为降低这种复杂性的关键工具，但要有效应用它们，需要对其设置方式以及基础设施任务所需的特定提示工程有细致理解。\n架构设置与环境配置\n对于数据工程师来说，第一步是根据所需的项目级感知能力选择合适的助手。GitHub Copilot 在行内代码补全和通用 SQL 辅助方面非常有效，但与更集成化的工具相比，它对更广泛工作区上下文的理解可能有限——尤其是在跨多个文件进行复杂 Terraform 重构时。Cursor 是一款基于 VS Code、内置 AI 能力的编辑器，它通过索引代码库并支持跨文件推理，提供更深入的项目感知能力。这使它能够更好地理解关系。\n要建立生产级环境，工程师必须安装 HashiCorp Terraform 扩展，并配置 Snowflake provider。项目布局对 AI 效能至关重要；模块化结构允许 AI 解析更小、逻辑上分离的代码块，从而降低上下文窗口耗尽的可能性。\n推荐配置"
   },
   {
     "id": "029ecc15e3dc",
@@ -4494,14 +4566,15 @@
     "collected_at": "2026-05-20T02:36:16.017081"
   },
   {
-    "id": "v2ex-1214019",
-    "title": "继续推广我的 gpt 中转站，注册就送 28.8$余额",
-    "url": "https://www.v2ex.com/t/1214019",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-20T02:18:50",
-    "summary": "小站稳定运营，满血 gpt plus pro 号池，开通五种套餐订阅： | 套餐名 | 价格 | 余额 | 日限额 | 汇率 | |---|---|---|---|---| | 日卡 | 3 元 | 50 刀 | 日限额 50 | 3/50=0.06 | | 周卡 | 19 元 | 400 刀 | 日限额 100 | 20/400=0.05 | | 月卡 | 49 元 | 1200 刀 | 日限额 200 | 49/1200=0.04 | | 月卡（大杯） | 89 元 | 3000 刀 | 日限额 400 | 89/3000=0.03 | | 月卡（超大杯） | 199 元 | 8888 刀",
-    "collected_at": "2026-05-20T08:57:41.712304"
+    "id": "hn-48153379",
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "source": "Hacker News",
+    "lang": "en",
+    "published": "2026-05-15T20:26:47Z",
+    "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
+    "points": 2104,
+    "collected_at": "2026-05-26T20:01:16.073040"
   },
   {
     "id": "43c89eae49e7",
@@ -4519,57 +4592,6 @@
     "content_excerpt": "文 | 徐蔡钰 编辑 | 李勤\n“爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。\n这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。\n相较此前的年度改款，本次新L9的更新幅度更加显著：\n全系标配72.7kWh电池，纯电续航达到420公里，综合续航突破1600公里。理想自研马赫芯片首次上车，单颗芯片算力达到1280TOPS。线控转向系统与后轮转向技术的加入，带来了底盘能力的大幅升级；Livis版本额外搭载的800V主动悬架与EMB电子机械制动系统，更是汽车底盘前沿技术的首发落地。\n配置拉满的同时，将实际售价较预售价大幅下调5万元，新L9一套“高配降价”的组合拳，力度超出了市场预期。\n新车上市后，理想全国门店似乎复现了2022年第一代L9上市的火爆盛况。\n“这个周末，所有门店、所有时段的理想L9试驾都已经排满”，36氪走访了理想L系列最畅销的广州、深圳地区，多家门店店长告诉36氪，新款L9上市后，门店的确迎来了又一次订单高峰。\n但36氪注意到，大部分门店仅配备一台新款L9试驾车。而行业中其他品牌对热门新车的试驾车投放力度要大得多，例如小米SU7，其首代车型上市时，门店便配备5-6台试驾车，第二代车型上市时，部分核心门店甚至配置约10台试驾车。在试驾车资源受限的前提下，门店的排队盛况能否直接等同于市场的成功引爆？\n与初代L9上市时不同，如今理想的销量基本盘已下移至20-30万元的i6与L6。这意味着，其曾经在高端市场建立的护城河正在松动。（36氪曾报道理想销量迷局，"
   },
   {
-    "id": "v2ex-1213996",
-    "title": "分享一个自己做的 SSH 桌面工具， macOS / Windows / Linux 都能用 [送码]",
-    "url": "https://www.v2ex.com/t/1213996",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-20T01:37:26",
-    "summary": "大家好，我做了一个桌面端 SSH 终端管理工具，叫 **Termark**。 官网：[https://www.termark.app]( https://www.termark.app) 简单说，它是给经常连服务器的人用的。平时要找机器、找账号、找密钥、开终端、传文件、做端口转发、批量查几台机器状态、看日志、问 AI 报错原因，这些事情单独看都不复杂，但每天重复很多次就很烦。 Termark 想解决的就是这些碎事。 ![Termark]( https://docs.termark.app/assets/ai-context.BPrZn-cP.png) ## 功能 - 资产管理：SSH / Te",
-    "collected_at": "2026-05-20T08:57:41.712454",
-    "content_text": "大家好，我做了一个桌面端 SSH 终端管理工具，叫\nTermark\n。\n官网：\nhttps://www.termark.app\n简单说，它是给经常连服务器的人用的。平时要找机器、找账号、找密钥、开终端、传文件、做端口转发、批量查几台机器状态、看日志、问 AI 报错原因，这些事情单独看都不复杂，但每天重复很多次就很烦。\nTermark 想解决的就是这些碎事。\n功能\n资产管理：SSH / Telnet / 串口 / 本地终端 / NextTerminal\n终端：多标签、分屏、搜索、自动重连、命令片段、关键字高亮\n文件传输：SFTP 、目录跟随、文件夹上传、批量下载、lrzsz / ZModem\n批量执行：多台机器同时执行命令，输出独立显示\n端口转发：本地转发、远程转发、规则保存\n会话记录：终端录制、回放、下载录像\nAI 助手：跟随当前终端上下文，支持多会话、对话历史、模型切换、命令确认\n外部 CLI：给 Codex / Claude / OpenCode 调用资产、执行命令、上传下载文件\n同步：官方同步、WebDAV 、S3 、iCloud 、本地目录，客户端加密后上传\n安全和兼容：本地数据加密、应用锁、GBK 、老旧主机算法、keyboard-interactive 、SSH keepalive\n开源吗？\n不开源。\n我知道很多人会先问这个。但我自己的判断是，很多人真正看中的不是“开源”两个字，而是能不能免费用、会不会被订阅绑住、基础功能是不是够完整。\n所以 Termark 的策略是：\n本地功能免费使用\n。\n日常 SSH 、SFTP 、端口转发、命令片段、AI 助手、NextTerminal 资产访问这些都可以免费用。收费主要放在云同步、多设备授权、进阶能力和后续服务上。\n移动端计划下个月开始开发，到时候也会围绕多设备同步继续做。\n和其他工具比，优势是什么？\n第一，它不是只做“连上服务器”。\n很多 SSH 工具解决的是连接问题，但真实工作往往发生在连接之后：传文件、查日志、开端口转发、批量看几台机器状态、保存常用命令、回看一次操作记录、把资产同步到另一台电脑。Termark 是围绕这些日常动作做的，不是单纯包一层终端。\n第二，它更贴近真实环境。\n很多服务器环境并不标准：有老旧 Linux 、有 GBK 编码、有多级跳板、有 HTTP / Socks5 代理、有 keyboard-interactive 认证、有还在用\nrz / sz\n的机器，也有团队已经在用 NextTerminal 。Termark 会尽量照顾这些实际场景。简单说，更符合中国宝宝体质。\n第三，AI 是助手，不是把服务器交出去。\n我不想把它做成“全自动运维 Agent”。服务器不是代码仓库，命令跑错了不一定能轻松回滚。Termark 的 AI 会跟随当前终端上下文，参考最近输出，和你讨论下一步；涉及风险的命令会要求确认。AI 可以提高效率，但服务器控制权不能交出去。\n为什么不做全自动运维 Agent 可以看\nhttps://v2ex.com/t/1213805\n第四，外部 CLI 可以接你已经在用的 Agent 。\n如果你本来就在用 Codex 、Claude Code 、OpenCode ，可以通过\ntermark\nCLI 调用 Termark 里的资产，执行命令、上传下载文件。服务器密码、私钥、跳板机配置不需要交给这些 Agent ，仍然留在 Termark 里。\n最后说下收费。\n本地核心功能免费，云同步和进阶能力收费。原因也很简单：域名、服务器、存储、CDN 、签名证书、苹果开发者账号都要钱。纯靠用爱发电很难长期维护。我以前也做过开源项目，点我信息能看到 GitHub ；但这个产品我希望能长期迭代，所以会用免费本地功能 + 付费同步和进阶能力的方式做下去。\n价格\n目前支持\nmacOS / Windows / Linux\n。\n免费版永久免费，本地核心功能可以直接用。\n永久授权是\n¥149 一次付费\n，包含云同步、端到端加密同步、多设备授权、批量执行、SFTP 在线编辑器、优先技术支持等进阶能力。\n官网：\nhttps://www.termark.app\n欢迎试用，也欢迎反馈问题。\n送码\n2XUTLVK7N5B2EX7GXVR6E6HP\nGIY5COMMNYWHHBPTDJAUSEIB\n23WI4VKU6PN6WATFGM2OEY4G\nRJKAG7I5IHFMIR3IAJBZ7LCJ\nQBWMLFRPX6Q354V2HHC6CQ3P\nJFOVUCWMPOS7QE64GXLWSHI4\nDAIEDKOGG4WDUYFRRN3KBMIU\nRPRSLK4VPWZFRJHA7E7B2QU5\nUG3LIFQNU4KVD3SXMC4BB3OT\nYHN4QTKUHWBSATZRALB45SN3\nQRUXRBHHDJHNGYCXCXLE3NSG\nVJNMMQZWLTGJKMO3FV4SFFGN\nZBYWEA2YSHJDQY2M3XEN7UJN\n74CED4FNTT5GOWIBNLP4QN7Z\n4UCQTXZRGZXKYQC3NQEENJ4B\nREEG532M5IOSAIFLV6UGIOKO\nDUNPONKDT3LGBJK7DWHTS2WZ\nQKWUFFH6VNLVC64ZT4JARSIX\nUVOM4LBJXNI4FEMTOPWYZDOP\nOHOZXA4TKJBFWBOJNHQTQD3X\n26O5HABDBVINY7TE7FBDKDJ4\nQIMCEH6PVZQSVPDK2VZ4MM4X\nA4FOQHAJBDKH6A4ZC5LIT725\n6N6KZT6R66H6HBF4KZHWZ3YU\nYLASWRRUYG3W4AQLZXG6UVBD\nALFTUWNR3NYJWTZO4C3FXN3L\nAWMC35WVLMLG26FQNMWHMM53\n2CKL6HI2JMM5DHLU2MMCQJC5\n2WNHFOMQMRKWKGRKMIQB6LJJ\nZGPHXG4JFLUUD7RDDDEUO2NU\nQDOL3AJPCPLGFWVIV7PM224L\nJSEG3UHRU7BLMICAAXXTZ575\nZ7UDG7AMXRLM4DDJM6QCAII4\nCKCXJYECX7ZDYLVGZQXQZDIX\nKW5T7Q6XYGAT2S6LTYH6HTLK\nK7VONOLCHLSA3G2JXEWTGKLV\nYTRAYOIDYR4LSCF7IE4FSIND\nTD7X7TDPMKV33HTR6QK5JBOS\n2GKG3KINPZ6HI36BWZLY3NRG\nD64FGLANUXMY6Q7OTBG2VC4I\n44KQ7KN3I7YQTCET7MKWDDLY\nP7QRUWOLKR3MQRWHFHIKVSMF\nRXBFFFEQTEIV7Q2ZHW3CY64J\nYYF5B54AAR3JK2K2MQD4DPG5\n5TFGLFP24G7DDJM2RZHKQTT4\nG5MLXLKBC2MOZKLZ5LHM7UYN\nOWZJ2H62K5YS7UGDSN6V5GHB\n2FEMKFVBREVWWNXQU2IHUHGH\nPV66DXPYOZCVITACRKOQTG2I\n6DN555RWZJHBNN34HQR4RGEW",
-    "content_source": "readability",
-    "content_chars": 3007,
-    "content_excerpt": "大家好，我做了一个桌面端 SSH 终端管理工具，叫\nTermark\n。\n官网：\nhttps://www.termark.app\n简单说，它是给经常连服务器的人用的。平时要找机器、找账号、找密钥、开终端、传文件、做端口转发、批量查几台机器状态、看日志、问 AI 报错原因，这些事情单独看都不复杂，但每天重复很多次就很烦。\nTermark 想解决的就是这些碎事。\n功能\n资产管理：SSH / Telnet / 串口 / 本地终端 / NextTerminal\n终端：多标签、分屏、搜索、自动重连、命令片段、关键字高亮"
-  },
-  {
-    "id": "f4b0f65e95fa",
-    "title": "扩博智能Sparrow刷新两项海上风电纪录",
-    "url": "https://36kr.com/newsflashes/3816962733229191?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-20T01:44:53",
-    "summary": "36氪获悉，2026年5月，在丹麦北海的海上风电运维作业中，扩博智能Sparrow机器人刷新了两项行业纪录：在6天内完成29片叶片修复，单片最快修复时间仅38分钟，单日最高修复量达6片。这意味着海上风电叶片维修从“数天”缩短到了“半小时”级别。",
-    "collected_at": "2026-05-20T02:36:16.017299"
-  },
-  {
-    "id": "hn-48153379",
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "source": "Hacker News",
-    "lang": "en",
-    "published": "2026-05-15T20:26:47Z",
-    "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
-    "points": 2104,
-    "collected_at": "2026-05-26T14:51:13.209048"
-  },
-  {
-    "id": "b67dbf46c228",
-    "title": "做出百万台割草机器人后，未岚大陆CEO决定让自己变得“不重要”｜硬氪专访",
-    "url": "https://36kr.com/p/3814411349581316?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-20T01:30:00",
-    "summary": "作者｜黄楠 编辑｜袁斯来 未岚大陆CEO任冠佼等了7年，等到了行业的爆发。 他还记得，2019年刚进入无边界智能割草机器人赛道，自己“只是觉得这个方向一定能火”。到2021年第一代产品推出时，他们也只敢确定，这是一个能做到10-20亿的行业。 直到2025年，增速超出他的预期。IDC数据显示，2025年全球无边界割草机器人出货量达到131.8万台，同比增长182.4%，占整个割草机器人市场出货量的66.2%。未岚大陆自身的累计实现量产，在今年突破100万台，公司营收迈入数十亿量级。 但同时，高速增长的背后，也倒逼任冠佼完成了一场至关重要的认知破局。 任冠佼意识到，行业迭代速度持续加快，以往相对",
-    "collected_at": "2026-05-20T02:36:16.015585",
-    "content_text": "作者｜黄楠\n编辑｜袁斯来\n未岚大陆CEO任冠佼等了7年，等到了行业的爆发。\n他还记得，2019年刚进入无边界智能割草机器人赛道，自己“只是觉得这个方向一定能火”。\n到2021年第一代产品推出时，他们也只敢确定，这是一个能做到10-20亿的行业。\n直到2025年，增速超出他的预期。\nIDC数据显示，2025年全球无边界割草机器人出货量达到131.8万台，同比增长182.4%，占整个割草机器人市场出货量的66.2%。未岚大陆自身的累计实现量产，在今年突破100万台，公司营收迈入数十亿量级。\n但同时，高速增长的背后，也倒逼任冠佼完成了一场至关重要的认知破局。\n任冠佼意识到，行业迭代速度持续加快，以往相对保守的经营方式显然已经跟不上节奏。\n他逼着自己从一个工程师成长为公司掌舵人。最近一年，任冠佼跳出琐碎的一线工作、学习战略研判，并慢慢适应创业者最难的一课——学会放手。\n他不再事事亲力亲为，转而在内部引进IPD体系（集成产品开发流程），培养能够独立决策、独立担责的产品团队。\n任冠佼的目标很清晰，要减少个人单点决策依赖，把个人能力转化为组织能力，让自己慢慢变得“不那么重要”。\n当前，智能割草机器人赛道热度持续走高，市场窗口期正在快速收窄，行业竞争从增量扩张转向精细化比拼。能否吃透海外差异化市场、筑牢技术壁垒、完成体系化能力升级，也成为未岚大陆下一阶段发展的关键考题。\n我们与未岚大陆CEO任冠佼聊了聊欧美市场差异、产品迭代策略，以及如何学会放手背后的身份转变。\n以下是硬氪同任冠佼的对谈实录，内容经编辑：\n系统化产品洞察能力\n硬氪：从2021年发布第一款无边界智能割草机器人、到2026年累计量产突破100万台，未岚大陆用了五年时间。你每一阶段的工作内容有发生什么变化么？\n任冠佼：\n2019年，我们看到了割草机器人赛道的机会。最早很多东西都不完善，所以我一开始需要兼顾产品定义与整体项目统筹的多个职责。2021到2022年是第一代产品的研发阶段，几乎所有供应链我都跑过，5块钱以上的芯片供应商一家家跑、找他们聊，所以基本上未岚大陆早期的供应商我都认识。\n后来产品发布，我的工作转向以市场拓展和业务拓展为主，更多跟着营销服务团队到业务一线去做事情。2022年起，每年都有好几个月我会在欧洲，2025年在美国待得比较多。\n去年中下旬，我把更多时间聚焦在战略层面工作，重心放在做方向研判与业务决策上。\n未岚大陆第100万台智能割草机器人下线（图源/企业）\n硬氪：你是什么时候开始意识到“战略”很重要？\n任冠佼：\n以前觉得战略是个很虚的东西，只要产品好、渠道好、营销好就足够了。但其实不是，每一家企业基因不一样，愿景不一样，企业必须要基于愿景和当前手里的能力，去选最有价值的那个方向。所以意识到这件事之后，我就开始有选择地分配精力和做取舍，不能再什么事都冲在前面了。\n硬氪：做战略这件事比较难，还是做产品、管理更难？\n任冠佼：\n其实每一年都很挑战。核心是你每年都会认知到，过去的自己是有瓶颈的，每年都要突破。人在状态很稳定的时候，一般就是处于舒适区；但当你觉得处于不适的阶段，恰恰是个人成长速度最快的时期。\n去年我们在业务推进中确实发现了一些问题，整体市场表现与前期预期存在偏差。\n一方面是过往对线上渠道的认知度不足，所以团队今年重点发力线上，目前成效还不错。另一方面，进入美国后我们看到，不同地区用户的认知存在明显差异，由于之前缺少系统化洞察，尝试把欧洲成功的经验复制到美国，结果发现适配性不足，虽然有一定效果、但效率不高。\n硬氪：美国与欧洲用户的需求差异在产品上有哪些具体表现？\n任冠佼：\n比如未岚大陆CES 2026上发布的X4系列，跟团队在2025年初对美国的用户偏好调研密切相关。\n我们发现，美国用户对有边界、无边界的认知相对不足，反而对强劲动力、更强的通过性和四驱等卖点更为敏感，他们看重产品“Powerful”的感觉。同时，产品功能也要足够简单、好用，贴合美国用户的消费心理。\n比如美国草坪更加开放，用户对安全性的要求很高，尤其重视防丢功能。因此，X4系列也相应推出了Find My功能，跟苹果iOS系统的Find My深度绑定，设备在超出边界时不仅会自动警报，用户也可以在其丢失后通过定位查找功能找回。\n硬氪：除了功能上的显性需求外，地理环境对产品设计和性能调校带来的影响大么？\n任冠佼：\n草种差异也会影响我们对产品的设计。针对不同草种特性，必须对整机的切割系统和动力系统进行专项适配优化。\n2024年底，未岚大陆在进入美国市场时，收到了大量用户反馈设备割不动草。我们觉得很奇怪，因为当时产品已经在欧洲卖出了十几万台，几乎没收到过类似的售后问题。\n调查后才发现，是一种名为圣奥古斯丁的草，在美国称圣奥古斯丁草、澳洲称其为水牛草。这种草在我们早前国内和欧洲本地的测试中从未遇到过。\n圣奥古斯丁草属于暖季型草，在中国仅海南有分布；而未岚大陆的产品测试主要在常州、深圳和北方地区进行。按照秦岭淮河划分，北方种植的是冷季型草，以早熟禾、高羊茅为主，设备都能正常切割。\n但暖季型草多为细软品种，许多高尔夫球场会使用，以佛罗里达州为主的美国南部很多人种植圣奥古斯丁草，这种草长势茂密、茎叶偏长，对设备的切割性能尤其是刀片素质要求极高。同时，这种草坪根系发达，地面易泥泞松软，机器人作业时容易下陷、啃食草根，设备必须具备充足的切割动力与通过性能，才能胜任这类环境。\n未岚大陆CEO任冠佼在第100万台割草机下线活动上（图源/企业）\n硬氪：硬件结构上做了哪些创新设计？\n任冠佼：\n我们把前驱做成可转向轮的方案，背后有多重考量。\n2023年，研发团队对欧洲市场做了充分调研，认为四驱价值不大，尤其是面向荷兰、德国等地形平坦的国家和地区，两驱方案足以应对。当时，许多用户反馈家里有陡坡，但经我们实地查看后发现坡度并不大，因此2025年以前，未岚大陆并没有推出四驱的产品。\n直到去年，四驱产品在欧美都有不错的产品表现，跟我们前几年的调研结果对比存在较大偏差。为此，团队又对每个区域状况进行了深入调查：奥地利和挪威地区的山区多、草坪坡度大，四驱卖得好；美国虽山不多，但用户追求的“Powerful”心理使得四驱结构也很受欢迎。\n硬氪：它跟市场上已有的四驱方案区别是什么？\n任冠佼：\n我们注意到，不少用户反映部分四驱产品存在损伤草坪的问题，这也是X4的结构方案要解决的核心痛点。\n从技术原理上解释，机器人本体在空间内拥有六个自由度，包含前进、平移、转向三个平动自由度，以及横滚、俯仰、偏航三个姿态转动自由度。若要实现平面三自由度全向运动，单纯采用四轮结构在原理上会产生运动干涉。\n因此，我们能看到有几类解决方案。第一种为阿克曼转向结构，与汽车的转向原理一致，通过底盘连杆机构控制左右车轮转角差异化，规避侧向滑移；但它的缺点是转弯半径大、倒车操控不便，在草坪作业场景适配性较差。第二种是履带式结构，可实现原地零半径转向，但履带转向过程中会产生侧滑移，容易损伤草坪。\n而常规普通四驱结构可看作履带的简化形态，同样存在转向侧移、伤草的问题。还有的采用在前轮搭载麦克纳姆轮、或增设横向转动结构来缓解滑移问题，都尚未从根本上解决用户痛点。\n可以说，四驱驱动是草坪机器人的必要配置，而转向不伤草也是用户核心刚需。\n如何彻底解决？我们在X4的四驱方案中，将前轮增加了两个独立的转向电机。它能实现零半径转向，轮子可以掰成内八字绕机体中心旋转，转弯半径变小；并且，设备在任何角度转向的时候，也能模拟阿克曼转向，没有横向侧移，轮子只沿滚动方向运动，从而尽量减少对草坪的横向撕扯，对草坪产生很好的保护作用。\n这个方案唯一的缺点是成本较高，但从用户利益出发，零半径转向和不伤草都非常重要，所以我们最后还是选了这个方案。\n硬氪：在导航方案上，RTK、激光雷达与视觉的多传感融合路线目前是否已经是共识？\n任冠佼：\n导航定位是最核心的技术模块，长期来看一定会趋同于“RTK+视觉+激光”的融合方案，这一点我们几年前就已明确。\n目前差异点在于，激光雷达还是比较贵。RTK的成本已经下降，因此未岚大陆在今年也正式将基站式RTK全部改为网络式NRTK。视觉方案本身相对简单。三者叠加仍占整机成本的较大部分。\n多传感融合路线（图源/企业）\n大趋势一致的情况下，我们的差异化在于“深耦合”，即不是分别得到RTK坐标、视觉结果、激光结果后再做融合，而是直接提取激光和视觉的原始数据进行更深度的耦合。\n举个例子，过去通过速度融合来推算位置，现在直接用加速度信息融合、加速度两次积分可得到设备所在的位置。这使得边角场景的处理更加稳定，\n用户长期使用下来会持续感受到这种提升。\n这些技术细节在营销层面难以传达，但长时间使用下来，产品和品牌的实力用户自然能感受到。\n切入商用市场\n硬氪：2025年，未岚大陆核心海外市场的增长情况如何？\n任冠佼：\n特定区域的规模同比去年实现了几倍的增长。比如美国，本身业务在当地的基础还比较小，翻几倍也算合理。\n硬氪： 商用属于另一个独立场景，跟消费级产品线的最大差异是什么？\n任冠佼：\n我们观察到，海外还有很多公共绿地、足球场、高尔夫球场、市政公园等场景同样存在割草需求，但其使用习惯与家用完全不同。\n比如商用场景需要编队功能；家用是一户一台，一个APP即可满足交互体验，而商用客户可能一次采购20台，甚至一个园林服务商会拥有几十台机器，他们需要一个客户端系统进行实时监控，能够远程重启或遥控脱困。\n设备形态层面，商用产品既可复用家用产品技术平台，同时也有必要开发专属专业机型。为此，我们内部也组建独立团队，专门负责商用业务的产品定义、设计研发与落地交付。\n硬氪： 为什么会在这个阶段进入商用赛道，你们看到了哪些机会？\n任冠佼：\n决定做商用业务主要基于三个方面的判断。\n第一，我们卖产品的时候，一直被很多渠道和代理商问到有没有更大的设备。起初我们以为是家庭用户对大草坪有需求，后来才发现，不少采购用户实际将其用在了商用场景。\n第二点跟我在美国的观察有关。欧洲的核心用户群体为中产阶层。通常他们在下午五点下班后，还会愿意自己动手打理庭院。相比之下，美国中产的工作压力更大，加班现象普遍。我还记得第一次在夏洛特转机时，早上六点多、机场全是通勤的上班族。这类用户宁愿多花钱请园林服务商代为打理，也不愿占用自己的休息时间。我们最早的一批美国用户中，就有大量园林服务商客户，他们购买设备是用于为客户提供割草服务。\n第三，在美国，主动找到我们的还有一类客户是橄榄球场、高尔夫球场等专业机构。他们的痛点十分明确，用工严重短缺，所以亟需通过机器人替代人工劳作。这几个因素叠加，让未岚大陆认定了商用业务必须要做。\n有趣的是，在决定做这件事后，我们团队又回头查阅了一些行业资料，发现商用业务增长很快，年营收规模也很高。这也说明了我们的判断与市场趋势一致。\n硬氪：商用割草机器人的快速起量能否形成势能外溢，拉动家用消费级产品的渗透普及？\n任冠佼：\n我认为会的。这也是我们的思考。比如当用户去打高尔夫时看到商用割草机，在TA回到家后，会更容易产生购买同类型产品的意愿。这对品牌认知和品类认知都有积极的推动作用。\n欧洲割草机器人的品类认知在15年前就已形成，包括未岚大陆在内，当今的割草机器人厂商在2022年之后所做的工作，本质上是跨越鸿沟\n——将用户人群从科技爱好者推动到早期采用者，他们成功接受了无边界技术的使用，让产品进入早期大众市场，实现快速爆发式增长。\n而美国市场至今尚未达到早期采用者阶段。\n尽管美国市场出现了三到四倍的增长，但其原始渗透率仍然很低。如果只做家用产品，自然增长可能需要五到十年。而如果有其他因素协同推动增长、例如商用设备的普及推动，预计未来一到两年，美国市场有可能进入爆发期。\nNavimow H系列割草机器人（图源/真实用户分享）\n硬氪：商用业务对品牌的渠道布局和合作有显著加成吗？\n任冠佼：\n目前来看，渠道端主要是通过Pro端（专业商用渠道）开始接触这一品类。\n我认为买手对割草机器人本身的价值认知尚未完全形成，他们只是突然意识到，这个产品能够带来利润。渠道讲究品效，当传统的手持设备份额一定程度上被新兴品类所吞没，对渠道商而言，这是个需要尽快补位的增量空间。\n以Home Depot为例，2025年，其试水引入了几款割草机器人产品，初期采用了线上交易、线下体验的模式；在看到市场初步反响后，才应激式地挑选一两款机型进驻线下门店，但也仅在数十家门店小范围试销，并未针对这一品类制定体系化的长期运营策略。\n随着渠道端品类策略的逐渐形成，割草机器人可能在线下也会迎来一波增长。\n硬氪：行业整体迭代速度很快，目前主要市场的成熟度、竞争格局和增长节奏有哪些明显差异？\n任冠佼：\n美国市场还很早期，\n只要不犯大的错误，我觉得大家都还有机会。\n相比之下，欧洲不同区域的状态差异显著。德语区正处在比较激烈的厮杀阶段，但部分市场仍有大量增长空间。\n以法国为例，法国人口与德国相近，生活习惯也类似，理论上其市场规模应与德国相当\n，但在2025年，法国割草机器人规模仅为德国的30%-50%；2026年增长迅猛，预计能达到德国的六七成。波兰等部分东欧国家也在快速增长中。\n品类认知度和渠道接受度也在提升。过去，法国线下主要依靠DIY渠道销售，线上占据一定份额。到今年，以Boulanger、Darty为代表的大型CE（Consumer Electronics，消费电子）零售渠道陆续进入这一品类。DIY渠道进展相对较慢，仍在售卖有边界产品，但也逐渐意识到有边界产品销路下滑，继而转向无边界产品。\n硬氪：品牌认知已经建立起来了么？\n任冠佼：\n品牌力量在某些区域已经开始显现，尤其是竞争激烈的市场，但它还没能成为支配性因素。\n各家产品的差异并不大，用户搜索、选购时看到的多款机型，在功能配置、定价区间都相仿。但从真实需求的满足程度来看，还有很多缺口。至少在未来两三年内，满足用户需求仍然是产品迭代的首要任务。\n用户要的不只是割草，而是一个完美、整洁的草坪。这涉及浇水、打边、施肥、除杂草、收落叶等多个环节，技术上实现难度较高，比如浇水场景、让机器人背负水箱的方案并不现实。在这些问题解决之前，品牌或许对用户决策会些有影响，但不会起支配作用。\n硬氪：同类产品这么多的情况下，未岚大陆能吸引用户购买的原因是什么？\n任冠佼：\n产品的质量稳定性是一个要素，售前售后服务、完整的购买体验包括产品介绍和使用指导、以及售后维修的便利性、能否联系到官方人员等，同样重要。\n在不同渠道和不同品牌之间，未岚大陆正在开始获得一定的溢价空间。我认为这是品牌价值逐渐显现的标志。\n硬氪：差异化优势如何体现？\n任冠佼：\n过去几代产品积累的口碑，让用户逐渐形成了Navimow“简单易用”的印象。未岚大陆的产品带来的是无忧放心的体验，用户无需担心使用故障问题。\n我们内部有一个指标叫“软件介入率”，可理解为平均无故障使用时间——以1%的软件介入率计算，意味着平均每工作100天会出现一次需要人工干预的情况。\n平均一个完整割草季约200天，目前我们的产品已经能做到，整个割草周期里、仅需极少数次人工简单处理。大多只是遇到机器卡在边角死角这类小状况，用户简单挪一下设备、顺手清理刀片杂物就可以，操作门槛很低。\n多台Navimow割草机器人在用户庭院中工作（图源/真实用户分享）\n「学习适当放手」\n硬氪：回看割草机器人赛道如今的发展节奏，和你们最初入局时的预判是否一致？\n任冠佼：最早2019年那会没想那么多，只是觉得这个方向一定能火。到2022年第一代产品正式开售后，隐隐约约知道它肯定是一个能做到10-20亿规模的行业，但再往后能做到多少，那个节点我们没有想那么清楚。\n基本上跟我们的预期是一致的。唯一可能是对每年增速的感受不同。去年增速这么快，稍微超出了我们的预期。同时，我们做的销售规划也比较保守，实现翻倍增长，事实上也实现了。\n硬氪：当时对于增速、销量的保守，主要原因还是觉得市场不稳定？\n任冠佼：\n战略的问题。我们知道它会增长，但没有预测到这么快。我们预测大盘大概是20%到25%的增长，实际去年到了35%。\n硬氪：带来实际增速超出预期的核心原因是什么？\n任冠佼：\n无边界的市场渗透速度超过我们的判断。\n2024年，无边界割草机器人在整个品类中的占比仅为20%，到了2025年，这一占比迅速攀升至60%。都知道这个行业会增长，但它到底涨多少，是很难准确判断的。今年有望达到80%。\n硬氪：如何看待当前赛道所处的竞争格局？\n任冠佼：\n今年开始，头部的几家企业已陆续显现。各家特点鲜明。\n很多人认为未岚大陆在2024年推出的999欧元产品是在打价格战，实际上，这款产品的定价是基于公司内部成熟的成本模型和规模效应。我们选择这样的定价，更多是希望降低用户的尝试门槛，让更多人认识和体验Navimow的技术。\n长期来看，我们不愿参与价格战，而是希望通过端到端的高效率设计来提高竞争力，为用户提供更好的体验和价值。\nNavimow i系列割草机器人（图源/真实用户分享）\n公司将供应商和渠道商视为上游和下游的合作伙伴，共同为用户创造价值。\n对供应商而言，他们对用户的价值在于提供更稳定的原材料、更低成本以及可靠持续的供应。我们不希望将供应商的壁垒转移到自己身上。但通过技术提升带来核心模组性能的改进，使原本昂贵的部件能够应用于这一品类，这是我们愿意投入的方向。例如RTK天线，从采购模组到选择自研，因为自研能更好地匹配目标使用场景。\n渠道端也是如此。渠道对用户的价值在于方便购买、方便维修，并能清晰介绍产品甚至整个品类的特性。谁能提供更高的用户价值就选择谁。例如，某些渠道要求的毛利率较高，但如果其每家门店的销售人员都能非常清晰地介绍产品，包括根据用户庭院面积推荐合适型号，这实际上是在创造价值，我们愿意为之支付相应的毛利空间。\n硬氪：接下来的竞争，各家抢的到底是渠道、C端用户的注意力还是品牌价值？\n任冠佼：\n硬件品类在快速成长后会进入洗牌期，现在已经出现了这一迹象，但格局尚未定型，真正的排序或许还要三到五年才能稳定下来。\n目前全球年销量约200多万台，预计还有2到3倍的增长空间，达到600万台是一个可期待的状态。\n其中美国市场可能占据较大份额，欧洲市场预计可达三四百万台，仍有一倍以上的增长空间。因此，当前各家的重点其实不是竞争注意力，而是共同推动更多用户认知并接受这一品类。至少两三年内，让市场竞争保持良性状态。\n硬氪： 能留在牌桌上的公司需要具备哪些核心能力？\n任冠佼：\n全套综合能力。第一是产品技术能力。第二是批量化制造与供应链能力，即端到端的全链条能力，涵盖从原材料采购到整机制造，再到全球化部署；尤其在生产端可能需要布局全球多地制造网络。第三，海外销售、营销及服务体系，以及交付与供应商客户的运营能力。这些能力缺一不可。\n硬氪： 在这个“彻底的解决方案”中，我们有可能看到其他产品形态么？\n任冠佼：\n都有可能。用户的需求是清晰的，关键在于采用何种技术方案来满足。部分功能可以集成在割草机器人上——它不只是一台割草设备，更是一个花园场景中的移动终端。但同时，形态本身又并不重要，重要的是用户真正需要什么。\n内部近期刚刚否决了一个与割草机器人具有协同效应的园林场景项目。虽然测算下来，这个项目对业务扩张有好处，但创新性不足。我们设有产品委员会（IPMT组织），任何新产品想法必须满足两个条件才会落地：第一，符合我们的核心理念；第二，具备商业价值。\n现阶段团队做得很专注，只做割草这一件事，让产品在极端场景下也能很好地应对，给用户提供信心。用户愿意相信未岚大陆品牌做的东西就是好用的。包括在CES 2026上，许多用户主动询问我们是否推出了扫雪机、吹叶机等产品，他们认为既然我们能做好割草机，其他产品也一定能做好。\n但对团队来说，在资源有限的情况下，只有达到一定规模后再考虑扩张。这也是我做战略之后的一个重要认知：聚焦一个品类不会把公司做死，历史上很多公司的衰落并非因为品类单一，而是因为过早分散了精力。\n硬氪：随着公司发展规模越来越大之后，对你的个人心态有影响么？\n任冠佼：\n心态倒没有特别大的变化。真的想把这件事做成。唯一变化的是每年都处在一边学习一边建立全新能力的过程。\n比如做事方式上的改变。今年内部做体系化变革，引入IPD（集成产品开发流程）。过去公司决策依赖几个核心人员的能力去做决策，现在我有意识不做决定，需要让能力建在组织上，让组织在没有我，甚至没有几位核心管理层的时候也能正常运行。企业需要培养能够独立负责、承担决策职责的产品经理。\n当公司营收迈入数十亿量级，这类体系化组织变革就势在必行。我们集团当年也经历过这个阶段，是一次做事模式与治理机制的关键转型。企业发展起来之后仍然过度依赖创始人，这是有风险的。但站在ownership角度，我们底层理念从来都没有变。\n所以现在我也会调整自己，慢慢学着做战略、适当放手。",
-    "content_source": "readability",
-    "content_chars": 8583,
-    "content_excerpt": "作者｜黄楠\n编辑｜袁斯来\n未岚大陆CEO任冠佼等了7年，等到了行业的爆发。\n他还记得，2019年刚进入无边界智能割草机器人赛道，自己“只是觉得这个方向一定能火”。\n到2021年第一代产品推出时，他们也只敢确定，这是一个能做到10-20亿的行业。\n直到2025年，增速超出他的预期。\nIDC数据显示，2025年全球无边界割草机器人出货量达到131.8万台，同比增长182.4%，占整个割草机器人市场出货量的66.2%。未岚大陆自身的累计实现量产，在今年突破100万台，公司营收迈入数十亿量级。\n但同时，高速增长的背后，也倒逼任冠佼完成了一场至关重要的认知破局。\n任冠佼意识到，行业迭代速度持续加快，以往相对保守的经营方式显然已经跟不上节奏。\n他逼着自己从一个工程师成长为公司掌舵人。最近一年，任冠佼跳出琐碎的一线工作、学习战略研判，并慢慢适应创业者最难的一课——学会放手。"
-  },
-  {
     "id": "hn-48085821",
     "title": "Local AI needs to be the norm",
     "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
@@ -4578,7 +4600,7 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-05-26T14:51:13.209107"
+    "collected_at": "2026-05-26T20:01:16.073101"
   },
   {
     "id": "hn-48019219",
@@ -4589,7 +4611,7 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "points": 1755,
-    "collected_at": "2026-05-26T14:51:13.209134"
+    "collected_at": "2026-05-26T20:01:16.073128"
   },
   {
     "id": "hn-47679121",
@@ -4600,7 +4622,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-26T14:51:13.209210"
+    "collected_at": "2026-05-26T20:01:16.073208"
   },
   {
     "id": "hn-47363754",
@@ -4611,7 +4633,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-26T14:51:13.209311"
+    "collected_at": "2026-05-26T20:01:16.073325"
   },
   {
     "id": "hn-47340079",
@@ -4622,7 +4644,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-26T14:51:13.208944"
+    "collected_at": "2026-05-26T20:01:16.072935"
   },
   {
     "id": "hn-47225130",
@@ -4633,7 +4655,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-26T14:51:13.209353"
+    "collected_at": "2026-05-26T20:01:16.073367"
   },
   {
     "id": "hn-47136179",
@@ -4644,7 +4666,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-26T14:51:13.209070"
+    "collected_at": "2026-05-26T20:01:16.073062"
   },
   {
     "id": "hn-46990729",
@@ -4655,7 +4677,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-26T14:51:13.209017"
+    "collected_at": "2026-05-26T20:01:16.073010"
   },
   {
     "id": "hn-45941596",
@@ -4666,7 +4688,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-26T14:51:13.209365"
+    "collected_at": "2026-05-26T20:01:16.073379"
   },
   {
     "id": "hn-45930151",
@@ -4677,7 +4699,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-26T14:51:13.209403"
+    "collected_at": "2026-05-26T20:01:16.073417"
   },
   {
     "id": "hn-44972151",
@@ -4688,7 +4710,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-26T14:51:13.209158"
+    "collected_at": "2026-05-26T20:01:16.073153"
   },
   {
     "id": "hn-44396518",
@@ -4699,7 +4721,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-26T14:51:13.209279"
+    "collected_at": "2026-05-26T20:01:16.073281"
   },
   {
     "id": "hn-44314423",
@@ -4710,7 +4732,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-26T14:51:13.209324"
+    "collected_at": "2026-05-26T20:01:16.073338"
   },
   {
     "id": "hn-44163063",
@@ -4721,7 +4743,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-26T14:51:13.208993"
+    "collected_at": "2026-05-26T20:01:16.072984"
   },
   {
     "id": "hn-42910910",
@@ -4732,7 +4754,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-26T14:51:13.209170"
+    "collected_at": "2026-05-26T20:01:16.073165"
   },
   {
     "id": "hn-41392128",
@@ -4743,7 +4765,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-26T14:51:13.209083"
+    "collected_at": "2026-05-26T20:01:16.073076"
   },
   {
     "id": "hn-41386319",
@@ -4754,7 +4776,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-26T14:51:13.209095"
+    "collected_at": "2026-05-26T20:01:16.073089"
   },
   {
     "id": "hn-41069829",
@@ -4765,7 +4787,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-26T14:51:13.209416"
+    "collected_at": "2026-05-26T20:01:16.073430"
   },
   {
     "id": "hn-41046773",
@@ -4776,7 +4798,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-26T14:51:13.208980"
+    "collected_at": "2026-05-26T20:01:16.072972"
   },
   {
     "id": "hn-40767459",
@@ -4787,7 +4809,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-26T14:51:13.209429"
+    "collected_at": "2026-05-26T20:01:16.073444"
   },
   {
     "id": "hn-39918245",
@@ -4798,7 +4820,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-26T14:51:13.209377"
+    "collected_at": "2026-05-26T20:01:16.073391"
   },
   {
     "id": "hn-39526057",
@@ -4809,7 +4831,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-26T14:51:13.208967"
+    "collected_at": "2026-05-26T20:01:16.072958"
   },
   {
     "id": "hn-38544729",
@@ -4820,7 +4842,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-26T14:51:13.209028"
+    "collected_at": "2026-05-26T20:01:16.073021"
   },
   {
     "id": "hn-37021160",
@@ -4831,7 +4853,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-26T14:51:13.209183"
+    "collected_at": "2026-05-26T20:01:16.073178"
   },
   {
     "id": "hn-31812259",
@@ -4842,7 +4864,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-26T14:51:13.209335"
+    "collected_at": "2026-05-26T20:01:16.073349"
   },
   {
     "id": "hn-18249755",
@@ -4853,7 +4875,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-26T14:51:13.209144"
+    "collected_at": "2026-05-26T20:01:16.073139"
   },
   {
     "id": "hn-17022963",
@@ -4864,7 +4886,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-26T14:51:13.209120"
+    "collected_at": "2026-05-26T20:01:16.073114"
   },
   {
     "id": "hn-15892066",
@@ -4875,7 +4897,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-26T14:51:13.209299"
+    "collected_at": "2026-05-26T20:01:16.073313"
   },
   {
     "id": "hn-6830566",
@@ -4886,6 +4908,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-26T14:51:13.209388"
+    "collected_at": "2026-05-26T20:01:16.073402"
   }
 ]

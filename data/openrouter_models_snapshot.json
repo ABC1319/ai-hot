@@ -22,6 +22,7 @@
       "pricing": {
         "prompt": "0.0000025",
         "completion": "0.0000075",
+        "input_cache_read": "0.0000005",
         "input_cache_write": "0.000003125"
       },
       "top_provider": {
@@ -913,7 +914,7 @@
       },
       "top_provider": {
         "context_length": 262144,
-        "max_completion_tokens": 32000,
+        "max_completion_tokens": 32768,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -1410,7 +1411,8 @@
       },
       "pricing": {
         "prompt": "0.0000003",
-        "completion": "0.0000018"
+        "completion": "0.0000018",
+        "input_cache_write": "0.000000375"
       },
       "top_provider": {
         "context_length": 1000000,
@@ -1515,11 +1517,12 @@
       },
       "pricing": {
         "prompt": "0.00000015",
-        "completion": "0.000001"
+        "completion": "0.000001",
+        "input_cache_read": "0.00000005"
       },
       "top_provider": {
-        "context_length": 262140,
-        "max_completion_tokens": 262140,
+        "context_length": 262144,
+        "max_completion_tokens": 262144,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -2113,13 +2116,13 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.000001",
-        "completion": "0.000003",
-        "input_cache_read": "0.0000002"
+        "prompt": "0.000000435",
+        "completion": "0.00000087",
+        "input_cache_read": "0.0000000036"
       },
       "top_provider": {
         "context_length": 1048576,
-        "max_completion_tokens": 16384,
+        "max_completion_tokens": 131072,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -2180,9 +2183,9 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000004",
-        "completion": "0.000002",
-        "input_cache_read": "0.00000008"
+        "prompt": "0.00000014",
+        "completion": "0.00000028",
+        "input_cache_read": "0.0000000028"
       },
       "top_provider": {
         "context_length": 1048576,
@@ -3119,60 +3122,6 @@
       "expiration_date": null,
       "links": {
         "details": "/api/v1/models/z-ai/glm-5v-turbo-20260401/endpoints"
-      }
-    },
-    {
-      "id": "arcee-ai/trinity-large-thinking:free",
-      "canonical_slug": "arcee-ai/trinity-large-thinking",
-      "hugging_face_id": "arcee-ai/Trinity-Large-Thinking",
-      "name": "Arcee AI: Trinity Large Thinking (free)",
-      "created": 1775058318,
-      "description": "Trinity Large Thinking is a powerful open source reasoning model from the team at Arcee AI. It shows strong performance in PinchBench, agentic workloads, and reasoning tasks. Launch video: https://youtu.be/Gc82AXLa0Rg?si=4RLn6WBz33qT--B7...",
-      "context_length": 262144,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Other",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "top_provider": {
-        "context_length": 262144,
-        "max_completion_tokens": 80000,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "include_reasoning",
-        "max_tokens",
-        "reasoning",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_k",
-        "top_p"
-      ],
-      "default_parameters": {
-        "temperature": 0.3,
-        "top_p": 0.8,
-        "top_k": null,
-        "frequency_penalty": null,
-        "presence_penalty": null,
-        "repetition_penalty": null
-      },
-      "supported_voices": null,
-      "knowledge_cutoff": null,
-      "expiration_date": null,
-      "links": {
-        "details": "/api/v1/models/arcee-ai/trinity-large-thinking/endpoints"
       }
     },
     {
@@ -4895,8 +4844,7 @@
       },
       "pricing": {
         "prompt": "0.000000065",
-        "completion": "0.00000026",
-        "input_cache_write": "0.00000008125"
+        "completion": "0.00000026"
       },
       "top_provider": {
         "context_length": 1000000,
@@ -5311,8 +5259,7 @@
       },
       "pricing": {
         "prompt": "0.00000026",
-        "completion": "0.00000156",
-        "input_cache_write": "0.000000325"
+        "completion": "0.00000156"
       },
       "top_provider": {
         "context_length": 1000000,
@@ -10767,8 +10714,7 @@
       },
       "pricing": {
         "prompt": "0.00000026",
-        "completion": "0.00000078",
-        "input_cache_write": "0.000000325"
+        "completion": "0.00000078"
       },
       "top_provider": {
         "context_length": 1000000,
@@ -12304,13 +12250,12 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000013",
-        "completion": "0.00000085",
-        "input_cache_read": "0.000000025"
+        "prompt": "0.000000125",
+        "completion": "0.00000084"
       },
       "top_provider": {
-        "context_length": 131072,
-        "max_completion_tokens": 98304,
+        "context_length": 131070,
+        "max_completion_tokens": 131070,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -20001,5 +19946,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-26T14:52:08.782429+00:00"
+  "updated_at": "2026-05-26T20:02:10.117723+00:00"
 }

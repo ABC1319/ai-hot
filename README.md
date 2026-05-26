@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-26 22:53:19
+🕐 **最近更新**：2026-05-27 04:02:57
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [教皇的人工智能通谕并不是真正关于人工智能的](https://aihot.bt199.com/news/96a0ae8f1cd7/)
-   - 教皇利奥十四世的第一部通谕使用人工智能作为镜头来诊断老问题：权力集中、民主受到侵蚀，以及科技精英为了自己的利益而塑造世界…
-   - `TechCrunch AI · 2026-05-25`
+1. [OpenRouter 一年内估值翻倍多至 $1.3B](https://aihot.bt199.com/news/1ab37a271eb8/)
+   - OpenRouter 已筹集由 CapitalG 领投的 1.13 亿美元 B 轮融资。六个月内其使用量增长了 5 倍…
+   - `TechCrunch AI · 2026-05-26`
 
-2. [没有人愿意告诉我为什么他们只听自己的 Suno slop](https://aihot.bt199.com/news/e63fb63c520b/)
+2. [这家初创公司押注印度的零工经济可以训练世界各地的机器人](https://aihot.bt199.com/news/96f157c6ce9a/)
+   - Human Archive 是一家由加州大学伯克利分校和斯坦福大学研究人员创立的初创公司，它正在向印度的零工工人支付费用…
+   - `TechCrunch AI · 2026-05-26`
+
+3. [重新思考代理人工智能时代的组织设计](https://aihot.bt199.com/news/b920d871e577/)
+   - 随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。 尽管 85% 的组织表示他们希望在未来三年内实现代理，但…
+   - `MIT Tech Review · 2026-05-26`
+
+4. [没有人愿意告诉我为什么他们只听自己的 Suno slop](https://aihot.bt199.com/news/e63fb63c520b/)
    - Suno Reddit 子版块中出现了这种令人担忧的趋势。人们不仅会提示人工智能歌曲，还会提示人工智能歌曲。他们坐在那儿…
    - `The Verge AI · 2026-05-26`
 
-3. [对人工智能就业歇斯底里的现实检验](https://aihot.bt199.com/news/7400dc01b3a1/)
-   - 你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和…
-   - `MIT Tech Review · 2026-05-26`
-
-4. [黑客组织正在以前所未有的规模毒害开源代码](https://aihot.bt199.com/news/682b115b447c/)
+5. [黑客组织正在以前所未有的规模毒害开源代码](https://aihot.bt199.com/news/682b115b447c/)
    - GitHub 只是 TeamPCP 的最新受害者，该团伙发起了一系列软件供应链攻击
    - `Ars Technica AI · 2026-05-22`
-
-5. [ClickUp 的大规模裁员告诉我们什么是工作的未来](https://aihot.bt199.com/news/abb22fea2763/)
-   - 这家成立九年的初创公司正在用数千名人工智能代理取代数百名员工
-   - `TechCrunch AI · 2026-05-25`
 
 6. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
    - 批评人士指出，美国参议院候选人提起的诉讼缺乏事实支持
@@ -123,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

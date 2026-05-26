@@ -1060,6 +1060,31 @@
     "is_core": true
   },
   {
+    "id": "hf-nvidia--Nemotron-Labs-Diffusion-14B",
+    "name": "nvidia/Nemotron-Labs-Diffusion-14B",
+    "display_name": "Nemotron-Labs-Diffusion-14B",
+    "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B",
+    "author": "nvidia",
+    "pipeline_tag": "text-generation",
+    "likes": 112,
+    "downloads": 5453,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "nvidia",
+      "pytorch",
+      "text-generation",
+      "license:other",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-22T23:06:08.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-26T20:01:21.449353",
+    "display_priority": 39,
+    "is_core": true
+  },
+  {
     "id": "hf-tencent--Hy-MT2-30B-A3B",
     "name": "tencent/Hy-MT2-30B-A3B",
     "display_name": "Hy-MT2-30B-A3B",
@@ -1117,7 +1142,7 @@
     "created_at": "2026-05-11T07:43:51.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-22T08:53:24.188119",
-    "display_priority": 39,
+    "display_priority": 40,
     "is_core": true
   },
   {
@@ -1178,7 +1203,7 @@
     "created_at": "2026-05-11T14:56:58.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-23T13:08:00.366335",
-    "display_priority": 40,
+    "display_priority": 41,
     "is_core": true
   },
   {
@@ -1206,7 +1231,7 @@
     "created_at": "2026-04-20T04:40:42.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-29T02:15:56.691873",
-    "display_priority": 41,
+    "display_priority": 42,
     "is_core": true
   },
   {
@@ -1231,7 +1256,7 @@
     "created_at": "2026-05-15T06:06:39.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-23T02:15:28.689275",
-    "display_priority": 42,
+    "display_priority": 43,
     "is_core": true
   },
   {
@@ -1260,7 +1285,7 @@
     "created_at": "2026-04-28T00:41:46.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-25T19:19:18.889401",
-    "display_priority": 43,
+    "display_priority": 44,
     "is_core": true
   },
   {
@@ -1286,7 +1311,7 @@
     "created_at": "2026-04-13T06:07:57.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-23T13:09:15.074943",
-    "display_priority": 44,
+    "display_priority": 45,
     "is_core": true
   },
   {
@@ -1311,7 +1336,7 @@
     "created_at": "2026-05-15T01:53:50.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-23T13:08:00.366385",
-    "display_priority": 45,
+    "display_priority": 46,
     "is_core": true
   },
   {
@@ -1340,7 +1365,7 @@
     "created_at": "2026-05-17T01:51:33.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-25T14:40:25.249680",
-    "display_priority": 46,
+    "display_priority": 47,
     "is_core": true
   },
   {
@@ -1365,7 +1390,7 @@
     "created_at": "2026-04-23T18:55:29.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-05T19:09:56.013992",
-    "display_priority": 47,
+    "display_priority": 48,
     "is_core": true
   },
   {
@@ -1390,7 +1415,7 @@
     "created_at": "2026-04-23T20:16:46.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-06T02:05:39.564036",
-    "display_priority": 48,
+    "display_priority": 49,
     "is_core": true
   },
   {
@@ -1420,7 +1445,7 @@
     "created_at": "2026-05-17T01:50:14.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-21T14:52:02.705505",
-    "display_priority": 49,
+    "display_priority": 50,
     "is_core": true
   },
   {
@@ -1445,7 +1470,7 @@
     "created_at": "2026-04-23T18:35:40.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-08T13:15:04.246378",
-    "display_priority": 50,
+    "display_priority": 51,
     "is_core": true
   },
   {
@@ -1470,7 +1495,7 @@
     "created_at": "2026-04-23T18:44:33.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-06T19:28:23.277963",
-    "display_priority": 51,
+    "display_priority": 52,
     "is_core": true
   },
   {
@@ -1498,7 +1523,7 @@
     "created_at": "2026-03-18T17:45:13.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-22T02:38:57.282229",
-    "display_priority": 52,
+    "display_priority": 53,
     "is_core": true
   },
   {
@@ -1526,7 +1551,7 @@
     "created_at": "2026-03-02T17:12:28.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-22T08:53:24.324375",
-    "display_priority": 53,
+    "display_priority": 54,
     "is_core": true
   },
   {
@@ -1572,7 +1597,7 @@
     "created_at": "2026-02-13T14:14:13.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-11T02:28:59.008579",
-    "display_priority": 54,
+    "display_priority": 55,
     "is_core": true
   },
   {
@@ -1597,7 +1622,7 @@
     "created_at": "2026-04-13T06:07:47.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-29T13:34:26.244359",
-    "display_priority": 55,
+    "display_priority": 56,
     "is_core": true
   },
   {
@@ -1626,7 +1651,7 @@
     "created_at": "2025-09-02T16:54:05.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-05T02:06:31.224089",
-    "display_priority": 56,
+    "display_priority": 57,
     "is_core": true
   },
   {
@@ -1672,7 +1697,7 @@
     "created_at": "2026-02-13T14:13:39.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-11T02:28:59.008596",
-    "display_priority": 57,
+    "display_priority": 58,
     "is_core": true
   },
   {
@@ -1718,45 +1743,6 @@
     "created_at": "2026-02-13T14:14:04.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-12T08:31:12.533784",
-    "display_priority": 58,
-    "is_core": true
-  },
-  {
-    "id": "hf-nvidia--NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16",
-    "name": "nvidia/NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16",
-    "display_name": "NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16",
-    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Elastic-30B-A3B-BF16",
-    "author": "nvidia",
-    "pipeline_tag": "text-generation",
-    "likes": 14,
-    "downloads": 48,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "nemotron_h",
-      "text-generation",
-      "nvidia",
-      "pytorch",
-      "elastic",
-      "conversational",
-      "custom_code",
-      "en",
-      "es",
-      "fr",
-      "de",
-      "ja",
-      "it",
-      "arxiv:2512.20848",
-      "arxiv:2511.16664",
-      "base_model:nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
-      "base_model:finetune:nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
-      "license:other",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-01T21:44:19.000Z",
-    "source": "hf-text-gen",
-    "collected_at": "2026-05-11T02:28:59.008607",
     "display_priority": 59,
     "is_core": true
   },
