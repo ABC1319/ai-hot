@@ -20,10 +20,10 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000025",
-        "completion": "0.0000075",
-        "input_cache_read": "0.0000005",
-        "input_cache_write": "0.000003125"
+        "prompt": "0.00000125",
+        "completion": "0.00000375",
+        "input_cache_read": "0.00000025",
+        "input_cache_write": "0.0000015625"
       },
       "top_provider": {
         "context_length": 1000000,
@@ -13329,7 +13329,10 @@
       "default_parameters": {
         "temperature": null,
         "top_p": null,
-        "frequency_penalty": null
+        "top_k": null,
+        "frequency_penalty": null,
+        "presence_penalty": null,
+        "repetition_penalty": null
       },
       "supported_voices": null,
       "knowledge_cutoff": "2025-01-31",
@@ -19946,5 +19949,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-26T20:02:10.117723+00:00"
+  "updated_at": "2026-05-27T02:42:34.099954+00:00"
 }

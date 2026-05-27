@@ -1,5 +1,180 @@
 [
   {
+    "id": "66d50ba8369b",
+    "title": "得物算法平台部算法专家任巨伟确认出席AICon上海站，分享高可控智能客服的 Agent 工程实践",
+    "url": "https://www.infoq.cn/article/ixyk6VIFhTSF3JL63EgK?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-27T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-27T02:41:40.702567",
+    "content_text": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n得物算法平台部算法专家任巨伟确认出席 “\nAgent 系统架构与工程化实践\n” 专题，发表题为\n《\n从“机械应答”到“服务伙伴”：高可控智能客服的 Agent 工程实践\n》\n的主题分享。本演讲结合了得物智能客服从传统 workflow 向 AI Agent 端到端解决方案落地过程中的痛点和成功实践经验。阐述了在高准确率要求和高复杂性的背景下，算法如何通过模型训练、PE 自动化、人类经验对齐、以及对话消息流控制，打造高可控的智能客服 Agent 系统，并拿到了超越当前配置型工作流的效果，在解决能力和回复多样性上达到了和 Top5 人类客服对齐的水平，达到了人力成本降低、用户体验提升的双正向效果。\n任巨伟，现任于得物算法平台部算法专家，曾就职于阿里巴巴、vivo、抖音集团、得物，在智能客服算法领域有 11 年从业经验，深度参与自研智能客服机器人、智能工单以及用户原声分析（VOC）系统，从传统机器学习，到大模型模块化升级，到 AI Agent 端到端解决方案的落地。他在本次会议的详细演讲内容如下：\n演讲提纲：\n背景与挑战：智能客服领域 Agent 落地的必然性与挑战\n客服 Agent 多轮协商优化-高可控性 PE 自动化\n客服 Agent 出话决策-RL 决策训练实践\n客服 Agent 情感温度-人类经验对齐模型蒸馏\n多轮会话消息流控制-半双工对话逻辑设计\n总结与展望\n听众收益：\n从 PE 自动化 → RL 决策训练 → 经验蒸馏 → 消息流控制，可获得完整的客服 Agent 建设方法论\n了解在真实业务约束下如何设计 Reward 模型、采集训练数据，并将决策能力内化至 LLM 底座，避免在 RL 落地中踩坑\n理解如何将难以结构化的优秀客服经验通过模型蒸馏方式传递给 LLM，在保持专业度的同时引入情感温度，对需要构建人格化 Agent 的团队可以参考\n在情绪化用户与严格业务规则并存的场景下，掌握 Agent 进行多轮协商的设计策略，解决\"让 Agent 既不得罪用户、又不违反平台规则\"这一难题\n除此之外，本次大会还策划了\n端侧 AI、物理与数字空间智能化\n、\n世界模型与多模态智能突破\n、\nAgent 架构与工程化实践\n、\nAgent 安全与可信治理\n、\n企业级研发体系重构\n、\nAI 原生数据工程\n、\nAI 时代的个人提效与组织变革\n等 14 个专题论坛，届时将有来自不同行业、不同领域、不同企业的 50+资深专家在现场带来前沿技术洞察和一线实践经验。\n更多详情可扫码或联系票务经理 13269078023 进行咨询。",
+    "content_source": "readability",
+    "content_chars": 1355,
+    "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n得物算法平台部算法专家任巨伟确认出席 “\nAgent 系统架构与工程化实践\n” 专题，发表题为\n《\n从“机械应答”到“服务伙伴”：高可控智能客服的 Agent 工程实践\n》"
+  },
+  {
+    "id": "f3bd0d22eca1",
+    "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+    "url": "https://36kr.com/p/3826932509364869?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-27T02:38:25",
+    "summary": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。 2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。 5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场别开生面的“世界咖啡”AI+产业对接会。60位国内领军企",
+    "collected_at": "2026-05-27T02:41:39.480925",
+    "content_text": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。\n2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。\n5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场别开生面的“世界咖啡”AI+产业对接会。60位国内领军企业代表齐聚一堂，13家带着真场景、真预算、真痛点的需求方与36家技术方面对面碰撞。\n正如36氪CEO冯大刚在开场中所说：“大多数人走进通明湖会展中心，心里想的是同一件事——不是来听AI有多厉害，是来看看AI到底能不能用、怎么用、花多少钱用，能创造多大价值。”\n一位参会企业代表感慨：“以前参加AI会议，大家还在讨论‘未来能做什么’，今天在亦庄，大家直接问‘你的方案在我这条产线上能不能降本10%’。”\n这种“去泡沫、验成色”的氛围，贯穿了大会的所有环节。我们从不缺谈概念的人，缺的是踩过坑、调过流程、把事做成的人。以下是本次大会嘉宾的超级金句，每一句背后，都站着一位真正带AI去过前线的人。\n以下为嘉宾金句摘录：",
+    "content_source": "trafilatura",
+    "content_chars": 606,
+    "content_excerpt": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。\n2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。\n5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场别开生面的“世界咖啡”AI+产业对接会。60位国内领军企业代表齐聚一堂，13家带着真场景、真预算、真痛点的需求方与36家技术方面对面碰撞。\n正如36氪CEO冯大刚在开场中所说：“大多数人走进通明湖会展中心，心里想的是同一件事——不是来听AI有多厉害，是来看看AI到底能不能用、怎么用、花多少钱用，能创造多大价值。”\n一位参会企业代表感慨：“以前参加AI会议，大家还在讨论‘未来能做什么’，今天在亦庄，大家直接问‘你的方案在我这条产线上能不能降本10%’。”\n这种“去泡沫、验成色”的氛围，贯穿了大会的所有环节。我们从不缺谈概念的人，缺的是踩过坑、调过流程、把事做成的人。以下是本次大会嘉宾的超级金句，每一句背后，都站着一位真正带AI去过前线的人。\n以下为嘉宾金句摘录："
+  },
+  {
+    "id": "d7b166df7722",
+    "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
+    "url": "https://www.qbitai.com/2026/05/425523.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-05-27T01:14:35",
+    "summary": "“1%是我写的，99%是Agent写的。”",
+    "collected_at": "2026-05-27T02:39:19.077672",
+    "content_text": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时\n梦晨\n2026-05-27\n09:14:35\n来源：\n量子位\n梦晨 发自 凹非寺\n量子位 | 公众号 QbitAI\nDeepSeek研究员\n陈德里\n，在个人博客更新一篇研究综述论文。\n1%是我写的，99%是Agent写的。\n用的是他自己的技能\nDeliAutoResearch\n，DeepSeek-V4-Pro研究和写作，GPT-Image2画图。\n论文共迭代6次（V1：4 次，V2：1 次，V3：1 次），总耗时6天，进行了约108轮Agent调用，消耗64.8万token，写了2234行LaTeX代码。\n103个参考文献，全部已验证。论文现为46页，538KB，含7个图表+4个表格。\n论文讲的是自动研究智能体L1–L5自主度分类体系的事：\n通过分析四大架构模式，给出了可扩展性、成本、可靠性等维度对比。\n并基于六维特征矩阵分析了17个主流系统。\n还提出了六大开放问题与对应研究方向。\n陈德里认为，Code Agent导致计算机科学论文数量疯狂膨胀，同样的工作以前至少需要一个月才能完成。\n但现在，他的碳基大脑处理这个问题的“总CPU时间”不到2小时。\n他也写了一句免责声明：观点仅为个人所有，不代表任何组织。\nDeepSeek研究员与V4 Pro合写的论文\n基础模型推动AI工具从研究辅助转向自主研究，但领域缺乏统一框架、术语混乱、评估标准不一。\n陈德里和它的AI合著者们提出了一个L1-L5的自主分级体系。\n类比自动驾驶的SAE级别，把混乱的AI Agent领域理出了清晰的谱系。\nL1是最基础的自动补全\n，也就是最早的GitHub Copilot，预测你下一行代码。\nL2是任务执行\n，代表是ChatGPT/Claude聊天机器人加上各种工具，能分解任务，但每一步都得人类批准。\nL3是多步骤执行\n，目前最主流的Claude Code、Cursor Agent这种，能自主执行10到100步，只在关键点请求人类审核\nL4是受限领域内全自主执行\n，人类仅提供研究目标、评估最终成果，智能体可完成多步实验、代码、论文撰写，但无法自主选择研究问题。\nL5级是完全自定研究议程\n，智能体可自主选题、分配资源、长期积累知识、跨领域持续研究，是当前未实现的理想状态，核心瓶颈为持续知识积累、可靠自我评估、架构规模化。\n目前行业前沿初步达到L4，L5还只是个设想。\n论文认为真正的瓶颈不是模型能力，而是「持续知识积累」和「可靠自我评估」。\n除了按自主性级别，论文中又按智能体架构总结了4种主流模式。\n早期研究ReAct、Reflexion、LATS、思维树等为代表。单模型迭代推理-行动-观察，简单高效，但复杂任务能力有限。\n早期智能体框架CAMEL、AutoGen、MetaGPT等为代表，特点是分工协作、多视角纠错，成本较高，沟通易混乱。\nClaude Code和Devin等为代表，分层规划、任务分解，适合长时程复杂研究。\nSWE-Agent等为代表，核心工具有代码执行环境、网页浏览、API / 数据库、多模态工具，Agent-Computer Interface（ACI） 的设计直接影响性能。\n论文四种模式不是谁优谁劣，而是针对特定的任务要选择合适的工具。\n如简单短任务选单智能体循环（低成本、易实现）；需要多视角纠错、复杂分工选多智能体协作；长时程、高复杂度研究选分层调度（强规划、易监管）；需要对接外部工具、环境交互选工具增强执行（能力边界由工具决定）。\n但实际应用中，其实多采用混合架构，结合多种模式优势。\n有了研究框架，再横向对比当前常见的17个自主研究智能体，揭示领域已从早期通用脆弱原型，演进为L4级受限域专用系统。代码智能体成熟度最高，科学智能体开始产出可验证新发现。\n而迈向L5完全自主的核心瓶颈在于持续知识积累、可靠自我评估、架构规模化。\n最后，论文中还提出了，六大开放问题：\n认知循环陷阱：智能体陷入重复无效策略，无自我终止能力。\n上下文限制：固定窗口（4K-1M token）无法支撑长时程研究。\n创新性评估：无自动化方法衡量研究原创性与价值。\n可复现性：模型随机性、提示敏感性导致结果无法复现。\n安全伦理：双用途风险、自主提升风险、学术诚信风险。\n成本问题：单任务成本 50，高成本加剧科研不平等。\nOne More THing\n陈德里自述，高强度工作导致的精力不足，让他搁置了很多事。\n博客、写作，现在是Agent让他有机会把这些重新捡了起来。\n除了这篇研究综述，还更新了个人主页。\n有了Agent，这些任务完成起来效率超高。\n人类的角色，从“执行者”变成了“发起者”。\n参考链接：\n[1]\nhttps://x.com/victor207755822/status/2059269472297623843?s=20\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 2156,
+    "content_excerpt": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时\n梦晨\n2026-05-27\n09:14:35\n来源：\n量子位\n梦晨 发自 凹非寺\n量子位 | 公众号 QbitAI\nDeepSeek研究员\n陈德里"
+  },
+  {
+    "id": "0deec91dd688",
+    "title": "最高法：研究制定涉AI案件和数据产权司法保护规范性文件",
+    "url": "https://36kr.com/newsflashes/3826929999434370?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-27T02:34:30",
+    "summary": "今天，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“推进全面依法治国”有关情况。发布会上，最高人民法院审判委员会副部级专职委员、二级大法官刘贵祥表示，人民法院将坚持“两个毫不动摇”，贯彻落实民营经济促进法，依法平等保护各类市场主体合法权益。着力解决利用刑事、行政手段干预经济纠纷，特别是趋利性和违规异地司法等问题，健全常态化防范纠正冤错案件机制。（央视新闻）",
+    "collected_at": "2026-05-27T02:41:39.482551"
+  },
+  {
+    "id": "v2ex-1215781",
+    "title": "自建 AI 中转站，新用户送 $10 永久额度 + 免费订阅套餐，欢迎试用",
+    "url": "https://www.v2ex.com/t/1215781",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-27T00:50:57",
+    "summary": "自己搭了一个 AI API 中转站，支持 OpenAI / Claude / Gemini 等主流模型，按量/订阅 计费，适合日常 API 调用、接 Cursor 、ChatBox 、沉浸式翻译等工具使用。 **新用户福利** - 注册即送免费订阅套餐，无需充值直接可用 - 在本帖评论区留下你的用户 ID ，额外到账 $10 额度，永久有效，不会过期 **适合人群** - 需要稳定 API 中转的开发者 - 日常使用 AI 工具但不想折腾账号的用户 - 想低成本体验多模型的朋友 **注册地址** https://www.trankai.com 加 QQ 群立享优惠：1042331130",
+    "collected_at": "2026-05-27T02:41:41.277048"
+  },
+  {
+    "id": "b4c4da4188b2",
+    "title": "三星正计划在越南建设一座投资15亿美元的存储芯片测试工厂",
+    "url": "https://36kr.com/newsflashes/3826918985224838?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-27T02:23:18",
+    "summary": "据报道，三星正计划在越南建设一座投资15亿美元的存储芯片测试工厂，测试工厂将于2027年11月投入运营。（财联社）",
+    "collected_at": "2026-05-27T02:41:39.482635"
+  },
+  {
+    "id": "82d8e009ac4a",
+    "title": "Did the Pope use AI to write about the dangers of AI?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-27T00:38:11",
+    "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular A",
+    "collected_at": "2026-05-27T02:41:36.017880",
+    "content_text": "It’s possible that AI was used to write parts of Pope Leo XIV’s latest encyclical about AI’s impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nDid the Pope use AI to write about the dangers of AI?\nAnalyses have determined that parts of the Magnifica Humanitas appear to have been written by AI.\nAnalyses have determined that parts of the Magnifica Humanitas appear to have been written by AI.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word “genuinely” — which crops up in writing by Anthropic’s Claude — than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first chapter was flagged as AI generated. When The Verge ran roughly 2,000 words of the document through Pangram, it estimated that 46 percent was AI-written.\nAI detection isn’t foolproof\nStill, other portions register as being written by humans. Zhang notes that Pangram flagged some sections as “essentially 0% AI.” The first 20 paragraphs of the last four encyclicals, when run through Pangram, had a 100 percent confidence of being human written. And a transcript of Pope Leo’s speech, run through Pangram, was also rated as 100 percent human.\nAI detection isn’t foolproof. Different AI detectors can display different results, and even when there’s consensus there’s no guarantee they’re correct. But Pangram is generally respected among AI researchers. In March 2025, Pangram said it estimated its false positive rate of reporting human-written work as AI-generated “to be approximately 1 in 10,000.”\nEncyclicals are lengthy letters published by the pope, meant to impart teachings that address important moral and social challenges of the time, according to The New York Times. This encyclical is the pope’s first, with the most recent one written by Pope Francis in October 2024. It’s also the first to focus on AI and its wide-ranging influences, with Pope Leo notably presenting it alongside Christopher Olah, a co-founder of Anthropic.\nThe Vatican didn’t immediately reply to a request for comment.\nMost Popular\n- Jony Ive’s Ferrari looks nothing like a Ferrari\n- Uber president says AI spending is getting ‘harder to justify’\n- Ferrari reveals its first EV, with design help from Jony Ive\n- Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery\n- Nvidia has retired its GeForce Control Panel app after 20 years",
+    "content_source": "trafilatura",
+    "content_chars": 2641,
+    "content_excerpt": "It’s possible that AI was used to write parts of Pope Leo XIV’s latest encyclical about AI’s impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram.\nDid the Pope use AI to write about the dangers of AI?\nAnalyses have determined that parts of the Magnifica Humanitas appear to have been written by AI.\nAnalyses have determined that parts of the Magnifica Humanitas appear to have been written by AI.\nThe document includes known traits that appear in AI-generated writing, such as a higher use of the word “genuinely” — which crops up in writing by Anthropic’s Claude — than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first chapter was flagged as AI generated. When The Verge ran roughly 2,000 words of the document through Pangram, it estimated that 46 percent was AI-written.\nAI detection isn’t foolproof\nStill, other portions register as being written by humans. Zhang notes that Pangram flagged some sections as “essentially 0% AI.” The first 20 paragraphs of the last four encyclicals, when run through Pangram, had a 100 percent confidence of being human written. And a transcript of Pope Leo’s speech, run through Pangram, was also rated as 100 percent human.\nAI detection isn’t foolproof. Different AI detectors can display different results, and even when there’s consensus there’s no guarantee they’re correct. But Pangram is generally respected among AI researchers. In March 2025, Pangram said it estimated its false positive rate of reporting human-written work as AI-generated “to be approximately 1 in 10,000.”\nEncyclicals are lengthy letters published by the pope, meant to impart teachings that address important moral and social challenges of the time, according to The New York Times. This encyclical is the pope’s first, with the most recent one written by Pope Francis in October 2024. It’s also the first to focus on AI and its wide-ranging influences, with Pope Leo notably presenting it alongside Christopher Olah, a co-founder of Anthropic.\nThe Vatican didn’t immediately reply to a request for comment.",
+    "title_zh": "教皇是否使用人工智能来写人工智能的危险？",
+    "summary_zh": "教皇利奥十四世关于人工智能对人类影响的最新通谕的部分内容可能是用人工智能编写的。根据热门 A 的说法，Linch 张在 LessWrong 论坛上发布的一项分析发现，《Magnifica Humanitas》中的某些段落有 40% 到 10…",
+    "ai_summary": "教皇利奥十四世关于人工智能对人类影响的最新通谕的部分内容可能是用人工智能编写的。根据热门 A 的说法，Linch 张在…"
+  },
+  {
+    "id": "ab937d69eafb",
+    "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+    "url": "https://36kr.com/p/3826390617870984?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-27T00:25:50",
+    "summary": "文｜周鑫雨 邓咏仪 编辑｜张雨忻 硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。 前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员工，有被裁的风险。 不过，当我们在4月末来到硅谷，Meta的朋友带来了故事的后续：榜单上线一个月后，第一名的员工将Token消耗刷到了近50万美金/月，折合近3000亿个Token。 不久后，Meta下架了这个榜单。至于下架原因，公司内没有",
+    "collected_at": "2026-05-27T02:41:39.481679",
+    "content_text": "文｜周鑫雨 邓咏仪\n编辑｜张雨忻\n硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。\n前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员工，有被裁的风险。\n不过，当我们在4月末来到硅谷，Meta的朋友带来了故事的后续：榜单上线一个月后，第一名的员工将Token消耗刷到了\n近50万美金/月，折合近3000亿个Token。\n不久后，Meta下架了这个榜单。\n至于下架原因，公司内没有明确说法，但员工猜测是因为“畸形竞争下消耗的token成本已远超Meta预期”。\n2026年硅谷的开局，很焦虑，很魔幻。\n“你要是半年前来湾区，大家心态还挺不错。”在圣何塞的一家韩国汤饭店，我见到了华人Agent创业者Ryan。\n四周的普通话此起彼伏——随处可见的华人，或是全球Top10大厂的员工，或是跨洋寻机的创业者，他们构成了硅谷AI大军的绝对主力。\n如今，调动湾区华人情绪的，大约是两件事：\n第一件事，是Token-Maxxing焦虑和大幅裁员。\nToken，“AI处理信息的最小单位”，正在代替DAU、GMV等指标，成为硅谷公司的新型攀比维度。\n无论是设置员工Token消耗排行榜，还是慷慨地给予员工“不设限”的Token额度，硅谷厂商都透露出深深的焦虑：没有人想在AI转型中掉队。\n但AI革命的另一面，是让裁员有了冠冕堂皇的理由。继Salesforce年初减员1000人、Amazon宣布今年裁减1.6万个职位后，Meta又对员工“打了个响指”：5月20日开启裁员，比例达10%，波及约8000人。\n第二件事，则是Manus收购案的反转。\n2025年12月30日，数十亿美金的一纸Meta收购文书，曾将Manus捧上“华人创业之光”的神坛。然而，仅仅过去4个月，这场收购就因合规问题，被强制叫停。\n这是局势裂隙下，华人创业者合规焦虑、身份焦虑、生存焦虑的一个缩影。“中国团队-新加坡套壳-美国找钱、找买家”，这一全球套利的经典方法论开始失效。\nRyan直言：To be Chinese or not to be，是创业公司成立Day1就要做出的选择。\n不过，即便光景不复从前，最先进的模型、背靠的全球市场和资源，以及一级市场更多元的钱，让硅谷依然是AI创业的耶路撒冷。\n5月2日，旧金山一家小会场，挤满了近200名华人。这场主题为“Build For the NEXT Wave”的AI创业者沙龙，发布不到3天，门票就显示售罄。\n作为主办方之一，Global AI社区Linkloud的联合创始人钱觐开告诉《智能涌现》，硅谷的华人创业者，普遍比在国内要松弛很多。他记得，不少在国内焦虑的创业者来到硅谷后，都感叹：硅谷的创业环境实在太好！\n“\n在硅谷，创业的容错率很高，一个方向做不出来就迅速pivot（指调整方向），这在硅谷很正常\n，毕竟现在行业变化节奏太快了。”他总结。\n△Palo Alto的Blue Bottle，聚集了不少聊项目的创业者和投资人\n以下，是我们在硅谷看到的有关Token焦虑、裁员阴云、出海创业的图景。Enjoy！\n硅谷大厂的焦虑是什么形状的\n在Meta，我已经不敢写文档了\n在硅谷一众大厂中，Meta常被认为是在AI赛道上还没有找到自己的位置的那一个。而卷Token使用和激进的裁员也让焦虑也在员工中蔓延开来。\n“同事前几天还在和我说，以后都不敢写文档了。”一位Meta员工对《智能涌现》表示。\n硅谷的开放文化正在遭受AI的剧烈冲击。像Meta、Google这样的硅谷巨头，多年以来都实行高度开放的代码共享机制，不同产品线（如WhatsApp、Messenger）间，员工们都可互相查看和复用代码变更，这是为了能够共享好想法，推动业务迅速贴袋。\n但Vibe Coding改写了这一切。\n“如果你把想法写成了共享文档，被其他员工看到，很可能就被别人拿去让Agent进行Coding。”\n上述员工说，一旦做出好产品，提供想法的人就只能获得design credit，而落地的功劳（execution credit）则属于做出产品的员工，后者是晋升的更核心依据。\n组织调整更加激进\n近期，Meta从各个部门强制抽调了超过千名员工，成立新部门——应用人工智能工程部（Applied AI Engineering），主要为如今Meta最炙手可热的MSL实验室（Super Intelligence Lab）提供支持，包括开发AI工具、标注数据、建立评测集等。\n被抽调的员工基本没有活水或者更多选择，这在硅谷的大厂调整中很少见。“在加入这个部门后，很多人就被安排做Label（数据标注）。”上述Meta员工说。\n这是因为，高质量数据依然是目前模型训练的瓶颈，Meta相信，让内部员工做数据，能够更好地反哺模型训练。\n与此同时，Meta还发起了模型能力倡议（Model Capability Initiative），强制在美国员工电脑上安装一款新软件，收集员工们日常操作电脑的所有操作，作为提升模型能力的数据来源之一。为此，Meta的员工发起了激烈的抗议。\n愤怒与焦虑的复杂情绪裹挟着这里的员工：\n“不知道什么时候自己就被替代了，不如回家先学学修水管吧。”\n另一位Meta员工对《智能涌现》说。\n面向扎克伯格创业\n虽然Manus被收购的梦碎了，但在硅谷的华人创业者依然有不小的机会把自己卖给硅谷大厂。\n根据Crunchbase的统计，仅Salesforce、OpenAI和Snowflake三家公司，在过去三年中就完成了35起公开收购交易。\n其中，Meta是鲜少乐于收购华人AI公司的企业，比如由汪滔（Alexandr Wang）成立的Scale AI，以及由英伟达华人研究员王晓龙成立的具身大脑公司Assured Robot Intelligence，均被Meta收入囊中。\n相对的，一名Meta研究员直言对我们表示，Meta“宽松”的收购策略在硅谷一度为人诟病，“近几年收购的公司，很多成立不到一年，没有经历过市场的验证。”\n一名硅谷华人创业者直言：\n“现在硅谷流行面向扎克伯格创业，因为他买公司不那么挑。”\n硅谷式“赛马”\n当我们很自然地想把大厂的焦虑具象化到内部赛马时，却意外发现，在2023年前后入职硅谷大厂的员工，大多对“赛马”这个词感到陌生和不理解。\n在硅谷有一个共识：“赛马本身造成的资源、人才浪费，可能比失败带来的更高。”在圣何塞的一场展会上，Google DeepMind的一名研究员告诉《智能涌现》。\n所以，硅谷大厂的惯常做法是，让\n最聪明的“大脑”相对自由地探索，再给予最大权限的算力支持\n——Claude Code、Nano Banana等项目最初都不在公司的战略规划内，而是来自某位研究员的突发奇想，但在确定为重要方向后，则给予足够支持。\n不搞内部赛马，硅谷大厂的竞赛机制通常是：\n与全球SOTA“赛马”。\n长期以来，英伟达都是Meta的主要芯片供应商。但通过自主研发芯片，摆脱对外部算力供应商的依赖，掌握模型训练和推理的核心环节，一直是Meta的野望。所以，Meta的芯片业务MTIA的目标则定为了“打平英伟达的性能和生态”。\n这场外部竞赛的最终结果，将交给Meta代号为“Avocado”的模型业务评判，胜者将被采购。“被Avocado采购，是MTIA今年的终极目标。”这名创业者总结。\n再比如，在Google内部，DeepMind是唯一被允许可以不限额使用Claude Code、CodeX等竞品模型（为保证数据安全，Google采用了本地化部署）的部门——使用顶尖Coding模型提效的同时，一名Google员工告诉我们，DeepMind意在时刻洞悉对手的变化。\n一把手工程\nDeepMind大楼。\n在Mountain View，你很难不被一幢连绵覆盖液压太阳能屋顶的巨大玻璃建筑吸引。\n一名Google的朋友告诉我们，能在里面办公的，是两种人：一是Google董事级别的高层，二是DeepMind的研究员。放在国内，这种办公模式大概等同于张一鸣常驻Seed办公。\n这种在空间上极度扁平的组织形式意味着：\nAI，已经成为Google的一把手工程。\n在极度开放的Google园区中，这幢楼却几近与世隔绝。朋友提到，Google其他业务的办公楼之间，权限是相通的，员工可以拿工牌刷开任意写字楼的大门。唯独DeepMind Office是个例外。\n“极致专注，极致Bottom-up”\n，一名DeepMind研究员如此概括DeepMind的文化。\nToken-Maxxing进行到哪一步了\n越Token-Maxxing，公司就越先进吗？\n在硅谷，大家对Token-Maxxing已经开始祛魅。\nGoogle一名朋友告诉《智能涌现》，自从公司鼓励非开发者用Antigravity（Google的Coding Agent）做Vibe Coding，部门的代码量膨胀了3-4倍，但验收率也下降了30%。\n2026年Q1，工程管理软件公司Jellyfish收集了7548名工程师的数据。他们也发现，Token消耗量最高的工程师，以10倍的Token成本，仅实现了2倍的产能增长。\n这意味着，\nToken-Maxxing提升的仅仅是代码数量，而不是价值。\nAI增加的隐形管理成本，也往往为人忽略。\n“养了好几只小龙虾，小龙虾之间会打架，谁来管？”一位创业者Sharon已经在不少公司观察到人和Agent间的冲突：一个Agent改了代码，另一个Agent不知道，继续在旧版本上跑；两个Agent同时优化同一段逻辑，还会输出互相矛盾。\n这种情况下，AI提效的价值还没看到，却先变成了一种新的管理负担。\n比起用Token来卷员工，“商人”马斯克更想把Token卖出真金白银\n而在一众Token-Maxxing的硅谷头部大厂中，稍显特殊的是特斯拉。\n几名硅谷大厂朋友告诉我们，\n特斯拉和SpaceX内部，对员工的Token用量有严格的限制。\n至于原因，一位朋友猜测：比起用Token来卷员工，“商人”马斯克更想把Token卖出真金白银。\n“Stop Hiring Humans”\nArtisan AI的广告牌\n一家名为Artisan AI的AI市场营销公司，自2024年起在湾区投放了大量写有“Stop Hiring Humans”的广告牌。\n这句略带警示和挑衅意味的话，在天空中的热气球、拉横幅的直升机、路边大广告牌上随处可见。\n但Artisan AI大举投放的动作很大程度是为了博眼球。Artisan AI CEO Jaspar Carmichael-Jack后续也在博客上承认，这句标语，就是为了引发争议和讨论。\n“湾区是一个表演性质很强的地方。”\n硅谷创业者Ryan评价，“Token-Maxxing、裁员，归根结底都是大厂们展示先进性的表演。”\n同样在天空飘过的标语，还有：SaaS is Dead（SaaS已死）。\n创业者的商机在哪里\n“我快把签证办理干上市了”\n什么是硅谷来钱最快的业务？答案之一，一定有H1-B工作签证办理。\nBase在湾区多年的Neil告诉我，自己面向中国创业者的H1-B工作签代办业务，已经排到了2026年底，“还有人加钱，问我能不能插队加急”。当我问他办签证两年以来，到底赚了多少钱，他故作神秘地告诉我：“我快干上市了。”\n在头部美元基金云集、坐拥斯坦福校园的Palo Alto，年收入达几百万美金的Visa Agency比比皆是。当你在Palo Alto最火的拉面店Nagi排队，转眼就能看到隔壁Visa Agency的硬广：Waiting for ramen？What about your visa？\nPalo Alto的Visa Agency广告\n蓬勃发展的签证业务，微妙指向的是局势的变化：想要来硅谷创业，必须先解决身份问题。\n华人面貌的翻转\n数年前，华人在硅谷创业，会面临一些不宣于口的顾虑——TikTok的前车之鉴下，想要拿到硅谷主流VC的投资，华人身份可能会成为一道坎。\n但在大模型竞争已经常态化的当下，无论在OpenAI、Anthropic这样的明星初创还是巨头，华人都已经是核心AI团队中的重要力量——Meta的Super Intelligence Lab的初始11人团队中，有7位都是华人。\n如今在硅谷创业，理想的团队配置是：华人做技术，美国当地人做销售。“如果AI公司里没有华人创业者，硅谷VC很可能会觉得你不行。”一位创业者笑言。\n硅谷有自己的增长Vibe\n近三个月来，Base在旧金山的海外增长顾问Ying，收到了近10个国内AI应用的Offer，其中不乏估值过5亿美金的明星产品。\n但她最后都拒绝了，理由是：和创始团队聊了之后，发现团队根本不懂硅谷的增长Vibe。\n所谓的硅谷增长Vibe，Ying告诉《智能涌现》，是一种很暧昧、很抽象的气氛，\n“简单来讲，是让目标用户，在Chill的、没有倾略性的氛围中，自然而然成为你的用户”。\n她心目中的增长模范生，是伯克利华人辍学生Allen Wang和Eric Liu创立的AI约会软件Ditto AI。\n如果走在斯坦福校园中，你能在树干、宣传橱窗上看到Ditto AI的传单上醒目地写着：Get a Date Every Wednesday！这一类似“疯狂星期四”的标语，很快在学生群体间病毒式传播。\n去年，Ditto AI还在湾区包了一艘游艇，供用户们约会社交。“包游艇在美国受很欢迎。”Ying提到，“但这是超出很多中国Founder认知的方式，大家也不愿意给预算。”\nTurning Token into Dollars\n4月末，在一场著名的创业者社区活动中，GenSpark在演讲最后大方地给出了Token优惠券：只要扫码，每个人可以领1000 credit。这已经是如今AI创业公司的常见营销动作。\n但2026年，Token的价格与从前不再同日而语。\n一位在Genspark演讲现场的参会者向《智能涌现》回忆他当时的第一反应是：“这到底得撒多少钱啊？”。\nGenSpark的Token券\n“都在讲Token，无一例外。”Linkloud CEO钱觐开表示。4月末，他们在旧金山办的一场活动，就以“Turning Token into Dollars”命名。\n热切讨论商业化，同样是因为Token的价格已经涨到令人吃惊的高位——引领这波Agent浪潮的Anthropic，ARR已飞涨至300亿美金，反超了OpenAI。\nAI的商业模式创新存在吗？短期内可能只是旧商业逻辑的回归\n在硅谷，大家今天仍在卷Token，卷谁更AI native，卷谁的组织改造更彻底。但Token烧到这个程度，一个老生常谈的问题被摆在桌子上：这些成本最后要怎么变成钱？\n一位在硅谷从事多年线上广告的华人创业者Sharon告诉《智能涌现》，AI产品的商业化未必会先长出什么新物种，反而很可能先回到广告这条老路上。\n在他看来，无论是ChatGPT还是豆包，这类产品最终都很难绕开广告，只是眼下还处于克制测试阶段，远没有全面放量。\n“ChatGPT的广告没有任何创新。”Sharon说，OpenAI的广告经过了多种形式的探索，比如用户聊游戏就推游戏广告，最后发现根本做不到精准匹配，还是回到了最传统的竞价逻辑：谁出价高，谁上，在答案下方直接增加一个付费广告位。\n但在他看来，所谓AI时代的新商业模式，至少在广告这件事上，目前只是旧生意换了个新入口。\n来自中国的Token，正在湾区百花齐放\n把国内模型厂商的Token，以更低价格转卖给海外客户，连孙宇晨都在5月推出了中转站新业务B.AI。\n国内Token价格是海外的十分之一到十五分之一，而性能差距不到一半。Sharon说，他的公司每月消耗的云和Token并不多，是连年框都没签的小客户，但已经有国内销售主动来卖国内的Token。\n不过，大家如今都对模型的商业化毫无安全感。模型迭代几乎按月更新，代理商也不敢把钱砸给某一家做核心代理——上个月押注的模型，这个月可能就被新玩家碾过去了。\n此前在全球爆火的Seedance2.0，若要获得企业使用权要与火山引擎签1000万元的年框，只有头部影视公司愿意交这笔费用，但更多人正在观望。\n——\nRyan告诉我，湾区有一种特有的“\n阳光抑郁症\n”：\n每天都是一样的好天气，没有分明的四季，周围的景色几乎一成不变，“一旦生活不改变，人就会陷入循环停滞的空虚和恐慌”。\n所以，“在湾区，人不能停下来，要主动改变”。\n欢迎交流！\n欢迎交流！",
+    "content_source": "readability",
+    "content_chars": 6878,
+    "content_excerpt": "文｜周鑫雨 邓咏仪\n编辑｜张雨忻\n硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。\n前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员工，有被裁的风险。\n不过，当我们在4月末来到硅谷，Meta的朋友带来了故事的后续：榜单上线一个月后，第一名的员工将Token消耗刷到了\n近50万美金/月，折合近3000亿个Token。\n不久后，Meta下架了这个榜单。\n至于下架原因，公司内没有明确说法，但员工猜测是因为“畸形竞争下消耗的token成本已远超Meta预期”。\n2026年硅谷的开局，很焦虑，很魔幻。\n“你要是半年前来湾区，大家心态还挺不错。”在圣何塞的一家韩国汤饭店，我见到了华人Agent创业者Ryan。"
+  },
+  {
+    "id": "v2ex-1215775",
+    "title": "看到小米 AI 降价的消息，这个 Plan 是不是并没有比按量 API 便宜多少？",
+    "url": "https://www.v2ex.com/t/1215775",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-27T00:23:27",
+    "summary": "主要想用在文本处理优化、普通多轮问答、多模态理解，已经有 codex 了，所以不太做编程 Agent 。 我咨询了一下 GPT ，如果只是纯文字普通问答，Token Plan 似乎并没有比直接用 DeepSeek / MiMo 按量 API 省很多，大家有没有实际使用的分享一下体感？ 下面是 GPT 给的一些计算逻辑： 一、官方按量 API 价格 小米 MiMo-V2.5-Pro 最新按量价： - 国内：缓存命中输入 ¥0.025 / M tokens ，未命中输入 ¥3 / M ，输出 ¥6 / M - 海外：缓存命中输入 $0.0036 / M ，未命中输入 $0.435 / M ，输出",
+    "collected_at": "2026-05-27T02:41:41.277662",
+    "content_text": "主要想用在文本处理优化、普通多轮问答、多模态理解，已经有 codex 了，所以不太做编程 Agent 。\n我咨询了一下 GPT ，如果只是纯文字普通问答，Token Plan 似乎并没有比直接用 DeepSeek / MiMo 按量 API 省很多，大家有没有实际使用的分享一下体感？\n下面是 GPT 给的一些计算逻辑：\n一、官方按量 API 价格\n小米 MiMo-V2.5-Pro 最新按量价：\n- 国内：缓存命中输入 ¥0.025 / M tokens ，未命中输入 ¥3 / M ，输出 ¥6 / M\n- 海外：缓存命中输入 $0.0036 / M ，未命中输入 $0.435 / M ，输出 $0.87 / M\n小米 MiMo-V2.5 最新按量价：\n- 国内：缓存命中输入 ¥0.02 / M ，未命中输入 ¥1 / M ，输出 ¥2 / M\n- 海外：缓存命中输入 $0.0028 / M ，未命中输入 $0.14 / M ，输出 $0.28 / M\n这个价格基本贴近 DeepSeek V4：\n- DeepSeek V4-Pro：$0.003625 / $0.435 / $0.87\n- DeepSeek V4-Flash：$0.0028 / $0.14 / $0.28\n所以单看按量 API ，MiMo-V2.5-Pro ≈ DeepSeek V4-Pro ，MiMo-V2.5 ≈ DeepSeek V4-Flash 。\n二、Token Plan 的 Credits 扣费规则\n小米 FAQ 写的是：\nMiMo-V2.5-Pro：\n- 缓存命中输入：2.5 Credits / token\n- 未命中输入：300 Credits / token\n- 输出：600 Credits / token\nMiMo-V2.5：\n- 缓存命中输入：2 Credits / token\n- 未命中输入：100 Credits / token\n- 输出：200 Credits / token\nLite 套餐是 4.1B Credits 。官方例子也写了：用 10M MiMo-V2.5-Pro 未命中输入 token ，会消耗 3000M Credits ，还剩 1100M Credits 。\n按这个比例推，人民币口径下大概可以理解为：\n1B Credits ≈ ¥10 的按量 API 价值。\n因为：\n- V2.5-Pro 输入 ¥3/M ，对应 300 Credits/token ，也就是 300M Credits ≈ ¥3\n- V2.5-Pro 输出 ¥6/M ，对应 600 Credits/token ，也就是 600M Credits ≈ ¥6\n- V2.5 输入 ¥1/M ，对应 100 Credits/token ，也就是 100M Credits ≈ ¥1\n- V2.5 输出 ¥2/M ，对应 200 Credits/token ，也就是 200M Credits ≈ ¥2\n所以我理解是：Credits 的设计基本就是按最新按量 API 价格倒推出来的。\n三、套餐实际价值粗算\n按人民币口径，如果 1B Credits ≈ ¥10 API 价值：\n- Lite：4.1B Credits ≈ ¥41 API 价值\n- Standard：11B Credits ≈ ¥110 API 价值\n- Pro：38B Credits ≈ ¥380 API 价值\n- Max：82B Credits ≈ ¥820 API 价值\n如果对应月费是大约：\n- Lite ¥39\n- Standard ¥99\n- Pro ¥329\n- Max ¥659\n那正常月付的折扣大概是：\n- Lite：¥39 买约 ¥41 API 价值，约省 5%\n- Standard：¥99 买约 ¥110 API 价值，约省 10%\n- Pro：¥329 买约 ¥380 API 价值，约省 13%\n- Max：¥659 买约 ¥820 API 价值，约省 20%\n也就是说，小套餐几乎不省钱，大套餐才有一点批发折扣。这个结论有点超过我的预期，因为“包月 Plan”听起来应该比按量 API 明显便宜很多。\n四、海外社区也有人类似换算\n我看到 Reddit / opencodeCLI 有人按 Lite $6 / 4.1B Credits 计算：\nLite 档下 MiMo-V2.5-Pro 大约是：\n- cache hit input：$0.00366 / M\n- cache miss input：$0.439 / M\n- output：$0.878 / M\n这几乎贴着 DeepSeek V4-Pro：\n- $0.003625 / $0.435 / $0.87\nMax 档 $100 / 82B Credits 才会低一些，大概变成：\n- V2.5-Pro cache miss input：$0.366 / M\n- output：$0.732 / M\n也就是 Max 大概比 DeepSeek / 按量基准便宜 15% 左右。\n五、我的疑问\n- 我这个换算逻辑有没有问题？\n- Token Plan 是不是本质就是“预付 Credits 包”，不是传统意义上的包月订阅？\n-\n如果按量 API 已经这么便宜，Token Plan 对普通用户的意义是不是主要只有：\n- 首购 / 年付 / 自动续费优惠\n- 非高峰 0.8x\n- 避免频繁充值\n- 多模态 + TTS 免费期\n- 对普通多轮问答用户来说，是不是 Lite / Standard 够试水，Pro / Max 只有在稳定高用量且能用完额度时才划算？",
+    "content_source": "trafilatura",
+    "content_chars": 2355,
+    "content_excerpt": "主要想用在文本处理优化、普通多轮问答、多模态理解，已经有 codex 了，所以不太做编程 Agent 。\n我咨询了一下 GPT ，如果只是纯文字普通问答，Token Plan 似乎并没有比直接用 DeepSeek / MiMo 按量 API 省很多，大家有没有实际使用的分享一下体感？\n下面是 GPT 给的一些计算逻辑：\n一、官方按量 API 价格\n小米 MiMo-V2.5-Pro 最新按量价：\n- 国内：缓存命中输入 ¥0.025 / M tokens ，未命中输入 ¥3 / M ，输出 ¥6 / M\n- 海外：缓存命中输入 $0.0036 / M ，未命中输入 $0.435 / M ，输出 $0.87 / M\n小米 MiMo-V2.5 最新按量价：\n- 国内：缓存命中输入 ¥0.02 / M ，未命中输入 ¥1 / M ，输出 ¥2 / M\n- 海外：缓存命中输入 $0.0028 / M ，未命中输入 $0.14 / M ，输出 $0.28 / M"
+  },
+  {
+    "id": "85016d8534a6",
+    "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+    "url": "https://36kr.com/p/3826385821192841?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-27T00:20:58",
+    "summary": "文｜周鑫雨 编辑｜张雨忻 打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态： 这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。 观猹。 “观猹”创始人仲泰告诉我：“这才是AI行业最真实的生态。” 仲泰，一个在AI创业者和开发者群体中并不陌生的名字。这名02年出生、带着黑框眼镜的瘦高男生，“创龄”已高达6年——高三做试题交流平台，大一做考题答疑社群；到2023年，他在AI风口，成立了科技自媒体“特工宇宙”。 仲泰。 而2025年7月上线的AI产品测评社区平台“观猹”，是他投入最大的一次创业。",
+    "collected_at": "2026-05-27T02:41:39.481874",
+    "content_text": "文｜周鑫雨\n编辑｜张雨忻\n打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态：\n这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。\n观猹。\n“观猹”创始人仲泰告诉我：“\n这才是AI行业最真实的生态。\n”\n仲泰，一个在AI创业者和开发者群体中并不陌生的名字。这名02年出生、带着黑框眼镜的瘦高男生，“创龄”已高达6年——高三做试题交流平台，大一做考题答疑社群；到2023年，他在AI风口，成立了科技自媒体“特工宇宙”。\n仲泰。\n而2025年7月上线的AI产品测评社区平台“观猹”，是他投入最大的一次创业。\n和AI项目打交道两三年以来，仲泰试用过不下千个产品。他意识到，能拿到融资、有资源做投放的项目是极少数，“很多项目不是不好，而是没机会被大众看到。”\n做“观猹”的初衷，就来自于一个朴素的想法：\n在融资金额、团队背景之外，重新做一套AI应用的评价体系，让初创公司前期能得到曝光机会。\n为了尽量确保机会的“公平”，“观猹”设计了一套严格的评价机制：\n只有定向受邀，或者通过50道题的线上考试，才能成为有资格写产品点评的“观猹员”；发布的点评必须由真人撰写，并且通过机器和人工的审核；根据“观猹员”的活跃度和获赞数，发布评论的权重也有所不同。\n观猹员考试。\n相对的，项目想要入驻“观猹”，几乎没有门槛。“就算是同质化的项目，我们也很包容。”仲泰告诉《智能涌现》，“最终项目的好坏，我们交给大众用户来评判。”\n在口碑发酵下，上线半年以来，\n“观猹”入驻项目已经达到了近2000多个，“观猹员”数量增加到了近5000个，社区的月活用户数已经有几十万。\nOiiOii、QClaw、Aivilization，以及Paper2Gal等不少项目在这里起步、受到关注，然后获得融资。\n不少人将“观猹”称为“中国版的Product Hunt”，但在仲泰看来，Product Hunt只提供了一条曝光渠道，但初创公司和如今愈发兴荣的OPC（One-Person Company，一人公司）需要的还有更多，比如完善产品基础设施的第三方组件、GTM（go to market）的方法论，以及更实惠的Token资源。\n因此，“观猹”提供了统一登录SDK、统一支付SDK、营销等服务。“对没有产品运营经验的创业者而言，跑通整一套登录、支付、营销体系的学习成本和时间成本是很高的。”仲泰解释。\n此外，还有Token补贴——“观猹”上线了自己的第三方模型集成平台TokenDance，以低廉的渠道价为创业者提供API。\nTokenDance作为平台上唯一的“亏本”项目，仲泰告诉我们，“TokenDance可以不赚钱”\n，毕竟，很多早期创业者很难负担得起Token成本。\n“观猹”想做的事有点太多了，但仲泰觉得没办法不做。越多项目涌现，需要解决的需求就越多。《智能涌现》获悉，近期，\n“观猹”（似一科技）完成了来自红杉中国、华兴资本的种子轮融资。\n红杉中国合伙人公元对智能涌现表示，“观猹是一个超级节点，汇聚了许多年轻创业者和Builders，也是前沿AI产品的发现与分发平台，在这儿能感受到最前沿的信号。期待观猹团队能在不确定性的未来中，能观察到更多新知和洞见。”\n华兴资本CEO王力行在谈及观猹时则表示，“观猹的独特性在于，它站在AI builder与真实用户之间，既接近开发者侧的创新供给，也能感知用户侧的真实反馈。我们看重的是团队对新一代AI应用生态的理解深度和迭代速度。随着AI应用生态不断丰富，观猹有机会在连接产品、用户和商业化路径的过程中，沉淀出自己的平台价值。”\n以下，是《智能涌现》与仲泰有关“观猹”、有关AI创业生态的交流：\n我们在“劫富济贫”\n能被大多数人看到的AI应用，其实是极少数。\n很多团队没有拿到融资，无法负担一些渠道的投放；也有不少技术背景的创业者，不知道怎么做内容、怎么做marketing。所以“观猹”想做的事很朴素：\n重新做一套AI应用的评价体系，让初创公司前期能得到公正的曝光机会。\n中国没有AI产品的点评平台。\n2023年，我就想做一个交流AI的社区，类似于豆瓣或者推特，但当时没什么钱，短期商业化也不明朗，所以一直没做。\n2025年，我找到了一个抓手：先做中国版的Product Hunt，之后再扩展成一个AI产品上新发布与交流的社区。\n选择Product Hunt这样的产品形态，首先在于国内没有这样的AI产品点评平台；其次\n大厂没法做，因为他们自己做了、投资了很多AI产品，不够公正\n，这件事需要第三方平台来做。\n“观猹”提供Token补贴，商业模式主要是广告和渠道费。\n当一个技术团队不知道如何做内容、做marketing，我们的同学会教他。如果产品特别好，我们甚至会免费帮忙推流。\n当产品更成熟一些，我们会提供“观猹”的\n“统一登录”体系\n。“观猹”上的用户，都是非常精准的AI用户，可以直接用观猹账号登录应用，不需要额外用手机号和邮箱注册。\n现在我们也在探索“观猹”的\n“统一支付”服务\n。对于小规模创业团队和一些OPC来说，从产品到商业化，中间涉及的支付、结算、运营流程都有一定学习成本。未来如果通过观猹的支付SDK完成交易闭环，我们作为渠道和服务方，也会收取一定费用。\n最近我们还做了类似OpenRouter的\n模型API聚合平台，TokenDance（词元跳动）\n。我们用Token资助了很多大学生团队，对于他们而言，每天1000多元的Token消耗已经很多了。等他们开始商业化，我们会提供Token的折扣。\n我们可以在Token补贴上亏钱\n，因为对多数早期创业者而言，Token是高消耗的昂贵资源。收入来源则是广告和渠道费。\n目前排行榜上的热门产品，依然是大厂应用占大多数。这是很正常的现象，毕竟大厂产品的成熟度更高，前期用户的使用意愿也会更高。\n但我们倾向于通过建联初创团队和OPC，提供Token等服务让初创产品更完善，得到更多的曝光。\n我们现在就在和大厂合作，赚一些钱，再补贴给开发者，“劫富济贫”（笑）。\n行业最稀缺的资产是“真实”\n关于“观猹”的机制，我们一开始没有想从投票切入，因为\n投票太容易被“操纵”了。\n我们参考了Steam、豆瓣、烂番茄、虎扑等评分网站的机制，最终形成了既能写好评、又能写差评的机制。\n相较于大多数渠道，\n“观猹”的差异化是真实。\n太多虚假的评价、曝光、数据可以靠钱买到，真实反而成了稀缺资源。\n“观猹”社区是一个双边网络，一边是Builder，一边是User。\n如果想让双方都有比较好的留存，就需要一群核心用户，为社区产出客观、高质量的评价和内容。这群用户就是“观猹员”。\n目前，“观猹员”的数量已经扩充到了近5000人。为了把控“观猹员”的质量，我们的审核机制一开始从定向邀请，变成了线上考试，就像B站的入站考试那样。只有通过线上考试，才能获得写项目点评的资格。\n成为“观猹员”也并不意味着可以随意发布点评。平台设置了机器和人工两道审核机制，一旦被发现用AI糊弄，或者点评质量低下，“观猹员”就会被吊销资格。\n我们也在搭建权重机制。根据活跃度、获赞数，“观猹员”发布的点评、给项目的评分，占据的权重会有所不同。\n入驻“观猹”有基础的门槛：纯靠10分钟Vibe Coding出来的项目就不太行。\n过了基础门槛的项目都能上架，但最终平台推不推流，还是会根据项目的热度、评分来评判。这是“观猹”的推荐机制。\n我们不卡copycat，毕竟AppStore也不卡。\n一个产品火了，copycat出现是很自然的。但最终，\n产品好坏与否，用户会做出评判。\nAI产品的存活窗口期只有3个月\nOPC（一人公司）的泡沫有点大。\n大家都在吹泡泡，但没人在真正解决问题。\nOPC对创业者素质的要求很高。ta要足够敏锐，在快速的市场变化中捕捉到机会，并且还要快速做出产品，然后商业化、赚到钱——能跑通这条路径的人很少很少。\n现在“观猹”上入驻只有30%的OPC，其他70%还是相对成熟的公司。\nAI产品的存活窗口期越来越短。\n据我观察，\n一个产品从推出到被忘记的时间，一年前是6个月，现在只有3个月。\n我们一直都在规划一个叫做“AI坟墓”的板块。一些停运的产品，都会被收录进来，大家可以来缅怀，或者分析产品失败的原因。\n失败本身具有记录的价值。\n很多时候失败并不是产品本身的问题，可能是时机的问题、赛道的问题、团队调整的问题。\nVibe Coding门槛变低，让很多小众需求得到了满足。\n比如AI算命，一开始很多人不理解，项目也大同小异。但我翻阅“观猹”评论区后发现，算命的需求也很细分，光方法就分易经、塔罗等等。\n未来AI项目的落地场景会越来越细分。\n现在的黑客松很热闹，但热闹后没有沉淀出一些真东西。\n选手获奖后，其实很快就没人在意产品的动态。我希望“观猹”能够覆盖黑客松的完整链条，包括后续项目的服务、资源对接等落地相关的服务。\n现在各个初创团队pivot（指调整创业方向）的速度越来越快，因为基模的能力还在高速迭代。\nPivot是正常现象，或者说是一件“好事”。\n这意味着创业试错的成本在降低。\n早期项目的困境，在于没有渠道匹配到种子用户\n国内大多AI产品都没有太多用户，平均就\n两三万。\n产品要持续迭代、持续融资，都离不开种子用户。\n不少早期OPC来“观猹”，就是为了获取早期的种子用户。我们也在规划相关的服务模式。未来，通过算法加上一定的人工，“观猹”上的项目可以匹配到至少1000个种子用户。\n因为根据“1000铁粉（1000 True Fans）”理论，项目不需要让全世界都喜欢，\n只要拥有1000个愿意真正支持你的用户，理论上就能养活自己。\n现在有一种论调：传统软件已死，App已经没意义了，大家都会用personal agent调用skill。\n我认可这是一种趋势，但还很遥远。放眼更大的C端群体，其实大家对Vibe Coding的了解还很基础，这个市场还需要被教育。大部分人的操作习惯还在App上，ta的需求也到不了使用龙虾（OpenClaw）的级别。\n所以至少3-5年内，我认为AI软件还是会迎来大爆发。短期内，各种AI生产类工具会跑得更快。但AI+泛娱乐领域，其实还存在不少融了很多钱、但还在探索的公司，里面还有很大的机会。\nSkill存在相当多的非共识。\n一部分人认为Skill是偏过渡态的东西，会被下一代的模型能力吞噬掉。\nSkill Market也存在非共识。\n个人的经验能不能被AI很好地“蒸馏”？尤其是工作流非常复杂的情况下。这会影响Skill的质量和定价。\n与此同时，不少人也不希望面向市场公开自己的经验。\n一旦形成共识，机会都是大厂的。\n只有存在足够多的非共识才好玩。\n好消息是，目前AI行业的共识和非共识，每隔一两个月就会变。\n近期我们团队聊的比较多的非共识是：To A（To Agent）产品的机会到底是AI-Native创业团队的，还是飞书、WPS等老牌软件团队的？\n支持前者的人认为，传统软件是设计给人用的，再怎么想兼容Agent，文档格式也无法完全变成Markdown（一种对AI系统友好的语言格式）。\n支持后者的人则觉得，飞书等软件厂商有相当的用户基础，在把握用户心智上有优势。\n眼下三到五年，\n真人的链接和社交还是很重要的。\nAgent、世界模型、机器人，都太遥远了，AI还没到真正破圈的程度。\n因此，“观猹”会把很大的精力放在社区的运营上。未来我希望能建立三个用户心智：\nBuilder第一时间会想到来“观猹”上架产品；\nUser第一时间会想到来“观猹”获得AI的前沿资讯；\n“观猹”会成为AI产品的活跃社区，大家愿意相信上面的评分是公正客观的。\n欢迎交流！",
+    "content_source": "readability",
+    "content_chars": 4829,
+    "content_excerpt": "文｜周鑫雨\n编辑｜张雨忻\n打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态：\n这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。\n观猹。\n“观猹”创始人仲泰告诉我：“\n这才是AI行业最真实的生态。\n”\n仲泰，一个在AI创业者和开发者群体中并不陌生的名字。这名02年出生、带着黑框眼镜的瘦高男生，“创龄”已高达6年——高三做试题交流平台，大一做考题答疑社群；到2023年，他在AI风口，成立了科技自媒体“特工宇宙”。\n仲泰。"
+  },
+  {
+    "id": "1e2ebecf46ce",
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-26T22:32:56",
+    "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+    "collected_at": "2026-05-27T02:41:35.868363",
+    "content_text": "Last week, after Google announced its huge\noverhaul to Search\n, I overheard a woman on the phone saying she was switching to DuckDuckGo because you can “opt out of using AI.”\n“Google just isn’t Google anymore,” she said. It seems that others had the same idea.\nAt I/O, Google’s annual developer conference, the company said its traditional list of blue links is being replaced by an AI agent that answers queries, executes tasks, and runs background monitoring agents.\nThe backlash has been sharp.\nSome have argued it will\nkill the open web\n, while others shared concerns that AI overviews\nsurface inaccurate responses\nand take away control from users who might not want to use AI. It also overcomplicates simple things. Just try to Google the word “\ndisregard\n.”\nIn response to Google’s changes, many have begun defecting to DuckDuckGo, a privacy-focused alternative that has never been able to break past Google’s dominance, accounting for only around 2% of the\nU.S. search market\n.\nDuring Google’s\nsearch antitrust\ntrial in 2023, DuckDuckGo CEO Gabriel Weinberg\ntestified\nthat Google’s exclusive default search contracts harmed its ability to pitch itself as the default on other browsers.\n“Google is force-feeding AI with no way to opt out,” Weinberg said Tuesday in a statement, referring to Google’s Search overhaul. “As a result,\ntheir results are getting worse, not better\n. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.”\nNow it seems that DuckDuckGo is beginning to benefit as consumers flee AI.\nDuckDuckGo said U.S. app installs went up 18.1% week-over-week on average during the May 20 to May 25 period, compared to May 13 to May 18. The company said that growth was sustained for six consecutive days and peaked at 30.5% on May 25. On iOS, the rate of install is even higher, with week-over-week growth hitting a 33% average, peaking at 69.9%.\nThe search engine also said visits to its AI-free search page,\nnoai.duckduckgo.com\n, averaged 22.7% WoW growth, peaking at 27.7% on May 24. The page turns off every AI feature, like AI-assisted answers and AI-generated images, by default.\nThe company said the trend is stronger in the U.S., and that DuckDuckGo continued to gain users over the Memorial Day weekend, when it usually sees a dip in traffic.\nDuckDuckGo offers its own AI product called\nDuck.ai\n. It’s free and doesn’t require users to make an account but provides\naccess to models\n, including Anthropic’s Claude 4.5 Haiku, Meta’s Llama 4 Scout, Mistral’s Small 3 24B, and OpenAI’s GPT-5 mini. All chats are private because DuckDuckGo strips the user’s IP address before requests reach model providers, deletes conversations within 30 days, and prevents chats from being used for training.\n“Not only do we respect user choice, but also user privacy,” Weinberg said. “Everything you do in DuckDuckGo is private; we don’t collect search histories or chats and nothing is used for AI training.”\nDuckDuckGo also offers Search Assist, which is similar to Google’s AI overviews, and an AI Image Filter that filters out AI-created images from search results.\nKamyl Bazbaz, DuckDuckGo’s chief communications and policy officer, said both of those AI features are among the company’s most popular, despite their differing ethos.\n“People just want a choice,” Bazbaz said.\nTechCrunch has reached out to Google for comment.",
+    "content_source": "readability",
+    "content_chars": 3396,
+    "content_excerpt": "Last week, after Google announced its huge\noverhaul to Search\n, I overheard a woman on the phone saying she was switching to DuckDuckGo because you can “opt out of using AI.”\n“Google just isn’t Google anymore,” she said. It seems that others had the same idea.\nAt I/O, Google’s annual developer conference, the company said its traditional list of blue links is being replaced by an AI agent that answers queries, executes tasks, and runs background monitoring agents.\nThe backlash has been sharp.\nSome have argued it will\nkill the open web\n, while others shared concerns that AI overviews\nsurface inaccurate responses",
+    "title_zh": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30%",
+    "summary_zh": "Google 在 I/O 2026 上彻底改革了搜索，用 AI 代理取代了蓝色链接。反弹很快。随着用户寻找出路，DuckDuckGo 应用程序安装量激增 30%",
+    "ai_summary": "Google 在 I/O 2026 上彻底改革了搜索，用 AI 代理取代了蓝色链接。反弹很快。随着用户寻找出路，Duck…"
+  },
+  {
+    "id": "336256f5c435",
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-26T19:50:33",
+    "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+    "collected_at": "2026-05-27T02:41:36.344297",
+    "content_text": "Millions of AI agents and tools around the world have been imperiled by a critical vulnerability that can allow hackers to breach the servers running them and make off with sensitive data and credentials to third-party accounts, a security researcher is warning.\nThe vulnerability is present in Starlette, an open source framework that its developer says receives 325 million downloads per week. Thousands of other open source projects are also vulnerable because they require Starlette to work. The framework is an implementation of the ASGI (asynchronous server gateway interface), which allows large numbers of requests to be efficiently processed simultaneously. Starlette is the base of FastAPI and other widely used frameworks for building services in Python apps, as well as many others.\nTrivial to exploit, millions of servers exposed\nASGI, and by extension Starlette, have access to servers running the MCP (model context protocol), which allows AI agents from major providers to access external sources, including user data bases, email and calendar accounts, and all manner of other resources. To connect with these external systems, MCP servers store credentials for each one, making them especially valuable storehouses for attackers to breach.\nThe vulnerability, tracked as CVE-2026-48710 and under the name BadHost, is trivial to exploit and works against most systems that aren’t behind a properly configured firewall. Besides FastAPI, other widely used packages—including vLLM, and LiteLLM—are also affected. BadHost affects Starlette versions prior to 1.0.1, which was released Friday.\n“A single character injected into the HTTP Host header bypasses path-based authorization in Starlette, the routing core of FastAPI,” researchers from Secwest wrote. “Through FastAPI, this primitive (now tracked as CVE-2026-48710 and branded BadHost by the discoverers) reaches a large segment of the Python AI tooling ecosystem: vLLM (where the bug was discovered), LiteLLM, Text Generation Inference, most OpenAI-shim proxies, MCP servers, agent harnesses, eval dashboards, and model-management UIs.”\nBadHost carries a severity rating of 7 out of 10. Secwest said the classification “materially understates” the threat it poses to people using other apps that depend on Starlette. X41 D-Sec, the security firm that discovered it, described it as having “critical severity.” X41 D-Sec partnered with fellow security firm Nemesis to create an online scanner that can check if a given server is vulnerable.",
+    "content_source": "trafilatura",
+    "content_chars": 2508,
+    "content_excerpt": "Millions of AI agents and tools around the world have been imperiled by a critical vulnerability that can allow hackers to breach the servers running them and make off with sensitive data and credentials to third-party accounts, a security researcher is warning.\nThe vulnerability is present in Starlette, an open source framework that its developer says receives 325 million downloads per week. Thousands of other open source projects are also vulnerable because they require Starlette to work. The framework is an implementation of the ASGI (asynchronous server gateway interface), which allows large numbers of requests to be efficiently processed simultaneously. Starlette is the base of FastAPI and other widely used frameworks for building services in Python apps, as well as many others.\nTrivial to exploit, millions of servers exposed\nASGI, and by extension Starlette, have access to servers running the MCP (model context protocol), which allows AI agents from major providers to access external sources, including user data bases, email and calendar accounts, and all manner of other resources. To connect with these external systems, MCP servers store credentials for each one, making them especially valuable storehouses for attackers to breach.\nThe vulnerability, tracked as CVE-2026-48710 and under the name BadHost, is trivial to exploit and works against most systems that aren’t behind a properly configured firewall. Besides FastAPI, other widely used packages—including vLLM, and LiteLLM—are also affected. BadHost affects Starlette versions prior to 1.0.1, which was released Friday.\n“A single character injected into the HTTP Host header bypasses path-based authorization in Starlette, the routing core of FastAPI,” researchers from Secwest wrote. “Through FastAPI, this primitive (now tracked as CVE-2026-48710 and branded BadHost by the discoverers) reaches a large segment of the Python AI tooling ecosystem: vLLM (where the bug was discovered), LiteLLM, Text Generation Inference, most OpenAI-shim proxies, MCP servers, agent harnesses, eval dashboards, and model-management UIs.”\nBadHost carries a severity rating of 7 out of 10. Secwest said the classification “materially understates” the threat it poses to people using other apps that depend on Starlette. X41 D-Sec, the security firm that discovered it, described it as having “critical severity.” X41 D-Sec partnered with fellow security firm Nemesis to create an online scanner that can check if a given server is vulnerable.",
+    "title_zh": "数以百万计的人工智能代理受到开源包中严重漏洞的威胁",
+    "summary_zh": "“BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次",
+    "ai_summary": "“BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次"
+  },
+  {
     "id": "1ab37a271eb8",
     "title": "OpenRouter more than doubles valuation to $1.3B in a year",
     "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
@@ -191,6 +366,24 @@
     "published": "2026-05-26T12:25:33",
     "summary": "Spotify联合首席执行官亚历克斯·诺斯特伦为公司布局人工智能生成音乐业务作出辩护，他表示，合规管控下的相关产品，要优于目前网络上泛滥的、缺乏监管的劣质AI音乐内容。本周四，Spotify与环球音乐集团达成合作。根据协议，平台用户可利用AI对签约艺人的歌曲进行翻唱与二次混音创作。（新浪财经）",
     "collected_at": "2026-05-26T14:51:11.211734"
+  },
+  {
+    "id": "c29a5ddb8414",
+    "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+    "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-26T12:08:33",
+    "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 252 # Comments: 277",
+    "collected_at": "2026-05-27T02:41:37.620250",
+    "content_text": "Outsourcing plus LocalAI will soon become more economical vs Frontier labs\nMay 26, 2026 • Max Trivedi\nTl:Dr:\nThis essay is an attempt to answer at which point it becomes more economical to hire an engineer in a cheaper country and give them DeepSeek/local-AI API key vs using Frontier closed-source LLMs and concludes that at the very least, this dynamic puts a price ceiling on the frontier lab offerings. We use DeekSeek as a proxy for localAI costs.\nWe keep hearing that the inference costs are supposed to be on a downward trajectory but they are evidently not, not for the frontier US labs anyways.\nGPT 5.5 ($5/$30) that released less than 2 months after GPT-5.4 doubled the API pricing across the board. GPT 5.5 costs over 3x of what GPT-5 cost 8 months ago ($1.25/$10).\nGemini 3.5 Flash ($1.50/$9.00) tripled the API pricing across the board over its predecessor Gemini-3-flash-preview ($0.50/$3.00) which was already price-hiked from its predecessor 2.5 Flash (0.30/$2.50)\nAnthropic released Opus-4.7 with a new tokenizer that effectively increased the token consumption by 32% to 47% over its immediate predecessor Opus-4.6.\nHow do the frontier OSS and closed source models compare\nFor this comparison, we used a ‘blend token consumption ratio’ that assumes that for every 1M input (plus cached) tokens, there are 50k output tokens (just under 5%). This is a conservative estimate if anything since large agentic loops are dominated by reads due to the large number of turns.\nThen we take the caching into account for each provider (source: openrouter.ai) and compare the average blend price per million agentic tokens.\nProvider\nInput Price ($/1M)\nOutput Price ($/1M)\nCache Hit Rate\nAnthropic\n$1.57\n$25.00\n79.6%\nOpenAI\n$1.30\n$30.22\n84.8%\nDeepSeek\n$0.055\n$0.870\n88.1%\nAnthropic:\n$1.57 + $1.25 = $2.82\nOpenAI:\n$1.30 + $1.5 = $2.80\nDeepSeek:\n$0.05 + $0.0435 = $0.094\nThe current closed source frontier models are more capable than the latest from DeepSeek. But is the capability difference enough to justify a 30x price difference?\nWhen combined with a decent human engineer, the OSS LLMs don’t need to be frontier, they just need to be good enough for coding use-cases which they already are.\nToken Consumption Trend\nThe precise data is hard to find but the tokenmaxxing trend has only accelerated in recent months and years (\nhttps://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/\n). Every good engineer I know agrees that it is stupid to goal on the tokenmaxxing but that’s a conversation for another essay. For better or worse, the token consumption has massively gone up (as is also evident by persistent shortage of GPUs).\nSo, we have a rising token consumption combined with rising per token pricing, as the US frontier labs push to capture more value.\n(Human + an almost frontier LLM) vs Frontier LLM\nWe wrote a very long essay comparing human engineers vs AI agents on 12 different axis (\nhttps://www.signalbloom.ai/posts/why-task-proficiency-doesnt-equal-ai-autonomy/\n). The conclusion was that AI agents already overtook humans in coding and soon will overtake in scoped debugging but the for the other important skills required for good engineering (or being a good independent agent on anything), AI is still quite behind and the current statistical architecture will need to be augmented or replaced with some other breakthrough to solve problems. Some examples: long-term memory, Meta memory (being able to tell with certainty what you know and what you don’t), Evidential Sufficiency Assessment (whether there is enough evidence to act) and so on.\nThe present generation of frontier LLMs are exceptionally good at task handling, but task efficiency does not mean AI autonomy.\nPossible future directions\nGetting to the main point of this essay, below is a chart projecting at what point does an engineer in a cheaper country + a capable enough model become a better value for money than the top frontier model.\nFrontier inference vs. cheap engineer + DeepSeek\nMonthly cost over time, as token consumption, salaries, and model prices shift\nFrontier model (inference only)\nEngineer + DeepSeek\nOpinion\nThere are obvious simplistic assumptions in this chart such as the future price of the inference, the token consumption trends and more. There is also reflexivity - the actors in any market change their own behavior based on what they observe in the market. All of those are hard to factor in.\nWe have also ignored the fact, which would have made the comparison even more appealing to local models, that local models are getting better at a dizzying pace and more and more inference hardware is coming online in the coming months/years.\nHowever, the deeper point we are trying to make is, the AI’s rising costs can only go so far before they become a concerning cashburn for enterprises and become a significant portion of the overall spend. This keeps a ceiling on how much or how fast the frontier labs can raise prices.",
+    "content_source": "readability",
+    "content_chars": 4967,
+    "content_excerpt": "Outsourcing plus LocalAI will soon become more economical vs Frontier labs\nMay 26, 2026 • Max Trivedi\nTl:Dr:\nThis essay is an attempt to answer at which point it becomes more economical to hire an engineer in a cheaper country and give them DeepSeek/local-AI API key vs using Frontier closed-source LLMs and concludes that at the very least, this dynamic puts a price ceiling on the frontier lab offerings. We use DeekSeek as a proxy for localAI costs.\nWe keep hearing that the inference costs are supposed to be on a downward trajectory but they are evidently not, not for the frontier US labs anyways.\nGPT 5.5 ($5/$30) that released less than 2 months after GPT-5.4 doubled the API pricing across the board. GPT 5.5 costs over 3x of what GPT-5 cost 8 months ago ($1.25/$10).\nGemini 3.5 Flash ($1.50/$9.00) tripled the API pricing across the board over its predecessor Gemini-3-flash-preview ($0.50/$3.00) which was already price-hiked from its predecessor 2.5 Flash (0.30/$2.50)\nAnthropic released Opus-4.7 with a new tokenizer that effectively increased the token consumption by 32% to 47% over its immediate predecessor Opus-4.6.\nHow do the frontier OSS and closed source models compare\nFor this comparison, we used a ‘blend token consumption ratio’ that assumes that for every 1M input (plus cached) tokens, there are 50k output tokens (just under 5%). This is a conservative estimate if anything since large agentic loops are dominated by reads due to the large number of turns.",
+    "title_zh": "与前沿实验室相比，外包加上本地人工智能很快就会变得更加经济",
+    "summary_zh": "文章网址：https://www.signalbloom.ai/posts/outsource-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ 评论网址：htt…",
+    "ai_summary": "文章网址：https://www.signalbloom.ai/posts/outsource-plus-localai…"
   },
   {
     "id": "6621d7b948d3",
@@ -440,19 +633,18 @@
     "content_excerpt": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升\n量子位的朋友们\n2026-05-26\n14:52:33\n来源：\n量子位\n5月21日，以“数据觉醒，存力跃迁”为主题的2026华为创新数据基础设施论坛在巴黎举行。华为公司副总裁、数据存储产品线总裁袁远发表主题演讲，正式发布AI DC数据基础设施全栈方案，加速行业智能化跃升。\n华为公司副总裁、数据存储产品线总裁袁远\n当下，AI正深刻改变企业运营模式。Agent加速普及，成为新型数字生产力主体，逐步成长为企业的常态化“数字员工”；同时，AI应用持续深化，企业Token消耗量迎来爆发式增长。袁远指出，\n企业要加速AI落地，需推动现有IT架构向AI DC数据基础设施快速演进，围绕数据湖、知识与记忆平台、算力、模型、Agent框架与数据韧性等核心方向，开展系统性规划与建设。"
   },
   {
-    "id": "749794f573b0",
-    "title": "营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会",
-    "url": "https://36kr.com/p/3824179485233541?f=rss",
-    "source": "36氪",
+    "id": "v2ex-1215490",
+    "title": "儿童节抽奖加送书：四博 AI 小黄鸭 50 元一个，留言送《四博 AI 开发宝典》",
+    "url": "https://www.v2ex.com/t/1215490",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-26T02:44:02",
-    "summary": "从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。 2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。 以下为演讲内容，经36氪整理编辑： 李世尊丨集思科技CEO 大家好，我是集思科技李世尊。简单介绍一下集思科技，以及我们在营销领域做的事——通过从用AI到管AI，实现十倍提效。 集思科技一直专注于AI销售，可以理解为做AI Sales，用Agent的方式帮助B端客户，尤其是品牌零售业的客户去面对他们",
-    "collected_at": "2026-05-26T09:40:41.839999",
-    "content_text": "从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。\n2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。\n以下为演讲内容，经36氪整理编辑：\n李世尊丨集思科技CEO\n大家好，我是集思科技李世尊。简单介绍一下集思科技，以及我们在营销领域做的事——通过从用AI到管AI，实现十倍提效。\n集思科技一直专注于AI销售，可以理解为做AI Sales，用Agent的方式帮助B端客户，尤其是品牌零售业的客户去面对他们的消费者。我们率先发明了数字人直播带货，2022年2月28日，三八女人节的第一天，在京东平台首发了38个美妆数字人直播间，当时叫“京小美空降美妆大牌直播间”。到现在，帮助客户累计实现了超过60亿的GMV，短短三年多时间内，服务C端消费者超过三千万次。我们在这个行业里发布了非常多先进的功能和能力，现在很多数字人已经不需要真人出镜，完全用AI捏出来，纯AI生成的数字IP。后面我会用大型品牌的实际案例来具体讲解。\n我们是一家 to B to C 的公司，今天是产业大会，在座有很多零售行业潜在的合作伙伴。我们有能力帮助你们去面对你们的C端消费者，在官网、渠道都可以，全渠道帮助品牌做这件事。京东是第一家，我们是京卓越的合作伙伴；淘宝是淘拍档的合作伙伴；Shopee是首批，我们在2024年11月份和Shopee官方一起在台湾率先发布了第一个官方的数字人直播间，服务当时的欧莱雅。我们已经是很多全球领先零售型集团的生成式AI服务商，比如LVMH，我们很长时间是他们全球唯一的生成式AI服务商，目前仍然是唯二的两家。像雅诗兰黛、欧莱雅、宝洁，我们是他们北亚地区的服务商；雀巢、Diageo等，我们是他们全球生成式AI的服务商。我们把中国的技术和场景理解带到全球产业里，服务品类非常多，涉及美妆、服饰、奢品、母婴、个护、食品 、家电及数码。\n媒体报道，去年年中开始出海，东南亚将近100个客户，花了不到半年时间，增速非常快。我们带给他们的不单是AI技术，而是通过AI把国内所有的know-how理解并AI化，变成AI化产品带到东南亚，让他们的直播带货水平或销售水平从原来真人只能做到五六十分，直接变成八十分的水平。\n接下来是我们为品牌做的AIGC案例。\n大家理解的AIGC，就是AI生成的内容，AIGC用在哪些地方？今天主要聚焦在营销内容，由数字员工主要产出这类内容。内容模态无非是文字、图片、视频、直播，直播还带着交互。大家关注的是产出这些东西时视觉IP的一致性怎么样，用途包括TVC、千川投放物料、品宣视频，大型品牌已经开始用AI做明星的广告代言了。\n我们做的海外品牌demo。这是北美非常流行的巴拿马风，我们为它做了TVC。所有案例分享在右边的破折号后面都有模态、内容用途。视频TVC，现在已经签约了二三十条，未来三个月内就要服务他们在TK上的所有投放，包括线下屏幕，尤其在佛罗里达，有特别大的线下投放。这是商品主图视频，人物IP，这个女孩叫koko，获得了亦庄政府颁发的第二张数字人身份证，即将拿到中国第一个数字钱包，作为Agent拿到数字钱包。\nkoko拿到了亦庄颁发的身份证，也是工信部唯二认可的数字人。未来中国所有的数字人背后都会有一个ID，来管控你的内容，我们的koko是有身世的。\n有些朋友关注到，五六年前Facebook改名Meta，也就是元宇宙。那时候造出了非常多基于计算机动画生成的IP，比如柳夜熙这样的，需要大量的故事线来扶持出一个IP。但在AIGC的支持下，这个短片里，如果我不告诉大家这是捏出来的人，大家会认为这是真人。现在技术的发展，造就了IP的无限可能性，不需要非常多的包装。本质上人类是非常高级的动物，可以对同种族一见钟情，但对米老鼠我得看30集才能喜欢上这个角色，那是故事线包装出的人格。现在技术造就了无限的IP可能。品牌端打造这些IP，可以作为KOC或者influencer。\nkoko在现场是不存在的，领导“吕局”是现实存在的，跟koko一起生成了虚实结合的短视频。koko也做了线下活动的展示，我们还成为经开区首位数字普法宣传员，前几天在区内进行普法宣传。\nkoko可以覆盖多种模态，可以做图，IP保持一致还可以做视频，还可以做直播。本质上，每一个品牌最好的销售、最好的宣传员就是创始人本人。创始人拥有企业的所有上下文，把上下文沉淀了，视觉也沉淀了，来打造一个立体的人物，还可以做所有实时交互。我们用koko这个AI IP，为我们的客户做了展示可能性的短片，这些短片可以实时直播，跟现在做的数字人是一样的。\n这是给另一个国外品牌做的数字人IP，我很难看出是一个假人，这些衣服、鞋都是真实存在的。我们欧洲的客户很喜欢这样的概念，不单是概念，确实有营销流量。我觉得不需要有一个人飞到希腊去拍这个短片，同时也不需要浪费这双鞋，AIGC可以做到这个事情。\nCastar是我们主做视频的产品。这是一个视频品宣明星IP，这个明星叫慈世平，跟中国的姚明是原来火箭队的队友，后来也是科比的队友。他的公司叫作37 Partners，我们集思科技也是股东之一，一起展开了非常多合作。\n我们也帮助他用他的IP在菲律宾做了一场直播，可以说是AI明星的首秀。联合了安踏、李宁、361度、VIVO、三星，当天直播间冲到了全国榜的第二名。\nAI直播是我们的第一条曲线。直播业务，刚开始做就选了一个最难的，要交互，要多模态，讲什么内容、什么时间讲什么。我们现在服务七百多家客户，一千多个直播间。这是我们跟Burberry在天猫、京东上做的。\n各种语言，当地方言都完全没有问题，正式语言、大类语言也都没有问题。这是我们给欧莱雅集团做的行业落地典范，2022年4月份服务他第一个品牌，到现在他全网所有品牌都由集思科技全面提供AI直播服务，已经做了第四个年头。我们能做明星，也可以做签约投放。在座很多创始人都知道投放是非常大的预算，让自己投放数据的KOL去做符合心仪的内容，经常要调很多版。对KOL来说也是很大的负担，比如要求这个红人去冰岛拍片子，时间成本、经济成本都非常大。现在完全可以制作一个自己的分身，去任何想去的地方，穿各种想穿的衣服，一切皆有可能。\n除了人，也可以做吉祥物，给亦庄的小亦也做了IP。很多品牌有自己的吉祥物，小狐狸，我们就做了她跟吉祥物的互动，包括波司登跟小熊，也是跟吉祥物的互动，虚实结合。\n这些案例在过去的时间里，除了AI直播，很多视频都是用AI的方式去捏，人加工具，最后等于大家看到的结果。我们从今年年初开始到现在，尝试用管AI的方式，把它变成我给它输入一个命令，它就能把所有的环节走完，反复执行，达到满意的效果。2023年大家就提Agent元年，今年才是营销内容上Agent可以立马落地应用到每一个企业里。内部也喊了口号：用AI的人是不用AI的人的十倍，管AI的人是用AI的人的效率的十倍，本质上就是一百倍的区别，这是指数级增长。\n创始人是一个企业里最能够卖东西的，并不是因为他非常努力、能熬夜、非常拼，屁股坐在那个位置，而是说他懂品牌里的上下文，我们认为这是最重要的。不单是视觉IP一致性，更是品牌IP一致性。这个IP是你的数字资产、智力资产，智力资产有没有沉淀到你的平台里，是沉淀在飞书上还是钉钉上，还是沉淀在本地管理里？我们希望帮助品牌、零售型企业做到沉淀上下文，尤其是面对C端消费者，持续累计相关信息，持续更新、持续维护。\n大家可能都忽视了企业的上下文。来了一个新员工，如果不做培训，不做前一个月的讲解，他很难理解企业在做什么，很难快速上手。我们内部也把上下文这件事放到第一高的优先级，通过软件服务客户的时候，也帮他们把上下文整理得更加简洁、没有冲突。这是今年最大的任务。视觉任何一个团队都能做得相对不错了，上下文是非常核心的地方，我们认为AI等于结果最核心的问题就是上下文。\n集思科技以用户为核心，持续为零售品牌交付结果。这是我的微信，大家也可以加微信，多多探讨。\n谢谢大家！",
+    "published": "2026-05-26T02:50:59",
+    "summary": "## 儿童节抽奖加送书：四博 AI 小黄鸭 50 元一个，留言送《四博 AI 开发宝典》 儿童节到了，四博 AI 小黄鸭做一次限时活动。 这是一款基于四博 AI 方案打造的小黄鸭 AI 硬件，适合开发者学习 AI 硬件开发，也适合作为儿童节小礼物。可以用来体验语音交互、AI 对话、硬件开发、烧录调试等功能。 本次活动价：**50 元一个** 活动截止时间：**2026 年 6 月 1 日晚上 12 点前** 留言即可领取刚整理完成的 **《四博 AI 开发宝典》**，里面包含四博 AI 相关开发资料、使用说明和上手参考。 购买链接： [https://item.taobao.com/item.",
+    "collected_at": "2026-05-27T02:41:41.277123",
+    "content_text": "儿童节抽奖加送书：四博 AI 小黄鸭 50 元一个，留言送《四博 AI 开发宝典》\n儿童节到了，四博 AI 小黄鸭做一次限时活动。\n这是一款基于四博 AI 方案打造的小黄鸭 AI 硬件，适合开发者学习 AI 硬件开发，也适合作为儿童节小礼物。可以用来体验语音交互、AI 对话、硬件开发、烧录调试等功能。\n本次活动价：50 元一个 活动截止时间：2026 年 6 月 1 日晚上 12 点前\n留言即可领取刚整理完成的 《四博 AI 开发宝典》，里面包含四博 AI 相关开发资料、使用说明和上手参考。\n购买链接： https://item.taobao.com/item.htm?id=927846834641\n儿童节抽奖规则\n为了感谢大家支持，本次将从评论中抽取幸运用户。\n中奖规则如下：\n- 截至 2026/06/01 24:00 前的评论为有效评论。\n- 中奖楼层计算方式：\n中奖楼层 =（ 2026/06/02 上证指数收盘价 6 位整数 × 1005 % 有效楼层数）+ 1\n说明： 因为活动截止时间是 6 月 1 日晚上 12 点，为避免 6 月 1 日下午收盘价提前已知，使用 6 月 2 日上证指数收盘价 作为随机依据，更公平一些。\n资料地址\n硬件生产资料及烧录资料：\n提取码：\nasqg\n开源地址： https://github.com/SmartArduino/DOIT_AI",
     "content_source": "trafilatura",
-    "content_chars": 3358,
-    "content_excerpt": "从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。\n2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。\n以下为演讲内容，经36氪整理编辑：\n李世尊丨集思科技CEO\n大家好，我是集思科技李世尊。简单介绍一下集思科技，以及我们在营销领域做的事——通过从用AI到管AI，实现十倍提效。\n集思科技一直专注于AI销售，可以理解为做AI Sales，用Agent的方式帮助B端客户，尤其是品牌零售业的客户去面对他们的消费者。我们率先发明了数字人直播带货，2022年2月28日，三八女人节的第一天，在京东平台首发了38个美妆数字人直播间，当时叫“京小美空降美妆大牌直播间”。到现在，帮助客户累计实现了超过60亿的GMV，短短三年多时间内，服务C端消费者超过三千万次。我们在这个行业里发布了非常多先进的功能和能力，现在很多数字人已经不需要真人出镜，完全用AI捏出来，纯AI生成的数字IP。后面我会用大型品牌的实际案例来具体讲解。\n我们是一家 to B to C 的公司，今天是产业大会，在座有很多零售行业潜在的合作伙伴。我们有能力帮助你们去面对你们的C端消费者，在官网、渠道都可以，全渠道帮助品牌做这件事。京东是第一家，我们是京卓越的合作伙伴；淘宝是淘拍档的合作伙伴；Shopee是首批，我们在2024年11月份和Shopee官方一起在台湾率先发布了第一个官方的数字人直播间，服务当时的欧莱雅。我们已经是很多全球领先零售型集团的生成式AI服务商，比如LVMH，我们很长时间是他们全球唯一的生成式AI服务商，目前仍然是唯二的两家。像雅诗兰黛、欧莱雅、宝洁，我们是他们北亚地区的服务商；雀巢、Diageo等，我们是他们全球生成式AI的服务商。我们把中国的技术和场景理解带到全球产业里，服务品类非常多，涉及美妆、服饰、奢品、母婴、个护、食品 、家电及数码。\n媒体报道，去年年中开始出海，东南亚将近100个客户，花了不到半年时间，增速非常快。我们带给他们的不单是AI技术，而是通过AI把国内所有的know-how理解并AI化，变成AI化产品带到东南亚，让他们的直播带货水平或销售水平从原来真人只能做到五六十分，直接变成八十分的水平。\n接下来是我们为品牌做的AIGC案例。\n大家理解的AIGC，就是AI生成的内容，AIGC用在哪些地方？今天主要聚焦在营销内容，由数字员工主要产出这类内容。内容模态无非是文字、图片、视频、直播，直播还带着交互。大家关注的是产出这些东西时视觉IP的一致性怎么样，用途包括TVC、千川投放物料、品宣视频，大型品牌已经开始用AI做明星的广告代言了。"
+    "content_chars": 596,
+    "content_excerpt": "儿童节抽奖加送书：四博 AI 小黄鸭 50 元一个，留言送《四博 AI 开发宝典》\n儿童节到了，四博 AI 小黄鸭做一次限时活动。\n这是一款基于四博 AI 方案打造的小黄鸭 AI 硬件，适合开发者学习 AI 硬件开发，也适合作为儿童节小礼物。可以用来体验语音交互、AI 对话、硬件开发、烧录调试等功能。\n本次活动价：50 元一个 活动截止时间：2026 年 6 月 1 日晚上 12 点前\n留言即可领取刚整理完成的 《四博 AI 开发宝典》，里面包含四博 AI 相关开发资料、使用说明和上手参考。\n购买链接： https://item.taobao.com/item.htm?id=927846834641\n儿童节抽奖规则\n为了感谢大家支持，本次将从评论中抽取幸运用户。\n中奖规则如下：\n- 截至 2026/06/01 24:00 前的评论为有效评论。"
   },
   {
     "id": "81dcad6c7f59",
@@ -470,15 +662,19 @@
     "content_excerpt": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二\n量子位的朋友们\n2026-05-26\n13:32:12\n来源：\n量子位\n5月26日凌晨，全球权威三方编程榜单Code Arena放榜，阿里最新旗舰模型Qwen3.7-Max得分1541，超越GPT-5.5、Gemini-3.5-Flash、GLM-5.1、Kimi-K2.6等一众模型，仅次于Claude系列，在大模型厂商中排名全球第二，这也标志着在代码理解与生成领域，千问3.7成功跻身全球编程模型第一梯队。\n图说：Code Arena榜单显示，凭借Qwen3.7-Max，阿里位列全球第二\n编程能力是当下模型智能水平的核心指标，而Code Arena是由知名第三方大模型盲测平台LMArena推出的最具影响力的榜单之一。与传统的代码基准测试不同，Code Arena并不考核孤立的代码片段生成或传统算法题，而是由开发者出题，要求模型从零生成完整的、可交互的Web应用程序，并交由用户对匿名模型的生成效果进行两两PK，由投票综合生成榜单，因此Code Arena也被认为是目前全球最具公信力的AI编程能力评测之一。经全球开发者以真实使用体验盲测投票，千问3.7模型编程能力位居前4，打破由Claude-Opus-4.7和4.6统治已久的前四格局，Qwen3.7-Max也成为目前榜单中唯一突破1540分大关的国产大模型。\n据了解，面向Agent打造的Qwen3.7-Max在编程、智能体、长程任务等核心能力上实现了大幅突破，不但能在数小时内独立完成专业团队耗时2周的复杂项目端到端交付，大幅提升办公自动化和企业级生产力，甚至可以持续运行35小时、累计超1000次工具调用的复杂长程任务，自我编程优化芯片内核。"
   },
   {
-    "id": "c84756b66182",
-    "title": "思特威与紫光展锐联合布局MicroLED高速光互连",
-    "url": "https://36kr.com/newsflashes/3825499233817224?f=rss",
+    "id": "749794f573b0",
+    "title": "营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会",
+    "url": "https://36kr.com/p/3824179485233541?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-26T02:19:03",
-    "summary": "36氪获悉，据思特威消息，近日，思特威（上海）电子科技股份有限公与紫光展锐（上海）科技股份有限公司正式达成战略合作。双方联合布局MicroLED高速光互连领域，围绕光互连芯片设计与系统解决方案落地展开深度协同，为AI算力集群短距高速互连场景，提供高带宽、低功耗、高集成、高可靠的国产化核心解决方案。",
-    "collected_at": "2026-05-26T02:32:16.069076"
+    "published": "2026-05-26T02:44:02",
+    "summary": "从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。 2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。 以下为演讲内容，经36氪整理编辑： 李世尊丨集思科技CEO 大家好，我是集思科技李世尊。简单介绍一下集思科技，以及我们在营销领域做的事——通过从用AI到管AI，实现十倍提效。 集思科技一直专注于AI销售，可以理解为做AI Sales，用Agent的方式帮助B端客户，尤其是品牌零售业的客户去面对他们",
+    "collected_at": "2026-05-26T09:40:41.839999",
+    "content_text": "从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。\n2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。\n以下为演讲内容，经36氪整理编辑：\n李世尊丨集思科技CEO\n大家好，我是集思科技李世尊。简单介绍一下集思科技，以及我们在营销领域做的事——通过从用AI到管AI，实现十倍提效。\n集思科技一直专注于AI销售，可以理解为做AI Sales，用Agent的方式帮助B端客户，尤其是品牌零售业的客户去面对他们的消费者。我们率先发明了数字人直播带货，2022年2月28日，三八女人节的第一天，在京东平台首发了38个美妆数字人直播间，当时叫“京小美空降美妆大牌直播间”。到现在，帮助客户累计实现了超过60亿的GMV，短短三年多时间内，服务C端消费者超过三千万次。我们在这个行业里发布了非常多先进的功能和能力，现在很多数字人已经不需要真人出镜，完全用AI捏出来，纯AI生成的数字IP。后面我会用大型品牌的实际案例来具体讲解。\n我们是一家 to B to C 的公司，今天是产业大会，在座有很多零售行业潜在的合作伙伴。我们有能力帮助你们去面对你们的C端消费者，在官网、渠道都可以，全渠道帮助品牌做这件事。京东是第一家，我们是京卓越的合作伙伴；淘宝是淘拍档的合作伙伴；Shopee是首批，我们在2024年11月份和Shopee官方一起在台湾率先发布了第一个官方的数字人直播间，服务当时的欧莱雅。我们已经是很多全球领先零售型集团的生成式AI服务商，比如LVMH，我们很长时间是他们全球唯一的生成式AI服务商，目前仍然是唯二的两家。像雅诗兰黛、欧莱雅、宝洁，我们是他们北亚地区的服务商；雀巢、Diageo等，我们是他们全球生成式AI的服务商。我们把中国的技术和场景理解带到全球产业里，服务品类非常多，涉及美妆、服饰、奢品、母婴、个护、食品 、家电及数码。\n媒体报道，去年年中开始出海，东南亚将近100个客户，花了不到半年时间，增速非常快。我们带给他们的不单是AI技术，而是通过AI把国内所有的know-how理解并AI化，变成AI化产品带到东南亚，让他们的直播带货水平或销售水平从原来真人只能做到五六十分，直接变成八十分的水平。\n接下来是我们为品牌做的AIGC案例。\n大家理解的AIGC，就是AI生成的内容，AIGC用在哪些地方？今天主要聚焦在营销内容，由数字员工主要产出这类内容。内容模态无非是文字、图片、视频、直播，直播还带着交互。大家关注的是产出这些东西时视觉IP的一致性怎么样，用途包括TVC、千川投放物料、品宣视频，大型品牌已经开始用AI做明星的广告代言了。\n我们做的海外品牌demo。这是北美非常流行的巴拿马风，我们为它做了TVC。所有案例分享在右边的破折号后面都有模态、内容用途。视频TVC，现在已经签约了二三十条，未来三个月内就要服务他们在TK上的所有投放，包括线下屏幕，尤其在佛罗里达，有特别大的线下投放。这是商品主图视频，人物IP，这个女孩叫koko，获得了亦庄政府颁发的第二张数字人身份证，即将拿到中国第一个数字钱包，作为Agent拿到数字钱包。\nkoko拿到了亦庄颁发的身份证，也是工信部唯二认可的数字人。未来中国所有的数字人背后都会有一个ID，来管控你的内容，我们的koko是有身世的。\n有些朋友关注到，五六年前Facebook改名Meta，也就是元宇宙。那时候造出了非常多基于计算机动画生成的IP，比如柳夜熙这样的，需要大量的故事线来扶持出一个IP。但在AIGC的支持下，这个短片里，如果我不告诉大家这是捏出来的人，大家会认为这是真人。现在技术的发展，造就了IP的无限可能性，不需要非常多的包装。本质上人类是非常高级的动物，可以对同种族一见钟情，但对米老鼠我得看30集才能喜欢上这个角色，那是故事线包装出的人格。现在技术造就了无限的IP可能。品牌端打造这些IP，可以作为KOC或者influencer。\nkoko在现场是不存在的，领导“吕局”是现实存在的，跟koko一起生成了虚实结合的短视频。koko也做了线下活动的展示，我们还成为经开区首位数字普法宣传员，前几天在区内进行普法宣传。\nkoko可以覆盖多种模态，可以做图，IP保持一致还可以做视频，还可以做直播。本质上，每一个品牌最好的销售、最好的宣传员就是创始人本人。创始人拥有企业的所有上下文，把上下文沉淀了，视觉也沉淀了，来打造一个立体的人物，还可以做所有实时交互。我们用koko这个AI IP，为我们的客户做了展示可能性的短片，这些短片可以实时直播，跟现在做的数字人是一样的。\n这是给另一个国外品牌做的数字人IP，我很难看出是一个假人，这些衣服、鞋都是真实存在的。我们欧洲的客户很喜欢这样的概念，不单是概念，确实有营销流量。我觉得不需要有一个人飞到希腊去拍这个短片，同时也不需要浪费这双鞋，AIGC可以做到这个事情。\nCastar是我们主做视频的产品。这是一个视频品宣明星IP，这个明星叫慈世平，跟中国的姚明是原来火箭队的队友，后来也是科比的队友。他的公司叫作37 Partners，我们集思科技也是股东之一，一起展开了非常多合作。\n我们也帮助他用他的IP在菲律宾做了一场直播，可以说是AI明星的首秀。联合了安踏、李宁、361度、VIVO、三星，当天直播间冲到了全国榜的第二名。\nAI直播是我们的第一条曲线。直播业务，刚开始做就选了一个最难的，要交互，要多模态，讲什么内容、什么时间讲什么。我们现在服务七百多家客户，一千多个直播间。这是我们跟Burberry在天猫、京东上做的。\n各种语言，当地方言都完全没有问题，正式语言、大类语言也都没有问题。这是我们给欧莱雅集团做的行业落地典范，2022年4月份服务他第一个品牌，到现在他全网所有品牌都由集思科技全面提供AI直播服务，已经做了第四个年头。我们能做明星，也可以做签约投放。在座很多创始人都知道投放是非常大的预算，让自己投放数据的KOL去做符合心仪的内容，经常要调很多版。对KOL来说也是很大的负担，比如要求这个红人去冰岛拍片子，时间成本、经济成本都非常大。现在完全可以制作一个自己的分身，去任何想去的地方，穿各种想穿的衣服，一切皆有可能。\n除了人，也可以做吉祥物，给亦庄的小亦也做了IP。很多品牌有自己的吉祥物，小狐狸，我们就做了她跟吉祥物的互动，包括波司登跟小熊，也是跟吉祥物的互动，虚实结合。\n这些案例在过去的时间里，除了AI直播，很多视频都是用AI的方式去捏，人加工具，最后等于大家看到的结果。我们从今年年初开始到现在，尝试用管AI的方式，把它变成我给它输入一个命令，它就能把所有的环节走完，反复执行，达到满意的效果。2023年大家就提Agent元年，今年才是营销内容上Agent可以立马落地应用到每一个企业里。内部也喊了口号：用AI的人是不用AI的人的十倍，管AI的人是用AI的人的效率的十倍，本质上就是一百倍的区别，这是指数级增长。\n创始人是一个企业里最能够卖东西的，并不是因为他非常努力、能熬夜、非常拼，屁股坐在那个位置，而是说他懂品牌里的上下文，我们认为这是最重要的。不单是视觉IP一致性，更是品牌IP一致性。这个IP是你的数字资产、智力资产，智力资产有没有沉淀到你的平台里，是沉淀在飞书上还是钉钉上，还是沉淀在本地管理里？我们希望帮助品牌、零售型企业做到沉淀上下文，尤其是面对C端消费者，持续累计相关信息，持续更新、持续维护。\n大家可能都忽视了企业的上下文。来了一个新员工，如果不做培训，不做前一个月的讲解，他很难理解企业在做什么，很难快速上手。我们内部也把上下文这件事放到第一高的优先级，通过软件服务客户的时候，也帮他们把上下文整理得更加简洁、没有冲突。这是今年最大的任务。视觉任何一个团队都能做得相对不错了，上下文是非常核心的地方，我们认为AI等于结果最核心的问题就是上下文。\n集思科技以用户为核心，持续为零售品牌交付结果。这是我的微信，大家也可以加微信，多多探讨。\n谢谢大家！",
+    "content_source": "trafilatura",
+    "content_chars": 3358,
+    "content_excerpt": "从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。\n2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。\n以下为演讲内容，经36氪整理编辑：\n李世尊丨集思科技CEO\n大家好，我是集思科技李世尊。简单介绍一下集思科技，以及我们在营销领域做的事——通过从用AI到管AI，实现十倍提效。\n集思科技一直专注于AI销售，可以理解为做AI Sales，用Agent的方式帮助B端客户，尤其是品牌零售业的客户去面对他们的消费者。我们率先发明了数字人直播带货，2022年2月28日，三八女人节的第一天，在京东平台首发了38个美妆数字人直播间，当时叫“京小美空降美妆大牌直播间”。到现在，帮助客户累计实现了超过60亿的GMV，短短三年多时间内，服务C端消费者超过三千万次。我们在这个行业里发布了非常多先进的功能和能力，现在很多数字人已经不需要真人出镜，完全用AI捏出来，纯AI生成的数字IP。后面我会用大型品牌的实际案例来具体讲解。\n我们是一家 to B to C 的公司，今天是产业大会，在座有很多零售行业潜在的合作伙伴。我们有能力帮助你们去面对你们的C端消费者，在官网、渠道都可以，全渠道帮助品牌做这件事。京东是第一家，我们是京卓越的合作伙伴；淘宝是淘拍档的合作伙伴；Shopee是首批，我们在2024年11月份和Shopee官方一起在台湾率先发布了第一个官方的数字人直播间，服务当时的欧莱雅。我们已经是很多全球领先零售型集团的生成式AI服务商，比如LVMH，我们很长时间是他们全球唯一的生成式AI服务商，目前仍然是唯二的两家。像雅诗兰黛、欧莱雅、宝洁，我们是他们北亚地区的服务商；雀巢、Diageo等，我们是他们全球生成式AI的服务商。我们把中国的技术和场景理解带到全球产业里，服务品类非常多，涉及美妆、服饰、奢品、母婴、个护、食品 、家电及数码。\n媒体报道，去年年中开始出海，东南亚将近100个客户，花了不到半年时间，增速非常快。我们带给他们的不单是AI技术，而是通过AI把国内所有的know-how理解并AI化，变成AI化产品带到东南亚，让他们的直播带货水平或销售水平从原来真人只能做到五六十分，直接变成八十分的水平。\n接下来是我们为品牌做的AIGC案例。\n大家理解的AIGC，就是AI生成的内容，AIGC用在哪些地方？今天主要聚焦在营销内容，由数字员工主要产出这类内容。内容模态无非是文字、图片、视频、直播，直播还带着交互。大家关注的是产出这些东西时视觉IP的一致性怎么样，用途包括TVC、千川投放物料、品宣视频，大型品牌已经开始用AI做明星的广告代言了。"
   },
   {
     "id": "83d62fd2eb6d",
@@ -496,15 +692,15 @@
     "content_excerpt": "刚刚，国产Agent模型闯入全球第一梯队！限时免费\n一水\n2026-05-26\n12:13:32\n来源：\n量子位\n深度适配OpenClaw、Claude Code、Hermes等\n谁懂啊家人们？？\nAgent时代，大公司都在把“烧多少token”当KPI了，本小小员工还深陷另一个泥沼：\n聪明的模型用不起，便宜的模型不够聪明"
   },
   {
-    "id": "b3d83f9365df",
-    "title": "今年我国养老机器人市场规模将破百亿元",
-    "url": "https://36kr.com/newsflashes/3825463530574466?f=rss",
+    "id": "c84756b66182",
+    "title": "思特威与紫光展锐联合布局MicroLED高速光互连",
+    "url": "https://36kr.com/newsflashes/3825499233817224?f=rss",
     "source": "36氪",
     "lang": "zh",
     "priority": 4,
-    "published": "2026-05-26T01:42:44",
-    "summary": "今天（26日），中国软件评测中心发布了《智能养老服务机器人产业演进与未来趋势研究》报告。报告显示，我国养老服务机器人产业已初步形成体系，正在从“技术验证”阶段向“规模化应用”过渡的关键期，但技术与复杂养老场景的适配性仍是当前面临的核心挑战。据预测，今年我国养老服务机器人市场规模将突破100亿元。（央视新闻）",
-    "collected_at": "2026-05-26T02:32:16.069251"
+    "published": "2026-05-26T02:19:03",
+    "summary": "36氪获悉，据思特威消息，近日，思特威（上海）电子科技股份有限公与紫光展锐（上海）科技股份有限公司正式达成战略合作。双方联合布局MicroLED高速光互连领域，围绕光互连芯片设计与系统解决方案落地展开深度协同，为AI算力集群短距高速互连场景，提供高带宽、低功耗、高集成、高可靠的国产化核心解决方案。",
+    "collected_at": "2026-05-26T02:32:16.069076"
   },
   {
     "id": "v2ex-1215463",
@@ -515,6 +711,17 @@
     "published": "2026-05-26T01:41:21",
     "summary": "我自己的使用阶段： 1. IDEA + 插件 2. IDEA 看代码 + codex/Claude code (终端不好用) 3. gateway + wsl + codex/Claude code （很多 bug ）",
     "collected_at": "2026-05-26T09:40:44.290476"
+  },
+  {
+    "id": "b3d83f9365df",
+    "title": "今年我国养老机器人市场规模将破百亿元",
+    "url": "https://36kr.com/newsflashes/3825463530574466?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-26T01:42:44",
+    "summary": "今天（26日），中国软件评测中心发布了《智能养老服务机器人产业演进与未来趋势研究》报告。报告显示，我国养老服务机器人产业已初步形成体系，正在从“技术验证”阶段向“规模化应用”过渡的关键期，但技术与复杂养老场景的适配性仍是当前面临的核心挑战。据预测，今年我国养老服务机器人市场规模将突破100亿元。（央视新闻）",
+    "collected_at": "2026-05-26T02:32:16.069251"
   },
   {
     "id": "fa282796bd3c",
@@ -4430,142 +4637,6 @@
     "ai_summary": "文章网址：https://zfhuang99.github.io/rust/claude%20code/codex/co…"
   },
   {
-    "id": "f81fa3d3564a",
-    "title": "训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
-    "url": "https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-20T10:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-20T02:36:17.968333",
-    "content_text": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n蚂蚁集团高级技术专家吴伟已确认出席 “企业智算架构弹性适配” 专题，并发表题为《训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践》的主题分享。大模型时代，训练与推理长期分池运行，训练侧弹性但离线、推理侧固定但在线，两者资源需求呈\"潮汐\"对立——夜间训练吃满集群、白天推理迎来峰值，导致 GPU 平均利用率较低。本演讲将分享完整的架构设计、潮汐调度策略和异构适配中的踩坑经验。\n吴伟，蚂蚁集团高级技术专家，蚂蚁容器调度团队负责人，负责蚂蚁内部通智一体容器平台的资源调度和资源管理。18 年加入蚂蚁以来，经历了云原生资源调度从通算到智算的演进。在通算时代，参与了蚂蚁内部系统 k8s 云原生化的升级改造、CPU 在离线混部、CPU 利用率提升等多个项目；在智算时代，负责蚂蚁 GPU 异构资源编排，正在探索通过训推池化、推理服务弹性、任务优先级抢占、自动化 FO 等技术手段，来提升 XPU 资源使用效率，以更好地服务蚂蚁百灵、阿福、灵光等 AI 业务。他在本次会议的详细演讲内容如下：\n演讲提纲：\n训练推理资源池分离的背景和问题\n场景引入：展示一张典型 GPU 集群 24 小时利用率曲线图——训练任务凌晨跑满、推理白天峰值、中间大量空白\n核心矛盾：训推分离模式下，两个资源池永远\"一个吃不饱、一个在闲置\"\n训推一体解决方案整体介绍\n异构算力池化 + 弹性调度\n训推一体关键技术：异构算力池化\n统一抽象模型（XPU）：将异构资源统一到一套设备资源管理体系\n关键能力模块：资源纳管（异构芯片接入、拓扑自动发现）→ 异构调度（同构/混合调度）→ 弹性扩缩（Scale Up/Down 无感）→ 任务热迁移（跨芯片业务无感）\n训推一体关键技术：弹性调度\n弹性配额层\n优先级抢占层：\n优先级设计：P0（在线推理）> P1（交互式推理）> P2/P3（离线训练）\n抢占流程：高优先级任务触发 → 低优先级任务 Checkpoint → 资源释放 → 高优先级任务调度 → 负载下降后恢复\n动态混部层（潮汐调度）\n蚂蚁集团的实践效果\n总结和展望：跨 AIDC 的训推联邦调度、基于预测的弹性预分配等\n听众收益：\n可以了解\"弹性配额—优先级抢占—动态混部\"三层调度架构的完整设计思路，直接应用于自身企业的大模型基础设施规划和建设中，避免从零探索的试错成本\n建立 GPU 资源效率优化的数据化认知框架：通过蚂蚁集团的具体实践，听众可以建立一套 GPU 集群效率度量和优化的基准体系，用于评估自身基础设施的改进空间\n除此之外，本次大会还策划了端侧 AI、物理与数字空间智能化、世界模型与多模态智能突破、Agent 架构与工程化实践、Agent 安全与可信治理、企业级研发体系重构、AI 原生数据工程、AI 时代的个人提效与组织变革等 14 个专题论坛，届时将有来自不同行业、不同领域、不同企业的 50+资深专家在现场带来前沿技术洞察和一线实践经验。\n8 折倒计时进入最后一周，现在报名立减 1160，查看更多详情可扫码或联系票务经理 13269078023 进行咨询。",
-    "content_source": "trafilatura",
-    "content_chars": 1558,
-    "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，AICon全球人工智能开发与应用大会将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n蚂蚁集团高级技术专家吴伟已确认出席 “企业智算架构弹性适配” 专题，并发表题为《训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践》的主题分享。大模型时代，训练与推理长期分池运行，训练侧弹性但离线、推理侧固定但在线，两者资源需求呈\"潮汐\"对立——夜间训练吃满集群、白天推理迎来峰值，导致 GPU 平均利用率较低。本演讲将分享完整的架构设计、潮汐调度策略和异构适配中的踩坑经验。\n吴伟，蚂蚁集团高级技术专家，蚂蚁容器调度团队负责人，负责蚂蚁内部通智一体容器平台的资源调度和资源管理。18 年加入蚂蚁以来，经历了云原生资源调度从通算到智算的演进。在通算时代，参与了蚂蚁内部系统 k8s 云原生化的升级改造、CPU 在离线混部、CPU 利用率提升等多个项目；在智算时代，负责蚂蚁 GPU 异构资源编排，正在探索通过训推池化、推理服务弹性、任务优先级抢占、自动化 FO 等技术手段，来提升 XPU 资源使用效率，以更好地服务蚂蚁百灵、阿福、灵光等 AI 业务。他在本次会议的详细演讲内容如下：\n演讲提纲：\n训练推理资源池分离的背景和问题\n场景引入：展示一张典型 GPU 集群 24 小时利用率曲线图——训练任务凌晨跑满、推理白天峰值、中间大量空白\n核心矛盾：训推分离模式下，两个资源池永远\"一个吃不饱、一个在闲置\"\n训推一体解决方案整体介绍\n异构算力池化 + 弹性调度"
-  },
-  {
-    "id": "8c0ef2e5ea3c",
-    "title": "优必选宣布推出消费级人形机器人品牌优世界UWORLD",
-    "url": "https://36kr.com/newsflashes/3817395993740166?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-20T08:56:00",
-    "summary": "今日，优必选创始人周剑正式开通社交媒体，并宣布公司推出消费级人形机器人品牌优世界UWORLD。",
-    "collected_at": "2026-05-20T08:57:39.191741"
-  },
-  {
-    "id": "b5f81fbe7abe",
-    "title": "AIDC建设正从“通用标准”走向“适用高效”",
-    "url": "https://www.qbitai.com/2026/05/420698.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-20T07:35:59",
-    "summary": "商汤大装置林海谈AIDC",
-    "collected_at": "2026-05-20T08:55:20.070984",
-    "content_text": "AIDC建设正从“通用标准”走向“适用高效”\n量子位的朋友们\n2026-05-20\n15:35:59\n来源：\n量子位\n近日，2026全球AIDC产业论坛在东莞隆重召开。\n商汤科技大装置事业群智算中心总经理林海受邀出席大会，以《商汤AIDC从通用标准到适用高效原则的演进》为主题发表演讲，系统性分享了商汤大装置在AIDC（智算中心）领域的建设思路、长期运营实践与建设成果。\n林海认为：“在AI时代，智算中心的建设正在从通用标准走向高效适用。”\n围绕这一判断，林海在演讲中重点介绍了商汤大装置在智算中心建设上的多重创新实践，包括“模块化交付”、“冗余下沉”、“算电协同”等，为AI原生时代智算中心建设提供了新的演进思路与实践路径。\n01. AIDC三大矛盾，商汤大装置如何破局\n早在2019年，商汤便前瞻认知到AI的规模化落地需要集约化、体系化的基础设施支撑，由此启动临港AIDC的建设，并于2022年正式投入运营。\n如今，商汤上海临港AIDC已成长为亚洲最大的智算中心之一，也是国内首个5A级智算中心。\n林海在演讲中指出：“我们一开始对AI基础设施的设计理念，就不仅仅是传统的IDC，而是面向AI原生时代，覆盖算力、调度、模型与应用的全链路AI体系。”\n围绕这样的建设逻辑，在近六年的AIDC运营实践中，商汤大装置持续迭代架构，在矛盾中寻求最优解，探索AI原生时代智算中心建设的平衡路径。\n长期以来，智算中心建设需要在“全周期规划与灵活扩展”、“通用标准与定制能力”、“安全冗余与极致效率”三个具有矛盾性的维度中进行考量和选择，其中包含时间、空间、架构、电力容量的多个不同的选择点。\n面向“全周期规划与灵活扩展”的维度，商汤大装置在园区规划初期，便综合考虑供电架构、建筑承重、空调系统、空间和电力容量冗余及能效优化等因素，在保证全周期规划的同时，又能实现后续分阶段建设的灵活性。\n在通用性和定制化的维度中，如何在园区中具备兼容更多供冷形式，以快速、高效的形式支撑不同集群的定制化要求，同时在电力架构中实现不同层级的弹性支撑成为基础设施的核心架构设定逻辑。目前园区的供冷形式多达5种，对电力容量的管理也建立了多级阈值的控制体系。\n在安全冗余和效率优化方面，林海特别介绍了“算电协同平台”。\n商汤大装置将IDC基础设施、AI集群以及模型任务调度三层体系打通，实现全链路协同优化，构建起“算电协同”平台，并以15分钟为周期进行高频次预测，自动生成最优调度策略。\n同时，随着GPU功率快速迭代，商汤大装置逐步形成了一套“冗余下沉”的架构思路：在机柜、列级等末端预留更高冗余，而在园区级则通过规模化运营降低整体冗余比例，从而在保障安全性的同时提升整体资源利用效率。\n02.当AI重写AIDC：算力、供应链与架构的三重冲击\n随着大模型与AI Agent快速发展，行业对于算力的需求持续攀升，而供应链波动以及政策环境等多重因素叠加，也进一步加剧了算力供给的不确定性。\n与此同时，随着国产服务器与国产芯片生态的快速演进，AI基础设施架构愈发复杂。传统IDC模式不再适用，开始快速更新迭代，其迭代速度甚至远超预期。\n为应对行业变化，保障快速交付，林海提出“模块化交付”与“整体界面和弹性框架”的建设思路。\n“整体界面和弹性框架”的核心理念是，不再按照传统意义上的成本划分，而是将交付“战壕”尽可能前移，将交付能力前移至最接近业务需求的一线，以极限响应速度完成基础设施交付。\n在模块化交付上，商汤大装置与华为合作过程中，双方率先实现了“电力模块化交付”，未来还将进一步向功能模块化演进，通过更灵活、更标准化的架构设计，提升AI基础设施的扩展效率与快速响应能力。\n03模块化部署，1.5个月扩容18MW\n演讲中，林海还重点分享了近期18MW智算中心扩容实践。\n2025年底，商汤大装置面临近20MW外部算力租赁需求。经过综合成本评估后，团队决定充分利用园区内现有资源，在4个原有库房基础上完成18MW扩容，并将单机柜功率密度提升至48kW。\n在项目实施中，商汤大装置携手华为团队，仅用时一个半月便完成送电及验证测试，比传统模式提前2个月。\n整个项目在不影响原有园区稳定运营的前提下完成建设，同时实现了室外模块化部署，将原有库房快速升级为真正意义上的AI机房，节约约70%的配套面积，效率高达97.8%，电力CAPEX下浮13%。\n林海表示，此次项目最大的价值不仅在于交付速度，更在于验证了一种适用于传统IDC向智算中心升级的新模式：通过模块化架构实现供电、制冷及算力系统的快速扩展，在降低Capex的同时提升整体资源利用效率。\n随着AI进入规模化推理与产业落地阶段，智算中心也正在从传统IDC形态，进一步演进为面向AI原生时代的新型基础设施。未来，商汤大装置将持续推动AI基础设施在效率、弹性与智能协同上的演进，加速产业智能化进程。\n转载来源：商汤科技\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 2180,
-    "content_excerpt": "AIDC建设正从“通用标准”走向“适用高效”\n量子位的朋友们\n2026-05-20\n15:35:59\n来源：\n量子位\n近日，2026全球AIDC产业论坛在东莞隆重召开。\n商汤科技大装置事业群智算中心总经理林海受邀出席大会，以《商汤AIDC从通用标准到适用高效原则的演进》为主题发表演讲，系统性分享了商汤大装置在AIDC（智算中心）领域的建设思路、长期运营实践与建设成果。\n林海认为：“在AI时代，智算中心的建设正在从通用标准走向高效适用。”\n围绕这一判断，林海在演讲中重点介绍了商汤大装置在智算中心建设上的多重创新实践，包括“模块化交付”、“冗余下沉”、“算电协同”等，为AI原生时代智算中心建设提供了新的演进思路与实践路径。"
-  },
-  {
-    "id": "a22d6858aa8c",
-    "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
-    "url": "https://36kr.com/p/3817353357968516?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-20T08:22:01",
-    "summary": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。 2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？ 正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。 嘉宾阵容堪称豪华： 既有昆仑万维、商汤、百度、",
-    "collected_at": "2026-05-20T08:57:39.189920",
-    "content_text": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。\n2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？\n正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。\n嘉宾阵容堪称豪华：\n既有昆仑万维、商汤、百度、蚂蚁、MiniMax、亚马逊云科技、京东等领军企业代表齐聚现场；也有复旦大学特聘教授邱锡鹏、香港大学助理教授黄超等顶尖学者带来前沿技术研判；还有盛大EverMind、太初元碁、风行在线、轻松健康集团、趣丸科技、ColaOS&MarsWave、EvoMap等一线实战玩家分享落地经验；以及硅谷Fusion Fund创始合伙人张璐带来AI产业与算力赛道新视角。\n与此同时，量子位重磅揭晓了“2026年度值得关注的AIGC企业”与“2026年度值得关注的AIGC产品”两大奖项，并同步发布了《2026年中国AI应用全景图谱报告》。\n锚定技术革新，洞察行业发展核心趋势\n2026年，AI Agent已从行业讨论的热点，演变为企业与开发者必须直面的现实议题。本届峰会上，多位大咖从不同视角拆解了Agent落地的关键路径与挑战。\n昆仑万维董事长兼CEO方汉从一线视角回答了“个人和企业如何应对Agent冲击”，他表示冲击是真实的，但关键不是要不要被冲击，而是怎么度过过渡期。\n亚马逊云科技产品技术部技术总监王晓野则聚焦“跨越Agent落地鸿沟”，拆解从顶级大模型到企业级AI Agent之间的工程化挑战与解决方案。\n香港大学助理教授、博士生导师黄超结合学术前沿视角，探讨了AI Agent范式变革带来的技术机遇与行业挑战。\n盛大集团副总裁、EverMind CEO邓亚峰分享了长期记忆驱动的自进化技术，阐释AI如何从工具型应用，演化为可持续成长的数字生产力系统。\n在Agent成为行业焦点的同时，为其提供底层支撑的大模型本身也在不断突破能力边界。\n商汤科技执行副总裁、首席科学家林达华深入分析了“从多模态统一到空间智能：迈向可感知、可生成、可行动的AI新前沿”。\n京东JoyInside业务负责人戴文军则将这一命题进一步推向物理世界，分享了AI从屏幕里走出来，走进真实终端、真实场景。\n复旦大学特聘教授、上海创智学院院长助理、模思智能创始人邱锡鹏带来了MOSS多模态大模型最新研发成果，分享了前沿技术的优化思路。\n深耕细分赛道，一线玩家分享落地实战\n具体到不同领域，机会究竟何在？本次峰会上，众多AI赛道的实战玩家给出了答案。他们带来了全行业可落地、可借鉴的成熟应用案例。\n风行在线CEO易正朝提出核心判断，认为从AI编程赋能开发创作，到AI视频革新内容生产，“众创才是AI生产力的核心杠杆”。\n百度秒哒产品总经理朱广翔分享了“人人都是创造者”的产品理念，展示了想象力释放生产力、AI赋能普通用户降本提效的全新模式。\nMiniMax ToB中国区商业化负责人胡维琦以“Intelligence with Everyone”为题，分享了MiniMax在过去一年中的真实打法与思考。\n轻松健康集团执行副总裁马孝武则立足健康垂直领域，以“从循证智能体到AI驱动的健康服务增长飞轮”为题，阐述了以AI为核心的新型健康服务能力。\n此外，AI基础设施的范式重构也是今年大会关注的主线之一。\nFusion Fund创始合伙人张璐立足全球资本与产业的双重视角，提出“算力叙事重构”，深度解读了从训练到推理的AI基础设施新范式。\n太初元碁首席产品官、高级副总裁洪源则以“国产AI算力筑基Token智能新未来”为题，探寻国产算力适配新时代AI产业的发展路径。\nGenAI Talk+Agent圆桌思辨\n大咖主题演讲环节之外，大会今年还安排了一场重磅GenAI Talk和一场观点密集的Agent圆桌。\nGenAI Talk环节\n，蚂蚁灵波科技首席科学家沈宇军与量子位联合创始人兼总编辑李根，围绕核心命题“AI 2.0下半场，从AIGC到AIGA”展开深度对谈。\n对谈中，沈宇军回顾了过去几年AIGC在文本、图像、视频等领域的快速演进，并判断AI 2.0已进入下半场，正从AIGC向AIGA跃迁。\n他进一步指出，当AI从数字世界走向物理世界，技术挑战与落地机遇并存，蚂蚁灵波“通用大脑”正是对这一命题的回应。在技术层面，沈宇军介绍了从空间智能、灵巧操作到环境反馈的全栈技术布局。最后，沈宇军还分享了蚂蚁灵波的开源战略，并对具身智能走入千家万户做出展望。\nAgent圆桌环节\n，主题定为“2026，Agent产品的不确定性与非共识机遇”。\n趣丸科技副总裁兼首席战略官、《屠龙之术》主理人庄明浩，ColaOS & MarsWave CEO冯雷，EvoMap创始人张昊阳同台思辨。\n嘉宾们深度对比了Agent产品的迭代逻辑和传统App的差异，分享了评判Agent产品价值的核心标准，探讨了模型快速迭代下的产品决策与功能规划思路。\n在此基础上，他们还预判了超级Agent与多专精协同Agent的未来发展形态，畅想了Agent生态全新协作与商业可能，解析了同质化竞争下的非共识突破口，并探讨了AI Agent规模化落地对行业从业者工作模式带来的全新变革。\n2026年度值得关注的AIGC企业/产品榜单揭晓\n延续往届峰会传统，本次大会现场重磅揭晓\n“2026年度值得关注的AIGC企业”、“2026年度值得关注的AIGC产品”\n双榜单。\n本次评选收集到了数百份来自企业与产品团队的申报，量子位结合过去一年生成式AI企业与产品的实际表现、用户反馈与行业影响力，并参考数十位行业专家、投资人、技术负责人及产业从业者意见，评选出最终结果。\n“2026年度值得关注的AIGC企业”榜单覆盖了从底层算力、基础模型到行业应用的全产业链环节。“2026年度值得关注的AIGC产品”榜单则横跨AI内容创作、智能客服、代码辅助、视频生成、企业知识管理、工业设计等多个赛道。\n中国AI应用全景图谱报告发布\n大会上，量子位智库倾力打造的《2026年中国AI应用全景图谱报告》同步对外发布，展示了国内AI应用的市场格局与发展动态，并深入剖析了最具潜力与竞争力的产品和赛道。\n该报告横跨面向消费者的AI软硬件、深入千行百业的ToB垂直应用、支撑整个生态运转的底层开发层三大维度，提炼出了五条正在重塑行业的核心趋势：\nAI从“回答问题”进化为“完成任务”的Agent化浪潮；各大平台争夺用户默认入口的生态化竞争；DeepSeek重新定价整个行业、技术红利向应用层转移的模型普惠化；用户付费意愿真实觉醒的商业模式跑通；以及医疗、法律、教育等B端垂直场景进入规模化渗透的深水区。\n下载链接：\nhttps://jkhbjkhb.feishu.cn/wiki/W5D7wuDcbiPXDLkaRLQcAJpOn8f",
-    "content_source": "readability",
-    "content_chars": 2965,
-    "content_excerpt": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。\n2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？\n正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。\n嘉宾阵容堪称豪华：\n既有昆仑万维、商汤、百度、蚂蚁、MiniMax、亚马逊云科技、京东等领军企业代表齐聚现场；也有复旦大学特聘教授邱锡鹏、香港大学助理教授黄超等顶尖学者带来前沿技术研判；还有盛大EverMind、太初元碁、风行在线、轻松健康集团、趣丸科技、ColaOS&MarsWave、EvoMap等一线实战玩家分享落地经验；以及硅谷Fusion Fund创始合伙人张璐带来AI产业与算力赛道新视角。\n与此同时，量子位重磅揭晓了“2026年度值得关注的AIGC企业”与“2026年度值得关注的AIGC产品”两大奖项，并同步发布了《2026年中国AI应用全景图谱报告》。\n锚定技术革新，洞察行业发展核心趋势\n2026年，AI Agent已从行业讨论的热点，演变为企业与开发者必须直面的现实议题。本届峰会上，多位大咖从不同视角拆解了Agent落地的关键路径与挑战。\n昆仑万维董事长兼CEO方汉从一线视角回答了“个人和企业如何应对Agent冲击”，他表示冲击是真实的，但关键不是要不要被冲击，而是怎么度过过渡期。\n亚马逊云科技产品技术部技术总监王晓野则聚焦“跨越Agent落地鸿沟”，拆解从顶级大模型到企业级AI Agent之间的工程化挑战与解决方案。"
-  },
-  {
-    "id": "e0003b9ee06a",
-    "title": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
-    "url": "https://www.qbitai.com/2026/05/420681.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-20T07:27:57",
-    "summary": "智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。",
-    "collected_at": "2026-05-20T08:55:20.071024",
-    "content_text": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测\n量子位的朋友们\n2026-05-20\n15:27:57\n来源：\n量子位\n智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。\n「开篇：致敬那些“赤手空拳”的创新者」\n我们深知，最懂研发的人永远在第一线。\n我们也知道，产业技术创新的入场券，\n不应该由高昂的平台费用来决定。\n在这个 AI 浪潮奔涌的时代，工具层出不穷，但真正能触及研发核心、理解技术逻辑、辅助决策创新的产品依然稀缺。智会心研致力于构建面向产业技术创新的\nAI Agents 智能体体系\n，而这一过程，我们不愿闭门造车。\n长期以来，在产业研发和科技创新领域，存在一个巨大的隐形壁垒。\n那些能够洞察全球技术趋势、秒级拆解数亿篇专利、自动推演技术路线的“研发情报系统”，往往伴随着动辄数万元的高昂年费。它们成了大企业、跨国集团的专供“重武器”。\n而无数真正活跃在第一线的独立开发者、创业团队、分析师和个人研究员，却只能赤手空拳，用着普通的搜索引擎，在真假难辨的 AI 幻觉和文献大海里艰难摸索。\n高昂的工具门槛，不应该成为垄断创新力的工具。\n作为同样在商用专利数据库领域深耕多年的智会心研，我们深知这个行业的壁垒有多高。但今天，我们决定做那个“破壁者”。\n我们不要做高高在上的贵价工具，我们要做“产业技术创新的 AI 基础设施”。\n今天，智会心研 PLUS 版正式开启深度公测。公测期间，我们将原本属于企业级的“研发级 AI 能力”全面解封，送给每一位独立的创新者！\n图片由 AI 辅助生成\n01真正的颠覆\n：\n是不玩概念，直接配置拉满\n市场上的“平权”，绝不是拿阉割版、缩水版去敷衍用户。智会心研的诚意，用配置单说话。\n我们不设套路，直接把高阶检索 + AI 深度分析的硬核闭环能力，全部放进了个人免费版的日常配置里：\n登陆即享：个人免费版配置单\nAI 技能助手 & 基础功能：\n5 次/日（口语化提问，大白话直接锁定全球技术方案）\nAI 创新报告生成：\n1 次/日（一键生成深度行业、技术调研初稿，拒绝无效加班）\n图表-AI 极速分析：\n5 次（拒绝盲目看数据，AI 帮你自动推演趋势、发现异常）\n图表分析导出：\n1 份/日（可直接用于技术汇报与团队协作）\n全文翻译 & 收藏下载：\n全面开放，彻底打通跨国专利文献的阅读障碍。\n获取数据免费，用 AI 深度分析也能免费体验。这在以前的专业产业数据库市场，是不可想象的。\n02\n以诚相待！更强悍的 Plus 权益，公测限时开放\n既然是深度公测，我们就把诚意做到极致。\n在未来的长线规划中，为了支撑高频、深度的研发对抗，我们设立了能力更强悍、调用频次更高的 Plus 付费版。\n但在目前的公测阶段，我们的策略只有一个：先用最纯粹的诚意，把最好的工具交到最需要的人手里。\n目前，平台价格栏显示为“公测中”。我们拿出了最硬核的规则——\n邀请你成为「首席创新体验官」，与我们共同奔赴AI研发的新标准。\n🎁 特权一：完善信息，直接领 15 天 Plus 会员\n为了让我们的 AI Agents（智能体） 能够更精准地适配你的技术领域，拒绝泛泛的空谈。你只需：\n1. 登陆平台\n2. 在个人中心完善你的“研究领域画像” 系统将立刻为你激活 15 天 Plus 会员特权。\n🎁 特权二：邀好友，享好礼（特权无限叠加）\n研发从不是孤岛。通过专属分享链接邀请好友，好友成功注册并完善个人信息后，你将额外获得 15 天 Plus 会员权益。邀请越多，你的“研发外挂”免费续期越长！\n来看看，Plus 版本带来的研发生产力权益\n当你用上 Plus 版，你会发现，你拥有的不只是一个对话框，而是一个属于你个人的“数字研发智囊团”。你可以像大厂团队一样，拥有顶配的资源支持：\n更多的 AI 调用频次：\nAI 技能助手升级至 50 次/日，AI 创新报告生成升至 5 次/日。\n深度推演能力：\n图表极速分析提升至 20 次，数据导出升至 3 份/日。\n专属数字资产库：\n解锁 5GB 个人工作台空间，支持 2000 条深度收藏，所有分析成果自动沉淀，可复用、可迭代。\n独家硬核解锁：\n每日专享 50 条 PDF 全文下载 + 1000 条著录信息下载。\n大厂研发用什么，你就用什么。这就是智会心研带来的“效率重构”。\n写在最后\n让每一个人，都有机会改变世界\n在智会心研看来，产业技术创新的入场券，不应该由高昂的系统费用来决定。 当最前沿的大模型技术，遇上全球 5 亿+科技数据底座，它就应该变成每一个独立创新者手里高效、易用的日常生产力。我们希望陪你走过从创新、发展到商业化的全生命周期。\n我们没有庞大的地面销售团队，但我们有最厚道的产品、最硬核的数据和最懂第一线的你。\n公测大门已开，邀请函已发出…\n独立的创新者们，欢迎回家。\n本文含 AI 生成图片，已在图下标识，内容经人工编辑\n转载来源：智会心研\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 2225,
-    "content_excerpt": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测\n量子位的朋友们\n2026-05-20\n15:27:57\n来源：\n量子位\n智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。\n「开篇：致敬那些“赤手空拳”的创新者」\n我们深知，最懂研发的人永远在第一线。\n我们也知道，产业技术创新的入场券，"
-  },
-  {
-    "id": "v2ex-1214142",
-    "title": "做了一个睡前听书 App：用 Apple 系统语音读自己的 EPUB/PDF，送 30 个码",
-    "url": "https://www.v2ex.com/t/1214142",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-20T07:21:55",
-    "summary": "各位佬，大家好。 最近把 Drowsebook （入梦书）上架了。它是一个 iPhone 上的睡前听书 / 本地阅读 App：把自己的 EPUB 、PDF 、TXT 、MOBI 、AZW3 导进去，用 Apple 系统内部的语音读出来，再在下面叠一点雨声、火炉、海浪、森林这类背景音。 做这个东西的起点挺个人的：我有一阵子晚上睡不着，想听点自己的书，但又不想继续刷短视频，也不想再订阅一个内容平台。最开始我也认真考虑过 AI 声音，效果确实更自然，但在手机上长时间跑下来，功耗、发热、延迟和成本都不太像一个“睡前最后半小时”该有的东西。 后来折中下来，我直接用了 Apple 系统自带的语音。高品质语",
-    "collected_at": "2026-05-20T14:43:14.298022",
-    "content_text": "各位佬，大家好。\n最近把 Drowsebook （入梦书）上架了。它是一个 iPhone 上的睡前听书 / 本地阅读 App：把自己的 EPUB 、PDF 、TXT 、MOBI 、AZW3 导进去，用 Apple 系统内部的语音读出来，再在下面叠一点雨声、火炉、海浪、森林这类背景音。\n做这个东西的起点挺个人的：我有一阵子晚上睡不着，想听点自己的书，但又不想继续刷短视频，也不想再订阅一个内容平台。最开始我也认真考虑过 AI 声音，效果确实更自然，但在手机上长时间跑下来，功耗、发热、延迟和成本都不太像一个“睡前最后半小时”该有的东西。\n后来折中下来，我直接用了 Apple 系统自带的语音。高品质语音其实没有想象中差，关键是稳定、省电、不用上传文本，也没有分钟数消耗。这个取舍更符合我自己真实的使用场景：晚上关灯之后，放一点环境音，让手机慢慢把书读完一小段。\n核心功能大概是：\n支持 EPUB / PDF / TXT / MOBI / AZW3 ，本地导入自己的无 DRM 图书\n调用 Apple 系统语音朗读，不走云端 TTS ，没有账号和服务器\n睡眠定时器和淡出，适合睡前听一会儿\n雨声、火炉、海浪、森林等背景音可以叠在朗读下面\n支持 AirPods 前后跳转、书签、章节大纲和自动续读\n不收集书名、阅读进度、书签这些数据\n坦白说目前也不是完美：\nPDF 遇到复杂排版、脚注、页眉页脚时还会有边界情况\nApple 系统语音不等于真人播讲，也不等于云端 AI 情感朗读\n它更适合“睡前听自己的书”，不是内容平台，也不提供书源\n部分特殊编码的老电子书格式还需要继续打磨\n这次想先在 V2EX 放 30 个兑换码，换一些真实反馈。尤其想听：\nApple 系统语音在睡前听书这个场景里是否够用\n背景音和朗读音量混合是否自然\nEPUB/PDF 导入有没有遇到具体问题\n你们希望它更像阅读器，还是更像睡前音频工具\n截图放两张：\nApp Store：\nhttps://apps.apple.com/us/app/drowsebook-read-aloud-ebooks/id6768475647?uo=4\n兑换方式：\niPhone 打开 App Store\n点右上角头像\n选择「兑换礼品卡或代码」\n粘贴下面任意一个兑换码\n本次先放 30 个：\n01. RF9LKLJYLLKE\n02. 4PFFKW7977XW\n03. NY3M3P6NFFEJ\n04. LXP9ALWKMXFH\n05. YPM7M37NXRXW\n06. WJ6TX7R4LEPX\n07. 67P7AXPJXP7H\n08. FRAX6JJ977FA\n09. FX9X4XTKJHAM\n10. KKRAYPJELNXW\n11. YYMMFH66PPAT\n12. WFK4M76LEHWL\n13. J3PPAEXMHHWT\n14. MFYLXNN37MTA\n15. YJX9YRY6JPRE\n16. ATEKXTH3J9WN\n17. YLNEE4XWWL36\n18. M6KXFTJALPPY\n19. E7TTK3Y6RYHX\n20. AJXHPT37RE7R\n21. MMNFNXLK364K\n22. 3EEKKM6PKEF6\n23. EL6WKNAM3KEM\n24. K9PTE4LMWLAK\n25. AYTKEN6E99MT\n26. RLL7H974K79R\n27. 9HWHEXMPK3NT\n28. LMYKP4RFRR4T\n29. AJW7FHTAKYHN\n30. WEE6A7H3LTEP\n如果兑换成功，麻烦在评论里说一下用了哪个码，方便后面的人不要重复试。\n也欢迎直接吐槽。这个东西本来就是自己晚上用出来的，越具体的问题越好改。谢谢各位佬。",
-    "content_source": "readability",
-    "content_chars": 1554,
-    "content_excerpt": "各位佬，大家好。\n最近把 Drowsebook （入梦书）上架了。它是一个 iPhone 上的睡前听书 / 本地阅读 App：把自己的 EPUB 、PDF 、TXT 、MOBI 、AZW3 导进去，用 Apple 系统内部的语音读出来，再在下面叠一点雨声、火炉、海浪、森林这类背景音。\n做这个东西的起点挺个人的：我有一阵子晚上睡不着，想听点自己的书，但又不想继续刷短视频，也不想再订阅一个内容平台。最开始我也认真考虑过 AI 声音，效果确实更自然，但在手机上长时间跑下来，功耗、发热、延迟和成本都不太像一个“睡前最后半小时”该有的东西。\n后来折中下来，我直接用了 Apple 系统自带的语音。高品质语音其实没有想象中差，关键是稳定、省电、不用上传文本，也没有分钟数消耗。这个取舍更符合我自己真实的使用场景：晚上关灯之后，放一点环境音，让手机慢慢把书读完一小段。\n核心功能大概是：\n支持 EPUB / PDF / TXT / MOBI / AZW3 ，本地导入自己的无 DRM 图书\n调用 Apple 系统语音朗读，不走云端 TTS ，没有账号和服务器\n睡眠定时器和淡出，适合睡前听一会儿\n雨声、火炉、海浪、森林等背景音可以叠在朗读下面\n支持 AirPods 前后跳转、书签、章节大纲和自动续读"
-  },
-  {
-    "id": "302b383c17bb",
-    "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
-    "url": "https://www.qbitai.com/2026/05/420656.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-20T05:59:45",
-    "summary": "看谁真正会游泳",
-    "collected_at": "2026-05-20T08:55:20.071059",
-    "content_text": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？\n西风\n2026-05-20\n13:59:45\n来源：\n量子位\n组委会 发自 凹非寺\n量子位 | 公众号 QbitAI\n中国生成式AI，正在穿越产业深水区。\n大家讨论的不再只聚焦参数规模、模型排名和谁又刷新了Benchmark，讨论的焦点来到AI到底有没有真正进入业务流程、有没有真正创造生产力，以及谁能率先跑通下一阶段的应用闭环。\n我们比任何时候都更需要看清，谁真正在深水区里游出了姿态。\n与此同时，行业也进入了新一轮分化，真正的产业化阶段正在到来。当行业从狂热回归理性，真正决定价值的不再是概念的新旧，而是技术扎得多深、场景贴得多紧、商业跑得多远。\n在这样的背景下，第四届中国AIGC产业峰会正式发布：\n2026年度值得关注的AIGC企业\n2026年度值得关注的AIGC产品\n市场需要经过验证的引领者，行业需要经得起审视的标杆答案。\n这份榜单，正是为此而来。\n本次评选收集到了数百份来自企业与产品团队的申报，量子位结合过去一年生成式AI企业与产品的实际表现、用户反馈与行业影响力，并参考数十位行业专家、投资人、技术负责人及产业从业者意见，评选出最终结果。\n2026年度值得关注的AIGC企业\n其中，\n2026年度值得关注的AIGC企业\n覆盖了从底层算力、基础模型到行业应用的全产业链环节。\n这些入选者，或在技术纵深上持续突破，或在商业化落地上跑通了闭环，或在垂直场景里扎下了深根。他们凭借扎实的技术创新能力与可验证的产业实践，共同推动AIGC从“可用”走向“好用”，从“试点”走向“常态”。\n它们分别是：\n2026年度值得关注的AIGC产品\n2026年度值得关注的AIGC产品\n则横跨AI内容创作、智能客服、代码辅助、视频生成、企业知识管理、工业设计等多个赛道。\n这些产品，有的以技术架构的革新刷新了性能天花板，有的以极致的场景适配重新定义了用户体验，有的则以稳健的市场增长证明了AI产品的商业可行性。\n它们在技术创新与实际价值的交汇处，推动着AIGC产业生态走向成熟。\n它们分别是：\n从2023年的技术爆发，到2024年的模型竞赛，再到2025年、2026年的应用落地与产业融合，AIGC正在快速走向下一阶段。\n我们希望，这份榜单能够为身处产业深水区的从业者锚定方向，也为正在发生的AI变革留下一个扎实的注脚。\n潮头之上，行者无疆。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 1148,
-    "content_excerpt": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？\n西风\n2026-05-20\n13:59:45\n来源：\n量子位\n组委会 发自 凹非寺\n量子位 | 公众号 QbitAI\n中国生成式AI，正在穿越产业深水区。\n大家讨论的不再只聚焦参数规模、模型排名和谁又刷新了Benchmark，讨论的焦点来到AI到底有没有真正进入业务流程、有没有真正创造生产力，以及谁能率先跑通下一阶段的应用闭环。"
-  },
-  {
-    "id": "v2ex-1214094",
-    "title": "自用 OpenAI API 中转，邀 同行分摊成本 🤡 🤡 🤡",
-    "url": "https://www.v2ex.com/t/1214094",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-20T05:30:18",
-    "summary": "> 基本情况 * 基于 sub2api 搭建，代码层面可验证, 有问题都是走 PR 等作者合并，无私自改动 * Pro + Plus 账号池，有状态监控页 * 提供 OpenAI 接口，暂不含 Anthropic * 东京节点，延迟友好 * 适合已有接入经验的程序员，不提供手摸手教学 > 试用 aHR0cHM6Ly81ODUwMTZkMy51M3UuZGV2 注册后评论留邮箱（ base64 编码），手动送 $30 额度 之前做过自动发放，被批量薅了，现在手动，见谅 😭 😭 😭 有疑问可以翻我之前的相关帖子 👋 ![img]( https://i.imgur.com/8hSl0bM.png)",
-    "collected_at": "2026-05-20T08:57:41.712230"
-  },
-  {
-    "id": "edb38386220e",
-    "title": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施",
-    "url": "https://www.qbitai.com/2026/05/420651.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-20T05:29:57",
-    "summary": "ATaaS 日均调用量近万亿",
-    "collected_at": "2026-05-20T08:55:20.071090",
-    "content_text": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施\n量子位的朋友们\n2026-05-20\n13:29:57\n来源：\n量子位\n近日，AI Token 生产服务商趋境科技（Approaching.AI）宣布完成数亿元 Pre-A 轮融资。本轮融资由星连资本与华控科技联合领投，弘晖资本、天壕能源、尚势资本、天津仁爱弘盛、杭州福成等机构跟投，老股东高瓴创投（GL Ventures）持续加注。\n本轮融资完成后，趋境科技将继续加大对高效能人工智能 Token 生产服务平台（Approaching AI Token as a Service，ATaaS）的投入，重点推进算力储备及底层推理系统建设，持续交付兼具低时延、高吞吐、稳定结构化输出、可靠函数调用和可预测服务质量的模型输出能力，进一步增强面向企业生产环境的高品质 Token 规模化供给能力。\n趋境科技：国内高品质层级 Token 核心供应商，ATaaS 日均调用量近万亿\n随着大模型应用进入企业生产环境，AI 推理基础设施的评价标准正在发生变化：企业不再只关注算力规模、模型数量和接口丰富度，而是更加看重每一次调用能否稳定、高效、可预期地完成业务交付。 在这一阶段，推理服务的核心竞争力正在\n从“提供模型”转向“生产高品质 Token”\n。首 Token 返回时延、每秒 Token 输出量、结构化输出稳定性、函数调用可靠性，以及高并发场景下的服务质量可预测性，正在成为企业选择 AI 基础设施的重要指标。\n趋境科技认为，Token 已不只是大模型输入输出的基本单位，而是连接模型能力、系统性能、服务稳定性与成本效率的关键生产要素。基于这一判断，公司提出 Token 即服务（Token as a Service，TaaS）的产业理念，并建设高效能人工智能 Token 生产服务平台 ATaaS。相较于传统 MaaS 侧重模型调用与管理，ATaaS 更聚焦企业级生产场景中的推理效能交付，帮助企业获得可规模化、可运营的高品质 Token 生产能力。\n在模型策略上，趋境科技坚持\n“少模型、深优化”\n的路线，不追求泛泛地支持上百种模型，而是聚焦少数高生产力模型，围绕企业真实场景持续优化输出质量、推理效率、TTFT 稳定性和 TPS 表现。对企业客户而言，模型数量并不直接等同于生产力，真正关键的是每一次调用能否稳定支撑业务结果。\n在系统能力上，趋境科技通过异构算力调度、跨集群缓存共享、推理链路隔离、弹性扩缩容和质量监控等能力，将底层算力转化为可持续交付的高品质 AI Token 产能。依托全链路系统工程能力，公司能够在成本可控的前提下，为企业提供更稳定的 TTFT、30–50 TPS 高速级输出能力和可靠的服务保障。\n目前，趋境科技已通过 ATaaS 平台为智谱 GLM、月之暗面 Kimi 等多个企业级客户提供服务，平台日均处理 Token 量近万亿。经过高复杂度、高并发业务场景的长期验证，公司已形成面向规模化推理交付的核心能力。\n不可复制的人才矩阵，商业牵引与技术底座共同护航 ATaaS 战略发展\nTaaS 并非普通应用层产品，而是面向 AI 推理全链路的系统性能力。它既要求团队理解企业客户需求、产业资源、资本路径和商业化节奏，也要求在计算、存储、调度、缓存、推理系统等底层架构领域具备长期积累。趋境科技核心团队兼具商业落地能力与技术研发深度，为 ATaaS 在成立两年内从前沿理念走向头部客户规模化部署奠定了基础。\n在商业与经营层面，趋境科技已形成技术产品化与商业资本化协同推进的组织能力。创始人兼 CEO 艾智远为清华计算机博士，兼具系统研究能力与大厂商业化经验，主导提出 TaaS 产业逻辑，并推动 ATaaS 从技术平台走向企业级生产服务。总裁武文洁博士拥有金融博士及 CFA 资质，具备头部产业与资本机构高管履历，曾主导数十家标杆企业投资并购，全面统筹公司战略、内控与全球化运营。董事长任旭阳为百度早期创业元老，曾牵头创立爱奇艺、一点资讯、海致、News Break 等公司，在产业判断、组织建设、资本协同和生态资源整合方面为公司发展提供支持。\n在技术与科研层面，趋境科技背靠清华大学高性能计算研究所二十余年技术积累，并已完成清华大学相关技术成果作价增资入股流程。该批技术成果由郑纬民院士、武永卫教授、章明星副教授等科研团队长期研发形成，覆盖高性能计算、并行与分布式系统、存储系统、智能算力系统和大模型推理基础设施等关键方向。相关成果的注入，标志着公司与清华科研团队在 AI 基础设施领域的产学研协同进入实质落地阶段。\n其中，趋境科技首席科学顾问郑纬民院士奠定了清华高性能计算领域的学术根基；趋境科技首席科学家武永卫教授长期深耕分布式与存储系统，曾获得多项国家级科技大奖；章明星副教授聚焦大模型推理架构，主导的 KTransformers、Mooncake 等开源项目已在行业内广泛应用。依托清华核心技术成果入股和顶尖科研团队持续支持，趋境科技形成了面向 AI 推理基础设施的系统工程与科研转化壁垒。\n这种技术积累也在开源生态中得到验证。趋境科技与清华团队牵头开源的 KTransformers，是全球首个边缘异构推理框架，GitHub Star 数突破 17k，并成为 GLM、Kimi、Minimax、Qwen 等顶尖大模型的首发推荐推理引擎。在分布式推理方向，趋境科技与清华大学、月之暗面 Kimi、9#AISoft、阿里云、蚂蚁集团等产学研机构共建开源项目 Mooncake；趋境科技技术专家、清华大学博士杨珂等成员作为核心贡献者，深度参与多项关键技术实现与架构建设。此外，趋境也积极参与 SGLang、vLLM、英伟达 Dynamo 等全球推理社区的技术贡献，持续推动 AI 推理基础设施开放生态发展。\n商业团队对产业需求、客户场景和资本路径的把握，叠加技术团队在高性能计算、分布式系统和大模型推理基础设施领域的长期积累，使趋境科技具备了从底层系统研发到企业级规模化交付的完整能力。随着 ATaaS 持续演进，这一复合型团队结构将继续支撑公司提升高品质 Token 的规模化生产与交付能力。\n华控基金董事长张扬表示：\n随着国产大模型能力的快速提升、应用需求的全面爆发，对于词元（Token）的海量需求正在重塑算力产业链。华控基金坚信能够大规模稳定提供高质量 Token的 AI Infra 行业，将成为 Al 产业蓬勃发展的关键基础设施，拥有广阔的市场空间，具备极高的投资价值。趋境科技团队源自清华大学高性能计算所，拥有深厚的科研底蕴，技术扎实，成功打通了底层算力孤岛，已获得上下游生态的高度认可。华控基金将依托丰富的Al产业生态资源，全力支持趋境科技的后续融资与上市进程，陪伴企业成长为全球领先的新一代智算“Token工厂”。\n星连资本合伙人李文珏表示：\n趋境科技在AI基础设施领域展现出卓越技术深度与工程化能力，尤其在Token生产效能方面全球领先。本轮投资看重其ATaaS平台的系统性突破，以及公司将顶尖学术成果快速转化为大规模商业落地的能力。随着AI Agent应用普及和Token需求激增，能高效将算力转化为智能产出的企业将成为产业竞争核心。星连资本相信，未来谁能将主控、调度、runtime、内存管理与模型结构协同优化，谁就更可能掌握下一代AI基础设施的话语权。趋境科技兼具清华顶尖技术背景与丰富商业化经验，使投资方对其在AI Infra赛道的持续成长和市场引领充满信心，并坚定支持其打造高效能AI Token生产的行业标杆。\n转载来源：趋境科技\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 3299,
-    "content_excerpt": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施\n量子位的朋友们\n2026-05-20\n13:29:57\n来源：\n量子位\n近日，AI Token 生产服务商趋境科技（Approaching.AI）宣布完成数亿元 Pre-A 轮融资。本轮融资由星连资本与华控科技联合领投，弘晖资本、天壕能源、尚势资本、天津仁爱弘盛、杭州福成等机构跟投，老股东高瓴创投（GL Ventures）持续加注。\n本轮融资完成后，趋境科技将继续加大对高效能人工智能 Token 生产服务平台（Approaching AI Token as a Service，ATaaS）的投入，重点推进算力储备及底层推理系统建设，持续交付兼具低时延、高吞吐、稳定结构化输出、可靠函数调用和可预测服务质量的模型输出能力，进一步增强面向企业生产环境的高品质 Token 规模化供给能力。\n趋境科技：国内高品质层级 Token 核心供应商，ATaaS 日均调用量近万亿\n随着大模型应用进入企业生产环境，AI 推理基础设施的评价标准正在发生变化：企业不再只关注算力规模、模型数量和接口丰富度，而是更加看重每一次调用能否稳定、高效、可预期地完成业务交付。 在这一阶段，推理服务的核心竞争力正在"
-  },
-  {
-    "id": "690542f3dadb",
-    "title": "阿里发布基于新一代真武芯片的超节点服务器，可支持海量Agent并发推理",
-    "url": "https://36kr.com/newsflashes/3817018077447040?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-20T02:31:34",
-    "summary": "36氪获悉，5月20日，在2026阿里云峰会上，阿里发布基于平头哥新一代AI芯片真武M890的128卡超节点服务器，搭载互联芯片ICN Switch 1.0，通信时延低至百纳秒级，可让128张AI芯片组成一台计算机，满足Agentic时代的并发推理和大模型训练需求。",
-    "collected_at": "2026-05-20T02:36:16.017081"
-  },
-  {
     "id": "hn-48153379",
     "title": "I believe there are entire companies right now under AI psychosis",
     "url": "https://twitter.com/mitchellh/status/2055380239711457578",
@@ -4573,23 +4644,8 @@
     "lang": "en",
     "published": "2026-05-15T20:26:47Z",
     "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
-    "points": 2104,
-    "collected_at": "2026-05-26T20:01:16.073040"
-  },
-  {
-    "id": "43c89eae49e7",
-    "title": "理想新L9上市72小时：老车主复购占大头，仍需从“家庭”破圈",
-    "url": "https://36kr.com/p/3709756082466949?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-20T02:24:46",
-    "summary": "文 | 徐蔡钰 编辑 | 李勤 “爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。 这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。 相较此前的年度改款，本次新L9的更新幅度更加显著： 全系标配72.7kWh电池，纯电续航达到420公里，综合续航突破1600公里。理想自研马赫芯片首次上车，单颗芯片算力达到1280TOPS。线控转向系统与后轮转向技术的加入，带来了底盘能力的大幅升级；Livis版本额外搭载的800V主动悬架与EMB电子机械制动系统，更是",
-    "collected_at": "2026-05-20T02:36:16.015260",
-    "content_text": "文 | 徐蔡钰 编辑 | 李勤\n“爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。\n这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。\n相较此前的年度改款，本次新L9的更新幅度更加显著：\n全系标配72.7kWh电池，纯电续航达到420公里，综合续航突破1600公里。理想自研马赫芯片首次上车，单颗芯片算力达到1280TOPS。线控转向系统与后轮转向技术的加入，带来了底盘能力的大幅升级；Livis版本额外搭载的800V主动悬架与EMB电子机械制动系统，更是汽车底盘前沿技术的首发落地。\n配置拉满的同时，将实际售价较预售价大幅下调5万元，新L9一套“高配降价”的组合拳，力度超出了市场预期。\n新车上市后，理想全国门店似乎复现了2022年第一代L9上市的火爆盛况。\n“这个周末，所有门店、所有时段的理想L9试驾都已经排满”，36氪走访了理想L系列最畅销的广州、深圳地区，多家门店店长告诉36氪，新款L9上市后，门店的确迎来了又一次订单高峰。\n但36氪注意到，大部分门店仅配备一台新款L9试驾车。而行业中其他品牌对热门新车的试驾车投放力度要大得多，例如小米SU7，其首代车型上市时，门店便配备5-6台试驾车，第二代车型上市时，部分核心门店甚至配置约10台试驾车。在试驾车资源受限的前提下，门店的排队盛况能否直接等同于市场的成功引爆？\n与初代L9上市时不同，如今理想的销量基本盘已下移至20-30万元的i6与L6。这意味着，其曾经在高端市场建立的护城河正在松动。（36氪曾报道理想销量迷局，\n点击查看\n）\n因此，这款旗舰新作也被视为理想的翻身仗。新L9的市场反响，远不止于贡献销量数字，更关乎理想能否重新捍卫自己的品牌天花板。\n门店直击：老客户复购率高，Livis版本更具吸引力\n新车上市后72小时，理想汽车官方未曾公布订单数量。\n但理想APP显示，Livis版的交付周期已更新为6-8周。这意味着，仅在上市首周末，其锁单量就相当于该版本超过一个半月的产能。\n“理想L系列一直都是广东地区卖得最好，这个周末，核心地区每家店基本都拿到超过30个订单”，广东地区多家门店店长透露，新款车型上市前，门店甚至已连续数周没有L9的新增订单。\n36氪同步从产业处获悉，截至5月17日，理想L9全国锁单数量已超6500辆，“供应链也接到了加量和加急保交付的需求”。\n多位销售向36氪表示，售价公布后订单转化速度超出预期。“新车上市前一周，我们没有停止过销售线索联系。55.98万元的预售价，其实让很多客户望而却步，我们压力很大”，一位销售坦言，“最终售价发布后，咨询和下单明显加快，总算松了口气”。\n但在公司层面，气氛则更为清醒。一位接近理想的人士对36氪表示，目前的锁单量“远没到开香槟的地步”。内部的真正期待，是让L9重返2023年那种连续多月销量破万的巅峰状态，“目前的锁单量不足以邀功”。\n此外，36氪走访发现，新L9的订单结构中，一个现象尤为突出：不仅顶配的Livis版本订单占比超过七成，所有订单中老车主的复购比例也高达近七成。\n这并非偶然。“我们提前一周就开始系统性地邀约理想ONE和初代L9车主”，多位店长告诉36氪，“周末的试驾车，几乎就是被这些定向邀请的老车主约满”。\n可观的置换权益是推动老客决策的直接动力。多位销售表示，理想ONE车主换购可享5.5万元优惠，Livis版实际落地价约47万元。“老车主品牌信任度高，试驾后直接下单的比例特别大”。\n成交单价与用户画像均显示，Livis版本正在有效拉动品牌向上。但多位一线销售向36氪透露了一个更深层的洞察：选择顶配的车主，其决策逻辑与常规认知有所不同。\n“这些早期车主是我们的‘大熊猫’，一直被精心维护”，一位销售表示，“他们选Livis，更多是出于对品牌的深度信任和足够的预算，而非反复对比配置。参数对他们来说，可能没那么重要”。\n高忠诚客群背后，新L9困于“家庭”标签\n2023年，理想L9以“增程式大六座家庭SUV”的精准定位，成为高端市场销量翘楚。\n这款定位40万-50万元的产品，实现了连续多月交付量破万的成绩，成为细分市场的现象级车型。以L9为起点，理想后续一系列“套娃”车型也相继获得成功，理想汽车一度喊出“上市即交付、交付即上量”的口号，并设定了70万辆的年度销量目标。\n业界将理想L9的成功归因于其突出的产品力，也因此吸引了众多品牌跟进效仿其产品思路。冰箱、后排娱乐屏、舒适型座椅以及宽敞的中央通道，逐渐成为中国市场六座SUV的标配，该细分市场迅速进入竞争激烈的“红海”阶段。\n多位理想销售向36氪透露，在新车上市前的培训中，他们重点分析了竞品问界M9、极氪9X以及蔚来即将推出的ES9。\n“这几款车各有侧重，理想主打家庭用车，问界强调智能驾驶，极氪9X的商务属性最为突出，而蔚来则具备换电体系。我们在向客户介绍时不会刻意贬低竞品，更何况我们的客户群体本身对浓厚商务风格的车型也不太感兴趣。”\n从产品细节中也可以清晰感知其定位差异。新一代理想L9在第二排新增了带照明的化妆镜，并扩大了小桌板面积。这些设计在功能层面并不复杂，却非常贴合家庭出行场景。由于产品定位与目标客群的不同，竞争对手们目前并未在这样的细节打磨上做类似投入。\n对家庭场景的极致洞察与满足，为理想汽车培育了忠诚度较高的用户群体，这是成熟高端品牌所具备的核心特质。\n成熟汽车品牌的护城河，不仅在于产品本身，更在于能否让用户持续选择并主动推荐。这种忠诚不依赖产品参数，更多源于情感联结与整体体验的深度契合。高忠诚度意味着品牌能够以更低的获客成本实现增长，并在市场波动中保持稳健的经营韧性。\n这也解释了为何如丰田、宝马等品牌即便下滑，依然能维持可观的销量基本盘，忠诚用户就是它们穿越周期的坚实底座。\n对理想而言，高忠诚度直接体现在用户的复购行为上。从理想ONE置换至新L9的客户，未来仍大概率继续选择理想品牌。\n36氪在门店走访中观察到，蔚来的复购率就没有那么明显，新ES8、新ES9等新车订单中，首次选购蔚来的比例相当高，蔚来新车目前仍然处于产品力竞争阶段。\n多位一线销售对36氪表示，即使是老车主，下单也较为谨慎。“我们很少遇到不看实车就盲定的。基本都是我们建议，然后客户邀上全家来看、来试。最后能不能成，就看新L9能不能让全家都点头”。\n这便产生了另一重隐忧，尽管新款L9在技术上进行了全面革新，包括底盘、悬架、转向、制动等核心系统的升级，但L9依然被锚定在“家庭旗舰SUV”的认知中。\n有极氪门店销售人士告诉36氪：“很多来看极氪9X的客户，甚至从未考虑过或体验过理想汽车，他们需要这辆车的商务身份象征”。\n通过新L9，理想对家庭产品的打磨能力和用户口碑再次得到验证。但理想汽车的野心绝非仅此，新L9在售价与前沿技术广度上的双双上探，已清晰地揭示了理想品牌向上的更大蓝图。\n然而，中国市场50万元级别车型的年销量天花板就在数十万辆级。更重要的是，这个高端市场里，家庭需求仅是其一，它同样承载着对品牌积淀、商务社交与圈层影响力的严苛要求。\n如今，这个细分战场早已不是2023年理想一家独大的光景，至少三四个玩家已牢牢抓住了各自独特的卡位，与理想汽车共同瓜分市场增量与存量。\n如何让那些因“奶爸车”标签从未考虑过理想的用户走进门店、如何说服消费者理想汽车的产品力已进入智能化和底盘时代、如何说服高端用户理想汽车也能从容应对商务场景和个人价值表达，这才是理想L9的真正挑战。",
-    "content_source": "readability",
-    "content_chars": 3124,
-    "content_excerpt": "文 | 徐蔡钰 编辑 | 李勤\n“爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。\n这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。\n相较此前的年度改款，本次新L9的更新幅度更加显著：\n全系标配72.7kWh电池，纯电续航达到420公里，综合续航突破1600公里。理想自研马赫芯片首次上车，单颗芯片算力达到1280TOPS。线控转向系统与后轮转向技术的加入，带来了底盘能力的大幅升级；Livis版本额外搭载的800V主动悬架与EMB电子机械制动系统，更是汽车底盘前沿技术的首发落地。\n配置拉满的同时，将实际售价较预售价大幅下调5万元，新L9一套“高配降价”的组合拳，力度超出了市场预期。\n新车上市后，理想全国门店似乎复现了2022年第一代L9上市的火爆盛况。\n“这个周末，所有门店、所有时段的理想L9试驾都已经排满”，36氪走访了理想L系列最畅销的广州、深圳地区，多家门店店长告诉36氪，新款L9上市后，门店的确迎来了又一次订单高峰。\n但36氪注意到，大部分门店仅配备一台新款L9试驾车。而行业中其他品牌对热门新车的试驾车投放力度要大得多，例如小米SU7，其首代车型上市时，门店便配备5-6台试驾车，第二代车型上市时，部分核心门店甚至配置约10台试驾车。在试驾车资源受限的前提下，门店的排队盛况能否直接等同于市场的成功引爆？\n与初代L9上市时不同，如今理想的销量基本盘已下移至20-30万元的i6与L6。这意味着，其曾经在高端市场建立的护城河正在松动。（36氪曾报道理想销量迷局，"
+    "points": 2105,
+    "collected_at": "2026-05-27T02:41:41.058623"
   },
   {
     "id": "hn-48085821",
@@ -4600,7 +4656,7 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-05-26T20:01:16.073101"
+    "collected_at": "2026-05-27T02:41:41.058685"
   },
   {
     "id": "hn-48019219",
@@ -4611,7 +4667,7 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "points": 1755,
-    "collected_at": "2026-05-26T20:01:16.073128"
+    "collected_at": "2026-05-27T02:41:41.058712"
   },
   {
     "id": "hn-47679121",
@@ -4622,7 +4678,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-26T20:01:16.073208"
+    "collected_at": "2026-05-27T02:41:41.058789"
   },
   {
     "id": "hn-47363754",
@@ -4633,7 +4689,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-26T20:01:16.073325"
+    "collected_at": "2026-05-27T02:41:41.058897"
   },
   {
     "id": "hn-47340079",
@@ -4644,7 +4700,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-26T20:01:16.072935"
+    "collected_at": "2026-05-27T02:41:41.058515"
   },
   {
     "id": "hn-47225130",
@@ -4655,7 +4711,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-26T20:01:16.073367"
+    "collected_at": "2026-05-27T02:41:41.058940"
   },
   {
     "id": "hn-47136179",
@@ -4666,7 +4722,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-26T20:01:16.073062"
+    "collected_at": "2026-05-27T02:41:41.058646"
   },
   {
     "id": "hn-46990729",
@@ -4677,7 +4733,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-26T20:01:16.073010"
+    "collected_at": "2026-05-27T02:41:41.058591"
   },
   {
     "id": "hn-45941596",
@@ -4688,7 +4744,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-26T20:01:16.073379"
+    "collected_at": "2026-05-27T02:41:41.058952"
   },
   {
     "id": "hn-45930151",
@@ -4699,7 +4755,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-26T20:01:16.073417"
+    "collected_at": "2026-05-27T02:41:41.059004"
   },
   {
     "id": "hn-44972151",
@@ -4710,7 +4766,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-26T20:01:16.073153"
+    "collected_at": "2026-05-27T02:41:41.058736"
   },
   {
     "id": "hn-44396518",
@@ -4721,7 +4777,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-26T20:01:16.073281"
+    "collected_at": "2026-05-27T02:41:41.058862"
   },
   {
     "id": "hn-44314423",
@@ -4732,7 +4788,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-26T20:01:16.073338"
+    "collected_at": "2026-05-27T02:41:41.058910"
   },
   {
     "id": "hn-44163063",
@@ -4743,7 +4799,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-26T20:01:16.072984"
+    "collected_at": "2026-05-27T02:41:41.058564"
   },
   {
     "id": "hn-42910910",
@@ -4754,7 +4810,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-26T20:01:16.073165"
+    "collected_at": "2026-05-27T02:41:41.058748"
   },
   {
     "id": "hn-41392128",
@@ -4765,7 +4821,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-26T20:01:16.073076"
+    "collected_at": "2026-05-27T02:41:41.058660"
   },
   {
     "id": "hn-41386319",
@@ -4776,7 +4832,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-26T20:01:16.073089"
+    "collected_at": "2026-05-27T02:41:41.058672"
   },
   {
     "id": "hn-41069829",
@@ -4787,7 +4843,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-26T20:01:16.073430"
+    "collected_at": "2026-05-27T02:41:41.059017"
   },
   {
     "id": "hn-41046773",
@@ -4798,7 +4854,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-26T20:01:16.072972"
+    "collected_at": "2026-05-27T02:41:41.058551"
   },
   {
     "id": "hn-40767459",
@@ -4809,7 +4865,7 @@
     "published": "2024-06-23T13:49:30Z",
     "summary": "I am using AI to drop hats outside my window onto New Yorkers",
     "points": 1347,
-    "collected_at": "2026-05-26T20:01:16.073444"
+    "collected_at": "2026-05-27T02:41:41.059030"
   },
   {
     "id": "hn-39918245",
@@ -4820,7 +4876,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-26T20:01:16.073391"
+    "collected_at": "2026-05-27T02:41:41.058965"
   },
   {
     "id": "hn-39526057",
@@ -4831,7 +4887,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-26T20:01:16.072958"
+    "collected_at": "2026-05-27T02:41:41.058538"
   },
   {
     "id": "hn-38544729",
@@ -4842,7 +4898,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-26T20:01:16.073021"
+    "collected_at": "2026-05-27T02:41:41.058603"
   },
   {
     "id": "hn-37021160",
@@ -4853,7 +4909,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-26T20:01:16.073178"
+    "collected_at": "2026-05-27T02:41:41.058761"
   },
   {
     "id": "hn-31812259",
@@ -4864,7 +4920,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-26T20:01:16.073349"
+    "collected_at": "2026-05-27T02:41:41.058922"
   },
   {
     "id": "hn-18249755",
@@ -4875,7 +4931,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-26T20:01:16.073139"
+    "collected_at": "2026-05-27T02:41:41.058723"
   },
   {
     "id": "hn-17022963",
@@ -4886,7 +4942,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-26T20:01:16.073114"
+    "collected_at": "2026-05-27T02:41:41.058698"
   },
   {
     "id": "hn-15892066",
@@ -4897,7 +4953,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-26T20:01:16.073313"
+    "collected_at": "2026-05-27T02:41:41.058884"
   },
   {
     "id": "hn-6830566",
@@ -4908,6 +4964,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-26T20:01:16.073402"
+    "collected_at": "2026-05-27T02:41:41.058976"
   }
 ]
