@@ -5964,6 +5964,30 @@
     "collected_at": "2026-05-17T02:16:57.677888"
   },
   {
+    "id": "github-1249180847",
+    "name": "autowarefoundation/auto_fsd",
+    "display_name": "auto_fsd",
+    "url": "https://github.com/autowarefoundation/auto_fsd",
+    "description": "An open-source End-to-End AI model for self driving",
+    "stars": 8,
+    "forks": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "autonomous-driving",
+      "autonomous-vehicles",
+      "end-to-end-machine-learning",
+      "self-driving-cars",
+      "world-foundation-models"
+    ],
+    "created_at": "2026-05-25T12:38:19Z",
+    "updated_at": "2026-05-27T08:11:29Z",
+    "license": "Apache-2.0",
+    "source": "github-search",
+    "collected_at": "2026-05-27T09:34:15.096442"
+  },
+  {
     "id": "github-1201368235",
     "name": "fs0ci5ty/Artificial-Intelligence-Learning-Resources-Collection",
     "display_name": "Artificial-Intelligence-Learning-Resources-Collection",
