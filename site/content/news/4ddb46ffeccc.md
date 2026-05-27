@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "只需一段提示词"
 summary_zh = ""
 tags = []
-list_page = 1
+list_page = 3
 +++
 
 <!-- AUTO-GENERATED: news page -->

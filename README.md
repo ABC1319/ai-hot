@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-27 17:36:06
+🕐 **最近更新**：2026-05-27 23:04:04
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,27 +16,31 @@
 
 ## 🔥 今日热点
 
-1. [由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30%](https://aihot.bt199.com/news/1e2ebecf46ce/)
-   - Google 在 I/O 2026 上彻底改革了搜索，用 AI 代理取代了蓝色链接。反弹很快。随着用户寻找出路，Duck…
-   - `TechCrunch AI · 2026-05-26`
+1. [Startup Battlefield 200 申请今天截止：提名创始人或提交您的初创公司](https://aihot.bt199.com/news/2563f610a12c/)
+   - 今天是申请或提名初创公司参加 Startup Battlefield 200 的最后一天。当时钟敲响晚上 11:59 时…
+   - `TechCrunch AI · 2026-05-27`
 
-2. [OpenRouter 一年内估值翻倍多至 $1.3B](https://aihot.bt199.com/news/1ab37a271eb8/)
-   - OpenRouter 已筹集由 CapitalG 领投的 1.13 亿美元 B 轮融资。六个月内其使用量增长了 5 倍…
-   - `TechCrunch AI · 2026-05-26`
+2. [SOND 是 Bose 前睡眠主管创办的睡眠科技初创公司，以 700 万美元退出隐秘状态](https://aihot.bt199.com/news/3f0ce030b5e2/)
+   - SOND 是一家由 Bose 前睡眠产品负责人领导的初创公司，凭借 700 万美元的资金开发其人工智能睡眠耳塞，脱颖而出…
+   - `TechCrunch AI · 2026-05-27`
 
-3. [教皇是否使用人工智能来写人工智能的危险？](https://aihot.bt199.com/news/82d8e009ac4a/)
-   - 教皇利奥十四世关于人工智能对人类影响的最新通谕的部分内容可能是用人工智能编写的。根据热门 A 的说法，Linch 张在…
+3. [Robinhood 将让你的人工智能代理交易股票并赚（或赔）很多钱](https://aihot.bt199.com/news/2422c4a58256/)
+   - Robinhood 正在向人工智能代理开放其交易平台。 Robinhood 在周三的一份声明中表示，交易者现在可以为人工…
    - `The Verge AI · 2026-05-27`
 
-4. [重新思考代理人工智能时代的组织设计](https://aihot.bt199.com/news/b920d871e577/)
+4. [这款智能喂鸟器捕捉到了我后院的更多戏剧](https://aihot.bt199.com/news/4faf7b5a927c/)
+   - 自从搬到南卡罗来纳州的低地地区后，我就被无数与我们共享海岸的美丽鸟类所吸引——鱼鹰在通往我女儿学校的路旁高耸的巢穴中抚养…
+   - `The Verge AI · 2026-05-27`
+
+5. [重新思考代理人工智能时代的组织设计](https://aihot.bt199.com/news/b920d871e577/)
    - 随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。 尽管 85% 的组织表示他们希望在未来三年内实现代理，但…
    - `MIT Tech Review · 2026-05-26`
 
-5. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
+6. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
    - “BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次
    - `Ars Technica AI · 2026-05-26`
 
-6. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
+7. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
    - 批评人士指出，美国参议院候选人提起的诉讼缺乏事实支持
    - `Ars Technica AI · 2026-05-22`
 
@@ -123,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
