@@ -260,17 +260,17 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Kimi K2.6 (free)",
       "Kimi K2.6",
-      "Kimi K2.5",
-      "Kimi K2 Thinking"
+      "Kimi K2.5"
     ],
-    "model_count": 5,
+    "model_count": 6,
     "last_updated": "2026-04-20",
     "modalities": [
       "多模态",
       "文本"
     ],
-    "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 Kimi K2.6",
+    "live_summary": "OpenRouter 已收录 6 个该作者/厂商相关模型，最近更新为 Kimi K2.6 (free)",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=moonshot.cn&sz=64"
   },

@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-27 23:04:04
+🕐 **最近更新**：2026-05-28 04:07:09
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,20 +16,20 @@
 
 ## 🔥 今日热点
 
-1. [Startup Battlefield 200 申请今天截止：提名创始人或提交您的初创公司](https://aihot.bt199.com/news/2563f610a12c/)
-   - 今天是申请或提名初创公司参加 Startup Battlefield 200 的最后一天。当时钟敲响晚上 11:59 时…
+1. [薪资初创公司 Remote 表示，在不增加员工人数的情况下，每位员工的收入增长了 50%](https://aihot.bt199.com/news/b20d73959a82/)
+   - 薪资服务提供商 Remote 最近的年度经常性收入 (ARR) 超过 3 亿美元，并实现正现金流，这得益于人工智能的采用…
    - `TechCrunch AI · 2026-05-27`
 
-2. [SOND 是 Bose 前睡眠主管创办的睡眠科技初创公司，以 700 万美元退出隐秘状态](https://aihot.bt199.com/news/3f0ce030b5e2/)
-   - SOND 是一家由 Bose 前睡眠产品负责人领导的初创公司，凭借 700 万美元的资金开发其人工智能睡眠耳塞，脱颖而出…
+2. [您的 SEO 策略针对不再存在的搜索引擎进行了优化。](https://aihot.bt199.com/news/1eb01a951326/)
+   - Google I/O 正式宣布：人工智能生成的答案现在位于搜索的前沿和中心，而大多数品牌几乎不了解人工智能如何向客户描述…
    - `TechCrunch AI · 2026-05-27`
 
-3. [Robinhood 将让你的人工智能代理交易股票并赚（或赔）很多钱](https://aihot.bt199.com/news/2422c4a58256/)
-   - Robinhood 正在向人工智能代理开放其交易平台。 Robinhood 在周三的一份声明中表示，交易者现在可以为人工…
+3. [人工智能试图埋葬这位政客——现在人们真的听说过他](https://aihot.bt199.com/news/a0c082562cbc/)
+   - 到 6 月纽约第 12 国会选区的民主党初选结束时，Anthropic 和 OpenAI 将花费数百万美元来争夺人工智能…
    - `The Verge AI · 2026-05-27`
 
-4. [这款智能喂鸟器捕捉到了我后院的更多戏剧](https://aihot.bt199.com/news/4faf7b5a927c/)
-   - 自从搬到南卡罗来纳州的低地地区后，我就被无数与我们共享海岸的美丽鸟类所吸引——鱼鹰在通往我女儿学校的路旁高耸的巢穴中抚养…
+4. [Robinhood 将让你的人工智能代理交易股票并赚（或赔）很多钱](https://aihot.bt199.com/news/2422c4a58256/)
+   - Robinhood 正在向人工智能代理开放其交易平台。 Robinhood 在周三的一份声明中表示，交易者现在可以为人工…
    - `The Verge AI · 2026-05-27`
 
 5. [重新思考代理人工智能时代的组织设计](https://aihot.bt199.com/news/b920d871e577/)
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
