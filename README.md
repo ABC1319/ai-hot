@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-28 10:30:15
+🕐 **最近更新**：2026-05-28 17:53:02
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,16 +16,16 @@
 
 ## 🔥 今日热点
 
-1. [对于亚马逊来说，更多好消息是 Snowflake 与 AWS 签署了 60 亿美元的 AI CPU 芯片协议](https://aihot.bt199.com/news/d73c2adfc401/)
-   - Snowflake 与亚马逊签署了一项新的、为期五年的巨额协议，以确保人工智能使用的芯片。英伟达再次受到关注
-   - `TechCrunch AI · 2026-05-27`
+1. [Vertu 希望首席执行官能够通过起价 6,880 美元的人工智能折叠屏来运营公司](https://aihot.bt199.com/news/b16689dc6815/)
+   - Vertu 的新型可折叠手机建立在开源 Hermes 项目之上，结合了人工智能代理工作流程、企业集成和超高级奢华饰面
+   - `TechCrunch AI · 2026-05-28`
 
-2. [人工智能试图埋葬这位政客——现在人们真的听说过他](https://aihot.bt199.com/news/a0c082562cbc/)
+2. [YouTube 将允许你要求 AI 制作自定义视频源](https://aihot.bt199.com/news/1124afc5e505/)
+   - YouTube 正在推出一项新的人工智能功能，可根据您想观看的内容的描述创建个性化视频源。 YouTube 在其公告中表…
+   - `The Verge AI · 2026-05-28`
+
+3. [人工智能试图埋葬这位政客——现在人们真的听说过他](https://aihot.bt199.com/news/a0c082562cbc/)
    - 到 6 月纽约第 12 国会选区的民主党初选结束时，Anthropic 和 OpenAI 将花费数百万美元来争夺人工智能…
-   - `The Verge AI · 2026-05-27`
-
-3. [Robinhood 将让你的人工智能代理交易股票并赚（或赔）很多钱](https://aihot.bt199.com/news/2422c4a58256/)
-   - Robinhood 正在向人工智能代理开放其交易平台。 Robinhood 在周三的一份声明中表示，交易者现在可以为人工…
    - `The Verge AI · 2026-05-27`
 
 4. [重新思考代理人工智能时代的组织设计](https://aihot.bt199.com/news/b920d871e577/)
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

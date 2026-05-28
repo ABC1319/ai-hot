@@ -20,7 +20,7 @@ ai_summary = "Google 在 I/O 2026 上彻底改革了搜索，用 AI 代理取代
 summary = "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
 summary_zh = "Google 在 I/O 2026 上彻底改革了搜索，用 AI 代理取代了蓝色链接。反弹很快。随着用户寻找出路，DuckDuckGo 应用程序安装量激增 30%"
 tags = []
-list_page = 6
+list_page = 8
 +++
 
 <!-- AUTO-GENERATED: news page -->

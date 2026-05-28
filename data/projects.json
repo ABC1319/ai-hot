@@ -5710,6 +5710,35 @@
     "collected_at": "2026-05-14T08:31:50.845865"
   },
   {
+    "id": "github-1244750915",
+    "name": "zjunlp/MemTrace",
+    "display_name": "MemTrace",
+    "url": "https://github.com/zjunlp/MemTrace",
+    "description": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems",
+    "stars": 9,
+    "forks": 1,
+    "language": null,
+    "topics": [
+      "agent",
+      "agent-tracing",
+      "artificial-intelligence",
+      "attributing-errors",
+      "debugging",
+      "large-language-models",
+      "memory-system",
+      "memtrace",
+      "natural-language-processing",
+      "tool",
+      "tracing",
+      "tracing-errors"
+    ],
+    "created_at": "2026-05-20T15:02:05Z",
+    "updated_at": "2026-05-28T09:26:32Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-28T09:51:18.257550"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",
