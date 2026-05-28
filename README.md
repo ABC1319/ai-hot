@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-28 23:36:30
+🕐 **最近更新**：2026-05-29 04:12:18
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,31 +16,27 @@
 
 ## 🔥 今日热点
 
-1. [新 Siri 应用先睹为快，揭示苹果计划挑战 ChatGPT 等](https://aihot.bt199.com/news/5ae8ee806afa/)
-   - 新的渲染让人们更仔细地了解苹果计划对 iOS 27 进行的人工智能改造，包括重新设计的 Siri 体验驱动的独立 Sir…
+1. [Asana 收购无代码代理构建器 Stack AI](https://aihot.bt199.com/news/0d22b3289c3b/)
+   - Asana 将把 Stack AI 纳入其不断增长的 AI 工作流程工具套件中
    - `TechCrunch AI · 2026-05-28`
 
-2. [RSI 是新的 AGI——而且同样难以确定](https://aihot.bt199.com/news/0ec483fbd67f/)
-   - 一批新的人工智能实验室专注于递归的自我改进——但事实证明，目标是难以捉摸的
+2. [Anthropic 融资 650 亿美元，IPO 前估值接近 1T 美元](https://aihot.bt199.com/news/fa304b3484d5/)
+   - Anthropic 已完成 650 亿美元的 H 轮融资，投后估值为 9650 亿美元，这可能是这家人工智能初创公司在备…
    - `TechCrunch AI · 2026-05-28`
 
-3. [这些新的 iOS 27 渲染暗示了 Siri 的重大重新设计](https://aihot.bt199.com/news/5dd8b5fd7446/)
-   - 苹果期待已久的 Siri 改革预计将在 iOS 27 中发布，它可能看起来很像带有 Liquid Glass 的 Cha…
+3. [一部耗资 2,000 美元的人工智能生成电影将在翠贝卡 (Tribeca) 首映](https://aihot.bt199.com/news/3bce87a3c6c3/)
+   - 下个月的翠贝卡节将首映一部人工智能生成的电影：《紫罗兰之梦》。据好莱坞早先报道，这部时长 75 分钟的电影虚构了伊朗政府…
    - `The Verge AI · 2026-05-28`
 
-4. [CNN 因“逐字”模仿文章而起诉 Perplexity](https://aihot.bt199.com/news/f480aff02820/)
-   - 据 CNN 早些时候报道，CNN 已对 Perplexity 提起诉讼，声称该初创公司的人工智能工具生成了其作品的“逐字…
-   - `The Verge AI · 2026-05-28`
-
-5. [人工智能炒作指数：人工智能在毕业季遭到嘘声](https://aihot.bt199.com/news/2c6e5bbca2bc/)
+4. [人工智能炒作指数：人工智能在毕业季遭到嘘声](https://aihot.bt199.com/news/2c6e5bbca2bc/)
    - 说人工智能将改变世界是一回事。期望 2026 届毕业生为它鼓掌则是另一回事。事实上，当谷歌前首席执行官埃里克·施密特 (…
    - `MIT Tech Review · 2026-05-28`
 
-6. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
+5. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
    - “BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次
    - `Ars Technica AI · 2026-05-26`
 
-7. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
+6. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
    - 批评人士指出，美国参议院候选人提起的诉讼缺乏事实支持
    - `Ars Technica AI · 2026-05-22`
 
@@ -127,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

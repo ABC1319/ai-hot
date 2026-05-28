@@ -72,16 +72,16 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
-      "Claude Opus 4.7 (Fast)",
-      "Claude Opus 4.7",
-      "Claude Opus 4.6 (Fast)"
+      "Claude Opus 4.8 (Fast)",
+      "Claude Opus 4.8",
+      "Claude Opus 4.7 (Fast)"
     ],
-    "model_count": 13,
-    "last_updated": "2026-05-12",
+    "model_count": 15,
+    "last_updated": "2026-05-27",
     "modalities": [
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 13 个该作者/厂商相关模型，最近更新为 Claude Opus 4.7 (Fast)",
+    "live_summary": "OpenRouter 已收录 15 个该作者/厂商相关模型，最近更新为 Claude Opus 4.8 (Fast)",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },

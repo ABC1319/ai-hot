@@ -20,7 +20,7 @@ ai_summary = "这是今天的《下载》版本，这是我们的工作日时事
 summary = "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world o"
 summary_zh = "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。密切关注今年夏天人工智能领域的最新动态，在《麻省理工学院技术评论》中，我们确切地了解来自世界各地的新闻步伐是多么的无情"
 tags = []
-list_page = 7
+list_page = 8
 +++
 
 <!-- AUTO-GENERATED: news page -->
