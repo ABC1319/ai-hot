@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1.0-lite，兼具顶尖性能与极致性价比。 SkyClaw-v1.0 支持百万token上下文，深度适配各类真实智能体工作场景，重点优化复杂工具调用、多轮任务执行、代码生成、文件编辑、交互式应用构建与研究型数据分析。模型经过大规模 mid-train、高质量合成任务 SFT 与端到端强化学习优化，可在 OpenClaw、Hermes、Nanobot 等主流 Agent 环境中运行，同时适配Claude Code、Codex 等代码 Agent 框架，通用性与"
 summary_zh = ""
 tags = []
-list_page = 10
+list_page = 12
 +++
 
 <!-- AUTO-GENERATED: news page -->

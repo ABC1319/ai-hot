@@ -181,17 +181,17 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
-      "Qianfan-OCR-Fast",
       "ERNIE 4.5 21B A3B Thinking",
-      "ERNIE 4.5 21B A3B"
+      "ERNIE 4.5 21B A3B",
+      "ERNIE 4.5 VL 28B A3B"
     ],
-    "model_count": 6,
-    "last_updated": "2026-04-20",
+    "model_count": 5,
+    "last_updated": "2025-10-09",
     "modalities": [
-      "多模态",
-      "文本"
+      "文本",
+      "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 6 个该作者/厂商相关模型，最近更新为 Qianfan-OCR-Fast",
+    "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 ERNIE 4.5 21B A3B Thinking",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=yiyan.baidu.com&sz=64"
   },

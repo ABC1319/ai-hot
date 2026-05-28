@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-28 17:53:02
+🕐 **最近更新**：2026-05-28 23:36:30
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [Vertu 希望首席执行官能够通过起价 6,880 美元的人工智能折叠屏来运营公司](https://aihot.bt199.com/news/b16689dc6815/)
-   - Vertu 的新型可折叠手机建立在开源 Hermes 项目之上，结合了人工智能代理工作流程、企业集成和超高级奢华饰面
+1. [新 Siri 应用先睹为快，揭示苹果计划挑战 ChatGPT 等](https://aihot.bt199.com/news/5ae8ee806afa/)
+   - 新的渲染让人们更仔细地了解苹果计划对 iOS 27 进行的人工智能改造，包括重新设计的 Siri 体验驱动的独立 Sir…
    - `TechCrunch AI · 2026-05-28`
 
-2. [YouTube 将允许你要求 AI 制作自定义视频源](https://aihot.bt199.com/news/1124afc5e505/)
-   - YouTube 正在推出一项新的人工智能功能，可根据您想观看的内容的描述创建个性化视频源。 YouTube 在其公告中表…
+2. [RSI 是新的 AGI——而且同样难以确定](https://aihot.bt199.com/news/0ec483fbd67f/)
+   - 一批新的人工智能实验室专注于递归的自我改进——但事实证明，目标是难以捉摸的
+   - `TechCrunch AI · 2026-05-28`
+
+3. [这些新的 iOS 27 渲染暗示了 Siri 的重大重新设计](https://aihot.bt199.com/news/5dd8b5fd7446/)
+   - 苹果期待已久的 Siri 改革预计将在 iOS 27 中发布，它可能看起来很像带有 Liquid Glass 的 Cha…
    - `The Verge AI · 2026-05-28`
 
-3. [人工智能试图埋葬这位政客——现在人们真的听说过他](https://aihot.bt199.com/news/a0c082562cbc/)
-   - 到 6 月纽约第 12 国会选区的民主党初选结束时，Anthropic 和 OpenAI 将花费数百万美元来争夺人工智能…
-   - `The Verge AI · 2026-05-27`
+4. [CNN 因“逐字”模仿文章而起诉 Perplexity](https://aihot.bt199.com/news/f480aff02820/)
+   - 据 CNN 早些时候报道，CNN 已对 Perplexity 提起诉讼，声称该初创公司的人工智能工具生成了其作品的“逐字…
+   - `The Verge AI · 2026-05-28`
 
-4. [重新思考代理人工智能时代的组织设计](https://aihot.bt199.com/news/b920d871e577/)
-   - 随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。 尽管 85% 的组织表示他们希望在未来三年内实现代理，但…
-   - `MIT Tech Review · 2026-05-26`
+5. [人工智能炒作指数：人工智能在毕业季遭到嘘声](https://aihot.bt199.com/news/2c6e5bbca2bc/)
+   - 说人工智能将改变世界是一回事。期望 2026 届毕业生为它鼓掌则是另一回事。事实上，当谷歌前首席执行官埃里克·施密特 (…
+   - `MIT Tech Review · 2026-05-28`
 
-5. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
+6. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
    - “BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次
    - `Ars Technica AI · 2026-05-26`
-
-6. [为什么谷歌的人工智能无法拼写Google（或其他任何东西）](https://aihot.bt199.com/news/efa51fc32d2a/)
-   - 谷歌再次让自己难堪
-   - `TechCrunch AI · 2026-05-28`
 
 7. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
    - 批评人士指出，美国参议院候选人提起的诉讼缺乏事实支持
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
