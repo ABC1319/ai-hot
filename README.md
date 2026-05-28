@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-28 04:07:09
+🕐 **最近更新**：2026-05-28 10:30:15
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [薪资初创公司 Remote 表示，在不增加员工人数的情况下，每位员工的收入增长了 50%](https://aihot.bt199.com/news/b20d73959a82/)
-   - 薪资服务提供商 Remote 最近的年度经常性收入 (ARR) 超过 3 亿美元，并实现正现金流，这得益于人工智能的采用…
+1. [对于亚马逊来说，更多好消息是 Snowflake 与 AWS 签署了 60 亿美元的 AI CPU 芯片协议](https://aihot.bt199.com/news/d73c2adfc401/)
+   - Snowflake 与亚马逊签署了一项新的、为期五年的巨额协议，以确保人工智能使用的芯片。英伟达再次受到关注
    - `TechCrunch AI · 2026-05-27`
 
-2. [您的 SEO 策略针对不再存在的搜索引擎进行了优化。](https://aihot.bt199.com/news/1eb01a951326/)
-   - Google I/O 正式宣布：人工智能生成的答案现在位于搜索的前沿和中心，而大多数品牌几乎不了解人工智能如何向客户描述…
-   - `TechCrunch AI · 2026-05-27`
-
-3. [人工智能试图埋葬这位政客——现在人们真的听说过他](https://aihot.bt199.com/news/a0c082562cbc/)
+2. [人工智能试图埋葬这位政客——现在人们真的听说过他](https://aihot.bt199.com/news/a0c082562cbc/)
    - 到 6 月纽约第 12 国会选区的民主党初选结束时，Anthropic 和 OpenAI 将花费数百万美元来争夺人工智能…
    - `The Verge AI · 2026-05-27`
 
-4. [Robinhood 将让你的人工智能代理交易股票并赚（或赔）很多钱](https://aihot.bt199.com/news/2422c4a58256/)
+3. [Robinhood 将让你的人工智能代理交易股票并赚（或赔）很多钱](https://aihot.bt199.com/news/2422c4a58256/)
    - Robinhood 正在向人工智能代理开放其交易平台。 Robinhood 在周三的一份声明中表示，交易者现在可以为人工…
    - `The Verge AI · 2026-05-27`
 
-5. [重新思考代理人工智能时代的组织设计](https://aihot.bt199.com/news/b920d871e577/)
+4. [重新思考代理人工智能时代的组织设计](https://aihot.bt199.com/news/b920d871e577/)
    - 随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。 尽管 85% 的组织表示他们希望在未来三年内实现代理，但…
    - `MIT Tech Review · 2026-05-26`
 
-6. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
+5. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
    - “BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次
    - `Ars Technica AI · 2026-05-26`
+
+6. [为什么谷歌的人工智能无法拼写Google（或其他任何东西）](https://aihot.bt199.com/news/efa51fc32d2a/)
+   - 谷歌再次让自己难堪
+   - `TechCrunch AI · 2026-05-28`
 
 7. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
    - 批评人士指出，美国参议院候选人提起的诉讼缺乏事实支持
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

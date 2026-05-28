@@ -1,5 +1,112 @@
 [
   {
+    "id": "a07c3f70a626",
+    "title": "小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+    "url": "https://www.infoq.cn/article/4wj8IF5MLjHd3QdvkzTt?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-28T10:02:30",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-28T02:28:29.827803",
+    "content_text": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n小红书 AI 工程架构师郝栩彬确认出席 “\nAgent 系统架构与工程化实践\n” 专题，发表题为\n《\nSelf-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案\n》\n的主题分享。在长程 Agent 场景中，系统瓶颈正从“模型单步能力”转向“能否在有限上下文、缓存窗口和持续工具交互约束下长期稳定运行”。现有工作大多聚焦上下文接近上限后的最终 compaction，但对进入重压缩之前的前序整理层，以及压缩过程与 Prompt Cache 的协同考虑仍然不足。本次分享将介绍他们在企业内部办公智能体 OpenClaw 上探索的 Self-GC 方案：借鉴 Java GC 对运行时对象持续管理的思想，将多轮 Session 上下文对象化，并通过显式寻址、低损 prune/mask/fold、plan/commit 解耦、cache-aware delayed commit 等机制，把上下文治理前置到运行过程。\n郝栩彬，小红书 AI 工程架构师，目前主要从事智能体受控长程任务研究工作，在上下文编辑、多智能体场景有较多经验，毕业后曾就职于字节跳动和百度，从事 SaaS 、研发工具、及其智能化工作他在本次会议的详细演讲内容如下：\n演讲提纲：\n问题背景：为什么长程 Agent 需要新的上下文治理方式\n长历史、多工具调用、长周期任务的真实系统压力 为什么“快爆窗了再 summary”不够 compaction 为什么正在成为 harness 的核心组成部分\n现有方案的不足\n常规 self-summary：更像最后阶段集中压缩\nTool-result pruning：更偏局部优化 retrieval memory：更像后置外存机制 为什么现有方案大多缺少前序整理层和 cache-aware 设计\nSelf-GC 核心设计\n上下文对象化：user turn span / tool object 显式注入 turn id，让模型具备上下文寻址能力 低损整理动作：prune / mask / fold fold 后的幂等恢复：本地文件 / 旁路存储 / read 恢复\n把整理前置到运行过程\n阈值触发而不是每轮强制执行 after-turn self-review 为什么 fork 完整上下文 + 尾部追加 planning prompt 有利于复用 prefix cache\nCache-aware 的关键设计\nplan first, commit later delayed commit 避免频繁打断前缀一致性 收益函数： Award ≈ N_future × (C - C') - L_cache_break - L_GC 该函数如何同时服务工程评估和后续训练优化\n效果评估方法\n从真实触发重压缩的 session 中取样 在 25% / 50% / 75% 切点做前序整理模拟 用后续真实对话轨迹做离线评估 如何判断 Self-GC 是否有效、是否值得\n工程收益粗估与适用边界\n当前业务规模下的 10%–30% 净 TPM 收益区间 哪些场景适合 Self-GC 哪些场景更适合 memory / retrieval / tool pruning\n未来工作\n模型原生寻址能力 模型自主触发能力 模型原生整理能力\n听众收益：\n获得一套更适合长程 Agent 的上下文治理思路，理解为什么仅靠最终 summary / compaction 不足以支撑真实多轮任务\n学到一套可落地的 Self-GC 设计框架，包括对象建模、显式寻址、低损整理、幂等恢复、plan/commit 解耦与 cache-aware delayed commit\n带走一套可复用的工程评估方法，知道如何用真实 session、真实后续轨迹和收益模型来判断一个上下文治理方案是否真的有效、是否值得上线\n实践痛点：\n传统 compaction 大多发生在上下文已经接近上限时，这更像一种最后阶段的集中处理。它虽然能缓解爆窗，但往往介入时机较晚，容易一次性丢失较多结构信息，也难以回答“在进入重压缩之前，系统还能做什么”\n真实 Agent 的上下文并不是纯文本，而是 user / assistant、多轮工具调用、冗长工具结果、中间计划、失败重试等混合对象。如果缺少对象化表示和显式寻址，模型只能对整段模糊历史做 summary，很难像 GC 一样精确标记和清理具体对象\n很多压缩方案忽视了 prefix cache。工程上，如果每轮都改写历史前缀，虽然 token 可能变少，但 cache 命中率也可能显著下降，最终吞掉压缩收益\n低损整理如果没有恢复语义，就很难真正落地。很多被 fold 的工具结果虽然不应继续长期留在主上下文里，但后续又可能需要稳定恢复，因此工程上必须同时解决“如何整理”和“如何幂等恢复”\n除此之外，本次大会还策划了\n端侧 AI、物理与数字空间智能化\n、\n世界模型与多模态智能突破\n、\nAgent 架构与工程化实践\n、\nAgent 安全与可信治理\n、\n企业级研发体系重构\n、\nAI 原生数据工程\n、\nAI 时代的个人提效与组织变革\n等 14 个专题论坛，届时将有来自不同行业、不同领域、不同企业的 50+资深专家在现场带来前沿技术洞察和一线实践经验。\n更多详情可扫码或联系票务经理 13269078023 进行咨询。",
+    "content_source": "readability",
+    "content_chars": 2500,
+    "content_excerpt": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业。那么，世界模型的下一个突破在哪？Agent 从 Demo 到工程化还差什么？研发体系不重构，还能撑多久？\n6 月 26 日-6 月 27 日，\nAICon全球人工智能开发与应用大会\n将在上海举办。本次大会将围绕以上问题，邀请来自腾讯、阿里、快手、华为、飞猪等 50+头部企业的技术负责人、高校与科研机构的一线专家，分享 Agent 在真实生产环境中的落地经验与前瞻思考。深入探讨 Agent 从原型到量产的工程挑战、数据与记忆的基础设施底座、安全可信的落地保障，以及大模型推理优化、智算架构升级等关键命题。\n小红书 AI 工程架构师郝栩彬确认出席 “\nAgent 系统架构与工程化实践\n” 专题，发表题为\n《\nSelf-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案\n》"
+  },
+  {
+    "id": "243f12367f9c",
+    "title": "美国监管机构正着手撤销对温克莱沃斯兄弟旗下加密交易所的500万美元罚款",
+    "url": "https://36kr.com/newsflashes/3828334727893633?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-28T02:23:28",
+    "summary": "美国商品期货交易委员会（CFTC）周三请求法官撤销该机构对一家加密货币交易所开出的500万美元罚款，该交易所由一对双胞胎兄弟创立，他们曾向特朗普2024年竞选活动捐款。CFTC表示，监管机构本不该指控泰勒和卡梅伦·温克莱沃斯兄弟旗下的Gemini信托公司，称其在比特币期货业务中存在虚假陈述。（新浪财经）",
+    "collected_at": "2026-05-28T02:28:28.588188"
+  },
+  {
+    "id": "4828efff0295",
+    "title": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+    "url": "https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-28T09:21:37",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-28T02:28:29.827840"
+  },
+  {
+    "id": "26187b9713f3",
+    "title": "郭明錤：联发科或成为Terafab的合作对象，预计2028年为马斯克生产芯片",
+    "url": "https://36kr.com/newsflashes/3828315640222600?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-28T02:04:03",
+    "summary": "分析师郭明錤发文称，在数家ASIC厂商中，联发科较有可能成为Terafab的合作对象，联发科将全面支持Intel 14A先进制造工艺与先进封装的导入与生产，预计自2028年开始小量生产马斯克的IC设计团队必备芯片。（财联社）",
+    "collected_at": "2026-05-28T02:28:28.588419"
+  },
+  {
+    "id": "bc5615db071b",
+    "title": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+    "url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-28T09:19:26",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-28T02:28:29.827867"
+  },
+  {
+    "id": "cf8a3a4baada",
+    "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+    "url": "https://36kr.com/p/3827585618154118?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-05-28T00:35:00",
+    "summary": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉，AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。 库兰织梦成立于2023年，创始人吴同曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏创作大赛最佳玩法奖，上榜2",
+    "collected_at": "2026-05-28T02:28:28.586636",
+    "content_text": "文丨刘士武\n封面来源 | Funloom 官网\n36氪获悉，\nAI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。\n本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。\n库兰织梦成立于2023年，\n创始人吴同\n曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏创作大赛最佳玩法奖，上榜25Under25 AI创业者榜单；\nCTO张吉豪\n在像素软件作为主程研发《勇者大冒险》《寻仙》等游戏，后出任阿里巴巴高级技术专家，主导从零搭建淘宝特价版搜索、推荐、广告引擎平台，参与1688、淘宝搜索推荐引擎建设；\nCOO郑君凯\n曾任百度游戏总经理，曾创办上海快盘科技并完成数轮融资，拥有20年游戏行业从业经历。\n目前团队正在持续吸引游戏、AI行业的顶级人才加入，另有3位核心成员曾担任大厂、独角兽企业高管，均带出过亿级收入爆款。\nFunloom核心团队\n作为一家AI内容共创平台公司，库兰织梦目前推出的核心产品是\n一站式AI内容共创引擎「Funloom AI」\n，公司致力于研究AI技术在内容创作领域的各类落地场景，目标是降低内容创作门槛，让创作回归创意本身，内容载体涵盖游戏、视频、图文。\n创始人吴同认为，AI对于游戏行业最大的变革从来不是提升了多少生产力效率，而是改变了生产关系：把游戏内容生产从过去必须依托公司的大型组织模式，下放到个人和小团队，让更多有创意的人能以极低的成本把自己的想法落地，开拓长尾市场带来新的增长点。\n库兰织梦最早从AI VibeCoding生成游戏切入，推出了RetainerAI游戏生成工具，但团队很快发现了这条路线的核心问题：绝大部分用户无法写清楚提示词，也不懂专业知识，很难通过纯工具直接将想法落地成一款合格的游戏。\n“每个人都能讲出一种感觉，但现有的工具无法实现这种感觉，AI也猜不到。”吴同告诉36氪，这是直接导致纯vibe coding路线难以做出好游戏的关键原因。和很多追求一步到位做端到端游戏生成的团队不同，\nFunloom选择把产品迭代拆成了一个个台阶，一步一步往最终目标靠近。\n“我们不会说把产品马上做成最终形态，立刻就让任何人几句话生成3A大作，那不现实。”吴同表示，团队现阶段的核心目标非常明确：帮助本来就有想法、有创意的创作者砍掉创意之外所有不必要的沉没成本，让他们只需要花心思打磨内容本身即可。\n为了实现这个目标，库兰织梦把一款游戏的核心要素拆解为四个原子能力——\n剧情、视觉、数值、交互\n，逐个突破。\n内容制作工作台\n剧情部分已经率先解决：团队通过“认知工程”模式，结合专业写作者的合作，把小说戏剧创作中制造冲突、构建起伏、设计明线暗线的方法抽象成模式，训练出的生成能力远高于原生大模型，能让剧情始终保持吸引力，避免落入俗套。\n接下来即将要落地的是视觉部分。现在AI生图已经有成熟方案，团队要做的就是把生成的美术素材自动适配到现有游戏工程中，把原本粗糙的H5白膜一键替换成美术渲染效果，通过定位识别法拆分UI元素、背景图，完成自动替换，让生成游戏的视觉体验焕然一新。\n内容制作工作台\n再往后的是数值和交互。和很多人把数值当成精密计算问题不同，库兰织梦团队认为，数值本质上是“剧情的延伸”，最终目的是服务于用户的心流体验和情绪起伏。什么时候让玩家战力增速放缓制造卡点，什么时候给玩家神器突破瓶颈营造爽点，这些都需要和剧情系统深度绑定，而非单纯的函数计算，团队正围绕“心流服务”重构数值生成逻辑。\n在吴同看来，游戏行业这么多年来之所以同质化严重、换皮横行，本质原因还是生产关系导致的：过去做一款游戏至少要砸几百万进去，团队不得不追求确定性，只能去换皮验证过的成熟玩法，不敢去碰新鲜有创意但没被验证过的题材。\n部分Funloom作者在社交媒体上宣传游戏\n但AI时代来了之后，生产门槛被拉低，一个人就能做出可玩性较高的游戏。“很多题材不是没有用户，只是过去根本不可能立项。”吴同举例，做历史题材大家都扎堆做三国，因为三国认知度高、受众基数大，做项目立项能通过，但为什么鲜有人做明朝背景的游戏？不是明朝没有受众，只是在过去的生产关系下，没人敢赌。现在AI把成本打下来了，小团队甚至个人就能做，例如Funloom自研的《崇祯模拟器》刚一出来就获得了大量玩家的认可，证明题材的需求一直都在，只是缺一个落地的机会。\n目前，库兰织梦选择从文字游戏切入，并逐步升级模态直到RPG：用户只要能讲清楚自己想要一个什么样的世界，就能生成一款可玩的文字游戏，不需要懂代码、不需要懂美术，只需要专注打磨自己的故事。\n“我告诉你获得了一把宝剑，文字就能让你知道这件事，给你一张宝剑的图片也可以，有一个宝剑飞进你的角色背包也可以，本质上你的心流体验没有差别——你知道你拿到了一把宝剑这件事，是最核心的。”吴同表示，团队后续不断丰富视觉、交互、数值能力，本质上都是在丰富表演形式，降低玩家理解门槛，让更多玩家愿意来玩，核心逻辑从来没有变：让创作者聚焦故事，聚焦创意，其他事情都交给AI。\n从今年3月15日首轮冷启动测试一个月，已有超过5000名创作者使用Funloom AI，并吸引了数万玩家\n，其中仅一款《崇祯模拟器》就吸引了近两万玩家参与体验，平台上还自发涌现出了《南宋模拟器》《清朝模拟器》以及修仙、武侠、西幻、恐怖、跑团等各种各样题材的创作，很多玩家玩着玩着就成了创作者，其中不乏文学、影视行业的从业者。\nFunloom官网\n值得一提的是，库兰织梦从一开始就验证了商业化路径：平台按Token收费，用户创作内容、消费内容需要消耗Token，目前日平均客单价达到了25元/天，用户愿意为了体验和创作付费，证明这个模式是成立的。\n“很多AI游戏平台一开始都靠免费拉量，但最后发现留存很差，因为大部分用户都是过来尝鲜的，不是真正的客户。”吴同表示，Funloom从一开始就做商业化测试，就是为了验证真需求，结果证明：愿意为好内容付费的用户，本来就有定制化需求，他们就是平台真正的创作者和消费者，这在商业上是天然自洽的。\n“大厂的逻辑和个人创作者、工作室不太一样，很多小众创意项目在大厂很难立项，而这些项目便是我们服务的对象。”\n郑君凯认为，AI带来的生产关系变革，本来就是给中小创作者和小团队的机会，这个赛道很难被大厂独占。\n完成了核心模式验证后，库兰织梦接下来会继续加快产品研发、丰富功能、扩大团队，目标是构建完整的AI游戏UGC商业化闭环，让更多有想法的创作者能低门槛落地自己的作品，让玩家能玩到更多真正有创意、有特点的新游戏。\n“我们相信，AI生产关系变革会带来内容创作的大爆发，游戏行业也不例外，未来会有成千上万的新游戏来自普通创作者，我们就是要做那个帮他们把创意落地的平台。”吴同说道。\n本文首发自“36氪游戏”。",
+    "content_source": "readability",
+    "content_chars": 2929,
+    "content_excerpt": "文丨刘士武\n封面来源 | Funloom 官网\n36氪获悉，\nAI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。\n本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。\n库兰织梦成立于2023年，\n创始人吴同\n曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏创作大赛最佳玩法奖，上榜25Under25 AI创业者榜单；\nCTO张吉豪\n在像素软件作为主程研发《勇者大冒险》《寻仙》等游戏，后出任阿里巴巴高级技术专家，主导从零搭建淘宝特价版搜索、推荐、广告引擎平台，参与1688、淘宝搜索推荐引擎建设；"
+  },
+  {
+    "id": "c69f80506c39",
+    "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+    "url": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-28T09:15:19",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-28T02:28:29.827915",
+    "content_text": "Pullfrog\n是由\nColin McDonnell\n创建的一款开源 AI 驱动的 GitHub bot，目前处于 beta 阶段。它将自己定位为 CodeRabbit 的模型无关替代方案，并且完全运行在 GitHub Actions 内部。\nMcDonnell 最广为人知的身份，是\nZod\n的创建者。Zod 是一个 TypeScript 优先的 schema 验证库，在 GitHub 上拥有超过 42,000 个 star。他于 2026 年 5 月 12 日\n发布\n了 Pullfrog。该工具被设计为 GitHub 内部异步开发的编排层，可以监听 webhook，并根据可配置事件触发 AI agent 运行，例如新的 pull request、issue、CI 失败以及 review 提交。\n与 CodeRabbit 不同，后者是一个托管式 SaaS 平台，并使用自己的 AI 模型；Pullfrog 采用的是自带密钥（bring-your-own-key，BYOK）的方式。开发者可以连接任意 LLM 提供商，包括 Anthropic、OpenAI、Google、Mistral、DeepSeek 和 OpenRouter，并且只需修改一项配置，就可以在不同模型之间切换。所有 API key 都通过 GitHub 的 secret 管理系统存储，agent 运行则通过一个专用的 pullfrog.yml workflow 文件，在仓库自己的 GitHub Actions 环境中执行。\n开始使用 Pullfrog，需要先安装\nPullfrog GitHub App\n，并向仓库中添加 workflow 文件。\n之后，开发者可以在任何 issue、pull request 或评论中标记 @pullfrog 来触发一次 agent 运行，也可以在\nPullfrog 控制台\n中配置自动化触发器。完整的安装指南可以在\n官方文档中\n查看。\n该 agent 自带一个专门构建的 MCP server，用于执行 git 和 GitHub 操作，例如创建 pull request、留下 review、读取 CI 日志以及管理 issue。Shell 命令会在隔离的子进程中运行，无法访问敏感环境变量。它还内置了一个无头浏览器工具，使 agent 无需额外配置，就可以运行端到端测试、截图，并对 UI 进行迭代。\n近几个月，AI 代码审查领域的竞争格局已经明显扩大。自 2023 年以来，CodeRabbit 一直是专门代码审查工具中的既有领导者；而 GitHub Copilot 的代码审查能力于 2025 年 4 月\n推出\n，并凭借原生平台集成实现了快速采用。\nGreptile\n和\nBito\n等其他工具也在这一领域展开竞争。\nPullfrog 的差异化之处在于，它采用开源许可证，具备模型无关性，并且覆盖范围更广，不止于代码审查，还扩展到 issue 分流、CI 自动修复、合并冲突解决和计划生成。\n该发布在社区中引发了超过 50 条回复和超过 1,000 个点赞。一位用户问道：\n它能不能在本地运行，用于那些还没推送到 GitHub 或云端 Agent 的 Agentic 工作流？\n对此，McDonnell 回复道：\nPullfrog 是构建在 OpenCode 和 Claude Code 之上的一层运行框架，主要面向 CI 场景。\n如果是本地开发，你可以直接使用 OpenCode 或 Claude Code，并让它们访问 git 和 gh CLI。我们很快会推出一个 CLI，用来快速启动运行在 GitHub Actions 里的云端 Agent。不过，我们并不打算把 Pullfrog 做成一个本地开发时使用的 Agent。\nPullfrog 是由 Colin McDonnell 创建的一款开源 AI 驱动的 GitHub bot，McDonnell 最知名的身份是 Zod 的作者。它为 pull request review、issue 分流和 CI 修复提供模型无关、基于 agent 的自动化能力，并且完全运行在 GitHub Actions 中，而不需要依赖托管式第三方服务。自 2025 年底首次预览以来，该项目的\n源代码\n已经获得了超过 400 个 star。\n原文连接：\nhttps://www.infoq.com/news/2026/05/pullfrog-ai-github/",
+    "content_source": "readability",
+    "content_chars": 1863,
+    "content_excerpt": "Pullfrog\n是由\nColin McDonnell\n创建的一款开源 AI 驱动的 GitHub bot，目前处于 beta 阶段。它将自己定位为 CodeRabbit 的模型无关替代方案，并且完全运行在 GitHub Actions 内部。\nMcDonnell 最广为人知的身份，是\nZod\n的创建者。Zod 是一个 TypeScript 优先的 schema 验证库，在 GitHub 上拥有超过 42,000 个 star。他于 2026 年 5 月 12 日\n发布\n了 Pullfrog。该工具被设计为 GitHub 内部异步开发的编排层，可以监听 webhook，并根据可配置事件触发 AI agent 运行，例如新的 pull request、issue、CI 失败以及 review 提交。\n与 CodeRabbit 不同，后者是一个托管式 SaaS 平台，并使用自己的 AI 模型；Pullfrog 采用的是自带密钥（bring-your-own-key，BYOK）的方式。开发者可以连接任意 LLM 提供商，包括 Anthropic、OpenAI、Google、Mistral、DeepSeek 和 OpenRouter，并且只需修改一项配置，就可以在不同模型之间切换。所有 API key 都通过 GitHub 的 secret 管理系统存储，agent 运行则通过一个专用的 pullfrog.yml workflow 文件，在仓库自己的 GitHub Actions 环境中执行。"
+  },
+  {
+    "id": "efa51fc32d2a",
+    "title": "Why Google’s AI can’t spell Google (or anything else)",
+    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-28T00:17:41",
+    "summary": "Google is embarrassing itself, again.",
+    "collected_at": "2026-05-28T02:28:23.540228",
+    "content_text": "How many Ps are in Google? According to Google, there are two.\nThere’s also is also “exactly 1 ‘r’ in the word ‘poop’,” Google’s AI Overview says, as well as two ‘d’s in the word journalism, yet spelled it: j-o-u-r-n-a-d-i-s-m. Google did at least identify that there is one P in the last name of the U.S. president, but spelled it as t-r-p-u-m.\nYou didn’t need to be a prophet to predict that\nGoogle’s AI-forward Search overhaul\nwas going to go over poorly. We’ve done this before. The first time Google added AI Overviews to Search, the feature ended up\nciting satirical posts from The Onion and Reddit\n, advising people to eat rocks and put glue on their pizza.\nThis time around, as Google doubles down on its commitment to make generative AI the centerpiece of its 29-year-old flagship product, it’s not surprising to see it stumble.\n“Counting within words has been a known challenge for LLMs, and we’re working to fix this particular issue,” Google told TechCrunch in an emailed statement.\nThese basic spelling errors may seem familiar. LLMs, the kind of artificial intelligence that powers chatbots and other text-generators, are not built to understand spelling. It’s been a running joke for years that whenever a company unveils a new AI model, you should ask it\nhow many ‘r’s are in the word strawberry\n. These AI models — which can code an app in seconds, or solve problems that have stumped mathematicians for decades — are about as good as a kindergartener at spelling.\nGoogle’s AI overview woes reach beyond silly spelling mistakes though. Google already patched an issue from last week in which searching the word “\ndisregard\n” would yield what looked like a dictionary definition of the word, only the definition was shown as, “Understood. Let me know whenever you have a new prompt or question!” But these spelling errors have remained amusing because they’re so difficult to quash.\nAs researchers have\npreviously explained\nwhen we’ve asked about these spelling conundrums, AI doesn’t perceive sentences as units of language made up of words and letters. Many LLMs are built on transformers models, which break down text into tokens, which can be full words, syllables, or letters, depending on the model. Instead of “reading” like a human would, the AI converts the text into numerical representations of itself, which are then contextualized to help the AI come up with a logical response.\nImage Credits:\nTechCrunch\n“LLMs are based on this transformer architecture, which notably is not actually reading text. What happens when you input a prompt is that it’s translated into an encoding,” Matthew Guzdial, an AI researcher and assistant professor at the University of Alberta,\ntold TechCrunch\n. “When it sees the word ‘the,’ it has this one encoding of what ‘the’ means, but it does not know about ‘T,’ ‘H,’ ‘E.’”\nThe token-based architecture that powers LLMs like Google’s AI overview is inherently limiting, and researchers haven’t been optimistic that they can solve the spelling problem.\n“It’s kind of hard to get around the question of what exactly a ‘word’ should be for a language model, and even if we got human experts to agree on a perfect token vocabulary, models would probably still find it useful to ‘chunk’ things even further,” Sheridan Feucht, a PhD student studying large language model interpretability at Northeastern University,\ntold TechCrunch\n. “My guess would be that there’s no such thing as a perfect tokenizer due to this kind of fuzziness.”\nThis isn’t necessarily an urgent problem on researchers’ minds, since the utility of LLMs doesn’t come in their capacity to spell. But these blatant failures help us remember that AI is not perfect, even if it may sometimes seem like an all-knowing power beyond our comprehension. We cannot blindly trust AI outputs without double-checking their accuracy.",
+    "content_source": "readability",
+    "content_chars": 3843,
+    "content_excerpt": "How many Ps are in Google? According to Google, there are two.\nThere’s also is also “exactly 1 ‘r’ in the word ‘poop’,” Google’s AI Overview says, as well as two ‘d’s in the word journalism, yet spelled it: j-o-u-r-n-a-d-i-s-m. Google did at least identify that there is one P in the last name of the U.S. president, but spelled it as t-r-p-u-m.\nYou didn’t need to be a prophet to predict that\nGoogle’s AI-forward Search overhaul\nwas going to go over poorly. We’ve done this before. The first time Google added AI Overviews to Search, the feature ended up\nciting satirical posts from The Onion and Reddit\n, advising people to eat rocks and put glue on their pizza.\nThis time around, as Google doubles down on its commitment to make generative AI the centerpiece of its 29-year-old flagship product, it’s not surprising to see it stumble.\n“Counting within words has been a known challenge for LLMs, and we’re working to fix this particular issue,” Google told TechCrunch in an emailed statement.\nThese basic spelling errors may seem familiar. LLMs, the kind of artificial intelligence that powers chatbots and other text-generators, are not built to understand spelling. It’s been a running joke for years that whenever a company unveils a new AI model, you should ask it",
+    "title_zh": "为什么谷歌的人工智能无法拼写Google（或其他任何东西）",
+    "summary_zh": "谷歌再次让自己难堪",
+    "ai_summary": "谷歌再次让自己难堪"
+  },
+  {
     "id": "274dc1910613",
     "title": "利润暴涨755%，AI赚疯了，芯片工人却不干了",
     "url": "https://www.infoq.cn/article/ZNlUMcBQHIRjQcRuLxzT?utm_source=rss&utm_medium=article",
@@ -13,6 +120,53 @@
     "content_source": "readability",
     "content_chars": 6716,
     "content_excerpt": "引发全球热议的三星罢工，还没开始就结束了\n没人想到，全球 AI 算力狂潮最先引爆的，不是芯片短缺，是一场规模空前的大罢工。\n近期，韩国媒体密集报道了三星员工拟集体罢工的消息。导火索是三星电子管理层与工会的最新一轮薪资谈判宣告破裂。\n若双方在最后调解期限内仍无法达成一致，自 5 月 21 日起，超过 4 万名员工将启动为期 18 天的大规模罢工，三星核心的半导体制造部门预计将受到直接冲击。\n结果极具戏剧性的一幕发生了。\n这场轰动全球半导体圈的超长时间罢工，在开始前的一小时被按下了暂停键。\n据韩联社报道，当地时间 5 月 21 日，在距离三星电子工会原定总罢工启动仅剩最后 1 个小时之际，劳资双方突然就达成了初步协议。\n协议内容包括，在维持既有年终奖制度的基础上，三星电子负责半导体的设备解决方案（DS）部门将获得一笔新增的特别绩效奖。该奖金仅在营业利润超过一定条件时生效，公司将拿出“业绩”的 10.5%作为资金来源。特别绩效奖以股票形式发放，不设上限，为期 10 年。\n具体分配方式为：资金的 40%按 DS 全部门统一分配，60%按各子事业部绩效分配。据韩联社援引业界预测，按照这一方案，DS 部门存储芯片部的员工今年有望获得人均 6 亿韩元（约合人民币 272 万元）的绩效奖金。\n此外，在薪资方面，三星同意今年平均加薪 6.2%，并改善员工育儿补贴及住房贷款福利。"
+  },
+  {
+    "id": "d73c2adfc401",
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-05-27T20:10:00",
+    "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+    "collected_at": "2026-05-28T02:28:23.540268",
+    "content_text": "Cloud data storage giant Snowflake has signed a new $6 billion five-year agreement with Amazon Web Services, the companies\nannounced\non Wednesday.\nSnowflake has always run on AWS, though obviously, these days, it is also available on Microsoft Azure and Google Cloud. For comparison on just how big this deal is for these companies, Snowflake has sold $7 billion worth of its services via AWS Marketplace total since it was founded in 2012, AWS says. So this new contract is close to all the money it has ever brought in from that cloud.\nIt can do that because Snowflake’s customers are accelerating their spending on AWS as of late, Snowflake says, doubling in 2025 to $2 billion for that calendar year alone.\nWhat’s driving the growth is, naturally, AI. Snowflake has been offering its AI building tool, Cortex AI, for a couple of years now. It’s a tool that makes sense: Snowflake is where much of an enterprise’s data lives. The AI tool can provide features like a text interface for database queries (just ask, in regular language), summary reports, and so on.\nOf particular note is that Snowflake is signing this contract for more access to AWS’s home-grown ARM-based CPU chip, Graviton.\nAs AI moves from training to daily usage to automation via agents, CPU usage skyrockets. While GPUs handle training and reasoning, CPUs handle most of the rest of the tasks associated with AI, particularly agents.\nAmazon CEO Andy Jassy\nlast month boasted that Amazon’s own homegrown AI chips\noffer “better price-performance” than Nvidia’s offerings, though AWS still uses Nvidia’s chips in its cloud. Demand is so high for AI processing that cloud providers like AWS are deploying chips as fast as they can. On top of that, all of the major AI model makers (and many other AI offerings) have architected their apps specifically for Nvidia’s chips.\nStill, Amazon’s own chips are a more affordable option for the cloud giant to deploy. Amazon, ever the price-conscious company, says it passes those savings along to its customers.\nConsequently, these chips are luring in new multi-billion-dollar deals. Last month, for instance, AWS signed a deal to provide\nmillions of Graviton chips to Meta\nfor its growing AI compute needs. That was a big win for AWS because Meta had signed a $10 billion deal with Google Cloud a few months earlier.\nMore than that, these deals are serving as notice to Nvidia that competitive CPUs from the cloud giants are attempting to come for its lunch. Google has also been making its own AI chips for years. Microsoft just launched its\nMaia AI chip in January.\nNot surprisingly, Nvidia CEO Jensen Huang said last week that he’s more than ready to defend, and even grow, his turf. The new AI-specific CPU his company launched, called Vera,\nrepresents a ‘brand new” $200 billion market for Nvidia\n, he proclaimed after delivering another record-breaking quarter last week. And he’s already sold $20 billion worth, he said.\nWhile Nvidia may not be giving up market share to Amazon or any cloud provider that easily, AWS’s multi-billion-dollar cloud deals show how AI is lifting its boat. Whichever companies benefit most from the rise of AI in our work and home lives, the cloud providers are getting their share.",
+    "content_source": "readability",
+    "content_chars": 3229,
+    "content_excerpt": "Cloud data storage giant Snowflake has signed a new $6 billion five-year agreement with Amazon Web Services, the companies\nannounced\non Wednesday.\nSnowflake has always run on AWS, though obviously, these days, it is also available on Microsoft Azure and Google Cloud. For comparison on just how big this deal is for these companies, Snowflake has sold $7 billion worth of its services via AWS Marketplace total since it was founded in 2012, AWS says. So this new contract is close to all the money it has ever brought in from that cloud.\nIt can do that because Snowflake’s customers are accelerating their spending on AWS as of late, Snowflake says, doubling in 2025 to $2 billion for that calendar year alone.\nWhat’s driving the growth is, naturally, AI. Snowflake has been offering its AI building tool, Cortex AI, for a couple of years now. It’s a tool that makes sense: Snowflake is where much of an enterprise’s data lives. The AI tool can provide features like a text interface for database queries (just ask, in regular language), summary reports, and so on.\nOf particular note is that Snowflake is signing this contract for more access to AWS’s home-grown ARM-based CPU chip, Graviton.\nAs AI moves from training to daily usage to automation via agents, CPU usage skyrockets. While GPUs handle training and reasoning, CPUs handle most of the rest of the tasks associated with AI, particularly agents.\nAmazon CEO Andy Jassy\nlast month boasted that Amazon’s own homegrown AI chips",
+    "title_zh": "对于亚马逊来说，更多好消息是 Snowflake 与 AWS 签署了 60 亿美元的 AI CPU 芯片协议",
+    "summary_zh": "Snowflake 与亚马逊签署了一项新的、为期五年的巨额协议，以确保人工智能使用的芯片。英伟达再次受到关注",
+    "ai_summary": "Snowflake 与亚马逊签署了一项新的、为期五年的巨额协议，以确保人工智能使用的芯片。英伟达再次受到关注"
+  },
+  {
+    "id": "16b0cdbcc363",
+    "title": "YouTube to automatically label AI-generated videos",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-27T20:00:51",
+    "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 556 # Comments: 336",
+    "collected_at": "2026-05-28T02:28:26.847968",
+    "content_text": "May 27, 2026 [[read-time]] minute read\nWe've heard consistently from our community that they value transparency when it comes to generative AI content. That’s why since 2024, we've been labeling content when creators disclose they've used AI tools.\nWe've learned in that time about what people find useful when it comes to AI disclosures, and today we're making two updates that we think will make this process much simpler and more intuitive for creators and viewers on YouTube.\nMore visible, simplified labels\nWe’re moving the disclosure label for photorealistic and meaningfully AI altered or generated content to a more prominent position.\n- For Long-form Videos: The label will now appear directly below the video player, above the description.\n- For Shorts: The label will appear as an overlay on the video itself.\nBy moving these labels on to the main stage, viewers get the context they need at a glance. This is now the single label format for all photorealistic and meaningfully AI altered or generated content on YouTube.\nFor content that is unrealistic, animated, or slightly altered, viewers can find this disclosure in the expanded description.\nIntroducing automatic AI detection\nWhile we still require creators to manually disclose when they use realistic AI, we want to make the process more seamless and reliable. Starting in May 2026, we’re rolling out new internal signals to help identify AI-generated content.\nIf a creator doesn’t specify whether or not they used AI, but our systems detect significant photorealistic AI use, we will now automatically apply a label.\nAs this technology continues to improve, creators remain in control. If a creator thinks their content was incorrectly identified as AI-generated, they can update the disclosure status in YouTube Studio. However, disclosures will remain permanent in a handful of cases, including:\n- Content created using YouTube’s own AI tools, like Veo or Dream Screen.\n- Content containing C2PA metadata indicating they were fully generative AI.\nOur commitment to responsibility\nThese changes are designed to balance transparency with creator control. It’s important to note that a disclosure label alone does not change how a video is recommended or whether it’s eligible to earn money. In a world where AI is changing what’s possible, our goal is simple: make it as easy as possible for creators and viewers to have the right information.",
+    "content_source": "trafilatura",
+    "content_chars": 2414,
+    "content_excerpt": "May 27, 2026 [[read-time]] minute read\nWe've heard consistently from our community that they value transparency when it comes to generative AI content. That’s why since 2024, we've been labeling content when creators disclose they've used AI tools.\nWe've learned in that time about what people find useful when it comes to AI disclosures, and today we're making two updates that we think will make this process much simpler and more intuitive for creators and viewers on YouTube.\nMore visible, simplified labels\nWe’re moving the disclosure label for photorealistic and meaningfully AI altered or generated content to a more prominent position.\n- For Long-form Videos: The label will now appear directly below the video player, above the description.\n- For Shorts: The label will appear as an overlay on the video itself.\nBy moving these labels on to the main stage, viewers get the context they need at a glance. This is now the single label format for all photorealistic and meaningfully AI altered or generated content on YouTube.\nFor content that is unrealistic, animated, or slightly altered, viewers can find this disclosure in the expanded description.\nIntroducing automatic AI detection",
+    "title_zh": "YouTube 将自动标记人工智能生成的视频",
+    "summary_zh": "https://variety.com/2026/digital/news/youtube-ai-video-label... 评论网址：https://news.ycombinator.com/item?id=48299753 积分：55…",
+    "ai_summary": "https://variety.com/2026/digital/news/youtube-ai-video-label…"
+  },
+  {
+    "id": "ede83e81258a",
+    "title": "深度访谈预告：后龙虾时代，Agent如何真正走进企业生产场景？",
+    "url": "https://www.infoq.cn/video/p8ypAHvS7KK114BbAAN7?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-05-27T20:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-27T15:01:13.345059"
   },
   {
     "id": "b20d73959a82",
@@ -33,15 +187,19 @@
     "ai_summary": "薪资服务提供商 Remote 最近的年度经常性收入 (ARR) 超过 3 亿美元，并实现正现金流，这得益于人工智能的采用…"
   },
   {
-    "id": "ede83e81258a",
-    "title": "深度访谈预告：后龙虾时代，Agent如何真正走进企业生产场景？",
-    "url": "https://www.infoq.cn/video/p8ypAHvS7KK114BbAAN7?utm_source=rss&utm_medium=article",
+    "id": "41f485c71ab2",
+    "title": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
+    "url": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "priority": 3,
-    "published": "2026-05-27T20:00:00",
+    "published": "2026-05-27T18:00:25",
     "summary": "点击查看原文>",
-    "collected_at": "2026-05-27T15:01:13.345059"
+    "collected_at": "2026-05-27T15:01:13.345089",
+    "content_text": "让 AI 在真实环境中不仅“看懂”世界、还能“做出”决策，这是具身智能的终极目标之一。\n然而，现有的具身问答数据集和基准普遍“偏科”：有的聚焦空间理解，有的侧重过程推理，几乎没有哪一个能同时覆盖场景理解、空间推理、任务动态推理和实时决策这四个维度。\n北京大学副教授穆亚东及北京大学、星源智团队给出了答案，并提出了一套名为 EQA-Decision 的大规模数据集与 RoboDecision 训练框架。首次将具身问答从静态感知扩展到动态决策，构建了覆盖四大推理模块、超过四百万问答对的大规模数据集，并设计了从监督微调到思维链再到强化学习的三阶段训练方法，让模型真正学会“先想后做、看图决策”。该方案论文《Extending Embodied Question Answering from Perception to Decision》已被全球计算机视觉顶会 CVPR 2026 录用，为具身智能前沿研究提供了新思路。\nEQA-Decision：超 400 万问答对，覆盖四大推理维度\nEQA-Decision 数据集规模相当可观：超过 400 万对多模态问答数据，涵盖模拟环境、图像问答、第一人称视频和真实机器人轨迹四大来源。\n数据被系统性地分为四个核心推理模块：\n静态场景构建： 关注基本的场景理解任务，包括物体存在性、状态、计数和位置。\n空间理解：该模块的空间推理从三个互补视角探索：深度与方向、定位与指代、行动可能性。\n任务动态推理：捕捉具身任务中的时间和因果关系：子任务规划、状态跟踪和进度估计。\n即时决策： 该模块专注于建模机器人在动态具身环境中的实时决策过程。\n其中，任务动态推理和即时决策是此前数据集完全没有覆盖的任务类型。这意味着，EQA-Decision 第一次让模型不仅要“看懂”当前状态，还要推演任务进程、预测最优动作。\nRoboDecision：三阶段训练，把“看懂”变成“做对”\n有了数据集，还需要一个能充分利用它的模型。团队提出的 RoboDecision 以 Qwen3-VL-8B 为基座，设计了一套三阶段渐进式训练 pipeline。\n第一阶段：SFT（监督微调）。在 EQA-Decision 的四个模块上均匀采样数据，用 LoRA 微调语言层和融合层，注入具身领域知识。\n第二阶段：CoT-SFT（思维链监督微调）。从中抽取约 10%的数据，用 Gemini-2.5-Pro 生成思维链标注（包含推理过程和最终答案），再专门微调。这一步让模型学会“先想后答”，形成显式的多步推理能力。\n第三阶段：GRPO（强化学习微调）。这是最关键的一步。团队设计了一个混合奖励函数：\n推理奖励：用 E5-large 计算模型生成的推理链与参考思维链的相似度，鼓励因果一致的空间和时间推理。\n答案奖励：对自由回答用语义相似度，对结构化输出（坐标、深度等）用规则评分。\n视觉一致性奖励：用 OpenCLIP 对齐生成的推理与视觉观察，确保模型不是靠文本先验瞎猜，而是真正“看图说话”。\n三个奖励协同作用，迫使模型从“文本驱动的应答器”转变为“感知驱动的决策者”。\n实验结果：RoboDecision-8B 全面领先，超越 GPT-5\n团队构建了一个包含 2118 条样本的 EQA-Decision Benchmark，覆盖六类任务。结果非常清晰：\nRoboDecision-8B 以 68.06 的整体得分大幅领先。对比 Qwen3-VL-8B-Instruct（48.84），提升了近 20 个点；对比 RoboBrain-7B-2.0（37.32），更是接近翻倍。\n在指代定位任务上，RoboDecision 得分 68.12，而 Qwen3-VL-8B-Thinking 只有 23.14。差距悬殊的核心原因，正是视觉一致性奖励强制模型把推理锚定在图像像素上。\n在即时决策任务上，RoboDecision 得分 69.93，比最强基线（GPT-5 的 62.25）高出 7.7 个点。\n图注：EQA-Decision Benchmark 综合成绩对比\n图注：RoboDecision 与 Qwen3-VL-8B-Instruct 在六类任务上的差异\n此外，团队还在 RoboVQA、ERQA、Where2Place 三个外部基准上验证了泛化能力，RoboDecision 在所有任务上均超过通用模型和具身专用模型。\n结语\n总之，EQA-Decision 和 RoboDecision 把具身问答从“静态体检”升级为“动态实战”。通过系统性地覆盖场景、空间、时间、决策四个维度，并设计能够显式优化感知-决策链路的训练方法，这项工作为具身智能提供了一个更贴近真实需求的研究范式和数据集。\n未来，这类“从感知到决策”的统一数据集和训练框架，很可能会成为具身智能研究的标配。毕竟，一个只会看不会做的 AI，永远无法真正走进物理世界。",
+    "content_source": "trafilatura",
+    "content_chars": 2027,
+    "content_excerpt": "让 AI 在真实环境中不仅“看懂”世界、还能“做出”决策，这是具身智能的终极目标之一。\n然而，现有的具身问答数据集和基准普遍“偏科”：有的聚焦空间理解，有的侧重过程推理，几乎没有哪一个能同时覆盖场景理解、空间推理、任务动态推理和实时决策这四个维度。\n北京大学副教授穆亚东及北京大学、星源智团队给出了答案，并提出了一套名为 EQA-Decision 的大规模数据集与 RoboDecision 训练框架。首次将具身问答从静态感知扩展到动态决策，构建了覆盖四大推理模块、超过四百万问答对的大规模数据集，并设计了从监督微调到思维链再到强化学习的三阶段训练方法，让模型真正学会“先想后做、看图决策”。该方案论文《Extending Embodied Question Answering from Perception to Decision》已被全球计算机视觉顶会 CVPR 2026 录用，为具身智能前沿研究提供了新思路。\nEQA-Decision：超 400 万问答对，覆盖四大推理维度\nEQA-Decision 数据集规模相当可观：超过 400 万对多模态问答数据，涵盖模拟环境、图像问答、第一人称视频和真实机器人轨迹四大来源。\n数据被系统性地分为四个核心推理模块：\n静态场景构建： 关注基本的场景理解任务，包括物体存在性、状态、计数和位置。\n空间理解：该模块的空间推理从三个互补视角探索：深度与方向、定位与指代、行动可能性。\n任务动态推理：捕捉具身任务中的时间和因果关系：子任务规划、状态跟踪和进度估计。\n即时决策： 该模块专注于建模机器人在动态具身环境中的实时决策过程。"
   },
   {
     "id": "1eb01a951326",
@@ -62,19 +220,22 @@
     "ai_summary": "Google I/O 正式宣布：人工智能生成的答案现在位于搜索的前沿和中心，而大多数品牌几乎不了解人工智能如何向客户描述…"
   },
   {
-    "id": "41f485c71ab2",
-    "title": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
-    "url": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-27T18:00:25",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-27T15:01:13.345089",
-    "content_text": "让 AI 在真实环境中不仅“看懂”世界、还能“做出”决策，这是具身智能的终极目标之一。\n然而，现有的具身问答数据集和基准普遍“偏科”：有的聚焦空间理解，有的侧重过程推理，几乎没有哪一个能同时覆盖场景理解、空间推理、任务动态推理和实时决策这四个维度。\n北京大学副教授穆亚东及北京大学、星源智团队给出了答案，并提出了一套名为 EQA-Decision 的大规模数据集与 RoboDecision 训练框架。首次将具身问答从静态感知扩展到动态决策，构建了覆盖四大推理模块、超过四百万问答对的大规模数据集，并设计了从监督微调到思维链再到强化学习的三阶段训练方法，让模型真正学会“先想后做、看图决策”。该方案论文《Extending Embodied Question Answering from Perception to Decision》已被全球计算机视觉顶会 CVPR 2026 录用，为具身智能前沿研究提供了新思路。\nEQA-Decision：超 400 万问答对，覆盖四大推理维度\nEQA-Decision 数据集规模相当可观：超过 400 万对多模态问答数据，涵盖模拟环境、图像问答、第一人称视频和真实机器人轨迹四大来源。\n数据被系统性地分为四个核心推理模块：\n静态场景构建： 关注基本的场景理解任务，包括物体存在性、状态、计数和位置。\n空间理解：该模块的空间推理从三个互补视角探索：深度与方向、定位与指代、行动可能性。\n任务动态推理：捕捉具身任务中的时间和因果关系：子任务规划、状态跟踪和进度估计。\n即时决策： 该模块专注于建模机器人在动态具身环境中的实时决策过程。\n其中，任务动态推理和即时决策是此前数据集完全没有覆盖的任务类型。这意味着，EQA-Decision 第一次让模型不仅要“看懂”当前状态，还要推演任务进程、预测最优动作。\nRoboDecision：三阶段训练，把“看懂”变成“做对”\n有了数据集，还需要一个能充分利用它的模型。团队提出的 RoboDecision 以 Qwen3-VL-8B 为基座，设计了一套三阶段渐进式训练 pipeline。\n第一阶段：SFT（监督微调）。在 EQA-Decision 的四个模块上均匀采样数据，用 LoRA 微调语言层和融合层，注入具身领域知识。\n第二阶段：CoT-SFT（思维链监督微调）。从中抽取约 10%的数据，用 Gemini-2.5-Pro 生成思维链标注（包含推理过程和最终答案），再专门微调。这一步让模型学会“先想后答”，形成显式的多步推理能力。\n第三阶段：GRPO（强化学习微调）。这是最关键的一步。团队设计了一个混合奖励函数：\n推理奖励：用 E5-large 计算模型生成的推理链与参考思维链的相似度，鼓励因果一致的空间和时间推理。\n答案奖励：对自由回答用语义相似度，对结构化输出（坐标、深度等）用规则评分。\n视觉一致性奖励：用 OpenCLIP 对齐生成的推理与视觉观察，确保模型不是靠文本先验瞎猜，而是真正“看图说话”。\n三个奖励协同作用，迫使模型从“文本驱动的应答器”转变为“感知驱动的决策者”。\n实验结果：RoboDecision-8B 全面领先，超越 GPT-5\n团队构建了一个包含 2118 条样本的 EQA-Decision Benchmark，覆盖六类任务。结果非常清晰：\nRoboDecision-8B 以 68.06 的整体得分大幅领先。对比 Qwen3-VL-8B-Instruct（48.84），提升了近 20 个点；对比 RoboBrain-7B-2.0（37.32），更是接近翻倍。\n在指代定位任务上，RoboDecision 得分 68.12，而 Qwen3-VL-8B-Thinking 只有 23.14。差距悬殊的核心原因，正是视觉一致性奖励强制模型把推理锚定在图像像素上。\n在即时决策任务上，RoboDecision 得分 69.93，比最强基线（GPT-5 的 62.25）高出 7.7 个点。\n图注：EQA-Decision Benchmark 综合成绩对比\n图注：RoboDecision 与 Qwen3-VL-8B-Instruct 在六类任务上的差异\n此外，团队还在 RoboVQA、ERQA、Where2Place 三个外部基准上验证了泛化能力，RoboDecision 在所有任务上均超过通用模型和具身专用模型。\n结语\n总之，EQA-Decision 和 RoboDecision 把具身问答从“静态体检”升级为“动态实战”。通过系统性地覆盖场景、空间、时间、决策四个维度，并设计能够显式优化感知-决策链路的训练方法，这项工作为具身智能提供了一个更贴近真实需求的研究范式和数据集。\n未来，这类“从感知到决策”的统一数据集和训练框架，很可能会成为具身智能研究的标配。毕竟，一个只会看不会做的 AI，永远无法真正走进物理世界。",
+    "id": "0ce3b9fca202",
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-05-27T16:28:41",
+    "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 398 # Comments: 208",
+    "collected_at": "2026-05-27T20:05:15.557511",
+    "content_text": "These days, a typical Google Search feels like an obstacle course. Type out 'upcoming PC games 2026' and your gaze has to swerve around a chunky AI overview which recycles the work of human writers in a bid to kneecap efforts to click away from Google. It's a bleak state of affairs for what was once the premier discovery tool for the internet, and as such many users are looking for alternative search engines.\nDuckDuckGo has been one major winner of this Google Search abandonment. Just for a start, visits to its AI-free search page noai.duckduckgo.com between May 20 to May 25 are said to have increased by 22.7% on average week-on-week, with the figures peaking May 24 at 27.7%.\nThe DuckDuckGo mobile app saw installs spike in the US by 18.1% on average compared to the previous week. TechCrunch reported this growth was sustained over six days, peaking at 30.5% on May 25. An even greater number of iOS users hit download on the app though, with installs seeing an average week-on-week growth of 33% and a peak of 69.9%.\nThis all follows Google CEO Sundar Pichai claiming last week that, \"People love [Search's AI Mode].\" DuckDuckGo CEO Gabriel Weinberg criticised Google's all-in-on-AI approach to Search, telling Paul Thurrott, \"Google is force-feeding AI with no way to opt out. As a result, their results are getting worse, not better. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.\"\nTo be clear, Google isn't about to lose its Search crown; DuckDuckGo represents about 2% of the search engine market in the US—Google still enjoyed about 85% as of last month.\nDuckDuckGo also offers AI products such as duck.ai, which allows users to chat privately with a number of major LLMs such as GPT-5 mini and Claude Haiku 4.5. Given that Google reported its revenue from search grew by 19% during Q1 2026—apparently thanks to its \"AI experiences like AI Mode and AI Overviews\"—it wouldn't make much business sense for any company to completely exile itself from the AI industry at this moment in time.\nHowever, DuckDuckGo has endeavoured to prioritise user choice and privacy. Weinberg said earlier this week, \"Everything you do in DuckDuckGo is private, we don’t collect search histories or chats, and nothing is used for AI training.\"\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nAccording to chief communications officer Kamyl Bazbaz, DuckDuckGo's own AI overviews remain popular—though so does the option to filter out AI-generated images from search results. He said, \"People just want a choice.\" Amen to that.\nJess has been writing about games for over ten years, spending a significant chunk of that time working on print publications PLAY and Official PlayStation Magazine. When she’s not investigating all things hardware here, she's either constructing a passionate defence of a 7/10 game, daydreaming about her debut novel, or feeling wistful about the last time she chased some nerds around a field with an oversized foam sword.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
     "content_source": "trafilatura",
-    "content_chars": 2027,
-    "content_excerpt": "让 AI 在真实环境中不仅“看懂”世界、还能“做出”决策，这是具身智能的终极目标之一。\n然而，现有的具身问答数据集和基准普遍“偏科”：有的聚焦空间理解，有的侧重过程推理，几乎没有哪一个能同时覆盖场景理解、空间推理、任务动态推理和实时决策这四个维度。\n北京大学副教授穆亚东及北京大学、星源智团队给出了答案，并提出了一套名为 EQA-Decision 的大规模数据集与 RoboDecision 训练框架。首次将具身问答从静态感知扩展到动态决策，构建了覆盖四大推理模块、超过四百万问答对的大规模数据集，并设计了从监督微调到思维链再到强化学习的三阶段训练方法，让模型真正学会“先想后做、看图决策”。该方案论文《Extending Embodied Question Answering from Perception to Decision》已被全球计算机视觉顶会 CVPR 2026 录用，为具身智能前沿研究提供了新思路。\nEQA-Decision：超 400 万问答对，覆盖四大推理维度\nEQA-Decision 数据集规模相当可观：超过 400 万对多模态问答数据，涵盖模拟环境、图像问答、第一人称视频和真实机器人轨迹四大来源。\n数据被系统性地分为四个核心推理模块：\n静态场景构建： 关注基本的场景理解任务，包括物体存在性、状态、计数和位置。\n空间理解：该模块的空间推理从三个互补视角探索：深度与方向、定位与指代、行动可能性。\n任务动态推理：捕捉具身任务中的时间和因果关系：子任务规划、状态跟踪和进度估计。\n即时决策： 该模块专注于建模机器人在动态具身环境中的实时决策过程。"
+    "content_chars": 3213,
+    "content_excerpt": "These days, a typical Google Search feels like an obstacle course. Type out 'upcoming PC games 2026' and your gaze has to swerve around a chunky AI overview which recycles the work of human writers in a bid to kneecap efforts to click away from Google. It's a bleak state of affairs for what was once the premier discovery tool for the internet, and as such many users are looking for alternative search engines.\nDuckDuckGo has been one major winner of this Google Search abandonment. Just for a start, visits to its AI-free search page noai.duckduckgo.com between May 20 to May 25 are said to have increased by 22.7% on average week-on-week, with the figures peaking May 24 at 27.7%.\nThe DuckDuckGo mobile app saw installs spike in the US by 18.1% on average compared to the previous week. TechCrunch reported this growth was sustained over six days, peaking at 30.5% on May 25. An even greater number of iOS users hit download on the app though, with installs seeing an average week-on-week growth of 33% and a peak of 69.9%.\nThis all follows Google CEO Sundar Pichai claiming last week that, \"People love [Search's AI Mode].\" DuckDuckGo CEO Gabriel Weinberg criticised Google's all-in-on-AI approach to Search, telling Paul Thurrott, \"Google is force-feeding AI with no way to opt out. As a result, their results are getting worse, not better. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.\"\nTo be clear, Google isn't about to lose its Search crown; DuckDuckGo represents about 2% of the search engine market in the US—Google still enjoyed about 85% as of last month.\nDuckDuckGo also offers AI products such as duck.ai, which allows users to chat privately with a number of major LLMs such as GPT-5 mini and Claude Haiku 4.5. Given that Google reported its revenue from search grew by 19% during Q1 2026—apparently thanks to its \"AI experiences like AI Mode and AI Overviews\"—it wouldn't make much business sense for any company to completely exile itself from the AI industry at this moment in time.\nHowever, DuckDuckGo has endeavoured to prioritise user choice and privacy. Weinberg said earlier this week, \"Everything you do in DuckDuckGo is private, we don’t collect search histories or chats, and nothing is used for AI training.\"\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nAccording to chief communications officer Kamyl Bazbaz, DuckDuckGo's own AI overviews remain popular—though so does the option to filter out AI-generated images from search results. He said, \"People just want a choice.\" Amen to that.\nJess has been writing about games for over ten years, spending a significant chunk of that time working on print publications PLAY and Official PlayStation Magazine. When she’s not investigating all things hardware here, she's either constructing a passionate defence of a 7/10 game, daydreaming about her debut novel, or feeling wistful about the last time she chased some nerds around a field with an oversized foam sword.",
+    "title_zh": "Google 表示人们喜欢 AI 模式后，DuckDuckGo 搜索访问量增加了 28%",
+    "summary_zh": "文章网址：https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following…",
+    "ai_summary": "文章网址：https://www.pcgamer.com/hardware/duckduckgos-ai-free-se…"
   },
   {
     "id": "02233afb32a8",
@@ -95,22 +256,22 @@
     "ai_summary": "Meta 正在全球范围内推出 Instagram、Facebook 和 WhatsApp 的付费订阅计划，同时还在其更广…"
   },
   {
-    "id": "0ce3b9fca202",
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "id": "3cb9731a80b8",
+    "title": "Training our own AI models",
+    "url": "https://posthog.com/blog/training-ai-models",
     "source": "Hacker News AI",
     "lang": "en",
     "priority": 2,
-    "published": "2026-05-27T16:28:41",
-    "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 398 # Comments: 208",
-    "collected_at": "2026-05-27T20:05:15.557511",
-    "content_text": "These days, a typical Google Search feels like an obstacle course. Type out 'upcoming PC games 2026' and your gaze has to swerve around a chunky AI overview which recycles the work of human writers in a bid to kneecap efforts to click away from Google. It's a bleak state of affairs for what was once the premier discovery tool for the internet, and as such many users are looking for alternative search engines.\nDuckDuckGo has been one major winner of this Google Search abandonment. Just for a start, visits to its AI-free search page noai.duckduckgo.com between May 20 to May 25 are said to have increased by 22.7% on average week-on-week, with the figures peaking May 24 at 27.7%.\nThe DuckDuckGo mobile app saw installs spike in the US by 18.1% on average compared to the previous week. TechCrunch reported this growth was sustained over six days, peaking at 30.5% on May 25. An even greater number of iOS users hit download on the app though, with installs seeing an average week-on-week growth of 33% and a peak of 69.9%.\nThis all follows Google CEO Sundar Pichai claiming last week that, \"People love [Search's AI Mode].\" DuckDuckGo CEO Gabriel Weinberg criticised Google's all-in-on-AI approach to Search, telling Paul Thurrott, \"Google is force-feeding AI with no way to opt out. As a result, their results are getting worse, not better. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.\"\nTo be clear, Google isn't about to lose its Search crown; DuckDuckGo represents about 2% of the search engine market in the US—Google still enjoyed about 85% as of last month.\nDuckDuckGo also offers AI products such as duck.ai, which allows users to chat privately with a number of major LLMs such as GPT-5 mini and Claude Haiku 4.5. Given that Google reported its revenue from search grew by 19% during Q1 2026—apparently thanks to its \"AI experiences like AI Mode and AI Overviews\"—it wouldn't make much business sense for any company to completely exile itself from the AI industry at this moment in time.\nHowever, DuckDuckGo has endeavoured to prioritise user choice and privacy. Weinberg said earlier this week, \"Everything you do in DuckDuckGo is private, we don’t collect search histories or chats, and nothing is used for AI training.\"\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nAccording to chief communications officer Kamyl Bazbaz, DuckDuckGo's own AI overviews remain popular—though so does the option to filter out AI-generated images from search results. He said, \"People just want a choice.\" Amen to that.\nJess has been writing about games for over ten years, spending a significant chunk of that time working on print publications PLAY and Official PlayStation Magazine. When she’s not investigating all things hardware here, she's either constructing a passionate defence of a 7/10 game, daydreaming about her debut novel, or feeling wistful about the last time she chased some nerds around a field with an oversized foam sword.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
+    "published": "2026-05-27T16:08:42",
+    "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 164 # Comments: 108",
+    "collected_at": "2026-05-27T20:05:15.557548",
+    "content_text": "Training our own AI models\nContents\nI really think we're on the verge of some of our best work through the next six months.\nOver the past year, we've started building more AI-powered features into PostHog, like our AI installation wizard, PostHog AI, and our MCP. They're all wildly popular, but they're only the start.\nPostHog's next chapter is about building more proactive, self-driving products. Products that surface answers and solutions for you, act on them, and improve over time.\nThis is the vision for PostHog Code, which is now in beta. To enable this and more products like it, we want to try something new.\nWe want to train models on data in PostHog.\nWe have two goals here:\n- Make our existing products smarter, more proactive, and useful to you\n- Build entirely new products, like PostHog Code, that help teams build better products, faster\nThe first area we're interested in is session replay analysis. PostHog AI can already detect issues in replays, but it's expensive and doesn't scale well. We want replays to be as powerful at scale as they are for diagnosing the problems of individual users, and we think a model trained on the underlying data that powers replays will help us achieve this.\nAnother idea I'm especially excited about is synthetic user testing – i.e. using our knowledge of user behavior to identify when users might get confused, or what flows might break, before you ship to production. As coding models improve, many people are seeing test and review workload increase hugely. We want to automate this, so you can focus on your product.\nAnd, if we can get better at predicting user behavior, we should be able to suggest changes that will improve conversion, and reduce user frustration, for features you've already shipped as well. If we can automate this work for you, you'll spend less time on manual analysis and burn fewer tokens in the process.\nOur ideas here are experimental. It will take iteration to figure out how to train models effectively, and what data is actually useful. But, so far, every time we've added AI in a way that makes the product simpler or more powerful, it's worked well, so we think it's worth trying.\nWe've spent a lot of time thinking about this from a user perspective, especially the tradeoffs.\nThe upside is the kinds of improvements described above.\nMost tools are focused on providing you with the best code; we want to focus our energy into making your product the best it can be. This is why we describe PostHog Code as a product editor.\nThe downside is that this involves using data in PostHog to train models.\nMost companies would bury this change in a deceptively boring T&Cs update, but we value transparency, so here's what you need to know in an internet-friendly numbered list:\n- Users on our EU cloud instance are opted out by default\n- So too users with agreements that prevent training (e.g. BAA, MSA, or similar)\n- All other users on our US cloud instance are opted in by default\n- We will anonymize all data before it's used for training\n- We will only use data that already exists in your PostHog instance\n- We will do all the model training ourselves, which means...\n- We won't sell or send your data to third-party model providers\n- You can opt out at any time via your org settings in PostHog (admin access required)\n- Training won't start until June 29, so there's plenty of time to decide\nIn terms of comms, we are:\n- Emailing all our customers and making it super obvious what the email is about\n- Notifying all our users through in-app notifications (in case you don't read emails)\n- Communicating our plans very publicly (like in this post)\nI want to stress that our goal here is to improve PostHog as a product for our customers, not to expose or sell models trained on your data, or monetize your data.\nPut simply, because otherwise we will not have enough data to train a model that's actually useful.\nIf you choose to opt out, the new features that we're building with these models won't be available to you, as they'll depend on this data.\nIf you're opted out by default (e.g. because you're on our EU cloud instance), you can choose to opt in manually provided any legal agreements you have with us don't exclude this option.\nWe're choosing to be upfront about this rather than quietly rolling something out, because we think that's the right way to do it.\nIf you want to talk about this, I'm james at you can guess it.\nWe're also hiring AI researchers, so get in touch if you want to work on this with us.\nPostHog is an all-in-one developer platform for building successful products. We provide product analytics, web analytics, session replay, error tracking, feature flags, experiments, surveys, AI Observability, logs, workflows, endpoints, data warehouse, CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
     "content_source": "trafilatura",
-    "content_chars": 3213,
-    "content_excerpt": "These days, a typical Google Search feels like an obstacle course. Type out 'upcoming PC games 2026' and your gaze has to swerve around a chunky AI overview which recycles the work of human writers in a bid to kneecap efforts to click away from Google. It's a bleak state of affairs for what was once the premier discovery tool for the internet, and as such many users are looking for alternative search engines.\nDuckDuckGo has been one major winner of this Google Search abandonment. Just for a start, visits to its AI-free search page noai.duckduckgo.com between May 20 to May 25 are said to have increased by 22.7% on average week-on-week, with the figures peaking May 24 at 27.7%.\nThe DuckDuckGo mobile app saw installs spike in the US by 18.1% on average compared to the previous week. TechCrunch reported this growth was sustained over six days, peaking at 30.5% on May 25. An even greater number of iOS users hit download on the app though, with installs seeing an average week-on-week growth of 33% and a peak of 69.9%.\nThis all follows Google CEO Sundar Pichai claiming last week that, \"People love [Search's AI Mode].\" DuckDuckGo CEO Gabriel Weinberg criticised Google's all-in-on-AI approach to Search, telling Paul Thurrott, \"Google is force-feeding AI with no way to opt out. As a result, their results are getting worse, not better. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.\"\nTo be clear, Google isn't about to lose its Search crown; DuckDuckGo represents about 2% of the search engine market in the US—Google still enjoyed about 85% as of last month.\nDuckDuckGo also offers AI products such as duck.ai, which allows users to chat privately with a number of major LLMs such as GPT-5 mini and Claude Haiku 4.5. Given that Google reported its revenue from search grew by 19% during Q1 2026—apparently thanks to its \"AI experiences like AI Mode and AI Overviews\"—it wouldn't make much business sense for any company to completely exile itself from the AI industry at this moment in time.\nHowever, DuckDuckGo has endeavoured to prioritise user choice and privacy. Weinberg said earlier this week, \"Everything you do in DuckDuckGo is private, we don’t collect search histories or chats, and nothing is used for AI training.\"\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nAccording to chief communications officer Kamyl Bazbaz, DuckDuckGo's own AI overviews remain popular—though so does the option to filter out AI-generated images from search results. He said, \"People just want a choice.\" Amen to that.\nJess has been writing about games for over ten years, spending a significant chunk of that time working on print publications PLAY and Official PlayStation Magazine. When she’s not investigating all things hardware here, she's either constructing a passionate defence of a 7/10 game, daydreaming about her debut novel, or feeling wistful about the last time she chased some nerds around a field with an oversized foam sword.",
-    "title_zh": "Google 表示人们喜欢 AI 模式后，DuckDuckGo 搜索访问量增加了 28%",
-    "summary_zh": "文章网址：https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following…",
-    "ai_summary": "文章网址：https://www.pcgamer.com/hardware/duckduckgos-ai-free-se…"
+    "content_chars": 4905,
+    "content_excerpt": "Training our own AI models\nContents\nI really think we're on the verge of some of our best work through the next six months.\nOver the past year, we've started building more AI-powered features into PostHog, like our AI installation wizard, PostHog AI, and our MCP. They're all wildly popular, but they're only the start.\nPostHog's next chapter is about building more proactive, self-driving products. Products that surface answers and solutions for you, act on them, and improve over time.\nThis is the vision for PostHog Code, which is now in beta. To enable this and more products like it, we want to try something new.\nWe want to train models on data in PostHog.\nWe have two goals here:\n- Make our existing products smarter, more proactive, and useful to you\n- Build entirely new products, like PostHog Code, that help teams build better products, faster",
+    "title_zh": "训练我们自己的人工智能模型",
+    "summary_zh": "文章网址：https://posthog.com/blog/training-ai-models 评论网址：https://news.ycombinator.com/item?id=48296359 积分：164 # 评论：108",
+    "ai_summary": "文章网址：https://posthog.com/blog/training-ai-models 评论网址：https:…"
   },
   {
     "id": "05063096037a",
@@ -129,24 +290,6 @@
     "title_zh": "人工智能编码初创公司 Cognition 以 25B 美元的投前估值筹集 10 亿美元",
     "summary_zh": "Cognition 表示，随着年化收入运行率达到 4.92 亿美元，其估值在八个月内翻了一番多",
     "ai_summary": "Cognition 表示，随着年化收入运行率达到 4.92 亿美元，其估值在八个月内翻了一番多"
-  },
-  {
-    "id": "3cb9731a80b8",
-    "title": "Training our own AI models",
-    "url": "https://posthog.com/blog/training-ai-models",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-27T16:08:42",
-    "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 164 # Comments: 108",
-    "collected_at": "2026-05-27T20:05:15.557548",
-    "content_text": "Training our own AI models\nContents\nI really think we're on the verge of some of our best work through the next six months.\nOver the past year, we've started building more AI-powered features into PostHog, like our AI installation wizard, PostHog AI, and our MCP. They're all wildly popular, but they're only the start.\nPostHog's next chapter is about building more proactive, self-driving products. Products that surface answers and solutions for you, act on them, and improve over time.\nThis is the vision for PostHog Code, which is now in beta. To enable this and more products like it, we want to try something new.\nWe want to train models on data in PostHog.\nWe have two goals here:\n- Make our existing products smarter, more proactive, and useful to you\n- Build entirely new products, like PostHog Code, that help teams build better products, faster\nThe first area we're interested in is session replay analysis. PostHog AI can already detect issues in replays, but it's expensive and doesn't scale well. We want replays to be as powerful at scale as they are for diagnosing the problems of individual users, and we think a model trained on the underlying data that powers replays will help us achieve this.\nAnother idea I'm especially excited about is synthetic user testing – i.e. using our knowledge of user behavior to identify when users might get confused, or what flows might break, before you ship to production. As coding models improve, many people are seeing test and review workload increase hugely. We want to automate this, so you can focus on your product.\nAnd, if we can get better at predicting user behavior, we should be able to suggest changes that will improve conversion, and reduce user frustration, for features you've already shipped as well. If we can automate this work for you, you'll spend less time on manual analysis and burn fewer tokens in the process.\nOur ideas here are experimental. It will take iteration to figure out how to train models effectively, and what data is actually useful. But, so far, every time we've added AI in a way that makes the product simpler or more powerful, it's worked well, so we think it's worth trying.\nWe've spent a lot of time thinking about this from a user perspective, especially the tradeoffs.\nThe upside is the kinds of improvements described above.\nMost tools are focused on providing you with the best code; we want to focus our energy into making your product the best it can be. This is why we describe PostHog Code as a product editor.\nThe downside is that this involves using data in PostHog to train models.\nMost companies would bury this change in a deceptively boring T&Cs update, but we value transparency, so here's what you need to know in an internet-friendly numbered list:\n- Users on our EU cloud instance are opted out by default\n- So too users with agreements that prevent training (e.g. BAA, MSA, or similar)\n- All other users on our US cloud instance are opted in by default\n- We will anonymize all data before it's used for training\n- We will only use data that already exists in your PostHog instance\n- We will do all the model training ourselves, which means...\n- We won't sell or send your data to third-party model providers\n- You can opt out at any time via your org settings in PostHog (admin access required)\n- Training won't start until June 29, so there's plenty of time to decide\nIn terms of comms, we are:\n- Emailing all our customers and making it super obvious what the email is about\n- Notifying all our users through in-app notifications (in case you don't read emails)\n- Communicating our plans very publicly (like in this post)\nI want to stress that our goal here is to improve PostHog as a product for our customers, not to expose or sell models trained on your data, or monetize your data.\nPut simply, because otherwise we will not have enough data to train a model that's actually useful.\nIf you choose to opt out, the new features that we're building with these models won't be available to you, as they'll depend on this data.\nIf you're opted out by default (e.g. because you're on our EU cloud instance), you can choose to opt in manually provided any legal agreements you have with us don't exclude this option.\nWe're choosing to be upfront about this rather than quietly rolling something out, because we think that's the right way to do it.\nIf you want to talk about this, I'm james at you can guess it.\nWe're also hiring AI researchers, so get in touch if you want to work on this with us.\nPostHog is an all-in-one developer platform for building successful products. We provide product analytics, web analytics, session replay, error tracking, feature flags, experiments, surveys, AI Observability, logs, workflows, endpoints, data warehouse, CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-    "content_source": "trafilatura",
-    "content_chars": 4905,
-    "content_excerpt": "Training our own AI models\nContents\nI really think we're on the verge of some of our best work through the next six months.\nOver the past year, we've started building more AI-powered features into PostHog, like our AI installation wizard, PostHog AI, and our MCP. They're all wildly popular, but they're only the start.\nPostHog's next chapter is about building more proactive, self-driving products. Products that surface answers and solutions for you, act on them, and improve over time.\nThis is the vision for PostHog Code, which is now in beta. To enable this and more products like it, we want to try something new.\nWe want to train models on data in PostHog.\nWe have two goals here:\n- Make our existing products smarter, more proactive, and useful to you\n- Build entirely new products, like PostHog Code, that help teams build better products, faster",
-    "title_zh": "训练我们自己的人工智能模型",
-    "summary_zh": "文章网址：https://posthog.com/blog/training-ai-models 评论网址：https://news.ycombinator.com/item?id=48296359 积分：164 # 评论：108",
-    "ai_summary": "文章网址：https://posthog.com/blog/training-ai-models 评论网址：https:…"
   },
   {
     "id": "a0c082562cbc",
@@ -445,6 +588,20 @@
     "ai_summary": "文章网址：https://orchidfiles.com/im-tired-of-ai- generated-answe…"
   },
   {
+    "id": "v2ex-1215982",
+    "title": "33 岁阿里 5 年，平薪去长沙 vs 继续卷杭州，怎么选？",
+    "url": "https://www.v2ex.com/t/1215982",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-27T10:08:29",
+    "summary": "## 〇、概要 手上一个**长沙平薪 offer**，在「**留杭州继续卷**」和「**去长沙降强度**」之间反复横跳。我自己倾向去长沙，但有一些顾虑想听听站友的意见，尤其是有过类似经历的朋友。 > **核心矛盾**： > - 留杭州 = 强度大、房价高、要继续卷，但职业稳定、女友支持网络完整 > - 去长沙 = 强度低、房价便宜一半、生活舒服，但**职业天花板下移** + **女友单方面让步** --- ## 一、个人情况 | 项目 | 详情 | | --- | --- | | 年龄 | 33 岁（ 93 年） | | 现职 | 杭州阿里系，5 年司龄，LLM 智能语音方向后端 | | 籍贯",
+    "collected_at": "2026-05-28T02:28:30.532721",
+    "content_text": "〇、概要\n手上一个\n长沙平薪 offer\n，在「\n留杭州继续卷\n」和「\n去长沙降强度\n」之间反复横跳。我自己倾向去长沙，但有一些顾虑想听听站友的意见，尤其是有过类似经历的朋友。\n核心矛盾\n：\n留杭州 = 强度大、房价高、要继续卷，但职业稳定、女友支持网络完整\n去长沙 = 强度低、房价便宜一半、生活舒服，但\n职业天花板下移\n+\n女友单方面让步\n一、个人情况\n项目\n详情\n年龄\n33 岁（ 93 年）\n现职\n杭州阿里系，5 年司龄，LLM 智能语音方向后端\n籍贯\n广东（外婆在湖南常德，离长沙近）\n原生家庭\n情况复杂、无经济支持，已决定专注小家、暂停帮扶、减少回家\n户口\n我和女友均在各自老家，无杭州户口\n资产\n现金 + 股票 ≈ 200w ，\n杭州无房无车\n年收入（税前）\n我 50w ，女友 25w\n二、女友与家庭情况\n女友\n：江苏人，\nHR 岗位\n，父母在杭州工作（老家江苏，弟弟在苏北已成家）\n感情\n：稳定，计划 1-2 年内结婚，再 1 年要小孩，希望\n小孩上幼儿园之前买房\n女友对长沙的态度\n：已深度沟通 N 次，是\n真心愿意\n为小家一起过去；她唯一的担忧是——\n如果感情破裂，她在长沙没有退路\n双方父母\n：都还健康、有收入，目前未把养老作为主要决策变量；待小家稳固后再考虑经济支持 + 少量陪伴\n三、长沙 Offer 情况\n行业\n：头部消费类上市公司，高速扩张期\n赛道\n：竞争激烈、毛利低，长期看有业务瓶颈\n岗位\n：核心业务后端研发\n薪资\n：与现岗位\n基本持平\n，但\n公积金/补贴/福利显著缩水\n强度\n：\n大小周\n，常态 7 点下班，迭代发布日加班\n四、两边对比\n🅰️ 留杭州\n优点\n职业稳\n：大厂背景认可度仍可，35 岁被裁在杭州还能找到工作；满司龄可签无固定期限合同\n隐性收入高\n：高公积金、假期多、各类补贴\n女友友好\n：HR 岗位机会多，亲友/家庭支持网络完整\n回旋空间大\n：外部还有大厂可跳，base 有 30% 涨幅机会\n缺点\n强度高\n：加班多，个人时间被持续挤压\n房价压力大\n：杭州房价高，\n幼儿园前买房\n的目标会让储蓄被一次性掏空，未来 20 年背贷\n无户口\n：买房资格、子女教育要额外操作\n依然要继续卷\n：跳外部大厂只是换个地方卷\n🅱️ 去长沙\n优点\n收入/房价比极优\n：薪资不变，房价\n至少便宜一半\n，200w 现金可全款或低首付，\n生活质量直接跃迁\n强度低\n：准点下班、复杂度低，能腾出时间陪家人/锻炼/带娃\n城市宜居\n：吃喝玩乐便利，松弛感强\n抗风险\n：即便被裁降薪，无房贷压力也能扛\n离外婆近\n：常德到长沙很近，亲缘上有个落点\n缺点\n职业天花板下移\n：大厂 → 小厂、一线 → 弱二线，\n再回一线难度极大\n福利全面缩水\n：公积金、假期、补贴显著下降\n女友是单方面让步\n：HR 在长沙岗位少，\n预计要大幅降薪\n，且亲友圈全部要重建\n支持网络归零\n：双方在长沙均无亲友，育儿、应急都得纯靠自己\n女友的退路问题\n：万一感情有变，她在一个零支持网络的城市重新开始，\n代价远大于我\n五、我自己的倾向\n我\n更倾向去长沙\n，主要驱动力是：\n薪资不变 + 房价便宜一半 + 强度骤降\n，对一个 33 岁的人太诱人。\n如果继续留杭州，未来大概率是\"高强度工作 → 还房贷 → 没时间陪家人\"的循环。\n但我有两个过不去的坎：\n3-5 年后想回一线几乎不可能\n，到时候如果后悔，没有回头路\n女友是为我做出让步\n——她到长沙等于亲友圈归零、职业大幅降薪。万一感情/工作出问题，她承担的代价远大于我，\n我会内疚一辈子\n六、想听站友的意见\n最想听有过类似选择经历的朋友：\n从\n一线大厂去二线小厂\n的，3 年后回头看是否后悔？尤其是带着伴侣一起搬过去的\nHR 这种岗位\n在长沙这种弱二线，实际就业情况和降薪幅度大概是什么水平？\n33 岁这个节点，\n职业惯性 vs 生活质量\n该怎么权衡？\n如果你是我，会怎么选？为什么？\n先谢过各位 🙏",
+    "content_source": "readability",
+    "content_chars": 1620,
+    "content_excerpt": "〇、概要\n手上一个\n长沙平薪 offer\n，在「\n留杭州继续卷\n」和「\n去长沙降强度\n」之间反复横跳。我自己倾向去长沙，但有一些顾虑想听听站友的意见，尤其是有过类似经历的朋友。\n核心矛盾\n："
+  },
+  {
     "id": "66d50ba8369b",
     "title": "得物算法平台部算法专家任巨伟确认出席AICon上海站，分享高可控智能客服的 Agent 工程实践",
     "url": "https://www.infoq.cn/article/ixyk6VIFhTSF3JL63EgK?utm_source=rss&utm_medium=article",
@@ -580,6 +737,20 @@
     "content_source": "readability",
     "content_chars": 3079,
     "content_excerpt": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动\n听雨\n2026-05-27\n13:12:18\n来源：\n量子位\n听雨 发自 凹非寺 量子位 | 公众号 QbitAI\nCodex自家程序员，直接把\nCodex「自我蒸馏」\n的秘籍给爆出来了…"
+  },
+  {
+    "id": "v2ex-1215877",
+    "title": "pointfixAPI： API 中转站，评论区留 ID 送额度",
+    "url": "https://www.v2ex.com/t/1215877",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-05-27T03:58:09",
+    "summary": "大家好，我最近做了一个 API 中转服务，主要面向需要统一调用 OpenAI / Claude / Gemini 等模型的开发者。 地址： https://psce.pw/958ykz 目前支持：OpenAI 兼容接口：/v1/chat/completions 、/v1/responses 支持 OpenAI / Claude / Gemini 等模型支持余额查询、用量统计、API Key 管理支持国内访问优化 主打稳定和纯血!",
+    "collected_at": "2026-05-28T02:28:30.532879",
+    "content_text": "大家好，我最近做了一个 API 中转服务，主要面向需要统一调用 OpenAI / Claude / Gemini 等模型的开发者。\n地址： https://psce.pw/958ykz\n目前支持：OpenAI 兼容接口：/v1/chat/completions 、/v1/responses 支持 OpenAI / Claude / Gemini 等模型支持余额查询、用量统计、API Key 管理支持国内访问优化\n主打稳定和纯血!\n地址： https://psce.pw/958ykz\n目前支持：OpenAI 兼容接口：/v1/chat/completions 、/v1/responses 支持 OpenAI / Claude / Gemini 等模型支持余额查询、用量统计、API Key 管理支持国内访问优化\n主打稳定和纯血!",
+    "content_source": "trafilatura",
+    "content_chars": 367,
+    "content_excerpt": "大家好，我最近做了一个 API 中转服务，主要面向需要统一调用 OpenAI / Claude / Gemini 等模型的开发者。\n地址： https://psce.pw/958ykz\n目前支持：OpenAI 兼容接口：/v1/chat/completions 、/v1/responses 支持 OpenAI / Claude / Gemini 等模型支持余额查询、用量统计、API Key 管理支持国内访问优化\n主打稳定和纯血!\n地址： https://psce.pw/958ykz\n目前支持：OpenAI 兼容接口：/v1/chat/completions 、/v1/responses 支持 OpenAI / Claude / Gemini 等模型支持余额查询、用量统计、API Key 管理支持国内访问优化\n主打稳定和纯血!"
   },
   {
     "id": "f3bd0d22eca1",
@@ -4434,148 +4605,6 @@
     "content_excerpt": "40\nhhhWhy\n7h 40m ago\n同用 amy, 同更新后节点全挂, 然后跟了一下, 大概率是公司防火墙设备的问题\namy 更新以后使用 anytls 过墙, 但是公司防火墙设备只会关心你流量是不是在白名单, 所以大概率是以下路径:\n1. 祈祷: sni 分配了一个合理的,非娱乐性质的域名, 要不然: 比如音乐,短视频,大概率公司防火墙就给你杀了\n2. 祈祷失败: sni 校验通过,然后进行握手开始通信, 我在公司环境抓过包, 看到节点的前两次握手成功,但是第三次失败\n3. 如果是墙的问题,不会精准卡第三次, 所以我猜是公司防火墙导致的, 探测了 ip 地址为境外,但是 sni 又是国内知名域名,对不上, 公司防火墙内部风控给杀了\n而更新之前 amy 一般是使用 ss 伪装 microsoft 出去,一般公司会专门开了 microsoft 的口子为了使用 office,并且由于是伪装 https 流量,公司防火墙也不会去探测网页内容,就过去了\n注:仅我对我司分析,不代表其他人公司,也没有说其他人没有公司,也没有说其他人公司不好,也没有说我司不好,也没有公司没有其他人,没有说明的地方不代表任何立场"
   },
   {
-    "id": "ea788e8c9bc3",
-    "title": "摩根大通投行高管：香港及中国内地IPO活动料显著增加",
-    "url": "https://36kr.com/newsflashes/3818424667260032?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-21T02:22:26",
-    "summary": "摩根大通全球投资银行联席主管Kevin Foley在接受采访时表示，全球首次公开募股（IPO）市场有望迎来自2021年以来最活跃的一年，其中香港和中国内地的增长预计尤为显著。推动投资和IPO的关键长期主题包括人工智能、机器人和医疗保健。（新浪财经）",
-    "collected_at": "2026-05-21T02:37:35.542100"
-  },
-  {
-    "id": "v2ex-1214312",
-    "title": "如何评价上海交大某同学用豆包 P 收款图，私吞部分奖金的行为",
-    "url": "https://www.v2ex.com/t/1214312",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-21T01:51:04",
-    "summary": "在网上刷到的，大致如下： 上海交大的某女同学跟另外一个男同学组队去参加 AI+能源比赛，男生负责算法编程、模型调试、论文撰写等核心技术工作，这位女同学负责报名、制作 PPT 和上台答辩 比赛结束后，拿到了 5000 元的奖金打入这位女同学的收款账户，但是她迟迟没有跟男同学说，男同学追问了好几次之后，竟然骗他说只有 2000 块，用豆包 P 了个假的收款凭据，后续不知道怎么暴露的，被男同学举报了,5 月 18 号学校发了处理通告。挺有意思的是，据传这位女同学家境好像不差，父亲更是某单位院长。。。 ![]( https://i.imgur.com/44nBeFV.png)",
-    "collected_at": "2026-05-21T09:01:40.541358"
-  },
-  {
-    "id": "6e56061a8de1",
-    "title": "Intuit to lay off over 3k employees to refocus on AI",
-    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-21T00:36:01",
-    "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 243 # Comments: 179",
-    "collected_at": "2026-05-21T19:47:13.873669",
-    "content_text": "Enterprise software giant Intuit is letting 17% of its staff go, or about 3,000 people, as it seeks to divert resources toward baking AI into its products, Reuters\nreported\n, citing an internal memo sent to employees.\nThe memo by CEO Sasan Goodarzi said the layoffs are meant to reduce complexity by simplifying the company’s corporate structure and help it focus on AI efforts, according to Reuters.\nThe company, which makes accounting, tax, and personal finance software like TurboTax, QuickBooks, and Credit Karma, had 18,200 employees worldwide as of July 2025, according to its\nannual report\n.\nIntuit did not immediately return a request for comment, or respond to questions about whether its management, directors, or its CEO would take a pay cut. Goodarzi’s\nsalary\nwas worth $36.8 million, including cash incentives and stock awards, during fiscal 2025.\nThe layoffs come during a bad year for the tech workforce. The tech industry has already cut more than 100,000 jobs this year,\nper Statista\n, and is on track to outpace both 2024 and 2025 if the layoff trend continues.\nCompanies such as\nAmazon\n,\nBlock\n,\nCisco\n,\nCloudflare\n,\nMeta\n,\nMicrosoft\n, and\nOracle\nhave let go of thousands of employees each, all of them citing a need to refocus expenditures around AI projects as a reason to cut jobs and restructure their organizations.\nAt the same time, all of these companies have recently reported strong revenue and profit, citing the apparent strong demand for AI products, services, or the infrastructure to power AI. Nearly all these companies’ share prices have risen, too, as investors bet that AI will serve as a new avenue of growth for software companies everywhere.\nIntuit, however, hasn’t been perceived as a beneficiary of the AI boom, with its shares consistently\nunderperforming\nin the broader S&P 500 over the past 12 months. The company has been caught up in the\nbroader current of worries\nthat traditional software-as-a-service firms will not be able to keep up or compete, as new and upcoming AI products and services threaten to change how software is developed and how it is used.\nIn its fiscal second quarter ended January, Intuit\nreported\nrevenue of $4.65 billion, a 17% increase, and net profit of $693 million, a 48% improvement compared to a year earlier.\nThe company expects revenue to increase by about 10% in the third quarter, for which it will report results later today.",
-    "content_source": "readability",
-    "content_chars": 2407,
-    "content_excerpt": "Enterprise software giant Intuit is letting 17% of its staff go, or about 3,000 people, as it seeks to divert resources toward baking AI into its products, Reuters\nreported\n, citing an internal memo sent to employees.\nThe memo by CEO Sasan Goodarzi said the layoffs are meant to reduce complexity by simplifying the company’s corporate structure and help it focus on AI efforts, according to Reuters.\nThe company, which makes accounting, tax, and personal finance software like TurboTax, QuickBooks, and Credit Karma, had 18,200 employees worldwide as of July 2025, according to its\nannual report\n.\nIntuit did not immediately return a request for comment, or respond to questions about whether its management, directors, or its CEO would take a pay cut. Goodarzi’s\nsalary\nwas worth $36.8 million, including cash incentives and stock awards, during fiscal 2025.",
-    "title_zh": "Intuit 将裁员 3000 多名员工，重新专注于人工智能",
-    "summary_zh": "文章网址：https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ 评论网址：https://news.ycombin…",
-    "ai_summary": "文章网址：https://techcrunch.com/2026/05/20/intuit-to-lay-off-ove…"
-  },
-  {
-    "id": "v2ex-1214297",
-    "title": "新用户福利 | ChaoyeAPI 免费 10 刀额度等你来拿",
-    "url": "https://www.v2ex.com/t/1214297",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-21T01:25:06",
-    "summary": "想体验强大的 AI 接口？现在加入 ChaoyeAPI 就送你 10 刀额度，让你马上开始调试、测试和使用各种 AI 工具！ 🎁 活动福利： 每位新注册用户立即获得 10 刀 ChaoyeAPI 额度 直接可用于 Plus / Pro / Claude / Kiro / Max20x 渠道 轻松测试 API 调用，无需额外付费 🌐 立即注册领取： https://chaoye.xyz ⚡ 备注：每个账号仅限领取一次，先到先得！ 评论区发邮箱 给你加上余额 猛猛蹬！！",
-    "collected_at": "2026-05-21T02:37:37.485172"
-  },
-  {
-    "id": "f5f013421de1",
-    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-21T00:28:31",
-    "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-    "collected_at": "2026-05-21T02:37:24.328936",
-    "content_text": "Nvidia founder and CEO Jensen Huang is, perhaps, one of the greatest corporate hype men of all time when it comes to his company. He may even surpass Salesforce’s Marc Benioff when it comes to relentless optimism in his company’s future and revenues.\nEven so, he delivers on the hype, quarter after quarter.\nInstead of cautioning you to view the proclamation that he’s found a “brand new $200 billion TAM for Nvidia” with skepticism, I’d argue he’s earned a bit of trust.\nHuang positioned this massive new market at the feet of Nvidia’s new CPU product, Vera, which was introduced\nin March\n. Speaking on Wednesday’s earnings call — after Nvidia posted another record-breaking quarter with $81.6 billion in revenue and forecast $91 billion for the next — Huang pitched Vera as a potentially transformative product. And one that already has promising sales figures.\nBut no matter how well Nvidia delivers, Wall Street harbors anxiety over what will knock Nvidia from its perch.\nLately, such fears have centered on the CPU. Nvidia is the king of the GPU, whereas historically the CPU markets were owned by companies like Intel and AMD. (Nvidia has made CPUs previously, of course, but that’s not its core business.)\nFor example, last month Amazon Web Services crowed about a giant contract it signed with Meta for millions of\nAmazon’s homegrown AI CPUs\n. Amazon CEO Andy Jassy has been clear that he thinks AWS can do AI chips, both GPUs and CPUs, at least as well, and\npossibly better than Nvidia\n.\nBut now, with the Vera CPU, which is sold alone and bundled with its Rubin GPU, Huang believes he’s unlocked “a major new growth driver” for his company because Vera is, he believes, “the world’s first CPU, purpose-built for agentic AI,” Huang said on the call.\n“Vera opens a brand new $200 billion TAM for Nvidia, a market we have never addressed before, and every major hyperscaler and system maker is partnering with us to deploy it. The world is rebuilding computing for agentic AI and robotic physical AI. Nvidia sits at the center of these transitions,” hype man Huang said.\nHe explained that while the “thinking” part of an AI model uses GPUs, agents mostly run on CPUs. They use CPUs to do their assigned tasks and will, he predicts, run their own form of CPU-driven PCs.\nVera is for agents because it’s specifically designed to process tokens as fast as possible. This is opposed to classic cloud architecture CPUs designed with “cores,” or the ability to run multiple instances of apps as fast as possible.\nThat sounds logical, but with the major cloud providers as well as startups pursuing AI chip development, what makes him think that Nvidia will be the go-to source for agentic CPUs?\nBecause, Huang says, Nvidia has already sold $20 billion worth of standalone Vera CPUs this year and we’re only at the beginning.\n“The world has a billion users, human users. My sense is that the world is going to have billions of agents, not today. I mean, we’re going to grow into it, but we’ll have billions of agents, and those billions of agents will all use tools. And those tools are going to be like PCs, just like us humans using using PCs today,” he said.\n“We’re going to need a lot more CPUs,” he explained.",
-    "content_source": "readability",
-    "content_chars": 3214,
-    "content_excerpt": "Nvidia founder and CEO Jensen Huang is, perhaps, one of the greatest corporate hype men of all time when it comes to his company. He may even surpass Salesforce’s Marc Benioff when it comes to relentless optimism in his company’s future and revenues.\nEven so, he delivers on the hype, quarter after quarter.\nInstead of cautioning you to view the proclamation that he’s found a “brand new $200 billion TAM for Nvidia” with skepticism, I’d argue he’s earned a bit of trust.\nHuang positioned this massive new market at the feet of Nvidia’s new CPU product, Vera, which was introduced\nin March\n. Speaking on Wednesday’s earnings call — after Nvidia posted another record-breaking quarter with $81.6 billion in revenue and forecast $91 billion for the next — Huang pitched Vera as a potentially transformative product. And one that already has promising sales figures.\nBut no matter how well Nvidia delivers, Wall Street harbors anxiety over what will knock Nvidia from its perch.\nLately, such fears have centered on the CPU. Nvidia is the king of the GPU, whereas historically the CPU markets were owned by companies like Intel and AMD. (Nvidia has made CPUs previously, of course, but that’s not its core business.)\nFor example, last month Amazon Web Services crowed about a giant contract it signed with Meta for millions of\nAmazon’s homegrown AI CPUs",
-    "title_zh": "Jensen Huang 表示他为 Nvidia 找到了一个“全新”的 200B 美元市场",
-    "summary_zh": "Nvidia 的下一件大事将是用于人工智能代理的 CPU，首席执行官黄仁勋 (Jensen Huang) 预测，价值 2000 亿美元",
-    "ai_summary": "Nvidia 的下一件大事将是用于人工智能代理的 CPU，首席执行官黄仁勋 (Jensen Huang) 预测，价值 2…"
-  },
-  {
-    "id": "v2ex-1214288",
-    "title": "纯 plus/pro 号池 gpt5.5 新建中转站需要测试一下并发压力 www.aigcwe.com",
-    "url": "https://www.v2ex.com/t/1214288",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-21T01:01:36",
-    "summary": "0.25 倍率 每人送 10 刀额度 限前 20 人 注册成功后留下邮箱，一个一个的发送",
-    "collected_at": "2026-05-21T02:37:37.485100"
-  },
-  {
-    "id": "e6eed5941e8d",
-    "title": "Anthropic says it’s about to have its first profitable quarter",
-    "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-21T00:21:21",
-    "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-    "collected_at": "2026-05-21T02:37:24.328985",
-    "content_text": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter, and deliver an operating profit for the first time, the Wall Street Journal\nreports\n.\nThat’s a big milestone and fast quarter-over-quarter growth that would put it in an advantageous position relative to its chief competitor, OpenAI. However, the WSJ reports, it may not remain profitable throughout the year due to the large compute costs it’s scheduled to incur.\nThese financials were recently shared with the company’s investors as part of a funding round.\nThe startup has gained in popularity over the past year, as more and more professionals have\nexpressed a preference for its chatbot, Claude\n. The company has also made recent efforts to diversify its customer base — including announcing a new service for small business owners and new tools for law firms.\nInterestingly, this info about Anthropic’s alleged profitability dropped the same day as news broke about\nOpenAI likely filing for its IPO soon\n. Anthropic declined to provide further comment.",
-    "content_source": "readability",
-    "content_chars": 1076,
-    "content_excerpt": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter, and deliver an operating profit for the first time, the Wall Street Journal\nreports\n.\nThat’s a big milestone and fast quarter-over-quarter growth that would put it in an advantageous position relative to its chief competitor, OpenAI. However, the WSJ reports, it may not remain profitable throughout the year due to the large compute costs it’s scheduled to incur.\nThese financials were recently shared with the company’s investors as part of a funding round.\nThe startup has gained in popularity over the past year, as more and more professionals have\nexpressed a preference for its chatbot, Claude\n. The company has also made recent efforts to diversify its customer base — including announcing a new service for small business owners and new tools for law firms.\nInterestingly, this info about Anthropic’s alleged profitability dropped the same day as news broke about\nOpenAI likely filing for its IPO soon",
-    "title_zh": "Anthropic 表示即将迎来第一个盈利季度",
-    "summary_zh": "Anthropic 告诉投资者，第二季度的收入将增加一倍多，达到 109 亿美元左右",
-    "ai_summary": "Anthropic 告诉投资者，第二季度的收入将增加一倍多，达到 109 亿美元左右"
-  },
-  {
-    "id": "v2ex-1214286",
-    "title": "我第一次发现，原来连我这种干了 8 年的程序员，也回答不了年轻人的问题",
-    "url": "https://www.v2ex.com/t/1214286",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-05-21T00:57:09",
-    "summary": "昨天去修手机，旁边坐了两个学计算机的大专生，还没毕业，在成都。 等着修手机的过程中，他们知道我是程序员以后，就开始问我： “哥，现在学 Java 还有前途吗？” “现在成都还能找到工作吗？” “专科是不是根本没机会？” “到底该学什么？” 我干程序员 8 年了。 但那一刻，我突然发现，我竟然给不出特别明确的建议。 因为如果是五六年前，我还能很肯定地说： “好好学技术，能找到工作的。” “Java 、前端、测试，总有路。” “先就业，再积累经验。” 但现在我发现，连行业里的人都开始迷茫了。 AI 在替代基础岗位。 培训班体系已经失效。 大量 junior 找不到工作。 成都互联网岗位越来越少。",
-    "collected_at": "2026-05-21T09:01:40.541099",
-    "content_text": "昨天去修手机，旁边坐了两个学计算机的大专生，还没毕业，在成都。 等着修手机的过程中，他们知道我是程序员以后，就开始问我：\n“哥，现在学 Java 还有前途吗？” “现在成都还能找到工作吗？” “专科是不是根本没机会？” “到底该学什么？”\n我干程序员 8 年了。 但那一刻，我突然发现，我竟然给不出特别明确的建议。 因为如果是五六年前，我还能很肯定地说：\n“好好学技术，能找到工作的。” “Java 、前端、测试，总有路。” “先就业，再积累经验。”\n但现在我发现，连行业里的人都开始迷茫了。 AI 在替代基础岗位。 培训班体系已经失效。 大量 junior 找不到工作。 成都互联网岗位越来越少。 学历筛选越来越严重。\n更现实的是： 很多人不是不努力， 而是努力的方向本身就在快速贬值。 我最后竟然给不出任何合理的建议，我自己都觉得有点空。\n因为现在这个时代， 可能没人真的知道什么才是“正确答案”。 突然有点感慨。\n以前觉得程序员是个越老越值钱的行业， 现在越来越像： 大家都在时代洪流里拼命找位置。\n如果现在重新回到他们这种状态，放在 2026 年，你会给怎么建议。",
-    "content_source": "trafilatura",
-    "content_chars": 486,
-    "content_excerpt": "昨天去修手机，旁边坐了两个学计算机的大专生，还没毕业，在成都。 等着修手机的过程中，他们知道我是程序员以后，就开始问我：\n“哥，现在学 Java 还有前途吗？” “现在成都还能找到工作吗？” “专科是不是根本没机会？” “到底该学什么？”\n我干程序员 8 年了。 但那一刻，我突然发现，我竟然给不出特别明确的建议。 因为如果是五六年前，我还能很肯定地说：\n“好好学技术，能找到工作的。” “Java 、前端、测试，总有路。” “先就业，再积累经验。”\n但现在我发现，连行业里的人都开始迷茫了。 AI 在替代基础岗位。 培训班体系已经失效。 大量 junior 找不到工作。 成都互联网岗位越来越少。 学历筛选越来越严重。\n更现实的是： 很多人不是不努力， 而是努力的方向本身就在快速贬值。 我最后竟然给不出任何合理的建议，我自己都觉得有点空。\n因为现在这个时代， 可能没人真的知道什么才是“正确答案”。 突然有点感慨。\n以前觉得程序员是个越老越值钱的行业， 现在越来越像： 大家都在时代洪流里拼命找位置。\n如果现在重新回到他们这种状态，放在 2026 年，你会给怎么建议。"
-  },
-  {
-    "id": "fb83c01b14b8",
-    "title": "8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”",
-    "url": "https://36kr.com/p/3818280989443202?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-20T23:59:19",
-    "summary": "今日热点导览 俄罗斯将延长对中国公民的免签制度 张雪首度谈及签约德比斯原因 微信再度开放520大额红包，限时1天 罗欣药业回应阿奇霉素劣药事件 段永平最新持仓公布 TOP3大新闻 英伟达：第一财季净利润583亿美元，同比增长211% 36氪获悉，英伟达发布2027财年第一季度财报，财报显示，英伟达第一财季营收816.2亿美元，同比增长85%；净利润583.2亿美元，同比增长211%。 谷歌CEO：Gemini月活跃用户达9亿 谷歌CEO皮查伊在2026年I/O开发者大会上表示，Gemini AI应用的月活跃用户在过去一年中增长了一倍多，达到9亿人次，日请求量增长超过7倍。他补充称，公司目前每",
-    "collected_at": "2026-05-21T02:37:35.541103",
-    "content_text": "今日热点导览\n俄罗斯将延长对中国公民的免签制度\n张雪首度谈及签约德比斯原因\n微信再度开放520大额红包，限时1天\n罗欣药业回应阿奇霉素劣药事件\n段永平最新持仓公布\nTOP3大新闻\n英伟达：第一财季净利润583亿美元，同比增长211%\n36氪获悉，英伟达发布2027财年第一季度财报，财报显示，英伟达第一财季营收816.2亿美元，同比增长85%；净利润583.2亿美元，同比增长211%。\n谷歌CEO：Gemini月活跃用户达9亿\n谷歌CEO皮查伊在2026年I/O开发者大会上表示，Gemini AI应用的月活跃用户在过去一年中增长了一倍多，达到9亿人次，日请求量增长超过7倍。他补充称，公司目前每月处理超过3.2千兆个AI token，较一年前的4,800万亿增长约7倍，也远高于2024年5月的9.7万亿水平。皮查伊表示，Gemini的快速增长推动了Alphabet今年股价上涨25%，并使公司进一步巩固其在全球人工智能研究领域的领先地位。（财联社）\n寿司郎回应“盘子10抽10脏”\n针对“杭州一门店被查盘子10抽10脏”一事，5月20日，寿司郎相关负责人向南都湾财社记者表示，公司对此事非常重视，已经按照政府监管部门要求整改完毕。\n据此前报道，杭州一家寿司郎门店因无证销售冷加工糕点、专间管理多次违规，且餐具清洗消毒不到位，被处以罚没款共计6万余元的行政处罚。据行政处罚决定书记录，2026年1月5日，执法人员到店检查时发现，在刺身专区，用于盛装成品刺身的铝盘存在大量水渍及食物残渣。执法人员现场抽查了10只铝盘，这10只铝盘均存在上述问题。一个月后，因接到消费者投诉举报，执法人员于2月5日再次上门复查。在现场抽查的10件待使用餐具中，仍有6件表面留有饭粒残渣，未洗净。（南方都市报、第一财经）\n大公司/大事件\n商务部：中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机\n36氪获悉，商务部美大司负责人解读中美经贸磋商初步成果，按照中美元首达成的重要共识，中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机。同时，美方将为中方提供充足的发动机、零部件供应保障。\n三星电子工会推迟罢工\n据央视新闻，当地时间20日深夜，当天下午再度重启的三星电子劳资谈判结束，双方签署劳资协议暂定方案。三星电子工会一方表示，原定于21日开始进行的大罢工暂缓，工会内部将针对劳资谈判协议暂定方案进行投票，后续行动将视投票结果决定。\n另据报道，三星电子暂定薪资协议将加薪6.2%，DX（设备体验）部门员工每人将获得价值600万韩元的股票。三星电子工会将于5月23日至28日就暂定薪资协议进行投票。韩国劳动部长表示，三星电子工会与三星在利润分配上达成共识。三星电子劳资双方此前就2026年薪资问题进行了多轮谈判，但双方始终未能彻底解决分歧。（第一财经、央视新闻）\n豆包客服回应“顾客用豆包预约餐厅”：无法帮用户预订\n5月19日，江苏镇江一家鱼庄店在平台上的差评被网友截图传播。写下该差评的用户表示，其通过“正规渠道”预约了该店5月3日18:30的2人餐，预约信息明确，渠道反馈预约成功。该用户称，其到店前多次拨打门店电话但未接通，按预约信息到店后被店员告知“你找豆包预约那你找豆包啊”。对此豆包官方客服回应称，平台暂不支持通过该应用进行实际餐厅预约，且因对话属用户隐私，无法代为向第三方传递信息。部分用户因电话预约困难或存在社交焦虑，转而依赖AI完成全流程服务，误将模拟信息视为有效凭证。（潇湘晨报）\n俄罗斯将延长对中国公民的免签制度\n据CCTV国际时讯消息，据塔斯社报道，俄罗斯总统新闻秘书佩斯科夫今天（5月20日）在北京接受采访时表示，俄罗斯将延长对中国公民的免签制度。此前报道：5月20日，外交部发言人郭嘉昆主持例行记者会。总台央视记者提问，普京总统访华期间，中俄双方在便利人员往来领域取得了什么新的成果？郭嘉昆表示，为持续便利中俄人员往来，中方决定将对俄罗斯免签政策延长至2027年12月31日。俄罗斯持普通护照人员来华经商、旅游观光、探亲访友、交流访问，过境不超过30天，可免办签证入境。（CCTV国际时讯）\n罗欣药业回应阿奇霉素劣药事件\n5月20日早间，罗欣药业公告，解释其控股子公司生产销售的注射用阿奇霉素，被山东省药品监督管理局判定为“劣药”，并处以罚没款相关事件。\n罗欣药业表示，经公司自查，生产及留样环节均符合规范，推测问题可能源于流通储运环节受极端高温影响。整改及内部处理措施方面，罗欣药业指出，即日起停止生产和商业化该产品，已生产库存全部报废处理。对相关管理人员严厉问责，质量负责人被辞退，山东罗欣总经理被降两级处分，并相应调整薪酬。此外，严控储运质量并健全长效机制。\n据此前报道，5月18日，山东省药监局发布的行政处罚信息显示，罗欣药业因生产销售不符合国家药品标准的注射用阿奇霉素，被处以没收药品609支、没收违法所得6.8万元并处罚款180万元，罚没款合计186.84万元。（每日经济新闻）\n思迈特软件发布企业级Agent BI白泽\n5月20日，思迈特软件正式发布SmartBI白泽V5，主打自主进化、安全可信，直击企业AI应用不敢用、没大用、难落地等痛点。这款业内首创AgentBI产品，采用指标体系+多智能体双轮驱动架构，拥有全链路智能数据分析能力，可打造从智能问数到决策交付的完整闭环，核心场景准确率达 99.9%。现已在金融、制造、央国企等大型企业规模化落地并兑现业务价值。\n爱尔眼科：已补缴税款3.48亿元、滞纳金1.76亿元\n爱尔眼科公告，公司根据国家税收法律法规的相关要求，对涉税事项开展了自查。经自查，公司需补缴税款3.48亿元、滞纳金1.76亿元。截至本公告披露日，公司已将上述税款及滞纳金缴纳完毕。根据自查情况，公司需增加2025年度企业所得税汇算清缴纳税申报金额人民币2.32亿元。（财联社）\n美股三大指数集体收涨，ARM涨超15%\n36氪获悉，5月20日收盘，美股三大指数集体上涨，道指涨1.31%，纳指涨1.54%，标普500指数涨1.08%。大型科技股集体上涨，苹果涨超1%，创历史收盘新高；ARM涨超15%，AMD涨超8%，英特尔涨超7%，特斯拉涨超3%，亚马逊涨超2%，英伟达涨超1%，谷歌、微软、Meta小幅上涨；热门中概股涨跌不一，小马智行涨超5%，网易涨超2%，小鹏集团、老虎证券涨超1%；哔哩哔哩跌超8%，蔚来跌超2%，百度、名创优品跌超1%。\n张雪首度谈及签约德比斯原因：他赛道经验丰富，还能清晰反馈赛车存在的问题\n近日，张雪机车车队在捷克站拿下双冠后，首次公开聊到签约车手德比斯的缘由。谈及选择他的理由，张雪表示：德比斯赛道经验十分丰富，各类赛道都有实战经历。他最突出的优势在于，骑行中一旦察觉到车辆状态不佳，能够条理清晰地把问题反馈给技师与工程师，这类精准反馈正是调校团队最需要的，便于快速完成车辆调校优化。（南方都市报）\n华谊兄弟被列为失信被执行人\n昔日 “中国影视娱乐第一股” 华谊兄弟（华谊300027.SZ）近日因60万案款成老赖。据天眼查法律诉讼信息显示，5月19日，ST华谊因有履行能力而拒不履行生效法律文书确定义务，被北京市朝阳区人民法院列为失信被执行人（老赖）。生效法律文书确定的义务显示，被执行人向申请执行人应支付本息暂计60.84万元。此外，该公司及其法定代表人王忠军因此案被限制高消费。本次涉案申请执行人为京凯力咨询顾问（北京）有限公司，涉案本息合计60.84 万元，公司履行状态为全部未履行。今年4月，法院已就此案对华谊兄弟执行60万元款项。（澎湃新闻）\n微信再度开放520大额红包，限时1天\n5月20日，记者查询发现，微信再度限时开放520元大额红包，限时1天。据了解，每逢2月14日、七夕、5月20日等特殊日期，微信都会开放520元红包，该传统至今已有10年。（潇湘晨报）\n西部材料管理层回应SpaceX“供货”传闻\n因传言为SpaceX供应火箭发动机核心材料而备受市场关注的稀有金属复合材料龙头西部材料（002149.SZ）近日召开了2025年度股东会。5月12日，该股盘中最高触及78.87元/股，为上市以来的股价高点。\n股东会上，西部材料管理层表示，目前公司钛材、高端合金等产品确实在对接海外商业航天产业链，做一些产品供应，但最终产品流向与具体终端客户身份、合作订单规模、合作金额均无法对外披露。（界面新闻）\n段永平最新持仓：清仓阿里、新进特斯拉，加仓英伟达、拼多多等\n近日，著名投资人段永平管理的H&H International Investment向美国SEC提交了2026年一季度13F持仓报告。数据显示，截至3月31日，该机构持仓总市值达200.04亿美元（约合人民币1362亿元），较2025年底的174.89亿美元增长14.4%，持仓数量从14只增至19只，整体呈现“核心仓位加固、新兴赛道布局”的鲜明特征。\n在本次调仓中，段永平已彻底清空阿里巴巴持仓，同时清仓光刻机巨头阿斯麦及AI算力云服务商CRWV，完成对非核心资产的集中出清。（界面新闻）\n段永平最新持仓\n巨力索具连续三天跌停，杨子家族累计套现28亿\n5月20日，巨力索具（002342.SZ）延续前两日的跌停走势，开盘后被封死跌停板。截至上午收盘，该公司已经打开了跌停板，报14.95元/股，股价下跌了5.02%。5月18日，巨力索具开盘即一字跌停，全天换手率仅0.77%，成交额1.28亿元，收盘报17.49元/股；5月19日，公司股价再次一字跌停，报15.74元/股。截至目前，公司总市值缩水至151.1亿元。（界面新闻）\n电信运营商服务新规整治文字游戏，不使用“0元”“免费”等表述\n近日，国家市场监督管理总局正式对外发布《电信和互联网服务 基础电信企业网上营业厅服务规范》（GB/T 47484—2026）国家标准。\n在信息透明方面，标准立足网上营业厅业务推广宣传内容的真实准确、完整清晰，提出应醒目地在同一页面明示业务的资费标准、服务内容、适用范围、使用规则、优惠政策、在网期限、退订方式、违约责任、限制性条件等重点事项，不使用“0元”“免费”“不限量”“永久”等易引发用户误解的表述，不通过折叠、隐蔽、模糊等形式隐瞒或淡化限制性条件。（界面新闻）\n苹果硬件负责人Srouji启动重大重组，加速未来设备开发\n苹果首席硬件官Johny Srouji近日对硬件开发部门进行重大管理层重组，旨在加快未来设备的研发进程并实现自研芯片与产品团队的更紧密整合。Srouji正在调整产品设计团队的管理架构。该职能的管辖权将从Kate Bergeron移交给其长期副手Shelly Goldberg和Dave Pakula。Goldberg此前负责Mac产品设计，Pakula领导Apple Watch、iPad和AirPods产品设计，今后他们将共同监督所有苹果产品的设计工作。Richard Dinh将继续领导iPhone产品设计。（新浪财经）\nSpaceX据悉打算在美国IPO过后30天收购初创公司Cursor\n据知知情人士透露，SpaceX预计将在其正式挂牌上市（IPO）满30 天后，推进对人工智能编程初创公司Cursor的收购案。这笔潜在交易将强力注能SpaceX的AI自动化编程实力。如果这笔交易最终未能达成，马斯克的SpaceX将需要向Cursor支付高达100亿美元的现金巨额反向分手费。（财联社）\n上市进行时\nOpenAI据悉拟在几周内提交IPO文件，计划于秋季上市\n5月21日消息，据报道，OpenAI正准备在未来几周内提交首次公开募股（IPO）文件，并计划在秋季某个时候上市。高盛和摩根士丹利正协助这家ChatGPT开发商最快于22日秘密提交IPO文件，但具体时间仍不确定。OpenAI在一份声明中表示，公司会定期评估一系列战略选择，“重点仍然是执行”。有消息称，IPO对该公司估值可能高达约1万亿美元。（界面新闻）\nSpaceX公开提交纳斯达克IPO文件，股票代码为SPCX\nSpaceX向美国证券交易委员会（SEC）提交S-1注册声明，SpaceX将在纳斯达克上市，股票代码为SPCX。承销商包括高盛、摩根士丹利、美国银行证券、花旗、摩根大通证券。SpaceX将发行两类普通股，A类普通股（每股将拥有1票投票权）和B类普通股（每股将拥有10票投票权）。马斯克的投票权合计为85.1%，拥有12.3%的A类股份和93.6%的B类股份。SEC文件显示，SpaceX第一季度收入46.94亿美元，运营亏损19.43亿美元；第一季度人工智能部门收入为8.18亿美元；一季度调整后EBITDA为11.3亿美元。2025年营收113.9亿美元，运营净利润44.2亿美元。（财联社）\nAI最前沿\nOpenAI创始成员Karpathy表示他已加入Anthropic。\nKarpathy是OpenAI创始成员之一，曾担任特斯拉AI和Autopilot相关负责人，也是斯坦福深度学习课程CS231n的核心推动者之一，在AI圈里被称为 “卡神”。（财联社）\nOpenAI宣布在新加坡设立人工智能实验室，并投入超过3亿新元\nOpenAI与新加坡签署谅解备忘录，宣布在新加坡设立一个人工智能实验室，并投入超过3亿新元（约合2.34亿美元），这是OpenAI首次在美国以外设立此类实验室。（财联社）\n对标Claude Code，DeepSeek新业务招人了\n5月20日，一则消息在AI圈里传开，DeepSeek内部正在组建一个新的Harness团队，方向是代码智能体产品，内部对标Anthropic旗下的智能体编程工具Claude Code。第一财经记者在DeepSeek官网看到，目前界面已上线Agent Harness产品经理和Agent Harness研发工程师两个新的岗位。官网并未直接提及这一桌面端Agent产品的具体类型，但在产品经理的岗位描述中，要求求职者深度使用过Claude Code、Cowork、Codex、Cursor、OpenCode、GitHub Copilot、Manus、OpenClaw、Hermes 等类似产品。这其中几乎包揽了行业目前最热门的几款编程工具以及智能体应用。另一个更直接的信息来自DeepSeek资深研究员陈德里，他在社交媒体发帖招人，标题直接表明“来DeepSeek从零做Code Harness”，正文提到“对标Claude Code，做DeepSeek Code Harness”。（第一财经）\nOpenAI推出“保障容量”服务：提供长期算力访问承诺 非主站\n当地时间5月19日，OpenAI宣布推出一项名为“保障容量”的新服务，旨在为客户最重要的产品、智能体以及客户工作流提供长期的算力访问保障。该服务允许客户选择为期1至3年的承诺期限，折扣力度将根据年度承诺额度的增加而提高。参与该服务的客户将根据其支出水平获得确定的算力访问权限，并可在OpenAI的各款产品组合中扣减该承诺额度。（界面新闻）\n新加坡加码人工智能布局，英伟达将落地本地研发中心\n全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经）\n阿里发布新一代千问旗舰模型Qwen3.7-Max\n36氪获悉，5月20日，阿里巴巴发布全新一代千问旗舰模型Qwen3.7-Max，在三方机构Arena全球大模型盲测总榜中，Qwen3.7-Max位列国产模型第一。千问3.7面向当下智能体（Agent）全新设计，实现了编程、推理等核心能力的持续突破，甚至可全自主完成35小时的超长程智能体复杂任务：在一个全新的芯片平台上，Qwen3.7-Max通过自主编程和超1000次工具调用，实现了一个关键内核的自我进化，推理速度较原版本提升10倍。\n投融资\n“贝塔无限”连续完成种子轮、种子+轮数亿元融资\n36氪获悉，近日，聚焦消费级通用具身智能的企业“贝塔无限 Beta Infinity”宣布，公司已先后完成种子轮、种子+轮数亿元融资。种子轮由洪泰基金、正景基金、银杏谷资本、水木清华校友种子基金、粤科金融等投资机构联合投资，种子+轮由世纪华通参与的盛趣泰和基金与和利资本联合领投，毅达资本、南山战新投等机构跟投，义柏资本担任财务顾问。两轮资金将主要用于核心技术研发、产品试制等。\n“趋境科技”完成数亿元Pre-A轮融资\n36氪获悉，近日，AI Token生产服务商“趋境科技”（Approaching.AI）宣布完成数亿元 Pre-A 轮融资。本轮融资由星连资本与华控科技联合领投，弘晖资本、天壕能源、尚势资本、天津仁爱弘盛、杭州福成等机构跟投，老股东高瓴创投（GL Ventures）持续加注。\n美国鹰牌CEO加持的初创公司最新融资跻身独角兽行列\n美国鹰牌（American Eagle）CEO杰伊・肖滕斯坦因投资的初创公司Radar完成最新一轮融资，估值突破10亿美元，成功晋升独角兽企业。该公司主营零售防损与库存管理技术，合作客户包括美国鹰牌及盖璞旗下老海军（Old Navy）。（新浪财经）\n酷产品\n苹果重新上架448元iPhone握把支架，二手平台曾溢价超80%\n5月20日，苹果中国官网更新上架了一款曾引发抢购热潮的iPhone配件。这款名为Hikawa Grip & Stand的握把兼支架，售价448元，提供橙色、蓝色和岩石色三种配色的MagSafe配件，目前显示三种颜色均有现货。\nHikawa Grip & Stand最早于2025年11月推出。当时，苹果为纪念公司在无障碍设计领域深耕40周年，特别推出了这款产品。由于是限量发售，在去年上线后，这款配件就很快售罄，随后陷入长期缺货状态，致这款配件逐渐成为“绝版”藏品。售罄后，该配件在二手交易平台上价格曾一路飙升，溢价幅度超过80%。（界面新闻）\niPhone握把支架\nAI图谱\nAI图谱，带你解读最新最快的AI资讯。接入龙虾服务打造AI助手“灵思超级助手”，以ClawPro为企业级统一管控底座，传播大脑重写媒体工作流。\nAI图谱，带你解读最新最快的AI资讯。一年省10亿，Gemini3.5发布\n整理\n｜开心",
-    "content_source": "readability",
-    "content_chars": 7521,
-    "content_excerpt": "今日热点导览\n俄罗斯将延长对中国公民的免签制度\n张雪首度谈及签约德比斯原因\n微信再度开放520大额红包，限时1天\n罗欣药业回应阿奇霉素劣药事件\n段永平最新持仓公布\nTOP3大新闻\n英伟达：第一财季净利润583亿美元，同比增长211%\n36氪获悉，英伟达发布2027财年第一季度财报，财报显示，英伟达第一财季营收816.2亿美元，同比增长85%；净利润583.2亿美元，同比增长211%。\n谷歌CEO：Gemini月活跃用户达9亿"
-  },
-  {
-    "id": "6b0b9cf6e7e3",
-    "title": "Clouted wants to take the guesswork out of making short videos go viral",
-    "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-20T22:30:45",
-    "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-    "collected_at": "2026-05-21T02:37:24.329008",
-    "content_text": "It feels like short video clips from podcasts, songs, and movies are suddenly everywhere on social media right now, and that’s not an accident. Brands have realized that the format offers a highly cost-effective way to market products.\nBrands and marketing agencies often outsource the process of finding the most compelling 30 to 90 seconds of a video, known as “clipping,” to independent creators. But managing these gig workers and determining exactly where to distribute those videos presents a massive operational challenge.\nClouted\n, a startup that went through a16z’s Speedrun accelerator in 2024, is building the infrastructure to automatically handle both the distribution strategy and the logistics of the clipping process. The platform taps into a network of over 100,000 gig creators to edit clips, then uses AI to determine the best social media platform and target audience for promoting them.\nClouted co-founder and CEO Justin Banusing first applied the company’s technology to his personal passion: electronic music and festival production. As a longtime DJ, he used Clouted to promote and grow &Friends, a Manila-based electronic dance music and pop-culture festival that now draws over 20,000 people.\nClouted’s approach has caught investor interest. The startup just announced a $7 million seed round led by Slow Ventures, with participation from Gold House Ventures, Weekend Fund, Peak XV’s Surge, and others.\nUnlike purely volume-driven marketing tools, Clouted doesn’t just chase high clip counts. Instead, its AI operates a continuous testing loop, experimenting with different formats and channel strategies to figure out what actually performs best. The practical effect is that each campaign makes the next one more targeted and efficient, as the system accumulates data on what works.\nClouted functions somewhat like penetration testing for social media algorithms — a concept borrowed from cybersecurity, where researchers probe a system’s defenses by attempting to break them. Rather than looking for security flaws, Clouted’s AI and its network of creators test thousands of different clipping and distribution approaches to identify what triggers a piece of content to go viral.\n“The result is that every campaign Clouted runs makes the next one faster, smarter, and more effective,” Banusing told TechCrunch. “The platform learns which formats win, which audiences convert, and which distribution channels compound over time.”\nWhile Clouted competes directly with similar startups like Overlap AI in the automated clipping space, Banusing said he looks to larger marketing infrastructure players, specifically CreatorIQ and Hightouch, as the ultimate competition. Hightouch recently crossed\n$100 million in ARR\n, suggesting that the enterprise marketing infrastructure space is large and still expanding. That’s the market Clouted is ultimately building toward.",
-    "content_source": "readability",
-    "content_chars": 2892,
-    "content_excerpt": "It feels like short video clips from podcasts, songs, and movies are suddenly everywhere on social media right now, and that’s not an accident. Brands have realized that the format offers a highly cost-effective way to market products.\nBrands and marketing agencies often outsource the process of finding the most compelling 30 to 90 seconds of a video, known as “clipping,” to independent creators. But managing these gig workers and determining exactly where to distribute those videos presents a massive operational challenge.\nClouted\n, a startup that went through a16z’s Speedrun accelerator in 2024, is building the infrastructure to automatically handle both the distribution strategy and the logistics of the clipping process. The platform taps into a network of over 100,000 gig creators to edit clips, then uses AI to determine the best social media platform and target audience for promoting them.\nClouted co-founder and CEO Justin Banusing first applied the company’s technology to his personal passion: electronic music and festival production. As a longtime DJ, he used Clouted to promote and grow &Friends, a Manila-based electronic dance music and pop-culture festival that now draws over 20,000 people.\nClouted’s approach has caught investor interest. The startup just announced a $7 million seed round led by Slow Ventures, with participation from Gold House Ventures, Weekend Fund, Peak XV’s Surge, and others.\nUnlike purely volume-driven marketing tools, Clouted doesn’t just chase high clip counts. Instead, its AI operates a continuous testing loop, experimenting with different formats and channel strategies to figure out what actually performs best. The practical effect is that each campaign makes the next one more targeted and efficient, as the system accumulates data on what works.\nClouted functions somewhat like penetration testing for social media algorithms — a concept borrowed from cybersecurity, where researchers probe a system’s defenses by attempting to break them. Rather than looking for security flaws, Clouted’s AI and its network of creators test thousands of different clipping and distribution approaches to identify what triggers a piece of content to go viral.\n“The result is that every campaign Clouted runs makes the next one faster, smarter, and more effective,” Banusing told TechCrunch. “The platform learns which formats win, which audiences convert, and which distribution channels compound over time.”\nWhile Clouted competes directly with similar startups like Overlap AI in the automated clipping space, Banusing said he looks to larger marketing infrastructure players, specifically CreatorIQ and Hightouch, as the ultimate competition. Hightouch recently crossed",
-    "title_zh": "Clated 希望消除短视频传播过程中的猜测",
-    "summary_zh": "这家视频剪辑初创公司筹集了由 Slow Ventures 领投的 700 万美元种子轮融资",
-    "ai_summary": "这家视频剪辑初创公司筹集了由 Slow Ventures 领投的 700 万美元种子轮融资"
-  },
-  {
     "id": "hn-48153379",
     "title": "I believe there are entire companies right now under AI psychosis",
     "url": "https://twitter.com/mitchellh/status/2055380239711457578",
@@ -4584,25 +4613,7 @@
     "published": "2026-05-15T20:26:47Z",
     "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
     "points": 2105,
-    "collected_at": "2026-05-27T20:05:18.978279"
-  },
-  {
-    "id": "1dd7071627fc",
-    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-20T22:26:08",
-    "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-    "collected_at": "2026-05-21T02:37:24.329051",
-    "content_text": "Elon Musk’s xAI lost $6.4 billion from operations on just $3.2 billion in revenue in 2025, according to\nSpaceX’s IPO filings\n. And the losses are poised to grow. SpaceX’s filing reveals plans to scale Grok to “multiple trillions of parameters,” a dramatic boost that will likely require significant additional compute spend.\nElon Musk merged his AI company xAI — which had previously acquired his social media platform X (formerly Twitter) — with his rocket and satellite company\nSpaceX in February\nbefore announcing that he’d take the combined company public this year. While AI competitors OpenAI and Anthropic are also eyeing public debuts in 2026, SpaceX’s is expected to be one of the largest in history with a potential $1.75 trillion valuation.\nThe\nfiling\nmarks the first public glimpses into xAI, and therefore X’s, financials. In 2024, xAI recorded a loss of $1.56 billion on $2.62 billion in revenue. By 2025, losses had ballooned to $6.4 billion on $3.2 billion, meaning the gap between what xAI earns and spends is widening. Meanwhile, competitor (and customer) Anthropic\nreportedly\nexpects a 130% revenue jump to $10.9 billion in the second quarter, leading to its first operating profit.\nThe jump in revenue from 2024 to 2025 came in large part from “AI solutions and infrastructure revenue” totaling $465 million, which includes $365 million in X and Grok subscription revenue and $88 million in data licensing. An additional $116 million came from advertising.\nAI segment capital expenditures climbed from $12.7 billion in 2025 to $7.7 billion in the first quarter of 2026 alone. That’s an annualized capex run rate of about $30.8 billion, more than doubling year-over-year.\nSo far, that investment has resulted in growing, but still limited, user numbers. Per the filing, SpaceX recorded 117 million monthly active users (MAUs) for Grok AI features as of March 2026, out of 550 million total MAUs across Grok and X combined. That implies only one-fifth of the combined ecosystem is actively using Grok AI features.\nStill, SpaceX intends to soldier on with Grok; its next-generation AI is expected to scale to “multiple trillions of parameters,” which the filing describes as a “step change in reasoning in depth and overall intelligence.” It’s an ambitious target, and one that’s now recorded in the audited annals of SEC history.\nIt’s also a target that will undoubtedly require more investment. The SpaceX filing’s “use of proceeds” section mentions an “expansion of our\nAI compute infrastructure.\n” Per the filing, xAI’s Colossus and Colossus II data centers — both of which came online in 122 days and 91 days, respectively — collectively provide about 1 gigawatt of compute power. These are both used for Grok’s training and inference. SpaceX claims that owning the compute infrastructure and vertically integrating across the AI stack lets them “train and iterate frontier models at lower cost and higher velocity.”\nAnother way that SpaceX might assuage investor fears about spending is by performing training and inference on orbital data centers, which Musk has promised to be a much cheaper alternative to terrestrial data centers. That sci-fi vision isn’t likely to happen for several years, though. The filing says SpaceX intends to begin deploying its orbital AI compute satellites as early as 2028 — the first concrete timeline set for such a launch.\n“The future of AI will be determined by control of the physical stack,” the filing reads.",
-    "content_source": "readability",
-    "content_chars": 3470,
-    "content_excerpt": "Elon Musk’s xAI lost $6.4 billion from operations on just $3.2 billion in revenue in 2025, according to\nSpaceX’s IPO filings\n. And the losses are poised to grow. SpaceX’s filing reveals plans to scale Grok to “multiple trillions of parameters,” a dramatic boost that will likely require significant additional compute spend.\nElon Musk merged his AI company xAI — which had previously acquired his social media platform X (formerly Twitter) — with his rocket and satellite company\nSpaceX in February\nbefore announcing that he’d take the combined company public this year. While AI competitors OpenAI and Anthropic are also eyeing public debuts in 2026, SpaceX’s is expected to be one of the largest in history with a potential $1.75 trillion valuation.\nThe\nfiling\nmarks the first public glimpses into xAI, and therefore X’s, financials. In 2024, xAI recorded a loss of $1.56 billion on $2.62 billion in revenue. By 2025, losses had ballooned to $6.4 billion on $3.2 billion, meaning the gap between what xAI earns and spends is widening. Meanwhile, competitor (and customer) Anthropic\nreportedly",
-    "title_zh": "xAI 去年烧掉了 6.4B 美元——SpaceX 的 IPO 文件显示了支出远未结束的原因",
-    "summary_zh": "SpaceX 的 IPO 文件显示，xAI 在计划大规模 Grok 扩张时，在 2025 年亏损了 64 亿美元，这让人们首次公开了解埃隆·马斯克 (Elon Musk) 的人工智能财务状况以及有关其雄心壮志的更多细节",
-    "ai_summary": "SpaceX 的 IPO 文件显示，xAI 在计划大规模 Grok 扩张时，在 2025 年亏损了 64 亿美元，这让人…"
+    "collected_at": "2026-05-28T02:28:30.160459"
   },
   {
     "id": "hn-48085821",
@@ -4613,7 +4624,7 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-05-27T20:05:18.978339"
+    "collected_at": "2026-05-28T02:28:30.160521"
   },
   {
     "id": "hn-48019219",
@@ -4624,7 +4635,7 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "points": 1755,
-    "collected_at": "2026-05-27T20:05:18.978378"
+    "collected_at": "2026-05-28T02:28:30.160560"
   },
   {
     "id": "hn-47679121",
@@ -4635,7 +4646,7 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "points": 1541,
-    "collected_at": "2026-05-27T20:05:18.978491"
+    "collected_at": "2026-05-28T02:28:30.160638"
   },
   {
     "id": "hn-47363754",
@@ -4646,7 +4657,7 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-05-27T20:05:18.978593"
+    "collected_at": "2026-05-28T02:28:30.160738"
   },
   {
     "id": "hn-47340079",
@@ -4657,7 +4668,7 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "points": 4229,
-    "collected_at": "2026-05-27T20:05:18.978169"
+    "collected_at": "2026-05-28T02:28:30.160355"
   },
   {
     "id": "hn-47225130",
@@ -4668,7 +4679,7 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-05-27T20:05:18.978635"
+    "collected_at": "2026-05-28T02:28:30.160782"
   },
   {
     "id": "hn-47136179",
@@ -4679,7 +4690,7 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-05-27T20:05:18.978302"
+    "collected_at": "2026-05-28T02:28:30.160481"
   },
   {
     "id": "hn-46990729",
@@ -4690,7 +4701,7 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "points": 2346,
-    "collected_at": "2026-05-27T20:05:18.978247"
+    "collected_at": "2026-05-28T02:28:30.160427"
   },
   {
     "id": "hn-45941596",
@@ -4701,7 +4712,7 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-05-27T20:05:18.978647"
+    "collected_at": "2026-05-28T02:28:30.160794"
   },
   {
     "id": "hn-45930151",
@@ -4712,7 +4723,7 @@
     "published": "2025-11-14T18:35:22Z",
     "summary": "\"Every minute, a new clock is rendered by nine different AI models.\"",
     "points": 1383,
-    "collected_at": "2026-05-27T20:05:18.978689"
+    "collected_at": "2026-05-28T02:28:30.160833"
   },
   {
     "id": "hn-44972151",
@@ -4723,7 +4734,7 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "points": 1697,
-    "collected_at": "2026-05-27T20:05:18.978402"
+    "collected_at": "2026-05-28T02:28:30.160585"
   },
   {
     "id": "hn-44396518",
@@ -4734,7 +4745,7 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "points": 1539,
-    "collected_at": "2026-05-27T20:05:18.978561"
+    "collected_at": "2026-05-28T02:28:30.160708"
   },
   {
     "id": "hn-44314423",
@@ -4745,7 +4756,7 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "Andrej Karpathy: Software in the era of AI [video]",
     "points": 1481,
-    "collected_at": "2026-05-27T20:05:18.978605"
+    "collected_at": "2026-05-28T02:28:30.160751"
   },
   {
     "id": "hn-44163063",
@@ -4756,7 +4767,7 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-05-27T20:05:18.978219"
+    "collected_at": "2026-05-28T02:28:30.160404"
   },
   {
     "id": "hn-42910910",
@@ -4767,7 +4778,7 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-05-27T20:05:18.978414"
+    "collected_at": "2026-05-28T02:28:30.160597"
   },
   {
     "id": "hn-41392128",
@@ -4778,7 +4789,7 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-05-27T20:05:18.978315"
+    "collected_at": "2026-05-28T02:28:30.160495"
   },
   {
     "id": "hn-41386319",
@@ -4789,7 +4800,7 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-05-27T20:05:18.978328"
+    "collected_at": "2026-05-28T02:28:30.160508"
   },
   {
     "id": "hn-41069829",
@@ -4800,7 +4811,7 @@
     "published": "2024-07-25T15:29:41Z",
     "summary": "AI solves International Math Olympiad problems at silver medal level",
     "points": 1370,
-    "collected_at": "2026-05-27T20:05:18.978702"
+    "collected_at": "2026-05-28T02:28:30.160846"
   },
   {
     "id": "hn-41046773",
@@ -4811,7 +4822,7 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-05-27T20:05:18.978207"
+    "collected_at": "2026-05-28T02:28:30.160391"
   },
   {
     "id": "hn-39918245",
@@ -4822,7 +4833,7 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "points": 1418,
-    "collected_at": "2026-05-27T20:05:18.978662"
+    "collected_at": "2026-05-28T02:28:30.160806"
   },
   {
     "id": "hn-39526057",
@@ -4833,7 +4844,7 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-05-27T20:05:18.978193"
+    "collected_at": "2026-05-28T02:28:30.160377"
   },
   {
     "id": "hn-38544729",
@@ -4844,7 +4855,7 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-05-27T20:05:18.978259"
+    "collected_at": "2026-05-28T02:28:30.160439"
   },
   {
     "id": "hn-37021160",
@@ -4855,7 +4866,7 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "Zoom terms now allow training AI on user content with no opt out",
     "points": 1581,
-    "collected_at": "2026-05-27T20:05:18.978460"
+    "collected_at": "2026-05-28T02:28:30.160610"
   },
   {
     "id": "hn-31812259",
@@ -4866,7 +4877,7 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-05-27T20:05:18.978617"
+    "collected_at": "2026-05-28T02:28:30.160764"
   },
   {
     "id": "hn-18249755",
@@ -4877,7 +4888,7 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-05-27T20:05:18.978388"
+    "collected_at": "2026-05-28T02:28:30.160571"
   },
   {
     "id": "hn-17022963",
@@ -4888,7 +4899,7 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "points": 1875,
-    "collected_at": "2026-05-27T20:05:18.978353"
+    "collected_at": "2026-05-28T02:28:30.160534"
   },
   {
     "id": "hn-15892066",
@@ -4899,7 +4910,7 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "points": 1535,
-    "collected_at": "2026-05-27T20:05:18.978580"
+    "collected_at": "2026-05-28T02:28:30.160726"
   },
   {
     "id": "hn-6830566",
@@ -4910,6 +4921,6 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-05-27T20:05:18.978673"
+    "collected_at": "2026-05-28T02:28:30.160817"
   }
 ]

@@ -20,7 +20,7 @@ ai_summary = "我们所有人都处于过渡时期"
 summary = "We're in the transition period -- all of us."
 summary_zh = "我们所有人都处于过渡时期"
 tags = []
-list_page = 13
+list_page = 14
 +++
 
 <!-- AUTO-GENERATED: news page -->

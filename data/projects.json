@@ -6587,6 +6587,38 @@
     "collected_at": "2026-05-23T19:00:57.756686"
   },
   {
+    "id": "github-1237178624",
+    "name": "chefroger/smart-trade-ai",
+    "display_name": "smart-trade-ai",
+    "url": "https://github.com/chefroger/smart-trade-ai",
+    "description": "AI assistant for international trade — 14 B2B skills. Runs locally. 外贸业务员的 AI 助手。",
+    "stars": 6,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "b2b",
+      "cold-email",
+      "due-diligence",
+      "fastapi",
+      "foreign-trade",
+      "hermes-agent",
+      "lead-generation",
+      "llm",
+      "local-first",
+      "python",
+      "sqlite",
+      "trade"
+    ],
+    "created_at": "2026-05-13T00:29:49Z",
+    "updated_at": "2026-05-27T08:02:50Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-28T02:28:31.638812"
+  },
+  {
     "id": "github-1229012201",
     "name": "brandonhimpfen/optimization-kernels",
     "display_name": "optimization-kernels",
