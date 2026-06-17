@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-17 19:41:33
+🕐 **最近更新**：2026-06-17 19:56:55
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,20 +24,20 @@
    - Ramp 的数据显示，Anthropic 在商业用户中的受欢迎程度越来越高，最近与政府的争吵实际上可能会提高它的受欢迎程…
    - `TechCrunch AI · 2026-06-16`
 
-3. [内罗毕的企业家阐述了使用太阳能的理由](https://aihot.bt199.com/news/db9922117603/)
+3. [下一个人形机器人可能看起来根本不像人类](https://aihot.bt199.com/news/d21388d9de6e/)
+   - 下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…
+   - `The Verge AI · 2026-06-17`
+
+4. [内罗毕的企业家阐述了使用太阳能的理由](https://aihot.bt199.com/news/db9922117603/)
    - 肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年…
    - `MIT Tech Review · 2026-06-17`
 
-4. [侵入大气层：地球工程得到现实检验](https://aihot.bt199.com/news/8ee7ec35dcf5/)
+5. [侵入大气层：地球工程得到现实检验](https://aihot.bt199.com/news/8ee7ec35dcf5/)
    - 吉姆·弗兰克（Jim Franke）拉开他办公室环绕式办公桌上的演示文稿封面，展示了一架外观奇怪的飞机的插图，其巨大的机…
    - `MIT Tech Review · 2026-06-17`
 
-5. [苹果 2027 年传闻：带有 AI 摄像头的 AirPods 和第二款折叠 iPhone](https://aihot.bt199.com/news/523864fa9812/)
+6. [苹果 2027 年传闻：带有 AI 摄像头的 AirPods 和第二款折叠 iPhone](https://aihot.bt199.com/news/523864fa9812/)
    - 现在我们已经了解了 WWDC 以及苹果平台即将推出的所有新的人工智能功能，彭博社记者马克·古尔曼 (Mark Gurma…
-   - `The Verge AI · 2026-06-16`
-
-6. [SpaceX 正式斥资 600 亿美元收购 Cursor](https://aihot.bt199.com/news/07a96b56158c/)
-   - 在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…
    - `The Verge AI · 2026-06-16`
 
 7. [严重的 Copilot 漏洞允许黑客窃取用户的 2FA 代码](https://aihot.bt199.com/news/98586e1b1098/)
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

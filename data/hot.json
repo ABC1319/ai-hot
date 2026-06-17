@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T11:41:33.524560",
+  "updated_at": "2026-06-17T11:56:55.559217",
   "total": 8,
   "hot_list": [
     {
@@ -36,6 +36,24 @@
       "category": "资讯",
       "news_id": "e9ed648d3b34",
       "internal_url": "https://aihot.bt199.com/news/e9ed648d3b34/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "下一个人形机器人可能看起来根本不像人类",
+      "name": "下一个人形机器人可能看起来根本不像人类",
+      "title_zh": "下一个人形机器人可能看起来根本不像人类",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-06-17",
+      "time": "2026-06-17",
+      "description": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "subtitle": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "ai_summary": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "category": "资讯",
+      "news_id": "d21388d9de6e",
+      "internal_url": "https://aihot.bt199.com/news/d21388d9de6e/",
       "type_label": "📰 新闻"
     },
     {
@@ -90,24 +108,6 @@
       "category": "资讯",
       "news_id": "523864fa9812",
       "internal_url": "https://aihot.bt199.com/news/523864fa9812/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "name": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "title_zh": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-06-16",
-      "time": "2026-06-16",
-      "description": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "subtitle": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "ai_summary": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "category": "资讯",
-      "news_id": "07a96b56158c",
-      "internal_url": "https://aihot.bt199.com/news/07a96b56158c/",
       "type_label": "📰 新闻"
     },
     {
@@ -185,6 +185,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "下一个人形机器人可能看起来根本不像人类",
+      "name": "下一个人形机器人可能看起来根本不像人类",
+      "title_zh": "下一个人形机器人可能看起来根本不像人类",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-06-17",
+      "time": "2026-06-17",
+      "description": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "subtitle": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "ai_summary": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "category": "资讯",
+      "news_id": "d21388d9de6e",
+      "internal_url": "https://aihot.bt199.com/news/d21388d9de6e/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "内罗毕的企业家阐述了使用太阳能的理由",
       "name": "内罗毕的企业家阐述了使用太阳能的理由",
       "title_zh": "内罗毕的企业家阐述了使用太阳能的理由",
@@ -236,24 +254,6 @@
       "category": "资讯",
       "news_id": "523864fa9812",
       "internal_url": "https://aihot.bt199.com/news/523864fa9812/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "name": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "title_zh": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-06-16",
-      "time": "2026-06-16",
-      "description": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "subtitle": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "ai_summary": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "category": "资讯",
-      "news_id": "07a96b56158c",
-      "internal_url": "https://aihot.bt199.com/news/07a96b56158c/",
       "type_label": "📰 新闻"
     },
     {
@@ -337,6 +337,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "下一个人形机器人可能看起来根本不像人类",
+      "name": "下一个人形机器人可能看起来根本不像人类",
+      "title_zh": "下一个人形机器人可能看起来根本不像人类",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-06-17",
+      "time": "2026-06-17",
+      "description": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "subtitle": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "ai_summary": "下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…",
+      "category": "资讯",
+      "news_id": "d21388d9de6e",
+      "internal_url": "https://aihot.bt199.com/news/d21388d9de6e/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "内罗毕的企业家阐述了使用太阳能的理由",
       "name": "内罗毕的企业家阐述了使用太阳能的理由",
       "title_zh": "内罗毕的企业家阐述了使用太阳能的理由",
@@ -388,24 +406,6 @@
       "category": "资讯",
       "news_id": "523864fa9812",
       "internal_url": "https://aihot.bt199.com/news/523864fa9812/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "name": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "title_zh": "SpaceX 正式斥资 600 亿美元收购 Cursor",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-06-16",
-      "time": "2026-06-16",
-      "description": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "subtitle": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "ai_summary": "在大规模 IPO 几天后，SpaceX 表示将斥资 600 亿美元收购 Cursor，此举旨在帮助埃隆·马斯克 (Elo…",
-      "category": "资讯",
-      "news_id": "07a96b56158c",
-      "internal_url": "https://aihot.bt199.com/news/07a96b56158c/",
       "type_label": "📰 新闻"
     },
     {
