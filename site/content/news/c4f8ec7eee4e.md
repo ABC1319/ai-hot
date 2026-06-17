@@ -1,16 +1,16 @@
 +++
-title = "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资"
+title = "最新动态：华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资"
 description = "用“人类心智”重做具身智能"
-seo_title = "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资｜AI资讯解读 - AI热榜"
+seo_title = "最新动态：华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资｜AI资讯解读 - AI热榜"
 seo_description = "用“人类心智”重做具身智能"
-seo_keywords = "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资, 量子位, AI新闻, AI资讯, AI热榜"
+seo_keywords = "最新动态：华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资, 量子位, AI新闻, AI资讯, AI热榜"
 slug = "c4f8ec7eee4e"
 type = "news"
 
 [params]
 id = "c4f8ec7eee4e"
-name = "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资"
-title_en = "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资"
+name = "最新动态：华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资"
+title_en = "最新动态：华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资"
 original_url = "https://www.qbitai.com/2026/05/423455.html"
 source = "量子位"
 published = "2026-05-25T02:28:17"
@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "用“人类心智”重做具身智能"
 summary_zh = ""
 tags = []
-list_page = 26
+list_page = 27
 +++
 
 <!-- AUTO-GENERATED: news page -->

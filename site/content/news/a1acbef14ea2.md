@@ -10,7 +10,7 @@ type = "news"
 [params]
 id = "a1acbef14ea2"
 name = "每个人都在实时应对人工智能安全问题——甚至谷歌"
-title_en = "Everyone is navigating AI security in real time — even Google"
+title_en = "Latest: Everyone is navigating AI security in real time — even Google"
 original_url = "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/"
 source = "TechCrunch AI"
 published = "2026-05-24T21:39:21"

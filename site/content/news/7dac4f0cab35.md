@@ -10,17 +10,17 @@ type = "news"
 [params]
 id = "7dac4f0cab35"
 name = "在 TechCrunch Disrupt 2026 上：Databricks 联合创始人谈什么扼杀了企业人工智能交易"
-title_en = "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals"
+title_en = "Report: At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals"
 original_url = "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/"
 source = "TechCrunch AI"
 published = "2026-05-28T14:30:00"
 lang = "en"
 intro = "企业人工智能现在正在进入一个不同的阶段，企业不再评估人工智能是否令人兴奋。他们正在评估广泛部署是否安全"
 ai_summary = "企业人工智能现在正在进入一个不同的阶段，企业不再评估人工智能是否令人兴奋。他们正在评估广泛部署是否安全"
-summary = "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly."
+summary = "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting."
 summary_zh = "企业人工智能现在正在进入一个不同的阶段，企业不再评估人工智能是否令人兴奋。他们正在评估广泛部署是否安全"
 tags = []
-list_page = 10
+list_page = 11
 +++
 
 <!-- AUTO-GENERATED: news page -->

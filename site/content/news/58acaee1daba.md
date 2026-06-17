@@ -10,14 +10,14 @@ type = "news"
 [params]
 id = "58acaee1daba"
 name = "下载：跟上人工智能的步伐，以及 IVF 的未来"
-title_en = "The Download: keeping up with AI, and the future of IVF"
+title_en = "Report: The Download: keeping up with AI, and the future of IVF"
 original_url = "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
 source = "MIT Tech Review"
 published = "2026-05-27T12:10:00"
 lang = "en"
 intro = "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。密切关注今年夏天人工智能领域的最新动…"
 ai_summary = "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。密切关注今年夏天人工智能领域的最新动…"
-summary = "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world o"
+summary = "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology."
 summary_zh = "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。密切关注今年夏天人工智能领域的最新动态，在《麻省理工学院技术评论》中，我们确切地了解来自世界各地的新闻步伐是多么的无情"
 tags = []
 list_page = 16

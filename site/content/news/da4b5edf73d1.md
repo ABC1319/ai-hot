@@ -1,31 +1,31 @@
 +++
-title = "As AI agents become employees, NewCore emerges with $66M to give them identities"
-description = "As AI agents become employees, NewCore emerges with $66M to give them identities。来源：TechCrunch AI。"
-seo_title = "As AI agents become employees, NewCore emerges with $66M to give them identities｜AI资讯解读 - AI热榜"
-seo_description = "As AI agents become employees, NewCore emerges with $66M to give them identities。来源：TechCrunch AI。"
-seo_keywords = "As AI agents become employees, NewCore emerges with $66M to give them identities, TechCrunch AI, AI新闻, AI资讯, AI热榜"
+title = "In depth: As AI agents become employees, NewCore emerges with $66M to give them identities"
+description = "In depth: As AI agents become employees, NewCore emerges with $66M to give them identities。来源：TechCrunch AI。"
+seo_title = "In depth: As AI agents become employees, NewCore emerges with $66M to give them identities｜AI资讯解读 - AI热榜"
+seo_description = "In depth: As AI agents become employees, NewCore emerges with $66M to give them identities。来源：TechCrunch AI。"
+seo_keywords = "In depth: As AI agents become employees, NewCore emerges with $66M to give them identities, TechCrunch AI, AI新闻, AI资讯, AI热榜"
 slug = "da4b5edf73d1"
 type = "news"
 
 [params]
 id = "da4b5edf73d1"
-name = "As AI agents become employees, NewCore emerges with $66M to give them identities"
-title_en = "As AI agents become employees, NewCore emerges with $66M to give them identities"
+name = "In depth: As AI agents become employees, NewCore emerges with $66M to give them identities"
+title_en = "In depth: As AI agents become employees, NewCore emerges with $66M to give them identities"
 original_url = "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/"
 source = "TechCrunch AI"
 published = "2026-06-15T13:00:00"
 lang = "en"
-intro = "As AI agents become employees, NewCore emerges with $66M to give them identities。来源：TechCrunch AI。"
+intro = "In depth: As AI agents become employees, NewCore emerges with $66M to give them identities。来源：TechCrunch AI。"
 ai_summary = ""
 summary = "NewCore argues the next challenge in enterprise security will be managing AI agents, not people."
 summary_zh = ""
 tags = []
-list_page = 7
+list_page = 8
 +++
 
 <!-- AUTO-GENERATED: news page -->
 
-As AI agents become employees, NewCore emerges with $66M to give them identities。
+In depth: As AI agents become employees, NewCore emerges with $66M to give them identities。
 
 来源：TechCrunch AI。
 

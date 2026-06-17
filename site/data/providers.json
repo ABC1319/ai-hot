@@ -1166,17 +1166,14 @@
     "pricing": "按量计费",
     "api": true,
     "provider_kind": "manual",
-    "source": "openrouter",
+    "source": "manual",
     "latest_models": [
       "StepFun: Step 3.7 Flash",
       "StepFun: Step 3.5 Flash"
     ],
-    "model_count": 2,
-    "last_updated": "2026-05-28",
-    "modalities": [
-      "视频",
-      "文本"
-    ],
-    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 StepFun: Step 3.7 Flash"
+    "model_count": 0,
+    "last_updated": "",
+    "modalities": [],
+    "live_summary": "站内手工维护，待补充实时模型索引"
   }
 ]

@@ -1,23 +1,23 @@
 +++
-title = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用"
-description = "5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1.0-lite，兼具顶尖性能与极致性价比。 SkyClaw-v1.0 支持百万token上下文，深度适"
-seo_title = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用｜AI资讯解读 - AI热榜"
-seo_description = "5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1.0-lite，兼具顶尖性能与极致性价比。 SkyClaw-v1.0 支持百万token上下文，深度适"
-seo_keywords = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用, 36氪, AI新闻, AI资讯, AI热榜"
+title = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用，这一消息引发行业关注"
+description = "消息称，5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1."
+seo_title = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用，这一消息引发行业关注｜AI资讯解读 - AI热榜"
+seo_description = "消息称，5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1."
+seo_keywords = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用，这一消息引发行业关注, 36氪, AI新闻, AI资讯, AI热榜"
 slug = "863ff91ecdef"
 type = "news"
 
 [params]
 id = "863ff91ecdef"
-name = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用"
-title_en = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用"
+name = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用，这一消息引发行业关注"
+title_en = "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用，这一消息引发行业关注"
 original_url = "https://36kr.com/p/3825882266407815?f=rss"
 source = "36氪"
 published = "2026-05-26T09:48:33"
 lang = "zh"
-intro = "5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1.0-lite，兼具顶尖性能与极致性价比。 SkyClaw-v1.0 支持百万token上下文，深度适配各类真实智能体工作场景，重点优化复杂工具调用、多轮任务执行、代码生成、文件编辑、交互式应用构建与研究型数据分析。模型经过大规模 mid-train、高质量合成任务 SFT 与端到端强化学习优化，可在 OpenClaw、Hermes、Nanobot 等主流 Agent 环境中运行，同时适配Claude Code、Codex 等代码 Agent 框架，通用性与"
+intro = "消息称，5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1."
 ai_summary = ""
-summary = "5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1.0-lite，兼具顶尖性能与极致性价比。 SkyClaw-v1.0 支持百万token上下文，深度适配各类真实智能体工作场景，重点优化复杂工具调用、多轮任务执行、代码生成、文件编辑、交互式应用构建与研究型数据分析。模型经过大规模 mid-train、高质量合成任务 SFT 与端到端强化学习优化，可在 OpenClaw、Hermes、Nanobot 等主流 Agent 环境中运行，同时适配Claude Code、Codex 等代码 Agent 框架，通用性与"
+summary = "消息称，5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1."
 summary_zh = ""
 tags = []
 list_page = 21

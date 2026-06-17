@@ -10,7 +10,7 @@ type = "news"
 [params]
 id = "efa51fc32d2a"
 name = "为什么谷歌的人工智能无法拼写Google（或其他任何东西）"
-title_en = "Why Google’s AI can’t spell Google (or anything else)"
+title_en = "Latest: Why Google’s AI can’t spell Google (or anything else)"
 original_url = "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
 source = "TechCrunch AI"
 published = "2026-05-28T00:17:41"

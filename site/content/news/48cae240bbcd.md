@@ -10,14 +10,14 @@ type = "news"
 [params]
 id = "48cae240bbcd"
 name = "YouTube 将人工智能标签放在您实际看到的地方"
-title_en = "YouTube is putting AI labels where you’ll actually see them"
+title_en = "Report: YouTube is putting AI labels where you’ll actually see them"
 original_url = "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates"
 source = "The Verge AI"
 published = "2026-05-27T13:00:00"
 lang = "en"
 intro = "随着谷歌在 I/O 大会上扩大人工智能验证工作，YouTube 现在终于开始认真对待人工智能标签了。 YouTube 宣…"
 ai_summary = "随着谷歌在 I/O 大会上扩大人工智能验证工作，YouTube 现在终于开始认真对待人工智能标签了。 YouTube 宣…"
-summary = "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and la"
+summary = "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously."
 summary_zh = "随着谷歌在 I/O 大会上扩大人工智能验证工作，YouTube 现在终于开始认真对待人工智能标签了。 YouTube 宣布将重新定位 Shorts 和长视频上的 AI 披露内容，以便更容易发现它们，并将开始自动识别和分类"
 tags = []
 list_page = 16

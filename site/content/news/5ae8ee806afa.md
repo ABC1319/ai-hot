@@ -10,7 +10,7 @@ type = "news"
 [params]
 id = "5ae8ee806afa"
 name = "新 Siri 应用先睹为快，揭示苹果计划挑战 ChatGPT 等"
-title_en = "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more"
+title_en = "In depth: Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more"
 original_url = "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/"
 source = "TechCrunch AI"
 published = "2026-05-28T14:45:13"
