@@ -42,12 +42,13 @@ class IconAndQualityGuardTests(unittest.TestCase):
                 {'id': 'openai/gpt-image-2', 'name': 'OpenAI: GPT Image 2', 'created': 220, 'context_length': 64000, 'architecture': {'input_modalities': ['text', 'image'], 'output_modalities': ['image']}},
                 {'id': 'deepseek/deepseek-v3.2', 'name': 'DeepSeek: DeepSeek V3.2', 'created': 300, 'context_length': 128000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
                 {'id': 'deepseek/deepseek-v4-pro', 'name': 'DeepSeek: DeepSeek V4 Pro', 'created': 400, 'context_length': 128000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
-                {'id': 'qwen/qwen3.6-plus', 'name': 'Qwen: Qwen3.6 Plus', 'created': 300, 'context_length': 262144, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
+                {'id': 'qwen/qwen3.7-plus', 'name': 'Qwen: Qwen3.7 Plus', 'created': 500, 'context_length': 262144, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
                 {'id': 'xiaomi/mimo-32b', 'name': 'Xiaomi: MiMo 32B', 'created': 300, 'context_length': 128000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
                 {'id': 'xiaomi/mimo-v2-pro', 'name': 'Xiaomi: MiMo V2 Pro', 'created': 500, 'context_length': 128000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
-                {'id': 'minimax/minimax-m2.7', 'name': 'MiniMax: MiniMax M2.7', 'created': 300, 'context_length': 1000000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
-                {'id': 'inclusionai/ling-2.6-1t:free', 'name': 'InclusionAI: Ling-2.6 1T (free)', 'created': 300, 'context_length': 1000000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
-                {'id': 'inclusionai/ling-2.6-flash', 'name': 'InclusionAI: Ling-2.6 Flash', 'created': 310, 'context_length': 1000000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
+                {'id': 'minimax/minimax-m3', 'name': 'MiniMax: MiniMax M3', 'created': 400, 'context_length': 1000000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
+                {'id': 'z-ai/glm-5.2', 'name': 'Z.ai: GLM 5.2', 'created': 600, 'context_length': 1000000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
+                {'id': 'google/gemini-3.5-flash', 'name': 'Google: Gemini 3.5 Flash', 'created': 450, 'context_length': 1000000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
+                {'id': 'anthropic/claude-opus-4.8', 'name': 'Anthropic: Claude Opus 4.8', 'created': 550, 'context_length': 1000000, 'architecture': {'input_modalities': ['text'], 'output_modalities': ['text']}},
             ]
         }
         with tempfile.TemporaryDirectory() as td:
@@ -78,7 +79,7 @@ class IconAndQualityGuardTests(unittest.TestCase):
             data = json.loads(output_path.read_text(encoding='utf-8'))
 
         names = [x['name'] for x in data['items']]
-        self.assertTrue(any('Ling-2.6' in name for name in names))
+        self.assertTrue(any('GLM 5.2' in name for name in names))
         self.assertIn('DeepSeek V4 Pro', names)
         self.assertNotIn('DeepSeek V3.2', names)
         self.assertNotIn('MiMo 32B', names)
