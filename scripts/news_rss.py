@@ -35,6 +35,9 @@ RSS_SOURCES = [
     # 中文综合源 (Priority 3, 需 AI 关键词过滤)
     {"name": "36氪", "url": "https://36kr.com/feed", "lang": "zh", "priority": 4, "ai_only": False},
     {"name": "InfoQ AI", "url": "https://www.infoq.cn/feed", "lang": "zh", "priority": 3, "ai_only": True},
+    
+    # LINUX DO 前沿快讯 (Priority 2, AI 相关)
+    {"name": "LINUX DO", "url": "https://linux.do/c/news/34.rss", "lang": "zh", "priority": 2, "ai_only": False},
 ]
 
 # AI 关键词白名单（用于过滤非 AI 专用源）

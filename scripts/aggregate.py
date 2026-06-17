@@ -33,6 +33,7 @@ from generate_tool_pages import generate_tool_pages
 from generate_news_pages import generate_news_pages
 from news_content_extract import extract_news_content
 from news_article_enhance import enhance_news
+from news_rewrite import process_news
 from openrouter_providers import update_providers
 from enrich_hot_data import enrich_hot_data
 from update_readme_links import update_readme_links
@@ -112,6 +113,7 @@ def main():
         ("📝 新闻摘要", summarize_news),
         ("📄 正文抽取", extract_news_content),
         ("✍️ 新闻文章增强", enhance_news),
+        ("🔄 新闻洗稿", process_news),
         ("📰 每日快报", generate_daily_briefing),
         ("⭐ 工具评分", score_tools),
     ]
