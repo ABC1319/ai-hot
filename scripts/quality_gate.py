@@ -72,7 +72,7 @@ def check_models_curated(errors):
     names = [str(x.get('name') or '') for x in items]
     urls = [str(x.get('url') or '') for x in items]
     blobs = [f"{n} {u}".lower() for n, u in zip(names, urls)]
-    required = ['gpt-5.5', 'ling-2.6', 'minimax-m2.7', 'deepseek-v4']
+    required = ['gpt-5', 'glm-5.2', 'minimax-m3', 'qwen3.7']
     for key in required:
         if not any(key in b for b in blobs):
             errors.append(f'models missing required hot model: {key}')

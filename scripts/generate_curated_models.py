@@ -29,17 +29,17 @@ CATEGORY_ORDER = [
 CURATED_ITEMS = [
     # 顶级通用
     {'category': 'top', 'source': 'openrouter-latest', 'provider_prefix': 'openai', 'family': 'gpt', 'variant': 'base', 'label': '综合王者', 'why': 'OpenAI 最新一线通用主力，推理、写作、执行力都很强'},
-    {'category': 'top', 'source': 'openrouter', 'id': 'anthropic/claude-opus-4.7', 'label': '长文与复杂任务', 'why': '复杂任务稳定性强，长上下文和专业写作很能打'},
-    {'category': 'top', 'source': 'openrouter', 'id': 'x-ai/grok-4.20', 'label': '热点与推理', 'why': '新一代旗舰之一，热度高、讨论度强'},
-    {'category': 'top', 'source': 'openrouter', 'id': 'z-ai/glm-5.1', 'label': '国产主力', 'why': '国产新一代通用模型代表，更新积极'},
+    {'category': 'top', 'source': 'openrouter', 'id': 'anthropic/claude-opus-4.8', 'label': '长文与复杂任务', 'why': 'Anthropic 最新旗舰，复杂任务稳定性强，长上下文和专业写作很能打'},
+    {'category': 'top', 'source': 'openrouter', 'id': 'z-ai/glm-5.2', 'label': '国产主力', 'why': '智谱最新一代通用模型，2026-06-16 发布，更新积极'},
     {'category': 'top', 'source': 'openrouter-latest', 'provider_prefix': 'deepseek', 'family': 'deepseek-v', 'variant': 'pro', 'label': '国产旗舰', 'why': 'DeepSeek 最新 V 系列主力，热度、上下文和性价比都应放主榜'},
-    {'category': 'top', 'source': 'openrouter', 'id': 'minimax/minimax-m2.7', 'label': '国产长上下文主力', 'why': 'MiniMax 最新 M2.7，不是观察项，应该作为国产一线主力展示'},
-    {'category': 'top', 'source': 'openrouter', 'id': 'inclusionai/ling-2.6-1t:free', 'label': '国产新热门', 'why': 'Ling-2.6 在 OpenRouter 热度高且有免费 1T 版本，模型页必须收录'},
+    {'category': 'top', 'source': 'openrouter', 'id': 'minimax/minimax-m3', 'label': '国产长上下文主力', 'why': 'MiniMax 最新 M3，2026-05-31 发布，国产一线主力'},
+    {'category': 'top', 'source': 'openrouter', 'id': 'qwen/qwen3.7-plus', 'label': '国产编码主力', 'why': '通义千问最新 3.7 Plus，2026-06-03 发布，代码与通用兼顾'},
+    {'category': 'top', 'source': 'openrouter', 'id': 'google/gemini-3.5-flash', 'label': '谷歌新锐', 'why': 'Google 最新 Gemini 3.5 Flash，2026-05-19 发布，速度快能力强'},
 
     # 编程
     {'category': 'coding', 'source': 'openrouter-latest', 'provider_prefix': 'openai', 'family': 'gpt', 'variant': 'pro', 'label': '重度编码', 'why': 'OpenAI 最新 Pro 线，适合复杂工程任务和严肃编程场景'},
     {'category': 'coding', 'source': 'openrouter', 'id': 'anthropic/claude-sonnet-4.6', 'label': '开发者高频', 'why': 'Claude Code 生态热门底座，真实开发采用广'},
-    {'category': 'coding', 'source': 'openrouter-latest', 'provider_prefix': 'qwen', 'family': 'qwen3.6', 'variant': 'plus', 'label': '国产编码主力', 'why': 'Qwen 新代际主力，代码与通用兼顾，更新快'},
+    {'category': 'coding', 'source': 'openrouter', 'id': 'moonshotai/kimi-k2.7-code', 'label': 'Kimi 编程新锐', 'why': '月之暗面最新 K2.7 Code，2026-06-12 发布，专注编程场景'},
     {'category': 'coding', 'source': 'huggingface', 'url': 'https://huggingface.co/Qwen/Qwen3-Coder-Next', 'label': '开源代码旗舰', 'why': '开源阵营里实用度高，开发者关注度高'},
     {'category': 'coding', 'source': 'huggingface', 'url': 'https://huggingface.co/moonshotai/Kimi-K2.6', 'label': '中文代码协作', 'why': '中文理解、长上下文协作和最近热度都很强'},
 
@@ -63,8 +63,6 @@ CURATED_ITEMS = [
     {'category': 'video', 'source': 'huggingface', 'url': 'https://huggingface.co/Lightricks/LTX-2.3', 'label': '视频生成新锐', 'why': '视频方向里热度较高，值得盯着看'},
 
     # 开源旗舰
-
-    # 开源旗舰
     {'category': 'open', 'source': 'huggingface', 'url': 'https://huggingface.co/Qwen/Qwen2.5-72B-Instruct', 'label': '开源通用王者', 'why': '采用广、能力稳、社区影响力大'},
     {'category': 'open', 'source': 'huggingface', 'url': 'https://huggingface.co/deepseek-ai/DeepSeek-V3', 'label': '开源推理主力', 'why': '开源通用模型里非常有代表性'},
     {'category': 'open', 'source': 'huggingface', 'url': 'https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct', 'label': '生态基座', 'why': 'Llama 生态广，真实使用面极大'},
@@ -72,10 +70,10 @@ CURATED_ITEMS = [
     {'category': 'open', 'source': 'huggingface', 'url': 'https://huggingface.co/moonshotai/Kimi-K2.6', 'label': '开源新热门', 'why': '近期讨论度与关注度都很高'},
 
     # 新锐关注
-    {'category': 'watch', 'source': 'openrouter-latest', 'provider_prefix': 'xiaomi', 'family': 'mimo', 'variant': 'pro', 'label': '小米 MiMo', 'why': '小米 MiMo 最新 Pro 线，国产新厂商里值得持续观察'},
-    {'category': 'watch', 'source': 'openrouter', 'id': 'inclusionai/ling-2.6-flash', 'label': 'Ling 快模', 'why': 'Ling-2.6 Flash 速度和免费生态值得盯，但主推版本已放主榜'},
-    {'category': 'watch', 'source': 'openrouter', 'id': 'mistralai/mistral-small-2603', 'label': '轻量强者', 'why': '轻量级模型里很能打'},
-    {'category': 'watch', 'source': 'openrouter', 'id': 'nvidia/nemotron-3-super-120b-a12b', 'label': 'NVIDIA 新动向', 'why': '大厂新模型线，值得长期观察'},
+    {'category': 'watch', 'source': 'openrouter', 'id': 'openrouter/fusion', 'label': 'OpenRouter 新线', 'why': 'OpenRouter 自研 Fusion 模型，2026-06-13 发布，值得关注'},
+    {'category': 'watch', 'source': 'openrouter', 'id': 'stepfun/step-3.7-flash', 'label': '阶跃星辰新锐', 'why': '阶跃星辰最新 Step 3.7 Flash，2026-05-28 发布'},
+    {'category': 'watch', 'source': 'openrouter', 'id': 'nvidia/nemotron-3-ultra-550b-a55b', 'label': 'NVIDIA 新动向', 'why': 'NVIDIA 最新 Nemotron 3 Ultra，2026-06-04 发布'},
+    {'category': 'watch', 'source': 'openrouter', 'id': 'qwen/qwen3.7-max', 'label': 'Qwen 新旗舰', 'why': '通义千问最新 3.7 Max，2026-05-21 发布'},
     {'category': 'watch', 'source': 'huggingface', 'url': 'https://huggingface.co/Qwen/Qwen3.6-35B-A3B', 'label': 'Qwen 新代际', 'why': 'Qwen 新代际开源模型，热度上升中'},
     {'category': 'watch', 'source': 'huggingface', 'url': 'https://huggingface.co/Lightricks/LTX-2.3', 'label': '视频生成新锐', 'why': '视频方向里热度较高，值得盯着看'},
 ]
