@@ -153,11 +153,14 @@ def infer_provider_candidates(models):
             continue
         latest = sorted(matched, key=lambda x: x.get('created', 0), reverse=True)
         name = (latest[0].get('name') or prefix).split(':')[0].strip() or prefix.title()
+        # Derive icon_url from OpenRouter page
+        icon_domain = f'{prefix}.com'
         provider = {
             'id': prefix,
             'name': name,
             'url': f'https://openrouter.ai/{prefix}',
             'logo': '🆕',
+            'icon_url': f'https://www.google.com/s2/favicons?domain={icon_domain}&sz=64',
             'models': [clean_model_name(m.get('name') or m.get('id')) for m in latest[:3]],
             'type': '国产' if prefix in {'xiaomi', 'qwen', 'minimax', 'z-ai', 'moonshotai', 'deepseek', 'baidu', 'bytedance-seed', 'tencent'} else '国际',
             'pricing': '按量计费',
