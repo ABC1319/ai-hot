@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-05-29 04:12:18
+🕐 **最近更新**：2026-06-17 19:25:24
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,37 @@
 
 ## 🔥 今日热点
 
-1. [Asana 收购无代码代理构建器 Stack AI](https://aihot.bt199.com/news/0d22b3289c3b/)
-   - Asana 将把 Stack AI 纳入其不断增长的 AI 工作流程工具套件中
-   - `TechCrunch AI · 2026-05-28`
+1. [销售数据显示，Anthropic 与特朗普政府的最新不和实际上可能会有所帮助](https://aihot.bt199.com/news/e9ed648d3b34/)
+   - Ramp 的数据显示，Anthropic 在商业用户中的受欢迎程度越来越高，最近与政府的争吵实际上可能会提高它的受欢迎程…
+   - `TechCrunch AI · 2026-06-16`
 
-2. [Anthropic 融资 650 亿美元，IPO 前估值接近 1T 美元](https://aihot.bt199.com/news/fa304b3484d5/)
-   - Anthropic 已完成 650 亿美元的 H 轮融资，投后估值为 9650 亿美元，这可能是这家人工智能初创公司在备…
-   - `TechCrunch AI · 2026-05-28`
+2. [随着谷歌扩展 Gemini 功能，Android 17 推出新的多任务工具](https://aihot.bt199.com/news/4a500f4a83d6/)
+   - 谷歌发布了 Android 17 和 Wear OS 7，引入了新的多任务功能、家长控制、安全工具和智能手表升级。此次发…
+   - `TechCrunch AI · 2026-06-16`
 
-3. [一部耗资 2,000 美元的人工智能生成电影将在翠贝卡 (Tribeca) 首映](https://aihot.bt199.com/news/3bce87a3c6c3/)
-   - 下个月的翠贝卡节将首映一部人工智能生成的电影：《紫罗兰之梦》。据好莱坞早先报道，这部时长 75 分钟的电影虚构了伊朗政府…
-   - `The Verge AI · 2026-05-28`
+3. [下一个人形机器人可能看起来根本不像人类](https://aihot.bt199.com/news/d21388d9de6e/)
+   - 下一个人形机器人可能没有头。它可能没有腿。它甚至可以放在轮子底座上并像躺椅一样折叠起来。但是，正如 Genesis AI…
+   - `The Verge AI · 2026-06-17`
 
-4. [人工智能炒作指数：人工智能在毕业季遭到嘘声](https://aihot.bt199.com/news/2c6e5bbca2bc/)
-   - 说人工智能将改变世界是一回事。期望 2026 届毕业生为它鼓掌则是另一回事。事实上，当谷歌前首席执行官埃里克·施密特 (…
-   - `MIT Tech Review · 2026-05-28`
+4. [内罗毕的企业家阐述了使用太阳能的理由](https://aihot.bt199.com/news/db9922117603/)
+   - 肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年…
+   - `MIT Tech Review · 2026-06-17`
 
-5. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
+5. [侵入大气层：地球工程得到现实检验](https://aihot.bt199.com/news/8ee7ec35dcf5/)
+   - 吉姆·弗兰克（Jim Franke）拉开他办公室环绕式办公桌上的演示文稿封面，展示了一架外观奇怪的飞机的插图，其巨大的机…
+   - `MIT Tech Review · 2026-06-17`
+
+6. [苹果 2027 年传闻：带有 AI 摄像头的 AirPods 和第二款折叠 iPhone](https://aihot.bt199.com/news/523864fa9812/)
+   - 现在我们已经了解了 WWDC 以及苹果平台即将推出的所有新的人工智能功能，彭博社记者马克·古尔曼 (Mark Gurma…
+   - `The Verge AI · 2026-06-16`
+
+7. [严重的 Copilot 漏洞允许黑客窃取用户的 2FA 代码](https://aihot.bt199.com/news/98586e1b1098/)
+   - SearchLeak 漏洞说明了为什么业界的 LLM 安全方法一次又一次失败
+   - `Ars Technica AI · 2026-06-16`
+
+8. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
    - “BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次
    - `Ars Technica AI · 2026-05-26`
-
-6. [德克萨斯州 AG 起诉 Meta，指控 WhatsApp 不提供端到端加密](https://aihot.bt199.com/news/e24de95badde/)
-   - 批评人士指出，美国参议院候选人提起的诉讼缺乏事实支持
-   - `Ars Technica AI · 2026-05-22`
 
 
 ## 🤖 AI 简报
@@ -123,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

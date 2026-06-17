@@ -17,15 +17,15 @@
     "latest_models": [
       "MiMo-V2.5-Pro",
       "MiMo-V2.5",
-      "MiMo-V2-Omni"
+      "MiMo-V2-Flash"
     ],
-    "model_count": 5,
+    "model_count": 3,
     "last_updated": "2026-04-22",
     "modalities": [
       "文本",
       "视频"
     ],
-    "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 MiMo-V2.5-Pro",
+    "live_summary": "OpenRouter 已收录 3 个该作者/厂商相关模型，最近更新为 MiMo-V2.5-Pro",
     "icon_url": "https://www.google.com/s2/favicons?domain=xiaomimimo.com&sz=64"
   },
   {
@@ -48,12 +48,12 @@
       "GPT-5.5 Pro",
       "GPT-5.5"
     ],
-    "model_count": 65,
+    "model_count": 62,
     "last_updated": "2026-05-05",
     "modalities": [
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 65 个该作者/厂商相关模型，最近更新为 GPT Chat Latest",
+    "live_summary": "OpenRouter 已收录 62 个该作者/厂商相关模型，最近更新为 GPT Chat Latest",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
   },
@@ -72,16 +72,16 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Claude Fable 5",
       "Claude Opus 4.8 (Fast)",
-      "Claude Opus 4.8",
-      "Claude Opus 4.7 (Fast)"
+      "Claude Opus 4.8"
     ],
-    "model_count": 15,
-    "last_updated": "2026-05-27",
+    "model_count": 16,
+    "last_updated": "2026-06-09",
     "modalities": [
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 15 个该作者/厂商相关模型，最近更新为 Claude Opus 4.8 (Fast)",
+    "live_summary": "OpenRouter 已收录 16 个该作者/厂商相关模型，最近更新为 Claude Fable 5",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },
@@ -103,13 +103,13 @@
       "Gemini 3.1 Flash Lite",
       "Gemma 4 26B A4B (free)"
     ],
-    "model_count": 28,
+    "model_count": 26,
     "last_updated": "2026-05-19",
     "modalities": [
       "视频",
       "音频"
     ],
-    "live_summary": "OpenRouter 已收录 28 个该作者/厂商相关模型，最近更新为 Gemini 3.5 Flash",
+    "live_summary": "OpenRouter 已收录 26 个该作者/厂商相关模型，最近更新为 Gemini 3.5 Flash",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=google.com&sz=64"
   },
@@ -128,15 +128,15 @@
     "source": "openrouter",
     "latest_models": [
       "DeepSeek V4 Pro",
-      "DeepSeek V4 Flash (free)",
-      "DeepSeek V4 Flash"
+      "DeepSeek V4 Flash",
+      "DeepSeek V3.2"
     ],
-    "model_count": 14,
+    "model_count": 11,
     "last_updated": "2026-04-24",
     "modalities": [
       "文本"
     ],
-    "live_summary": "OpenRouter 已收录 14 个该作者/厂商相关模型，最近更新为 DeepSeek V4 Pro",
+    "live_summary": "OpenRouter 已收录 11 个该作者/厂商相关模型，最近更新为 DeepSeek V4 Pro",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=64"
   },
@@ -154,17 +154,18 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Qwen3.7 Plus",
       "Qwen3.7 Max",
-      "Qwen3.5 Plus 2026-04-20",
-      "Qwen3.6 Flash"
+      "Qwen3.5 Plus 2026-04-20"
     ],
-    "model_count": 48,
-    "last_updated": "2026-05-21",
+    "model_count": 49,
+    "last_updated": "2026-06-03",
     "modalities": [
+      "多模态",
       "文本",
       "视频"
     ],
-    "live_summary": "OpenRouter 已收录 48 个该作者/厂商相关模型，最近更新为 Qwen3.7 Max",
+    "live_summary": "OpenRouter 已收录 49 个该作者/厂商相关模型，最近更新为 Qwen3.7 Plus",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=alibabacloud.com&sz=64"
   },
@@ -181,17 +182,14 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
-      "ERNIE 4.5 21B A3B Thinking",
-      "ERNIE 4.5 21B A3B",
-      "ERNIE 4.5 VL 28B A3B"
+      "ERNIE 4.5 VL 424B A47B"
     ],
-    "model_count": 5,
-    "last_updated": "2025-10-09",
+    "model_count": 1,
+    "last_updated": "2025-06-30",
     "modalities": [
-      "文本",
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 ERNIE 4.5 21B A3B Thinking",
+    "live_summary": "OpenRouter 已收录 1 个该作者/厂商相关模型，最近更新为 ERNIE 4.5 VL 424B A47B",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=yiyan.baidu.com&sz=64"
   },
@@ -260,17 +258,17 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
-      "Kimi K2.6 (free)",
+      "Kimi K2.7 Code",
       "Kimi K2.6",
       "Kimi K2.5"
     ],
     "model_count": 6,
-    "last_updated": "2026-04-20",
+    "last_updated": "2026-06-12",
     "modalities": [
       "多模态",
       "文本"
     ],
-    "live_summary": "OpenRouter 已收录 6 个该作者/厂商相关模型，最近更新为 Kimi K2.6 (free)",
+    "live_summary": "OpenRouter 已收录 6 个该作者/厂商相关模型，最近更新为 Kimi K2.7 Code",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=moonshot.cn&sz=64"
   },
@@ -288,17 +286,17 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "GLM 5.2",
       "GLM 5.1",
-      "GLM 5V Turbo",
       "GLM 5 Turbo"
     ],
-    "model_count": 13,
-    "last_updated": "2026-04-07",
+    "model_count": 11,
+    "last_updated": "2026-06-16",
     "modalities": [
       "文本",
       "视频"
     ],
-    "live_summary": "OpenRouter 已收录 13 个该作者/厂商相关模型，最近更新为 GLM 5.1",
+    "live_summary": "OpenRouter 已收录 11 个该作者/厂商相关模型，最近更新为 GLM 5.2",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=z.ai&sz=64"
   },
@@ -315,17 +313,18 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "MiniMax M3",
       "MiniMax M2.7",
-      "MiniMax M2.5 (free)",
       "MiniMax M2.5"
     ],
     "model_count": 8,
-    "last_updated": "2026-03-18",
+    "last_updated": "2026-05-31",
     "modalities": [
+      "视频",
       "文本",
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 8 个该作者/厂商相关模型，最近更新为 MiniMax M2.7",
+    "live_summary": "OpenRouter 已收录 8 个该作者/厂商相关模型，最近更新为 MiniMax M3",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=minimax.io&sz=64"
   },
@@ -347,14 +346,14 @@
       "Mistral Small 4",
       "Devstral 2 2512"
     ],
-    "model_count": 24,
+    "model_count": 19,
     "last_updated": "2026-04-30",
     "modalities": [
       "多模态",
       "文本",
       "音频"
     ],
-    "live_summary": "OpenRouter 已收录 24 个该作者/厂商相关模型，最近更新为 Mistral Medium 3.5",
+    "live_summary": "OpenRouter 已收录 19 个该作者/厂商相关模型，最近更新为 Mistral Medium 3.5",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=64"
   },
@@ -376,13 +375,13 @@
       "Llama 4 Maverick",
       "Llama 4 Scout"
     ],
-    "model_count": 14,
+    "model_count": 13,
     "last_updated": "2025-04-30",
     "modalities": [
       "多模态",
       "文本"
     ],
-    "live_summary": "OpenRouter 已收录 14 个该作者/厂商相关模型，最近更新为 Llama Guard 4 12B",
+    "live_summary": "OpenRouter 已收录 13 个该作者/厂商相关模型，最近更新为 Llama Guard 4 12B",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=ai.meta.com&sz=64"
   },
@@ -426,17 +425,18 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
-      "Nemotron 3 Nano Omni (free)",
-      "Nemotron 3 Super (free)",
-      "Nemotron 3 Super"
+      "Nemotron 3.5 Content Safety (free)",
+      "Nemotron 3 Ultra (free)",
+      "Nemotron 3 Ultra"
     ],
-    "model_count": 9,
-    "last_updated": "2026-04-28",
+    "model_count": 11,
+    "last_updated": "2026-06-04",
     "modalities": [
-      "视频",
-      "文本"
+      "多模态",
+      "文本",
+      "视频"
     ],
-    "live_summary": "OpenRouter 已收录 9 个该作者/厂商相关模型，最近更新为 Nemotron 3 Nano Omni (free)",
+    "live_summary": "OpenRouter 已收录 11 个该作者/厂商相关模型，最近更新为 Nemotron 3.5 Content Safety (free)",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=64"
   },
@@ -1151,5 +1151,32 @@
     "modalities": [],
     "live_summary": "站内手工维护，待补充实时模型索引",
     "icon_url": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64"
+  },
+  {
+    "id": "stepfun",
+    "name": "StepFun",
+    "url": "https://openrouter.ai/stepfun",
+    "logo": "🆕",
+    "icon_url": "https://www.google.com/s2/favicons?domain=stepfun.com&sz=64",
+    "models": [
+      "StepFun: Step 3.7 Flash",
+      "StepFun: Step 3.5 Flash"
+    ],
+    "type": "国际",
+    "pricing": "按量计费",
+    "api": true,
+    "provider_kind": "manual",
+    "source": "openrouter",
+    "latest_models": [
+      "StepFun: Step 3.7 Flash",
+      "StepFun: Step 3.5 Flash"
+    ],
+    "model_count": 2,
+    "last_updated": "2026-05-28",
+    "modalities": [
+      "视频",
+      "文本"
+    ],
+    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 StepFun: Step 3.7 Flash"
   }
 ]

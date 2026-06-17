@@ -1,40 +1,39 @@
 {
-  "updated_at": "2026-05-28T20:11:24.189230",
-  "date": "2026-05-28",
+  "updated_at": "2026-06-17T11:24:07.113284",
+  "date": "2026-06-17",
   "spotlight": {
-    "id": "autogen",
-    "name": "AutoGen",
-    "url": "https://github.com/microsoft/autogen",
-    "type": "tool",
-    "description": "微软出品的多 Agent 协作框架",
+    "name": "BabyAGI",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "type": "agent",
+    "description": "轻量级自主AI Agent框架",
     "pricing": "开源免费",
-    "category": "Agent"
+    "category": "自动化 Agent"
   },
   "alternates": [
     {
-      "name": "Genspark",
-      "url": "https://www.genspark.ai",
+      "name": "Hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
       "type": "agent",
-      "description": "AI搜索引擎+Agent，自动搜索分析执行任务",
-      "pricing": "免费",
-      "category": "研究 Agent"
+      "description": "HeyGen 开源的 HTML 渲染视频框架，专为 AI Agent 设计，用 HTML 写代码直接生成视频内容",
+      "pricing": "免费开源",
+      "category": "自动化 Agent"
     },
     {
-      "name": "Ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "type": "agent",
-      "description": "开源 RAG 引擎，支持知识库检索增强生成，适合构建企业问答和文档型 AI Agent。",
-      "pricing": "开源免费",
-      "category": "AI Agent"
-    },
-    {
-      "id": "秘塔搜索",
-      "name": "秘塔 AI 搜索",
-      "url": "https://metaso.cn",
+      "id": "midjourney",
+      "name": "Midjourney",
+      "url": "https://midjourney.com",
       "type": "tool",
-      "description": "国产 AI 搜索引擎，中文体验优秀",
-      "pricing": "免费",
-      "category": "搜索"
+      "description": "最强 AI 绘画工具，生成质量极高",
+      "pricing": "$10/月 起",
+      "category": "绘画"
+    },
+    {
+      "name": "Devin",
+      "url": "https://devin.ai",
+      "type": "agent",
+      "description": "全球首个AI软件工程师，能独立完成编程任务",
+      "pricing": "$500/月",
+      "category": "编程 Agent"
     }
   ]
 }
