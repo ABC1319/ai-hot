@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-17 22:58:25
+🕐 **最近更新**：2026-06-18 04:06:20
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,37 +16,37 @@
 
 ## 🔥 今日热点
 
-1. [Pramaana Labs 从 Khosla Ventures 筹集了 2700 万美元种子轮资金，为人工智能带来正式验证](https://aihot.bt199.com/news/eb0664d82863/)
-   - Pramaana 将专注于高度敏感的垂直领域，如法律、药物发现和税务准备——这些领域的错误可能代价高昂，而可靠性也至关重…
+1. [世界领导人想要美国的人工智能。他们只是不希望美国能够将其关闭。](https://aihot.bt199.com/news/9ef08ab1d787/)
+   - 法国总统马克龙和印度总理莫迪在七国集团峰会上发出警告，称美国可能会在一夜之间切断对美国人工智能的访问——人为停电的担忧刚…
    - `TechCrunch AI · 2026-06-17`
 
-2. [加拿大养老金巨头加入竞赛，为印度人工智能推动的数据中心繁荣提供资金](https://aihot.bt199.com/news/23dab7c5dbcf/)
-   - 这家加拿大养老金巨头将收购 CtrlS 8.2% 的股份，CtrlS 是一家科技巨头，在印度各地运营着超过 15 个数据…
+2. [Anthropic 成为第一家加入 Frontier 碳清除联盟的人工智能初创公司](https://aihot.bt199.com/news/1d907aaa2f0e/)
+   - Anthropic 已加入 Frontier 联盟，该联盟又收到了 9.15 亿美元的承诺，用于资助碳清除项目
    - `TechCrunch AI · 2026-06-17`
 
-3. [基于 Facebook 帖子的人工智能搜索？可能会出什么问题？](https://aihot.bt199.com/news/23fda529d131/)
-   - 如今，人工智能在将事情放在你的日历上相当可靠，但它还没有完全解决“这个周末我应该做什么？”这一相关且最重要的问题。 Me…
+3. [Anthropic 受到没人理解的出口规则的打击](https://aihot.bt199.com/news/df07fe6f5184/)
+   - 在特朗普政府突然命令该公司切断所有外国人（包括美国境内用户及其员工）的访问权限后，Anthropic 本周大部分时间都在…
    - `The Verge AI · 2026-06-17`
 
-4. [下载：地球工程和内感受科学的现实检验](https://aihot.bt199.com/news/049cb7f55b5d/)
+4. [三分之二的美国人认为人工智能发展得太快](https://aihot.bt199.com/news/d57f9d01d74a/)
+   - 根据皮尤研究中心的最新民意调查，49% 的美国人表示至少偶尔使用聊天机器人，但 63% 的人认为该技术发展得太快。总体而…
+   - `The Verge AI · 2026-06-17`
+
+5. [下载：地球工程和内感受科学的现实检验](https://aihot.bt199.com/news/049cb7f55b5d/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。侵入大气层：地球工程得到现实检验太阳…
    - `MIT Tech Review · 2026-06-17`
 
-5. [内罗毕的企业家阐述了使用太阳能的理由](https://aihot.bt199.com/news/db9922117603/)
+6. [内罗毕的企业家阐述了使用太阳能的理由](https://aihot.bt199.com/news/db9922117603/)
    - 肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年…
    - `MIT Tech Review · 2026-06-17`
-
-6. [苹果 2027 年传闻：带有 AI 摄像头的 AirPods 和第二款折叠 iPhone](https://aihot.bt199.com/news/523864fa9812/)
-   - 现在我们已经了解了 WWDC 以及苹果平台即将推出的所有新的人工智能功能，彭博社记者马克·古尔曼 (Mark Gurma…
-   - `The Verge AI · 2026-06-16`
 
 7. [严重的 Copilot 漏洞允许黑客窃取用户的 2FA 代码](https://aihot.bt199.com/news/98586e1b1098/)
    - SearchLeak 漏洞说明了为什么业界的 LLM 安全方法一次又一次失败
    - `Ars Technica AI · 2026-06-16`
 
-8. [数以百万计的人工智能代理受到开源包中严重漏洞的威胁](https://aihot.bt199.com/news/336256f5c435/)
-   - “BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次
-   - `Ars Technica AI · 2026-05-26`
+8. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
+   - 具有先进黑客能力的人工智能模型很快将成为常态
+   - `Ars Technica AI · 2026-06-17`
 
 
 ## 🤖 AI 简报
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

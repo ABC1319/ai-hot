@@ -7500,6 +7500,36 @@
     "is_core": true
   },
   {
+    "id": "hf-see-k--unsloth_finetune",
+    "name": "see-k/unsloth_finetune",
+    "display_name": "unsloth_finetune",
+    "url": "https://huggingface.co/see-k/unsloth_finetune",
+    "author": "see-k",
+    "pipeline_tag": "image-feature-extraction",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "DeepseekOCR",
+      "image-feature-extraction",
+      "text-generation-inference",
+      "unsloth",
+      "deepseek_vl_v2",
+      "custom_code",
+      "en",
+      "base_model:deepseek-ai/DeepSeek-OCR",
+      "base_model:finetune:deepseek-ai/DeepSeek-OCR",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-06-17T19:43:46.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-06-17T20:05:03.964152",
+    "display_priority": 227,
+    "is_core": true
+  },
+  {
     "id": "hf-RobertHan--speaker_models",
     "name": "RobertHan/speaker_models",
     "display_name": "speaker_models",
@@ -7523,7 +7553,7 @@
     "created_at": "2026-05-07T02:00:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-07T02:08:16.316954",
-    "display_priority": 227,
+    "display_priority": 228,
     "is_core": true
   },
   {
@@ -7554,7 +7584,7 @@
     "created_at": "2026-05-18T19:19:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-18T19:29:42.689189",
-    "display_priority": 228,
+    "display_priority": 229,
     "is_core": true
   },
   {
@@ -7582,7 +7612,7 @@
     "created_at": "2026-05-19T02:27:20.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-19T02:35:51.440651",
-    "display_priority": 229,
+    "display_priority": 230,
     "is_core": true
   },
   {
@@ -7612,7 +7642,7 @@
     "created_at": "2026-05-24T19:00:56.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-24T19:07:32.087608",
-    "display_priority": 230,
+    "display_priority": 231,
     "is_core": true
   },
   {
@@ -7644,7 +7674,7 @@
     "created_at": "2026-05-12T02:01:31.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T02:14:25.437223",
-    "display_priority": 231,
+    "display_priority": 232,
     "is_core": true
   },
   {
@@ -7670,7 +7700,7 @@
     "created_at": "2026-05-12T08:28:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T08:31:12.408150",
-    "display_priority": 232,
+    "display_priority": 233,
     "is_core": true
   },
   {
@@ -7696,7 +7726,7 @@
     "created_at": "2026-05-12T08:25:26.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T08:31:12.408160",
-    "display_priority": 233,
+    "display_priority": 234,
     "is_core": true
   },
   {
@@ -7722,7 +7752,7 @@
     "created_at": "2026-05-12T08:20:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T08:31:12.408213",
-    "display_priority": 234,
+    "display_priority": 235,
     "is_core": true
   },
   {
@@ -7758,7 +7788,7 @@
     "created_at": "2026-05-16T07:47:31.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-16T07:54:46.633038",
-    "display_priority": 235,
+    "display_priority": 236,
     "is_core": true
   },
   {
@@ -7790,7 +7820,7 @@
     "created_at": "2026-05-18T09:35:29.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-18T09:46:06.128435",
-    "display_priority": 236,
+    "display_priority": 237,
     "is_core": true
   },
   {
@@ -7820,7 +7850,7 @@
     "created_at": "2026-05-22T02:37:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-22T02:38:57.192133",
-    "display_priority": 237,
+    "display_priority": 238,
     "is_core": true
   },
   {
@@ -7845,7 +7875,7 @@
     "created_at": "2026-05-12T13:54:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T14:02:35.800235",
-    "display_priority": 238,
+    "display_priority": 239,
     "is_core": true
   },
   {
@@ -7877,7 +7907,7 @@
     "created_at": "2026-05-19T19:40:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-19T19:47:09.469929",
-    "display_priority": 239,
+    "display_priority": 240,
     "is_core": true
   },
   {
@@ -7902,7 +7932,7 @@
     "created_at": "2026-05-22T19:20:43.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-22T19:31:36.998019",
-    "display_priority": 240,
+    "display_priority": 241,
     "is_core": true
   },
   {
@@ -7927,7 +7957,7 @@
     "created_at": "2026-05-27T09:28:09.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-27T09:34:19.222108",
-    "display_priority": 241,
+    "display_priority": 242,
     "is_core": true
   },
   {
@@ -7955,7 +7985,7 @@
     "created_at": "2026-05-15T08:28:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-15T08:42:52.479853",
-    "display_priority": 242,
+    "display_priority": 243,
     "is_core": true
   },
   {
@@ -7975,7 +8005,7 @@
     "created_at": "2026-05-27T14:44:18.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-27T15:01:21.549237",
-    "display_priority": 243,
+    "display_priority": 244,
     "is_core": true
   },
   {
@@ -7995,7 +8025,7 @@
     "created_at": "2026-05-27T14:37:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-27T15:01:21.549290",
-    "display_priority": 244,
+    "display_priority": 245,
     "is_core": true
   },
   {
@@ -8019,7 +8049,7 @@
     "created_at": "2026-05-19T09:15:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-19T09:31:04.691221",
-    "display_priority": 245,
+    "display_priority": 246,
     "is_core": true
   },
   {
@@ -8043,7 +8073,7 @@
     "created_at": "2026-05-20T02:33:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-20T02:36:23.493951",
-    "display_priority": 246,
+    "display_priority": 247,
     "is_core": true
   },
   {
@@ -8067,7 +8097,7 @@
     "created_at": "2026-05-20T02:25:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-20T02:36:23.494009",
-    "display_priority": 247,
+    "display_priority": 248,
     "is_core": true
   },
   {
@@ -8106,7 +8136,7 @@
     "created_at": "2026-05-24T08:13:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-24T08:22:04.330518",
-    "display_priority": 248,
+    "display_priority": 249,
     "is_core": true
   },
   {
@@ -8130,7 +8160,7 @@
     "created_at": "2026-05-26T02:29:06.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-26T02:32:18.544678",
-    "display_priority": 249,
+    "display_priority": 250,
     "is_core": true
   }
 ]
