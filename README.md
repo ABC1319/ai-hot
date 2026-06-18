@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-18 22:54:31
+🕐 **最近更新**：2026-06-19 04:16:50
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,31 +16,27 @@
 
 ## 🔥 今日热点
 
-1. [Pixi 的新 iOS 应用程序将短信转变为交互式 AR 体验](https://aihot.bt199.com/news/188f938e615d/)
-   - 忘记贴纸、GIF 和表情符号反应吧。 Pixi 认为消息传递的下一个发展方向是交互式增强现实 (AR)
+1. [Match 表示，近一半的美国单身人士对人工智能约会持负面态度](https://aihot.bt199.com/news/0a368702d056/)
+   - 大约 47% 的单身人士对人工智能在约会中的使用持负面态度，但是，许多约会应用程序用户对人工智能在个人资料打孔和对话开始…
    - `TechCrunch AI · 2026-06-18`
 
-2. [如何关闭 Google 文档中的 AI](https://aihot.bt199.com/news/e304a2af2a1b/)
-   - 您需要执行以下操作才能消除那些讨厌的“与 Gemini 一起写作”弹出窗口
-   - `TechCrunch AI · 2026-06-18`
-
-3. [谁来决定人工智能何时太危险？](https://aihot.bt199.com/news/cab0921cfdea/)
+2. [谁来决定人工智能何时太危险？](https://aihot.bt199.com/news/cab0921cfdea/)
    - 在今天的 Decoder 节目中，我的嘉宾是 The Verge 的高级人工智能记者 Hayden Field。海登出现…
    - `The Verge AI · 2026-06-18`
 
-4. [下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例](https://aihot.bt199.com/news/3d684ebde5de/)
+3. [下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例](https://aihot.bt199.com/news/3d684ebde5de/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。几十年来，物理学家一直在寻找弱相互作…
    - `MIT Tech Review · 2026-06-18`
 
-5. [对暗物质的探索已被广泛关注](https://aihot.bt199.com/news/125b40f286ef/)
+4. [对暗物质的探索已被广泛关注](https://aihot.bt199.com/news/125b40f286ef/)
    - 在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州一座矿井的底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这…
    - `MIT Tech Review · 2026-06-18`
 
-6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
+5. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
    - `Ars Technica AI · 2026-06-17`
 
-7. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
+6. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
    - 具有先进黑客能力的人工智能模型很快将成为常态
    - `Ars Technica AI · 2026-06-17`
 
@@ -127,6 +123,8 @@
 ---
 
 MIT License
+
+
 
 
 

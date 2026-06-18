@@ -209,13 +209,13 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.0000014",
-        "completion": "0.0000044",
-        "input_cache_read": "0.00000026"
+        "prompt": "0.0000012",
+        "completion": "0.0000042",
+        "input_cache_read": "0.0000002"
       },
       "top_provider": {
-        "context_length": 262144,
-        "max_completion_tokens": 262144,
+        "context_length": 1048576,
+        "max_completion_tokens": 16384,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -3076,7 +3076,7 @@
     {
       "id": "poolside/laguna-m.1:free",
       "canonical_slug": "poolside/laguna-m.1-20260312",
-      "hugging_face_id": null,
+      "hugging_face_id": "poolside/Laguna-M.1",
       "name": "Poolside: Laguna M.1 (free)",
       "created": 1777388504,
       "description": "Laguna M.1 is the flagship coding agent model from [Poolside](https://poolside.ai/), optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
@@ -3132,7 +3132,7 @@
     {
       "id": "poolside/laguna-m.1",
       "canonical_slug": "poolside/laguna-m.1-20260312",
-      "hugging_face_id": null,
+      "hugging_face_id": "poolside/Laguna-M.1",
       "name": "Poolside: Laguna M.1",
       "created": 1777388504,
       "description": "Laguna M.1 is the flagship coding agent model from [Poolside](https://poolside.ai/), optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
@@ -5115,6 +5115,7 @@
       "per_request_limits": null,
       "supported_parameters": [
         "frequency_penalty",
+        "logprobs",
         "max_tokens",
         "presence_penalty",
         "repetition_penalty",
@@ -5126,6 +5127,7 @@
         "tool_choice",
         "tools",
         "top_k",
+        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {
@@ -6320,6 +6322,7 @@
       "per_request_limits": null,
       "supported_parameters": [
         "include_reasoning",
+        "logprobs",
         "max_tokens",
         "presence_penalty",
         "reasoning",
@@ -6329,6 +6332,7 @@
         "temperature",
         "tool_choice",
         "tools",
+        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {
@@ -8811,9 +8815,12 @@
         "max_tokens",
         "reasoning",
         "response_format",
+        "seed",
         "structured_outputs",
+        "temperature",
         "tool_choice",
-        "tools"
+        "tools",
+        "top_p"
       ],
       "default_parameters": {
         "temperature": null,
@@ -11050,6 +11057,7 @@
         "frequency_penalty",
         "include_reasoning",
         "logit_bias",
+        "logprobs",
         "max_tokens",
         "min_p",
         "presence_penalty",
@@ -11063,6 +11071,7 @@
         "tool_choice",
         "tools",
         "top_k",
+        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {
@@ -15232,6 +15241,7 @@
       "supported_parameters": [
         "frequency_penalty",
         "logit_bias",
+        "logprobs",
         "max_tokens",
         "min_p",
         "presence_penalty",
@@ -15244,6 +15254,7 @@
         "tool_choice",
         "tools",
         "top_k",
+        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {
@@ -17752,6 +17763,7 @@
         "frequency_penalty",
         "include_reasoning",
         "logit_bias",
+        "logprobs",
         "max_tokens",
         "min_p",
         "presence_penalty",
@@ -17765,6 +17777,7 @@
         "tool_choice",
         "tools",
         "top_k",
+        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {},
@@ -18058,8 +18071,11 @@
       "supported_parameters": [
         "max_tokens",
         "response_format",
+        "stop",
+        "temperature",
         "tool_choice",
-        "tools"
+        "tools",
+        "top_p"
       ],
       "default_parameters": {},
       "supported_voices": null,
@@ -27924,5 +27940,5 @@
       }
     }
   ],
-  "updated_at": "2026-06-18T14:53:41.705055+00:00"
+  "updated_at": "2026-06-18T20:16:15.310284+00:00"
 }

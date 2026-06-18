@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "据悉，当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。"
 summary_zh = ""
 tags = []
-list_page = 28
+list_page = 29
 +++
 
 <!-- AUTO-GENERATED: news page -->
