@@ -20,7 +20,7 @@ ai_summary = "随着谷歌在 I/O 大会上扩大人工智能验证工作，YouT
 summary = "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously."
 summary_zh = "随着谷歌在 I/O 大会上扩大人工智能验证工作，YouTube 现在终于开始认真对待人工智能标签了。 YouTube 宣布将重新定位 Shorts 和长视频上的 AI 披露内容，以便更容易发现它们，并将开始自动识别和分类"
 tags = []
-list_page = 19
+list_page = 21
 +++
 
 <!-- AUTO-GENERATED: news page -->

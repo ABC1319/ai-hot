@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-06-17T20:05:41.709460",
-  "date": "2026-06-17",
+  "updated_at": "2026-06-18T02:50:35.358116",
+  "date": "2026-06-18",
   "spotlight": {
-    "name": "BabyAGI",
-    "url": "https://github.com/yoheinakajima/babyagi",
+    "name": "AgentGPT",
+    "url": "https://agentgpt.reworkd.ai",
     "type": "agent",
-    "description": "轻量级自主AI Agent框架",
-    "pricing": "开源免费",
+    "description": "浏览器内直接使用的AI Agent平台",
+    "pricing": "免费 + Pro",
     "category": "自动化 Agent"
   },
   "alternates": [
     {
-      "name": "Hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
+      "name": "CAMEL",
+      "url": "https://github.com/camel-ai/camel",
       "type": "agent",
-      "description": "HeyGen 开源的 HTML 渲染视频框架，专为 AI Agent 设计，用 HTML 写代码直接生成视频内容",
-      "pricing": "免费开源",
-      "category": "自动化 Agent"
+      "description": "首个多智能体框架，探索智能体的扩展定律，支持角色扮演和协作式AI任务",
+      "pricing": "开源免费",
+      "category": "多 Agent"
     },
     {
-      "id": "midjourney",
-      "name": "Midjourney",
-      "url": "https://midjourney.com",
+      "id": "stable-diffusion",
+      "name": "Stable Diffusion",
+      "url": "https://stability.ai",
       "type": "tool",
-      "description": "最强 AI 绘画工具，生成质量极高",
-      "pricing": "$10/月 起",
+      "description": "开源图像生成模型，本地部署无限制",
+      "pricing": "开源免费",
       "category": "绘画"
     },
     {
-      "name": "Devin",
-      "url": "https://devin.ai",
+      "name": "SWE-Agent",
+      "url": "https://github.com/princeton-nlp/SWE-agent",
       "type": "agent",
-      "description": "全球首个AI软件工程师，能独立完成编程任务",
-      "pricing": "$500/月",
+      "description": "普林斯顿开源的软件工程Agent",
+      "pricing": "开源免费",
       "category": "编程 Agent"
     }
   ]

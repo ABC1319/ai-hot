@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "消息称，5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1."
 summary_zh = ""
 tags = []
-list_page = 24
+list_page = 26
 +++
 
 <!-- AUTO-GENERATED: news page -->

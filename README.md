@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-18 04:06:20
+🕐 **最近更新**：2026-06-18 10:51:31
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,12 +16,12 @@
 
 ## 🔥 今日热点
 
-1. [世界领导人想要美国的人工智能。他们只是不希望美国能够将其关闭。](https://aihot.bt199.com/news/9ef08ab1d787/)
-   - 法国总统马克龙和印度总理莫迪在七国集团峰会上发出警告，称美国可能会在一夜之间切断对美国人工智能的访问——人为停电的担忧刚…
-   - `TechCrunch AI · 2026-06-17`
+1. [如何关闭 Google 文档中的 AI](https://aihot.bt199.com/news/e304a2af2a1b/)
+   - 您需要执行以下操作才能消除那些讨厌的“与 Gemini 一起写作”弹出窗口
+   - `TechCrunch AI · 2026-06-18`
 
-2. [Anthropic 成为第一家加入 Frontier 碳清除联盟的人工智能初创公司](https://aihot.bt199.com/news/1d907aaa2f0e/)
-   - Anthropic 已加入 Frontier 联盟，该联盟又收到了 9.15 亿美元的承诺，用于资助碳清除项目
+2. [在推出昂贵的 AR 眼镜后，Snap 的股价暴跌](https://aihot.bt199.com/news/358e207ac3c7/)
+   - Snap 期待已久的智能眼镜首次亮相并没有给该公司的股票带来奇迹
    - `TechCrunch AI · 2026-06-17`
 
 3. [Anthropic 受到没人理解的出口规则的打击](https://aihot.bt199.com/news/df07fe6f5184/)
@@ -40,9 +40,9 @@
    - 肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年…
    - `MIT Tech Review · 2026-06-17`
 
-7. [严重的 Copilot 漏洞允许黑客窃取用户的 2FA 代码](https://aihot.bt199.com/news/98586e1b1098/)
-   - SearchLeak 漏洞说明了为什么业界的 LLM 安全方法一次又一次失败
-   - `Ars Technica AI · 2026-06-16`
+7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
+   - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
+   - `Ars Technica AI · 2026-06-17`
 
 8. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
    - 具有先进黑客能力的人工智能模型很快将成为常态
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
