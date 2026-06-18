@@ -20,7 +20,7 @@ ai_summary = "说人工智能将改变世界是一回事。期望 2026 届毕业
 summary = "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it."
 summary_zh = "说人工智能将改变世界是一回事。期望 2026 届毕业生为它鼓掌则是另一回事。事实上，当谷歌前首席执行官埃里克·施密特 (Eric Sc​​hmidt) 告诉亚利桑那大学的毕业生他们的任务是帮助塑造人工智能时，他遭到了热烈的嘘声。 “我可以…"
 tags = []
-list_page = 20
+list_page = 23
 +++
 
 <!-- AUTO-GENERATED: news page -->

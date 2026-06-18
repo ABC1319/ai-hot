@@ -20,7 +20,7 @@ ai_summary = "谷歌再次让自己难堪"
 summary = "Google is embarrassing itself, again."
 summary_zh = "谷歌再次让自己难堪"
 tags = []
-list_page = 22
+list_page = 24
 +++
 
 <!-- AUTO-GENERATED: news page -->

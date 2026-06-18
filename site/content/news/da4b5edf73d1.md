@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "NewCore argues the next challenge in enterprise security will be managing AI agents, not people."
 summary_zh = ""
 tags = []
-list_page = 16
+list_page = 19
 +++
 
 <!-- AUTO-GENERATED: news page -->
