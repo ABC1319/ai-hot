@@ -7511,6 +7511,35 @@
     "collected_at": "2026-06-18T02:49:50.195112"
   },
   {
+    "id": "github-1257748263",
+    "name": "GNL324/polylens",
+    "display_name": "polylens",
+    "url": "https://github.com/GNL324/polylens",
+    "description": "AI-powered prediction market and market intelligence platform for wallet analytics, opportunity discovery, arbitrage detection, and quantitative research.",
+    "stars": 5,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "analytics",
+      "arbitage",
+      "artificial-intelligence",
+      "financial-data",
+      "kalshi",
+      "market-intelligence",
+      "polymarket",
+      "prediction-market",
+      "prediction-markets-bot",
+      "python",
+      "quantitative-finance",
+      "quantitative-research"
+    ],
+    "created_at": "2026-06-03T01:18:27Z",
+    "updated_at": "2026-06-14T20:39:05Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-06-18T10:10:21.663090"
+  },
+  {
     "id": "github-copilot",
     "name": "features/copilot",
     "display_name": "GitHub Copilot",

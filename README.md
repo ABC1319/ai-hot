@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-18 10:51:31
+🕐 **最近更新**：2026-06-18 18:12:06
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,20 +24,20 @@
    - Snap 期待已久的智能眼镜首次亮相并没有给该公司的股票带来奇迹
    - `TechCrunch AI · 2026-06-17`
 
-3. [Anthropic 受到没人理解的出口规则的打击](https://aihot.bt199.com/news/df07fe6f5184/)
+3. [对暗物质的探索已被广泛关注](https://aihot.bt199.com/news/125b40f286ef/)
+   - 在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州一座矿井的底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这…
+   - `MIT Tech Review · 2026-06-18`
+
+4. [中途从生成猫图像到全身超声波扫描](https://aihot.bt199.com/news/6bb412ed386a/)
+   - Midjourney首席执行官David Holz刚刚展示了该公司的第一个硬件产品，并计划在旧金山建造一家水疗中心，他承…
+   - `The Verge AI · 2026-06-18`
+
+5. [Anthropic 受到没人理解的出口规则的打击](https://aihot.bt199.com/news/df07fe6f5184/)
    - 在特朗普政府突然命令该公司切断所有外国人（包括美国境内用户及其员工）的访问权限后，Anthropic 本周大部分时间都在…
    - `The Verge AI · 2026-06-17`
 
-4. [三分之二的美国人认为人工智能发展得太快](https://aihot.bt199.com/news/d57f9d01d74a/)
-   - 根据皮尤研究中心的最新民意调查，49% 的美国人表示至少偶尔使用聊天机器人，但 63% 的人认为该技术发展得太快。总体而…
-   - `The Verge AI · 2026-06-17`
-
-5. [下载：地球工程和内感受科学的现实检验](https://aihot.bt199.com/news/049cb7f55b5d/)
+6. [下载：地球工程和内感受科学的现实检验](https://aihot.bt199.com/news/049cb7f55b5d/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。侵入大气层：地球工程得到现实检验太阳…
-   - `MIT Tech Review · 2026-06-17`
-
-6. [内罗毕的企业家阐述了使用太阳能的理由](https://aihot.bt199.com/news/db9922117603/)
-   - 肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年…
    - `MIT Tech Review · 2026-06-17`
 
 7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
