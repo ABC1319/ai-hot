@@ -3046,6 +3046,31 @@
     "is_core": true
   },
   {
+    "id": "hf-playgroundai--playground-v2.5-1024px-aesthetic",
+    "name": "playgroundai/playground-v2.5-1024px-aesthetic",
+    "display_name": "playground-v2.5-1024px-aesthetic",
+    "url": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic",
+    "author": "playgroundai",
+    "pipeline_tag": "text-to-image",
+    "likes": 765,
+    "downloads": 352219,
+    "tags": [
+      "diffusers",
+      "safetensors",
+      "text-to-image",
+      "playground",
+      "arxiv:2206.00364",
+      "arxiv:2402.17245",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2024-02-16T18:46:17.000Z",
+    "source": "hf-text-to-image",
+    "collected_at": "2026-06-19T10:17:03.174196",
+    "display_priority": 79,
+    "is_core": true
+  },
+  {
     "id": "hf-MiniMaxAI--MiniMax-M3",
     "name": "MiniMaxAI/MiniMax-M3",
     "display_name": "MiniMax-M3",
@@ -3074,33 +3099,6 @@
     "created_at": "2026-06-02T07:49:31.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-17T11:23:27.131840",
-    "display_priority": 79,
-    "is_core": true
-  },
-  {
-    "id": "model-11",
-    "name": "playgroundai/playground-v2.5-1024px-aesthetic",
-    "display_name": "playground-v2.5-1024px-aesthetic",
-    "url": "https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic",
-    "author": "playgroundai",
-    "pipeline_tag": "text-to-image",
-    "likes": 763,
-    "downloads": 306418,
-    "tags": [
-      "diffusers",
-      "safetensors",
-      "text-to-image",
-      "playground",
-      "arxiv:2206.00364",
-      "arxiv:2402.17245",
-      "license:other",
-      "endpoints_compatible",
-      "diffusers:StableDiffusionXLPipeline",
-      "region:us"
-    ],
-    "created_at": "2024-02-16T18:46:17.000Z",
-    "source": "hf-text-to-image",
-    "collected_at": "2026-04-20T14:22:30.666797",
     "display_priority": 80,
     "is_core": true
   },
@@ -3220,14 +3218,14 @@
     "is_core": true
   },
   {
-    "id": "model-15",
+    "id": "hf-cagliostrolab--animagine-xl-4.0",
     "name": "cagliostrolab/animagine-xl-4.0",
     "display_name": "animagine-xl-4.0",
     "url": "https://huggingface.co/cagliostrolab/animagine-xl-4.0",
     "author": "cagliostrolab",
     "pipeline_tag": "text-to-image",
-    "likes": 406,
-    "downloads": 264476,
+    "likes": 436,
+    "downloads": 245915,
     "tags": [
       "diffusers",
       "safetensors",
@@ -3244,7 +3242,7 @@
     ],
     "created_at": "2025-01-10T17:51:13.000Z",
     "source": "hf-text-to-image",
-    "collected_at": "2026-04-20T14:22:30.666798",
+    "collected_at": "2026-06-19T10:17:03.174202",
     "display_priority": 86,
     "is_core": true
   },

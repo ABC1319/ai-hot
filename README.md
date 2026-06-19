@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-19 11:35:58
+🕐 **最近更新**：2026-06-19 18:18:30
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,31 +16,35 @@
 
 ## 🔥 今日热点
 
-1. [资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductionAI](https://aihot.bt199.com/news/f7db370cf36f/)
+1. [美国称ASML的顶级芯片工具可能在中国。 ASML 表示并非如此](https://aihot.bt199.com/news/bd33e41be4e5/)
+   - ASML 会冒着失去出口许可证的风险来武装中国客户，这是一种商业逻辑
+   - `TechCrunch AI · 2026-06-19`
+
+2. [资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductionAI](https://aihot.bt199.com/news/f7db370cf36f/)
    - DeductionAI 是一家利用人工智能捕获和解决软件错误的初创公司，成立于三年前
    - `TechCrunch AI · 2026-06-19`
 
-2. [据报道，人工智能推理初创公司 Baseten 在上一轮大型融资几个月后筹集了 1.5 亿美元](https://aihot.bt199.com/news/c7f03eb380cc/)
-   - 据报道，随着“推理淘金热”的推进，初创公司 Baseten 即将完成 130 亿美元的 15 亿美元融资
-   - `TechCrunch AI · 2026-06-18`
+3. [指标不可避免的弱点](https://aihot.bt199.com/news/3a1b32087c0f/)
+   - 指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元…
+   - `MIT Tech Review · 2026-06-19`
 
-3. [谁来决定人工智能何时太危险？](https://aihot.bt199.com/news/cab0921cfdea/)
+4. [脑机接口试验正在起飞](https://aihot.bt199.com/news/183efb0ffed1/)
+   - 本周，我报道了凯西·哈雷尔 (Casey Harrell) 的故事。据与他一起工作的研究人员介绍，他是一名患有肌萎缩侧索…
+   - `MIT Tech Review · 2026-06-19`
+
+5. [Barret Zoph 时隔五个月再次退出 OpenAI](https://aihot.bt199.com/news/4b49eeba9a48/)
+   - 据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…
+   - `The Verge AI · 2026-06-19`
+
+6. [谁来决定人工智能何时太危险？](https://aihot.bt199.com/news/cab0921cfdea/)
    - 在今天的 Decoder 节目中，我的嘉宾是 The Verge 的高级人工智能记者 Hayden Field。海登出现…
    - `The Verge AI · 2026-06-18`
 
-4. [下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例](https://aihot.bt199.com/news/3d684ebde5de/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。几十年来，物理学家一直在寻找弱相互作…
-   - `MIT Tech Review · 2026-06-18`
-
-5. [对暗物质的探索已被广泛关注](https://aihot.bt199.com/news/125b40f286ef/)
-   - 在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州一座矿井的底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这…
-   - `MIT Tech Review · 2026-06-18`
-
-6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
+7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
    - `Ars Technica AI · 2026-06-17`
 
-7. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
+8. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
    - 具有先进黑客能力的人工智能模型很快将成为常态
    - `Ars Technica AI · 2026-06-17`
 
@@ -127,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
