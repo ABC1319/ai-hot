@@ -1,5 +1,103 @@
 [
   {
+    "id": "aca35cefe862",
+    "title": "Update: The film about Sam Altman has been dropped by Amazon MGM",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-06-19T14:15:29",
+    "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.",
+    "collected_at": "2026-06-19T14:48:18.233545",
+    "content_text": "Luca Guadagnino’s film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.\nThe film about Sam Altman has been dropped by Amazon MGM\nThe film, directed by Luca Guadagnino, covers the week in 2023 that the OpenAI CEO was fired and re-hired.\nThe film, directed by Luca Guadagnino, covers the week in 2023 that the OpenAI CEO was fired and re-hired.\nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman’s termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and Anora’s Yura Borisov as OpenAI chief scientist Ilya Sutskever.\nIn a statement to Deadline, the studio said it believes the movie “will be better served if it were released by a different studio and is working closely with the filmmaking team to find the film a new home.” Puck first reported the studio’s decision not to release the film.\nAmazon and OpenAI also have close ties, with Amazon in February announcing a $50 billion investment in the AI lab.\nMost Popular\n- Midjourney goes from generating cat images to full-body ultrasound scans\n- Apple’s weird anti-nausea dots cured my car sickness\n- Amazon employees say they’re facing termination for backing data center limits\n- This robotic self-driving toilet comes to you\n- Barret Zoph is out at OpenAI again after just five months",
+    "content_source": "trafilatura",
+    "content_chars": 1469,
+    "content_excerpt": "Luca Guadagnino’s film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM.\nThe film about Sam Altman has been dropped by Amazon MGM\nThe film, directed by Luca Guadagnino, covers the week in 2023 that the OpenAI CEO was fired and re-hired.\nThe film, directed by Luca Guadagnino, covers the week in 2023 that the OpenAI CEO was fired and re-hired.\nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman’s termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and Anora’s Yura Borisov as OpenAI chief scientist Ilya Sutskever.\nIn a statement to Deadline, the studio said it believes the movie “will be better served if it were released by a different studio and is working closely with the filmmaking team to find the film a new home.” Puck first reported the studio’s decision not to release the film.\nAmazon and OpenAI also have close ties, with Amazon in February announcing a $50 billion investment in the AI lab.\nMost Popular\n- Midjourney goes from generating cat images to full-body ultrasound scans\n- Apple’s weird anti-nausea dots cured my car sickness",
+    "title_zh": "关于山姆·奥特曼的电影已被亚马逊米高梅公司下架",
+    "summary_zh": "据报道，卢卡·瓜达尼诺 (Luca Guadagnino) 执导的关于 OpenAI 首席执行官山姆·奥尔特曼 (Sam Altman) 的电影《Artificial》已被亚马逊米高梅公司下架。这部由安德鲁·加菲尔德 (Andrew Gar…",
+    "ai_summary": "据报道，卢卡·瓜达尼诺 (Luca Guadagnino) 执导的关于 OpenAI 首席执行官山姆·奥尔特曼 (Sam…",
+    "title_original": "The film about Sam Altman has been dropped by Amazon MGM",
+    "summary_original": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T14:49:59.939558"
+  },
+  {
+    "id": "b17049315b90",
+    "title": "深度解读：OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
+    "url": "https://linux.do/t/topic/2435282",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T13:07:55",
+    "summary": "消息称，看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T14:48:22.782768",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435282",
+    "title_original": "OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
+    "summary_original": "看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T14:49:59.939591"
+  },
+  {
+    "id": "229a5a6ccdc1",
+    "title": "In depth: The Download: AI bottleneck debates, and BCI trials take off",
+    "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-06-19T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.",
+    "collected_at": "2026-06-19T14:48:18.379373",
+    "content_text": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.\nA startup claims it broke through a bottleneck that’s holding back LLMs\nAI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck that had held back large language models for almost a decade.\nThe purported breakthrough comes from slashing the number of computations transformers need to carry out to generate answers. The result is a faster and cheaper LLM that uses far less energy than any other model on the market.\nMany experts remained skeptical—but Subquadratic has started to share the receipts. They suggest that their approach might be worth paying attention to.\n—Will Douglas Heaven\nBrain-computer interface trials are taking off\n—Jessica Hamzelou\nThis week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant. The device has enabled him to maintain an income, reconnect with friends and family, and read to his daughter. He told me that it’s “nothing short of revolutionary.”\nOver the past couple of years, the number of BCI trial volunteers has soared. This year, China became the first country to approve a BCI for medical use. Advances in technology are allowing engineers to provide more features than ever. BCI research is properly taking off.\nFind out how the technology is edging from the lab towards the market.\nThis story is from The Checkup, our weekly newsletter giving you the inside track on all things biotech. Sign up to receive it in your inbox every Thursday.\nThe must-reads\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n1 Amazon workers who backed data center limits may face termination\nThe engineers say they’re under investigation by the company. (NYT $)\n+ And could face discipline, including potential termination. (The Verge)\n+They had testified at meetings about pausing data centers. (CNBC)\n+ They’ve filed a joint complaint to Seattle’s Office for Civil Rights. (Wired $)\n2 A new fossil discovery has rewritten 150 years of evolutionary theory\nIt suggests early land vertebrates skipped the tadpole stage. (New Scientist $)\n+ And raises questions about how vertebrates adapted to land. (404 Media)\n+ Sponges may have been the first animals. (MIT Technology Review)\n3 Bernie Sanders plans to give the public direct ownership of AI firms\nHe’s unveiled new legislation to create an AI sovereign wealth fund. (AP News)\n+ It would be funded through a one-time tax on AI companies’ stock. (Quartz)\n+ And make annual payments directly to Americans. (Washington Post $)\n4 Investors in China secretly acquired stakes in SpaceX before its IPO\nOne had ties to Chinese military contractors. (ProPublica)\n+ The US fears China has got one of ASML’s top machines. (Reuters $)\n5 Researchers have figured out Russia's nuclear-powered missile\nThey call it “a terrible idea”—but not an impossible one. (NPR)\n+ NASA is building a nuclear reactor-powered spacecraft. (MIT Technology Review)\n6 Longevity medicine faces a do-or-die moment in a landmark trial\nIt will test whether cellular aging can be safely reversed in humans. (Axios)\n+ The next step is “chemical reprogramming.” (MIT Technology Review)\n7 Studies suggest AI may already be deskilling professionals\nOver-reliance appears to weaken doctors’ and engineers’ abilities. (Nature)\n8 Tech workers who maxed out their AI use are now trying to minimize it\nSpiralling costs mean “tokenminning” has replaced “tokenmaxxing.” (NYT $)\n9 Scientists say the human genome’s structure may confound AI models\nWhich would constrain AI-based models of biology and disease. (Quanta)\n10 A new robotic self-driving toilet brings the bathroom to you\nThe Xiaoban also cleans up and empties itself all on its own. (The Verge)\nQuote of the day\n“They hated me. They were doing everything they could to knock me down. And look at them now.”\n—Donald Trump mocks Mark Zuckerberg and Jeff Bezos in a conversation with Elon Musk that’s recounted in a new book, Wired reports.\nOne More Thing\nTechnology can help us feed the world, if we look beyond profit\nThe pandemic exposed the weak spots in our interconnected food system. They’re the result of decades’ worth of technological advances, from globe-spanning shipping to refrigeration networks. But technology is not inherently opposed to sustainable and resilient food systems.\nPowerful technologies like genetic modification can create stronger local agriculture and a healthier food system—but they normally aren’t. The challenge is ensuring they serve food security and human well-being, rather than simply maximizing profits.\n—Fabio Parasecoli\nWe can still have nice things\nA place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line.)\n+ This intriguing video tracks the covert reality of Japan's shinobi.\n+ Dive into this admirably obsessive archive covering over 100 different ways to tie your shoes.\n+ One of the world’s largest digital collections of plants and fungi is now available for free to everyone.\n+ A grand orchestra has beautifully covered Michael Jackson’s \"Human Nature\" at Abbey Road Studios.\nDeep Dive\nThe Download\nThe Download: DeepSeek’s latest AI breakthrough, and the race to build world models\nPlus: China has blocked Meta’s $2 billion acquisition of AI startup Manus.\nThe Download: introducing the 10 Things That Matter in AI Right Now\nPlus: An unauthorized group has reportedly accessed Anthropic’s Mythos.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+    "content_source": "trafilatura",
+    "content_chars": 5721,
+    "content_excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.\nA startup claims it broke through a bottleneck that’s holding back LLMs\nAI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck that had held back large language models for almost a decade.\nThe purported breakthrough comes from slashing the number of computations transformers need to carry out to generate answers. The result is a faster and cheaper LLM that uses far less energy than any other model on the market.\nMany experts remained skeptical—but Subquadratic has started to share the receipts. They suggest that their approach might be worth paying attention to.\n—Will Douglas Heaven\nBrain-computer interface trials are taking off\n—Jessica Hamzelou\nThis week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant. The device has enabled him to maintain an income, reconnect with friends and family, and read to his daughter. He told me that it’s “nothing short of revolutionary.”\nOver the past couple of years, the number of BCI trial volunteers has soared. This year, China became the first country to approve a BCI for medical use. Advances in technology are allowing engineers to provide more features than ever. BCI research is properly taking off.",
+    "title_zh": "下载：人工智能瓶颈争论，BCI 试验开始",
+    "summary_zh": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它突破了阻碍法学硕士的人工智能初创公司 Subquadratic 上个月公开宣称：它",
+    "ai_summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它突破了阻碍法学硕士…",
+    "title_original": "The Download: AI bottleneck debates, and BCI trials take off",
+    "summary_original": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T14:49:59.939608"
+  },
+  {
+    "id": "6048b568e27b",
+    "title": "stepfun模型感觉有点拉，不过免费的一律给到夯😋，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2435021",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T12:00:55",
+    "summary": "有分析指出，有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T14:48:22.782999",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435021",
+    "title_original": "stepfun模型感觉有点拉，不过免费的一律给到夯😋",
+    "summary_original": "有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T14:49:59.939623"
+  },
+  {
+    "id": "8add01e4aff7",
+    "title": "Latest: A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-06-19T10:40:24",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim.",
+    "collected_at": "2026-06-19T14:48:18.379437",
+    "content_text": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.\nThe details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the results of an independent evaluation of its new tech. The results suggest that the company’s claims might be worth paying attention to.\nAccording to Subquadratic, it has developed a new kind of LLM, called SubQ, that is faster and cheaper and uses a lot less energy than any other model on the market. The company also claims that SubQ is able to process up to 12 times as much text at once than most other models, allowing it to carry out a range of data-heavy tasks, such as analyzing hundreds of documents or entire code bases.\nWhat’s more, Subquadratic says, SubQ does this while more or less matching the performance of the best models put out by Google DeepMind, OpenAI, and Anthropic on key tasks like coding.\nThe problem was that the company at first provided little evidence for its claims beyond a handful of self-published test scores. And it has yet to make SubQ widely available for people to try out themselves.\nSo it’s no surprise that Subquadratic’s claims were met with skepticism. Dan McAteer, an artificial intelligence engineer, captured the overall response on X: “SubQ is either the biggest breakthrough since the Transformer ... or it’s AI Theranos.”\nA month on, the company has published more information about its model, including the results of additional independent tests run by third-party firm Appen.\n“We expected healthy skepticism,” says Subquadratic cofounder and chief technology officer Alex Whedon. “In hindsight, releasing the third-party benchmarks alongside the initial announcement would have preempted much of the skepticism, which is why we’re taking the time to make sure any future results are fully verified before putting them out.”\nSubquadratic asked Appen, which evaluates other companies’ models, to run its tests on SubQ. The results seem to back up a lot of Subquadratic’s claims. “That was really exciting to me, it validated their architecture,” says Jeanine Sinanan-Singh, Appen’s director of generative AI research.\n“I was like, ‘Wow, this could be a game changer,’ because models struggle with speed and inefficiency,” she adds. “But when you have kind of shocking results, it’s really not as credible when you say it yourself.”\nSubQ won’t replace existing top models across the board, but it could offer huge increases in speed at a fraction of the typical cost for certain tasks. Subquadratic insists that in the long run, though, its breakthrough could change how LLMs are built. “We hope we’re kicking off a new age of efficiency,” says Justin Dangel, the firm’s cofounder and CEO. “We don’t think anybody will be building on transformers in a few years.”\nAttention!\nTo understand why Subquadratic’s claims are a big deal, let’s dig into how most LLMs work. The key mechanism inside an LLM is a type of neural network called a transformer, which runs a process known as dense attention. Today’s LLMs typically chain together multiple transformers. (The foundational paper of the LLM era, published by researchers at Google in 2017, was titled “Attention Is All You Need.”)\nDense attention works like this: When a transformer processes a chunk of text, it first encodes each word (or part of a word, known as a token) with a number. To capture the meaning of the full text, it then multiplies each of those numbers with every other number for that text. For example, a piece of text 10,000 words long would kick off almost 50 million individual multiplications. That’s a lot of computation and the main reason that LLMs are notorious power hogs.\n“If you want to summarize The Great Gatsby, you have to look at the first word and the last word together, and then you have to look at every other combination,” says Dangel.\nAs the length of the text increases, the number of computations skyrockets. That’s because each additional number must be multiplied by all other previous numbers. Double the number of words, and you roughly quadruple the number of computations, a rate of increase known as a quadratic expansion.\n(You can picture this yourself: Draw a circle and mark dots around its edge. Each dot is a token. Then draw lines between pairs of dots to represent the multiplication of those two tokens. A circle with five dots will have 10 lines crossing it. Make it 10 dots and you will have 45 lines, 20 dots and you will have 190 lines, and so on.)\nSlashing costs\nSubquadratic’s solution is to ditch dense attention, the core operation of a transformer, in favor of what’s known as sparse attention, which slashes the number of computations needed. Instead of multiplying the number assigned to each token by every other number, sparse attention selects just some of the numbers to multiply. The idea is that not all relationships between words in a piece of text matter.\n“Sparse attention says not all of those relationships are important, because they’re not,” says Whedon. “If you’re reading a book, you’re not going to look at the first and second words, first and third—that’s insane.”\nIt’s a simple approach, and Subquadratic is not the first to try it. “Pretty much everything under the sun has been attempted,” says Will Depue, an independent AI researcher who previously worked at OpenAI. “It’s not impossible, but it’s akin to running a four-minute mile.”\nPrevious techniques for selecting which numbers to multiply and which to ignore have not produced a mechanism that can capture the meaning of a document as well as dense attention can.\nSubquadratic claims to have cracked the problem at last. It pitches SubQ as the first sparse-attention LLM that rivals mainstream dense-attention models in performance.\n“Historically, most mechanisms have used fixed patterns, like always comparing the first word to the fifth,” says Whedon. “That’s pretty limiting. Language is too sophisticated for that. And so, one of the things that makes our mechanism unique is that we dynamically select which ones are important.”\nThe firm won’t say exactly how SubQ chooses which words to focus on, but the selection is calculated on the fly and differs for each piece of text the model is given. “That’s kind of where the secret sauce is,” says Whedon.\nTesting, testing\nThe upshot is that for certain tasks, SubQ may be faster and cheaper to run than most other models. Appen evaluated SubQ on a handful of standard tests. In a straight-up speed test, which sets a baseline for how fast a model can operate in theory rather than assess what a model can actually do, Appen found that SubQ was 56 times faster than models using FlashAttention, a previous sparse-attention technique.\nOn LiveCodeBench, a test that looks at how well models perform on competitive coding problems taken from real contests, SubQ scored 89.7%, putting it in the same ballpark as other top coding models. “This model continues to provide frontier-level performance in coding,” says Appen’s Sinanan-Singh.\nSubquadratic's claims about cost are harder to verify because SubQ is not yet widely available. According to Dangel, it costs $2600 to run Anthropic's LLM Opus 4.6 through RULER 128, a test developed by Nvidia to assess a model's ability to retrieve information from large data sets. And SubQ? \"It cost us eight dollars,\" he says.\nSubQ does seem to be able to handle very large data sets. The model has a context window (roughly akin to a working memory) up to 12 million tokens long. Most top models today have context windows one million tokens long. In a demo that Whedon ran for me, he asked SubQ to perform a task that required it to reason about information contained in 400 documents. It responded in seconds. When he gave Perplexity—a popular LLM-powered search engine—the same task, it failed to load all 400 documents.\nAppen also ran the needle-in-a-haystack test, which assesses how well a model can retrieve specific information buried in a large amount of data. In its report, Appen states that SubQ scored 98% with context windows six million and 12 million tokens long, “sustaining near-perfect long-context retrieval at scales few models are tested at.”\nToo good to be true?\nDespite the high scores, benchmarks paint an incomplete picture of what a model can and cannot do. Testing under very specific conditions is not a substitute for running a model on a wide range of real tasks.\nSubquadratic is offering SubQ as a model tailored to coding and to searching very large data sets. It says that tens of thousands of potential users have already signed up for early access, including more than 500 enterprise customers. But there’s a long waitlist, and the firm has given very few people access so far. Subquadratic’s response is that it is a new, small company with limited resources and cannot serve too many people at once.\nUntil more people get their hands on the model and try it out for themselves, some skepticism is justified. One nagging issue is that Subquadratic reused the weights (values set within a model during training that determine how it will behave) from a version of the Chinese open-source model Qwen to bootstrap SubQ, rather than training it from scratch. That’s a common thing for model makers to do, but it cuts across Subquadratic’s claim that it has fully reinvented how LLMs work.\n“They may have built something real and useful,” says Depue. “But the public evidence does not yet justify the stronger claim that they have solved the quadratic attention bottleneck.”\nIn the meantime, Subquadratic cofounder Whedon insists that making something different was his only option. If you want to build a competitive model, you have to have new ideas, he says: “We’re more up against it than OpenAI is.”\nDeep Dive\nArtificial intelligence\n10 Things That Matter in AI Right Now\nMIT Technology Review's authoritative overview of the 10 technologies, emerging trends, bold ideas, and powerful movements in AI in 2026.\nA new US phone network for Christians aims to block porn and gender-related content\nLaunching next week on T-Mobile's network, the cell plan takes a nuclear approach to online safety.\nMusk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models\nMusk kept his cool, and OpenAI’s lawyer bulldozed him with piercing questions about his motivations for suing the company.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+    "content_source": "trafilatura",
+    "content_chars": 10692,
+    "content_excerpt": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.\nThe details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the results of an independent evaluation of its new tech. The results suggest that the company’s claims might be worth paying attention to.\nAccording to Subquadratic, it has developed a new kind of LLM, called SubQ, that is faster and cheaper and uses a lot less energy than any other model on the market. The company also claims that SubQ is able to process up to 12 times as much text at once than most other models, allowing it to carry out a range of data-heavy tasks, such as analyzing hundreds of documents or entire code bases.\nWhat’s more, Subquadratic says, SubQ does this while more or less matching the performance of the best models put out by Google DeepMind, OpenAI, and Anthropic on key tasks like coding.\nThe problem was that the company at first provided little evidence for its claims beyond a handful of self-published test scores. And it has yet to make SubQ widely available for people to try out themselves.\nSo it’s no surprise that Subquadratic’s claims were met with skepticism. Dan McAteer, an artificial intelligence engineer, captured the overall response on X: “SubQ is either the biggest breakthrough since the Transformer ... or it’s AI Theranos.”\nA month on, the company has published more information about its model, including the results of additional independent tests run by third-party firm Appen.\n“We expected healthy skepticism,” says Subquadratic cofounder and chief technology officer Alex Whedon. “In hindsight, releasing the third-party benchmarks alongside the initial announcement would have preempted much of the skepticism, which is why we’re taking the time to make sure any future results are fully verified before putting them out.”\nSubquadratic asked Appen, which evaluates other companies’ models, to run its tests on SubQ. The results seem to back up a lot of Subquadratic’s claims. “That was really exciting to me, it validated their architecture,” says Jeanine Sinanan-Singh, Appen’s director of generative AI research.\n“I was like, ‘Wow, this could be a game changer,’ because models struggle with speed and inefficiency,” she adds. “But when you have kind of shocking results, it’s really not as credible when you say it yourself.”",
+    "title_zh": "一家初创公司声称它突破了阻碍法学硕士的瓶颈",
+    "summary_zh": "总部位于迈阿密的人工智能初创公司 Subquadratic 上个月走出了隐秘模式，带来了巨大的收益。它宣布它已经解决了近十年来阻碍大型语言模型的数学瓶颈。细节很薄弱，很多人不相信。但次二次方有 sta",
+    "ai_summary": "总部位于迈阿密的人工智能初创公司 Subquadratic 上个月走出了隐秘模式，带来了巨大的收益。它宣布它已经解决了近…",
+    "title_original": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "summary_original": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T14:49:59.939636"
+  },
+  {
     "id": "ab40cb5fe470",
     "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万，这一消息引发行业关注",
     "url": "https://36kr.com/p/3859926114161665?f=rss",
@@ -37,44 +135,6 @@
     "rewritten_at": "2026-06-19T03:35:58.215724"
   },
   {
-    "id": "3a1b32087c0f",
-    "title": "Analysis: The inevitable weakness of metrics",
-    "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-06-19T09:00:00",
-    "summary": "There are plenty of useful things a metric can reveal.",
-    "collected_at": "2026-06-19T10:16:50.997628",
-    "content_text": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement.\nLike a lot of people bitten by the self-quantifying bug, I initially started gathering personal data to pursue a nebulous collection of goals and desires. As a sedentary technology journalist, I wanted to feel better physically and emotionally, to get outside more, and—where possible—to bring order to some of the messiness and uncertainty of my daily existence. These all seemed to be things that could be improved with the cool clarity of numbers.\nSelf-quantifiers often get stereotyped as obsessive self-optimizers (and many of them are), but my reasons for producing and collecting personal data were less about life-maxxing and more about life meaning—at least at first. As most people who know me will attest, I do not have now, nor have I ever possessed, a “productivity mindset.” I’m also not all that interested in life hacks, shortcuts, or new ways to compare myself with other people. Instead, what I wanted out of metrics—what I hoped I could divine from a never-ending stream of numbers about my health, work, and social life—was something more elusive: self-knowledge. This was my first mistake.\nThe idea that the more we know, the better is so profoundly embedded in our culture that it feels weird to even point it out. Since at least as far back as the Enlightenment, the primary way we’ve all agreed to go about knowing more has been through measurement and quantification. After all, more knowledge—more data—leads to better decisions, which leads to happier, more fulfilled people. Or so we’re told, and with increasing frequency in the era of AI.\nWhen two Wired magazine editors, Gary Wolf and Kevin Kelly, coined the term “quantified self” in 2007 and helped launch the movement we are all now helplessly a part of, they were essentially selling this very idea. “Unless something can be measured, it cannot be improved,” wrote Kelly in an early blog post, doing his best impression of Lord Kelvin. “So we are on a quest to collect as many personal tools that will assist us in quantifiable measurement of ourselves.” Almost 20 years later, that quest is easier than ever thanks to a flood of devices, apps, and websites all designed to help us build our self-knowledge through numbers.\nMy first tool was a small, plastic clip-on Fitbit I started using in 2011. It did one thing: count the number of steps I took in a day. As a lifelong video game player, I was already well acquainted with the motivational power of simple scoring systems, and I hoped my new gadget would offer the gentle numerical nudge I thought I needed to step away from my Twitter feed and, if not touch grass, at least walk next to some. Walking also seemed to be one of the few times I had what could charitably be called intelligent ideas, which seemed like another promising by-product of doing more of it.\nAlas, that was short-lived. I can’t tell you precisely when “getting out into nature more” or “thinking smarter thoughts” stopped mattering to me as goals, but I suspect it took no more than a few weeks. What I can say with certainty is that my initial goal of 6,000 daily steps quickly turned into 10,000, which then jumped to 15,000 and eventually settled at 20,000 for years. Stories about becoming a “steps guy” are clichéd at this point, and they’ve earned that status for a reason.\nIt didn’t take long for me to trade in pedometers for heart-rate monitors (I also started running), smartwatches, sleep-tracking rings, and an embarrassing number of macronutrient-tabulating apps. Outside the health and fitness realm, my early career as a journalist also happened to coincide with the rise of social media and web analytics tools like Chartbeat, which promised to further quantify difficult-to-measure aspects of my life, like “job success” and “impact,” by tracking things like page views, followers, retweets, likes, and all sorts of other attentional metrics that now carry great weight.\nMetrics inevitably redefine your core sense of what’s important, whether you’re aware of the trap or not.\nUltimately, during the 10-plus years I diligently tracked my heart rate, steps, active calories, sleep, story engagement time, stress levels, and other metrics, I gained virtually nothing in terms of greater self-knowledge. (I suppose I did learn that I liked to make numbers go up and down, but who doesn’t?) The swirl of data that followed me everywhere did not lend additional meaning or insight to the way I relate to myself, my work, or the important people in my life. In fact, the more I used numerical proxies, the worse I felt about pretty much everything.\nWhat I did learn were two important lessons about what happens when you try to quantify the minutiae of your life. First and foremost, whatever the amount of data you’re currently collecting about yourself, it will never feel sufficient. There’s always a new metric around the corner, a better way for a tracker to remix its readings and more accurately measure what’s “important”: heart rate variability, daily stress, exercise “readiness,” cardiovascular or “fitness” ages. Measurement begets more measurement. You can count on it.\nThe second lesson was less obvious but no less significant. The more personal or nuanced your goals are when you set off on your self-quantifying journey, the more likely it is you will ultimately replace them with some simplified metric or ranking. Want to become a better journalist? Why not use page views and leaderboards as a proxy for success? Enjoy cooking and want to improve? Foodie metrics dictate that more complicated recipes with longer ingredient lists are the answer. Even when we know that the value of good journalism isn’t reflected in how many people read a given story or that the joys of cooking are as much about improvisation and experimentation as about successfully following some complex recipe, it’s hard to resist the allure of a simple score or stat. Metrics inevitably redefine your core sense of what’s important, whether you’re aware of the trap or not.\nOver the years, people have invented various terms to describe this phenomenon. In his recent book The Score: How to Stop Playing Somebody Else’s Game, the philosopher C. Thi Nguyen calls it “value capture.” Value capture happens, he says, when you adopt external sources of measurement and then let them rule you without adapting them to suit your life. “In value capture, you’re essentially outsourcing your values,” Nguyen writes. “You’re letting an external metric or ranking set what’s important for you.” Crucially, you’re also outsourcing the process of figuring out your own sense of meaning. It’s why my walks quickly shifted from feeling meditative to prioritizing miles.\nIndividuals, institutions, and indeed entire societies can fall prey to value capture. In fact, once you start noticing it, you start seeing it everywhere—in journalism, education, and business, but also in our food, our hobbies, and, yes, the way we measure our health and happiness. Here’s how Nguyen puts it:\nValue capture happens when a restaurant stops caring about making good food and starts caring about maximizing its Yelp ratings. It happens when students stop caring about education and start caring about their GPA. It happens when scientists stop caring about finding truth and start caring about getting the biggest grants. It even happens in religion. A pastor recently told me that his church had become completely obsessed with baptism rates. The higher-ups had established an internal leaderboard in which the pastors competed on monthly baptism rates, and it was starting to dominate everybody’s attention. He’d found himself caring less about the long-term spiritual development of his flock and focusing more on trying to deliver popular sermons that would up his baptism rates and move him up that leaderboard.\nAt its core, The Score is trying to untangle a mystery that Nguyen, a specialist in the philosophy of games at the University of Utah, has been thinking about for a long time: Why is it that numbers and scoring systems in games can be the source of so much joy and fluidity and play, but public measures and institutional metrics (i.e., scores that apply to the real world) seem to drain the life out of everything and thrust us all into a bleak mindset of grinding optimization?\nTo begin to answer this question, he turns to one of the foundational inquiries into the limits of data and quantification, Theodore M. Porter’s 1995 book Trust in Numbers: The Pursuit of Objectivity in Science and Public Life.\nPorter, a historian of science who specializes in the social power of numbers, has spent his career looking at why quantification has become so dominant, not just in political and bureaucratic life but everywhere. One of his key insights about the inherent attractiveness of quantification, which he calls “a technology of distance,” is that it “minimizes the need for intimate knowledge and personal trust.” Put another way, metrics travel extremely well between different contexts and are easy to grasp and aggregate.\nWhether it’s a student’s GPA or a country’s GDP, these measures are understood by pretty much everyone. But that understanding comes at a price, Porter reminds us: To arrive at a clear metric, you inevitably need to simplify what you’re attempting to measure, often jettisoning heaps of nuanced, qualitative, or open-ended information so that others can find the resulting number legible.\nNo one (hopefully) believes that a GPA captures in any meaningful way a student’s entire educational experience or aptitude for learning, but we’ve agreed to use it because more qualitative assessments are onerous to wade through and require expertise to decipher and compare. Ditto for the economic metric of GDP, which politicians and societies are now compelled to drive higher and higher because a group of economists once concluded that this figure correlates with general economic well-being.\nThis is the essential tension at the heart of all data, argues Nguyen. Any institutional quantification, he says, requires that the evaluation procedure and its product be comprehensible across contexts. That profoundly limits what the metric can actually measure. “In value capture, you’re ultimately taking that decontextualized nugget and internalizing it,” he writes. “You’re guiding your life using an evaluative technology that has been engineered to travel between contexts, by stripping it of nuance.”\nEvery so often I’ll find myself in friendly debate with a “numbers person”—a statistician, an economist, or a friend who’s still a committed self-quantifier. After patiently listening to my measurement-gone-awry examples—the disastrous attempt to quantify pain as “the fifth vital sign” in the mid-1990s (which exacerbated the opioid epidemic), or any of the countless examples of the McNamara fallacy, where decisions in academia, medicine, and politics are based solely on what’s easily measured—many will insist that I’m misunderstanding or misinterpreting the whole point of measuring. Metrics, they’ll say, are simply a means, and the important questions concern the ends for which they are used. In other words, these unfortunate outcomes amount to user error, not something inherently dangerous or misleading about the nature of measurement.\nAt some point during these conversations, Goodhart’s Law will invariably come up, usually as an explanation the metrics-minded deploy for why the ends get all mucked up. The principle, which is attributed to the British economist Charles Goodhart, is often expressed as the following: “When a measure becomes a target, it ceases to be a good measure.” I have a profound dislike for Goodhart’s Law, not because I think it’s untrue, but rather for the way it gets interpreted.\nAs Nguyen notes, Goodhart’s Law says very little about why metrics fail to capture what’s important—or what to do about it. Find better measures, some will conclude. Don’t let metrics become targets, others will insist. These are not helpful takeaways. All measurements, I would argue, are in fact targets, whether you intend them to be or not. Metrics inevitably present one direction or option as better, Nguyen writes in The Score—“longer lifespans, faster student graduation rates, more page views, higher customer satisfaction scores.” What people are talking about when they bring up Goodhart’s Law isn’t human error; it’s actually a fundamental problem with measurement itself.\nI want to be clear here: Measurement can and does serve a number of vital functions. It has in a very literal sense made the modern world possible, with all its life-saving, suffering-reducing, and awe-\ninspiring scientific breakthroughs. When used with care and diligence, metrics can make our progress (or lack of it) clearer and more transparent. Are we decreasing carbon dioxide emissions or not? They can also introduce accountability into formerly opaque systems, such as by measuring whether a company is complying with state and federal regulations. They can even make us more objective, reduce biases, and galvanize us to act.\nBut as Nguyen points out throughout The Score, the fundamental weakness of metrics comes when we use them to pursue subtler, more personal goals. What I think many of us miss—what I know I certainly missed—is that there are always trade-offs when you try to distill something important down to a data point. When we turn to metrics to understand ourselves, our social world, and culture as a whole, they will never come close to capturing what matters. Even worse, they’ll often actively obscure it.\nToday, I find that numbers have very little to offer when it comes to my daily work, my physical or mental fitness, my relationships, or any other part of my life I consider important. Granted, I’m lucky enough to be in relatively good health at the moment. I don’t have to track my glucose levels or monitor my blood pressure. As a freelance writer, I also have the luxury of not having numbers foisted on me in the form of key performance indicators (KPIs), objectives and key results (OKRs), or any of the endless quantitative evaluations that come baked into pretty much every corporate and gig economy job.\nStill, in a very real sense, there is no escaping metrics or, especially, the logic that accompanies them. Knowing has become numeric, and we all live in a world that increasingly sees us as a collection of numbers—as “data subjects.” The first and most urgent challenge, I’d suggest, is finding a way to keep us from seeing ourselves and each other that way.\nThis won’t be easy. As Porter, Nguyen, and countless other philosophers, anthropologists, and historians have already observed, the language of numbers is largely how we ascribe value today—as well as how we digest and metabolize our relationships to ourselves, to others, and to the world around us. Indeed, many of us have accepted not only that metrics have a natural existence in human affairs but that there are in fact no aspects of human life that cannot be somehow translated into data.\nKnowing has become numeric, and we all live in a world that increasingly sees us as a collection of numbers— as “data subjects.”\nSo how do we push back? Nguyen’s book offers a useful first step. As he notes again and again in The Score, believing that numbers say something real or useful about human needs and desires gives them power. We can, at the very least, start to seriously question that belief, to ask what meaning and pleasure we might be giving up in pursuit of a metric.\nDoing so will hopefully lead to another realization: that playing the numbers game is ultimately a losing proposition for humans. If we insist on expressing our worth through attentional metrics and productivity scores, if we continue to turn intelligence and creativity into a series of benchmarks for AI to surpass, we’ve already lost. Of course machines will surpass us in a world built around metrics. That is literally what we create them to do. The answer is not to turn ourselves into machines too.\nIf there’s one thing that keeps me up at night, it is that we’ve become so accustomed to seeing and understanding the larger world and ourselves through numbers that it has deprived us of the language to express what’s fundamental and valuable about our own humanity. We need this ability now more than ever, especially if we’re going to adequately answer two of the most important questions of our era: What are humans for? And what is AI for?\nAs part of my own attempts to disentangle myself from a life of numbers—efforts that started shortly before covid—I’ve abandoned most of the tools of measurement I spent a decade collecting. I’ve largely given up on social media. I stopped using apps to track my health and well-being. The watch I currently wear tells me the time and the date and nothing else.\nIn fact, the only holdover from my days of obsessive self-quantification is a dogmatic devotion to walking—without all the step counting, of course. These days, I walk when I’m feeling disillusioned or overwhelmed; I walk when I can’t figure out how to finish an essay; I also walk because I enjoy spending time outdoors with my dog and catching up on the details of my neighbors’ lives. The benefits of pursuing this daily activity are as clear and obvious to me as anything could be in life. I just can’t express them in a number.\nBryan Gardiner is a writer based in Oakland, California.\nDeep Dive\nCulture\nInside soccer’s data renaissance\nMany of the insights hitting soccer pitches today trace back to Jesse Davis and a team of computer scientists open-sourcing tools for some of the sport’s trickiest problems.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
-    "content_source": "trafilatura",
-    "content_chars": 18080,
-    "content_excerpt": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement.\nLike a lot of people bitten by the self-quantifying bug, I initially started gathering personal data to pursue a nebulous collection of goals and desires. As a sedentary technology journalist, I wanted to feel better physically and emotionally, to get outside more, and—where possible—to bring order to some of the messiness and uncertainty of my daily existence. These all seemed to be things that could be improved with the cool clarity of numbers.\nSelf-quantifiers often get stereotyped as obsessive self-optimizers (and many of them are), but my reasons for producing and collecting personal data were less about life-maxxing and more about life meaning—at least at first. As most people who know me will attest, I do not have now, nor have I ever possessed, a “productivity mindset.” I’m also not all that interested in life hacks, shortcuts, or new ways to compare myself with other people. Instead, what I wanted out of metrics—what I hoped I could divine from a never-ending stream of numbers about my health, work, and social life—was something more elusive: self-knowledge. This was my first mistake.\nThe idea that the more we know, the better is so profoundly embedded in our culture that it feels weird to even point it out. Since at least as far back as the Enlightenment, the primary way we’ve all agreed to go about knowing more has been through measurement and quantification. After all, more knowledge—more data—leads to better decisions, which leads to happier, more fulfilled people. Or so we’re told, and with increasing frequency in the era of AI.\nWhen two Wired magazine editors, Gary Wolf and Kevin Kelly, coined the term “quantified self” in 2007 and helped launch the movement we are all now helplessly a part of, they were essentially selling this very idea. “Unless something can be measured, it cannot be improved,” wrote Kelly in an early blog post, doing his best impression of Lord Kelvin. “So we are on a quest to collect as many personal tools that will assist us in quantifiable measurement of ourselves.” Almost 20 years later, that quest is easier than ever thanks to a flood of devices, apps, and websites all designed to help us build our self-knowledge through numbers.\nMy first tool was a small, plastic clip-on Fitbit I started using in 2011. It did one thing: count the number of steps I took in a day. As a lifelong video game player, I was already well acquainted with the motivational power of simple scoring systems, and I hoped my new gadget would offer the gentle numerical nudge I thought I needed to step away from my Twitter feed and, if not touch grass, at least walk next to some. Walking also seemed to be one of the few times I had what could charitably be called intelligent ideas, which seemed like another promising by-product of doing more of it.\nAlas, that was short-lived. I can’t tell you precisely when “getting out into nature more” or “thinking smarter thoughts” stopped mattering to me as goals, but I suspect it took no more than a few weeks. What I can say with certainty is that my initial goal of 6,000 daily steps quickly turned into 10,000, which then jumped to 15,000 and eventually settled at 20,000 for years. Stories about becoming a “steps guy” are clichéd at this point, and they’ve earned that status for a reason.\nIt didn’t take long for me to trade in pedometers for heart-rate monitors (I also started running), smartwatches, sleep-tracking rings, and an embarrassing number of macronutrient-tabulating apps. Outside the health and fitness realm, my early career as a journalist also happened to coincide with the rise of social media and web analytics tools like Chartbeat, which promised to further quantify difficult-to-measure aspects of my life, like “job success” and “impact,” by tracking things like page views, followers, retweets, likes, and all sorts of other attentional metrics that now carry great weight.\nMetrics inevitably redefine your core sense of what’s important, whether you’re aware of the trap or not.\nUltimately, during the 10-plus years I diligently tracked my heart rate, steps, active calories, sleep, story engagement time, stress levels, and other metrics, I gained virtually nothing in terms of greater self-knowledge. (I suppose I did learn that I liked to make numbers go up and down, but who doesn’t?) The swirl of data that followed me everywhere did not lend additional meaning or insight to the way I relate to myself, my work, or the important people in my life. In fact, the more I used numerical proxies, the worse I felt about pretty much everything.",
-    "title_zh": "指标不可避免的弱点",
-    "summary_zh": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元性，这可能揭示了关于我和测量本质的一些东西。就像一个洛",
-    "ai_summary": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元…",
-    "title_original": "The inevitable weakness of metrics",
-    "summary_original": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950162"
-  },
-  {
-    "id": "c143c9ec4abe",
-    "title": "突发：父亲在肥胖症代际传递中的作用",
-    "url": "https://linux.do/t/topic/2434260",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-19T08:47:55",
-    "summary": "据了解，springermedicine.com Home Springer Medicine provides trustworthy, tailored, cutting-edge content for medical professionals.",
-    "collected_at": "2026-06-19T10:16:56.502678",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2434260",
-    "title_original": "父亲在肥胖症代际传递中的作用",
-    "summary_original": "springermedicine.com Home Springer Medicine provides trustworthy, tailored, cutting-edge content for medical professionals. Follow us to stay on top of the latest advances in your field. https://www.axios.com/2026/06/19/dad-bod-science [!quote]+ 十多年来，“爸爸身材”一直被人们津津乐道、嘲讽和戏仿，被视为已婚有子女男性不可避免的体型。但这个词的意义远不",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950181"
-  },
-  {
     "id": "183efb0ffed1",
     "title": "Report: Brain-computer interface trials are taking off",
     "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
@@ -95,6 +155,22 @@
     "summary_original": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf",
     "rewritten": true,
     "rewritten_at": "2026-06-19T10:18:29.950195"
+  },
+  {
+    "id": "c143c9ec4abe",
+    "title": "突发：父亲在肥胖症代际传递中的作用",
+    "url": "https://linux.do/t/topic/2434260",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T08:47:55",
+    "summary": "据了解，springermedicine.com Home Springer Medicine provides trustworthy, tailored, cutting-edge content for medical professionals.",
+    "collected_at": "2026-06-19T10:16:56.502678",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2434260",
+    "title_original": "父亲在肥胖症代际传递中的作用",
+    "summary_original": "springermedicine.com Home Springer Medicine provides trustworthy, tailored, cutting-edge content for medical professionals. Follow us to stay on top of the latest advances in your field. https://www.axios.com/2026/06/19/dad-bod-science [!quote]+ 十多年来，“爸爸身材”一直被人们津津乐道、嘲讽和戏仿，被视为已婚有子女男性不可避免的体型。但这个词的意义远不",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T10:18:29.950181"
   },
   {
     "id": "bb693b57939b",
@@ -288,36 +364,6 @@
     "rewritten_at": "2026-06-19T03:35:58.215989"
   },
   {
-    "id": "597492a31bfa",
-    "title": "刚刚，出现了！checkm8以来首个SecureROM重大bug",
-    "url": "https://linux.do/t/topic/2433719",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-19T06:23:50",
-    "summary": "据了解，由网络安全研究机构Paradigm Shift发布，宣布其名为#usbliter8的SecureROM新漏洞。",
-    "collected_at": "2026-06-19T10:16:56.503152",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433719",
-    "title_original": "出现了！checkm8以来首个SecureROM重大bug",
-    "summary_original": "由网络安全研究机构Paradigm Shift发布，宣布其名为#usbliter8的SecureROM新漏洞。 usbliter8源于Synopsys DWC2 USB控制器硬件缺陷，利用DMA缓冲区下溢实现内存写原语，影响A12、A13及S4/S5芯片，可在DFU模式下获得代码执行。 此漏洞被视为checkm8以来首个SecureROM重大bug，对iOS旧设备越狱潜力显著，团队已开源PoC并向苹果负责任披露 需要说明的是，此类漏洞属于是无法通过软件修复的硬件级漏洞 博客https://ps.tc/pages/blog-usbliter8.html 1 个帖子 - 1 位参与者 阅读完整话题",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950304"
-  },
-  {
-    "id": "v2ex-1221502",
-    "title": "深度解读：年近 40，继续私企国企怎么选",
-    "url": "https://www.v2ex.com/t/1221502",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-06-19T03:20:17",
-    "summary": "据了解，80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。",
-    "collected_at": "2026-06-19T10:16:57.472401",
-    "title_original": "年近 40，继续私企国企怎么选",
-    "summary_original": "80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950319"
-  },
-  {
     "id": "3e548ea3a8c9",
     "title": "Gemini CLI将在2026年6月18日 23:59 PT (北京时间6月19日14:59)停止服务，业内人士怎么看？",
     "url": "https://linux.do/t/topic/2433594",
@@ -332,6 +378,36 @@
     "summary_original": "Google官方宣布，Gemini CLI将在2026年6月18日 23:59 PT (北京时间6月19日14:59)停止服务，届时旧版CLI将不再响应请求。 22 个帖子 - 14 位参与者 阅读完整话题",
     "rewritten": true,
     "rewritten_at": "2026-06-19T10:18:29.950327"
+  },
+  {
+    "id": "v2ex-1221502",
+    "title": "深度解读：年近 40，继续私企国企怎么选",
+    "url": "https://www.v2ex.com/t/1221502",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-06-19T03:20:17",
+    "summary": "据了解，80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。",
+    "collected_at": "2026-06-19T14:48:23.369137",
+    "title_original": "年近 40，继续私企国企怎么选",
+    "summary_original": "80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T14:49:59.939665"
+  },
+  {
+    "id": "221cd4605337",
+    "title": "最新动态：Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度",
+    "url": "https://linux.do/t/topic/2433425",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T04:55:05",
+    "summary": "有分析指出，https://x.com/i/status/2067802163498352929 13 个帖子 - 10 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T10:16:56.503273",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433425",
+    "title_original": "Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度",
+    "summary_original": "https://x.com/i/status/2067802163498352929 13 个帖子 - 10 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T10:18:29.950335"
   },
   {
     "id": "e61ac7bb6fb2",
@@ -349,20 +425,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216026"
   },
   {
-    "id": "221cd4605337",
-    "title": "最新动态：Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度",
-    "url": "https://linux.do/t/topic/2433425",
+    "id": "0458d5b96086",
+    "title": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2433373",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T04:55:05",
-    "summary": "有分析指出，https://x.com/i/status/2067802163498352929 13 个帖子 - 10 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T10:16:56.503273",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433425",
-    "title_original": "Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度",
-    "summary_original": "https://x.com/i/status/2067802163498352929 13 个帖子 - 10 位参与者 阅读完整话题",
+    "published": "2026-06-19T04:39:46",
+    "summary": "有分析指出，Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。",
+    "collected_at": "2026-06-19T10:16:56.503366",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433373",
+    "title_original": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心",
+    "summary_original": "Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。首个配套水疗中心将于 2027 年在旧金山开业，提供热水浴、桑拿和扫描服务。 公司计划 2028 年扩展至更多城市并推出第三代设备，目标 2031 年前在全球部署超 5 万台扫描仪，实现每月 10 亿次扫描容量。初期仅提供身体成分图，后续将向 FDA 提交结果以申请更多诊断功能。 Midjourney Medical 2 个帖子 - 2 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950335"
+    "rewritten_at": "2026-06-19T10:18:29.950367"
   },
   {
     "id": "v2ex-1221491",
@@ -383,20 +459,20 @@
     "rewritten_at": "2026-06-19T10:18:29.950353"
   },
   {
-    "id": "0458d5b96086",
-    "title": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2433373",
+    "id": "c34fed8d9243",
+    "title": "突发：claude code 也可以交互了",
+    "url": "https://linux.do/t/topic/2433192",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T04:39:46",
-    "summary": "有分析指出，Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。",
-    "collected_at": "2026-06-19T10:16:56.503366",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433373",
-    "title_original": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心",
-    "summary_original": "Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。首个配套水疗中心将于 2027 年在旧金山开业，提供热水浴、桑拿和扫描服务。 公司计划 2028 年扩展至更多城市并推出第三代设备，目标 2031 年前在全球部署超 5 万台扫描仪，实现每月 10 亿次扫描容量。初期仅提供身体成分图，后续将向 FDA 提交结果以申请更多诊断功能。 Midjourney Medical 2 个帖子 - 2 位参与者 阅读完整话题",
+    "published": "2026-06-19T03:43:48",
+    "summary": "据报道，Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。 4 个帖子 - 3 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T10:16:56.503398",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433192",
+    "title_original": "claude code 也可以交互了",
+    "summary_original": "Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。 4 个帖子 - 3 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950367"
+    "rewritten_at": "2026-06-19T10:18:29.950375"
   },
   {
     "id": "b2bcb2e97ae1",
@@ -413,20 +489,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216054"
   },
   {
-    "id": "c34fed8d9243",
-    "title": "突发：claude code 也可以交互了",
-    "url": "https://linux.do/t/topic/2433192",
+    "id": "d4f2db8f5a95",
+    "title": "突发：Google发表了一篇论文总结了TPU五代的发展历程",
+    "url": "https://linux.do/t/topic/2433044",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T03:43:48",
-    "summary": "据报道，Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。 4 个帖子 - 3 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T10:16:56.503398",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433192",
-    "title_original": "claude code 也可以交互了",
-    "summary_original": "Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。 4 个帖子 - 3 位参与者 阅读完整话题",
+    "published": "2026-06-19T03:12:55",
+    "summary": "有分析指出，arXiv.org Google's Training Supercomputers from TPU v2 to Ironwood: Architectural.",
+    "collected_at": "2026-06-19T03:34:40.660181",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433044",
+    "title_original": "Google发表了一篇论文总结了TPU五代的发展历程",
+    "summary_original": "arXiv.org Google's Training Supercomputers from TPU v2 to Ironwood: Architectural... This paper (to appear in the July/August 2026 issue of IEEE Micro magazine) summarizes five generations of Google s TPUs, from TPU v2 to Ironwood, highlighting their evolution as scalable, resilient, power-efficient",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950375"
+    "rewritten_at": "2026-06-19T03:35:58.216014"
   },
   {
     "id": "f7db370cf36f",
@@ -450,20 +526,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216076"
   },
   {
-    "id": "d4f2db8f5a95",
-    "title": "突发：Google发表了一篇论文总结了TPU五代的发展历程",
-    "url": "https://linux.do/t/topic/2433044",
+    "id": "b4e95cab250e",
+    "title": "深度解读：给他爱要来了！GTA6将于6月25日开启预购",
+    "url": "https://linux.do/t/topic/2432930",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T03:12:55",
-    "summary": "有分析指出，arXiv.org Google's Training Supercomputers from TPU v2 to Ironwood: Architectural.",
-    "collected_at": "2026-06-19T03:34:40.660181",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433044",
-    "title_original": "Google发表了一篇论文总结了TPU五代的发展历程",
-    "summary_original": "arXiv.org Google's Training Supercomputers from TPU v2 to Ironwood: Architectural... This paper (to appear in the July/August 2026 issue of IEEE Micro magazine) summarizes five generations of Google s TPUs, from TPU v2 to Ironwood, highlighting their evolution as scalable, resilient, power-efficient",
+    "published": "2026-06-19T02:50:15",
+    "summary": "据了解，Rockstar Games Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers.",
+    "collected_at": "2026-06-19T03:34:40.660253",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432930",
+    "title_original": "给他爱要来了！GTA6将于6月25日开启预购",
+    "summary_original": "Rockstar Games Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Add Grand Theft Auto VI to your wishlist today on the PlayStation Store or Microsoft Store to get",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216014"
+    "rewritten_at": "2026-06-19T03:35:58.216044"
   },
   {
     "id": "c7f03eb380cc",
@@ -487,20 +563,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216100"
   },
   {
-    "id": "b4e95cab250e",
-    "title": "深度解读：给他爱要来了！GTA6将于6月25日开启预购",
-    "url": "https://linux.do/t/topic/2432930",
+    "id": "9577006e363c",
+    "title": "【不保真】红杉中国、真格、腾讯将联手回购 Manus，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2432891",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T02:50:15",
-    "summary": "据了解，Rockstar Games Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers.",
-    "collected_at": "2026-06-19T03:34:40.660253",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432930",
-    "title_original": "给他爱要来了！GTA6将于6月25日开启预购",
-    "summary_original": "Rockstar Games Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Add Grand Theft Auto VI to your wishlist today on the PlayStation Store or Microsoft Store to get",
+    "published": "2026-06-19T02:41:57",
+    "summary": "据悉，https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ 5 个帖子 - 5 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T03:34:40.660335",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432891",
+    "title_original": "【不保真】红杉中国、真格、腾讯将联手回购 Manus",
+    "summary_original": "https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ 5 个帖子 - 5 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216044"
+    "rewritten_at": "2026-06-19T03:35:58.216064"
   },
   {
     "id": "8fd795d8c6da",
@@ -525,20 +601,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216114"
   },
   {
-    "id": "9577006e363c",
-    "title": "【不保真】红杉中国、真格、腾讯将联手回购 Manus，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2432891",
+    "id": "280bb1394246",
+    "title": "Claude Pro 额度偷偷涨了 50%？有人发现吗，这意味着什么？",
+    "url": "https://linux.do/t/topic/2432816",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T02:41:57",
-    "summary": "据悉，https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ 5 个帖子 - 5 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T03:34:40.660335",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432891",
-    "title_original": "【不保真】红杉中国、真格、腾讯将联手回购 Manus",
-    "summary_original": "https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ 5 个帖子 - 5 位参与者 阅读完整话题",
+    "published": "2026-06-19T02:24:38",
+    "summary": "据报道，昨晚下班前，Claude Pro 周额度已经干到 100%，弹窗提示限制。 今天打开一看，客户端升级后额度显示 67% used 算了一下：已用量没变，占比从 100% 降到 67%，意味着总额度大约从原来的基数涨到了1.",
+    "collected_at": "2026-06-19T03:34:40.660384",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432816",
+    "title_original": "Claude Pro 额度偷偷涨了 50%？有人发现吗",
+    "summary_original": "昨晚下班前，Claude Pro 周额度已经干到 100%，弹窗提示限制。 今天打开一看，客户端升级后额度显示 67% used 算了一下：已用量没变，占比从 100% 降到 67%，意味着总额度大约从原来的基数涨到了1.5 倍左右 有没有其他 Pro 用户也注意到这个变化？有人一样吗？还是我被选中当测试用户了？ 11 个帖子 - 9 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216064"
+    "rewritten_at": "2026-06-19T03:35:58.216094"
   },
   {
     "id": "2446e599d34e",
@@ -562,20 +638,19 @@
     "rewritten_at": "2026-06-18T20:16:50.500072"
   },
   {
-    "id": "280bb1394246",
-    "title": "Claude Pro 额度偷偷涨了 50%？有人发现吗，这意味着什么？",
-    "url": "https://linux.do/t/topic/2432816",
+    "id": "04bc2d9f81f0",
+    "title": "重磅！devin（windsurf）免费用glm5.2和kimi k2.7",
+    "url": "https://linux.do/t/topic/2432730",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T02:24:38",
-    "summary": "据报道，昨晚下班前，Claude Pro 周额度已经干到 100%，弹窗提示限制。 今天打开一看，客户端升级后额度显示 67% used 算了一下：已用量没变，占比从 100% 降到 67%，意味着总额度大约从原来的基数涨到了1.",
-    "collected_at": "2026-06-19T03:34:40.660384",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432816",
-    "title_original": "Claude Pro 额度偷偷涨了 50%？有人发现吗",
-    "summary_original": "昨晚下班前，Claude Pro 周额度已经干到 100%，弹窗提示限制。 今天打开一看，客户端升级后额度显示 67% used 算了一下：已用量没变，占比从 100% 降到 67%，意味着总额度大约从原来的基数涨到了1.5 倍左右 有没有其他 Pro 用户也注意到这个变化？有人一样吗？还是我被选中当测试用户了？ 11 个帖子 - 9 位参与者 阅读完整话题",
+    "published": "2026-06-19T02:05:47",
+    "summary": "如题，今天心血来潮看了下，发现这两个模型都是free 2 个帖子 - 2 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T03:34:40.660484",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432730",
+    "title_original": "devin（windsurf）免费用glm5.2和kimi k2.7",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216094"
+    "rewritten_at": "2026-06-19T03:35:58.216105"
   },
   {
     "id": "38e6e19ecfd2",
@@ -596,19 +671,19 @@
     "rewritten_at": "2026-06-18T14:54:31.249683"
   },
   {
-    "id": "04bc2d9f81f0",
-    "title": "重磅！devin（windsurf）免费用glm5.2和kimi k2.7",
-    "url": "https://linux.do/t/topic/2432730",
+    "id": "3200ca13682f",
+    "title": "ollama cloud glm5.2容量增加一倍，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2432317",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T02:05:47",
-    "summary": "如题，今天心血来潮看了下，发现这两个模型都是free 2 个帖子 - 2 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T03:34:40.660484",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432730",
-    "title_original": "devin（windsurf）免费用glm5.2和kimi k2.7",
+    "published": "2026-06-18T23:11:28",
+    "summary": "（话题已被作者删除） 1 个帖子 - 1 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T03:34:40.660769",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432317",
+    "title_original": "ollama cloud glm5.2容量增加一倍",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216105"
+    "rewritten_at": "2026-06-19T03:35:58.216132"
   },
   {
     "id": "138478d8469e",
@@ -627,21 +702,6 @@
     "title_original": "当 Token 成为商品，AI 基础设施会怎么变化？",
     "rewritten": true,
     "rewritten_at": "2026-06-18T14:54:31.249910"
-  },
-  {
-    "id": "3200ca13682f",
-    "title": "ollama cloud glm5.2容量增加一倍，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2432317",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-18T23:11:28",
-    "summary": "（话题已被作者删除） 1 个帖子 - 1 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T03:34:40.660769",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432317",
-    "title_original": "ollama cloud glm5.2容量增加一倍",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216132"
   },
   {
     "id": "0a368702d056",
@@ -1727,18 +1787,19 @@
     "rewritten_at": "2026-06-18T10:12:05.861217"
   },
   {
-    "id": "v2ex-1221233",
-    "title": "重磅！618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
-    "url": "https://www.v2ex.com/t/1221233",
-    "source": "V2EX",
+    "id": "8385ba4e30b7",
+    "title": "突发：北大科学家下场做脑机接口，种子轮融了近亿元",
+    "url": "https://36kr.com/p/3855480467543042?f=rss",
+    "source": "36氪",
     "lang": "zh",
-    "published": "2026-06-18T01:32:16",
-    "summary": "据了解，跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.",
-    "collected_at": "2026-06-18T10:10:20.415191",
-    "title_original": "618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
-    "summary_original": "跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.5 Flash` / `DeepSeek-V4-Pro`/ `GLM-5.2` 等主流模型。图片视频也支持（`Seedance2`、`gpt-image-2`）。 注册**直接送**$5 ； V 友评论区跟帖留 ID 送$5 ；**邀请**好友充值每笔返 5%，上不封顶，直接划转到余额！ - 官网： https://nbility.dev - API： https://api.nbility.dev #### 价格 - Codex 低价分组 0.08x 倍率，纯血 pro 号",
+    "priority": 4,
+    "published": "2026-06-18T01:34:22",
+    "summary": "有分析指出，文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。",
+    "collected_at": "2026-06-19T14:48:20.896214",
+    "title_original": "北大科学家下场做脑机接口，种子轮融了近亿元",
+    "summary_original": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。 芯生视界团队集合了多位国家“脑计划”脑机接口方向“青年首席”：创始人王茜来自北京大学心理与认知科学学院、IDG麦戈文脑科学研究所。联",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861262"
+    "rewritten_at": "2026-06-19T14:49:59.939700"
   },
   {
     "id": "b8d27273d68c",
@@ -1754,6 +1815,35 @@
     "summary_original": "可能是逐步的，没有的大概需要等一段时间刷新或者更新app试试 13 个帖子 - 13 位参与者 阅读完整话题",
     "rewritten": true,
     "rewritten_at": "2026-06-18T10:12:05.861240"
+  },
+  {
+    "id": "v2ex-1221233",
+    "title": "重磅！618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
+    "url": "https://www.v2ex.com/t/1221233",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-06-18T01:32:16",
+    "summary": "据了解，跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.",
+    "collected_at": "2026-06-18T10:10:20.415191",
+    "title_original": "618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
+    "summary_original": "跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.5 Flash` / `DeepSeek-V4-Pro`/ `GLM-5.2` 等主流模型。图片视频也支持（`Seedance2`、`gpt-image-2`）。 注册**直接送**$5 ； V 友评论区跟帖留 ID 送$5 ；**邀请**好友充值每笔返 5%，上不封顶，直接划转到余额！ - 官网： https://nbility.dev - API： https://api.nbility.dev #### 价格 - Codex 低价分组 0.08x 倍率，纯血 pro 号",
+    "rewritten": true,
+    "rewritten_at": "2026-06-18T10:12:05.861262"
+  },
+  {
+    "id": "88e9d85da1af",
+    "title": "重磅！Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
+    "url": "https://linux.do/t/topic/2427233",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-18T03:36:24",
+    "summary": "据了解，Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。",
+    "collected_at": "2026-06-18T10:10:19.645966",
+    "title_original": "Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
+    "summary_original": "Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。 Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google创办了Character.ai并担任CEO，直到2024年8月通过一项与Google的授权协议重新回归，出任工程副总裁并共同领导Gemini项目。 11 个帖子 - 10 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-18T10:12:05.861251"
   },
   {
     "id": "e304a2af2a1b",
@@ -1777,19 +1867,19 @@
     "rewritten_at": "2026-06-18T02:51:31.380228"
   },
   {
-    "id": "88e9d85da1af",
-    "title": "重磅！Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
-    "url": "https://linux.do/t/topic/2427233",
+    "id": "0c6ead8f2446",
+    "title": "claude design现在支持双向同步，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2427228",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T03:36:24",
-    "summary": "据了解，Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。",
-    "collected_at": "2026-06-18T10:10:19.645966",
-    "title_original": "Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
-    "summary_original": "Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。 Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google创办了Character.ai并担任CEO，直到2024年8月通过一项与Google的授权协议重新回归，出任工程副总裁并共同领导Gemini项目。 11 个帖子 - 10 位参与者 阅读完整话题",
+    "published": "2026-06-18T03:35:39",
+    "summary": "据报道，现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
+    "collected_at": "2026-06-18T10:10:19.646007",
+    "title_original": "claude design现在支持双向同步",
+    "summary_original": "现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861251"
+    "rewritten_at": "2026-06-18T10:12:05.861269"
   },
   {
     "id": "d2c4be182e7f",
@@ -1811,19 +1901,19 @@
     "rewritten_at": "2026-06-18T02:51:31.380258"
   },
   {
-    "id": "0c6ead8f2446",
-    "title": "claude design现在支持双向同步，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2427228",
+    "id": "ed18a776858d",
+    "title": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2427046",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T03:35:39",
-    "summary": "据报道，现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
-    "collected_at": "2026-06-18T10:10:19.646007",
-    "title_original": "claude design现在支持双向同步",
-    "summary_original": "现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
+    "published": "2026-06-18T03:17:00",
+    "summary": "消息称，中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。",
+    "collected_at": "2026-06-18T10:10:19.646054",
+    "title_original": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景",
+    "summary_original": "中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。 该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。 中国邮政 6 个帖子 - 6 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861269"
+    "rewritten_at": "2026-06-18T10:12:05.861283"
   },
   {
     "id": "907aaa70549c",
@@ -1844,19 +1934,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757448"
   },
   {
-    "id": "ed18a776858d",
-    "title": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2427046",
+    "id": "dab679d59359",
+    "title": "深度解读：Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
+    "url": "https://linux.do/t/topic/2426652",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T03:17:00",
-    "summary": "消息称，中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。",
-    "collected_at": "2026-06-18T10:10:19.646054",
-    "title_original": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景",
-    "summary_original": "中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。 该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。 中国邮政 6 个帖子 - 6 位参与者 阅读完整话题",
+    "published": "2026-06-18T02:37:57",
+    "summary": "据了解，https://www.midjourney.com/medical/blogpost https://www.",
+    "collected_at": "2026-06-18T02:49:48.044549",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426652",
+    "title_original": "Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
+    "summary_original": "https://www.midjourney.com/medical/blogpost https://www.midjourney.com/medical 我们正在打造一种颠覆性的全新机器，以重新定义医疗健康的基石以及我们与自身身体的关系，我们曾梦想过一种既像核磁共振（MRI）一样强大，又像去水疗中心一样轻松惬意的体验。今天，我们正在开启通往这一愿景的道路。 我们认为，这种医学成像不仅可以变得普普通通，甚至能成为一种随意的、日常的、真正意义上“想用就用”的体验。它只需要声波、一池水和 60 秒的时间。 第一家水疗中心将于 2027 年在旧金山市中心开业。 看着还挺有科幻感的 1 个帖子 -",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861283"
+    "rewritten_at": "2026-06-18T02:51:31.380165"
   },
   {
     "id": "358e207ac3c7",
@@ -1880,20 +1971,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380309"
   },
   {
-    "id": "dab679d59359",
-    "title": "深度解读：Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
-    "url": "https://linux.do/t/topic/2426652",
+    "id": "2d6444e1d92f",
+    "title": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2426456",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T02:37:57",
-    "summary": "据了解，https://www.midjourney.com/medical/blogpost https://www.",
-    "collected_at": "2026-06-18T02:49:48.044549",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426652",
-    "title_original": "Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
-    "summary_original": "https://www.midjourney.com/medical/blogpost https://www.midjourney.com/medical 我们正在打造一种颠覆性的全新机器，以重新定义医疗健康的基石以及我们与自身身体的关系，我们曾梦想过一种既像核磁共振（MRI）一样强大，又像去水疗中心一样轻松惬意的体验。今天，我们正在开启通往这一愿景的道路。 我们认为，这种医学成像不仅可以变得普普通通，甚至能成为一种随意的、日常的、真正意义上“想用就用”的体验。它只需要声波、一池水和 60 秒的时间。 第一家水疗中心将于 2027 年在旧金山市中心开业。 看着还挺有科幻感的 1 个帖子 -",
+    "published": "2026-06-18T02:16:12",
+    "summary": "据了解，Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。",
+    "collected_at": "2026-06-18T02:49:48.044707",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426456",
+    "title_original": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI",
+    "summary_original": "Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。 Google 2024 年通过一笔约 27 亿美元的 Character.AI 交易，将 Noam Shazeer 及其团队重新纳入 DeepMind，随后担任 Gemini 联合负责人。如今仅两年后，他又宣布加入 OpenAI。 奥特曼发推表示从OpenAI创立之初就非常渴望与Noam合作 12 个帖子 - 10 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380165"
+    "rewritten_at": "2026-06-18T02:51:31.380219"
   },
   {
     "id": "3d1666c95475",
@@ -1918,20 +2009,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380333"
   },
   {
-    "id": "2d6444e1d92f",
-    "title": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2426456",
+    "id": "45eb4d749d2f",
+    "title": "突发：腾讯新出为Agent 打造的专属邮箱服务",
+    "url": "https://linux.do/t/topic/2426264",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T02:16:12",
-    "summary": "据了解，Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。",
-    "collected_at": "2026-06-18T02:49:48.044707",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426456",
-    "title_original": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI",
-    "summary_original": "Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。 Google 2024 年通过一笔约 27 亿美元的 Character.AI 交易，将 Noam Shazeer 及其团队重新纳入 DeepMind，随后担任 Gemini 联合负责人。如今仅两年后，他又宣布加入 OpenAI。 奥特曼发推表示从OpenAI创立之初就非常渴望与Noam合作 12 个帖子 - 10 位参与者 阅读完整话题",
+    "published": "2026-06-18T01:55:34",
+    "summary": "有分析指出，agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。",
+    "collected_at": "2026-06-18T02:49:48.044766",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426264",
+    "title_original": "腾讯新出为Agent 打造的专属邮箱服务",
+    "summary_original": "agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。Agent 一键接入邮箱，请阅读 https://agent.qq.com/doc/cli-setup.md 文档，按照步骤为我安装并配置 Agently Mail CLI。 说实话，这个域名用在这儿有点浪费了，也可能这个邮箱产品只是个过渡，后面还有更大的招？ 接入很简单，就是会给你一段提示词，发给Agent就行了 安装结束，会有一个URL，你复制到浏览器，点击授权就行了，目前只试",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380219"
+    "rewritten_at": "2026-06-18T02:51:31.380244"
   },
   {
     "id": "c767b5e1d460",
@@ -1955,20 +2046,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380348"
   },
   {
-    "id": "45eb4d749d2f",
-    "title": "突发：腾讯新出为Agent 打造的专属邮箱服务",
-    "url": "https://linux.do/t/topic/2426264",
+    "id": "8b612cf5b5c7",
+    "title": "突发：黄仁勋：没有 AMD 就没英伟达今天",
+    "url": "https://linux.do/t/topic/2426229",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T01:55:34",
-    "summary": "有分析指出，agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。",
-    "collected_at": "2026-06-18T02:49:48.044766",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426264",
-    "title_original": "腾讯新出为Agent 打造的专属邮箱服务",
-    "summary_original": "agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。Agent 一键接入邮箱，请阅读 https://agent.qq.com/doc/cli-setup.md 文档，按照步骤为我安装并配置 Agently Mail CLI。 说实话，这个域名用在这儿有点浪费了，也可能这个邮箱产品只是个过渡，后面还有更大的招？ 接入很简单，就是会给你一段提示词，发给Agent就行了 安装结束，会有一个URL，你复制到浏览器，点击授权就行了，目前只试",
+    "published": "2026-06-18T01:53:02",
+    "summary": "消息称，黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。",
+    "collected_at": "2026-06-18T02:49:48.044848",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426229",
+    "title_original": "黄仁勋：没有 AMD 就没英伟达今天",
+    "summary_original": "黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。他白天在 AMD 上班，晚上赶去上课，靠半工半读完成了硕士学位。 他把加入 AMD 视为人生关键选择，这段经历为他后来创办英伟达打下了技术与人力基础。如今英伟达已成为全球 AI 算力巨头。此外，AMD 现任 CEO 苏姿丰其实是他的远亲，但两人此前公开交集并不多。 快科技 黄仁勋：没有AMD就没英伟达今天 他们赞助我读硕士 快科技6月17日消息，近日黄仁勋在公开访谈中聊起了自己早年的求学往事，他坦言当年大学刚毕业的时候，根本负担不起继续读硕士的相关费用，是AMD资助他完成了硕士学业，",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380244"
+    "rewritten_at": "2026-06-18T02:51:31.380269"
   },
   {
     "id": "9ef08ab1d787",
@@ -1993,20 +2084,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757714"
   },
   {
-    "id": "8b612cf5b5c7",
-    "title": "突发：黄仁勋：没有 AMD 就没英伟达今天",
-    "url": "https://linux.do/t/topic/2426229",
+    "id": "bc1f4ac72482",
+    "title": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2425787",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T01:53:02",
-    "summary": "消息称，黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。",
-    "collected_at": "2026-06-18T02:49:48.044848",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426229",
-    "title_original": "黄仁勋：没有 AMD 就没英伟达今天",
-    "summary_original": "黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。他白天在 AMD 上班，晚上赶去上课，靠半工半读完成了硕士学位。 他把加入 AMD 视为人生关键选择，这段经历为他后来创办英伟达打下了技术与人力基础。如今英伟达已成为全球 AI 算力巨头。此外，AMD 现任 CEO 苏姿丰其实是他的远亲，但两人此前公开交集并不多。 快科技 黄仁勋：没有AMD就没英伟达今天 他们赞助我读硕士 快科技6月17日消息，近日黄仁勋在公开访谈中聊起了自己早年的求学往事，他坦言当年大学刚毕业的时候，根本负担不起继续读硕士的相关费用，是AMD资助他完成了硕士学业，",
+    "published": "2026-06-18T00:45:56",
+    "summary": "据报道，Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken.",
+    "collected_at": "2026-06-18T02:49:48.045192",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425787",
+    "title_original": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。",
+    "summary_original": "Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken... By applying machine-learning models to single-cell brain recordings taken from humans in conversation, a research team identified both individual and collective neuronal activity that reflected",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380269"
+    "rewritten_at": "2026-06-18T02:51:31.380291"
   },
   {
     "id": "81f02ed98f12",
@@ -2027,20 +2118,20 @@
     "rewritten_at": "2026-06-17T19:35:48.309329"
   },
   {
-    "id": "bc1f4ac72482",
-    "title": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2425787",
+    "id": "178cf71bdb60",
+    "title": "刚刚，两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
+    "url": "https://linux.do/t/topic/2425735",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T00:45:56",
-    "summary": "据报道，Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken.",
-    "collected_at": "2026-06-18T02:49:48.045192",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425787",
-    "title_original": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。",
-    "summary_original": "Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken... By applying machine-learning models to single-cell brain recordings taken from humans in conversation, a research team identified both individual and collective neuronal activity that reflected",
+    "published": "2026-06-18T00:39:07",
+    "summary": "据报道，TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone.",
+    "collected_at": "2026-06-18T02:49:48.045339",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425735",
+    "title_original": "两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
+    "summary_original": "TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone... Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations,",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380291"
+    "rewritten_at": "2026-06-18T02:51:31.380303"
   },
   {
     "id": "1d907aaa2f0e",
@@ -2064,20 +2155,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757726"
   },
   {
-    "id": "178cf71bdb60",
-    "title": "刚刚，两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
-    "url": "https://linux.do/t/topic/2425735",
+    "id": "c3522299a1d3",
+    "title": "库克：涨价不可避免，苹果计划上调产品价格。，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2425614",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T00:39:07",
-    "summary": "据报道，TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone.",
-    "collected_at": "2026-06-18T02:49:48.045339",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425735",
-    "title_original": "两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
-    "summary_original": "TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone... Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations,",
+    "published": "2026-06-17T23:52:18",
+    "summary": "有分析指出，苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。",
+    "collected_at": "2026-06-18T02:49:48.045470",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425614",
+    "title_original": "库克：涨价不可避免，苹果计划上调产品价格。",
+    "summary_original": "苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。 库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。 https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1 难道我的老设备要升值了？ 19 个帖子 - 19 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380303"
+    "rewritten_at": "2026-06-18T02:51:31.380343"
   },
   {
     "id": "df07fe6f5184",
@@ -2102,40 +2193,6 @@
     "rewritten_at": "2026-06-17T20:06:20.757745"
   },
   {
-    "id": "c3522299a1d3",
-    "title": "库克：涨价不可避免，苹果计划上调产品价格。，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2425614",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-17T23:52:18",
-    "summary": "有分析指出，苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。",
-    "collected_at": "2026-06-18T02:49:48.045470",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425614",
-    "title_original": "库克：涨价不可避免，苹果计划上调产品价格。",
-    "summary_original": "苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。 库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。 https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1 难道我的老设备要升值了？ 19 个帖子 - 19 位参与者 阅读完整话题",
-    "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380343"
-  },
-  {
-    "id": "a6c236be12e6",
-    "title": "突发：极佳视界再获10亿元B2轮融资，首款家用机器人拾光S1引发强烈反响",
-    "url": "https://www.infoq.cn/article/WTOJWohLb3Ie7uhNfceO?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-06-17T18:17:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-06-17T11:23:20.046324",
-    "content_text": "整理 | 华卫\n近日，物理 AGI 全球领军企业极佳视界再获 10 亿元 B2 轮融资，本轮融资由新加坡顶级跨境投资机构狮城资本（多轮持续追投）、中国-比利时基金（中比基金）、建投投资、万向钱潮、复星锐正、华盖创赢、金创投、德屹资本、华仓资本、元石基金等全球顶级国家队基金、产业资本、财务机构、国资平台共同投资，国中资本、达晨财智、图灵资管等多个老股东持续超额加注；全球顶配资本阵容齐聚，市场投资意向远超原定募资目标。\n据悉，本轮融资将主要用于“双金字塔”数据与算法体系的持续投入、物理 AGI 基础模型的研发迭代，以及 C 端家庭场景与 B 端工业场景的规模化落地。全球顶级国家队基金、财务机构、产业资本与国资平台的共同选择，背后是对极佳视界“世界模型驱动物理 AGI 技术路线＋生产力级落地能力”的坚定看好。\n自成立起，极佳视界就坚信“世界模型是语言模型之后下一个最重要的事情”，坚持以基础模型为核心的物理 AGI 全栈路线，并加速生产力场景真实落地。此前 2026 年 3 月和 4 月，极佳视界已分别完成 10 亿元 Pre-B 轮和 15 亿元 B1 轮融资。\n“双金字塔”驱动双模型体系，系统化加速物理 AGI 突破\n过去 3 年多来，数字 AGI 的发展举世瞩目：从 GPT-3 的智能涌现，到 ChatGPT 让数字智能惠及全球亿万普通人，再到 Claude Code 带来专家级别的数字智能。数字 AGI 已经彻底改变了数字世界，释放出令人惊叹的数字生产力。而经过几十年的长期积累和近年的产业级探索，物理 AGI 的征程正沿着与数字 AGI 基本一致的路径展开。不同之处在于，物理 AGI 将把这场智能革命从数字世界带入物理世界，从无限的数字生产力走向无限的物理生产力。\n极佳视界创始人、CEO 黄冠表示，“GPT-3 时刻，实现了模型能力的智能涌现；ChatGPT 时刻，生产力惠及到了每一个普通人；Claude Code 时刻，数字智能模型能力达到了专业领域专家级别。作为在国内最早布局世界模型的物理 AGI 领先企业，极佳视界相信物理 AGI 未来也将经历类似阶段，不同之处在于，物理 AGI 将直接作用于真实的物理世界。它带来的不仅是信息效率的提升，更是生产与生活方式的重塑，因此对经济与社会的影响也将更为深远。”\n沿着这一判断，极佳视界正系统化加速物理 AGI 基础模型三个阶段的到来：从智能涌现，到普通技能，再到专业技能。智能涌现层面，未来 GigaBrain-3 有望在模型能力上实现 GPT-3 级别的进展；C 端普通技能普惠层面，首款面向家庭的产品拾光 S1 已在大众层面引发强烈反响，未来拾光 S2/S3 系列有望实现 C 端在技术与产品上的产业级突破；B 端专业领域技能层面，工业场景应用落地正在规模化展开，剑指物理智能在高级技能生产力场景的专家级突破。\n要让物理 AGI 走向产业爆发，先要回答一个根本问题：物理通用智能的 Scaling，究竟建立在什么之上？\n极佳视界给出的答案，是过去三年沉淀的物理 AGI 底层方法论：全球首个物理 AGI“双金字塔”体系。\n物理通用智能的 Scaling 面临两大瓶颈：一是缺乏规模化、可描述物理规律的数据体系；二是缺乏能够高效学习物理规律的算法架构。围绕这两个瓶颈，极佳视界给出“双金字塔”解决路径：一座面向数据，一座面向算法，缺一不可。数据金字塔自底向顶分为五层：互联网视频数据、真人数据、世界模型模拟器、仿真合成数据、真机数据。\n极佳视界是行业首个对五层完整数据金字塔进行系统性全栈布局的公司，构建了从轮臂机器人本体拾光 S1、低成本真机数采硬件 Maker M01、低成本手持数采硬件 U-01、低成本 Ego 数采硬件 E-01，到自研具身世界模型平台 GigaWorld-0 的完整全栈软硬件体系；公司围绕真机与无本体采集持续积累大规模训练数据，预计到 2026 年底实现累计 100 万小时，支撑模型在不同任务、场景与本体之间实现更强的泛化能力。\n算法金字塔自底向顶分为三层：世界模拟、动作对齐、经验强化。\n极佳视界是在三层算法金字塔和五层数据金字塔都拥有领先布局的公司，并基于“双金字塔”打造了“世界生成-行动”双模型体系：世界行动模型把世界模型的理解与预测转化为机器人的行动策略；世界生成模型理解、模拟并生成物理世界，为行动模型提供数据与仿真底座以及预训练参数。\n- GigaBrain-0：世界模型驱动的自研具身 VLA 大模型，在全球规模最大的真机评测 RoboChallenge 中以 51.67%的任务成功率获得全球第一，领先 Physical Intelligence 的π0.5 接近 10 个百分点；\n- GigaBrain-0.5M*：全球首个以“世界模型主导的经验学习”为核心的物理智能体原生范式，通过“世界模型+强化学习”实现自我进化，高难度长时程任务成功率接近 100%；\n- GigaWorld-Policy：打破“速度-性能-效率”不可能三角的世界动作模型，实现 10 倍推理速度、10 倍训练效率提升，任务成功率提升约 30 个百分点；在全球权威的面向家庭移动操作任务评测平台 RoboCasa365 上击败 Nvidia GR00T N1.5、PI0.5 等获得全球第一，并成为榜单首个登顶的世界动作模型。\n- GigaWorld-0：全球首个验证“世界模型生成数据能有效提升真实机器人性能”的里程碑式工作，2025 年 12 月发布并开源，GitHub 开源代码斩获 1.5k+ Star；\n- GigaWorld-1：全球领先的动作条件世界模型（AC-WM），在权威评测 WorldArena 上以综合得分 62.34 击败谷歌、英伟达、阿里等国际顶尖机构的模型获得全球第一，是榜单首个突破 60 分的模型；\n- DriveDreamer：全球首个面向真实物理世界的自动驾驶世界模型，获 NVIDIA Oral Presentation 邀请、ECCV 2024 最具影响力论文之一，率先实现世界模型的大规模产业落地。\n“世界行动模型与世界生成模型缺一不可、相辅相成、螺旋上升，共同构成物理 AGI 的基础模型，加速物理 AGI 走向‘GPT-3’时刻。”\n基于这一体系，极佳视界首次公布物理 AGI 基础模型的 12 个月路线图：GigaBrain-1 将于 2026 年第三季度发布，成为全球首个基于“双金字塔”体系打造的物理 AGI 基础模型；GigaBrain-2、GigaBrain-3 加速 Scaling，其中 GigaBrain-3 将基于 1000 万小时视频数据与 100 万小时世界-动作数据进行训练，剑指物理 AGI 的“GPT-3 时刻”。\nC 端和 B 端齐头并进，加速生产力场景落地\n围绕统一的世界模型能力，极佳视界形成两类产品与服务：一类是面向行业伙伴输出基础模型能力的基础模型服务，通过软件、API、授权等方式赋能本体厂商、自主系统开发商与工业客户；另一类是将模型能力直接带入真实物理世界的 AGI 原生产品，以面向家庭的拾光系列与面向工业的 Maker 系列为代表。C 端进家庭、B 端进工厂，两条线并行回答物理 AGI 在哪里兑现的问题。\n在 C 端，极佳视界推出家庭场景子品牌“拾光 SeeLight”。其首款产品、全球首个进入真实家庭的通用人形机器人拾光 S1，已拿下国内首个真实家庭场景百台订单，并将于 2026 年第三季度开启规模化运营；下一代家庭通用机器人拾光 S2 也将于第三季度发布，真实家庭创始版预定通道将同期同步开启。沿着拾光 S2/S3 的产品节奏，C 端正对应物理 AGI 的 ChatGPT 时刻，让普通技能在真实家庭场景中被广泛应用。\n在 B 端，一方面，面向工业制造场景，极佳视界正从单点验证迈向规模化量产。2026 年 4 月，极佳视界联合一汽模具、阿里云，完成国内首个具身智能机器人在真实工业制造场景的全流程解决方案落地，世界模型 GigaWorld、具身基础模型 GigaBrain 与物理 AGI 原生本体 Maker H01“三件套”进入一汽模具真实工厂，围绕箱体拆垛、跨区域搬运、动态避障、精准操作等高频任务，将传统自动化方案数月的场景适配周期压缩至数周。\n2026 年 6 月，极佳视界宣布规划三年内联合隆盛科技在无锡部署 1000 台搭载极佳视界世界模型具身大脑与 Maker 系列的通用机器人，这是全球首次由物理智能基础模型驱动的通用机器人在工业场景开启千台级规模化落地，标志着国内具身智能彻底告别小范围试点、全面迈入工业场景规模化量产周期。\n另一方面，极佳视界的自动驾驶世界模型 DriveDreamer 系列已成为行业代表性基础设施，以世界模型为核心的新一代驾驶模拟器，已与多家国内头部主机厂、海外及合资主机厂，以及 AI 芯片、Tier 1 巨头达成签约定点与量产合作，服务海内外头部主机厂与自动驾驶公司超 30 家。以工业系列产品为代表的 B 端布局，正对应物理 AGI 的 Claude Code 时刻：高级技能在生产力场景中的突破。\n两条线并行，持续积累的真实数据与商业闭环进一步反哺“双金字塔”的数据底座，驱动“场景—数据—模型—产品—生态”飞轮。\n让物理智能服务千行百业、千家万户\n成立于 2023 年的极佳视界，核心团队完整经历了 CV、自动驾驶、具身智能、世界模型等物理 AI 过去十年的发展历程，并在每个阶段的技术创新和产业落地都持续做出行业领先的世界级成果。\n在 CV 时代，团队多次主导获得 FRVT、COCO、VOT 等全球最具影响力视觉 AI 比赛的世界冠军，并实现大规模产业落地；在自动驾驶时代，团队提出的 BEVDet 等系列工作是全球最有影响力的自动驾驶 BEV 范式之一，长期排名 nuScenes 全球第一，并实现规模化量产落地，还主导了地平线 AIDI 平台等行业最大规模的数据闭环产品、以及百度 Apollo 仿真框架的研发和商业化落地；在世界模型和具身智能时代，DriveDreamer 系列是全球最早面向物理世界的世界模型代表性工作，GigaBrain、GigaWorld 系列持续引领具身基模与世界模型的技术突破和产业落地。\n极佳视界创始人兼 CEO 黄冠是清华大学自动化系创新领军工程博士，曾担任地平线视觉感知技术负责人、鉴智机器人合伙人兼算法副总裁，并拥有微软亚洲研究院、三星中国研究院等顶尖研究机构工作经历。\n黄冠博士完整经历过去十年物理 AI 的技术和产业发展历程，多次带领团队获得全球权威 AI 比赛世界冠军，在物理 AI 方向兼具丰富的技术创新、产业落地和连续创业经验。\n极佳视界模型团队核心成员还包括前互联网大厂副总裁架构专家、引用近 2 万次的世界前 2%科学家、博士期间超 10 篇顶会一作的世界模型顶尖科学家、超过 10 年物理 AI 全栈量产经验的产业专家、华为天才少年获得者、万卡集群线性加速的顶尖算法和 Infra 专家等顶尖人才。\n在人形本体产研方向，极佳视界汇集了国内 TOP 级出货量机器人企业的研发负责人，累计主导了数千台人形机器人产品的研发和交付。产业团队则来自地平线、阿里云、博世、百度等科技巨头高管专家，在物理 AI 方向拥有超 20 年超 30 亿的主导商业落地经验。\nAGI 正在带来全新的生产力变革。但是，AGI 不该只停留在屏幕里，应该从数字世界进入物理世界。在人口结构变化与产业转型升级的大背景下，真正服务实体经济、服务每一个家庭，这正是 AGI 进入物理世界的社会意义，也是极佳视界始终坚持这条路线的初心所在。极佳视界正在把骨子里的物理 AGI 信仰，一步一步变成真实的产品，让物理 AGI 服务每一个人。\n本轮融资后，极佳视界将加大在“双金字塔”数据与算法体系上持续投入，加快物理 AGI 基础模型的研发迭代，加速 C 端家庭场景与 B 端工业场景的规模化落地。把世界模型驱动的物理智能转化为可规模落地的先进生产力，加快培育形成新质生产力，高水平赋能新型工业化，为千行百业、千家万户的高质量发展注入新动能。",
-    "content_source": "trafilatura",
-    "content_chars": 5020,
-    "content_excerpt": "整理 | 华卫\n近日，物理 AGI 全球领军企业极佳视界再获 10 亿元 B2 轮融资，本轮融资由新加坡顶级跨境投资机构狮城资本（多轮持续追投）、中国-比利时基金（中比基金）、建投投资、万向钱潮、复星锐正、华盖创赢、金创投、德屹资本、华仓资本、元石基金等全球顶级国家队基金、产业资本、财务机构、国资平台共同投资，国中资本、达晨财智、图灵资管等多个老股东持续超额加注；全球顶配资本阵容齐聚，市场投资意向远超原定募资目标。\n据悉，本轮融资将主要用于“双金字塔”数据与算法体系的持续投入、物理 AGI 基础模型的研发迭代，以及 C 端家庭场景与 B 端工业场景的规模化落地。全球顶级国家队基金、财务机构、产业资本与国资平台的共同选择，背后是对极佳视界“世界模型驱动物理 AGI 技术路线＋生产力级落地能力”的坚定看好。\n自成立起，极佳视界就坚信“世界模型是语言模型之后下一个最重要的事情”，坚持以基础模型为核心的物理 AGI 全栈路线，并加速生产力场景真实落地。此前 2026 年 3 月和 4 月，极佳视界已分别完成 10 亿元 Pre-B 轮和 15 亿元 B1 轮融资。\n“双金字塔”驱动双模型体系，系统化加速物理 AGI 突破\n过去 3 年多来，数字 AGI 的发展举世瞩目：从 GPT-3 的智能涌现，到 ChatGPT 让数字智能惠及全球亿万普通人，再到 Claude Code 带来专家级别的数字智能。数字 AGI 已经彻底改变了数字世界，释放出令人惊叹的数字生产力。而经过几十年的长期积累和近年的产业级探索，物理 AGI 的征程正沿着与数字 AGI 基本一致的路径展开。不同之处在于，物理 AGI 将把这场智能革命从数字世界带入物理世界，从无限的数字生产力走向无限的物理生产力。\n极佳视界创始人、CEO 黄冠表示，“GPT-3 时刻，实现了模型能力的智能涌现；ChatGPT 时刻，生产力惠及到了每一个普通人；Claude Code 时刻，数字智能模型能力达到了专业领域专家级别。作为在国内最早布局世界模型的物理 AGI 领先企业，极佳视界相信物理 AGI 未来也将经历类似阶段，不同之处在于，物理 AGI 将直接作用于真实的物理世界。它带来的不仅是信息效率的提升，更是生产与生活方式的重塑，因此对经济与社会的影响也将更为深远。”\n沿着这一判断，极佳视界正系统化加速物理 AGI 基础模型三个阶段的到来：从智能涌现，到普通技能，再到专业技能。智能涌现层面，未来 GigaBrain-3 有望在模型能力上实现 GPT-3 级别的进展；C 端普通技能普惠层面，首款面向家庭的产品拾光 S1 已在大众层面引发强烈反响，未来拾光 S2/S3 系列有望实现 C 端在技术与产品上的产业级突破；B 端专业领域技能层面，工业场景应用落地正在规模化展开，剑指物理智能在高级技能生产力场景的专家级突破。\n要让物理 AGI 走向产业爆发，先要回答一个根本问题：物理通用智能的 Scaling，究竟建立在什么之上？\n极佳视界给出的答案，是过去三年沉淀的物理 AGI 底层方法论：全球首个物理 AGI“双金字塔”体系。",
-    "title_original": "极佳视界再获10亿元B2轮融资，首款家用机器人拾光S1引发强烈反响",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.309329"
-  },
-  {
     "id": "0edfac96a3c4",
     "title": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国，这意味着什么？",
     "url": "https://linux.do/t/topic/2425464",
@@ -2152,20 +2209,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757692"
   },
   {
-    "id": "a931b4f02ae4",
-    "title": "刚刚，“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
-    "url": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
+    "id": "a6c236be12e6",
+    "title": "突发：极佳视界再获10亿元B2轮融资，首款家用机器人拾光S1引发强烈反响",
+    "url": "https://www.infoq.cn/article/WTOJWohLb3Ie7uhNfceO?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "priority": 3,
-    "published": "2026-06-17T18:01:54",
+    "published": "2026-06-17T18:17:00",
     "summary": "点击查看原文>",
-    "collected_at": "2026-06-17T11:23:20.046359",
-    "content_text": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。\n正如视频所见，整个过程并不优雅，甚至有点笨：角度偏一些、力度大一点，卡片就会滑落。但它会一次次试、一次次修正，\n最后总能找到更合适的着力点\n。\n对实验结果感到诧异的不只有你。就连橡木果机器人（Acorn Robot）的发起人姜峣（清华机械工程博士、哈佛大学神经科学博士后）都称之为“惊喜”。“它不是一次成功，”他回忆道，“但试了八九次之后，它竟然自己找到了办法。”\n谈及此处，姜峣的眼神里仍带着兴奋，像极了第一次在语言模型身上感受到智能涌现。他将机器人这套\n“靠自己摸索出来的策略”\n称之为\n“本能驱动下的行为涌现”\n；驱动它的，是橡木果的端侧自主决策模型 Natus。\n该模块是橡木果面向 B 端柔性制造场景的首款产品，目前已走完国内 Top1 化妆品企业的概念验证（POC）阶段，实现了规模化部署。\n在橡木果的研发管线里，还有更多形态的执行模块。它们每天孜孜不倦地练习抓取各种物品：从矿泉水瓶到橡胶软球，从香蕉到豆腐，以及异形不规则件。\n图注：橡木果冷启动自主探索抓取各类异形物体\n这些看似笨拙的试探，都指向了同一个发现：\n如果机器人在几乎没有“示范数据模板”的情况下，依然能靠实践摸索出有效策略，\n那执行层真正缺的，可能并不是更多的轨迹数据，\n而是一套能\n激发它“先动起来、先试起来”的底层机制\n。\n这也是姜峣面对当前主流具身路线最犀利的反思：VLA、世界模型、仿真学习并非毫无价值，但它们太容易在操作执行的“最后一厘米”掉链子。\n执行侧：具身智能最沉默的困局\n无论是试图端到端闭环的 VLA，还是推演物理未来的“世界模型”，本质上都带着语言模型“大力出奇迹”的惯性：以为只要看过的视频够多、数据喂得够足，操作智能就能自然涌现。但一旦涉足真实的物理交互，这套逻辑无疑将撞上两座大山：\n接触与本体\n。\n操作的本质是\n物理接触\n，摩擦、阻尼、力传导……这些现在世界里无处不在的变量，\n在世界模型却难以稳定建模\n。它或许能精准地生成一段“机器人抓取水杯”的预测视频，但却无法算出指尖与杯壁接触瞬间的相对摩擦，更无法预判玻璃滑落前那微小的形变。\n视觉上的“看起来会”，掩盖不了执行层的“做不到”。\n此外，操作必须通过具体的本体去执行，而每台机器人的关节磨损、装配松紧都有微小差异。橡木果团队做过对比实验：两台同款夹爪，采用同一套模型参数，\n仅仅是导轨松紧存在差异\n，在执行侧的效果也会大相径庭。\n接触的不可预测与本体的微小差异，注定了数据驱动的路线是个填不满的无底洞。\n行为模式难以穷尽，模型训练必须覆盖所有场景和硬件偏差\n，但哪怕全球最大的开源机器人数据集已达到百万回合的运动轨迹，\n依然无法激发出模型在执行层的泛化能力。\n图注：Open X-Embodiment (OXE) 目前全球最大的开源机器人数据集，包含来自全球 34 个研究实验室的 22 种不同机器人载体收集的超过一百万个机器人回合。\n更要命的是，在按秒计费的产线上，没人等得起大模型数秒才能走完的推理闭环，VLA 动辄数秒的延迟，连进场作业的资格都没有。\n这让姜峣坚信：\n没有绝对通用的最好模型，只有最适配这台机器的模型。\nVLA 想用数据解决操作问题，但采集成百上千小时的高质量遥操作数据，本身就需要极高的操作门槛。\n“操作一定要在实践中学习，但实践的前提是你必须先能够实践起来。”\n这是姜峣对于机器人执行的第二个关键判断，它揭示了 VLA 在执行侧的死穴，同时也是橡木果“另起炉灶”的起点。\n跨界学科撞出的无人区\n这套判断，并非从文献推导来的。\n在清华机械工程系读博期间，姜峣天天和阻抗控制、力学建模打交道，这让他对物理交互有着根深蒂固的直觉：\n操作的本质是力学行为，而非视觉问题\n。\n2016 年，他去哈佛做神经科学博士后，研究方向变成了人脑的运动控制。实验室做了大量感知干扰实验：屏蔽视觉、干扰触觉，观察人手操作的变化。他发现，无论怎么干扰，\n人类最基本的抓取动作始终不变。\n“那个永远不变的部分，就是本能，”\n姜峣意识到。语言没环境学不会，但没人教过婴儿怎么抓东西，全人类却抓得高度一致。这不是因为见过了足够多的场景，而是因为有一套基于触觉和力学的先天机制。\n两套看起来八竿子打不着的学科语言在姜峣身上对齐了：\n操作的本质不是拟合视觉轨迹，而是力学规律；人类的通用操作能力，源于本能，而非数据。\n把“本能”移植给机器人，这在当时是绝对的“无人区”。2018 年回国建实验室时，“具身智能”还没出圈，VLA 尚未大行其道，同行觉得他在讲玄学，投资人听不懂……\n姜峣没有急着说服外界，\n而是极其审慎地培养同路人\n：实验室会要求大二便进组观察，先看能力，更看“是否理解数据驱动解决不了执行侧死结、是否相信本能”。算法再强但不认同这一点的人，他不要。新成员进组，必须经实验室全体博士生认可。最长的一位，更是跟了他 10 年。\n2024 年创业时，\n组里 8 位博士一致选择加入了橡木果\n。更罕见的是，这些人私下有个共识：\n如果公司哪天不坚守“本能驱动”，他们就不继续效力。\n这不是创业故事里常见的情怀，而是认知共识在对抗行业惯性前，必须建立的防线。\n因为他们要找的，是“操作层面的万有引力”。\n是规律，不是规则\n这意味着必须放弃拟合轨迹的执念。牛顿没有穷尽每一条运动轨迹，而是用一条不含任何运动参数的万有引力定律，支配了所有运动。姜峣把同样的逻辑搬到了操作上：\nVLA 在学轨迹，橡木果在找规律。\n规则是把操作算法写死，而规律只给约束。基于对物理交互的下探，姜峣将这条规律提炼为三类操作本能：\n定向本能\n解决“去哪”——与视觉协同，指引末端向目标移动，就像婴儿看到移动物体时自然转头追随；\n探索本能\n解决“怎么碰”——这是最复杂、也最体现智能涌现的一环。接触发生后，机器人不依赖预设程序或模仿，而是沿物体表面自主试探，寻找稳定的接触构型；\n执行交互本能\n解决“怎么抓”——以“滑移最小化”为核心，实时调节抓取力度。抓豆腐时轻柔，抓锤子时紧实，装配时自适应阻力。所有调控全凭触觉实时反馈，无需任何训练数据。\n没有人告诉开篇的那个夹爪“从侧面撬卡片”，它只有“找到稳定接触”的底层期望，撬的动作便\n在物理约束下自然涌现\n。\n但要让这套本能真正闭环，必须跨过一个关键技术门槛：\n滑移感知\n。“就像你站在高铁上，想感知车厢和地面的相对速度，”姜峣解释，“你嵌在其中一方，几乎没有参照物。”\n团队花了 7 年，迭代十余版原型机，\n才把微米级滑移感知做到稳定可用\n。有了它，机器人遇到任何物体，都能在接触中实时感知“要滑了”并自动修正——不需要提前知道物体是什么。\n这也是零数据冷启动能够成立的物理基石。\n有了这三套“本能规律”，便可激发机器的无穷多行为。\nNatus 与 Magis：从本能到技能\n被 Natus 模型驱动的“行为涌现”，在端侧可实时控制：200Hz 响应，毫秒级延时，无云端依赖，出厂时针对具体硬件的力学特性单独适配。它的核心使命，就是解开前文那个“没能力就不能实践”的死结：\n让机器人“第一天上产线就能用”\n。\n但一直靠本能探索效率太低，这便是第二层模型 Magis 存在的意义。\nNatus 探索产生的数据，不是普通的视频轨迹，\n而是带有触觉语义的记录\n：视觉看到“一根香蕉”，触觉同步标注“重 120 克，质心偏左，表皮粗糙”。\n这类带力学标注的视觉数据送入 Magis 训练，得到的技能模型对物理世界的理解，远比纯视觉数据深得多——\n它知道怎么抓，而不只是看起来像在抓。\nMagis 成熟后，熟悉场景可直接调用技能，陌生场景则退回 Natus 探索，新数据再沉淀进 Magis。一方面本能持续涌现，可以兜底；另一方面技能越积越厚，不断进化。\n“我们颠覆了现在所有数据采集的方式，”姜峣说，“\n最好的数据来源不是仿真，不是人工遥操，而是产品自己在真实物理世界里跑出来的\n。”\n换产不停线：零数据的真实价码\n这套“自己跑出数据、自己长出技能”的能力，最迫切的场景在哪？\n橡木果选择了\n柔性制造\n，姜峣认为，\n这是权衡过执行侧门槛和市场痛点后最佳的交叉点。\n化妆品 ODM 行业是典型。SKU 超百种，几周一换，每次换产就要停线调参，\n它的痛点不是机器不够快，是机器认不出新物料\n。更棘手的是物料本身：粉饼极度易碎，稍用力就留印；香薰灯芯细软不均，力大了拔出，力小了拽不动。\n这类任务无法用规则覆盖，VLA 训练成本极高，传统自动化束手无策。\n但对 Natus 来说，换了 SKU，只需自己探索，不停线、不调参、不叫工程师，\n这才是“零数据冷启动”对产线的真实价值。\n据介绍，橡木果在国内头部化妆品企业完成 POC，从启动到验证不到两个月，随即进入规模化部署，在手订单突破 2000 万元。\n图注：具身智能的两条技术路径：自上而下数据拟合 vs 自下而上本能驱动\n对于技术路线更长期的判断，姜峣认为，\nNatus 和大模型从来不是竞争，而是分工\n：大模型负责理解任务、规划步骤，Natus/Magis 负责毫秒级的物理执行，\n一个做规划，一个做操作，接口协同，各司其职。\n这不是妥协，而是回归操作本质的必然。就像生物进化把操作反射交给了脊髓，而不是每次触觉都等大脑重新决策——这个判断，从他 8 年前在哈佛和清华的跨界碰撞中，就没变过。",
-    "content_source": "readability",
-    "content_chars": 4153,
-    "content_excerpt": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。",
-    "title_original": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
+    "collected_at": "2026-06-17T11:23:20.046324",
+    "content_text": "整理 | 华卫\n近日，物理 AGI 全球领军企业极佳视界再获 10 亿元 B2 轮融资，本轮融资由新加坡顶级跨境投资机构狮城资本（多轮持续追投）、中国-比利时基金（中比基金）、建投投资、万向钱潮、复星锐正、华盖创赢、金创投、德屹资本、华仓资本、元石基金等全球顶级国家队基金、产业资本、财务机构、国资平台共同投资，国中资本、达晨财智、图灵资管等多个老股东持续超额加注；全球顶配资本阵容齐聚，市场投资意向远超原定募资目标。\n据悉，本轮融资将主要用于“双金字塔”数据与算法体系的持续投入、物理 AGI 基础模型的研发迭代，以及 C 端家庭场景与 B 端工业场景的规模化落地。全球顶级国家队基金、财务机构、产业资本与国资平台的共同选择，背后是对极佳视界“世界模型驱动物理 AGI 技术路线＋生产力级落地能力”的坚定看好。\n自成立起，极佳视界就坚信“世界模型是语言模型之后下一个最重要的事情”，坚持以基础模型为核心的物理 AGI 全栈路线，并加速生产力场景真实落地。此前 2026 年 3 月和 4 月，极佳视界已分别完成 10 亿元 Pre-B 轮和 15 亿元 B1 轮融资。\n“双金字塔”驱动双模型体系，系统化加速物理 AGI 突破\n过去 3 年多来，数字 AGI 的发展举世瞩目：从 GPT-3 的智能涌现，到 ChatGPT 让数字智能惠及全球亿万普通人，再到 Claude Code 带来专家级别的数字智能。数字 AGI 已经彻底改变了数字世界，释放出令人惊叹的数字生产力。而经过几十年的长期积累和近年的产业级探索，物理 AGI 的征程正沿着与数字 AGI 基本一致的路径展开。不同之处在于，物理 AGI 将把这场智能革命从数字世界带入物理世界，从无限的数字生产力走向无限的物理生产力。\n极佳视界创始人、CEO 黄冠表示，“GPT-3 时刻，实现了模型能力的智能涌现；ChatGPT 时刻，生产力惠及到了每一个普通人；Claude Code 时刻，数字智能模型能力达到了专业领域专家级别。作为在国内最早布局世界模型的物理 AGI 领先企业，极佳视界相信物理 AGI 未来也将经历类似阶段，不同之处在于，物理 AGI 将直接作用于真实的物理世界。它带来的不仅是信息效率的提升，更是生产与生活方式的重塑，因此对经济与社会的影响也将更为深远。”\n沿着这一判断，极佳视界正系统化加速物理 AGI 基础模型三个阶段的到来：从智能涌现，到普通技能，再到专业技能。智能涌现层面，未来 GigaBrain-3 有望在模型能力上实现 GPT-3 级别的进展；C 端普通技能普惠层面，首款面向家庭的产品拾光 S1 已在大众层面引发强烈反响，未来拾光 S2/S3 系列有望实现 C 端在技术与产品上的产业级突破；B 端专业领域技能层面，工业场景应用落地正在规模化展开，剑指物理智能在高级技能生产力场景的专家级突破。\n要让物理 AGI 走向产业爆发，先要回答一个根本问题：物理通用智能的 Scaling，究竟建立在什么之上？\n极佳视界给出的答案，是过去三年沉淀的物理 AGI 底层方法论：全球首个物理 AGI“双金字塔”体系。\n物理通用智能的 Scaling 面临两大瓶颈：一是缺乏规模化、可描述物理规律的数据体系；二是缺乏能够高效学习物理规律的算法架构。围绕这两个瓶颈，极佳视界给出“双金字塔”解决路径：一座面向数据，一座面向算法，缺一不可。数据金字塔自底向顶分为五层：互联网视频数据、真人数据、世界模型模拟器、仿真合成数据、真机数据。\n极佳视界是行业首个对五层完整数据金字塔进行系统性全栈布局的公司，构建了从轮臂机器人本体拾光 S1、低成本真机数采硬件 Maker M01、低成本手持数采硬件 U-01、低成本 Ego 数采硬件 E-01，到自研具身世界模型平台 GigaWorld-0 的完整全栈软硬件体系；公司围绕真机与无本体采集持续积累大规模训练数据，预计到 2026 年底实现累计 100 万小时，支撑模型在不同任务、场景与本体之间实现更强的泛化能力。\n算法金字塔自底向顶分为三层：世界模拟、动作对齐、经验强化。\n极佳视界是在三层算法金字塔和五层数据金字塔都拥有领先布局的公司，并基于“双金字塔”打造了“世界生成-行动”双模型体系：世界行动模型把世界模型的理解与预测转化为机器人的行动策略；世界生成模型理解、模拟并生成物理世界，为行动模型提供数据与仿真底座以及预训练参数。\n- GigaBrain-0：世界模型驱动的自研具身 VLA 大模型，在全球规模最大的真机评测 RoboChallenge 中以 51.67%的任务成功率获得全球第一，领先 Physical Intelligence 的π0.5 接近 10 个百分点；\n- GigaBrain-0.5M*：全球首个以“世界模型主导的经验学习”为核心的物理智能体原生范式，通过“世界模型+强化学习”实现自我进化，高难度长时程任务成功率接近 100%；\n- GigaWorld-Policy：打破“速度-性能-效率”不可能三角的世界动作模型，实现 10 倍推理速度、10 倍训练效率提升，任务成功率提升约 30 个百分点；在全球权威的面向家庭移动操作任务评测平台 RoboCasa365 上击败 Nvidia GR00T N1.5、PI0.5 等获得全球第一，并成为榜单首个登顶的世界动作模型。\n- GigaWorld-0：全球首个验证“世界模型生成数据能有效提升真实机器人性能”的里程碑式工作，2025 年 12 月发布并开源，GitHub 开源代码斩获 1.5k+ Star；\n- GigaWorld-1：全球领先的动作条件世界模型（AC-WM），在权威评测 WorldArena 上以综合得分 62.34 击败谷歌、英伟达、阿里等国际顶尖机构的模型获得全球第一，是榜单首个突破 60 分的模型；\n- DriveDreamer：全球首个面向真实物理世界的自动驾驶世界模型，获 NVIDIA Oral Presentation 邀请、ECCV 2024 最具影响力论文之一，率先实现世界模型的大规模产业落地。\n“世界行动模型与世界生成模型缺一不可、相辅相成、螺旋上升，共同构成物理 AGI 的基础模型，加速物理 AGI 走向‘GPT-3’时刻。”\n基于这一体系，极佳视界首次公布物理 AGI 基础模型的 12 个月路线图：GigaBrain-1 将于 2026 年第三季度发布，成为全球首个基于“双金字塔”体系打造的物理 AGI 基础模型；GigaBrain-2、GigaBrain-3 加速 Scaling，其中 GigaBrain-3 将基于 1000 万小时视频数据与 100 万小时世界-动作数据进行训练，剑指物理 AGI 的“GPT-3 时刻”。\nC 端和 B 端齐头并进，加速生产力场景落地\n围绕统一的世界模型能力，极佳视界形成两类产品与服务：一类是面向行业伙伴输出基础模型能力的基础模型服务，通过软件、API、授权等方式赋能本体厂商、自主系统开发商与工业客户；另一类是将模型能力直接带入真实物理世界的 AGI 原生产品，以面向家庭的拾光系列与面向工业的 Maker 系列为代表。C 端进家庭、B 端进工厂，两条线并行回答物理 AGI 在哪里兑现的问题。\n在 C 端，极佳视界推出家庭场景子品牌“拾光 SeeLight”。其首款产品、全球首个进入真实家庭的通用人形机器人拾光 S1，已拿下国内首个真实家庭场景百台订单，并将于 2026 年第三季度开启规模化运营；下一代家庭通用机器人拾光 S2 也将于第三季度发布，真实家庭创始版预定通道将同期同步开启。沿着拾光 S2/S3 的产品节奏，C 端正对应物理 AGI 的 ChatGPT 时刻，让普通技能在真实家庭场景中被广泛应用。\n在 B 端，一方面，面向工业制造场景，极佳视界正从单点验证迈向规模化量产。2026 年 4 月，极佳视界联合一汽模具、阿里云，完成国内首个具身智能机器人在真实工业制造场景的全流程解决方案落地，世界模型 GigaWorld、具身基础模型 GigaBrain 与物理 AGI 原生本体 Maker H01“三件套”进入一汽模具真实工厂，围绕箱体拆垛、跨区域搬运、动态避障、精准操作等高频任务，将传统自动化方案数月的场景适配周期压缩至数周。\n2026 年 6 月，极佳视界宣布规划三年内联合隆盛科技在无锡部署 1000 台搭载极佳视界世界模型具身大脑与 Maker 系列的通用机器人，这是全球首次由物理智能基础模型驱动的通用机器人在工业场景开启千台级规模化落地，标志着国内具身智能彻底告别小范围试点、全面迈入工业场景规模化量产周期。\n另一方面，极佳视界的自动驾驶世界模型 DriveDreamer 系列已成为行业代表性基础设施，以世界模型为核心的新一代驾驶模拟器，已与多家国内头部主机厂、海外及合资主机厂，以及 AI 芯片、Tier 1 巨头达成签约定点与量产合作，服务海内外头部主机厂与自动驾驶公司超 30 家。以工业系列产品为代表的 B 端布局，正对应物理 AGI 的 Claude Code 时刻：高级技能在生产力场景中的突破。\n两条线并行，持续积累的真实数据与商业闭环进一步反哺“双金字塔”的数据底座，驱动“场景—数据—模型—产品—生态”飞轮。\n让物理智能服务千行百业、千家万户\n成立于 2023 年的极佳视界，核心团队完整经历了 CV、自动驾驶、具身智能、世界模型等物理 AI 过去十年的发展历程，并在每个阶段的技术创新和产业落地都持续做出行业领先的世界级成果。\n在 CV 时代，团队多次主导获得 FRVT、COCO、VOT 等全球最具影响力视觉 AI 比赛的世界冠军，并实现大规模产业落地；在自动驾驶时代，团队提出的 BEVDet 等系列工作是全球最有影响力的自动驾驶 BEV 范式之一，长期排名 nuScenes 全球第一，并实现规模化量产落地，还主导了地平线 AIDI 平台等行业最大规模的数据闭环产品、以及百度 Apollo 仿真框架的研发和商业化落地；在世界模型和具身智能时代，DriveDreamer 系列是全球最早面向物理世界的世界模型代表性工作，GigaBrain、GigaWorld 系列持续引领具身基模与世界模型的技术突破和产业落地。\n极佳视界创始人兼 CEO 黄冠是清华大学自动化系创新领军工程博士，曾担任地平线视觉感知技术负责人、鉴智机器人合伙人兼算法副总裁，并拥有微软亚洲研究院、三星中国研究院等顶尖研究机构工作经历。\n黄冠博士完整经历过去十年物理 AI 的技术和产业发展历程，多次带领团队获得全球权威 AI 比赛世界冠军，在物理 AI 方向兼具丰富的技术创新、产业落地和连续创业经验。\n极佳视界模型团队核心成员还包括前互联网大厂副总裁架构专家、引用近 2 万次的世界前 2%科学家、博士期间超 10 篇顶会一作的世界模型顶尖科学家、超过 10 年物理 AI 全栈量产经验的产业专家、华为天才少年获得者、万卡集群线性加速的顶尖算法和 Infra 专家等顶尖人才。\n在人形本体产研方向，极佳视界汇集了国内 TOP 级出货量机器人企业的研发负责人，累计主导了数千台人形机器人产品的研发和交付。产业团队则来自地平线、阿里云、博世、百度等科技巨头高管专家，在物理 AI 方向拥有超 20 年超 30 亿的主导商业落地经验。\nAGI 正在带来全新的生产力变革。但是，AGI 不该只停留在屏幕里，应该从数字世界进入物理世界。在人口结构变化与产业转型升级的大背景下，真正服务实体经济、服务每一个家庭，这正是 AGI 进入物理世界的社会意义，也是极佳视界始终坚持这条路线的初心所在。极佳视界正在把骨子里的物理 AGI 信仰，一步一步变成真实的产品，让物理 AGI 服务每一个人。\n本轮融资后，极佳视界将加大在“双金字塔”数据与算法体系上持续投入，加快物理 AGI 基础模型的研发迭代，加速 C 端家庭场景与 B 端工业场景的规模化落地。把世界模型驱动的物理智能转化为可规模落地的先进生产力，加快培育形成新质生产力，高水平赋能新型工业化，为千行百业、千家万户的高质量发展注入新动能。",
+    "content_source": "trafilatura",
+    "content_chars": 5020,
+    "content_excerpt": "整理 | 华卫\n近日，物理 AGI 全球领军企业极佳视界再获 10 亿元 B2 轮融资，本轮融资由新加坡顶级跨境投资机构狮城资本（多轮持续追投）、中国-比利时基金（中比基金）、建投投资、万向钱潮、复星锐正、华盖创赢、金创投、德屹资本、华仓资本、元石基金等全球顶级国家队基金、产业资本、财务机构、国资平台共同投资，国中资本、达晨财智、图灵资管等多个老股东持续超额加注；全球顶配资本阵容齐聚，市场投资意向远超原定募资目标。\n据悉，本轮融资将主要用于“双金字塔”数据与算法体系的持续投入、物理 AGI 基础模型的研发迭代，以及 C 端家庭场景与 B 端工业场景的规模化落地。全球顶级国家队基金、财务机构、产业资本与国资平台的共同选择，背后是对极佳视界“世界模型驱动物理 AGI 技术路线＋生产力级落地能力”的坚定看好。\n自成立起，极佳视界就坚信“世界模型是语言模型之后下一个最重要的事情”，坚持以基础模型为核心的物理 AGI 全栈路线，并加速生产力场景真实落地。此前 2026 年 3 月和 4 月，极佳视界已分别完成 10 亿元 Pre-B 轮和 15 亿元 B1 轮融资。\n“双金字塔”驱动双模型体系，系统化加速物理 AGI 突破\n过去 3 年多来，数字 AGI 的发展举世瞩目：从 GPT-3 的智能涌现，到 ChatGPT 让数字智能惠及全球亿万普通人，再到 Claude Code 带来专家级别的数字智能。数字 AGI 已经彻底改变了数字世界，释放出令人惊叹的数字生产力。而经过几十年的长期积累和近年的产业级探索，物理 AGI 的征程正沿着与数字 AGI 基本一致的路径展开。不同之处在于，物理 AGI 将把这场智能革命从数字世界带入物理世界，从无限的数字生产力走向无限的物理生产力。\n极佳视界创始人、CEO 黄冠表示，“GPT-3 时刻，实现了模型能力的智能涌现；ChatGPT 时刻，生产力惠及到了每一个普通人；Claude Code 时刻，数字智能模型能力达到了专业领域专家级别。作为在国内最早布局世界模型的物理 AGI 领先企业，极佳视界相信物理 AGI 未来也将经历类似阶段，不同之处在于，物理 AGI 将直接作用于真实的物理世界。它带来的不仅是信息效率的提升，更是生产与生活方式的重塑，因此对经济与社会的影响也将更为深远。”\n沿着这一判断，极佳视界正系统化加速物理 AGI 基础模型三个阶段的到来：从智能涌现，到普通技能，再到专业技能。智能涌现层面，未来 GigaBrain-3 有望在模型能力上实现 GPT-3 级别的进展；C 端普通技能普惠层面，首款面向家庭的产品拾光 S1 已在大众层面引发强烈反响，未来拾光 S2/S3 系列有望实现 C 端在技术与产品上的产业级突破；B 端专业领域技能层面，工业场景应用落地正在规模化展开，剑指物理智能在高级技能生产力场景的专家级突破。\n要让物理 AGI 走向产业爆发，先要回答一个根本问题：物理通用智能的 Scaling，究竟建立在什么之上？\n极佳视界给出的答案，是过去三年沉淀的物理 AGI 底层方法论：全球首个物理 AGI“双金字塔”体系。",
+    "title_original": "极佳视界再获10亿元B2轮融资，首款家用机器人拾光S1引发强烈反响",
     "rewritten": true,
     "rewritten_at": "2026-06-17T19:35:48.309329"
   },
@@ -2190,6 +2247,24 @@
     "summary_original": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses",
     "rewritten": true,
     "rewritten_at": "2026-06-18T02:51:31.380359"
+  },
+  {
+    "id": "a931b4f02ae4",
+    "title": "刚刚，“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
+    "url": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-06-17T18:01:54",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-06-17T11:23:20.046359",
+    "content_text": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。\n正如视频所见，整个过程并不优雅，甚至有点笨：角度偏一些、力度大一点，卡片就会滑落。但它会一次次试、一次次修正，\n最后总能找到更合适的着力点\n。\n对实验结果感到诧异的不只有你。就连橡木果机器人（Acorn Robot）的发起人姜峣（清华机械工程博士、哈佛大学神经科学博士后）都称之为“惊喜”。“它不是一次成功，”他回忆道，“但试了八九次之后，它竟然自己找到了办法。”\n谈及此处，姜峣的眼神里仍带着兴奋，像极了第一次在语言模型身上感受到智能涌现。他将机器人这套\n“靠自己摸索出来的策略”\n称之为\n“本能驱动下的行为涌现”\n；驱动它的，是橡木果的端侧自主决策模型 Natus。\n该模块是橡木果面向 B 端柔性制造场景的首款产品，目前已走完国内 Top1 化妆品企业的概念验证（POC）阶段，实现了规模化部署。\n在橡木果的研发管线里，还有更多形态的执行模块。它们每天孜孜不倦地练习抓取各种物品：从矿泉水瓶到橡胶软球，从香蕉到豆腐，以及异形不规则件。\n图注：橡木果冷启动自主探索抓取各类异形物体\n这些看似笨拙的试探，都指向了同一个发现：\n如果机器人在几乎没有“示范数据模板”的情况下，依然能靠实践摸索出有效策略，\n那执行层真正缺的，可能并不是更多的轨迹数据，\n而是一套能\n激发它“先动起来、先试起来”的底层机制\n。\n这也是姜峣面对当前主流具身路线最犀利的反思：VLA、世界模型、仿真学习并非毫无价值，但它们太容易在操作执行的“最后一厘米”掉链子。\n执行侧：具身智能最沉默的困局\n无论是试图端到端闭环的 VLA，还是推演物理未来的“世界模型”，本质上都带着语言模型“大力出奇迹”的惯性：以为只要看过的视频够多、数据喂得够足，操作智能就能自然涌现。但一旦涉足真实的物理交互，这套逻辑无疑将撞上两座大山：\n接触与本体\n。\n操作的本质是\n物理接触\n，摩擦、阻尼、力传导……这些现在世界里无处不在的变量，\n在世界模型却难以稳定建模\n。它或许能精准地生成一段“机器人抓取水杯”的预测视频，但却无法算出指尖与杯壁接触瞬间的相对摩擦，更无法预判玻璃滑落前那微小的形变。\n视觉上的“看起来会”，掩盖不了执行层的“做不到”。\n此外，操作必须通过具体的本体去执行，而每台机器人的关节磨损、装配松紧都有微小差异。橡木果团队做过对比实验：两台同款夹爪，采用同一套模型参数，\n仅仅是导轨松紧存在差异\n，在执行侧的效果也会大相径庭。\n接触的不可预测与本体的微小差异，注定了数据驱动的路线是个填不满的无底洞。\n行为模式难以穷尽，模型训练必须覆盖所有场景和硬件偏差\n，但哪怕全球最大的开源机器人数据集已达到百万回合的运动轨迹，\n依然无法激发出模型在执行层的泛化能力。\n图注：Open X-Embodiment (OXE) 目前全球最大的开源机器人数据集，包含来自全球 34 个研究实验室的 22 种不同机器人载体收集的超过一百万个机器人回合。\n更要命的是，在按秒计费的产线上，没人等得起大模型数秒才能走完的推理闭环，VLA 动辄数秒的延迟，连进场作业的资格都没有。\n这让姜峣坚信：\n没有绝对通用的最好模型，只有最适配这台机器的模型。\nVLA 想用数据解决操作问题，但采集成百上千小时的高质量遥操作数据，本身就需要极高的操作门槛。\n“操作一定要在实践中学习，但实践的前提是你必须先能够实践起来。”\n这是姜峣对于机器人执行的第二个关键判断，它揭示了 VLA 在执行侧的死穴，同时也是橡木果“另起炉灶”的起点。\n跨界学科撞出的无人区\n这套判断，并非从文献推导来的。\n在清华机械工程系读博期间，姜峣天天和阻抗控制、力学建模打交道，这让他对物理交互有着根深蒂固的直觉：\n操作的本质是力学行为，而非视觉问题\n。\n2016 年，他去哈佛做神经科学博士后，研究方向变成了人脑的运动控制。实验室做了大量感知干扰实验：屏蔽视觉、干扰触觉，观察人手操作的变化。他发现，无论怎么干扰，\n人类最基本的抓取动作始终不变。\n“那个永远不变的部分，就是本能，”\n姜峣意识到。语言没环境学不会，但没人教过婴儿怎么抓东西，全人类却抓得高度一致。这不是因为见过了足够多的场景，而是因为有一套基于触觉和力学的先天机制。\n两套看起来八竿子打不着的学科语言在姜峣身上对齐了：\n操作的本质不是拟合视觉轨迹，而是力学规律；人类的通用操作能力，源于本能，而非数据。\n把“本能”移植给机器人，这在当时是绝对的“无人区”。2018 年回国建实验室时，“具身智能”还没出圈，VLA 尚未大行其道，同行觉得他在讲玄学，投资人听不懂……\n姜峣没有急着说服外界，\n而是极其审慎地培养同路人\n：实验室会要求大二便进组观察，先看能力，更看“是否理解数据驱动解决不了执行侧死结、是否相信本能”。算法再强但不认同这一点的人，他不要。新成员进组，必须经实验室全体博士生认可。最长的一位，更是跟了他 10 年。\n2024 年创业时，\n组里 8 位博士一致选择加入了橡木果\n。更罕见的是，这些人私下有个共识：\n如果公司哪天不坚守“本能驱动”，他们就不继续效力。\n这不是创业故事里常见的情怀，而是认知共识在对抗行业惯性前，必须建立的防线。\n因为他们要找的，是“操作层面的万有引力”。\n是规律，不是规则\n这意味着必须放弃拟合轨迹的执念。牛顿没有穷尽每一条运动轨迹，而是用一条不含任何运动参数的万有引力定律，支配了所有运动。姜峣把同样的逻辑搬到了操作上：\nVLA 在学轨迹，橡木果在找规律。\n规则是把操作算法写死，而规律只给约束。基于对物理交互的下探，姜峣将这条规律提炼为三类操作本能：\n定向本能\n解决“去哪”——与视觉协同，指引末端向目标移动，就像婴儿看到移动物体时自然转头追随；\n探索本能\n解决“怎么碰”——这是最复杂、也最体现智能涌现的一环。接触发生后，机器人不依赖预设程序或模仿，而是沿物体表面自主试探，寻找稳定的接触构型；\n执行交互本能\n解决“怎么抓”——以“滑移最小化”为核心，实时调节抓取力度。抓豆腐时轻柔，抓锤子时紧实，装配时自适应阻力。所有调控全凭触觉实时反馈，无需任何训练数据。\n没有人告诉开篇的那个夹爪“从侧面撬卡片”，它只有“找到稳定接触”的底层期望，撬的动作便\n在物理约束下自然涌现\n。\n但要让这套本能真正闭环，必须跨过一个关键技术门槛：\n滑移感知\n。“就像你站在高铁上，想感知车厢和地面的相对速度，”姜峣解释，“你嵌在其中一方，几乎没有参照物。”\n团队花了 7 年，迭代十余版原型机，\n才把微米级滑移感知做到稳定可用\n。有了它，机器人遇到任何物体，都能在接触中实时感知“要滑了”并自动修正——不需要提前知道物体是什么。\n这也是零数据冷启动能够成立的物理基石。\n有了这三套“本能规律”，便可激发机器的无穷多行为。\nNatus 与 Magis：从本能到技能\n被 Natus 模型驱动的“行为涌现”，在端侧可实时控制：200Hz 响应，毫秒级延时，无云端依赖，出厂时针对具体硬件的力学特性单独适配。它的核心使命，就是解开前文那个“没能力就不能实践”的死结：\n让机器人“第一天上产线就能用”\n。\n但一直靠本能探索效率太低，这便是第二层模型 Magis 存在的意义。\nNatus 探索产生的数据，不是普通的视频轨迹，\n而是带有触觉语义的记录\n：视觉看到“一根香蕉”，触觉同步标注“重 120 克，质心偏左，表皮粗糙”。\n这类带力学标注的视觉数据送入 Magis 训练，得到的技能模型对物理世界的理解，远比纯视觉数据深得多——\n它知道怎么抓，而不只是看起来像在抓。\nMagis 成熟后，熟悉场景可直接调用技能，陌生场景则退回 Natus 探索，新数据再沉淀进 Magis。一方面本能持续涌现，可以兜底；另一方面技能越积越厚，不断进化。\n“我们颠覆了现在所有数据采集的方式，”姜峣说，“\n最好的数据来源不是仿真，不是人工遥操，而是产品自己在真实物理世界里跑出来的\n。”\n换产不停线：零数据的真实价码\n这套“自己跑出数据、自己长出技能”的能力，最迫切的场景在哪？\n橡木果选择了\n柔性制造\n，姜峣认为，\n这是权衡过执行侧门槛和市场痛点后最佳的交叉点。\n化妆品 ODM 行业是典型。SKU 超百种，几周一换，每次换产就要停线调参，\n它的痛点不是机器不够快，是机器认不出新物料\n。更棘手的是物料本身：粉饼极度易碎，稍用力就留印；香薰灯芯细软不均，力大了拔出，力小了拽不动。\n这类任务无法用规则覆盖，VLA 训练成本极高，传统自动化束手无策。\n但对 Natus 来说，换了 SKU，只需自己探索，不停线、不调参、不叫工程师，\n这才是“零数据冷启动”对产线的真实价值。\n据介绍，橡木果在国内头部化妆品企业完成 POC，从启动到验证不到两个月，随即进入规模化部署，在手订单突破 2000 万元。\n图注：具身智能的两条技术路径：自上而下数据拟合 vs 自下而上本能驱动\n对于技术路线更长期的判断，姜峣认为，\nNatus 和大模型从来不是竞争，而是分工\n：大模型负责理解任务、规划步骤，Natus/Magis 负责毫秒级的物理执行，\n一个做规划，一个做操作，接口协同，各司其职。\n这不是妥协，而是回归操作本质的必然。就像生物进化把操作反射交给了脊髓，而不是每次触觉都等大脑重新决策——这个判断，从他 8 年前在哈佛和清华的跨界碰撞中，就没变过。",
+    "content_source": "readability",
+    "content_chars": 4153,
+    "content_excerpt": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。",
+    "title_original": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
+    "rewritten": true,
+    "rewritten_at": "2026-06-17T19:35:48.309329"
   },
   {
     "id": "8b2d013a0637",
@@ -5425,111 +5500,6 @@
     "rewritten_at": "2026-06-17T19:35:48.310873"
   },
   {
-    "id": "a0c082562cbc",
-    "title": "Latest: AI tried to bury this politician — now people have actually heard of him",
-    "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-27T15:40:00",
-    "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it.",
-    "collected_at": "2026-05-27T20:05:14.209116",
-    "content_text": "By the time that the Democratic primary for New York’s 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud may be the guy they’re currently fighting over: a once-obscure New York state assemblyman, who they’ve Streisand-effected into becoming the poster child for AI safety regulation.\nAI tried to bury this politician — now people have actually heard of him\nWhen all is said and done, Anthropic and OpenAI will have spent millions in their political proxy war. But the real winner may be the guy they’re currently fighting over.\nWhen all is said and done, Anthropic and OpenAI will have spent millions in their political proxy war. But the real winner may be the guy they’re currently fighting over.\nEver since late 2025, Leading the Future, a super PAC funded by OpenAI, Palantir, and a16z executives, has spent millions against Alex Bores, who wrote one of the first pieces of AI regulatory legislation in the country. The PAC hoped to kill his bid for the seat about to be vacated by longtime Democrat Rep. Jerry Nadler. Instead, Bores is now a front-runner in the eight-person race to become the “face of Manhattan,” as New York Magazine recently put it in a cover feature.\nAnd shockingly, he pulled all this off without running a massive ad campaign. In fact, the Bores campaign told The Verge that it had placed its very first ad buy in New York on May 11th, nearly seven months after Bores entered the race and only weeks before the polls close on June 23rd. In contrast, Leading the Future, whose backers include Joe Lonsdale, Marc Andreessen, and OpenAI’s Greg Brockman, has been running attack ads against Bores since December 2025, spending an estimated total of $2.4 million according to the most recent reports.\nIn any other situation, a corporate- and billionaire-backed super PAC, which is allowed to raise and spend unlimited amounts of money for a candidate or ballot initiative so long as it does not coordinate with the campaign, could outspend a target into oblivion. The group behind Leading the Future had already done so successfully in the 2024 election, ousting Sen. Sherrod Brown (D-OH) and Rep. Katie Porter (D-CA) via Fairshake, a crypto industry super PAC. And it would surely have the upper hand in Manhattan: Way back in December, Think Big PAC, which is affiliated with Leading the Future, spent $120,000 to run a single anti-Bores attack ad on television and digital. “It is so expensive to advertise in a New York primary,” said Lis Smith, a New York-based political operative who ran Pete Buttigieg’s dark horse 2020 presidential campaign, and whose career involved stints with Govs. Andrew Cuomo and Eliot Spitzer. “The New York media market is the most expensive media market in the country. You’d kill for any bit of air time.”\nWhen Bores entered the race last October, the ex-Palantir employee-turned-public servant faced several other candidates with broader name recognition and deep-pocketed backers. Micah Lasher, a fellow New York state assemblyman, has the backing of Nadler’s New York political machine, as well as Mike Bloomberg’s super PAC. Jack Schlossberg, the influencer and grandson of John F. Kennedy, has the support of the national Democratic establishment nostalgic for Camelot. George Conway, the Donald Trump critic and ex-husband of former Trump campaign manager Kellyanne Conway, has won over the Never Trumper crowd. “I’m gonna be honest with you, [Bores] wasn’t exactly a well-known quantity prior to becoming a target of these AI companies,” Smith said.\nReached for comment, Josh Vlasto, a spokesperson for Leading the Future, said, “From day one, we have said what is now playing out in plain sight: Alex Bores is bought and sold by Anthropic, its investors like Chris Larsen, the Effective Altruist community, and a network of dark money fringe tech groups. He has three super PACs funded by Anthropic, its investors, executives, and their allies who are trying to buy regulatory control of AI for themselves. Any group or endorser who thinks that by backing Alex Bores they are taking on billionaires is either foolish or needs to do a quick Google search.”\nInstead of smothering Bores’ candidacy, however, the AI companies only elevated his visibility. A new poll released last week by Emerson College shows him neck-and-neck with Lasher, trailing him by two points, and Bores has consistently taken the lead against his rivals in recent polling. In an odd way, Leading the Future’s ad buys became an in-kind donation to the Bores campaign, in the form of a free, multimillion-dollar ad campaign that did the hard work of raising voter awareness that Bores even existed.\n“For people for whom it wasn’t top of mind, they made it top of mind.”\nAlyssa Cass, a spokeswoman for the Bores campaign, said that they’d initially thought it would be harder to make voters care about AI safety. “AI [regulation] is his strength, but it’s gonna take us a lot of work to make this a salient issue in the district,” she told The Verge. “And they, starting in December, started doing that work for us, of raising the saliency of AI and AI regulation, and making people think: Who are these people? What do they want to do to me, and to our society? For people for whom it wasn’t top of mind, they made it top of mind.”\nSuddenly, voters who’d been unaware of Bores were getting mailers and ads describing him as anti-AI and pro-regulation, highlighting his authorship of the RAISE Act, a New York state law that placed restrictions on the release of frontier AI models and had been signed into law in December.\nThe ads became an unintentional signal booster: The more that Leading the Future attacked Bores, the more media coverage it drew, and the more voters became aware that a super PAC backed by Silicon Valley AI billionaires was trying to influence a Manhattan election, specifically targeting a candidate who wanted to regulate AI. It also inadvertently gave Bores the “it” factor that differentiated him from seven other Democrat candidates running in Manhattan on a platform of holding Donald Trump accountable: He was, quite literally, being targeted by tech billionaires who were donating to Trump’s ballroom in exchange for AI deregulation. Internal campaign polling, in fact, shows that voters who had received negative information about Bores were more inclined to vote for him.\nIt also didn’t hurt that the AI companies’ ads were easy for Bores to mock. One of their first ads criticized Bores for working at Palantir during a period where the controversial tech company had contracted with Immigration and Customs Enforcement, and suggested that Bores was hypocritical for now saying he wanted to abolish ICE. Bores filed a cease-and-desist against LTF for defaming him, claiming that he had left Palantir because he opposed its relationship with ICE. He also noted on social media that it was “ironic” that a Palantir billionaire was attacking him for working at Palantir.\nAnd this was even before an intervention from Anthropic brought the race to national awareness. In February, the Jobs and Democracy PAC, which is affiliated with the pro-regulation super PAC Public First Action, announced that it would back Bores. Outlets like The New Yorker, The New York Times, and Politico began covering the fight over Bores as part of the long-standing rivalry between OpenAI and Anthropic, the AI company that positions itself as the more responsible of the frontier labs — and which had just donated $20 million to Public First Action, in direct opposition to Leading the Future and its ties to OpenAI.\nThis kind of media exposure is unheard of in House races. “You’d kill for any earned media, you’d kill for any paid media,” said Smith. “So the fact that he’s getting all this paid media, when he was a virtual unknown outside of extremely political insider circles before — it’s a gift.”",
-    "content_source": "trafilatura",
-    "content_chars": 8056,
-    "content_excerpt": "By the time that the Democratic primary for New York’s 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud may be the guy they’re currently fighting over: a once-obscure New York state assemblyman, who they’ve Streisand-effected into becoming the poster child for AI safety regulation.\nAI tried to bury this politician — now people have actually heard of him\nWhen all is said and done, Anthropic and OpenAI will have spent millions in their political proxy war. But the real winner may be the guy they’re currently fighting over.\nWhen all is said and done, Anthropic and OpenAI will have spent millions in their political proxy war. But the real winner may be the guy they’re currently fighting over.\nEver since late 2025, Leading the Future, a super PAC funded by OpenAI, Palantir, and a16z executives, has spent millions against Alex Bores, who wrote one of the first pieces of AI regulatory legislation in the country. The PAC hoped to kill his bid for the seat about to be vacated by longtime Democrat Rep. Jerry Nadler. Instead, Bores is now a front-runner in the eight-person race to become the “face of Manhattan,” as New York Magazine recently put it in a cover feature.\nAnd shockingly, he pulled all this off without running a massive ad campaign. In fact, the Bores campaign told The Verge that it had placed its very first ad buy in New York on May 11th, nearly seven months after Bores entered the race and only weeks before the polls close on June 23rd. In contrast, Leading the Future, whose backers include Joe Lonsdale, Marc Andreessen, and OpenAI’s Greg Brockman, has been running attack ads against Bores since December 2025, spending an estimated total of $2.4 million according to the most recent reports.\nIn any other situation, a corporate- and billionaire-backed super PAC, which is allowed to raise and spend unlimited amounts of money for a candidate or ballot initiative so long as it does not coordinate with the campaign, could outspend a target into oblivion. The group behind Leading the Future had already done so successfully in the 2024 election, ousting Sen. Sherrod Brown (D-OH) and Rep. Katie Porter (D-CA) via Fairshake, a crypto industry super PAC. And it would surely have the upper hand in Manhattan: Way back in December, Think Big PAC, which is affiliated with Leading the Future, spent $120,000 to run a single anti-Bores attack ad on television and digital. “It is so expensive to advertise in a New York primary,” said Lis Smith, a New York-based political operative who ran Pete Buttigieg’s dark horse 2020 presidential campaign, and whose career involved stints with Govs. Andrew Cuomo and Eliot Spitzer. “The New York media market is the most expensive media market in the country. You’d kill for any bit of air time.”\nWhen Bores entered the race last October, the ex-Palantir employee-turned-public servant faced several other candidates with broader name recognition and deep-pocketed backers. Micah Lasher, a fellow New York state assemblyman, has the backing of Nadler’s New York political machine, as well as Mike Bloomberg’s super PAC. Jack Schlossberg, the influencer and grandson of John F. Kennedy, has the support of the national Democratic establishment nostalgic for Camelot. George Conway, the Donald Trump critic and ex-husband of former Trump campaign manager Kellyanne Conway, has won over the Never Trumper crowd. “I’m gonna be honest with you, [Bores] wasn’t exactly a well-known quantity prior to becoming a target of these AI companies,” Smith said.\nReached for comment, Josh Vlasto, a spokesperson for Leading the Future, said, “From day one, we have said what is now playing out in plain sight: Alex Bores is bought and sold by Anthropic, its investors like Chris Larsen, the Effective Altruist community, and a network of dark money fringe tech groups. He has three super PACs funded by Anthropic, its investors, executives, and their allies who are trying to buy regulatory control of AI for themselves. Any group or endorser who thinks that by backing Alex Bores they are taking on billionaires is either foolish or needs to do a quick Google search.”\nInstead of smothering Bores’ candidacy, however, the AI companies only elevated his visibility. A new poll released last week by Emerson College shows him neck-and-neck with Lasher, trailing him by two points, and Bores has consistently taken the lead against his rivals in recent polling. In an odd way, Leading the Future’s ad buys became an in-kind donation to the Bores campaign, in the form of a free, multimillion-dollar ad campaign that did the hard work of raising voter awareness that Bores even existed.",
-    "title_zh": "人工智能试图埋葬这位政客——现在人们真的听说过他",
-    "summary_zh": "到 6 月纽约第 12 国会选区的民主党初选结束时，Anthropic 和 OpenAI 将花费数百万美元来争夺人工智能的政治未来：谁来监管它，或者谁将因试图监管它而受到惩罚。但他们真正的赢家",
-    "ai_summary": "到 6 月纽约第 12 国会选区的民主党初选结束时，Anthropic 和 OpenAI 将花费数百万美元来争夺人工智能…",
-    "title_original": "AI tried to bury this politician — now people have actually heard of him",
-    "summary_original": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "914808aaacb4",
-    "title": "如何通过 Trace 数据监控 Cortex Agent 性能 ｜ 技术实践，这意味着什么？",
-    "url": "https://www.infoq.cn/article/95coakUO0KZrqvL21Ig9?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-27T14:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-27T09:34:13.351050",
-    "content_text": "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！\n观察你的 Cortex Agent 集群\n使用 Snowflake Intelligence 的团队往往行动很快。Cortex Agents 可以快速且无缝地构建，不知不觉间，你就已经有一个集群在不同领域和业务职能中投入生产运行。\nSnowflake Intelligence 架构\n部署 agents 是一种赋能体验。然而，理解和评估它们的性能可能是另一回事。监控错误率、延迟、token 消耗等健康功能指标，以及新鲜度和数量等质量指标，是任何生产系统的基本要求；agents 也不例外。\nSnowflake Intelligence 为团队回答这些重要问题提供了所需的基础。它会原生记录丰富的 trace 数据——对话历史、工具执行、LLM 规划、响应生成。\n挑战在于如何以具有运营实用性的方式呈现这些数据，而不是每次都要针对可观测性表编写 SQL。\n可以把它看作一条成熟曲线。\n一开始，你可能只是通过查询 agent 错误率或其他性能指标来获取某个时点的快照。随着不断推进，你会开始构建和维护仪表板，然后使用异常检测模型监控这些仪表板趋势，以识别离群值和 SLA 违约。最终，你可以主动识别导致“边缘案例”的系统性问题，并实施事件管理流程，以维持生产级 SLA。\n要沿着这条成熟曲线不断升级，需要深入理解 agent telemetry，以及它如何被观察、分析，并最终用于排查 Agentic 故障。\n我们将在本文中探讨这些主题，逐步介绍 Snowflake 如何记录 Cortex Agent telemetry，以及 agent 可观测性解决方案如何帮助监控并修复常见的性能故障模式。agent 可靠性的其他关键方面，包括上下文（数据质量）、轨迹（工具调用）和输出，将留待以后讨论。\nSnowflake 为 Cortex Agents 记录了什么：深入底层一探究竟\n在设置任何监控之前，值得先理解 Snowflake Intelligence 生成的 trace 结构。\n每一次 Cortex Agent 交互都由一个 spans 层级结构组成，每个 span 代表 agent 操作的不同阶段。Snowflake 将这些 trace 数据存储在原生可观测性表中，可以通过一个名为 SNOWFLAKE.LOCAL.GET_AI_OBSERVABILITY_EVENTS\n的表函数访问，该函数可以直接在 Snowflake SQL worksheet 中调用。\n例如，Monte Carlo 在底层运行、用于支持我们 agent 性能监控的查询如下。这个查询值得仔细看一看，因为它准确揭示了 Snowflake 在 span 级别记录了什么：\nSELECT * FROM TABLE(\nSNOWFLAKE.LOCAL.GET_AI_OBSERVABILITY_EVENTS(\n'YOUR_DATABASE',\n'YOUR_SCHEMA',\n'YOUR_AGENT_NAME',\n'CORTEX AGENT'\n)\n)\nWHERE RECORD_TYPE = 'SPAN'\nAND RECORD:name::STRING NOT LIKE 'SqlExecution_%'\n在 Snowflake 中对 “MSegner_Demo_Agent” 运行 Get_AI_Observability_Events 查询\n这里有意过滤掉了 SqlExecution_*\nspans，因为它们代表 Cortex Analyst 触发的实际 SQL 运行，如果包含在 agent 级指标中，往往会产生噪声。将它们移除后，剩下的就是 agent 行为 trace。\n将 records 映射到 span 类型\n每个 span 都有一个 record_name\n，用于标识其 span 类型。\n这些元数据对于理解每个 record_name\n在 agent 行为中实际代表什么至关重要，也正是它让 trace 数据变得可操作。如果没有这种映射，你看到的只是一串晦涩字符串组成的扁平列表，无法清楚判断 agent 操作中的哪个环节出了问题。\n它们与 agent 操作的映射关系如下：\nCASE\nWHEN record_name = 'AgentV2RequestResponseInfo' THEN 'chat'\nWHEN record_name LIKE 'ReasoningAgentStepPlanning-%' THEN 'planning'\nWHEN record_name LIKE 'ReasoningAgentStepResponseGeneration-%' THEN 'response_generation'\nWHEN record_name LIKE 'CortexSearchService_%' THEN 'tool_call'\nWHEN record_name LIKE 'CortexAnalystTool_%' THEN 'tool_call'\nELSE 'unknown'\nEND AS request_type\nSnowflake 中的 Agent telemetry，record_name\n每种 span 类型代表什么：\n- chat\n：完整对话轮次的顶层 span。AgentV2RequestResponseInfo\n是最外层封装：它捕获单次用户交互的完整输入和输出，以及将多轮对话关联在一起的 thread_id\n；\n- planning\n：ReasoningAgentStepPlanning\nspans 捕获 agent 的决策过程：下一步调用哪个工具、制定什么查询、传递什么上下文。每个 planning step 都会在 RECORD_ATTRIBUTES 中记录自己的 token 数量、模型名称和工具选择；\n- response_generation\n：ReasoningAgentStepResponseGeneration spans 捕获最终答案合成过程。此时 agent 已经完成工具调用，正在生成响应。这里的 token 数量反映最终 LLM 调用的成本；\n- tool_call\n：两类工具会使用不同的属性 schema 记录，包括：\nCortexSearchService_*\nspans 记录搜索查询、请求的列、应用的筛选器、结果限制、返回结果和状态；CortexAnalystTool_*\nspans 记录传入的 messages、使用的 semantic model、生成的 SQL 查询、文本响应，以及——尤其值得注意的是——一个question_category\n字段，用于分类 Cortex Analyst 收到的问题类型。\n关于 question_category\n字段，Cortex Analyst 会自动对问题进行分类，并且该分类可在 trace 数据中观察到。类别可能包括简单查找、聚合、时间序列查询和比较分析等。\n如果你发现某个特定 agent 出现 token 峰值或延迟增加，按 question_category\n筛选 traces 可以快速显示该模式是否集中在某类特定问题上。\n更复杂的分析类问题往往会生成明显更复杂的 SQL 和更长的响应，因此，即便 agent 配置没有变化，命中某个 agent 的问题类型组合发生变化，也可能推动汇总指标变化。\n需要监控的关键性能指标\n现在我们已经很好地理解了 span 类型，接下来深入讨论团队应该监控的关键性能指标：token 数量、状态码和持续时间。异常行为几乎总是会先在这些指标中显现出来，然后才会出现在其他地方。\nTotal tokens\nToken 消耗（成本）反映了 agent 在其 spans 中处理和生成了多少上下文；你做的工作越多，消耗的 token 就越多。进一步分析，通常平均 token 的持续增加意味着以下几种情况之一：\n输入长度变化：用户发送的查询更长，或者调用应用在每个请求中传递了更多上下文；\n上下文窗口累积：在多轮对话中，Cortex Agents 通过 thread_id 维护 thread 历史。每一轮后续对话都会携带完整的先前上下文，因此一个从 5k tokens 开始的会话，到第 10 轮时可能超过 40k。如果平均 token 逐渐上升，多轮上下文增长通常就是原因；\n检索行为变化：如果 agent 使用 Cortex Search，检索配置发生变化（返回更多结果、更大的 chunks、不同的 reranking）会表现为 token 增加，而用户行为并没有任何变化；\n工具调用深度增加：每次对话中的工具调用越多，就意味着更多 planning spans，而每个 planning span 都有自己的 token 成本。工具路由逻辑的变化会在这里变得很明显；\n输出冗长度漂移：这种情况较少见，但底层 Cortex model 的变化可能会影响响应的详细程度。planning spans 上的 model_name 字段使我们能够将 token 变化与模型版本关联起来。\n在 Snowflake 中，token 计量发生在 span 级别，而不是对话级别。Snowflake 会在每个 span 的 RECORD_ATTRIBUTES\n中分别记录 prompt tokens 和 completion tokens，这意味着单次对话会在其 planning、tool call 和 response generation spans 中合计生成多个 token 计数。\nSnowflake 中显示的 ReasonAgentStepPlanning-O span 的 Token_count\n无论你使用的是 agent 可观测性工具，还是更手动的流程，一项最佳实践都是将这些数据解析为每个 span 的统一 total_tokens\n指标，并查看当天所有 spans 的平均值，而不是按对话查看。这在解释 token 峰值时非常重要。\nDuration\nDuration 往往与 token 消耗相关；token 越多，通常处理时间越长。\n然而，当 agent 进行了比预期更多的工具调用、命中了较慢的底层数据，或者正在重试失败操作时，duration 也可能独立飙升。同时观察两者，比单独观察任一指标都能提供更多诊断信号。\nP50 和 P90 这类延迟分布也比单纯的平均值更能真实反映情况：稳定的平均值可能掩盖越来越长的慢响应尾部，而这种尾部正在悄悄侵蚀用户信任。\n虽然 token 消耗和 duration 都无法告诉你具体哪里出了问题（这需要人工或 Agentic 排查），但两者都能告诉你发生了某种变化。这非常有价值，因为对于那些优雅失败而不是直接崩溃的 Agentic 系统来说，检测问题通常非常困难。\nStatus Codes\nStatus codes 也会在 Snowflake 的 trace 数据中直接按 span 跟踪，每个 span 都会解析为 STATUS_CODE_OK\n或 STATUS_CODE_ERROR\n。\n因此，错误可以在 span 级别被观察到，这意味着你可以区分 planning step 失败、tool call 失败和 response generation 失败。这三者是完全不同的根因，对应不同的修复路径，因此具备这种清晰区分对于排查 Agentic 故障至关重要。\n完成率这类派生指标，即解析为 STATUS_CODE_OK 与 STATUS_CODE_ERROR 的 spans 比例，可以捕捉到 duration 和 token 数量完全遗漏的静默失败。\n组合信号\n一旦你建立了基线指标，并对正常 agent 性能有了感觉，监控范围就会显著扩展，而这正是 agent 可观测性开始与传统数据管道监控产生实质差异的地方。\n例如，evaluation monitors 会监控最终 agent 输出适配性的显著退化。它有帮助吗？完成任务了吗？使用了正确的语言或语气吗？\n真正的力量来自利用 agent 可观测性解决方案，将这些信号跨 span 类型组合起来。planning spans 上的高 token 数量与 tool call spans 上的低完成率同时出现，指向的问题，与性能指标稳定但 evaluation scores 下降所指向的问题完全不同。\n一个按天分组、设置为在 duration 或 token 异常时告警的 agent monitor，显示在 Monte Carlo 中\n同时跨多个信号类型获得 span 级可见性，是“知道出了问题”和“知道该去哪里查”之间的关键差别。\n常见 agent 性能问题\nToken 峰值：它们是什么样子，又是什么导致的\n在 Cortex Agent 部署早期几周中，一个常见模式是平均 token 消耗出现阶跃式增长，平均 token 在几天内大约翻倍，然后部分回落。\nMonte Carlo 中显示的一个 Cortex agent 生命周期早期的初始 token 峰值\n这种模式有几种明确的潜在原因，值得系统性排查：突然飙升然后部分回落：这表明发生了一个临时变化，并已部分解决，常见原因包括某个高 token 用户会话抬高了每日平均值，system prompt 或工具配置发生了临时变化后又被回滚，或者一批多轮对话在用户放弃前累积了上下文；\n阶跃式上升且没有回落：这表明发生了持续性变化。可能原因包括 system prompt 变化、调用应用的新版本传递了更多上下文，或检索配置变化永久增加了结果集大小；\n逐渐上升漂移：这是多轮 agents 最值得担心的模式。如果 thread 历史在没有截断的情况下不断累积，随着用户进行更长对话，平均 token 会持续上升。这是可以管理的，但需要在 agent 配置中明确进行上下文窗口管理。\n对于你的 Cortex Agent 中出现的任何这些模式，你可以手动排查，也可以使用 agent 可观测性解决方案进行排查。下一步是查看 traces，筛选受影响的日期范围，并检查单个 spans，对比峰值前后的输入长度、planning step 数量和工具调用行为。一些 agent 可观测性工具提供 Agentic 根因分析，以加速这一步。\n来自 Cortex Analyst spans 的 question_category\n字段在这里尤其有用：如果峰值与问题类型变化同时出现（例如更多复杂分析查询），这与问题类型保持不变时所代表的问题并不相同。\n使用量波动\n在早期 Cortex Agent 部署中持续出现的第二种模式，是每日使用量的高方差。\nMonte Carlo 中显示的高 token 方差\n对于企业内部工具和 B2B 工作流——许多早期 Cortex Agents 通常部署在这些场景中——使用量往往是尖峰式的，而不是均匀的。流量集中在工作时间、特定工作流和特定用户群体周围，因此低流量日可能会在 agent 可观测性表中产生接近零的行数。\n这对监控有两个实际影响：\n基线质量不均衡。基于高方差数据训练的异常检测模型会产生更宽的置信区间，这意味着需要更大的偏差才会触发告警。接近零流量的日期几乎不会为基线贡献任何信号，而基于小样本量计算出的平均值并不可靠。对于流量模式高度可变的团队，可能需要自行调整 monitor 敏感度，或考虑筛选到工作时间窗口，以获得更干净的基线；\n低流量日可能掩盖故障。如果某个 agent 正在经历更高的错误率，但每日量很低，汇总指标可能看起来正常，原因只是没有足够的 spans 来推动平均值变化。这就是为什么要添加错误率监控作为单独信号：将 status_code = 2（STATUS_CODE_ERROR）作为总 spans 的比例进行跟踪，而不是仅依赖性能指标来暴露问题。\n底层原则\nSnowflake Intelligence 生成的可观测性数据比大多数团队意识到的更多。其中有大量 trace 数据，包括对话历史、span 级 token 数量、工具调用输入和输出、状态码、模型名称以及问题类别。\n真正的挑战并不在于有哪些数据可用，而在于能否持续观察这些数据、学习什么是正常状态，并在用户发现问题之前呈现偏差。此外，所有这些都需要以规模化方式完成，因为你和世界上其他人一样，都在竞相部署 agents 集群，而不仅仅是单个 agent 工作流。\n点击链接立即报名注册：Ascent - Snowflake Platform Training - China，更多 Snowflake 精彩活动请关注专区。",
-    "content_source": "trafilatura",
-    "content_chars": 6978,
-    "content_excerpt": "2026 年，智能体将在企业级应用中取得哪些实质性突破？点击下载《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！\n观察你的 Cortex Agent 集群\n使用 Snowflake Intelligence 的团队往往行动很快。Cortex Agents 可以快速且无缝地构建，不知不觉间，你就已经有一个集群在不同领域和业务职能中投入生产运行。\nSnowflake Intelligence 架构\n部署 agents 是一种赋能体验。然而，理解和评估它们的性能可能是另一回事。监控错误率、延迟、token 消耗等健康功能指标，以及新鲜度和数量等质量指标，是任何生产系统的基本要求；agents 也不例外。\nSnowflake Intelligence 为团队回答这些重要问题提供了所需的基础。它会原生记录丰富的 trace 数据——对话历史、工具执行、LLM 规划、响应生成。\n挑战在于如何以具有运营实用性的方式呈现这些数据，而不是每次都要针对可观测性表编写 SQL。\n可以把它看作一条成熟曲线。\n一开始，你可能只是通过查询 agent 错误率或其他性能指标来获取某个时点的快照。随着不断推进，你会开始构建和维护仪表板，然后使用异常检测模型监控这些仪表板趋势，以识别离群值和 SLA 违约。最终，你可以主动识别导致“边缘案例”的系统性问题，并实施事件管理流程，以维持生产级 SLA。\n要沿着这条成熟曲线不断升级，需要深入理解 agent telemetry，以及它如何被观察、分析，并最终用于排查 Agentic 故障。",
-    "title_original": "如何通过 Trace 数据监控 Cortex Agent 性能 ｜ 技术实践",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "2422c4a58256",
-    "title": "Report: Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-27T14:36:10",
-    "summary": "Robinhood is opening its trading platform to AI agents.",
-    "collected_at": "2026-05-27T15:01:06.843309",
-    "content_text": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market.\nRobinhood will let your AI agent trade stocks and make (or lose) lots of money\nRobinhood warns that AI-powered trading ‘involves significant risk, including the possible loss of your entire investment.’\nRobinhood warns that AI-powered trading ‘involves significant risk, including the possible loss of your entire investment.’\nThe company pitches the feature as a way for traders to automate investment decisions, such as having an agent monitor specific industries and make trades, or rebalancing an existing portfolio. But it comes with a big warning from Robinhood:\nAgentic trading involves significant risk, including the possible loss of your entire investment. AI-driven strategies may perform poorly under certain market conditions, move quickly, and may be difficult to monitor or stop in real time… Robinhood does not guarantee the accuracy, completeness, or suitability of any agent output, and is not responsible for losses resulting from agent-generated decisions.\nThough companies like Google, Microsoft, OpenAI, and Anthropic view AI agents as the future, the technology isn’t quite living up to the hype of serving as full-fledged personal assistants capable of completing an array of tasks without human intervention. AI agents can be useful for coding, but asking them to buy things on your behalf or fill out online forms often isn’t efficient or accurate.\nRobinhood says users will receive push notifications every time their AI agent makes a trade, view a real-time activity feed in its app, and pause AI trades at any time. Users can link AI agents to the platform through the model context protocol (MCP), an open standard that connects AI systems to apps and data. It’s rolling out in beta with support for equities, but Robinhood plans on expanding it to options, cryptocurrency, event contracts, futures, and more.\nThat’s not the only AI integration Robinhood is launching, as it will also give Robinhood Gold Card customers the ability to connect an AI-powered agent to a virtual credit card. Users will be able to choose how much money the AI agent has access to and tell it what to shop for. From there, the AI agent will search the web for deals and make purchases. As an example, Robinhood says a sneaker fan could tell an AI agent to buy a new release when its price drops below $300, while a pet owner could ask it to purchase a five-star-rated dog toy under $30.\nRobinhood says users can opt in to manually approve each credit card purchase, and “when appropriate,” agents will preview trades as well.",
-    "content_source": "trafilatura",
-    "content_chars": 2793,
-    "content_excerpt": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market.\nRobinhood will let your AI agent trade stocks and make (or lose) lots of money\nRobinhood warns that AI-powered trading ‘involves significant risk, including the possible loss of your entire investment.’\nRobinhood warns that AI-powered trading ‘involves significant risk, including the possible loss of your entire investment.’\nThe company pitches the feature as a way for traders to automate investment decisions, such as having an agent monitor specific industries and make trades, or rebalancing an existing portfolio. But it comes with a big warning from Robinhood:\nAgentic trading involves significant risk, including the possible loss of your entire investment. AI-driven strategies may perform poorly under certain market conditions, move quickly, and may be difficult to monitor or stop in real time… Robinhood does not guarantee the accuracy, completeness, or suitability of any agent output, and is not responsible for losses resulting from agent-generated decisions.\nThough companies like Google, Microsoft, OpenAI, and Anthropic view AI agents as the future, the technology isn’t quite living up to the hype of serving as full-fledged personal assistants capable of completing an array of tasks without human intervention. AI agents can be useful for coding, but asking them to buy things on your behalf or fill out online forms often isn’t efficient or accurate.\nRobinhood says users will receive push notifications every time their AI agent makes a trade, view a real-time activity feed in its app, and pause AI trades at any time. Users can link AI agents to the platform through the model context protocol (MCP), an open standard that connects AI systems to apps and data. It’s rolling out in beta with support for equities, but Robinhood plans on expanding it to options, cryptocurrency, event contracts, futures, and more.\nThat’s not the only AI integration Robinhood is launching, as it will also give Robinhood Gold Card customers the ability to connect an AI-powered agent to a virtual credit card. Users will be able to choose how much money the AI agent has access to and tell it what to shop for. From there, the AI agent will search the web for deals and make purchases. As an example, Robinhood says a sneaker fan could tell an AI agent to buy a new release when its price drops below $300, while a pet owner could ask it to purchase a five-star-rated dog toy under $30.\nRobinhood says users can opt in to manually approve each credit card purchase, and “when appropriate,” agents will preview trades as well.",
-    "title_zh": "Robinhood 将让你的人工智能代理交易股票并赚（或赔）很多钱",
-    "summary_zh": "Robinhood 正在向人工智能代理开放其交易平台。 Robinhood 在周三的一份声明中表示，交易者现在可以为人工智能代理创建一个单独的账户，并添加特定金额的资金，从而允许代理在整个市场上买卖股票。该公司将该功能定位为一种方式",
-    "ai_summary": "Robinhood 正在向人工智能代理开放其交易平台。 Robinhood 在周三的一份声明中表示，交易者现在可以为人工…",
-    "title_original": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-    "summary_original": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "3f0ce030b5e2",
-    "title": "Update: SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-    "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-27T14:00:00",
-    "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
-    "collected_at": "2026-05-27T15:01:06.766689",
-    "content_text": "Traditionally, sleep earbuds have been designed to mask outside noise and promote sleep with calming sounds. But today, a Boston-based startup called\nSOND\nis introducing a new type of earbuds designed to actively intervene to encourage better sleep.\nFounded by a\npair\nof MIT grads, one who is Bose’s former Head of Global Sleep, SOND emerged from stealth on Wednesday with $7 million in funding. Together with the funding, the company introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real-time to help consumers get better sleep.\nImage Credits:\nSOND\nIts initial investment of the $7 million comes from E14 Fund (an MIT-affiliated fund), Crosslink Capital, Ubiquity Ventures, Alumni Ventures, Meach Cove Capital, and Boston Scientific co-founder, John Abele.\nTo work, the device tracks signals like respiration, heart rate variability, cardiorespiratory coupling, sleep staging, body position, snoring, and seismocardiography (SCG, or the mechanical vibrations of the chest wall produced by the beating heart).\nThis sensor data streams in real-time to a cloud-based AI sleep coach that then selects a sleep audio program, or generates one on demand, learning over time which ones work best for the individual user.\nImage Credits:\nSOND\nUsers can also interact with the AI sleep coach directly by speaking, asking for sleep insights, or for specific sleep programs from SOND’s proprietary library of over 500 audio programs. (Users can also opt to stream podcasts through the case, if they prefer.) The AI coach can also generate audio, like a sleep story with a certain theme, when asked.\nNotably, the startup was co-founded and is led by CEO\nYadid Ayzenberg\n, who previously worked at Bose as its Head of Sleep Products, where he launched Bose’s Sleepbuds 2 and ran the company’s portfolio of other sleep products. When Bose decided to strategically exit the sleep business, Ayzenberg realized it presented an opportunity to form a startup dedicated to new products in this space, which led him to found SOND in February 2022.\n“I had spent, at this time, a significant amount of time around physiology, around sensors, around audio…I was meant to do this,” Ayzenberg told TechCrunch, while sitting at an outdoor cafe alongside co-founder and CTO Amir Lazarovich, formerly a senior software engineering manager at Google, alongside their prototype Dreambuds device.\nImage Credits:\nSOND\nThe co-founders met at MIT, a meeting that also had to do with sleep. Lazarovich, who was studying distributed systems, had just moved into a family dorm and didn’t have a mattress; Ayzenberg offered him one from his room to use instead. That chance encounter some fourteen years ago led to a lifelong friendship.\nAfter MIT, Ayzenberg founded a startup called The Sync Project, which mapped music to physiological factors like heart rate and heart rate variability. The startup was acquired by Bose after four years, and ultimately led to his work with the second generation of Sleepbuds.\nBose customers often wanted more from their Sleepbuds than noise cancellation, Ayzenberg says: they also wanted sensors to track their sleep and help them improve it. At the time, technology was not quite at the point of being able to bundle a lot of sensors into a small, AirPods-like form factor while still conserving the device’s battery, however. But by the time Bose was exiting sleep wearables, that had changed.\nHowever, Ayzenberg cautioned, the Dreambuds shouldn’t be thought of as what could have been Bose’s Dreambuds III. Instead, he admits the earbuds from competitor Ozlo are more likely what would have been the next step.\n“We did something entirely different. Maybe the form factor is an earbud, but that’s where it ends,” he said.\nImage Credits:\nTechCrunch\nThe system itself runs end-to-end without requiring a phone. Instead, Dreambuds’ charging case included Wi-Fi, Bluetooth, an OLED display, physical buttons, and a speaker. The latter will help you to wake up via your alarm even if you fall asleep before putting in the earbuds.\nThe goal is to stop users from needing to pick up their phone to control the sleep tech’s system.\n“We have a running joke — we say giving an insomniac a phone is like running an AA meeting in a liquor store,” Ayzenberg says, with a laugh. “The idea here is that all you do is take the buds out and they’ll resume your sleep plan,” he explains. “You can also switch to other sleep plans. And you can talk to the coach, just double-tap and say, ‘I’m having trouble sleeping. I want this, or I want that.’”\nImage Credits:\nTechCrunch\nThe sleep coach can help with particular sleep problems by referring to its data about what’s worked for you in the past, whether that was a breathing exercise, a calming track, a soundscape, binaural beats, or something else. Ayzenberg confirms the AI coach will never talk to you unless you engage it with the double-tap gesture, as he acknowledges that it could otherwise startle users or even creep them out.\nLazarovich adds that the AI coach will respond based on the user’s current context. “For example, if you engage right before bedtime, it would ask you, ‘Are you ready to wind down?’ But if you engage after you woke up, it would ask you ‘How was your night?’,” he says.\nIn addition to hearing your results from the AI coach, Dreambuds owners can review their data and hypnograms (sleep cycle graphs) in the companion app to learn more about their sleep patterns.\nImage Credits:\nSOND\nThe buds themselves have a unique look, as the team put the sensors facing out — opting for an artistic pattern of sensors instead of trying to hide the technology. The buds also feature wide-frequency drivers for high-fidelity audio, along with microphones and sensors for motion detection.\nSOND has run a couple of comfort studies and betas, and now aims to bring the devices into mass production by Q2 2026, following a crowdfunding campaign to raise additional funds. The company is currently accepting reservations on its\nwebsite\n.",
-    "content_source": "readability",
-    "content_chars": 6084,
-    "content_excerpt": "Traditionally, sleep earbuds have been designed to mask outside noise and promote sleep with calming sounds. But today, a Boston-based startup called\nSOND\nis introducing a new type of earbuds designed to actively intervene to encourage better sleep.\nFounded by a\npair\nof MIT grads, one who is Bose’s former Head of Global Sleep, SOND emerged from stealth on Wednesday with $7 million in funding. Together with the funding, the company introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real-time to help consumers get better sleep.\nImage Credits:\nSOND\nIts initial investment of the $7 million comes from E14 Fund (an MIT-affiliated fund), Crosslink Capital, Ubiquity Ventures, Alumni Ventures, Meach Cove Capital, and Boston Scientific co-founder, John Abele.\nTo work, the device tracks signals like respiration, heart rate variability, cardiorespiratory coupling, sleep staging, body position, snoring, and seismocardiography (SCG, or the mechanical vibrations of the chest wall produced by the beating heart).",
-    "title_zh": "SOND 是 Bose 前睡眠主管创办的睡眠科技初创公司，以 700 万美元退出隐秘状态",
-    "summary_zh": "SOND 是一家由 Bose 前睡眠产品负责人领导的初创公司，凭借 700 万美元的资金开发其人工智能睡眠耳塞，脱颖而出",
-    "ai_summary": "SOND 是一家由 Bose 前睡眠产品负责人领导的初创公司，凭借 700 万美元的资金开发其人工智能睡眠耳塞，脱颖而出…",
-    "title_original": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "4faf7b5a927c",
-    "title": "In depth: This smart bird feeder captures more of my backyard drama",
-    "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-27T14:00:00",
-    "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising thei...",
-    "collected_at": "2026-05-27T15:01:06.843354",
-    "content_text": "Since moving to South Carolina’s Lowcountry, I’ve been spellbound by the myriad of beautiful birds that share the coast with us — ospreys raising their babies in towering nests beside the road to my daughter’s school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son’s tennis matches, and a constant parade of songbirds through my backyard. The challenge, as every birder knows, lies in catching these moments. And for that, a smart bird feeder is a fabulous tool.\nThese use a small, motion-activated camera embedded in a feeder to capture photos and video of birds visiting your backyard, which you can watch in an app on your phone. Most offer AI-powered bird identification, presenting the species along with a cute clip. No more standing motionless with binos on your porch, balancing a Sibley Guide; the bird life comes directly to you. It’s basically OnlyFans for\ntwitchers\n.\n$220\nThe Good\nWide field of view shows more avian activity\nLarge seed hopper\nExcellent battery life\nFlexible modular design\nOption of local storage\nThe Bad\nImage quality not as good as the competition’s\nAI identification spotty\nMessy app\nShorter free recordings and cloud storage\nI’ve tested the staple in the space\n, the\nBirdbuddy Pro\n— and loved it so much I bought them for my entire family last Christmas. Then, at\nCES this year\n, I spotted the\nAura Smart Bird Feeder\nfrom Coolfly and was intrigued by its larger size and promise of new, alternative views of my feathered friends.\nBirdbuddy is like the finished photo; Aura is behind the scenes of the shoot\nUnlike most smart bird feeders, the Aura places its camera beside the feeder instead of inside it, giving you a wider, more natural view of the birds. Its 4MP sensor offers up to 2.5K video through a 150-degree wide-angle lens. It’s much bigger than most smart bird feeders and has to be mounted on a pole or structure, so it could be tricky to find a spot for it in your garden. Still, the overall design is attractive, with a slate-blue metal frame.\n1/3\nThe Aura is modular; you can choose which side of the feeder to place the camera and add accessories to the platform for more feathered fun — including a fruit fork, hummingbird feeder, and a snack/water container.\nThe\nAura\ncomes with two built-in solar panels to keep the battery charged, and although it’s expensive at $290, that’s less than the current $339 list price for the\nBirdbuddy Pro\nwith solar (there’s a\nnon-solar version for $189.99\n). The Aura includes automatic AI bird identification and higher-resolution video without a subscription, while Birdbuddy reserves some AI and premium video features for its paid plan, which starts at $70 annually.\nThe overall package is impressive. The Aura has a larger seed feeder, significantly better battery life, and a wider field of view than the Birdbuddy. I got to see a daddy cardinal feeding his baby at the feeder, along with several less sweet avian squabbles — it can be like The Real Housewives of Bird World in my backyard. I also had more visits from larger birds, including a mourning dove, that could more easily perch on the bigger platform. Squirrels were also slightly less of a problem thanks to the metal grille that protects the seeds.\nBut Birdbuddy’s AI proved more accurate in my testing, and on its free tier, you still get AI-powered identification, you just have to do it\nmanually in the app\nrather than automatically getting the bird’s species in the clip. Birdbuddy also stores longer clips for more days for free — though it lacks the Aura’s local microSD storage option.\nWhile I did enjoy Aura’s wider view, its image quality isn’t as good as Birdbuddy’s. Testing them both at 1080p and 2K, I found Birdbuddy’s footage consistently crisper, while Aura introduced occasional artifacting and wasn’t as detailed. I also preferred the close-up images the Birdbuddy delivers, because they’re more intimate and unusual than those the Aura captured. The Aura can switch between portrait and landscape views in the app. But the portrait just looks like a digital crop and was less sharp, so I kept it in the full landscape view.\nThe app is the weakest aspect of the Aura; it’s busy, unintuitive, and takes several taps to get to the full feed of videos of your visitors. Also, some clips started with an empty bird feeder, and I had to keep watching to see what (if anything) was there. This isn’t a security camera; it’s supposed to delight rather than document everything. Birdbuddy is selective about what it shows you and more reliable for sharing high-quality visits with good images. Birdbuddy does have a “frenzy mode” if you want to capture every visitor, but it definitely kills the battery life.\nThe Coolfly app takes a bit of getting used to as it’s cluttered and not very user-friendly\n.\nIt takes several taps to get to this feed of bird videos.\nThe Aura’s battery life is impressive. I’ve had it installed for almost two months, and the battery is still fully charged, thanks to its two built-in solar panels. That’s better than most security cameras I’ve tested. The Birdbuddy, which also has solar panels and was in the same spot in my yard, had to be recharged three times.\nAura’s connectivity was also more reliable for me; it consistently loaded livestreams and captured most every visit. I use a mesh Wi-Fi system, which Birdbuddy acknowledges\ncan cause issues\n. For me, that meant occasionally going offline, videos failing to load, and missing some action, although things have improved recently. The only problem I had with Aura was that when I moved the camera to the other side or adjusted its position, it stopped recording consistently. At first, moving it back fixed the issue, then turning it on and off again after repositioning it had it up and running reliably again.\n1/3\nThe large feed container requires fewer refills.\nOverall, Birdbuddy offers a more polished experience, but Aura’s better battery life and less frequent feed refills are compelling. Which works best for you depends on whether you want a more curated backyard birding experience or just want to capture as much activity as possible. In terms of which is better for seeing the birds, think of it like this: The Birdbuddy is like the finished photo; the Aura is behind the scenes of the shoot. True birders will probably want both!\nIf you’re considering the Birdbuddy, it’s worth noting that\nthe redesigned Birdbuddy 2\nlaunches later this year with a larger hopper, wider field of view, and a lower $200 price.\nPhotos and videos by Jennifer Pattison Tuohy / The Verge\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nJennifer Pattison Tuohy\nAI\nCameras\nGadgets\nReviews\nSmart Home Reviews\nTech",
-    "content_source": "readability",
-    "content_chars": 6782,
-    "content_excerpt": "Since moving to South Carolina’s Lowcountry, I’ve been spellbound by the myriad of beautiful birds that share the coast with us — ospreys raising their babies in towering nests beside the road to my daughter’s school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son’s tennis matches, and a constant parade of songbirds through my backyard. The challenge, as every birder knows, lies in catching these moments. And for that, a smart bird feeder is a fabulous tool.\nThese use a small, motion-activated camera embedded in a feeder to capture photos and video of birds visiting your backyard, which you can watch in an app on your phone. Most offer AI-powered bird identification, presenting the species along with a cute clip. No more standing motionless with binos on your porch, balancing a Sibley Guide; the bird life comes directly to you. It’s basically OnlyFans for\ntwitchers\n.\n$220\nThe Good\nWide field of view shows more avian activity\nLarge seed hopper\nExcellent battery life\nFlexible modular design",
-    "title_zh": "这款智能喂鸟器捕捉到了我后院的更多戏剧",
-    "summary_zh": "自从搬到南卡罗来纳州的低地地区后，我就被无数与我们共享海岸的美丽鸟类所吸引——鱼鹰在通往我女儿学校的路旁高耸的巢穴中抚养它们的孩子，玫瑰色的琵鹭在我早晨散步时在沼泽中涉水，老鹰在我的上空盘旋",
-    "ai_summary": "自从搬到南卡罗来纳州的低地地区后，我就被无数与我们共享海岸的美丽鸟类所吸引——鱼鹰在通往我女儿学校的路旁高耸的巢穴中抚养…",
-    "title_original": "This smart bird feeder captures more of my backyard drama",
-    "summary_original": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over m",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
     "id": "hn-48292224",
     "title": "Report: I'm Tired of Talking to AI",
     "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
@@ -5538,10 +5508,10 @@
     "published": "2026-05-27T10:43:25Z",
     "summary": "I'm Tired of Talking to AI",
     "points": 2013,
-    "collected_at": "2026-06-19T10:16:57.061269",
+    "collected_at": "2026-06-19T14:48:23.152194",
     "title_original": "I'm Tired of Talking to AI",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950394"
+    "rewritten_at": "2026-06-19T14:49:59.939748"
   },
   {
     "id": "hn-48153379",
@@ -5552,11 +5522,11 @@
     "published": "2026-05-15T20:26:47Z",
     "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.",
     "points": 2105,
-    "collected_at": "2026-06-19T10:16:57.061233",
+    "collected_at": "2026-06-19T14:48:23.152148",
     "title_original": "I believe there are entire companies right now under AI psychosis",
     "summary_original": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950405"
+    "rewritten_at": "2026-06-19T14:49:59.939761"
   },
   {
     "id": "hn-48085821",
@@ -5567,10 +5537,10 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-06-19T10:16:57.061306",
+    "collected_at": "2026-06-19T14:48:23.152241",
     "title_original": "Local AI needs to be the norm",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950409"
+    "rewritten_at": "2026-06-19T14:49:59.939766"
   },
   {
     "id": "hn-48019219",
@@ -5581,11 +5551,11 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "",
     "points": 1755,
-    "collected_at": "2026-06-19T10:16:57.061334",
+    "collected_at": "2026-06-19T14:48:23.152276",
     "title_original": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "summary_original": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950415"
+    "rewritten_at": "2026-06-19T14:49:59.939772"
   },
   {
     "id": "hn-47679121",
@@ -5596,11 +5566,11 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.",
     "points": 1541,
-    "collected_at": "2026-06-19T10:16:57.061426",
+    "collected_at": "2026-06-19T14:48:23.152390",
     "title_original": "Project Glasswing: Securing critical software for the AI era",
     "summary_original": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950425"
+    "rewritten_at": "2026-06-19T14:49:59.939782"
   },
   {
     "id": "hn-47363754",
@@ -5611,10 +5581,10 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-06-19T10:16:57.061526",
+    "collected_at": "2026-06-19T14:48:23.152511",
     "title_original": "Can I run AI locally?",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950429"
+    "rewritten_at": "2026-06-19T14:49:59.939787"
   },
   {
     "id": "hn-47340079",
@@ -5625,11 +5595,11 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "",
     "points": 4229,
-    "collected_at": "2026-06-19T10:16:57.061128",
+    "collected_at": "2026-06-19T14:48:23.152023",
     "title_original": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "summary_original": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950434"
+    "rewritten_at": "2026-06-19T14:49:59.939792"
   },
   {
     "id": "hn-47225130",
@@ -5640,10 +5610,10 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-06-19T10:16:57.061582",
+    "collected_at": "2026-06-19T14:48:23.152581",
     "title_original": "Meta’s AI smart glasses and data privacy concerns",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950438"
+    "rewritten_at": "2026-06-19T14:49:59.939797"
   },
   {
     "id": "hn-47136179",
@@ -5654,10 +5624,10 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-06-19T10:16:57.061255",
+    "collected_at": "2026-06-19T14:48:23.152178",
     "title_original": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950443"
+    "rewritten_at": "2026-06-19T14:49:59.939802"
   },
   {
     "id": "hn-46990729",
@@ -5668,11 +5638,11 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.",
     "points": 2346,
-    "collected_at": "2026-06-19T10:16:57.061201",
+    "collected_at": "2026-06-19T14:48:23.152109",
     "title_original": "An AI agent published a hit piece on me",
     "summary_original": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950452"
+    "rewritten_at": "2026-06-19T14:49:59.939812"
   },
   {
     "id": "hn-45941596",
@@ -5683,10 +5653,10 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-06-19T10:16:57.061594",
+    "collected_at": "2026-06-19T14:48:23.152596",
     "title_original": "AirPods libreated from Apple's ecosystem",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950456"
+    "rewritten_at": "2026-06-19T14:49:59.939816"
   },
   {
     "id": "hn-44972151",
@@ -5697,11 +5667,11 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "",
     "points": 1697,
-    "collected_at": "2026-06-19T10:16:57.061360",
+    "collected_at": "2026-06-19T14:48:23.152308",
     "title_original": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "summary_original": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950460"
+    "rewritten_at": "2026-06-19T14:49:59.939821"
   },
   {
     "id": "hn-44396518",
@@ -5712,11 +5682,11 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on.",
     "points": 1539,
-    "collected_at": "2026-06-19T10:16:57.061494",
+    "collected_at": "2026-06-19T14:48:23.152473",
     "title_original": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
     "summary_original": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950471"
+    "rewritten_at": "2026-06-19T14:49:59.939831"
   },
   {
     "id": "hn-44314423",
@@ -5727,11 +5697,11 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "",
     "points": 1481,
-    "collected_at": "2026-06-19T10:16:57.061539",
+    "collected_at": "2026-06-19T14:48:23.152527",
     "title_original": "Andrej Karpathy: Software in the era of AI [video]",
     "summary_original": "Andrej Karpathy: Software in the era of AI [video]",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950475"
+    "rewritten_at": "2026-06-19T14:49:59.939837"
   },
   {
     "id": "hn-44163063",
@@ -5742,10 +5712,10 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-06-19T10:16:57.061176",
+    "collected_at": "2026-06-19T14:48:23.152080",
     "title_original": "My AI skeptic friends are all nuts",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950479"
+    "rewritten_at": "2026-06-19T14:49:59.939840"
   },
   {
     "id": "hn-42910910",
@@ -5756,10 +5726,10 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-06-19T10:16:57.061372",
+    "collected_at": "2026-06-19T14:48:23.152324",
     "title_original": "The young, inexperienced engineers aiding DOGE",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950482"
+    "rewritten_at": "2026-06-19T14:49:59.939844"
   },
   {
     "id": "hn-41392128",
@@ -5770,10 +5740,10 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-06-19T10:16:57.061282",
+    "collected_at": "2026-06-19T14:48:23.152210",
     "title_original": "Bypassing airport security via SQL injection",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950486"
+    "rewritten_at": "2026-06-19T14:49:59.939847"
   },
   {
     "id": "hn-41386319",
@@ -5784,10 +5754,10 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-06-19T10:16:57.061294",
+    "collected_at": "2026-06-19T14:48:23.152226",
     "title_original": "Air Con: $1697 for an on/off switch",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950489"
+    "rewritten_at": "2026-06-19T14:49:59.939851"
   },
   {
     "id": "hn-41046773",
@@ -5798,10 +5768,10 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-06-19T10:16:57.061163",
+    "collected_at": "2026-06-19T14:48:23.152064",
     "title_original": "Open source AI is the path forward",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950493"
+    "rewritten_at": "2026-06-19T14:49:59.939854"
   },
   {
     "id": "hn-39918245",
@@ -5812,11 +5782,11 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "",
     "points": 1418,
-    "collected_at": "2026-06-19T10:16:57.061607",
+    "collected_at": "2026-06-19T14:48:23.152612",
     "title_original": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "summary_original": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950497"
+    "rewritten_at": "2026-06-19T14:49:59.939859"
   },
   {
     "id": "hn-39526057",
@@ -5827,10 +5797,10 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-06-19T10:16:57.061149",
+    "collected_at": "2026-06-19T14:48:23.152047",
     "title_original": "Airfoil",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950501"
+    "rewritten_at": "2026-06-19T14:49:59.939863"
   },
   {
     "id": "hn-38544729",
@@ -5841,10 +5811,10 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-06-19T10:16:57.061213",
+    "collected_at": "2026-06-19T14:48:23.152124",
     "title_original": "Gemini AI",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950504"
+    "rewritten_at": "2026-06-19T14:49:59.939866"
   },
   {
     "id": "hn-37021160",
@@ -5855,11 +5825,11 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "",
     "points": 1581,
-    "collected_at": "2026-06-19T10:16:57.061397",
+    "collected_at": "2026-06-19T14:48:23.152355",
     "title_original": "Zoom terms now allow training AI on user content with no opt out",
     "summary_original": "Zoom terms now allow training AI on user content with no opt out",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950509"
+    "rewritten_at": "2026-06-19T14:49:59.939871"
   },
   {
     "id": "hn-31812259",
@@ -5870,10 +5840,10 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-06-19T10:16:57.061551",
+    "collected_at": "2026-06-19T14:48:23.152543",
     "title_original": "Contra Wirecutter on the IKEA air purifier",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950512"
+    "rewritten_at": "2026-06-19T14:49:59.939875"
   },
   {
     "id": "hn-18249755",
@@ -5884,10 +5854,10 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-06-19T10:16:57.061345",
+    "collected_at": "2026-06-19T14:48:23.152290",
     "title_original": "Paper Airplane Designs",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950516"
+    "rewritten_at": "2026-06-19T14:49:59.939879"
   },
   {
     "id": "hn-17022963",
@@ -5898,11 +5868,11 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "",
     "points": 1875,
-    "collected_at": "2026-06-19T10:16:57.061320",
+    "collected_at": "2026-06-19T14:48:23.152259",
     "title_original": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "summary_original": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950520"
+    "rewritten_at": "2026-06-19T14:49:59.939884"
   },
   {
     "id": "hn-15892066",
@@ -5913,11 +5883,11 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "",
     "points": 1535,
-    "collected_at": "2026-06-19T10:16:57.061513",
+    "collected_at": "2026-06-19T14:48:23.152496",
     "title_original": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "summary_original": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950525"
+    "rewritten_at": "2026-06-19T14:49:59.939889"
   },
   {
     "id": "hn-6830566",
@@ -5928,9 +5898,9 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-06-19T10:16:57.061618",
+    "collected_at": "2026-06-19T14:48:23.152627",
     "title_original": "Amazon Prime Air",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950529"
+    "rewritten_at": "2026-06-19T14:49:59.939893"
   }
 ]

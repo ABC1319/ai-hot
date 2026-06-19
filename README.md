@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-19 18:18:30
+🕐 **最近更新**：2026-06-19 22:50:00
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,21 +24,21 @@
    - DeductionAI 是一家利用人工智能捕获和解决软件错误的初创公司，成立于三年前
    - `TechCrunch AI · 2026-06-19`
 
-3. [指标不可避免的弱点](https://aihot.bt199.com/news/3a1b32087c0f/)
-   - 指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元…
-   - `MIT Tech Review · 2026-06-19`
-
-4. [脑机接口试验正在起飞](https://aihot.bt199.com/news/183efb0ffed1/)
-   - 本周，我报道了凯西·哈雷尔 (Casey Harrell) 的故事。据与他一起工作的研究人员介绍，他是一名患有肌萎缩侧索…
-   - `MIT Tech Review · 2026-06-19`
-
-5. [Barret Zoph 时隔五个月再次退出 OpenAI](https://aihot.bt199.com/news/4b49eeba9a48/)
-   - 据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…
+3. [关于山姆·奥特曼的电影已被亚马逊米高梅公司下架](https://aihot.bt199.com/news/aca35cefe862/)
+   - 据报道，卢卡·瓜达尼诺 (Luca Guadagnino) 执导的关于 OpenAI 首席执行官山姆·奥尔特曼 (Sam…
    - `The Verge AI · 2026-06-19`
 
-6. [谁来决定人工智能何时太危险？](https://aihot.bt199.com/news/cab0921cfdea/)
-   - 在今天的 Decoder 节目中，我的嘉宾是 The Verge 的高级人工智能记者 Hayden Field。海登出现…
-   - `The Verge AI · 2026-06-18`
+4. [下载：人工智能瓶颈争论，BCI 试验开始](https://aihot.bt199.com/news/229a5a6ccdc1/)
+   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它突破了阻碍法学硕士…
+   - `MIT Tech Review · 2026-06-19`
+
+5. [一家初创公司声称它突破了阻碍法学硕士的瓶颈](https://aihot.bt199.com/news/8add01e4aff7/)
+   - 总部位于迈阿密的人工智能初创公司 Subquadratic 上个月走出了隐秘模式，带来了巨大的收益。它宣布它已经解决了近…
+   - `MIT Tech Review · 2026-06-19`
+
+6. [Barret Zoph 时隔五个月再次退出 OpenAI](https://aihot.bt199.com/news/4b49eeba9a48/)
+   - 据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…
+   - `The Verge AI · 2026-06-19`
 
 7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
