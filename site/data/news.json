@@ -1,5 +1,171 @@
 [
   {
+    "id": "b3d0e748f727",
+    "title": "突发：Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
+    "url": "https://linux.do/t/topic/2436251",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T18:03:39",
+    "summary": "据报道，Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。",
+    "collected_at": "2026-06-19T19:30:35.005364",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436251",
+    "title_original": "Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
+    "summary_original": "Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。我在那里工作了一年。我想我学到更多的可能是关于语音、语音识别以及诸如此类的技术… Inside the Mind of Anthropic CEO Dario Amodei | The Circuit | Extended Interview 12 个帖子 - 10 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.791921"
+  },
+  {
+    "id": "8284a4b831cb",
+    "title": "Report: Is AI ruining our skills? Early results are in – and they're not good",
+    "url": "https://www.nature.com/articles/d41586-026-01947-1",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-06-19T18:00:48",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.",
+    "collected_at": "2026-06-19T19:30:32.021743",
+    "content_text": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nThat possibility is a growing concern for medical specialists, computer scientists and other workers. Seventy per cent of nurses and 77% of physicians, for example, are worried about losing their skills because of over-reliance on AI systems, according to a survey of US health-care workers published earlier this month1.\nTheir fear might be justified. Evidence suggests that AI-driven ‘deskilling’ is starting to happen in medicine, computer science and other fields. Researchers are now discussing how to preserve important human expertise in the age of AI.\n“Just being aware that this phenomenon exists hopefully provokes some self-reflection about which skills people want to maintain and which they’re willing to outsource” to AI tools, says Kevin Crowston, an information scientist at Syracuse University in New York.\nSpoiled by AI?\nA study2 of physicians in Poland who specialize in endoscopy — the use of flexible probes to examine the inside of the human body — shows how quickly AI tools can erode human abilities. The physicians, who had all performed at least 2,000 colonoscopies during their careers, were given access to an AI system that analyses colonoscopy images in real time and flags a type of precancerous intestinal lesion called an adenoma. The tool was available to the specialists on some days but not on others.\nOnce physicians began using it, their performance dropped significantly whenever the system was unavailable. During the three-month period before the AI tool was introduced, the specialists found at least one adenoma during 28.4% of colonoscopies. During the three-month period after the tool was introduced, the adenoma detection rate for colonoscopies performed without AI assistance decreased to 22.4%.\nThe findings, published last October in The Lancet Gastroenterology and Hepatology, suggest that even highly skilled professionals might get worse at tasks that their job requires as they become more dependent on AI tools, says Robert Wachter, a physician at the University of California, San Francisco, who is the author of a book on how AI tools are transforming health care. The study authors say that continuous exposure to such tools can cause clinicians to become “less motivated, less focused, and less responsible when making cognitive decisions without AI assistance”.\nCo-author Yuichi Mori, a physician-researcher at the University of Oslo, says that more studies are needed to confirm the phenomenon. But people who use AI tools should be aware that they risk losing some of their skills, he adds. “There is no established solution against deskilling right now. It should be a very hot research topic in the next decade.”\nNo lesson learnt\nTo investigate whether skills are being lost in the field of computer science, researchers at the AI firm Anthropic in San Francisco, California, designed a randomized controlled trial in which 52 software engineers were asked to perform a basic coding task3. During the exercise, all 52 participants could search the web and access instructions on how to do the task. Half of the participants were prompted to use an AI assistant as well.\nEnjoying our latest content?\nLog in or create an account to continue\nAccess the most recent journalism from Nature's award-winning team\nExplore the latest features & opinion covering groundbreaking research",
+    "content_source": "trafilatura",
+    "content_chars": 3674,
+    "content_excerpt": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\nand JavaScript.\nThat possibility is a growing concern for medical specialists, computer scientists and other workers. Seventy per cent of nurses and 77% of physicians, for example, are worried about losing their skills because of over-reliance on AI systems, according to a survey of US health-care workers published earlier this month1.\nTheir fear might be justified. Evidence suggests that AI-driven ‘deskilling’ is starting to happen in medicine, computer science and other fields. Researchers are now discussing how to preserve important human expertise in the age of AI.\n“Just being aware that this phenomenon exists hopefully provokes some self-reflection about which skills people want to maintain and which they’re willing to outsource” to AI tools, says Kevin Crowston, an information scientist at Syracuse University in New York.\nSpoiled by AI?\nA study2 of physicians in Poland who specialize in endoscopy — the use of flexible probes to examine the inside of the human body — shows how quickly AI tools can erode human abilities. The physicians, who had all performed at least 2,000 colonoscopies during their careers, were given access to an AI system that analyses colonoscopy images in real time and flags a type of precancerous intestinal lesion called an adenoma. The tool was available to the specialists on some days but not on others.\nOnce physicians began using it, their performance dropped significantly whenever the system was unavailable. During the three-month period before the AI tool was introduced, the specialists found at least one adenoma during 28.4% of colonoscopies. During the three-month period after the tool was introduced, the adenoma detection rate for colonoscopies performed without AI assistance decreased to 22.4%.",
+    "title_zh": "人工智能正在毁掉我们的技能吗？早期结果已经出来——但并不好",
+    "summary_zh": "文章网址：https://www.nature.com/articles/d41586-026-01947-1 评论网址：https://news.ycombinator.com/item?id=48601286 积分：122 # 评论：1…",
+    "ai_summary": "文章网址：https://www.nature.com/articles/d41586-026-01947-1 评论网址…",
+    "title_original": "Is AI ruining our skills? Early results are in – and they're not good",
+    "summary_original": "Article URL: https://www.nature.com/articles/d41586-026-01947-1 Comments URL: https://news.ycombinator.com/item?id=48601286 Points: 122 # Comments: 115",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.791951"
+  },
+  {
+    "id": "3e81bc41c322",
+    "title": "iKuai 软路由系统更新4.0（2026-06-16 15:28），业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2436124",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T16:49:38",
+    "summary": "有分析指出，已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005539",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436124",
+    "title_original": "iKuai 软路由系统更新4.0（2026-06-16 15:28）",
+    "summary_original": "已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.791964"
+  },
+  {
+    "id": "d131d924d4b8",
+    "title": "In depth: Is the US government’s Anthropic ban accidentally helping the brand?",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-06-19T16:08:17",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.",
+    "collected_at": "2026-06-19T19:30:02.915868",
+    "content_text": "Just as last week was ending, the US government\nforced Anthropic to pull its two newest models\n, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.\nCybersecurity researchers have\nsince signed an open letter\ncalling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is this a genuine security concern, or just the latest chapter in a messy relationship between Anthropic and the Trump administration?\nOn this episode of TechCrunch’s\nEquity\npodcast, hosts Anthony Ha, Sean O’Kane, and Rebecca Bellan unpack what the ban means for developers building on Anthropic’s platform and for anyone watching the IPO, why it\nmight accidentally be good for the company\n, and more of the week’s headlines.\nSubscribe to Equity on\nYouTube\n,\nApple Podcasts\n,\nOvercast\n,\nSpotify\nand all the casts. You also can follow Equity on\nX\nand\nThreads\n, at @EquityPod.",
+    "content_source": "readability",
+    "content_chars": 966,
+    "content_excerpt": "Just as last week was ending, the US government\nforced Anthropic to pull its two newest models\n, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.\nCybersecurity researchers have\nsince signed an open letter\ncalling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is this a genuine security concern, or just the latest chapter in a messy relationship between Anthropic and the Trump administration?\nOn this episode of TechCrunch’s\nEquity\npodcast, hosts Anthony Ha, Sean O’Kane, and Rebecca Bellan unpack what the ban means for developers building on Anthropic’s platform and for anyone watching the IPO, why it\nmight accidentally be good for the company",
+    "title_zh": "美国政府的人为禁令是否无意中帮助了该品牌？",
+    "summary_zh": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因是亚马逊研究人员据称找到了绕过《神鬼寓言 5》护栏的方法。 此后，网络安全研究人员",
+    "ai_summary": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+    "title_original": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "summary_original": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.791982"
+  },
+  {
+    "id": "4cd8cef45e15",
+    "title": "突发：基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
+    "url": "https://linux.do/t/topic/2436121",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T16:49:23",
+    "summary": "据悉，2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005584",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436121",
+    "title_original": "基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
+    "summary_original": "2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.791992"
+  },
+  {
+    "id": "00841429d7c1",
+    "title": "In depth: The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-06-19T16:01:03",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.",
+    "collected_at": "2026-06-19T19:30:02.915939",
+    "content_text": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.\nCybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is this a genuine security concern, or just the latest chapter in a messy relationship between Anthropic and the Trump administration?\nOn this episode of TechCrunch’s Equity podcast, hosts Anthony Ha, Sean O’Kane, and Rebecca Bellan unpack what the ban means for developers building on Anthropic’s platform and for anyone watching the IPO, why it might accidentally be good for the company, and more of the week’s headlines.\nListen to the full episode to hear more about:\n- Why the UK’s social media ban for users under 16 might be the lesser of two evils\n- What the SpaceX-Cursor acquisition tells us about xAI’s strategy (and its gaps)\n- Jeff Bezos’s $12B bet on physical AI with Prometheus, the startup trying to build an “artificial engineer”\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
+    "content_source": "trafilatura",
+    "content_chars": 1282,
+    "content_excerpt": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.\nCybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is this a genuine security concern, or just the latest chapter in a messy relationship between Anthropic and the Trump administration?\nOn this episode of TechCrunch’s Equity podcast, hosts Anthony Ha, Sean O’Kane, and Rebecca Bellan unpack what the ban means for developers building on Anthropic’s platform and for anyone watching the IPO, why it might accidentally be good for the company, and more of the week’s headlines.\nListen to the full episode to hear more about:\n- Why the UK’s social media ban for users under 16 might be the lesser of two evils\n- What the SpaceX-Cursor acquisition tells us about xAI’s strategy (and its gaps)\n- Jeff Bezos’s $12B bet on physical AI with Prometheus, the startup trying to build an “artificial engineer”\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
+    "title_zh": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+    "summary_zh": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因是亚马逊研究人员据称找到了绕过《神鬼寓言 5》护栏的方法。 此后，网络安全研究人员",
+    "ai_summary": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+    "title_original": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "summary_original": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.792008"
+  },
+  {
+    "id": "a6068c7cd661",
+    "title": "突发：弥合神经形态离子计算与更高效人工智能之间的差距",
+    "url": "https://linux.do/t/topic/2435847",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T15:31:43",
+    "summary": "据了解，https://www.science.org/doi/10.1126/science.aea2097 [!",
+    "collected_at": "2026-06-19T19:30:35.005818",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435847",
+    "title_original": "弥合神经形态离子计算与更高效人工智能之间的差距",
+    "summary_original": "https://www.science.org/doi/10.1126/science.aea2097 [!abstract]+ 神经形态计算受到人脑有效处理信息的能力的启发，代表了一种变革性的计算方法。在这篇综述中，我们探讨了神经形态离子计算的新兴领域，该领域利用离子传导和耦合来模拟神经过程，并确定必须解决的关键知识差距，以充分发挥其潜力。讨论的中心主题是能源效率，对于这项技术来说，挑战既是限制，也是机遇。 尽管基于互补金属氧化物半导体（CMOS）的神经拟态技术在扩展到数十亿个神经元方面取得了长足的进步，并且越来越多地应用于人工智能和数值计算，但它们在连接性和能源效率方面仍然落后于人脑几个数",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.792019"
+  },
+  {
+    "id": "e35040ffdf08",
+    "title": "Report: Billionaire Ambani wants AI in every call, app, and home",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-06-19T15:23:28",
+    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "collected_at": "2026-06-19T19:30:02.915970",
+    "content_text": "As India searches for a homegrown contender in the global artificial intelligence race, billionaire Mukesh Ambani is positioning Reliance Industries as a national champion, rolling out AI services for phone calls, mobile apps, and connected homes.\nAt its\nannual shareholder meeting\non Friday, the Mumbai-based conglomerate announced Jio Call Agent, an AI assistant that can join phone calls to transcribe conversations, generate summaries, and perform tasks such as booking cabs, ordering food, and making reservations. The service, which can be activated by saying “Hey Jio,” is expected to launch later this year for Jio’s more than 500 million users.\nBy embedding the service directly into its telecom network rather than offering it as a stand-alone app, Jio is betting AI assistance can become a native feature of phone calls. The approach could reduce consumers’ reliance on third-party call-assistant apps and give Reliance a powerful distribution advantage in an increasingly crowded AI market.\nReliance also unveiled an AI-powered version of its MyJio app that can perform tasks on behalf of users, from activating eSIMs to selecting roaming plans, through natural-language requests. The company further introduced TeleFrame, a home display that uses AI agents to proactively surface information and recommendations, such as weather alerts, schedules, and household reminders. The product appears to echo a broader industry push toward ambient AI assistants for the home, an area being explored by companies such as\nAmazon\nand\nGoogle\n.\nJio TeleFrame.\nImage Credits:\nJio\nThe announcements mark the next phase of Reliance’s AI ambitions as India seeks to build domestic capabilities in a field largely dominated by U.S. and Chinese technology companies. The push follows the\nlaunch of Reliance Intelligence\nlast year, through which the conglomerate aims to develop AI infrastructure and services for consumers, businesses, and governments, including applications that support 22 Indian languages.\n“India should not be a mere consumer of AI created elsewhere. It must become a creator, adopter, and a global leader in AI,” Ambani, age 69, said.\nReliance has been ramping up its AI ambitions through partnerships with\nGoogle\n,\nMeta\n, and\nNvidia\n. Earlier this year, the company announced plans to\ninvest $110 billion in AI infrastructure\nas it seeks to establish itself as a major player in India’s emerging AI ecosystem.\nAt the shareholder meeting, Reliance also unveiled a suite of AI services for healthcare, education, agriculture, and small businesses. The products, branded JioHealthIQ, JioLearnIQ, JioKrishiIQ, and AI Vyapar, are designed to operate across multiple Indian languages and cater to local needs, the company said.\nThe shareholder meeting also brought a major development for investors\nawaiting Jio’s stock market debut\n. Ambani said Jio Platforms’ board had approved a draft prospectus for an initial public offering that would include a fresh issue of up to 270 million shares, according to a stock exchange filing.\nThe announcements also raise questions about how Reliance will handle user data as it expands AI services across phone calls, mobile apps, and connected homes. While the company said the services would operate with user consent, it did not answer questions about whether data generated through the products could be used to train AI models or shared with technology partners.\nReliance’s AI ambitions come as Indian companies remain heavily reliant on foreign AI models and cloud providers.\nRecent restrictions on access\nto some of Anthropic’s latest models have underscored that dependency, showing how decisions made overseas can affect\nstartups and businesses\nbuilding AI products in India — the kind of supply-chain risk that’s pushing Indian conglomerates toward building their own stack rather than renting someone else’s.\nLast week, Reliance announced a\ncollaboration with Meta to establish an AI data center\nin the western state of Gujarat, building on Meta’s earlier investment in Jio Platforms and a joint venture launched last year to develop AI solutions for enterprise customers in India and overseas markets.\nReliance is not alone in pursuing AI opportunities.\nTata Consultancy Services\n,\nInfosys\n, and rival\nAdani Group\nhave also expanded their AI initiatives and partnerships with global players, including Anthropic, Google, and OpenAI, as India’s largest corporations race to secure a leading role in the country’s AI future.\nNonetheless, for Reliance, the stakes are particularly high; it’s preparing Jio for a long-awaited stock market debut and needs new growth drivers, with the conglomerate’s shares down about 17% this year.",
+    "content_source": "readability",
+    "content_chars": 4689,
+    "content_excerpt": "As India searches for a homegrown contender in the global artificial intelligence race, billionaire Mukesh Ambani is positioning Reliance Industries as a national champion, rolling out AI services for phone calls, mobile apps, and connected homes.\nAt its\nannual shareholder meeting\non Friday, the Mumbai-based conglomerate announced Jio Call Agent, an AI assistant that can join phone calls to transcribe conversations, generate summaries, and perform tasks such as booking cabs, ordering food, and making reservations. The service, which can be activated by saying “Hey Jio,” is expected to launch later this year for Jio’s more than 500 million users.\nBy embedding the service directly into its telecom network rather than offering it as a stand-alone app, Jio is betting AI assistance can become a native feature of phone calls. The approach could reduce consumers’ reliance on third-party call-assistant apps and give Reliance a powerful distribution advantage in an increasingly crowded AI market.\nReliance also unveiled an AI-powered version of its MyJio app that can perform tasks on behalf of users, from activating eSIMs to selecting roaming plans, through natural-language requests. The company further introduced TeleFrame, a home display that uses AI agents to proactively surface information and recommendations, such as weather alerts, schedules, and household reminders. The product appears to echo a broader industry push toward ambient AI assistants for the home, an area being explored by companies such as\nAmazon\nand\nGoogle\n.",
+    "title_zh": "亿万富翁安巴尼希望人工智能渗透到每一个通话、应用程序和家庭中",
+    "summary_zh": "Reliance 正在将人工智能融入超过 5 亿人使用的电信服务中",
+    "ai_summary": "Reliance 正在将人工智能融入超过 5 亿人使用的电信服务中",
+    "title_original": "Billionaire Ambani wants AI in every call, app, and home",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.792031"
+  },
+  {
+    "id": "8ce81c23c224",
+    "title": "重磅！Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
+    "url": "https://linux.do/t/topic/2435722",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T15:02:46",
+    "summary": "30 个帖子 - 21 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005854",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435722",
+    "title_original": "Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.792037"
+  },
+  {
     "id": "aca35cefe862",
     "title": "Update: The film about Sam Altman has been dropped by Amazon MGM",
     "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
@@ -74,6 +240,24 @@
     "summary_original": "有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
     "rewritten": true,
     "rewritten_at": "2026-06-19T14:49:59.939623"
+  },
+  {
+    "id": "v2ex-1221555",
+    "title": "深度解读：前端界面比想象中复杂好多",
+    "url": "https://www.v2ex.com/t/1221555",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-06-19T11:18:30",
+    "summary": "消息称，刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。",
+    "collected_at": "2026-06-19T19:30:35.738567",
+    "content_text": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。\n前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。\n痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。\n这个过程真的很漫长，因为端到端测试都要自己来，而且还不放心，还要再开一个窗口让 Codex review 代码。\n其实我之前尝试过 Claude Design 和 Claude Code 协作写前端，但细节有很多问题，Claude Code 也处理不好。我想请教一下大家，是前端本来就如此复杂，还是我的流程有问题导致如此繁琐？",
+    "content_source": "trafilatura",
+    "content_chars": 452,
+    "content_excerpt": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。\n前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。\n痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。\n这个过程真的很漫长，因为端到端测试都要自己来，而且还不放心，还要再开一个窗口让 Codex review 代码。\n其实我之前尝试过 Claude Design 和 Claude Code 协作写前端，但细节有很多问题，Claude Code 也处理不好。我想请教一下大家，是前端本来就如此复杂，还是我的流程有问题导致如此繁琐？",
+    "title_original": "前端界面比想象中复杂好多",
+    "summary_original": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。 前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。 痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。 这个过程真的很漫长，因",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.792052"
   },
   {
     "id": "8add01e4aff7",
@@ -171,6 +355,28 @@
     "summary_original": "springermedicine.com Home Springer Medicine provides trustworthy, tailored, cutting-edge content for medical professionals. Follow us to stay on top of the latest advances in your field. https://www.axios.com/2026/06/19/dad-bod-science [!quote]+ 十多年来，“爸爸身材”一直被人们津津乐道、嘲讽和戏仿，被视为已婚有子女男性不可避免的体型。但这个词的意义远不",
     "rewritten": true,
     "rewritten_at": "2026-06-19T10:18:29.950181"
+  },
+  {
+    "id": "3a1b32087c0f",
+    "title": "Analysis: The inevitable weakness of metrics",
+    "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-06-19T09:00:00",
+    "summary": "There are plenty of useful things a metric can reveal.",
+    "collected_at": "2026-06-19T19:30:03.112757",
+    "content_text": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement.\nLike a lot of people bitten by the self-quantifying bug, I initially started gathering personal data to pursue a nebulous collection of goals and desires. As a sedentary technology journalist, I wanted to feel better physically and emotionally, to get outside more, and—where possible—to bring order to some of the messiness and uncertainty of my daily existence. These all seemed to be things that could be improved with the cool clarity of numbers.\nSelf-quantifiers often get stereotyped as obsessive self-optimizers (and many of them are), but my reasons for producing and collecting personal data were less about life-maxxing and more about life meaning—at least at first. As most people who know me will attest, I do not have now, nor have I ever possessed, a “productivity mindset.” I’m also not all that interested in life hacks, shortcuts, or new ways to compare myself with other people. Instead, what I wanted out of metrics—what I hoped I could divine from a never-ending stream of numbers about my health, work, and social life—was something more elusive: self-knowledge. This was my first mistake.\nThe idea that the more we know, the better is so profoundly embedded in our culture that it feels weird to even point it out. Since at least as far back as the Enlightenment, the primary way we’ve all agreed to go about knowing more has been through measurement and quantification. After all, more knowledge—more data—leads to better decisions, which leads to happier, more fulfilled people. Or so we’re told, and with increasing frequency in the era of AI.\nWhen two Wired magazine editors, Gary Wolf and Kevin Kelly, coined the term “quantified self” in 2007 and helped launch the movement we are all now helplessly a part of, they were essentially selling this very idea. “Unless something can be measured, it cannot be improved,” wrote Kelly in an early blog post, doing his best impression of Lord Kelvin. “So we are on a quest to collect as many personal tools that will assist us in quantifiable measurement of ourselves.” Almost 20 years later, that quest is easier than ever thanks to a flood of devices, apps, and websites all designed to help us build our self-knowledge through numbers.\nMy first tool was a small, plastic clip-on Fitbit I started using in 2011. It did one thing: count the number of steps I took in a day. As a lifelong video game player, I was already well acquainted with the motivational power of simple scoring systems, and I hoped my new gadget would offer the gentle numerical nudge I thought I needed to step away from my Twitter feed and, if not touch grass, at least walk next to some. Walking also seemed to be one of the few times I had what could charitably be called intelligent ideas, which seemed like another promising by-product of doing more of it.\nAlas, that was short-lived. I can’t tell you precisely when “getting out into nature more” or “thinking smarter thoughts” stopped mattering to me as goals, but I suspect it took no more than a few weeks. What I can say with certainty is that my initial goal of 6,000 daily steps quickly turned into 10,000, which then jumped to 15,000 and eventually settled at 20,000 for years. Stories about becoming a “steps guy” are clichéd at this point, and they’ve earned that status for a reason.\nIt didn’t take long for me to trade in pedometers for heart-rate monitors (I also started running), smartwatches, sleep-tracking rings, and an embarrassing number of macronutrient-tabulating apps. Outside the health and fitness realm, my early career as a journalist also happened to coincide with the rise of social media and web analytics tools like Chartbeat, which promised to further quantify difficult-to-measure aspects of my life, like “job success” and “impact,” by tracking things like page views, followers, retweets, likes, and all sorts of other attentional metrics that now carry great weight.\nMetrics inevitably redefine your core sense of what’s important, whether you’re aware of the trap or not.\nUltimately, during the 10-plus years I diligently tracked my heart rate, steps, active calories, sleep, story engagement time, stress levels, and other metrics, I gained virtually nothing in terms of greater self-knowledge. (I suppose I did learn that I liked to make numbers go up and down, but who doesn’t?) The swirl of data that followed me everywhere did not lend additional meaning or insight to the way I relate to myself, my work, or the important people in my life. In fact, the more I used numerical proxies, the worse I felt about pretty much everything.\nWhat I did learn were two important lessons about what happens when you try to quantify the minutiae of your life. First and foremost, whatever the amount of data you’re currently collecting about yourself, it will never feel sufficient. There’s always a new metric around the corner, a better way for a tracker to remix its readings and more accurately measure what’s “important”: heart rate variability, daily stress, exercise “readiness,” cardiovascular or “fitness” ages. Measurement begets more measurement. You can count on it.\nThe second lesson was less obvious but no less significant. The more personal or nuanced your goals are when you set off on your self-quantifying journey, the more likely it is you will ultimately replace them with some simplified metric or ranking. Want to become a better journalist? Why not use page views and leaderboards as a proxy for success? Enjoy cooking and want to improve? Foodie metrics dictate that more complicated recipes with longer ingredient lists are the answer. Even when we know that the value of good journalism isn’t reflected in how many people read a given story or that the joys of cooking are as much about improvisation and experimentation as about successfully following some complex recipe, it’s hard to resist the allure of a simple score or stat. Metrics inevitably redefine your core sense of what’s important, whether you’re aware of the trap or not.\nOver the years, people have invented various terms to describe this phenomenon. In his recent book The Score: How to Stop Playing Somebody Else’s Game, the philosopher C. Thi Nguyen calls it “value capture.” Value capture happens, he says, when you adopt external sources of measurement and then let them rule you without adapting them to suit your life. “In value capture, you’re essentially outsourcing your values,” Nguyen writes. “You’re letting an external metric or ranking set what’s important for you.” Crucially, you’re also outsourcing the process of figuring out your own sense of meaning. It’s why my walks quickly shifted from feeling meditative to prioritizing miles.\nIndividuals, institutions, and indeed entire societies can fall prey to value capture. In fact, once you start noticing it, you start seeing it everywhere—in journalism, education, and business, but also in our food, our hobbies, and, yes, the way we measure our health and happiness. Here’s how Nguyen puts it:\nValue capture happens when a restaurant stops caring about making good food and starts caring about maximizing its Yelp ratings. It happens when students stop caring about education and start caring about their GPA. It happens when scientists stop caring about finding truth and start caring about getting the biggest grants. It even happens in religion. A pastor recently told me that his church had become completely obsessed with baptism rates. The higher-ups had established an internal leaderboard in which the pastors competed on monthly baptism rates, and it was starting to dominate everybody’s attention. He’d found himself caring less about the long-term spiritual development of his flock and focusing more on trying to deliver popular sermons that would up his baptism rates and move him up that leaderboard.\nAt its core, The Score is trying to untangle a mystery that Nguyen, a specialist in the philosophy of games at the University of Utah, has been thinking about for a long time: Why is it that numbers and scoring systems in games can be the source of so much joy and fluidity and play, but public measures and institutional metrics (i.e., scores that apply to the real world) seem to drain the life out of everything and thrust us all into a bleak mindset of grinding optimization?\nTo begin to answer this question, he turns to one of the foundational inquiries into the limits of data and quantification, Theodore M. Porter’s 1995 book Trust in Numbers: The Pursuit of Objectivity in Science and Public Life.\nPorter, a historian of science who specializes in the social power of numbers, has spent his career looking at why quantification has become so dominant, not just in political and bureaucratic life but everywhere. One of his key insights about the inherent attractiveness of quantification, which he calls “a technology of distance,” is that it “minimizes the need for intimate knowledge and personal trust.” Put another way, metrics travel extremely well between different contexts and are easy to grasp and aggregate.\nWhether it’s a student’s GPA or a country’s GDP, these measures are understood by pretty much everyone. But that understanding comes at a price, Porter reminds us: To arrive at a clear metric, you inevitably need to simplify what you’re attempting to measure, often jettisoning heaps of nuanced, qualitative, or open-ended information so that others can find the resulting number legible.\nNo one (hopefully) believes that a GPA captures in any meaningful way a student’s entire educational experience or aptitude for learning, but we’ve agreed to use it because more qualitative assessments are onerous to wade through and require expertise to decipher and compare. Ditto for the economic metric of GDP, which politicians and societies are now compelled to drive higher and higher because a group of economists once concluded that this figure correlates with general economic well-being.\nThis is the essential tension at the heart of all data, argues Nguyen. Any institutional quantification, he says, requires that the evaluation procedure and its product be comprehensible across contexts. That profoundly limits what the metric can actually measure. “In value capture, you’re ultimately taking that decontextualized nugget and internalizing it,” he writes. “You’re guiding your life using an evaluative technology that has been engineered to travel between contexts, by stripping it of nuance.”\nEvery so often I’ll find myself in friendly debate with a “numbers person”—a statistician, an economist, or a friend who’s still a committed self-quantifier. After patiently listening to my measurement-gone-awry examples—the disastrous attempt to quantify pain as “the fifth vital sign” in the mid-1990s (which exacerbated the opioid epidemic), or any of the countless examples of the McNamara fallacy, where decisions in academia, medicine, and politics are based solely on what’s easily measured—many will insist that I’m misunderstanding or misinterpreting the whole point of measuring. Metrics, they’ll say, are simply a means, and the important questions concern the ends for which they are used. In other words, these unfortunate outcomes amount to user error, not something inherently dangerous or misleading about the nature of measurement.\nAt some point during these conversations, Goodhart’s Law will invariably come up, usually as an explanation the metrics-minded deploy for why the ends get all mucked up. The principle, which is attributed to the British economist Charles Goodhart, is often expressed as the following: “When a measure becomes a target, it ceases to be a good measure.” I have a profound dislike for Goodhart’s Law, not because I think it’s untrue, but rather for the way it gets interpreted.\nAs Nguyen notes, Goodhart’s Law says very little about why metrics fail to capture what’s important—or what to do about it. Find better measures, some will conclude. Don’t let metrics become targets, others will insist. These are not helpful takeaways. All measurements, I would argue, are in fact targets, whether you intend them to be or not. Metrics inevitably present one direction or option as better, Nguyen writes in The Score—“longer lifespans, faster student graduation rates, more page views, higher customer satisfaction scores.” What people are talking about when they bring up Goodhart’s Law isn’t human error; it’s actually a fundamental problem with measurement itself.\nI want to be clear here: Measurement can and does serve a number of vital functions. It has in a very literal sense made the modern world possible, with all its life-saving, suffering-reducing, and awe-\ninspiring scientific breakthroughs. When used with care and diligence, metrics can make our progress (or lack of it) clearer and more transparent. Are we decreasing carbon dioxide emissions or not? They can also introduce accountability into formerly opaque systems, such as by measuring whether a company is complying with state and federal regulations. They can even make us more objective, reduce biases, and galvanize us to act.\nBut as Nguyen points out throughout The Score, the fundamental weakness of metrics comes when we use them to pursue subtler, more personal goals. What I think many of us miss—what I know I certainly missed—is that there are always trade-offs when you try to distill something important down to a data point. When we turn to metrics to understand ourselves, our social world, and culture as a whole, they will never come close to capturing what matters. Even worse, they’ll often actively obscure it.\nToday, I find that numbers have very little to offer when it comes to my daily work, my physical or mental fitness, my relationships, or any other part of my life I consider important. Granted, I’m lucky enough to be in relatively good health at the moment. I don’t have to track my glucose levels or monitor my blood pressure. As a freelance writer, I also have the luxury of not having numbers foisted on me in the form of key performance indicators (KPIs), objectives and key results (OKRs), or any of the endless quantitative evaluations that come baked into pretty much every corporate and gig economy job.\nStill, in a very real sense, there is no escaping metrics or, especially, the logic that accompanies them. Knowing has become numeric, and we all live in a world that increasingly sees us as a collection of numbers—as “data subjects.” The first and most urgent challenge, I’d suggest, is finding a way to keep us from seeing ourselves and each other that way.\nThis won’t be easy. As Porter, Nguyen, and countless other philosophers, anthropologists, and historians have already observed, the language of numbers is largely how we ascribe value today—as well as how we digest and metabolize our relationships to ourselves, to others, and to the world around us. Indeed, many of us have accepted not only that metrics have a natural existence in human affairs but that there are in fact no aspects of human life that cannot be somehow translated into data.\nKnowing has become numeric, and we all live in a world that increasingly sees us as a collection of numbers— as “data subjects.”\nSo how do we push back? Nguyen’s book offers a useful first step. As he notes again and again in The Score, believing that numbers say something real or useful about human needs and desires gives them power. We can, at the very least, start to seriously question that belief, to ask what meaning and pleasure we might be giving up in pursuit of a metric.\nDoing so will hopefully lead to another realization: that playing the numbers game is ultimately a losing proposition for humans. If we insist on expressing our worth through attentional metrics and productivity scores, if we continue to turn intelligence and creativity into a series of benchmarks for AI to surpass, we’ve already lost. Of course machines will surpass us in a world built around metrics. That is literally what we create them to do. The answer is not to turn ourselves into machines too.\nIf there’s one thing that keeps me up at night, it is that we’ve become so accustomed to seeing and understanding the larger world and ourselves through numbers that it has deprived us of the language to express what’s fundamental and valuable about our own humanity. We need this ability now more than ever, especially if we’re going to adequately answer two of the most important questions of our era: What are humans for? And what is AI for?\nAs part of my own attempts to disentangle myself from a life of numbers—efforts that started shortly before covid—I’ve abandoned most of the tools of measurement I spent a decade collecting. I’ve largely given up on social media. I stopped using apps to track my health and well-being. The watch I currently wear tells me the time and the date and nothing else.\nIn fact, the only holdover from my days of obsessive self-quantification is a dogmatic devotion to walking—without all the step counting, of course. These days, I walk when I’m feeling disillusioned or overwhelmed; I walk when I can’t figure out how to finish an essay; I also walk because I enjoy spending time outdoors with my dog and catching up on the details of my neighbors’ lives. The benefits of pursuing this daily activity are as clear and obvious to me as anything could be in life. I just can’t express them in a number.\nBryan Gardiner is a writer based in Oakland, California.\nDeep Dive\nCulture\nInside soccer’s data renaissance\nMany of the insights hitting soccer pitches today trace back to Jesse Davis and a team of computer scientists open-sourcing tools for some of the sport’s trickiest problems.\nStay connected\nGet the latest updates from\nMIT Technology Review\nDiscover special offers, top stories, upcoming events, and more.",
+    "content_source": "trafilatura",
+    "content_chars": 18080,
+    "content_excerpt": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement.\nLike a lot of people bitten by the self-quantifying bug, I initially started gathering personal data to pursue a nebulous collection of goals and desires. As a sedentary technology journalist, I wanted to feel better physically and emotionally, to get outside more, and—where possible—to bring order to some of the messiness and uncertainty of my daily existence. These all seemed to be things that could be improved with the cool clarity of numbers.\nSelf-quantifiers often get stereotyped as obsessive self-optimizers (and many of them are), but my reasons for producing and collecting personal data were less about life-maxxing and more about life meaning—at least at first. As most people who know me will attest, I do not have now, nor have I ever possessed, a “productivity mindset.” I’m also not all that interested in life hacks, shortcuts, or new ways to compare myself with other people. Instead, what I wanted out of metrics—what I hoped I could divine from a never-ending stream of numbers about my health, work, and social life—was something more elusive: self-knowledge. This was my first mistake.\nThe idea that the more we know, the better is so profoundly embedded in our culture that it feels weird to even point it out. Since at least as far back as the Enlightenment, the primary way we’ve all agreed to go about knowing more has been through measurement and quantification. After all, more knowledge—more data—leads to better decisions, which leads to happier, more fulfilled people. Or so we’re told, and with increasing frequency in the era of AI.\nWhen two Wired magazine editors, Gary Wolf and Kevin Kelly, coined the term “quantified self” in 2007 and helped launch the movement we are all now helplessly a part of, they were essentially selling this very idea. “Unless something can be measured, it cannot be improved,” wrote Kelly in an early blog post, doing his best impression of Lord Kelvin. “So we are on a quest to collect as many personal tools that will assist us in quantifiable measurement of ourselves.” Almost 20 years later, that quest is easier than ever thanks to a flood of devices, apps, and websites all designed to help us build our self-knowledge through numbers.\nMy first tool was a small, plastic clip-on Fitbit I started using in 2011. It did one thing: count the number of steps I took in a day. As a lifelong video game player, I was already well acquainted with the motivational power of simple scoring systems, and I hoped my new gadget would offer the gentle numerical nudge I thought I needed to step away from my Twitter feed and, if not touch grass, at least walk next to some. Walking also seemed to be one of the few times I had what could charitably be called intelligent ideas, which seemed like another promising by-product of doing more of it.\nAlas, that was short-lived. I can’t tell you precisely when “getting out into nature more” or “thinking smarter thoughts” stopped mattering to me as goals, but I suspect it took no more than a few weeks. What I can say with certainty is that my initial goal of 6,000 daily steps quickly turned into 10,000, which then jumped to 15,000 and eventually settled at 20,000 for years. Stories about becoming a “steps guy” are clichéd at this point, and they’ve earned that status for a reason.\nIt didn’t take long for me to trade in pedometers for heart-rate monitors (I also started running), smartwatches, sleep-tracking rings, and an embarrassing number of macronutrient-tabulating apps. Outside the health and fitness realm, my early career as a journalist also happened to coincide with the rise of social media and web analytics tools like Chartbeat, which promised to further quantify difficult-to-measure aspects of my life, like “job success” and “impact,” by tracking things like page views, followers, retweets, likes, and all sorts of other attentional metrics that now carry great weight.\nMetrics inevitably redefine your core sense of what’s important, whether you’re aware of the trap or not.\nUltimately, during the 10-plus years I diligently tracked my heart rate, steps, active calories, sleep, story engagement time, stress levels, and other metrics, I gained virtually nothing in terms of greater self-knowledge. (I suppose I did learn that I liked to make numbers go up and down, but who doesn’t?) The swirl of data that followed me everywhere did not lend additional meaning or insight to the way I relate to myself, my work, or the important people in my life. In fact, the more I used numerical proxies, the worse I felt about pretty much everything.",
+    "title_zh": "指标不可避免的弱点",
+    "summary_zh": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元性，这可能揭示了关于我和测量本质的一些东西。就像一个洛",
+    "ai_summary": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元…",
+    "title_original": "The inevitable weakness of metrics",
+    "summary_original": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.792060"
   },
   {
     "id": "bb693b57939b",
@@ -387,11 +593,11 @@
     "lang": "zh",
     "published": "2026-06-19T03:20:17",
     "summary": "据了解，80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。",
-    "collected_at": "2026-06-19T14:48:23.369137",
+    "collected_at": "2026-06-19T19:30:35.738362",
     "title_original": "年近 40，继续私企国企怎么选",
     "summary_original": "80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939665"
+    "rewritten_at": "2026-06-19T19:32:01.792076"
   },
   {
     "id": "221cd4605337",
@@ -1787,19 +1993,18 @@
     "rewritten_at": "2026-06-18T10:12:05.861217"
   },
   {
-    "id": "8385ba4e30b7",
-    "title": "突发：北大科学家下场做脑机接口，种子轮融了近亿元",
-    "url": "https://36kr.com/p/3855480467543042?f=rss",
-    "source": "36氪",
+    "id": "v2ex-1221233",
+    "title": "重磅！618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
+    "url": "https://www.v2ex.com/t/1221233",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-06-18T01:34:22",
-    "summary": "有分析指出，文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。",
-    "collected_at": "2026-06-19T14:48:20.896214",
-    "title_original": "北大科学家下场做脑机接口，种子轮融了近亿元",
-    "summary_original": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。 芯生视界团队集合了多位国家“脑计划”脑机接口方向“青年首席”：创始人王茜来自北京大学心理与认知科学学院、IDG麦戈文脑科学研究所。联",
+    "published": "2026-06-18T01:32:16",
+    "summary": "据了解，跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.",
+    "collected_at": "2026-06-18T10:10:20.415191",
+    "title_original": "618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
+    "summary_original": "跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.5 Flash` / `DeepSeek-V4-Pro`/ `GLM-5.2` 等主流模型。图片视频也支持（`Seedance2`、`gpt-image-2`）。 注册**直接送**$5 ； V 友评论区跟帖留 ID 送$5 ；**邀请**好友充值每笔返 5%，上不封顶，直接划转到余额！ - 官网： https://nbility.dev - API： https://api.nbility.dev #### 价格 - Codex 低价分组 0.08x 倍率，纯血 pro 号",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939700"
+    "rewritten_at": "2026-06-18T10:12:05.861262"
   },
   {
     "id": "b8d27273d68c",
@@ -1815,35 +2020,6 @@
     "summary_original": "可能是逐步的，没有的大概需要等一段时间刷新或者更新app试试 13 个帖子 - 13 位参与者 阅读完整话题",
     "rewritten": true,
     "rewritten_at": "2026-06-18T10:12:05.861240"
-  },
-  {
-    "id": "v2ex-1221233",
-    "title": "重磅！618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
-    "url": "https://www.v2ex.com/t/1221233",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-06-18T01:32:16",
-    "summary": "据了解，跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.",
-    "collected_at": "2026-06-18T10:10:20.415191",
-    "title_original": "618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
-    "summary_original": "跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.5 Flash` / `DeepSeek-V4-Pro`/ `GLM-5.2` 等主流模型。图片视频也支持（`Seedance2`、`gpt-image-2`）。 注册**直接送**$5 ； V 友评论区跟帖留 ID 送$5 ；**邀请**好友充值每笔返 5%，上不封顶，直接划转到余额！ - 官网： https://nbility.dev - API： https://api.nbility.dev #### 价格 - Codex 低价分组 0.08x 倍率，纯血 pro 号",
-    "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861262"
-  },
-  {
-    "id": "88e9d85da1af",
-    "title": "重磅！Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
-    "url": "https://linux.do/t/topic/2427233",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-18T03:36:24",
-    "summary": "据了解，Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。",
-    "collected_at": "2026-06-18T10:10:19.645966",
-    "title_original": "Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
-    "summary_original": "Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。 Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google创办了Character.ai并担任CEO，直到2024年8月通过一项与Google的授权协议重新回归，出任工程副总裁并共同领导Gemini项目。 11 个帖子 - 10 位参与者 阅读完整话题",
-    "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861251"
   },
   {
     "id": "e304a2af2a1b",
@@ -1867,19 +2043,19 @@
     "rewritten_at": "2026-06-18T02:51:31.380228"
   },
   {
-    "id": "0c6ead8f2446",
-    "title": "claude design现在支持双向同步，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2427228",
+    "id": "88e9d85da1af",
+    "title": "重磅！Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
+    "url": "https://linux.do/t/topic/2427233",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T03:35:39",
-    "summary": "据报道，现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
-    "collected_at": "2026-06-18T10:10:19.646007",
-    "title_original": "claude design现在支持双向同步",
-    "summary_original": "现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
+    "published": "2026-06-18T03:36:24",
+    "summary": "据了解，Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。",
+    "collected_at": "2026-06-18T10:10:19.645966",
+    "title_original": "Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
+    "summary_original": "Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。 Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google创办了Character.ai并担任CEO，直到2024年8月通过一项与Google的授权协议重新回归，出任工程副总裁并共同领导Gemini项目。 11 个帖子 - 10 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861269"
+    "rewritten_at": "2026-06-18T10:12:05.861251"
   },
   {
     "id": "d2c4be182e7f",
@@ -1901,19 +2077,19 @@
     "rewritten_at": "2026-06-18T02:51:31.380258"
   },
   {
-    "id": "ed18a776858d",
-    "title": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2427046",
+    "id": "0c6ead8f2446",
+    "title": "claude design现在支持双向同步，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2427228",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T03:17:00",
-    "summary": "消息称，中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。",
-    "collected_at": "2026-06-18T10:10:19.646054",
-    "title_original": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景",
-    "summary_original": "中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。 该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。 中国邮政 6 个帖子 - 6 位参与者 阅读完整话题",
+    "published": "2026-06-18T03:35:39",
+    "summary": "据报道，现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
+    "collected_at": "2026-06-18T10:10:19.646007",
+    "title_original": "claude design现在支持双向同步",
+    "summary_original": "现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861283"
+    "rewritten_at": "2026-06-18T10:12:05.861269"
   },
   {
     "id": "907aaa70549c",
@@ -1934,20 +2110,19 @@
     "rewritten_at": "2026-06-17T20:06:20.757448"
   },
   {
-    "id": "dab679d59359",
-    "title": "深度解读：Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
-    "url": "https://linux.do/t/topic/2426652",
+    "id": "ed18a776858d",
+    "title": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2427046",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T02:37:57",
-    "summary": "据了解，https://www.midjourney.com/medical/blogpost https://www.",
-    "collected_at": "2026-06-18T02:49:48.044549",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426652",
-    "title_original": "Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
-    "summary_original": "https://www.midjourney.com/medical/blogpost https://www.midjourney.com/medical 我们正在打造一种颠覆性的全新机器，以重新定义医疗健康的基石以及我们与自身身体的关系，我们曾梦想过一种既像核磁共振（MRI）一样强大，又像去水疗中心一样轻松惬意的体验。今天，我们正在开启通往这一愿景的道路。 我们认为，这种医学成像不仅可以变得普普通通，甚至能成为一种随意的、日常的、真正意义上“想用就用”的体验。它只需要声波、一池水和 60 秒的时间。 第一家水疗中心将于 2027 年在旧金山市中心开业。 看着还挺有科幻感的 1 个帖子 -",
+    "published": "2026-06-18T03:17:00",
+    "summary": "消息称，中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。",
+    "collected_at": "2026-06-18T10:10:19.646054",
+    "title_original": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景",
+    "summary_original": "中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。 该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。 中国邮政 6 个帖子 - 6 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380165"
+    "rewritten_at": "2026-06-18T10:12:05.861283"
   },
   {
     "id": "358e207ac3c7",
@@ -1971,20 +2146,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380309"
   },
   {
-    "id": "2d6444e1d92f",
-    "title": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2426456",
+    "id": "dab679d59359",
+    "title": "深度解读：Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
+    "url": "https://linux.do/t/topic/2426652",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T02:16:12",
-    "summary": "据了解，Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。",
-    "collected_at": "2026-06-18T02:49:48.044707",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426456",
-    "title_original": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI",
-    "summary_original": "Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。 Google 2024 年通过一笔约 27 亿美元的 Character.AI 交易，将 Noam Shazeer 及其团队重新纳入 DeepMind，随后担任 Gemini 联合负责人。如今仅两年后，他又宣布加入 OpenAI。 奥特曼发推表示从OpenAI创立之初就非常渴望与Noam合作 12 个帖子 - 10 位参与者 阅读完整话题",
+    "published": "2026-06-18T02:37:57",
+    "summary": "据了解，https://www.midjourney.com/medical/blogpost https://www.",
+    "collected_at": "2026-06-18T02:49:48.044549",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426652",
+    "title_original": "Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
+    "summary_original": "https://www.midjourney.com/medical/blogpost https://www.midjourney.com/medical 我们正在打造一种颠覆性的全新机器，以重新定义医疗健康的基石以及我们与自身身体的关系，我们曾梦想过一种既像核磁共振（MRI）一样强大，又像去水疗中心一样轻松惬意的体验。今天，我们正在开启通往这一愿景的道路。 我们认为，这种医学成像不仅可以变得普普通通，甚至能成为一种随意的、日常的、真正意义上“想用就用”的体验。它只需要声波、一池水和 60 秒的时间。 第一家水疗中心将于 2027 年在旧金山市中心开业。 看着还挺有科幻感的 1 个帖子 -",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380219"
+    "rewritten_at": "2026-06-18T02:51:31.380165"
   },
   {
     "id": "3d1666c95475",
@@ -2009,20 +2184,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380333"
   },
   {
-    "id": "45eb4d749d2f",
-    "title": "突发：腾讯新出为Agent 打造的专属邮箱服务",
-    "url": "https://linux.do/t/topic/2426264",
+    "id": "2d6444e1d92f",
+    "title": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2426456",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T01:55:34",
-    "summary": "有分析指出，agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。",
-    "collected_at": "2026-06-18T02:49:48.044766",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426264",
-    "title_original": "腾讯新出为Agent 打造的专属邮箱服务",
-    "summary_original": "agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。Agent 一键接入邮箱，请阅读 https://agent.qq.com/doc/cli-setup.md 文档，按照步骤为我安装并配置 Agently Mail CLI。 说实话，这个域名用在这儿有点浪费了，也可能这个邮箱产品只是个过渡，后面还有更大的招？ 接入很简单，就是会给你一段提示词，发给Agent就行了 安装结束，会有一个URL，你复制到浏览器，点击授权就行了，目前只试",
+    "published": "2026-06-18T02:16:12",
+    "summary": "据了解，Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。",
+    "collected_at": "2026-06-18T02:49:48.044707",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426456",
+    "title_original": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI",
+    "summary_original": "Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。 Google 2024 年通过一笔约 27 亿美元的 Character.AI 交易，将 Noam Shazeer 及其团队重新纳入 DeepMind，随后担任 Gemini 联合负责人。如今仅两年后，他又宣布加入 OpenAI。 奥特曼发推表示从OpenAI创立之初就非常渴望与Noam合作 12 个帖子 - 10 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380244"
+    "rewritten_at": "2026-06-18T02:51:31.380219"
   },
   {
     "id": "c767b5e1d460",
@@ -2046,20 +2221,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380348"
   },
   {
-    "id": "8b612cf5b5c7",
-    "title": "突发：黄仁勋：没有 AMD 就没英伟达今天",
-    "url": "https://linux.do/t/topic/2426229",
+    "id": "45eb4d749d2f",
+    "title": "突发：腾讯新出为Agent 打造的专属邮箱服务",
+    "url": "https://linux.do/t/topic/2426264",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T01:53:02",
-    "summary": "消息称，黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。",
-    "collected_at": "2026-06-18T02:49:48.044848",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426229",
-    "title_original": "黄仁勋：没有 AMD 就没英伟达今天",
-    "summary_original": "黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。他白天在 AMD 上班，晚上赶去上课，靠半工半读完成了硕士学位。 他把加入 AMD 视为人生关键选择，这段经历为他后来创办英伟达打下了技术与人力基础。如今英伟达已成为全球 AI 算力巨头。此外，AMD 现任 CEO 苏姿丰其实是他的远亲，但两人此前公开交集并不多。 快科技 黄仁勋：没有AMD就没英伟达今天 他们赞助我读硕士 快科技6月17日消息，近日黄仁勋在公开访谈中聊起了自己早年的求学往事，他坦言当年大学刚毕业的时候，根本负担不起继续读硕士的相关费用，是AMD资助他完成了硕士学业，",
+    "published": "2026-06-18T01:55:34",
+    "summary": "有分析指出，agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。",
+    "collected_at": "2026-06-18T02:49:48.044766",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426264",
+    "title_original": "腾讯新出为Agent 打造的专属邮箱服务",
+    "summary_original": "agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。Agent 一键接入邮箱，请阅读 https://agent.qq.com/doc/cli-setup.md 文档，按照步骤为我安装并配置 Agently Mail CLI。 说实话，这个域名用在这儿有点浪费了，也可能这个邮箱产品只是个过渡，后面还有更大的招？ 接入很简单，就是会给你一段提示词，发给Agent就行了 安装结束，会有一个URL，你复制到浏览器，点击授权就行了，目前只试",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380269"
+    "rewritten_at": "2026-06-18T02:51:31.380244"
   },
   {
     "id": "9ef08ab1d787",
@@ -2084,20 +2259,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757714"
   },
   {
-    "id": "bc1f4ac72482",
-    "title": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2425787",
+    "id": "8b612cf5b5c7",
+    "title": "突发：黄仁勋：没有 AMD 就没英伟达今天",
+    "url": "https://linux.do/t/topic/2426229",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T00:45:56",
-    "summary": "据报道，Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken.",
-    "collected_at": "2026-06-18T02:49:48.045192",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425787",
-    "title_original": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。",
-    "summary_original": "Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken... By applying machine-learning models to single-cell brain recordings taken from humans in conversation, a research team identified both individual and collective neuronal activity that reflected",
+    "published": "2026-06-18T01:53:02",
+    "summary": "消息称，黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。",
+    "collected_at": "2026-06-18T02:49:48.044848",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426229",
+    "title_original": "黄仁勋：没有 AMD 就没英伟达今天",
+    "summary_original": "黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。他白天在 AMD 上班，晚上赶去上课，靠半工半读完成了硕士学位。 他把加入 AMD 视为人生关键选择，这段经历为他后来创办英伟达打下了技术与人力基础。如今英伟达已成为全球 AI 算力巨头。此外，AMD 现任 CEO 苏姿丰其实是他的远亲，但两人此前公开交集并不多。 快科技 黄仁勋：没有AMD就没英伟达今天 他们赞助我读硕士 快科技6月17日消息，近日黄仁勋在公开访谈中聊起了自己早年的求学往事，他坦言当年大学刚毕业的时候，根本负担不起继续读硕士的相关费用，是AMD资助他完成了硕士学业，",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380291"
+    "rewritten_at": "2026-06-18T02:51:31.380269"
   },
   {
     "id": "81f02ed98f12",
@@ -2118,20 +2293,20 @@
     "rewritten_at": "2026-06-17T19:35:48.309329"
   },
   {
-    "id": "178cf71bdb60",
-    "title": "刚刚，两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
-    "url": "https://linux.do/t/topic/2425735",
+    "id": "bc1f4ac72482",
+    "title": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2425787",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T00:39:07",
-    "summary": "据报道，TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone.",
-    "collected_at": "2026-06-18T02:49:48.045339",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425735",
-    "title_original": "两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
-    "summary_original": "TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone... Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations,",
+    "published": "2026-06-18T00:45:56",
+    "summary": "据报道，Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken.",
+    "collected_at": "2026-06-18T02:49:48.045192",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425787",
+    "title_original": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。",
+    "summary_original": "Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken... By applying machine-learning models to single-cell brain recordings taken from humans in conversation, a research team identified both individual and collective neuronal activity that reflected",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380303"
+    "rewritten_at": "2026-06-18T02:51:31.380291"
   },
   {
     "id": "1d907aaa2f0e",
@@ -2155,20 +2330,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757726"
   },
   {
-    "id": "c3522299a1d3",
-    "title": "库克：涨价不可避免，苹果计划上调产品价格。，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2425614",
+    "id": "178cf71bdb60",
+    "title": "刚刚，两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
+    "url": "https://linux.do/t/topic/2425735",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-17T23:52:18",
-    "summary": "有分析指出，苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。",
-    "collected_at": "2026-06-18T02:49:48.045470",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425614",
-    "title_original": "库克：涨价不可避免，苹果计划上调产品价格。",
-    "summary_original": "苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。 库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。 https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1 难道我的老设备要升值了？ 19 个帖子 - 19 位参与者 阅读完整话题",
+    "published": "2026-06-18T00:39:07",
+    "summary": "据报道，TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone.",
+    "collected_at": "2026-06-18T02:49:48.045339",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425735",
+    "title_original": "两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
+    "summary_original": "TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone... Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations,",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380343"
+    "rewritten_at": "2026-06-18T02:51:31.380303"
   },
   {
     "id": "df07fe6f5184",
@@ -2193,20 +2368,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757745"
   },
   {
-    "id": "0edfac96a3c4",
-    "title": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国，这意味着什么？",
-    "url": "https://linux.do/t/topic/2425464",
+    "id": "c3522299a1d3",
+    "title": "库克：涨价不可避免，苹果计划上调产品价格。，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2425614",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-17T20:01:51",
-    "summary": "据悉，这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题",
-    "collected_at": "2026-06-17T20:04:57.366523",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425464",
-    "title_original": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国",
-    "summary_original": "这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题",
+    "published": "2026-06-17T23:52:18",
+    "summary": "有分析指出，苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。",
+    "collected_at": "2026-06-18T02:49:48.045470",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425614",
+    "title_original": "库克：涨价不可避免，苹果计划上调产品价格。",
+    "summary_original": "苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。 库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。 https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1 难道我的老设备要升值了？ 19 个帖子 - 19 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-17T20:06:20.757692"
+    "rewritten_at": "2026-06-18T02:51:31.380343"
   },
   {
     "id": "a6c236be12e6",
@@ -2223,6 +2398,40 @@
     "content_chars": 5020,
     "content_excerpt": "整理 | 华卫\n近日，物理 AGI 全球领军企业极佳视界再获 10 亿元 B2 轮融资，本轮融资由新加坡顶级跨境投资机构狮城资本（多轮持续追投）、中国-比利时基金（中比基金）、建投投资、万向钱潮、复星锐正、华盖创赢、金创投、德屹资本、华仓资本、元石基金等全球顶级国家队基金、产业资本、财务机构、国资平台共同投资，国中资本、达晨财智、图灵资管等多个老股东持续超额加注；全球顶配资本阵容齐聚，市场投资意向远超原定募资目标。\n据悉，本轮融资将主要用于“双金字塔”数据与算法体系的持续投入、物理 AGI 基础模型的研发迭代，以及 C 端家庭场景与 B 端工业场景的规模化落地。全球顶级国家队基金、财务机构、产业资本与国资平台的共同选择，背后是对极佳视界“世界模型驱动物理 AGI 技术路线＋生产力级落地能力”的坚定看好。\n自成立起，极佳视界就坚信“世界模型是语言模型之后下一个最重要的事情”，坚持以基础模型为核心的物理 AGI 全栈路线，并加速生产力场景真实落地。此前 2026 年 3 月和 4 月，极佳视界已分别完成 10 亿元 Pre-B 轮和 15 亿元 B1 轮融资。\n“双金字塔”驱动双模型体系，系统化加速物理 AGI 突破\n过去 3 年多来，数字 AGI 的发展举世瞩目：从 GPT-3 的智能涌现，到 ChatGPT 让数字智能惠及全球亿万普通人，再到 Claude Code 带来专家级别的数字智能。数字 AGI 已经彻底改变了数字世界，释放出令人惊叹的数字生产力。而经过几十年的长期积累和近年的产业级探索，物理 AGI 的征程正沿着与数字 AGI 基本一致的路径展开。不同之处在于，物理 AGI 将把这场智能革命从数字世界带入物理世界，从无限的数字生产力走向无限的物理生产力。\n极佳视界创始人、CEO 黄冠表示，“GPT-3 时刻，实现了模型能力的智能涌现；ChatGPT 时刻，生产力惠及到了每一个普通人；Claude Code 时刻，数字智能模型能力达到了专业领域专家级别。作为在国内最早布局世界模型的物理 AGI 领先企业，极佳视界相信物理 AGI 未来也将经历类似阶段，不同之处在于，物理 AGI 将直接作用于真实的物理世界。它带来的不仅是信息效率的提升，更是生产与生活方式的重塑，因此对经济与社会的影响也将更为深远。”\n沿着这一判断，极佳视界正系统化加速物理 AGI 基础模型三个阶段的到来：从智能涌现，到普通技能，再到专业技能。智能涌现层面，未来 GigaBrain-3 有望在模型能力上实现 GPT-3 级别的进展；C 端普通技能普惠层面，首款面向家庭的产品拾光 S1 已在大众层面引发强烈反响，未来拾光 S2/S3 系列有望实现 C 端在技术与产品上的产业级突破；B 端专业领域技能层面，工业场景应用落地正在规模化展开，剑指物理智能在高级技能生产力场景的专家级突破。\n要让物理 AGI 走向产业爆发，先要回答一个根本问题：物理通用智能的 Scaling，究竟建立在什么之上？\n极佳视界给出的答案，是过去三年沉淀的物理 AGI 底层方法论：全球首个物理 AGI“双金字塔”体系。",
     "title_original": "极佳视界再获10亿元B2轮融资，首款家用机器人拾光S1引发强烈反响",
+    "rewritten": true,
+    "rewritten_at": "2026-06-17T19:35:48.309329"
+  },
+  {
+    "id": "0edfac96a3c4",
+    "title": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国，这意味着什么？",
+    "url": "https://linux.do/t/topic/2425464",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-17T20:01:51",
+    "summary": "据悉，这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题",
+    "collected_at": "2026-06-17T20:04:57.366523",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425464",
+    "title_original": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国",
+    "summary_original": "这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-17T20:06:20.757692"
+  },
+  {
+    "id": "a931b4f02ae4",
+    "title": "刚刚，“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
+    "url": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-06-17T18:01:54",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-06-17T11:23:20.046359",
+    "content_text": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。\n正如视频所见，整个过程并不优雅，甚至有点笨：角度偏一些、力度大一点，卡片就会滑落。但它会一次次试、一次次修正，\n最后总能找到更合适的着力点\n。\n对实验结果感到诧异的不只有你。就连橡木果机器人（Acorn Robot）的发起人姜峣（清华机械工程博士、哈佛大学神经科学博士后）都称之为“惊喜”。“它不是一次成功，”他回忆道，“但试了八九次之后，它竟然自己找到了办法。”\n谈及此处，姜峣的眼神里仍带着兴奋，像极了第一次在语言模型身上感受到智能涌现。他将机器人这套\n“靠自己摸索出来的策略”\n称之为\n“本能驱动下的行为涌现”\n；驱动它的，是橡木果的端侧自主决策模型 Natus。\n该模块是橡木果面向 B 端柔性制造场景的首款产品，目前已走完国内 Top1 化妆品企业的概念验证（POC）阶段，实现了规模化部署。\n在橡木果的研发管线里，还有更多形态的执行模块。它们每天孜孜不倦地练习抓取各种物品：从矿泉水瓶到橡胶软球，从香蕉到豆腐，以及异形不规则件。\n图注：橡木果冷启动自主探索抓取各类异形物体\n这些看似笨拙的试探，都指向了同一个发现：\n如果机器人在几乎没有“示范数据模板”的情况下，依然能靠实践摸索出有效策略，\n那执行层真正缺的，可能并不是更多的轨迹数据，\n而是一套能\n激发它“先动起来、先试起来”的底层机制\n。\n这也是姜峣面对当前主流具身路线最犀利的反思：VLA、世界模型、仿真学习并非毫无价值，但它们太容易在操作执行的“最后一厘米”掉链子。\n执行侧：具身智能最沉默的困局\n无论是试图端到端闭环的 VLA，还是推演物理未来的“世界模型”，本质上都带着语言模型“大力出奇迹”的惯性：以为只要看过的视频够多、数据喂得够足，操作智能就能自然涌现。但一旦涉足真实的物理交互，这套逻辑无疑将撞上两座大山：\n接触与本体\n。\n操作的本质是\n物理接触\n，摩擦、阻尼、力传导……这些现在世界里无处不在的变量，\n在世界模型却难以稳定建模\n。它或许能精准地生成一段“机器人抓取水杯”的预测视频，但却无法算出指尖与杯壁接触瞬间的相对摩擦，更无法预判玻璃滑落前那微小的形变。\n视觉上的“看起来会”，掩盖不了执行层的“做不到”。\n此外，操作必须通过具体的本体去执行，而每台机器人的关节磨损、装配松紧都有微小差异。橡木果团队做过对比实验：两台同款夹爪，采用同一套模型参数，\n仅仅是导轨松紧存在差异\n，在执行侧的效果也会大相径庭。\n接触的不可预测与本体的微小差异，注定了数据驱动的路线是个填不满的无底洞。\n行为模式难以穷尽，模型训练必须覆盖所有场景和硬件偏差\n，但哪怕全球最大的开源机器人数据集已达到百万回合的运动轨迹，\n依然无法激发出模型在执行层的泛化能力。\n图注：Open X-Embodiment (OXE) 目前全球最大的开源机器人数据集，包含来自全球 34 个研究实验室的 22 种不同机器人载体收集的超过一百万个机器人回合。\n更要命的是，在按秒计费的产线上，没人等得起大模型数秒才能走完的推理闭环，VLA 动辄数秒的延迟，连进场作业的资格都没有。\n这让姜峣坚信：\n没有绝对通用的最好模型，只有最适配这台机器的模型。\nVLA 想用数据解决操作问题，但采集成百上千小时的高质量遥操作数据，本身就需要极高的操作门槛。\n“操作一定要在实践中学习，但实践的前提是你必须先能够实践起来。”\n这是姜峣对于机器人执行的第二个关键判断，它揭示了 VLA 在执行侧的死穴，同时也是橡木果“另起炉灶”的起点。\n跨界学科撞出的无人区\n这套判断，并非从文献推导来的。\n在清华机械工程系读博期间，姜峣天天和阻抗控制、力学建模打交道，这让他对物理交互有着根深蒂固的直觉：\n操作的本质是力学行为，而非视觉问题\n。\n2016 年，他去哈佛做神经科学博士后，研究方向变成了人脑的运动控制。实验室做了大量感知干扰实验：屏蔽视觉、干扰触觉，观察人手操作的变化。他发现，无论怎么干扰，\n人类最基本的抓取动作始终不变。\n“那个永远不变的部分，就是本能，”\n姜峣意识到。语言没环境学不会，但没人教过婴儿怎么抓东西，全人类却抓得高度一致。这不是因为见过了足够多的场景，而是因为有一套基于触觉和力学的先天机制。\n两套看起来八竿子打不着的学科语言在姜峣身上对齐了：\n操作的本质不是拟合视觉轨迹，而是力学规律；人类的通用操作能力，源于本能，而非数据。\n把“本能”移植给机器人，这在当时是绝对的“无人区”。2018 年回国建实验室时，“具身智能”还没出圈，VLA 尚未大行其道，同行觉得他在讲玄学，投资人听不懂……\n姜峣没有急着说服外界，\n而是极其审慎地培养同路人\n：实验室会要求大二便进组观察，先看能力，更看“是否理解数据驱动解决不了执行侧死结、是否相信本能”。算法再强但不认同这一点的人，他不要。新成员进组，必须经实验室全体博士生认可。最长的一位，更是跟了他 10 年。\n2024 年创业时，\n组里 8 位博士一致选择加入了橡木果\n。更罕见的是，这些人私下有个共识：\n如果公司哪天不坚守“本能驱动”，他们就不继续效力。\n这不是创业故事里常见的情怀，而是认知共识在对抗行业惯性前，必须建立的防线。\n因为他们要找的，是“操作层面的万有引力”。\n是规律，不是规则\n这意味着必须放弃拟合轨迹的执念。牛顿没有穷尽每一条运动轨迹，而是用一条不含任何运动参数的万有引力定律，支配了所有运动。姜峣把同样的逻辑搬到了操作上：\nVLA 在学轨迹，橡木果在找规律。\n规则是把操作算法写死，而规律只给约束。基于对物理交互的下探，姜峣将这条规律提炼为三类操作本能：\n定向本能\n解决“去哪”——与视觉协同，指引末端向目标移动，就像婴儿看到移动物体时自然转头追随；\n探索本能\n解决“怎么碰”——这是最复杂、也最体现智能涌现的一环。接触发生后，机器人不依赖预设程序或模仿，而是沿物体表面自主试探，寻找稳定的接触构型；\n执行交互本能\n解决“怎么抓”——以“滑移最小化”为核心，实时调节抓取力度。抓豆腐时轻柔，抓锤子时紧实，装配时自适应阻力。所有调控全凭触觉实时反馈，无需任何训练数据。\n没有人告诉开篇的那个夹爪“从侧面撬卡片”，它只有“找到稳定接触”的底层期望，撬的动作便\n在物理约束下自然涌现\n。\n但要让这套本能真正闭环，必须跨过一个关键技术门槛：\n滑移感知\n。“就像你站在高铁上，想感知车厢和地面的相对速度，”姜峣解释，“你嵌在其中一方，几乎没有参照物。”\n团队花了 7 年，迭代十余版原型机，\n才把微米级滑移感知做到稳定可用\n。有了它，机器人遇到任何物体，都能在接触中实时感知“要滑了”并自动修正——不需要提前知道物体是什么。\n这也是零数据冷启动能够成立的物理基石。\n有了这三套“本能规律”，便可激发机器的无穷多行为。\nNatus 与 Magis：从本能到技能\n被 Natus 模型驱动的“行为涌现”，在端侧可实时控制：200Hz 响应，毫秒级延时，无云端依赖，出厂时针对具体硬件的力学特性单独适配。它的核心使命，就是解开前文那个“没能力就不能实践”的死结：\n让机器人“第一天上产线就能用”\n。\n但一直靠本能探索效率太低，这便是第二层模型 Magis 存在的意义。\nNatus 探索产生的数据，不是普通的视频轨迹，\n而是带有触觉语义的记录\n：视觉看到“一根香蕉”，触觉同步标注“重 120 克，质心偏左，表皮粗糙”。\n这类带力学标注的视觉数据送入 Magis 训练，得到的技能模型对物理世界的理解，远比纯视觉数据深得多——\n它知道怎么抓，而不只是看起来像在抓。\nMagis 成熟后，熟悉场景可直接调用技能，陌生场景则退回 Natus 探索，新数据再沉淀进 Magis。一方面本能持续涌现，可以兜底；另一方面技能越积越厚，不断进化。\n“我们颠覆了现在所有数据采集的方式，”姜峣说，“\n最好的数据来源不是仿真，不是人工遥操，而是产品自己在真实物理世界里跑出来的\n。”\n换产不停线：零数据的真实价码\n这套“自己跑出数据、自己长出技能”的能力，最迫切的场景在哪？\n橡木果选择了\n柔性制造\n，姜峣认为，\n这是权衡过执行侧门槛和市场痛点后最佳的交叉点。\n化妆品 ODM 行业是典型。SKU 超百种，几周一换，每次换产就要停线调参，\n它的痛点不是机器不够快，是机器认不出新物料\n。更棘手的是物料本身：粉饼极度易碎，稍用力就留印；香薰灯芯细软不均，力大了拔出，力小了拽不动。\n这类任务无法用规则覆盖，VLA 训练成本极高，传统自动化束手无策。\n但对 Natus 来说，换了 SKU，只需自己探索，不停线、不调参、不叫工程师，\n这才是“零数据冷启动”对产线的真实价值。\n据介绍，橡木果在国内头部化妆品企业完成 POC，从启动到验证不到两个月，随即进入规模化部署，在手订单突破 2000 万元。\n图注：具身智能的两条技术路径：自上而下数据拟合 vs 自下而上本能驱动\n对于技术路线更长期的判断，姜峣认为，\nNatus 和大模型从来不是竞争，而是分工\n：大模型负责理解任务、规划步骤，Natus/Magis 负责毫秒级的物理执行，\n一个做规划，一个做操作，接口协同，各司其职。\n这不是妥协，而是回归操作本质的必然。就像生物进化把操作反射交给了脊髓，而不是每次触觉都等大脑重新决策——这个判断，从他 8 年前在哈佛和清华的跨界碰撞中，就没变过。",
+    "content_source": "readability",
+    "content_chars": 4153,
+    "content_excerpt": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。",
+    "title_original": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
     "rewritten": true,
     "rewritten_at": "2026-06-17T19:35:48.309329"
   },
@@ -2247,24 +2456,6 @@
     "summary_original": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses",
     "rewritten": true,
     "rewritten_at": "2026-06-18T02:51:31.380359"
-  },
-  {
-    "id": "a931b4f02ae4",
-    "title": "刚刚，“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
-    "url": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-06-17T18:01:54",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-06-17T11:23:20.046359",
-    "content_text": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。\n正如视频所见，整个过程并不优雅，甚至有点笨：角度偏一些、力度大一点，卡片就会滑落。但它会一次次试、一次次修正，\n最后总能找到更合适的着力点\n。\n对实验结果感到诧异的不只有你。就连橡木果机器人（Acorn Robot）的发起人姜峣（清华机械工程博士、哈佛大学神经科学博士后）都称之为“惊喜”。“它不是一次成功，”他回忆道，“但试了八九次之后，它竟然自己找到了办法。”\n谈及此处，姜峣的眼神里仍带着兴奋，像极了第一次在语言模型身上感受到智能涌现。他将机器人这套\n“靠自己摸索出来的策略”\n称之为\n“本能驱动下的行为涌现”\n；驱动它的，是橡木果的端侧自主决策模型 Natus。\n该模块是橡木果面向 B 端柔性制造场景的首款产品，目前已走完国内 Top1 化妆品企业的概念验证（POC）阶段，实现了规模化部署。\n在橡木果的研发管线里，还有更多形态的执行模块。它们每天孜孜不倦地练习抓取各种物品：从矿泉水瓶到橡胶软球，从香蕉到豆腐，以及异形不规则件。\n图注：橡木果冷启动自主探索抓取各类异形物体\n这些看似笨拙的试探，都指向了同一个发现：\n如果机器人在几乎没有“示范数据模板”的情况下，依然能靠实践摸索出有效策略，\n那执行层真正缺的，可能并不是更多的轨迹数据，\n而是一套能\n激发它“先动起来、先试起来”的底层机制\n。\n这也是姜峣面对当前主流具身路线最犀利的反思：VLA、世界模型、仿真学习并非毫无价值，但它们太容易在操作执行的“最后一厘米”掉链子。\n执行侧：具身智能最沉默的困局\n无论是试图端到端闭环的 VLA，还是推演物理未来的“世界模型”，本质上都带着语言模型“大力出奇迹”的惯性：以为只要看过的视频够多、数据喂得够足，操作智能就能自然涌现。但一旦涉足真实的物理交互，这套逻辑无疑将撞上两座大山：\n接触与本体\n。\n操作的本质是\n物理接触\n，摩擦、阻尼、力传导……这些现在世界里无处不在的变量，\n在世界模型却难以稳定建模\n。它或许能精准地生成一段“机器人抓取水杯”的预测视频，但却无法算出指尖与杯壁接触瞬间的相对摩擦，更无法预判玻璃滑落前那微小的形变。\n视觉上的“看起来会”，掩盖不了执行层的“做不到”。\n此外，操作必须通过具体的本体去执行，而每台机器人的关节磨损、装配松紧都有微小差异。橡木果团队做过对比实验：两台同款夹爪，采用同一套模型参数，\n仅仅是导轨松紧存在差异\n，在执行侧的效果也会大相径庭。\n接触的不可预测与本体的微小差异，注定了数据驱动的路线是个填不满的无底洞。\n行为模式难以穷尽，模型训练必须覆盖所有场景和硬件偏差\n，但哪怕全球最大的开源机器人数据集已达到百万回合的运动轨迹，\n依然无法激发出模型在执行层的泛化能力。\n图注：Open X-Embodiment (OXE) 目前全球最大的开源机器人数据集，包含来自全球 34 个研究实验室的 22 种不同机器人载体收集的超过一百万个机器人回合。\n更要命的是，在按秒计费的产线上，没人等得起大模型数秒才能走完的推理闭环，VLA 动辄数秒的延迟，连进场作业的资格都没有。\n这让姜峣坚信：\n没有绝对通用的最好模型，只有最适配这台机器的模型。\nVLA 想用数据解决操作问题，但采集成百上千小时的高质量遥操作数据，本身就需要极高的操作门槛。\n“操作一定要在实践中学习，但实践的前提是你必须先能够实践起来。”\n这是姜峣对于机器人执行的第二个关键判断，它揭示了 VLA 在执行侧的死穴，同时也是橡木果“另起炉灶”的起点。\n跨界学科撞出的无人区\n这套判断，并非从文献推导来的。\n在清华机械工程系读博期间，姜峣天天和阻抗控制、力学建模打交道，这让他对物理交互有着根深蒂固的直觉：\n操作的本质是力学行为，而非视觉问题\n。\n2016 年，他去哈佛做神经科学博士后，研究方向变成了人脑的运动控制。实验室做了大量感知干扰实验：屏蔽视觉、干扰触觉，观察人手操作的变化。他发现，无论怎么干扰，\n人类最基本的抓取动作始终不变。\n“那个永远不变的部分，就是本能，”\n姜峣意识到。语言没环境学不会，但没人教过婴儿怎么抓东西，全人类却抓得高度一致。这不是因为见过了足够多的场景，而是因为有一套基于触觉和力学的先天机制。\n两套看起来八竿子打不着的学科语言在姜峣身上对齐了：\n操作的本质不是拟合视觉轨迹，而是力学规律；人类的通用操作能力，源于本能，而非数据。\n把“本能”移植给机器人，这在当时是绝对的“无人区”。2018 年回国建实验室时，“具身智能”还没出圈，VLA 尚未大行其道，同行觉得他在讲玄学，投资人听不懂……\n姜峣没有急着说服外界，\n而是极其审慎地培养同路人\n：实验室会要求大二便进组观察，先看能力，更看“是否理解数据驱动解决不了执行侧死结、是否相信本能”。算法再强但不认同这一点的人，他不要。新成员进组，必须经实验室全体博士生认可。最长的一位，更是跟了他 10 年。\n2024 年创业时，\n组里 8 位博士一致选择加入了橡木果\n。更罕见的是，这些人私下有个共识：\n如果公司哪天不坚守“本能驱动”，他们就不继续效力。\n这不是创业故事里常见的情怀，而是认知共识在对抗行业惯性前，必须建立的防线。\n因为他们要找的，是“操作层面的万有引力”。\n是规律，不是规则\n这意味着必须放弃拟合轨迹的执念。牛顿没有穷尽每一条运动轨迹，而是用一条不含任何运动参数的万有引力定律，支配了所有运动。姜峣把同样的逻辑搬到了操作上：\nVLA 在学轨迹，橡木果在找规律。\n规则是把操作算法写死，而规律只给约束。基于对物理交互的下探，姜峣将这条规律提炼为三类操作本能：\n定向本能\n解决“去哪”——与视觉协同，指引末端向目标移动，就像婴儿看到移动物体时自然转头追随；\n探索本能\n解决“怎么碰”——这是最复杂、也最体现智能涌现的一环。接触发生后，机器人不依赖预设程序或模仿，而是沿物体表面自主试探，寻找稳定的接触构型；\n执行交互本能\n解决“怎么抓”——以“滑移最小化”为核心，实时调节抓取力度。抓豆腐时轻柔，抓锤子时紧实，装配时自适应阻力。所有调控全凭触觉实时反馈，无需任何训练数据。\n没有人告诉开篇的那个夹爪“从侧面撬卡片”，它只有“找到稳定接触”的底层期望，撬的动作便\n在物理约束下自然涌现\n。\n但要让这套本能真正闭环，必须跨过一个关键技术门槛：\n滑移感知\n。“就像你站在高铁上，想感知车厢和地面的相对速度，”姜峣解释，“你嵌在其中一方，几乎没有参照物。”\n团队花了 7 年，迭代十余版原型机，\n才把微米级滑移感知做到稳定可用\n。有了它，机器人遇到任何物体，都能在接触中实时感知“要滑了”并自动修正——不需要提前知道物体是什么。\n这也是零数据冷启动能够成立的物理基石。\n有了这三套“本能规律”，便可激发机器的无穷多行为。\nNatus 与 Magis：从本能到技能\n被 Natus 模型驱动的“行为涌现”，在端侧可实时控制：200Hz 响应，毫秒级延时，无云端依赖，出厂时针对具体硬件的力学特性单独适配。它的核心使命，就是解开前文那个“没能力就不能实践”的死结：\n让机器人“第一天上产线就能用”\n。\n但一直靠本能探索效率太低，这便是第二层模型 Magis 存在的意义。\nNatus 探索产生的数据，不是普通的视频轨迹，\n而是带有触觉语义的记录\n：视觉看到“一根香蕉”，触觉同步标注“重 120 克，质心偏左，表皮粗糙”。\n这类带力学标注的视觉数据送入 Magis 训练，得到的技能模型对物理世界的理解，远比纯视觉数据深得多——\n它知道怎么抓，而不只是看起来像在抓。\nMagis 成熟后，熟悉场景可直接调用技能，陌生场景则退回 Natus 探索，新数据再沉淀进 Magis。一方面本能持续涌现，可以兜底；另一方面技能越积越厚，不断进化。\n“我们颠覆了现在所有数据采集的方式，”姜峣说，“\n最好的数据来源不是仿真，不是人工遥操，而是产品自己在真实物理世界里跑出来的\n。”\n换产不停线：零数据的真实价码\n这套“自己跑出数据、自己长出技能”的能力，最迫切的场景在哪？\n橡木果选择了\n柔性制造\n，姜峣认为，\n这是权衡过执行侧门槛和市场痛点后最佳的交叉点。\n化妆品 ODM 行业是典型。SKU 超百种，几周一换，每次换产就要停线调参，\n它的痛点不是机器不够快，是机器认不出新物料\n。更棘手的是物料本身：粉饼极度易碎，稍用力就留印；香薰灯芯细软不均，力大了拔出，力小了拽不动。\n这类任务无法用规则覆盖，VLA 训练成本极高，传统自动化束手无策。\n但对 Natus 来说，换了 SKU，只需自己探索，不停线、不调参、不叫工程师，\n这才是“零数据冷启动”对产线的真实价值。\n据介绍，橡木果在国内头部化妆品企业完成 POC，从启动到验证不到两个月，随即进入规模化部署，在手订单突破 2000 万元。\n图注：具身智能的两条技术路径：自上而下数据拟合 vs 自下而上本能驱动\n对于技术路线更长期的判断，姜峣认为，\nNatus 和大模型从来不是竞争，而是分工\n：大模型负责理解任务、规划步骤，Natus/Magis 负责毫秒级的物理执行，\n一个做规划，一个做操作，接口协同，各司其职。\n这不是妥协，而是回归操作本质的必然。就像生物进化把操作反射交给了脊髓，而不是每次触觉都等大脑重新决策——这个判断，从他 8 年前在哈佛和清华的跨界碰撞中，就没变过。",
-    "content_source": "readability",
-    "content_chars": 4153,
-    "content_excerpt": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。",
-    "title_original": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.309329"
   },
   {
     "id": "8b2d013a0637",
@@ -5318,188 +5509,6 @@
     "rewritten_at": "2026-06-17T19:35:48.310873"
   },
   {
-    "id": "16b0cdbcc363",
-    "title": "Analysis: YouTube to automatically label AI-generated videos",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-27T20:00:51",
-    "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label.",
-    "collected_at": "2026-05-28T02:28:26.847968",
-    "content_text": "May 27, 2026 [[read-time]] minute read\nWe've heard consistently from our community that they value transparency when it comes to generative AI content. That’s why since 2024, we've been labeling content when creators disclose they've used AI tools.\nWe've learned in that time about what people find useful when it comes to AI disclosures, and today we're making two updates that we think will make this process much simpler and more intuitive for creators and viewers on YouTube.\nMore visible, simplified labels\nWe’re moving the disclosure label for photorealistic and meaningfully AI altered or generated content to a more prominent position.\n- For Long-form Videos: The label will now appear directly below the video player, above the description.\n- For Shorts: The label will appear as an overlay on the video itself.\nBy moving these labels on to the main stage, viewers get the context they need at a glance. This is now the single label format for all photorealistic and meaningfully AI altered or generated content on YouTube.\nFor content that is unrealistic, animated, or slightly altered, viewers can find this disclosure in the expanded description.\nIntroducing automatic AI detection\nWhile we still require creators to manually disclose when they use realistic AI, we want to make the process more seamless and reliable. Starting in May 2026, we’re rolling out new internal signals to help identify AI-generated content.\nIf a creator doesn’t specify whether or not they used AI, but our systems detect significant photorealistic AI use, we will now automatically apply a label.\nAs this technology continues to improve, creators remain in control. If a creator thinks their content was incorrectly identified as AI-generated, they can update the disclosure status in YouTube Studio. However, disclosures will remain permanent in a handful of cases, including:\n- Content created using YouTube’s own AI tools, like Veo or Dream Screen.\n- Content containing C2PA metadata indicating they were fully generative AI.\nOur commitment to responsibility\nThese changes are designed to balance transparency with creator control. It’s important to note that a disclosure label alone does not change how a video is recommended or whether it’s eligible to earn money. In a world where AI is changing what’s possible, our goal is simple: make it as easy as possible for creators and viewers to have the right information.",
-    "content_source": "trafilatura",
-    "content_chars": 2414,
-    "content_excerpt": "May 27, 2026 [[read-time]] minute read\nWe've heard consistently from our community that they value transparency when it comes to generative AI content. That’s why since 2024, we've been labeling content when creators disclose they've used AI tools.\nWe've learned in that time about what people find useful when it comes to AI disclosures, and today we're making two updates that we think will make this process much simpler and more intuitive for creators and viewers on YouTube.\nMore visible, simplified labels\nWe’re moving the disclosure label for photorealistic and meaningfully AI altered or generated content to a more prominent position.\n- For Long-form Videos: The label will now appear directly below the video player, above the description.\n- For Shorts: The label will appear as an overlay on the video itself.\nBy moving these labels on to the main stage, viewers get the context they need at a glance. This is now the single label format for all photorealistic and meaningfully AI altered or generated content on YouTube.\nFor content that is unrealistic, animated, or slightly altered, viewers can find this disclosure in the expanded description.\nIntroducing automatic AI detection",
-    "title_zh": "YouTube 将自动标记人工智能生成的视频",
-    "summary_zh": "https://variety.com/2026/digital/news/youtube-ai-video-label... 评论网址：https://news.ycombinator.com/item?id=48299753 积分：55…",
-    "ai_summary": "https://variety.com/2026/digital/news/youtube-ai-video-label…",
-    "title_original": "YouTube to automatically label AI-generated videos",
-    "summary_original": "https://variety.com/2026/digital/news/youtube-ai-video-label... Comments URL: https://news.ycombinator.com/item?id=48299753 Points: 556 # Comments: 336",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "ede83e81258a",
-    "title": "深度解读：深度访谈预告：后龙虾时代，Agent如何真正走进企业生产场景？",
-    "url": "https://www.infoq.cn/video/p8ypAHvS7KK114BbAAN7?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-27T20:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-27T15:01:13.345059",
-    "title_original": "深度访谈预告：后龙虾时代，Agent如何真正走进企业生产场景？",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "b20d73959a82",
-    "title": "Report: Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-27T19:39:45",
-    "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-    "collected_at": "2026-05-27T20:05:14.045267",
-    "content_text": "Remote\n, a seven-year-old, Amsterdam-based payroll service provider, says it recently\nsurpassed $300 million in annual recurring revenue\nand became cash-flow positive. But the real story, it insists, is what happened behind the scenes: a 50% increase in revenue per employee after the startup adopted AI at every level of the organization.\n“As we are talking, on the second screen of my laptop, I have five different Claude instances running, building different things — and some of those are for me, but a lot of them are for Remote,” CEO Job van der Voort tells TechCrunch. This includes a Slack agent that summarizes discussions, as well as experiments with agentic AI; but the bigger picture is that Remote is now generating more revenue without increasing its headcount.\nAccording to van der Voort, the recipe behind these efficiency gains is AI adoption well beyond the CEO’s office or engineering department. Employees across all functions have been launching apps in Remote Labs, an internal marketplace built on the company’s own technology, and which shares similarities with the AI capabilities that the company is now opening up for its clients.\nSimilarly to what Remote has been doing for its own processes, it is now helping clients create custom workflows. “We know that we’re ahead of most companies in that sense,” says van der Voort. “So we set up Remote Build, which is essentially what investors like to call ‘forward-deployed engineers’ — essentially people who work [directly] with our customers and prospects to do similar things inside of their organizations.”\nVan der Voort claims these gains could compound further. He says Remote’s core payroll business has grown more than 300% year over year — growth he attributes largely to AI adoption, though the company has not provided independent verification of that figure. Remote also says it now serves tens of thousands of companies navigating global employment compliance, a number that, like its ARR milestone, comes from the company itself.\nWhile Remote’s bread and butter is precisely this complexity, its staff also found relief in removing some of the repetitive and bureaucratic work required to pay workers in almost every country. “Obviously we’ve been automating a lot of that; that’s what we do,” says van der Voort. “But with AI that became easier, and arguably more fun than ever before.”\nEven though there’s nothing fun about payroll per se, van der Voort is also excited about the market opportunity it represents for his company. Despite its name — which might suggest a focus on distributed or remote workforces — he insisted the company targets all types of businesses, and the vast majority of its clients employ people in offices. “We do payroll for everybody, period.”\nRemote’s competitors largely went a different direction. Many went on to adopt an “all-in-one” HR platform model. But Remote sees the current AI wave and the subsequent commoditization of software as validation for its decision to stay focused on a hard problem.\nThis also means that Remote has partners, and it is prepared to get out of the way to let them leverage AI. The recently launched\nRemote MCP\nan interface based on the Model Context Protocol — a standard that lets AI agents securely interact with external software — grants AI agents and external platforms direct access to payroll and compliance data, allowing platforms like BambooHR and Workday to use Remote as an underlying engine.\nThis goes hand in hand with the rise of agentic AI, which could see many companies virtually disappear — in a good way. “So if you use ChatGPT or Claude, you can control all of Remote; if you really wanted to, you don’t have to interact with our platform anymore,” van der Voort says. “I think that’s where the future goes.”\nAccording to van der Voort, the next step will be for AI agents to interact directly with Remote — with all the security standards required for an organization that deals with sensitive financial and personal information like payroll data. His own OpenClaw assistant — an open-source personal AI agent he named Jim — has served as an early explorer. “Jim can interact with Remote, and we build it in such a way that it is secure, so I don’t have to worry about my agent doing crazy stuff and messing things up. He has access to what he needs, but he cannot do destructive things. Those are the kinds of things that we’re really excited about, and it gives you a little bit of a taste of the future.”\nWhat’s happening internally at Remote may be another taste of the future. Like other tech companies,\nsuch as Spotify\n, it has embraced AI-powered coding, and the volume of contributions from its engineers has risen more than 60% over the last year. “And that’s accelerating, because if you look over the last month, more than 85% of all of our code is written by AI.”\nThis has reduced Remote’s hiring plans, but hasn’t caused any job cuts, van der Voort says. He also noted that the company had not been planning a big recruitment campaign to begin with. “But certainly in some departments our plans were to hire more people than we did. [… ] What we’re doing now very actively is evaluating: ‘Do we actually need more people, or do we want to spend more time on upskilling the people that we have to use AI tools, and directly spending more money on AI?’.”\nHis role is to “make sure that the company doesn’t run out of money and grows as fast as possible,” but rising AI costs aren’t a concern for him. “Our spend on AI is increasing, but we keep track of it, so it’s something that we’re happy with; and because we become more efficient as a company, we have some space to spend that on AI and those initiatives.”\nRemote’s trajectory offers one of the cleaner data points yet in the broader conversation about AI’s real business impact. The company isn’t just using AI to move faster — it’s using it to restructure how it scales. More revenue per employee, deferred hiring, and an expanding product surface area without proportional headcount growth is the operating model many companies are chasing.\nAnother reason why van der Voort is happy with AI is that it has improved his own role. “This adds a whole new fun angle, I would say.”",
-    "content_source": "readability",
-    "content_chars": 6226,
-    "content_excerpt": "Remote\n, a seven-year-old, Amsterdam-based payroll service provider, says it recently\nsurpassed $300 million in annual recurring revenue\nand became cash-flow positive. But the real story, it insists, is what happened behind the scenes: a 50% increase in revenue per employee after the startup adopted AI at every level of the organization.\n“As we are talking, on the second screen of my laptop, I have five different Claude instances running, building different things — and some of those are for me, but a lot of them are for Remote,” CEO Job van der Voort tells TechCrunch. This includes a Slack agent that summarizes discussions, as well as experiments with agentic AI; but the bigger picture is that Remote is now generating more revenue without increasing its headcount.\nAccording to van der Voort, the recipe behind these efficiency gains is AI adoption well beyond the CEO’s office or engineering department. Employees across all functions have been launching apps in Remote Labs, an internal marketplace built on the company’s own technology, and which shares similarities with the AI capabilities that the company is now opening up for its clients.\nSimilarly to what Remote has been doing for its own processes, it is now helping clients create custom workflows. “We know that we’re ahead of most companies in that sense,” says van der Voort. “So we set up Remote Build, which is essentially what investors like to call ‘forward-deployed engineers’ — essentially people who work [directly] with our customers and prospects to do similar things inside of their organizations.”\nVan der Voort claims these gains could compound further. He says Remote’s core payroll business has grown more than 300% year over year — growth he attributes largely to AI adoption, though the company has not provided independent verification of that figure. Remote also says it now serves tens of thousands of companies navigating global employment compliance, a number that, like its ARR milestone, comes from the company itself.\nWhile Remote’s bread and butter is precisely this complexity, its staff also found relief in removing some of the repetitive and bureaucratic work required to pay workers in almost every country. “Obviously we’ve been automating a lot of that; that’s what we do,” says van der Voort. “But with AI that became easier, and arguably more fun than ever before.”\nEven though there’s nothing fun about payroll per se, van der Voort is also excited about the market opportunity it represents for his company. Despite its name — which might suggest a focus on distributed or remote workforces — he insisted the company targets all types of businesses, and the vast majority of its clients employ people in offices. “We do payroll for everybody, period.”",
-    "title_zh": "薪资初创公司 Remote 表示，在不增加员工人数的情况下，每位员工的收入增长了 50%",
-    "summary_zh": "薪资服务提供商 Remote 最近的年度经常性收入 (ARR) 超过 3 亿美元，并实现正现金流，这得益于人工智能的采用使每位员工的收入增加了 50%",
-    "ai_summary": "薪资服务提供商 Remote 最近的年度经常性收入 (ARR) 超过 3 亿美元，并实现正现金流，这得益于人工智能的采用…",
-    "title_original": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "41f485c71ab2",
-    "title": "重磅！让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
-    "url": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-27T18:00:25",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-27T15:01:13.345089",
-    "content_text": "让 AI 在真实环境中不仅“看懂”世界、还能“做出”决策，这是具身智能的终极目标之一。\n然而，现有的具身问答数据集和基准普遍“偏科”：有的聚焦空间理解，有的侧重过程推理，几乎没有哪一个能同时覆盖场景理解、空间推理、任务动态推理和实时决策这四个维度。\n北京大学副教授穆亚东及北京大学、星源智团队给出了答案，并提出了一套名为 EQA-Decision 的大规模数据集与 RoboDecision 训练框架。首次将具身问答从静态感知扩展到动态决策，构建了覆盖四大推理模块、超过四百万问答对的大规模数据集，并设计了从监督微调到思维链再到强化学习的三阶段训练方法，让模型真正学会“先想后做、看图决策”。该方案论文《Extending Embodied Question Answering from Perception to Decision》已被全球计算机视觉顶会 CVPR 2026 录用，为具身智能前沿研究提供了新思路。\nEQA-Decision：超 400 万问答对，覆盖四大推理维度\nEQA-Decision 数据集规模相当可观：超过 400 万对多模态问答数据，涵盖模拟环境、图像问答、第一人称视频和真实机器人轨迹四大来源。\n数据被系统性地分为四个核心推理模块：\n静态场景构建： 关注基本的场景理解任务，包括物体存在性、状态、计数和位置。\n空间理解：该模块的空间推理从三个互补视角探索：深度与方向、定位与指代、行动可能性。\n任务动态推理：捕捉具身任务中的时间和因果关系：子任务规划、状态跟踪和进度估计。\n即时决策： 该模块专注于建模机器人在动态具身环境中的实时决策过程。\n其中，任务动态推理和即时决策是此前数据集完全没有覆盖的任务类型。这意味着，EQA-Decision 第一次让模型不仅要“看懂”当前状态，还要推演任务进程、预测最优动作。\nRoboDecision：三阶段训练，把“看懂”变成“做对”\n有了数据集，还需要一个能充分利用它的模型。团队提出的 RoboDecision 以 Qwen3-VL-8B 为基座，设计了一套三阶段渐进式训练 pipeline。\n第一阶段：SFT（监督微调）。在 EQA-Decision 的四个模块上均匀采样数据，用 LoRA 微调语言层和融合层，注入具身领域知识。\n第二阶段：CoT-SFT（思维链监督微调）。从中抽取约 10%的数据，用 Gemini-2.5-Pro 生成思维链标注（包含推理过程和最终答案），再专门微调。这一步让模型学会“先想后答”，形成显式的多步推理能力。\n第三阶段：GRPO（强化学习微调）。这是最关键的一步。团队设计了一个混合奖励函数：\n推理奖励：用 E5-large 计算模型生成的推理链与参考思维链的相似度，鼓励因果一致的空间和时间推理。\n答案奖励：对自由回答用语义相似度，对结构化输出（坐标、深度等）用规则评分。\n视觉一致性奖励：用 OpenCLIP 对齐生成的推理与视觉观察，确保模型不是靠文本先验瞎猜，而是真正“看图说话”。\n三个奖励协同作用，迫使模型从“文本驱动的应答器”转变为“感知驱动的决策者”。\n实验结果：RoboDecision-8B 全面领先，超越 GPT-5\n团队构建了一个包含 2118 条样本的 EQA-Decision Benchmark，覆盖六类任务。结果非常清晰：\nRoboDecision-8B 以 68.06 的整体得分大幅领先。对比 Qwen3-VL-8B-Instruct（48.84），提升了近 20 个点；对比 RoboBrain-7B-2.0（37.32），更是接近翻倍。\n在指代定位任务上，RoboDecision 得分 68.12，而 Qwen3-VL-8B-Thinking 只有 23.14。差距悬殊的核心原因，正是视觉一致性奖励强制模型把推理锚定在图像像素上。\n在即时决策任务上，RoboDecision 得分 69.93，比最强基线（GPT-5 的 62.25）高出 7.7 个点。\n图注：EQA-Decision Benchmark 综合成绩对比\n图注：RoboDecision 与 Qwen3-VL-8B-Instruct 在六类任务上的差异\n此外，团队还在 RoboVQA、ERQA、Where2Place 三个外部基准上验证了泛化能力，RoboDecision 在所有任务上均超过通用模型和具身专用模型。\n结语\n总之，EQA-Decision 和 RoboDecision 把具身问答从“静态体检”升级为“动态实战”。通过系统性地覆盖场景、空间、时间、决策四个维度，并设计能够显式优化感知-决策链路的训练方法，这项工作为具身智能提供了一个更贴近真实需求的研究范式和数据集。\n未来，这类“从感知到决策”的统一数据集和训练框架，很可能会成为具身智能研究的标配。毕竟，一个只会看不会做的 AI，永远无法真正走进物理世界。",
-    "content_source": "trafilatura",
-    "content_chars": 2027,
-    "content_excerpt": "让 AI 在真实环境中不仅“看懂”世界、还能“做出”决策，这是具身智能的终极目标之一。\n然而，现有的具身问答数据集和基准普遍“偏科”：有的聚焦空间理解，有的侧重过程推理，几乎没有哪一个能同时覆盖场景理解、空间推理、任务动态推理和实时决策这四个维度。\n北京大学副教授穆亚东及北京大学、星源智团队给出了答案，并提出了一套名为 EQA-Decision 的大规模数据集与 RoboDecision 训练框架。首次将具身问答从静态感知扩展到动态决策，构建了覆盖四大推理模块、超过四百万问答对的大规模数据集，并设计了从监督微调到思维链再到强化学习的三阶段训练方法，让模型真正学会“先想后做、看图决策”。该方案论文《Extending Embodied Question Answering from Perception to Decision》已被全球计算机视觉顶会 CVPR 2026 录用，为具身智能前沿研究提供了新思路。\nEQA-Decision：超 400 万问答对，覆盖四大推理维度\nEQA-Decision 数据集规模相当可观：超过 400 万对多模态问答数据，涵盖模拟环境、图像问答、第一人称视频和真实机器人轨迹四大来源。\n数据被系统性地分为四个核心推理模块：\n静态场景构建： 关注基本的场景理解任务，包括物体存在性、状态、计数和位置。\n空间理解：该模块的空间推理从三个互补视角探索：深度与方向、定位与指代、行动可能性。\n任务动态推理：捕捉具身任务中的时间和因果关系：子任务规划、状态跟踪和进度估计。\n即时决策： 该模块专注于建模机器人在动态具身环境中的实时决策过程。",
-    "title_original": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "1eb01a951326",
-    "title": "Breaking: Your SEO strategy is optimized for a search engine that no longer exists.",
-    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-27T18:39:17",
-    "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.",
-    "collected_at": "2026-05-27T20:05:14.045319",
-    "content_text": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.\nOn this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Matt Thompson, VP of partnerships at Scrunch, a startup positioning itself at the center of the AI search shift, to talk about what Google’s changes mean and what marketers and founders should actually do about it.\nListen to the full episode to hear:\n- Why AI referrals are converting at 400% higher than traditional organic search, and what that means for how to think about traffic.\n- How ChatGPT still has the lion’s share of AI search traffic, and why optimizing only for Google means missing most of the market.\n- Why Google’s own SEO best practices might be leading marketers in the wrong direction.\n- What it actually means to make your website “agent ready” and why most enterprise sites aren’t.\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
-    "content_source": "trafilatura",
-    "content_chars": 1230,
-    "content_excerpt": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.\nOn this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Matt Thompson, VP of partnerships at Scrunch, a startup positioning itself at the center of the AI search shift, to talk about what Google’s changes mean and what marketers and founders should actually do about it.\nListen to the full episode to hear:\n- Why AI referrals are converting at 400% higher than traditional organic search, and what that means for how to think about traffic.\n- How ChatGPT still has the lion’s share of AI search traffic, and why optimizing only for Google means missing most of the market.\n- Why Google’s own SEO best practices might be leading marketers in the wrong direction.\n- What it actually means to make your website “agent ready” and why most enterprise sites aren’t.\nSubscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
-    "title_zh": "您的 SEO 策略针对不再存在的搜索引擎进行了优化。",
-    "summary_zh": "Google I/O 正式宣布：人工智能生成的答案现在位于搜索的前沿和中心，而大多数品牌几乎不了解人工智能如何向客户描述它们。 对于任何花费数年时间围绕 10 个蓝色链接制定策略的人来说，规则只是发生了微妙的变化",
-    "ai_summary": "Google I/O 正式宣布：人工智能生成的答案现在位于搜索的前沿和中心，而大多数品牌几乎不了解人工智能如何向客户描述…",
-    "title_original": "Your SEO strategy is optimized for a search engine that no longer exists.",
-    "summary_original": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a prett",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "0ce3b9fca202",
-    "title": "Latest: DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-27T16:28:41",
-    "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.",
-    "collected_at": "2026-05-27T20:05:15.557511",
-    "content_text": "These days, a typical Google Search feels like an obstacle course. Type out 'upcoming PC games 2026' and your gaze has to swerve around a chunky AI overview which recycles the work of human writers in a bid to kneecap efforts to click away from Google. It's a bleak state of affairs for what was once the premier discovery tool for the internet, and as such many users are looking for alternative search engines.\nDuckDuckGo has been one major winner of this Google Search abandonment. Just for a start, visits to its AI-free search page noai.duckduckgo.com between May 20 to May 25 are said to have increased by 22.7% on average week-on-week, with the figures peaking May 24 at 27.7%.\nThe DuckDuckGo mobile app saw installs spike in the US by 18.1% on average compared to the previous week. TechCrunch reported this growth was sustained over six days, peaking at 30.5% on May 25. An even greater number of iOS users hit download on the app though, with installs seeing an average week-on-week growth of 33% and a peak of 69.9%.\nThis all follows Google CEO Sundar Pichai claiming last week that, \"People love [Search's AI Mode].\" DuckDuckGo CEO Gabriel Weinberg criticised Google's all-in-on-AI approach to Search, telling Paul Thurrott, \"Google is force-feeding AI with no way to opt out. As a result, their results are getting worse, not better. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.\"\nTo be clear, Google isn't about to lose its Search crown; DuckDuckGo represents about 2% of the search engine market in the US—Google still enjoyed about 85% as of last month.\nDuckDuckGo also offers AI products such as duck.ai, which allows users to chat privately with a number of major LLMs such as GPT-5 mini and Claude Haiku 4.5. Given that Google reported its revenue from search grew by 19% during Q1 2026—apparently thanks to its \"AI experiences like AI Mode and AI Overviews\"—it wouldn't make much business sense for any company to completely exile itself from the AI industry at this moment in time.\nHowever, DuckDuckGo has endeavoured to prioritise user choice and privacy. Weinberg said earlier this week, \"Everything you do in DuckDuckGo is private, we don’t collect search histories or chats, and nothing is used for AI training.\"\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nAccording to chief communications officer Kamyl Bazbaz, DuckDuckGo's own AI overviews remain popular—though so does the option to filter out AI-generated images from search results. He said, \"People just want a choice.\" Amen to that.\nJess has been writing about games for over ten years, spending a significant chunk of that time working on print publications PLAY and Official PlayStation Magazine. When she’s not investigating all things hardware here, she's either constructing a passionate defence of a 7/10 game, daydreaming about her debut novel, or feeling wistful about the last time she chased some nerds around a field with an oversized foam sword.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name.",
-    "content_source": "trafilatura",
-    "content_chars": 3213,
-    "content_excerpt": "These days, a typical Google Search feels like an obstacle course. Type out 'upcoming PC games 2026' and your gaze has to swerve around a chunky AI overview which recycles the work of human writers in a bid to kneecap efforts to click away from Google. It's a bleak state of affairs for what was once the premier discovery tool for the internet, and as such many users are looking for alternative search engines.\nDuckDuckGo has been one major winner of this Google Search abandonment. Just for a start, visits to its AI-free search page noai.duckduckgo.com between May 20 to May 25 are said to have increased by 22.7% on average week-on-week, with the figures peaking May 24 at 27.7%.\nThe DuckDuckGo mobile app saw installs spike in the US by 18.1% on average compared to the previous week. TechCrunch reported this growth was sustained over six days, peaking at 30.5% on May 25. An even greater number of iOS users hit download on the app though, with installs seeing an average week-on-week growth of 33% and a peak of 69.9%.\nThis all follows Google CEO Sundar Pichai claiming last week that, \"People love [Search's AI Mode].\" DuckDuckGo CEO Gabriel Weinberg criticised Google's all-in-on-AI approach to Search, telling Paul Thurrott, \"Google is force-feeding AI with no way to opt out. As a result, their results are getting worse, not better. We want to be the place that puts users in charge and allows them to decide how much or how little AI they want.\"\nTo be clear, Google isn't about to lose its Search crown; DuckDuckGo represents about 2% of the search engine market in the US—Google still enjoyed about 85% as of last month.\nDuckDuckGo also offers AI products such as duck.ai, which allows users to chat privately with a number of major LLMs such as GPT-5 mini and Claude Haiku 4.5. Given that Google reported its revenue from search grew by 19% during Q1 2026—apparently thanks to its \"AI experiences like AI Mode and AI Overviews\"—it wouldn't make much business sense for any company to completely exile itself from the AI industry at this moment in time.\nHowever, DuckDuckGo has endeavoured to prioritise user choice and privacy. Weinberg said earlier this week, \"Everything you do in DuckDuckGo is private, we don’t collect search histories or chats, and nothing is used for AI training.\"\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nAccording to chief communications officer Kamyl Bazbaz, DuckDuckGo's own AI overviews remain popular—though so does the option to filter out AI-generated images from search results. He said, \"People just want a choice.\" Amen to that.\nJess has been writing about games for over ten years, spending a significant chunk of that time working on print publications PLAY and Official PlayStation Magazine. When she’s not investigating all things hardware here, she's either constructing a passionate defence of a 7/10 game, daydreaming about her debut novel, or feeling wistful about the last time she chased some nerds around a field with an oversized foam sword.",
-    "title_zh": "Google 表示人们喜欢 AI 模式后，DuckDuckGo 搜索访问量增加了 28%",
-    "summary_zh": "文章网址：https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following…",
-    "ai_summary": "文章网址：https://www.pcgamer.com/hardware/duckduckgos-ai-free-se…",
-    "title_original": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "summary_original": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/item?id=48296649 Points: 398 # Comments: 208",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "02233afb32a8",
-    "title": "Update: Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-27T18:00:00",
-    "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-    "collected_at": "2026-05-27T20:05:14.045378",
-    "content_text": "Meta is doubling down on its subscription offerings. On Wednesday, the social networking giant announced it’s now rolling out its consumer subscription plans globally for its flagship apps, Instagram, Facebook, and WhatsApp, and beginning tests of new subscriptions for businesses, creators, and Meta AI users.\nFor a few dollars per month, consumers subscribing to Instagram Plus ($3.99/mo), Facebook Plus ($3.99/mo), or WhatsApp Plus ($2.99/mo) will gain access to extra features, like profile customization, super reactions, and story insights, among other things.\nIn an\nannouncement\n, Meta’s head of product Naomi Gleit noted that “more fun features” will be added in the future.\nMeanwhile, Meta will begin testing other offerings, including professional plans for creators and businesses, and AI-focused plans for all users. These new tests will be branded as “Meta One,” which will serve as the company’s home for its subscription offerings going forward.\nILLUSTRATION – 16 May 2024, Mecklenburg-Western Pomerania, Schwerin: ILLUSTRATION – The Instagram, Facebook and WhatsApp apps can be seen on the display of a smartphone. The internet programs belong to Meta, the umbrella brand of the Facebook Group. The European Commission opens proceedings against the Facebook and Instagram parent company Meta on suspicion of violations of the protection of minors. Photo: Jens Büttner/dpa (Photo by Jens Büttner/picture alliance via Getty Images)\nImage Credits:\npicture alliance / Contributor\n(opens in a new window)\n/ Getty Images\nMeta\nconfirmed it was planning a subscription offering\nearlier this year, with its\ninitial tests\nrolling out in the spring. The idea behind the plans aimed at consumers is to provide additional features for power users who want more from their social apps. It also allows Meta to diversify its revenue streams beyond advertising by extracting more value from its existing audience of billions, given the limited growth opportunities for these apps, which have already achieved global saturation.\nThe new “Plus” plans are tailored to each individual app, with Facebook Plus and Instagram Plus focused more on social expression, while WhatsApp Plus focuses on personalization and messaging.\nHowever, the company tells us the new plans don’t replace its existing offering,\nMeta Verified\n, which is focused on verification, impersonation protection, and extra support. (This could change in time, but for now, Meta is not winding down the older plans.)\nFor starters, the new Instagram Plus plan gives subscribers access to extra features, like the ability to see how many people have rewatched your Story in aggregate, as well as the ability to create unlimited audience lists for Stories, beyond the “Close Friends” option. Users will also be able to spotlight a story once a week for additional views, extend a story beyond 24 hours, preview a story without showing up as a viewer, search their story viewer list to see who is watching, and more. Users will also be able to post straight to their profile and highlight without showing up on their followers’ feeds.\nThere are also other features like Super Heart animated reactions for Stories, custom app icons, customizable fonts for profile bios, and access to additional pins for your profile.\nThese features are designed to better serve creators and those looking to grow their following and understand their audience, but could also appeal to heavy users.\nFacebook Plus offers a similar set of features to Instagram Plus. WhatsApp Plus, however, offers other features, like app themes, custom ringtones, additional pinned chats, list customization, premium stickers, and more.\nImage Credits:\npicture alliance / Contributor\n(opens in a new window)\n/ Getty Images\nAI plans and more, including those for creators and businesses\nAlongside the launch, Meta says it will begin testing even more subscription plans, which is where things start to get confusing.\nFor Meta AI users, it will test two plans — Meta One Plus ($7.99/mo) and Meta One Premium ($19.99/mo) with the same features, but the Premium plan unlocks more capacity on higher compute queries. That means the Premium plan would offer deeper reasoning for complex tasks (i.e., more of “thinking mode” in the Meta AI app or on the web). It would also offer move video and image generation capabilities across Meta’s apps.\nMeta AI will remain free for more casual users, but these plans follow the same path as those put forth by other AI model providers that charge for additional compute and heavier usage. The plans will later expand in the weeks to come with more benefits for those who use AI glasses, Meta says.\nThe AI plans will start testing next month, initially in Singapore, Guatemala, and Bolivia.\nTwo other plans for creators and businesses will begin tests later this week, in markets including Saudi Arabia, Morocco, Thailand, and Bangladesh.\nThe Meta One Essential plan ($14.99/mo) will offer the Verified badge, impersonation protection, and an enhanced linksheet where users can link out to their online presence across social channels and the web, similar to Meta Verified.\nThe more expensive Meta One Advanced plan ($49.99/mo) will include the Essential plan benefits, as well as the ability to be featured in the Facebook feed, appear higher in Facebook and Instagram search results, gain attention with a bold “Follow” button on Reels, and automatically send “follow” invitations to people who engage with your content.\nIt can also help creators and businesses drive people to their website or shop through links in Instagram posts, Instagram Reels, and through enhanced Facebook and Instagram profiles with their expanded linksheets. These plans, not surprisingly, include better analytics, including deeper, competitive insights on Instagram, and custom audience insights on Facebook.\nAdvanced plan subscribers will have access to optimized scheduling tools, tools to share access with other account moderators (without sharing a password), and notifications that alert you when others on Facebook or Instagram reuse your content so you can request a label crediting your original reel.\nGleit acknowledged that Meta is still experimenting with these AI and professional plans for the time being, but aims to bring them all together under Meta One, where they will then continue to be updated and expanded over time.",
-    "content_source": "readability",
-    "content_chars": 6377,
-    "content_excerpt": "Meta is doubling down on its subscription offerings. On Wednesday, the social networking giant announced it’s now rolling out its consumer subscription plans globally for its flagship apps, Instagram, Facebook, and WhatsApp, and beginning tests of new subscriptions for businesses, creators, and Meta AI users.\nFor a few dollars per month, consumers subscribing to Instagram Plus ($3.99/mo), Facebook Plus ($3.99/mo), or WhatsApp Plus ($2.99/mo) will gain access to extra features, like profile customization, super reactions, and story insights, among other things.\nIn an\nannouncement\n, Meta’s head of product Naomi Gleit noted that “more fun features” will be added in the future.\nMeanwhile, Meta will begin testing other offerings, including professional plans for creators and businesses, and AI-focused plans for all users. These new tests will be branded as “Meta One,” which will serve as the company’s home for its subscription offerings going forward.\nILLUSTRATION – 16 May 2024, Mecklenburg-Western Pomerania, Schwerin: ILLUSTRATION – The Instagram, Facebook and WhatsApp apps can be seen on the display of a smartphone. The internet programs belong to Meta, the umbrella brand of the Facebook Group. The European Commission opens proceedings against the Facebook and Instagram parent company Meta on suspicion of violations of the protection of minors. Photo: Jens Büttner/dpa (Photo by Jens Büttner/picture alliance via Getty Images)\nImage Credits:\npicture alliance / Contributor\n(opens in a new window)",
-    "title_zh": "Meta 推出 Instagram、Facebook 和 WhatsApp 订阅服务，并将推出更多服务，包括人工智能计划",
-    "summary_zh": "Meta 正在全球范围内推出 Instagram、Facebook 和 WhatsApp 的付费订阅计划，同时还在其更广泛的“Meta One”订阅品牌下测试新的人工智能、创作者和以业务为中心的产品",
-    "ai_summary": "Meta 正在全球范围内推出 Instagram、Facebook 和 WhatsApp 的付费订阅计划，同时还在其更广…",
-    "title_original": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "3cb9731a80b8",
-    "title": "Latest: Training our own AI models",
-    "url": "https://posthog.com/blog/training-ai-models",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-05-27T16:08:42",
-    "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 164 # Comments: 108",
-    "collected_at": "2026-05-27T20:05:15.557548",
-    "content_text": "Training our own AI models\nContents\nI really think we're on the verge of some of our best work through the next six months.\nOver the past year, we've started building more AI-powered features into PostHog, like our AI installation wizard, PostHog AI, and our MCP. They're all wildly popular, but they're only the start.\nPostHog's next chapter is about building more proactive, self-driving products. Products that surface answers and solutions for you, act on them, and improve over time.\nThis is the vision for PostHog Code, which is now in beta. To enable this and more products like it, we want to try something new.\nWe want to train models on data in PostHog.\nWe have two goals here:\n- Make our existing products smarter, more proactive, and useful to you\n- Build entirely new products, like PostHog Code, that help teams build better products, faster\nThe first area we're interested in is session replay analysis. PostHog AI can already detect issues in replays, but it's expensive and doesn't scale well. We want replays to be as powerful at scale as they are for diagnosing the problems of individual users, and we think a model trained on the underlying data that powers replays will help us achieve this.\nAnother idea I'm especially excited about is synthetic user testing – i.e. using our knowledge of user behavior to identify when users might get confused, or what flows might break, before you ship to production. As coding models improve, many people are seeing test and review workload increase hugely. We want to automate this, so you can focus on your product.\nAnd, if we can get better at predicting user behavior, we should be able to suggest changes that will improve conversion, and reduce user frustration, for features you've already shipped as well. If we can automate this work for you, you'll spend less time on manual analysis and burn fewer tokens in the process.\nOur ideas here are experimental. It will take iteration to figure out how to train models effectively, and what data is actually useful. But, so far, every time we've added AI in a way that makes the product simpler or more powerful, it's worked well, so we think it's worth trying.\nWe've spent a lot of time thinking about this from a user perspective, especially the tradeoffs.\nThe upside is the kinds of improvements described above.\nMost tools are focused on providing you with the best code; we want to focus our energy into making your product the best it can be. This is why we describe PostHog Code as a product editor.\nThe downside is that this involves using data in PostHog to train models.\nMost companies would bury this change in a deceptively boring T&Cs update, but we value transparency, so here's what you need to know in an internet-friendly numbered list:\n- Users on our EU cloud instance are opted out by default\n- So too users with agreements that prevent training (e.g. BAA, MSA, or similar)\n- All other users on our US cloud instance are opted in by default\n- We will anonymize all data before it's used for training\n- We will only use data that already exists in your PostHog instance\n- We will do all the model training ourselves, which means...\n- We won't sell or send your data to third-party model providers\n- You can opt out at any time via your org settings in PostHog (admin access required)\n- Training won't start until June 29, so there's plenty of time to decide\nIn terms of comms, we are:\n- Emailing all our customers and making it super obvious what the email is about\n- Notifying all our users through in-app notifications (in case you don't read emails)\n- Communicating our plans very publicly (like in this post)\nI want to stress that our goal here is to improve PostHog as a product for our customers, not to expose or sell models trained on your data, or monetize your data.\nPut simply, because otherwise we will not have enough data to train a model that's actually useful.\nIf you choose to opt out, the new features that we're building with these models won't be available to you, as they'll depend on this data.\nIf you're opted out by default (e.g. because you're on our EU cloud instance), you can choose to opt in manually provided any legal agreements you have with us don't exclude this option.\nWe're choosing to be upfront about this rather than quietly rolling something out, because we think that's the right way to do it.\nIf you want to talk about this, I'm james at you can guess it.\nWe're also hiring AI researchers, so get in touch if you want to work on this with us.\nPostHog is an all-in-one developer platform for building successful products. We provide product analytics, web analytics, session replay, error tracking, feature flags, experiments, surveys, AI Observability, logs, workflows, endpoints, data warehouse, CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-    "content_source": "trafilatura",
-    "content_chars": 4905,
-    "content_excerpt": "Training our own AI models\nContents\nI really think we're on the verge of some of our best work through the next six months.\nOver the past year, we've started building more AI-powered features into PostHog, like our AI installation wizard, PostHog AI, and our MCP. They're all wildly popular, but they're only the start.\nPostHog's next chapter is about building more proactive, self-driving products. Products that surface answers and solutions for you, act on them, and improve over time.\nThis is the vision for PostHog Code, which is now in beta. To enable this and more products like it, we want to try something new.\nWe want to train models on data in PostHog.\nWe have two goals here:\n- Make our existing products smarter, more proactive, and useful to you\n- Build entirely new products, like PostHog Code, that help teams build better products, faster",
-    "title_zh": "训练我们自己的人工智能模型",
-    "summary_zh": "文章网址：https://posthog.com/blog/training-ai-models 评论网址：https://news.ycombinator.com/item?id=48296359 积分：164 # 评论：108",
-    "ai_summary": "文章网址：https://posthog.com/blog/training-ai-models 评论网址：https:…",
-    "title_original": "Training our own AI models",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "05063096037a",
-    "title": "Report: AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-27T16:00:00",
-    "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-    "collected_at": "2026-05-27T20:05:14.045409",
-    "content_text": "Cognition, the makers of the autonomous AI software engineer named Devin, has raised more than $1 billion at a $25 billion pre-money valuation, the company announced on Wednesday.\nThat’s a major leap from its $10.2 billion post-money valuation when it closed a\n$400 million funding round\njust eight months ago in September.\nThe round was led by Lux Capital and General Catalyst, with existing investors pouring in, including Founders Fund, 8VC, and others. The round also included new investors Ribbit Capital, Atreides, and Layer Global.\nThis is a giant vote of confidence from top-tier VCs that there will be room for independent AI software coding startups. Last year, all signs pointed to model makers swallowing this hot market themselves. Certainly Anthropic’s Claude Code, OpenAI’s Codex, and maybe even Google’s coding agent Jules (after\nGoogle’s acqui-hire deal of Windsurf\nlast year) have captured a lot of it.\nBut Cognition,\nwhich acquired the remaining bits of Windsurf last year\n, says it counts big enterprises like Mercedes-Benz, NASA, Goldman Sachs, and Santander as customers. It also says it’s reached $492 million in annualized revenue run-rate as enterprise usage of Devin has grown 50% month-over-month for the past six months.",
-    "content_source": "readability",
-    "content_chars": 1248,
-    "content_excerpt": "Cognition, the makers of the autonomous AI software engineer named Devin, has raised more than $1 billion at a $25 billion pre-money valuation, the company announced on Wednesday.\nThat’s a major leap from its $10.2 billion post-money valuation when it closed a\n$400 million funding round\njust eight months ago in September.\nThe round was led by Lux Capital and General Catalyst, with existing investors pouring in, including Founders Fund, 8VC, and others. The round also included new investors Ribbit Capital, Atreides, and Layer Global.\nThis is a giant vote of confidence from top-tier VCs that there will be room for independent AI software coding startups. Last year, all signs pointed to model makers swallowing this hot market themselves. Certainly Anthropic’s Claude Code, OpenAI’s Codex, and maybe even Google’s coding agent Jules (after\nGoogle’s acqui-hire deal of Windsurf\nlast year) have captured a lot of it.\nBut Cognition,\nwhich acquired the remaining bits of Windsurf last year",
-    "title_zh": "人工智能编码初创公司 Cognition 以 25B 美元的投前估值筹集 10 亿美元",
-    "summary_zh": "Cognition 表示，随着年化收入运行率达到 4.92 亿美元，其估值在八个月内翻了一番多",
-    "ai_summary": "Cognition 表示，随着年化收入运行率达到 4.92 亿美元，其估值在八个月内翻了一番多",
-    "title_original": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
     "id": "hn-48292224",
     "title": "Report: I'm Tired of Talking to AI",
     "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
@@ -5508,10 +5517,10 @@
     "published": "2026-05-27T10:43:25Z",
     "summary": "I'm Tired of Talking to AI",
     "points": 2013,
-    "collected_at": "2026-06-19T14:48:23.152194",
+    "collected_at": "2026-06-19T19:30:35.321572",
     "title_original": "I'm Tired of Talking to AI",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939748"
+    "rewritten_at": "2026-06-19T19:32:01.792095"
   },
   {
     "id": "hn-48153379",
@@ -5522,11 +5531,11 @@
     "published": "2026-05-15T20:26:47Z",
     "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.",
     "points": 2105,
-    "collected_at": "2026-06-19T14:48:23.152148",
+    "collected_at": "2026-06-19T19:30:35.321536",
     "title_original": "I believe there are entire companies right now under AI psychosis",
     "summary_original": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939761"
+    "rewritten_at": "2026-06-19T19:32:01.792105"
   },
   {
     "id": "hn-48085821",
@@ -5537,10 +5546,10 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-06-19T14:48:23.152241",
+    "collected_at": "2026-06-19T19:30:35.321639",
     "title_original": "Local AI needs to be the norm",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939766"
+    "rewritten_at": "2026-06-19T19:32:01.792108"
   },
   {
     "id": "hn-48019219",
@@ -5551,11 +5560,11 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "",
     "points": 1755,
-    "collected_at": "2026-06-19T14:48:23.152276",
+    "collected_at": "2026-06-19T19:30:35.321667",
     "title_original": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "summary_original": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939772"
+    "rewritten_at": "2026-06-19T19:32:01.792115"
   },
   {
     "id": "hn-47679121",
@@ -5566,11 +5575,11 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.",
     "points": 1541,
-    "collected_at": "2026-06-19T14:48:23.152390",
+    "collected_at": "2026-06-19T19:30:35.321759",
     "title_original": "Project Glasswing: Securing critical software for the AI era",
     "summary_original": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939782"
+    "rewritten_at": "2026-06-19T19:32:01.792123"
   },
   {
     "id": "hn-47363754",
@@ -5581,10 +5590,10 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-06-19T14:48:23.152511",
+    "collected_at": "2026-06-19T19:30:35.321862",
     "title_original": "Can I run AI locally?",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939787"
+    "rewritten_at": "2026-06-19T19:32:01.792127"
   },
   {
     "id": "hn-47340079",
@@ -5595,11 +5604,11 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "",
     "points": 4229,
-    "collected_at": "2026-06-19T14:48:23.152023",
+    "collected_at": "2026-06-19T19:30:35.321429",
     "title_original": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "summary_original": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939792"
+    "rewritten_at": "2026-06-19T19:32:01.792132"
   },
   {
     "id": "hn-47225130",
@@ -5610,10 +5619,10 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-06-19T14:48:23.152581",
+    "collected_at": "2026-06-19T19:30:35.321918",
     "title_original": "Meta’s AI smart glasses and data privacy concerns",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939797"
+    "rewritten_at": "2026-06-19T19:32:01.792136"
   },
   {
     "id": "hn-47136179",
@@ -5624,10 +5633,10 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-06-19T14:48:23.152178",
+    "collected_at": "2026-06-19T19:30:35.321559",
     "title_original": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939802"
+    "rewritten_at": "2026-06-19T19:32:01.792141"
   },
   {
     "id": "hn-46990729",
@@ -5638,11 +5647,11 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.",
     "points": 2346,
-    "collected_at": "2026-06-19T14:48:23.152109",
+    "collected_at": "2026-06-19T19:30:35.321503",
     "title_original": "An AI agent published a hit piece on me",
     "summary_original": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939812"
+    "rewritten_at": "2026-06-19T19:32:01.792150"
   },
   {
     "id": "hn-45941596",
@@ -5653,10 +5662,10 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-06-19T14:48:23.152596",
+    "collected_at": "2026-06-19T19:30:35.321930",
     "title_original": "AirPods libreated from Apple's ecosystem",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939816"
+    "rewritten_at": "2026-06-19T19:32:01.792154"
   },
   {
     "id": "hn-44972151",
@@ -5667,11 +5676,11 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "",
     "points": 1697,
-    "collected_at": "2026-06-19T14:48:23.152308",
+    "collected_at": "2026-06-19T19:30:35.321693",
     "title_original": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "summary_original": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939821"
+    "rewritten_at": "2026-06-19T19:32:01.792159"
   },
   {
     "id": "hn-44396518",
@@ -5682,11 +5691,11 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on.",
     "points": 1539,
-    "collected_at": "2026-06-19T14:48:23.152473",
+    "collected_at": "2026-06-19T19:30:35.321829",
     "title_original": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
     "summary_original": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939831"
+    "rewritten_at": "2026-06-19T19:32:01.792168"
   },
   {
     "id": "hn-44314423",
@@ -5697,11 +5706,11 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "",
     "points": 1481,
-    "collected_at": "2026-06-19T14:48:23.152527",
+    "collected_at": "2026-06-19T19:30:35.321875",
     "title_original": "Andrej Karpathy: Software in the era of AI [video]",
     "summary_original": "Andrej Karpathy: Software in the era of AI [video]",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939837"
+    "rewritten_at": "2026-06-19T19:32:01.792173"
   },
   {
     "id": "hn-44163063",
@@ -5712,10 +5721,10 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-06-19T14:48:23.152080",
+    "collected_at": "2026-06-19T19:30:35.321479",
     "title_original": "My AI skeptic friends are all nuts",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939840"
+    "rewritten_at": "2026-06-19T19:32:01.792176"
   },
   {
     "id": "hn-42910910",
@@ -5726,10 +5735,10 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-06-19T14:48:23.152324",
+    "collected_at": "2026-06-19T19:30:35.321705",
     "title_original": "The young, inexperienced engineers aiding DOGE",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939844"
+    "rewritten_at": "2026-06-19T19:32:01.792180"
   },
   {
     "id": "hn-41392128",
@@ -5740,10 +5749,10 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-06-19T14:48:23.152210",
+    "collected_at": "2026-06-19T19:30:35.321585",
     "title_original": "Bypassing airport security via SQL injection",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939847"
+    "rewritten_at": "2026-06-19T19:32:01.792183"
   },
   {
     "id": "hn-41386319",
@@ -5754,10 +5763,10 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-06-19T14:48:23.152226",
+    "collected_at": "2026-06-19T19:30:35.321597",
     "title_original": "Air Con: $1697 for an on/off switch",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939851"
+    "rewritten_at": "2026-06-19T19:32:01.792187"
   },
   {
     "id": "hn-41046773",
@@ -5768,10 +5777,10 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-06-19T14:48:23.152064",
+    "collected_at": "2026-06-19T19:30:35.321466",
     "title_original": "Open source AI is the path forward",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939854"
+    "rewritten_at": "2026-06-19T19:32:01.792190"
   },
   {
     "id": "hn-39918245",
@@ -5782,11 +5791,11 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "",
     "points": 1418,
-    "collected_at": "2026-06-19T14:48:23.152612",
+    "collected_at": "2026-06-19T19:30:35.321942",
     "title_original": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "summary_original": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939859"
+    "rewritten_at": "2026-06-19T19:32:01.792195"
   },
   {
     "id": "hn-39526057",
@@ -5797,10 +5806,10 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-06-19T14:48:23.152047",
+    "collected_at": "2026-06-19T19:30:35.321452",
     "title_original": "Airfoil",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939863"
+    "rewritten_at": "2026-06-19T19:32:01.792198"
   },
   {
     "id": "hn-38544729",
@@ -5811,10 +5820,10 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-06-19T14:48:23.152124",
+    "collected_at": "2026-06-19T19:30:35.321515",
     "title_original": "Gemini AI",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939866"
+    "rewritten_at": "2026-06-19T19:32:01.792202"
   },
   {
     "id": "hn-37021160",
@@ -5825,11 +5834,11 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "",
     "points": 1581,
-    "collected_at": "2026-06-19T14:48:23.152355",
+    "collected_at": "2026-06-19T19:30:35.321729",
     "title_original": "Zoom terms now allow training AI on user content with no opt out",
     "summary_original": "Zoom terms now allow training AI on user content with no opt out",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939871"
+    "rewritten_at": "2026-06-19T19:32:01.792206"
   },
   {
     "id": "hn-31812259",
@@ -5840,10 +5849,10 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-06-19T14:48:23.152543",
+    "collected_at": "2026-06-19T19:30:35.321887",
     "title_original": "Contra Wirecutter on the IKEA air purifier",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939875"
+    "rewritten_at": "2026-06-19T19:32:01.792210"
   },
   {
     "id": "hn-18249755",
@@ -5854,10 +5863,10 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-06-19T14:48:23.152290",
+    "collected_at": "2026-06-19T19:30:35.321678",
     "title_original": "Paper Airplane Designs",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939879"
+    "rewritten_at": "2026-06-19T19:32:01.792213"
   },
   {
     "id": "hn-17022963",
@@ -5868,11 +5877,11 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "",
     "points": 1875,
-    "collected_at": "2026-06-19T14:48:23.152259",
+    "collected_at": "2026-06-19T19:30:35.321653",
     "title_original": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "summary_original": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939884"
+    "rewritten_at": "2026-06-19T19:32:01.792218"
   },
   {
     "id": "hn-15892066",
@@ -5883,11 +5892,11 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "",
     "points": 1535,
-    "collected_at": "2026-06-19T14:48:23.152496",
+    "collected_at": "2026-06-19T19:30:35.321850",
     "title_original": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "summary_original": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939889"
+    "rewritten_at": "2026-06-19T19:32:01.792224"
   },
   {
     "id": "hn-6830566",
@@ -5898,9 +5907,9 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-06-19T14:48:23.152627",
+    "collected_at": "2026-06-19T19:30:35.321953",
     "title_original": "Amazon Prime Air",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939893"
+    "rewritten_at": "2026-06-19T19:32:01.792227"
   }
 ]

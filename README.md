@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-19 22:50:00
+🕐 **最近更新**：2026-06-20 03:32:01
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,12 +16,12 @@
 
 ## 🔥 今日热点
 
-1. [美国称ASML的顶级芯片工具可能在中国。 ASML 表示并非如此](https://aihot.bt199.com/news/bd33e41be4e5/)
-   - ASML 会冒着失去出口许可证的风险来武装中国客户，这是一种商业逻辑
+1. [美国政府的人为禁令是否无意中帮助了该品牌？](https://aihot.bt199.com/news/d131d924d4b8/)
+   - 就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…
    - `TechCrunch AI · 2026-06-19`
 
-2. [资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductionAI](https://aihot.bt199.com/news/f7db370cf36f/)
-   - DeductionAI 是一家利用人工智能捕获和解决软件错误的初创公司，成立于三年前
+2. [美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意](https://aihot.bt199.com/news/00841429d7c1/)
+   - 就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…
    - `TechCrunch AI · 2026-06-19`
 
 3. [关于山姆·奥特曼的电影已被亚马逊米高梅公司下架](https://aihot.bt199.com/news/aca35cefe862/)
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
