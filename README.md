@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-20 21:46:55
+🕐 **最近更新**：2026-06-21 03:15:45
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,13 +16,13 @@
 
 ## 🔥 今日热点
 
-1. [从 PGP 到神话：没有阻止任何人的出口管制简史](https://aihot.bt199.com/news/d0d9430b3e14/)
-   - 过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…
-   - `TechCrunch AI · 2026-06-19`
-
-2. [美国政府的人为禁令是否无意中帮助了该品牌？](https://aihot.bt199.com/news/d131d924d4b8/)
+1. [美国政府的人为禁令是否无意中帮助了该品牌？](https://aihot.bt199.com/news/d131d924d4b8/)
    - 就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…
    - `TechCrunch AI · 2026-06-19`
+
+2. [《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库](https://aihot.bt199.com/news/e4500944fe85/)
+   - 《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…
+   - `The Verge AI · 2026-06-20`
 
 3. [关于山姆·奥特曼的电影已被亚马逊米高梅公司下架](https://aihot.bt199.com/news/aca35cefe862/)
    - 据报道，卢卡·瓜达尼诺 (Luca Guadagnino) 执导的关于 OpenAI 首席执行官山姆·奥尔特曼 (Sam…
@@ -36,15 +36,11 @@
    - 总部位于迈阿密的人工智能初创公司 Subquadratic 上个月走出了隐秘模式，带来了巨大的收益。它宣布它已经解决了近…
    - `MIT Tech Review · 2026-06-19`
 
-6. [Barret Zoph 时隔五个月再次退出 OpenAI](https://aihot.bt199.com/news/4b49eeba9a48/)
-   - 据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…
-   - `The Verge AI · 2026-06-19`
-
-7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
+6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
    - `Ars Technica AI · 2026-06-17`
 
-8. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
+7. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
    - 具有先进黑客能力的人工智能模型很快将成为常态
    - `Ars Technica AI · 2026-06-17`
 
@@ -131,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

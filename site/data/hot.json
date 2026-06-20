@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-06-20T13:46:55.551927",
-  "total": 8,
+  "updated_at": "2026-06-20T19:15:45.396536",
+  "total": 7,
   "hot_list": [
-    {
-      "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "name": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "title_zh": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "subtitle": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "ai_summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "category": "资讯",
-      "news_id": "d0d9430b3e14",
-      "internal_url": "https://aihot.bt199.com/news/d0d9430b3e14/",
-      "type_label": "📰 新闻"
-    },
     {
       "title": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "name": "美国政府的人为禁令是否无意中帮助了该品牌？",
@@ -36,6 +18,24 @@
       "category": "资讯",
       "news_id": "d131d924d4b8",
       "internal_url": "https://aihot.bt199.com/news/d131d924d4b8/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "name": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "title_zh": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-06-20",
+      "time": "2026-06-20",
+      "description": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "subtitle": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "ai_summary": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "category": "资讯",
+      "news_id": "e4500944fe85",
+      "internal_url": "https://aihot.bt199.com/news/e4500944fe85/",
       "type_label": "📰 新闻"
     },
     {
@@ -90,24 +90,6 @@
       "category": "资讯",
       "news_id": "8add01e4aff7",
       "internal_url": "https://aihot.bt199.com/news/8add01e4aff7/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "name": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "title_zh": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "subtitle": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "ai_summary": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "category": "资讯",
-      "news_id": "4b49eeba9a48",
-      "internal_url": "https://aihot.bt199.com/news/4b49eeba9a48/",
       "type_label": "📰 新闻"
     },
     {
@@ -149,24 +131,6 @@
   ],
   "top_20": [
     {
-      "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "name": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "title_zh": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "subtitle": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "ai_summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "category": "资讯",
-      "news_id": "d0d9430b3e14",
-      "internal_url": "https://aihot.bt199.com/news/d0d9430b3e14/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "name": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "title_zh": "美国政府的人为禁令是否无意中帮助了该品牌？",
@@ -182,6 +146,24 @@
       "category": "资讯",
       "news_id": "d131d924d4b8",
       "internal_url": "https://aihot.bt199.com/news/d131d924d4b8/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "name": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "title_zh": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-06-20",
+      "time": "2026-06-20",
+      "description": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "subtitle": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "ai_summary": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "category": "资讯",
+      "news_id": "e4500944fe85",
+      "internal_url": "https://aihot.bt199.com/news/e4500944fe85/",
       "type_label": "📰 新闻"
     },
     {
@@ -236,24 +218,6 @@
       "category": "资讯",
       "news_id": "8add01e4aff7",
       "internal_url": "https://aihot.bt199.com/news/8add01e4aff7/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "name": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "title_zh": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "subtitle": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "ai_summary": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "category": "资讯",
-      "news_id": "4b49eeba9a48",
-      "internal_url": "https://aihot.bt199.com/news/4b49eeba9a48/",
       "type_label": "📰 新闻"
     },
     {
@@ -296,28 +260,10 @@
   "type_stats": {
     "tool": 0,
     "project": 0,
-    "news": 8,
+    "news": 7,
     "model": 0
   },
   "items": [
-    {
-      "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "name": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "title_zh": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "subtitle": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "ai_summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "category": "资讯",
-      "news_id": "d0d9430b3e14",
-      "internal_url": "https://aihot.bt199.com/news/d0d9430b3e14/",
-      "type_label": "📰 新闻"
-    },
     {
       "title": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "name": "美国政府的人为禁令是否无意中帮助了该品牌？",
@@ -334,6 +280,24 @@
       "category": "资讯",
       "news_id": "d131d924d4b8",
       "internal_url": "https://aihot.bt199.com/news/d131d924d4b8/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "name": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "title_zh": "《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-06-20",
+      "time": "2026-06-20",
+      "description": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "subtitle": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "ai_summary": "《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…",
+      "category": "资讯",
+      "news_id": "e4500944fe85",
+      "internal_url": "https://aihot.bt199.com/news/e4500944fe85/",
       "type_label": "📰 新闻"
     },
     {
@@ -388,24 +352,6 @@
       "category": "资讯",
       "news_id": "8add01e4aff7",
       "internal_url": "https://aihot.bt199.com/news/8add01e4aff7/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "name": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "title_zh": "Barret Zoph 时隔五个月再次退出 OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "subtitle": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "ai_summary": "据 The Verge 获悉，在重返 OpenAI 五个月后，该公司企业人工智能销售主管 Barret Zoph 已离职…",
-      "category": "资讯",
-      "news_id": "4b49eeba9a48",
-      "internal_url": "https://aihot.bt199.com/news/4b49eeba9a48/",
       "type_label": "📰 新闻"
     },
     {
