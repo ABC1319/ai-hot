@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-20 03:32:01
+🕐 **最近更新**：2026-06-20 10:40:46
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,11 +16,11 @@
 
 ## 🔥 今日热点
 
-1. [美国政府的人为禁令是否无意中帮助了该品牌？](https://aihot.bt199.com/news/d131d924d4b8/)
-   - 就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…
+1. [加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用](https://aihot.bt199.com/news/d0d9430b3e14/)
+   - 过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…
    - `TechCrunch AI · 2026-06-19`
 
-2. [美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意](https://aihot.bt199.com/news/00841429d7c1/)
+2. [美国政府的人为禁令是否无意中帮助了该品牌？](https://aihot.bt199.com/news/d131d924d4b8/)
    - 就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…
    - `TechCrunch AI · 2026-06-19`
 
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

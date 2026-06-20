@@ -20,7 +20,7 @@ ai_summary = "企业人工智能现在正在进入一个不同的阶段，企业
 summary = "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting."
 summary_zh = "企业人工智能现在正在进入一个不同的阶段，企业不再评估人工智能是否令人兴奋。他们正在评估广泛部署是否安全"
 tags = []
-list_page = 27
+list_page = 28
 +++
 
 <!-- AUTO-GENERATED: news page -->
