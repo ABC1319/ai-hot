@@ -1,25 +1,7 @@
 {
-  "updated_at": "2026-06-20T02:40:45.929282",
+  "updated_at": "2026-06-20T08:47:04.893194",
   "total": 8,
   "hot_list": [
-    {
-      "title": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "name": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "title_zh": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "subtitle": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "ai_summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "category": "资讯",
-      "news_id": "d0d9430b3e14",
-      "internal_url": "https://aihot.bt199.com/news/d0d9430b3e14/",
-      "type_label": "📰 新闻"
-    },
     {
       "title": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "name": "美国政府的人为禁令是否无意中帮助了该品牌？",
@@ -36,6 +18,24 @@
       "category": "资讯",
       "news_id": "d131d924d4b8",
       "internal_url": "https://aihot.bt199.com/news/d131d924d4b8/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "name": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "title_zh": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-06-19",
+      "time": "2026-06-19",
+      "description": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "subtitle": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "ai_summary": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "category": "资讯",
+      "news_id": "00841429d7c1",
+      "internal_url": "https://aihot.bt199.com/news/00841429d7c1/",
       "type_label": "📰 新闻"
     },
     {
@@ -149,24 +149,6 @@
   ],
   "top_20": [
     {
-      "title": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "name": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "title_zh": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "subtitle": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "ai_summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "category": "资讯",
-      "news_id": "d0d9430b3e14",
-      "internal_url": "https://aihot.bt199.com/news/d0d9430b3e14/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "name": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "title_zh": "美国政府的人为禁令是否无意中帮助了该品牌？",
@@ -182,6 +164,24 @@
       "category": "资讯",
       "news_id": "d131d924d4b8",
       "internal_url": "https://aihot.bt199.com/news/d131d924d4b8/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "name": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "title_zh": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-06-19",
+      "time": "2026-06-19",
+      "description": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "subtitle": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "ai_summary": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "category": "资讯",
+      "news_id": "00841429d7c1",
+      "internal_url": "https://aihot.bt199.com/news/00841429d7c1/",
       "type_label": "📰 新闻"
     },
     {
@@ -301,24 +301,6 @@
   },
   "items": [
     {
-      "title": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "name": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "title_zh": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-06-19",
-      "time": "2026-06-19",
-      "description": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "subtitle": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "ai_summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-      "category": "资讯",
-      "news_id": "d0d9430b3e14",
-      "internal_url": "https://aihot.bt199.com/news/d0d9430b3e14/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "name": "美国政府的人为禁令是否无意中帮助了该品牌？",
       "title_zh": "美国政府的人为禁令是否无意中帮助了该品牌？",
@@ -334,6 +316,24 @@
       "category": "资讯",
       "news_id": "d131d924d4b8",
       "internal_url": "https://aihot.bt199.com/news/d131d924d4b8/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "name": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "title_zh": "美国禁止 Anthropic 发行《神鬼寓言 5》，但数字似乎并不在意",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-06-19",
+      "time": "2026-06-19",
+      "description": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "subtitle": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "ai_summary": "就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…",
+      "category": "资讯",
+      "news_id": "00841429d7c1",
+      "internal_url": "https://aihot.bt199.com/news/00841429d7c1/",
       "type_label": "📰 新闻"
     },
     {

@@ -18,58 +18,119 @@
     "rewritten_at": "2026-06-20T02:40:45.884113"
   },
   {
-    "id": "a9fabcfa7a6a",
-    "title": "这位患有肌萎缩侧索硬化症的男子是首位植入脑植入物并能说话的“超级用户”。，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2436841",
+    "id": "e2eb3ba707fb",
+    "title": "Team_创建codex accesstoken，这意味着什么？",
+    "url": "https://linux.do/t/topic/2438408",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T02:14:22",
-    "summary": "据报道，MIT Technology Review This man with ALS is “the first power user” of a brain implant that lets him.",
-    "collected_at": "2026-06-20T02:39:19.889580",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436841",
-    "title_original": "这位患有肌萎缩侧索硬化症的男子是首位植入脑植入物并能说话的“超级用户”。",
-    "summary_original": "MIT Technology Review This man with ALS is “the first power user” of a brain implant that lets him... Casey Harrell uses his implants to talk to friends and family, read to his young daughter, and perform his job. [!quote]+ 凯西·哈雷尔的大脑中植入了一组电极，至今已有近三年时间。哈雷尔患有肌萎缩侧索硬化症（ALS），全身瘫痪。2023年，他首次在研究团队的帮助下使用脑机接口",
+    "published": "2026-06-20T08:27:28",
+    "summary": "据悉，team不用接码了以后 一年登陆一次网页端就行 team颁发token -->最长一年 -->需要允许用户创建访问令牌（创建访问令牌） 导出CPA /** * ChatGPT Codex Access Token 导出脚本 * * 使用方法： * 1.",
+    "collected_at": "2026-06-20T08:45:47.381632",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2438408",
+    "title_original": "Team_创建codex accesstoken",
+    "summary_original": "team不用接码了以后 一年登陆一次网页端就行 team颁发token -->最长一年 -->需要允许用户创建访问令牌（创建访问令牌） 导出CPA /** * ChatGPT Codex Access Token 导出脚本 * * 使用方法： * 1. 打开 https://chatgpt.com 并登录 * 2. 打开浏览器开发者工具 (F12) → Console * 3. 粘贴此脚本并回车运行 * 4. 根据提示输入令牌名称（或使用默认值） * * 功能： * 1. 自动启用 personal_access_tokens beta 功能 * 2. 创建具有 codex 权限的访问令牌 *",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884357"
+    "rewritten_at": "2026-06-20T08:47:04.851786"
   },
   {
-    "id": "d0d9430b3e14",
-    "title": "Report: Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "source": "TechCrunch AI",
+    "id": "v2ex-1221614",
+    "title": "问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？，这一消息引发行业关注",
+    "url": "https://www.v2ex.com/t/1221614",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-06-20T03:23:38",
+    "summary": "据了解，这是一个我问自己的问题，也是我逛帖子发现的一个问题。 大家都在用 AI 写代码，写公司的项目。 更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。",
+    "collected_at": "2026-06-20T08:45:48.091633",
+    "content_text": "这是一个我问自己的问题，也是我逛帖子发现的一个问题。\n大家都在用 AI 写代码，写公司的项目。\n更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。\n所以这就产生一个核心的问题，个人到底能用 AI 做什么？如何开发有意义的产品，如何为少数人的需求开发产品？\n以前总是抱怨，一个人没有产品文档，没有 UI 设计，不会写后端代码，不会写前端代码，而现在 AI 可以帮我们做到了，我们又抱怨大家都可以做，技术平权了，我们能做的，大公司能做，你做的这些又有什么意义呢？\n所以，又陷入了悲观！同时也是磨灭了自己创造的动力～\n我的意思是陷入这种思维的原因有如下两点：\n1 、缺少想法 2 、缺少行动\n谁赞成，谁反对？",
+    "content_source": "trafilatura",
+    "content_chars": 305,
+    "content_excerpt": "这是一个我问自己的问题，也是我逛帖子发现的一个问题。\n大家都在用 AI 写代码，写公司的项目。\n更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。\n所以这就产生一个核心的问题，个人到底能用 AI 做什么？如何开发有意义的产品，如何为少数人的需求开发产品？\n以前总是抱怨，一个人没有产品文档，没有 UI 设计，不会写后端代码，不会写前端代码，而现在 AI 可以帮我们做到了，我们又抱怨大家都可以做，技术平权了，我们能做的，大公司能做，你做的这些又有什么意义呢？\n所以，又陷入了悲观！同时也是磨灭了自己创造的动力～\n我的意思是陷入这种思维的原因有如下两点：\n1 、缺少想法 2 、缺少行动\n谁赞成，谁反对？",
+    "title_original": "问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？",
+    "summary_original": "这是一个我问自己的问题，也是我逛帖子发现的一个问题。 大家都在用 AI 写代码，写公司的项目。 更多的人是用 AI 写重复的轮子，比如对话、画图、写作等。 所以这就产生一个核心的问题，个人到底能用 AI 做什么？如何开发有意义的产品，如何为少数人的需求开发产品？ 以前总是抱怨，一个人没有产品文档，没有 UI 设计，不会写后端代码，不会写前端代码，而现在 AI 可以帮我们做到了，我们又抱怨大家都可以做，技术平权了，我们能做的，大公司能做，你做的这些又有什么意义呢？ 所以，又陷入了悲观！同时也是磨灭了自己创造的动力～ 我的意思是陷入这种思维的原因有如下两点： 1 、缺少想法 2 、缺少行动 谁赞成",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851818"
+  },
+  {
+    "id": "c2b7299c45bb",
+    "title": "刚刚，OpenAI Codex 日志写入异常，社区反映或严重损耗 SSD 寿命",
+    "url": "https://linux.do/t/topic/2438231",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-20T07:27:05",
+    "summary": "vibe的屎山发力了 现在的SSD可不便宜啊 22 个帖子 - 17 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T08:45:47.381677",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2438231",
+    "title_original": "OpenAI Codex 日志写入异常，社区反映或严重损耗 SSD 寿命",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851826"
+  },
+  {
+    "id": "v2ex-1221598",
+    "title": "没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。，这意味着什么？",
+    "url": "https://www.v2ex.com/t/1221598",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-06-20T00:55:02",
+    "summary": "据报道，早知道昨天就把额度给用光了，我还有 60% 没用。 我滴个天啊，后悔啊。Claude ，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？",
+    "collected_at": "2026-06-20T08:45:48.091919",
+    "title_original": "没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。",
+    "summary_original": "早知道昨天就把额度给用光了，我还有 60% 没用。 我滴个天啊，后悔啊。Claude ，现在到底是什么情况啊？是不是每个礼拜都要格外重置一次啊？",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851836"
+  },
+  {
+    "id": "75192eb2931c",
+    "title": "刚刚，claude又出新模型了?",
+    "url": "https://linux.do/t/topic/2438109",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-20T06:57:34",
+    "summary": "看x上有人说A/在巴西出了新的模型，有没有佬友试过的 9 个帖子 - 8 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T08:45:47.381710",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2438109",
+    "title_original": "claude又出新模型了?",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851841"
+  },
+  {
+    "id": "1e1cd49ccfcc",
+    "title": "Latest: Companies rein in AI usage as costs strain budgets",
+    "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+    "source": "Hacker News AI",
     "lang": "en",
-    "priority": 1,
-    "published": "2026-06-19T22:40:14",
-    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective.",
-    "collected_at": "2026-06-20T02:39:15.781591",
-    "content_text": "Last Friday, citing unspecified national security concerns, the White House\nordered Anthropic\nto restrict the export of its powerful AI models Fable and Mythos to anyone outside of the United States, as well as foreign nationals inside the country. Shortly after, the AI giant hastily pulled the plug on both models, which have now been unavailable to anyone for a week.\nThe episode is the first real test of whether the U.S. government can use export controls to contain frontier AI the way it has tried, with very uneven results, to contain encryption and spyware before it. And dramatic as it may sound, how this standoff gets resolved could shape not just Anthropic’s access to foreign markets but the rulebook that other AI labs will have to build around.\nSome context first.\nEver since Anthropic launched Mythos in April\n, the company has marketed it as\nsome kind of Doomsday cyber machine\nthat could wreak havoc on the internet if released too widely — which is why, before the ban,\nonly around 150 vetted companies and government organizations\nhad access to it at all. The goal was helping defenders secure their software and services before the bad guys could reach Mythos-like capabilities.\nSo what triggered the ban? Two subsequent events, reportedly. The first: Anthropic gave a South Korean telecom access to Mythos through its limited partner program, and U.S. officials grew alarmed after identifying the company as one they suspected had ties to China. (The company,\nwidely reported\nto be SK Telecom, has\ndenied\nany China connection.) Amazon CEO Andy Jassy also reportedly\nalerted the administration\nafter Amazon’s own researchers, he said, found a way around Fable 5’s safeguards. Anthropic disputes the “jailbreak” label, calling it a narrow, already-patched issue rather than a wholesale defeat of the model’s safety measures.\nThe result was the same: the Commerce Department issued an export control directive, and Anthropic had to scramble to immediately limit access to its products — within roughly 90 minutes of being notified, by some accounts.\nNone of this is new, though. Governments have tried to use export controls to limit the proliferation of what they see as dangerous cyber technology for decades, but their track record has been middling at best.\nThe U.S. government was behind what is perhaps history’s most spectacular failure of this approach in the early to mid-1990s. At the time, computer scientists were developing encryption technologies to secure data as it traveled over the internet. One of those encryption products was called Pretty Good Privacy, or PGP, a popular software that could encrypt data and make it virtually impossible to unscramble even if intercepted as it traveled to its intended recipient over the internet.\nThe U.S. government initially saw PGP as a dangerous weapon, fearing it would prevent its intelligence agencies from snooping on emails as they crossed their wires. To stop the distribution of PGP, the U.S. Customs Service\nopened a criminal investigation\nagainst PGP’s creator Phil Zimmermann for allegedly violating arms export controls. He fought back by publishing PGP’s source code\nas a printed book\n, igniting what is known today as the “Crypto Wars.”\nZimmermann later won a key battle when the investigation was closed, paving the way for crucial end-to-end encryption algorithms such as the one used by billions of Signal and WhatsApp users.\nLater during the early 2010s, researchers began discovering Western-made spyware used against dissidents in the Middle East. In response, several governments agreed to expand\nthe Wassenaar Arrangement\n, an international treaty that limits the export of dual-use software and technologies that are used in both civilian and military applications.\nThe idea was to classify surveillance and hacking software as dual-use, thus forcing spyware makers to get export licenses to sell their products abroad.\nContact Us\nDo you have more information about the Mythos ban? From a non-work device and network, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram and Keybase @lorenzofb, or\nemail\n.\nBut Wassenaar has always had two inherent weaknesses. There are several countries that don’t adhere to the agreement, including Israel, which houses some of the world’s most active spyware makers.\nThe agreement also depends on countries applying it to companies within their borders at their own discretion. For a time, the Italian government allowed one of the country’s then-top spyware makers, Hacking Team, a license to export its tools around the world, despite the company’s track record of selling spyware to\noppressive\ngovernments\nthat\nused it\nto hack journalists and human rights activists.\nSince then,\nother\ncountries\nin Europe have been lax with spyware makers like Italy. Despite numerous scandals, Europe, home to\nmany spyware and hacking tools makers\n, has\ncontinually failed to curb the export of spyware\nto authoritarian regimes. Critics say that a recently renewed effort across the bloc of 27 member states to tackle its growing problem of spyware exports to authoritarian states “does not go far enough.”\nSeveral spyware makers, such as Intellexa, a sanctioned consortium of spyware companies, have simply moved their operations to countries with lax export controls. Other spyware makers sought to move their operations to Saudi Arabia for similar reasons.\nThere have been some wins. Germany-based spyware maker FinFisher\nshut down in 2022\nafter a multi-year investigation by German prosecutors into the company for\nallegedly selling spyware\nto Turkey without an export license. Investigators previously found the FinFisher spyware had been\ndeployed on the phones\nof critics of Turkey’s government.\nAs of the time of writing, the impasse between Anthropic and the Trump administration remains. There is a reasonable chance the administration will buckle and lift the restriction in the interest of keeping American AI companies competitive worldwide — a move that would amount to tacit acknowledgment that AI labs elsewhere, including in China, will likely reach similar capabilities regardless of what the U.S. restricts. Or, American AI companies could end up needing government approval before serving foreign customers at all, a compliance burden that would invariably dent their bottom line.\nGiven the past experiences that world governments have had with trying to control the reach of software, government-mandated export controls are unlikely to be the right approach to stop malicious actors from abusing powerful dual-use cyber technologies.",
-    "content_source": "readability",
-    "content_chars": 6628,
-    "content_excerpt": "Last Friday, citing unspecified national security concerns, the White House\nordered Anthropic\nto restrict the export of its powerful AI models Fable and Mythos to anyone outside of the United States, as well as foreign nationals inside the country. Shortly after, the AI giant hastily pulled the plug on both models, which have now been unavailable to anyone for a week.\nThe episode is the first real test of whether the U.S. government can use export controls to contain frontier AI the way it has tried, with very uneven results, to contain encryption and spyware before it. And dramatic as it may sound, how this standoff gets resolved could shape not just Anthropic’s access to foreign markets but the rulebook that other AI labs will have to build around.\nSome context first.\nEver since Anthropic launched Mythos in April\n, the company has marketed it as\nsome kind of Doomsday cyber machine\nthat could wreak havoc on the internet if released too widely — which is why, before the ban,\nonly around 150 vetted companies and government organizations",
-    "title_zh": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-    "summary_zh": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络安全模型 Mythos 一起使用",
-    "ai_summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
-    "title_original": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-    "summary_original": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+    "priority": 2,
+    "published": "2026-06-19T19:57:18",
+    "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 109 # Comments: 98",
+    "collected_at": "2026-06-20T08:45:43.738758",
+    "content_text": "‘We created a monster’: companies rein in AI usage as costs strain budgets\nSubscribe to unlock this article\nTry unlimited access\nOnly $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\nExplore more offers.\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country",
+    "content_source": "trafilatura",
+    "content_chars": 402,
+    "content_excerpt": "‘We created a monster’: companies rein in AI usage as costs strain budgets\nSubscribe to unlock this article\nTry unlimited access\nOnly $1 for 4 weeksThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\nExplore more offers.\nExplore our full range of subscriptions.\nFor individuals\nDiscover all the plans currently available in your country",
+    "title_zh": "由于成本预算紧张，公司限制人工智能的使用",
+    "summary_zh": "https://archive.ph/z24oE 评论网址：https://news.ycombinator.com/item?id=48602571 积分：109 # 评论：98",
+    "ai_summary": "https://archive.ph/z24oE 评论网址：https://news.ycombinator.com/i…",
+    "title_original": "Companies rein in AI usage as costs strain budgets",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884375"
+    "rewritten_at": "2026-06-20T08:47:04.851850"
   },
   {
-    "id": "8493f204f7c6",
-    "title": "刚刚，由于RAM涨价，Nothing 终结了今年的 CMF 手机发布计划",
-    "url": "https://linux.do/t/topic/2436836",
+    "id": "a68c20f30de9",
+    "title": "中国首部 L3/L4 自动驾驶强制性国标报批，2027 年实施，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2438015",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T02:12:28",
-    "summary": "有分析指出，The Verge – 19 Jun 26 Nothing cancels this year’s CMF phone due to RAM prices Nothing’s next budget phone will have to wait until at least 2027.",
-    "collected_at": "2026-06-20T02:39:19.889665",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436836",
-    "title_original": "由于RAM涨价，Nothing 终结了今年的 CMF 手机发布计划",
-    "summary_original": "The Verge – 19 Jun 26 Nothing cancels this year’s CMF phone due to RAM prices Nothing’s next budget phone will have to wait until at least 2027. TechRadar – 19 Jun 26 ‘We can't build a phone that feels like a genuine step forward’: Nothing... AI has a lot to answer for, with the ongoing RAM crisis n",
+    "published": "2026-06-20T06:41:01",
+    "summary": "消息称，工信部已完成《智能网联汽车自动驾驶系统安全要求》强制性国家标准报批稿，6 月 17 日起公示，建议 2027 年 7 月 1 日实施。",
+    "collected_at": "2026-06-20T08:45:47.381781",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2438015",
+    "title_original": "中国首部 L3/L4 自动驾驶强制性国标报批，2027 年实施",
+    "summary_original": "工信部已完成《智能网联汽车自动驾驶系统安全要求》强制性国家标准报批稿，6 月 17 日起公示，建议 2027 年 7 月 1 日实施。这是我国首部针对 L3 和 L4 级自动驾驶的强制性标准，引入了 Safety Case 安全档案机制，要求企业用“声明—论据—证据”系统性论证安全性，并对 L3 的人机交接和 L4 的系统自主风险处置分别提出要求。 业内人士表示，新标准标志着监管从“概念松绑”转向“安全硬约束”，车企过去靠模糊宣传抢市场的阶段将结束，未来竞争会聚焦安全能力。标准短期内可能推高冗余系统、高算力芯片等成本，但长期会被技术迭代和规模效应逐步摊薄。 搜狐网 6 个帖子 - 6 位参与者",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884416"
+    "rewritten_at": "2026-06-20T08:47:04.851868"
   },
   {
     "id": "8284a4b831cb",
@@ -94,20 +155,56 @@
     "rewritten_at": "2026-06-19T19:32:01.791951"
   },
   {
-    "id": "a8651e414095",
-    "title": "重磅！预测性大脑：词语预期相关的神经机制与大型语言模型预测概率相符",
-    "url": "https://linux.do/t/topic/2436601",
+    "id": "f9b3f49d4415",
+    "title": "福建福耀科技大学表态学校要自负盈亏，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2437607",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T00:57:36",
-    "summary": "据报道，https://www.sciencedirect.com/science/article/pii/S1053811926002818?",
-    "collected_at": "2026-06-20T02:39:19.889743",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436601",
-    "title_original": "预测性大脑：词语预期相关的神经机制与大型语言模型预测概率相符",
-    "summary_original": "https://www.sciencedirect.com/science/article/pii/S1053811926002818?via%3Dihub [!abstract]+ 预测编码理论认为，大脑会持续预测即将出现的词语以优化语言处理，但其神经机制尚不明确，尤其是在自然语境下的语音中。本研究同步记录了29名参与者在聆听有声读物时的脑电图（EEG）和脑磁图（MEG）数据，并使用三种语言学习模型（LLM）对名词进行可预测性评分：一种是BERT模型，两种是多语言LLaMA模型。结果表明，较高的可预测性与词语识别过程中神经反应的降低相关，表现为N400波幅降低，以及词语出现前预期活动的增强。",
+    "published": "2026-06-20T05:02:07",
+    "summary": "据了解，2026年6月17日，“福耀科技大学”微信公众号刊发了该校校长王树国，在接受中国教育在线总编辑、创新人才教育研究会副会长陈志文采访的文字稿，解答了舆论对这所新型研究型大学的疑问。",
+    "collected_at": "2026-06-20T08:45:47.381909",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2437607",
+    "title_original": "福建福耀科技大学表态学校要自负盈亏",
+    "summary_original": "2026年6月17日，“福耀科技大学”微信公众号刊发了该校校长王树国，在接受中国教育在线总编辑、创新人才教育研究会副会长陈志文采访的文字稿，解答了舆论对这所新型研究型大学的疑问。 其中，陈志文提出一个问题：“曹德旺理事长提出，学校各院系要逐步实现自负盈亏，自己养活自己。为什么？” 对此，王树国回答：“如果连自己都养活不了，说明没有真本事，如果你研究的是真问题怎么会养活不了自己？你的成果没有落地转化，要么是研究脱离实际，要么没有技术实力。曹先生提这个要求实际上是倒逼机制，倒逼我们深耕真问题。” “现在我们已经尝到甜头了。学校获批建设不到一年，就联合企业自主研制出超高精度贴装生产线，对标芯片后封装",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884432"
+    "rewritten_at": "2026-06-20T08:47:04.851886"
+  },
+  {
+    "id": "89a83bf2a75c",
+    "title": "Analysis: GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-06-19T16:11:25",
+    "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 121 # Comments: 27",
+    "collected_at": "2026-06-20T08:45:43.738847",
+    "content_text": "Bigger models are not the way\nJun 18, 2026\nA shift is happening among major AI labs, who are becoming increasingly skeptical of endless parameter count and training data scaling. The limits of this paradigm were put on the world’s stage when Claude Fable 5 was restricted by the US government just three days after its release, marking the first US AI ban stemming from national security. One of the biggest models in the world was banned because a single jailbreak was too much of a risk.\nBigger is better\nThe above is true in almost all cases. The biggest models in the world clearly score the highest on the Artificial Analysis Intelligence Index. Yet, Z.ai’s newest, GLM-5.2 (753B parameters, roughly 40B active), comes within just 4 points of GPT-5.5 and 9 points of Fable 5. Opus 4.8 and GPT-5.5 are proprietary and estimated to be in the 1-2T parameter range conservatively. If an open weight (MIT licensed) LLM can come so close to a closed weight model estimated to be 1.5 to 2 times bigger, it is clear that actual intelligence has plateaued significantly.\nBigger is not better\nIt’s been proven that when a model is trained on large volumes of highly factual and non-theoretical data, it learns to always have an answer. DeepSeek V4 Pro (1.6T params, 49B active, 44 AA Intelligence Index score) has a ludicrous 94% hallucination score on the AA-Omniscience benchmark, meaning on questions that it couldn’t figure out, it only stated that it didn’t know around 6% of the time, and the rest it confidently hallucinated an answer. GLM-5.2 scored a 28% hallucination rate, Opus 4.8 was 36%, Fable 5 was 48%, and GPT-5.5 was 86%.\nThat seems incredibly rough for such a huge, popular model. Let’s test it with a relatively complex Python question with a clear architectural flaw.1\nDeepSeek V4 Pro used almost 10 times the reasoning tokens yet produced a confidently incorrect response. On the other hand, it took GLM-5.2 just 12 seconds and about 800 reasoning tokens to recognize the technical impossibility of a single-threaded task executing multiplexed I/O without ever yielding or utilizing system polling. (For the non technical, this is like asking a delivery driver to drop off packages at 3 houses at the same time without ever stopping the truck.)\nGPT-5.5 and DeepSeek V4 Pro are two of the clearest hallucination leaders, despite being absolutely huge. Because of their immense size they simply did not learn how to say “I don’t know” or recognize intricate logical and technical fallacies. While it is true that a multi-trillion parameter model will always beat a lightweight consumer model on paper (today at least), the commoditization of these huge models is blurring the line between benchmark performance and actual real-world truthfulness and accuracy.\nThe trilemma of modern AI\nWe should be very cautious about blindly increasing reasoning budget, corpus size, or parameter count. DeepSeek V4 Pro spent 3 minutes and 26 seconds wasting compute in a reasoning loop (raw reasoning here) just to generate a beautifully structured, confidently incorrect solution. Yet, a model half its size identified the paradox almost instantaneously. Even in today’s era as we near AGI, many of the biggest models will actively convince you that a solution is correct and that the problem was solvable as stated.\nMoving forward, the industry cannot continue to train bigger and bigger models since their intelligence not only plateaus but often will get worse. This applies for the consumer too, since we cannot continue to select models based on size or theoretical performance alone. Training and selection of AI needs to be designed around the unsolved trilemma of modern LLMs: raw capability, uncertainty calibration/hallucination rate, and computational efficiency.\nFootnotes\n-\nBoth models were given “high” reasoning effort, temperature 1, tested on OpenRouter, with the following system prompt: “You respond professionally. You are a highly capable coding assistant well-versed in Python.” GLM-5.2 was served by Z.ai (FP8 precision) and DeepSeek V4 Pro was served by Baidu Qianfan (FP8 precision). ↩",
+    "content_source": "trafilatura",
+    "content_chars": 4113,
+    "content_excerpt": "Bigger models are not the way\nJun 18, 2026\nA shift is happening among major AI labs, who are becoming increasingly skeptical of endless parameter count and training data scaling. The limits of this paradigm were put on the world’s stage when Claude Fable 5 was restricted by the US government just three days after its release, marking the first US AI ban stemming from national security. One of the biggest models in the world was banned because a single jailbreak was too much of a risk.\nBigger is better\nThe above is true in almost all cases. The biggest models in the world clearly score the highest on the Artificial Analysis Intelligence Index. Yet, Z.ai’s newest, GLM-5.2 (753B parameters, roughly 40B active), comes within just 4 points of GPT-5.5 and 9 points of Fable 5. Opus 4.8 and GPT-5.5 are proprietary and estimated to be in the 1-2T parameter range conservatively. If an open weight (MIT licensed) LLM can come so close to a closed weight model estimated to be 1.5 to 2 times bigger, it is clear that actual intelligence has plateaued significantly.\nBigger is not better\nIt’s been proven that when a model is trained on large volumes of highly factual and non-theoretical data, it learns to always have an answer. DeepSeek V4 Pro (1.6T params, 49B active, 44 AA Intelligence Index score) has a ludicrous 94% hallucination score on the AA-Omniscience benchmark, meaning on questions that it couldn’t figure out, it only stated that it didn’t know around 6% of the time, and the rest it confidently hallucinated an answer. GLM-5.2 scored a 28% hallucination rate, Opus 4.8 was 36%, Fable 5 was 48%, and GPT-5.5 was 86%.\nThat seems incredibly rough for such a huge, popular model. Let’s test it with a relatively complex Python question with a clear architectural flaw.1\nDeepSeek V4 Pro used almost 10 times the reasoning tokens yet produced a confidently incorrect response. On the other hand, it took GLM-5.2 just 12 seconds and about 800 reasoning tokens to recognize the technical impossibility of a single-threaded task executing multiplexed I/O without ever yielding or utilizing system polling. (For the non technical, this is like asking a delivery driver to drop off packages at 3 houses at the same time without ever stopping the truck.)\nGPT-5.5 and DeepSeek V4 Pro are two of the clearest hallucination leaders, despite being absolutely huge. Because of their immense size they simply did not learn how to say “I don’t know” or recognize intricate logical and technical fallacies. While it is true that a multi-trillion parameter model will always beat a lightweight consumer model on paper (today at least), the commoditization of these huge models is blurring the line between benchmark performance and actual real-world truthfulness and accuracy.",
+    "title_zh": "GPT-5.5 产生的幻觉是 MIT 许可的 GLM-5.2 的 3 倍",
+    "summary_zh": "文章网址：https://arrowtsx.dev/bigger-models/ 评论网址：https://news.ycombinator.com/item?id=48600167 积分：121 # 评论：27",
+    "ai_summary": "文章网址：https://arrowtsx.dev/bigger-models/ 评论网址：https://news.y…",
+    "title_original": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851892"
+  },
+  {
+    "id": "bb3a8a3049d9",
+    "title": "刚刚，Polymarket 盘口预测：85%交易者下注，阿里巴巴Qwen，会登顶六月中国最佳AI模型",
+    "url": "https://linux.do/t/topic/2437420",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-20T04:21:29",
+    "summary": "22 个帖子 - 19 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T08:45:47.381946",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2437420",
+    "title_original": "Polymarket 盘口预测：85%交易者下注，阿里巴巴Qwen，会登顶六月中国最佳AI模型",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851897"
   },
   {
     "id": "d131d924d4b8",
@@ -132,20 +229,20 @@
     "rewritten_at": "2026-06-19T19:32:01.791982"
   },
   {
-    "id": "f9d487f640b2",
-    "title": "最新动态：求问，Claude Code的计费是不是太水了，怎么这么耐用？",
-    "url": "https://linux.do/t/topic/2436455",
+    "id": "75795b1f96de",
+    "title": "重磅！Claude 重置了所有套餐的额度，享受端午的狂欢吧",
+    "url": "https://linux.do/t/topic/2436978",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T23:39:04",
-    "summary": "有分析指出，如图所示，Max 5x Plan，刚才5h重置，我用Ultracode跑了一个任务，用量和费用大概2.3M/22刀，消耗了5h的33%，也就是说1个5h可以跑50~60刀？ 然后这个缓存率奇高无比，Workflow的子代理对抗审查几乎把缓存吃满了。 18 个帖子 - 12 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T02:39:19.889785",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436455",
-    "title_original": "求问，Claude Code的计费是不是太水了，怎么这么耐用？",
-    "summary_original": "如图所示，Max 5x Plan，刚才5h重置，我用Ultracode跑了一个任务，用量和费用大概2.3M/22刀，消耗了5h的33%，也就是说1个5h可以跑50~60刀？ 然后这个缓存率奇高无比，Workflow的子代理对抗审查几乎把缓存吃满了。 18 个帖子 - 12 位参与者 阅读完整话题",
+    "published": "2026-06-20T02:46:44",
+    "summary": "消息称，20x真的登不动了，什么时候把fable端上来！！！ 原因是bug导致的，原文参考： 7 个帖子 - 6 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T08:45:47.381981",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436978",
+    "title_original": "Claude 重置了所有套餐的额度，享受端午的狂欢吧",
+    "summary_original": "20x真的登不动了，什么时候把fable端上来！！！ 原因是bug导致的，原文参考： 7 个帖子 - 6 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884446"
+    "rewritten_at": "2026-06-20T08:47:04.851906"
   },
   {
     "id": "5b0846176d48",
@@ -169,20 +266,20 @@
     "rewritten_at": "2026-06-20T02:40:45.884455"
   },
   {
-    "id": "4c6e32eb2ff9",
-    "title": "重磅！GLM 5.2的分数出来了",
-    "url": "https://linux.do/t/topic/2436422",
+    "id": "53ac7ff05f09",
+    "title": "重磅！Claude又为所有订阅用户重置额度！20-6-2026",
+    "url": "https://linux.do/t/topic/2436970",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T23:02:42",
-    "summary": "消息称，livebench上Agentic Coding第一 artificial analysis 上的结果相似 7 个帖子 - 7 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T02:39:19.889825",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436422",
-    "title_original": "GLM 5.2的分数出来了",
-    "summary_original": "livebench上Agentic Coding第一 artificial analysis 上的结果相似 7 个帖子 - 7 位参与者 阅读完整话题",
+    "published": "2026-06-20T02:44:49",
+    "summary": "有分析指出，继续Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度 15 个帖子 - 13 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T08:45:47.382015",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436970",
+    "title_original": "Claude又为所有订阅用户重置额度！20-6-2026",
+    "summary_original": "继续Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度 15 个帖子 - 13 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884467"
+    "rewritten_at": "2026-06-20T08:47:04.851914"
   },
   {
     "id": "deade1e4e10e",
@@ -204,20 +301,20 @@
     "rewritten_at": "2026-06-20T02:40:45.884479"
   },
   {
-    "id": "b3d0e748f727",
-    "title": "突发：Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
-    "url": "https://linux.do/t/topic/2436251",
+    "id": "a9fabcfa7a6a",
+    "title": "这位患有肌萎缩侧索硬化症的男子是首位植入脑植入物并能说话的“超级用户”。，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2436841",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T18:03:39",
-    "summary": "据报道，Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。",
-    "collected_at": "2026-06-19T19:30:35.005364",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436251",
-    "title_original": "Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
-    "summary_original": "Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。我在那里工作了一年。我想我学到更多的可能是关于语音、语音识别以及诸如此类的技术… Inside the Mind of Anthropic CEO Dario Amodei | The Circuit | Extended Interview 12 个帖子 - 10 位参与者 阅读完整话题",
+    "published": "2026-06-20T02:14:22",
+    "summary": "据报道，MIT Technology Review This man with ALS is “the first power user” of a brain implant that lets him.",
+    "collected_at": "2026-06-20T02:39:19.889580",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436841",
+    "title_original": "这位患有肌萎缩侧索硬化症的男子是首位植入脑植入物并能说话的“超级用户”。",
+    "summary_original": "MIT Technology Review This man with ALS is “the first power user” of a brain implant that lets him... Casey Harrell uses his implants to talk to friends and family, read to his young daughter, and perform his job. [!quote]+ 凯西·哈雷尔的大脑中植入了一组电极，至今已有近三年时间。哈雷尔患有肌萎缩侧索硬化症（ALS），全身瘫痪。2023年，他首次在研究团队的帮助下使用脑机接口",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.791921"
+    "rewritten_at": "2026-06-20T02:40:45.884357"
   },
   {
     "id": "00841429d7c1",
@@ -242,20 +339,20 @@
     "rewritten_at": "2026-06-19T19:32:01.792008"
   },
   {
-    "id": "3e81bc41c322",
-    "title": "iKuai 软路由系统更新4.0（2026-06-16 15:28），业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2436124",
+    "id": "8493f204f7c6",
+    "title": "刚刚，由于RAM涨价，Nothing 终结了今年的 CMF 手机发布计划",
+    "url": "https://linux.do/t/topic/2436836",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T16:49:38",
-    "summary": "有分析指出，已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T19:30:35.005539",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436124",
-    "title_original": "iKuai 软路由系统更新4.0（2026-06-16 15:28）",
-    "summary_original": "已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
+    "published": "2026-06-20T02:12:28",
+    "summary": "有分析指出，The Verge – 19 Jun 26 Nothing cancels this year’s CMF phone due to RAM prices Nothing’s next budget phone will have to wait until at least 2027.",
+    "collected_at": "2026-06-20T02:39:19.889665",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436836",
+    "title_original": "由于RAM涨价，Nothing 终结了今年的 CMF 手机发布计划",
+    "summary_original": "The Verge – 19 Jun 26 Nothing cancels this year’s CMF phone due to RAM prices Nothing’s next budget phone will have to wait until at least 2027. TechRadar – 19 Jun 26 ‘We can't build a phone that feels like a genuine step forward’: Nothing... AI has a lot to answer for, with the ongoing RAM crisis n",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.791964"
+    "rewritten_at": "2026-06-20T02:40:45.884416"
   },
   {
     "id": "e35040ffdf08",
@@ -279,20 +376,20 @@
     "rewritten_at": "2026-06-19T19:32:01.792031"
   },
   {
-    "id": "4cd8cef45e15",
-    "title": "突发：基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
-    "url": "https://linux.do/t/topic/2436121",
+    "id": "f9d487f640b2",
+    "title": "最新动态：求问，Claude Code的计费是不是太水了，怎么这么耐用？",
+    "url": "https://linux.do/t/topic/2436455",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T16:49:23",
-    "summary": "据悉，2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T19:30:35.005584",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436121",
-    "title_original": "基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
-    "summary_original": "2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
+    "published": "2026-06-19T23:39:04",
+    "summary": "有分析指出，如图所示，Max 5x Plan，刚才5h重置，我用Ultracode跑了一个任务，用量和费用大概2.3M/22刀，消耗了5h的33%，也就是说1个5h可以跑50~60刀？ 然后这个缓存率奇高无比，Workflow的子代理对抗审查几乎把缓存吃满了。 18 个帖子 - 12 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T02:39:19.889785",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436455",
+    "title_original": "求问，Claude Code的计费是不是太水了，怎么这么耐用？",
+    "summary_original": "如图所示，Max 5x Plan，刚才5h重置，我用Ultracode跑了一个任务，用量和费用大概2.3M/22刀，消耗了5h的33%，也就是说1个5h可以跑50~60刀？ 然后这个缓存率奇高无比，Workflow的子代理对抗审查几乎把缓存吃满了。 18 个帖子 - 12 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.791992"
+    "rewritten_at": "2026-06-20T02:40:45.884446"
   },
   {
     "id": "aca35cefe862",
@@ -317,20 +414,20 @@
     "rewritten_at": "2026-06-19T14:49:59.939558"
   },
   {
-    "id": "a6068c7cd661",
-    "title": "突发：弥合神经形态离子计算与更高效人工智能之间的差距",
-    "url": "https://linux.do/t/topic/2435847",
+    "id": "4c6e32eb2ff9",
+    "title": "重磅！GLM 5.2的分数出来了",
+    "url": "https://linux.do/t/topic/2436422",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T15:31:43",
-    "summary": "据了解，https://www.science.org/doi/10.1126/science.aea2097 [!",
-    "collected_at": "2026-06-19T19:30:35.005818",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435847",
-    "title_original": "弥合神经形态离子计算与更高效人工智能之间的差距",
-    "summary_original": "https://www.science.org/doi/10.1126/science.aea2097 [!abstract]+ 神经形态计算受到人脑有效处理信息的能力的启发，代表了一种变革性的计算方法。在这篇综述中，我们探讨了神经形态离子计算的新兴领域，该领域利用离子传导和耦合来模拟神经过程，并确定必须解决的关键知识差距，以充分发挥其潜力。讨论的中心主题是能源效率，对于这项技术来说，挑战既是限制，也是机遇。 尽管基于互补金属氧化物半导体（CMOS）的神经拟态技术在扩展到数十亿个神经元方面取得了长足的进步，并且越来越多地应用于人工智能和数值计算，但它们在连接性和能源效率方面仍然落后于人脑几个数",
+    "published": "2026-06-19T23:02:42",
+    "summary": "消息称，livebench上Agentic Coding第一 artificial analysis 上的结果相似 7 个帖子 - 7 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T02:39:19.889825",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436422",
+    "title_original": "GLM 5.2的分数出来了",
+    "summary_original": "livebench上Agentic Coding第一 artificial analysis 上的结果相似 7 个帖子 - 7 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.792019"
+    "rewritten_at": "2026-06-20T02:40:45.884467"
   },
   {
     "id": "v2ex-1221570",
@@ -340,7 +437,7 @@
     "lang": "zh",
     "published": "2026-06-19T13:31:39",
     "summary": "据悉，大家好，我最近在做一个 Windows 小工具，叫 StartPad 。 ![Imgur]( https://i.",
-    "collected_at": "2026-06-20T02:39:20.555699",
+    "collected_at": "2026-06-20T08:45:48.091693",
     "content_text": "体验了，丝滑。Intel 低压 U 没插电的笔记本都响应速度飞快。\n我还记得以前笔记本升级到 Windows 11 后，很长一段时间都只靠组合键走搜索来快速开应用，因为 Win11 开始菜单布局太低效了。之后回退 Windows 10 接着用回了宽大的贴一堆磁贴的开始菜单，然后到今天主力机都没升 Win11 。\n也就是因为是 Windows 10 ，测试了 op 的 Launcher 看到了好一些被微软坑出的小细节问题，刚好也在这反馈下，\n一个是菜单图标字体缺失，这个微软官方 Demo 程序都有撞见过，估计因为用了 Windows 11 才有的资源，在 Win10 上直接变豆腐块；\n另一个就是微软删了也没删干净的特色大方块图标，下面图里面可以看到它没有像 Windows 11 一样用透明底，而还是这种和桌面图标以及任务管理器进程图标一样的主题色方块底的 Icon 。微软 Win10 上是给这种样式做过删改的，但是看样子只改了系统任务栏与开始菜单的显示方式。\n(截图是 200% 缩放比的屏幕。PWA 应用也有方块底色)\n另外的细节大约是触摸设备的交互吧，拿触摸屏试了下长按右键和拖拽空白位置翻页完全没问题，不过如果翻页的时候按在图标上，就触发和鼠标拖拽一样的重新排序动作了。如果要适配触摸估计得特化做个长按手势。\n然后，默认情况下可以聚焦搜索框，这样直接 Win + Q 就可以接键盘输入应用名字了。但是考虑到 Windows 对于没有连接键盘的触屏设备，自动聚焦搞不好会让触摸键盘自动弹出来遮挡屏幕，这种坑我拿不准存不存在、是否值得留个手动设置的开关。总觉得 Windows 这种硬件排列组合的自由度对开发者来说就是个大难题，微软自己这么多年都没做好。\n顺便，小 bug 方面比如搜索框搜索出的图标不能右键，拖拽的图标跨 2 页放下后暂时会不显示，搜索出的文件夹点击展开会变成展开默认排序的同位置文件夹之类，这些可能也都能手动测出来。点来点去还没遇到什么能崩掉的大的问题。所以这里主要应该还是 Win10 和 Win11 系统图标差异的这个算是最突出的 (也是被微软坑到的) 小问题。\n整体上感受还是极为美丽的，原生应用性能就是好。感谢 OP 的这个工具，也期待下后继的开发。我已经想给自己 Win11 的开发机都塞上一份这个 Launcher 了。",
     "content_source": "trafilatura",
     "content_chars": 982,
@@ -348,22 +445,53 @@
     "title_original": "用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad",
     "summary_original": "大家好，我最近在做一个 Windows 小工具，叫 StartPad 。 ![Imgur]( https://i.imgur.com/qwEZ9ai.png) 一个适合 Windows 的全屏启动台，灵感有点类似 macOS Launchpad ，但 UI 也部分使用了 Fluent 风格。 我的目标是让 Windows 用户可以更方便地打开应用、整理应用、减少桌面快捷方式的堆积，也不用每次都从开始菜单里找软件。体积非常小只有 1M 多，完全原生开发、GPU 加速。 目前已有功能： - 全屏应用启动台 - 快速搜索并打开应用 - 支持应用文件夹整理 - 支持右键 卸载、创建桌面快捷方式 - 支",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884492"
+    "rewritten_at": "2026-06-20T08:47:04.851927"
   },
   {
-    "id": "8ce81c23c224",
-    "title": "重磅！Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
-    "url": "https://linux.do/t/topic/2435722",
+    "id": "b3d0e748f727",
+    "title": "突发：Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
+    "url": "https://linux.do/t/topic/2436251",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T15:02:46",
-    "summary": "30 个帖子 - 21 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T19:30:35.005854",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435722",
-    "title_original": "Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
+    "published": "2026-06-19T18:03:39",
+    "summary": "据报道，Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。",
+    "collected_at": "2026-06-19T19:30:35.005364",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436251",
+    "title_original": "Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
+    "summary_original": "Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。我在那里工作了一年。我想我学到更多的可能是关于语音、语音识别以及诸如此类的技术… Inside the Mind of Anthropic CEO Dario Amodei | The Circuit | Extended Interview 12 个帖子 - 10 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.792037"
+    "rewritten_at": "2026-06-19T19:32:01.791921"
+  },
+  {
+    "id": "v2ex-1221559",
+    "title": "深度解读：好难受, 现在是不是 GLM 最适合我了",
+    "url": "https://www.v2ex.com/t/1221559",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-06-19T12:11:55",
+    "summary": "据了解，一开始是 copilot, 然后 6 月份 copilot 按照 credit 付费, 感觉支付不起. 发现 codex 还不错, 然后昨天被二次验证劝退了.",
+    "collected_at": "2026-06-20T08:45:48.091853",
+    "title_original": "好难受, 现在是不是 GLM 最适合我了",
+    "summary_original": "一开始是 copilot, 然后 6 月份 copilot 按照 credit 付费, 感觉支付不起. 发现 codex 还不错, 然后昨天被二次验证劝退了. claude code 原生的我连尝试都没敢尝试. 太麻烦. 那就剩 cursor 了, 要么就是 GLM? 或者 deepseek. cursor 20/月 那个抗造不? codex 20 美金反正是够我用.",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851940"
+  },
+  {
+    "id": "3e81bc41c322",
+    "title": "iKuai 软路由系统更新4.0（2026-06-16 15:28），业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2436124",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T16:49:38",
+    "summary": "有分析指出，已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005539",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436124",
+    "title_original": "iKuai 软路由系统更新4.0（2026-06-16 15:28）",
+    "summary_original": "已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.791964"
   },
   {
     "id": "229a5a6ccdc1",
@@ -388,20 +516,20 @@
     "rewritten_at": "2026-06-19T14:49:59.939608"
   },
   {
-    "id": "b17049315b90",
-    "title": "深度解读：OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
-    "url": "https://linux.do/t/topic/2435282",
+    "id": "4cd8cef45e15",
+    "title": "突发：基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
+    "url": "https://linux.do/t/topic/2436121",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T13:07:55",
-    "summary": "消息称，看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T14:48:22.782768",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435282",
-    "title_original": "OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
-    "summary_original": "看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
+    "published": "2026-06-19T16:49:23",
+    "summary": "据悉，2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005584",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436121",
+    "title_original": "基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
+    "summary_original": "2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939591"
+    "rewritten_at": "2026-06-19T19:32:01.791992"
   },
   {
     "id": "v2ex-1221555",
@@ -411,7 +539,7 @@
     "lang": "zh",
     "published": "2026-06-19T11:18:30",
     "summary": "消息称，刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。",
-    "collected_at": "2026-06-20T02:39:20.555745",
+    "collected_at": "2026-06-20T08:45:48.091742",
     "content_text": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。\n前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。\n痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。\n这个过程真的很漫长，因为端到端测试都要自己来，而且还不放心，还要再开一个窗口让 Codex review 代码。\n其实我之前尝试过 Claude Design 和 Claude Code 协作写前端，但细节有很多问题，Claude Code 也处理不好。我想请教一下大家，是前端本来就如此复杂，还是我的流程有问题导致如此繁琐？",
     "content_source": "trafilatura",
     "content_chars": 452,
@@ -419,23 +547,23 @@
     "title_original": "前端界面比想象中复杂好多",
     "summary_original": "刚接触 Vibe Coding 时就感觉前端比后端复杂好多，后端只需要不停按照需求优化性能就好了，有客观的测试数据，如果优化效果不符合预期就检查架构是否有改进的空间。总而言之就是流程可控。 前端界面一开始完全不会，找类似软件学习，然后和 Codex 描述需求，各种细节瑕疵，花费很大精力改得差不多，身心俱疲，然后下一次改动又重复一遍这个流程。 痛定思痛，反思流程问题，于是整理出前端文档，找 ChatGPT 网页端生成组件和布局的示意图，包含各种状态。再让 Codex 根据示意图和文档绘制界面，再修改文档修复 bug ，改完以后找 ChatGPT 重新生成最新版本的示意图。 这个过程真的很漫长，因",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884506"
+    "rewritten_at": "2026-06-20T08:47:04.851951"
   },
   {
-    "id": "6048b568e27b",
-    "title": "stepfun模型感觉有点拉，不过免费的一律给到夯😋，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2435021",
+    "id": "a6068c7cd661",
+    "title": "突发：弥合神经形态离子计算与更高效人工智能之间的差距",
+    "url": "https://linux.do/t/topic/2435847",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T12:00:55",
-    "summary": "有分析指出，有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T14:48:22.782999",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435021",
-    "title_original": "stepfun模型感觉有点拉，不过免费的一律给到夯😋",
-    "summary_original": "有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
+    "published": "2026-06-19T15:31:43",
+    "summary": "据了解，https://www.science.org/doi/10.1126/science.aea2097 [!",
+    "collected_at": "2026-06-19T19:30:35.005818",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435847",
+    "title_original": "弥合神经形态离子计算与更高效人工智能之间的差距",
+    "summary_original": "https://www.science.org/doi/10.1126/science.aea2097 [!abstract]+ 神经形态计算受到人脑有效处理信息的能力的启发，代表了一种变革性的计算方法。在这篇综述中，我们探讨了神经形态离子计算的新兴领域，该领域利用离子传导和耦合来模拟神经过程，并确定必须解决的关键知识差距，以充分发挥其潜力。讨论的中心主题是能源效率，对于这项技术来说，挑战既是限制，也是机遇。 尽管基于互补金属氧化物半导体（CMOS）的神经拟态技术在扩展到数十亿个神经元方面取得了长足的进步，并且越来越多地应用于人工智能和数值计算，但它们在连接性和能源效率方面仍然落后于人脑几个数",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939623"
+    "rewritten_at": "2026-06-19T19:32:01.792019"
   },
   {
     "id": "8add01e4aff7",
@@ -460,6 +588,21 @@
     "rewritten_at": "2026-06-19T14:49:59.939636"
   },
   {
+    "id": "8ce81c23c224",
+    "title": "重磅！Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
+    "url": "https://linux.do/t/topic/2435722",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T15:02:46",
+    "summary": "30 个帖子 - 21 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005854",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435722",
+    "title_original": "Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T19:32:01.792037"
+  },
+  {
     "id": "ab40cb5fe470",
     "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万，这一消息引发行业关注",
     "url": "https://36kr.com/p/3859926114161665?f=rss",
@@ -479,6 +622,22 @@
     "rewritten_at": "2026-06-19T10:18:29.950137"
   },
   {
+    "id": "b17049315b90",
+    "title": "深度解读：OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
+    "url": "https://linux.do/t/topic/2435282",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T13:07:55",
+    "summary": "消息称，看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T14:48:22.782768",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435282",
+    "title_original": "OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
+    "summary_original": "看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T14:49:59.939591"
+  },
+  {
     "id": "7d006cbc88b2",
     "title": "突发：平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
     "url": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article",
@@ -495,6 +654,22 @@
     "title_original": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
     "rewritten": true,
     "rewritten_at": "2026-06-19T03:35:58.215724"
+  },
+  {
+    "id": "6048b568e27b",
+    "title": "stepfun模型感觉有点拉，不过免费的一律给到夯😋，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2435021",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-19T12:00:55",
+    "summary": "有分析指出，有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T14:48:22.782999",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435021",
+    "title_original": "stepfun模型感觉有点拉，不过免费的一律给到夯😋",
+    "summary_original": "有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T14:49:59.939623"
   },
   {
     "id": "183efb0ffed1",
@@ -533,6 +708,24 @@
     "summary_original": "springermedicine.com Home Springer Medicine provides trustworthy, tailored, cutting-edge content for medical professionals. Follow us to stay on top of the latest advances in your field. https://www.axios.com/2026/06/19/dad-bod-science [!quote]+ 十多年来，“爸爸身材”一直被人们津津乐道、嘲讽和戏仿，被视为已婚有子女男性不可避免的体型。但这个词的意义远不",
     "rewritten": true,
     "rewritten_at": "2026-06-19T10:18:29.950181"
+  },
+  {
+    "id": "3a1b32087c0f",
+    "title": "Analysis: The inevitable weakness of metrics",
+    "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-06-19T09:00:00",
+    "summary": "There are plenty of useful things a metric can reveal.",
+    "collected_at": "2026-06-20T08:45:24.265339",
+    "title_zh": "指标不可避免的弱点",
+    "summary_zh": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元性，这可能揭示了关于我和测量本质的一些东西。就像一个洛",
+    "ai_summary": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元…",
+    "title_original": "The inevitable weakness of metrics",
+    "summary_original": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851961"
   },
   {
     "id": "bb693b57939b",
@@ -742,18 +935,19 @@
     "rewritten_at": "2026-06-19T10:18:29.950327"
   },
   {
-    "id": "v2ex-1221502",
-    "title": "深度解读：年近 40，继续私企国企怎么选",
-    "url": "https://www.v2ex.com/t/1221502",
-    "source": "V2EX",
+    "id": "e61ac7bb6fb2",
+    "title": "深度解读：数说故事递表港交所",
+    "url": "https://36kr.com/newsflashes/3859406436783112?f=rss",
+    "source": "36氪",
     "lang": "zh",
-    "published": "2026-06-19T03:20:17",
-    "summary": "据了解，80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。",
-    "collected_at": "2026-06-20T02:39:20.555509",
-    "title_original": "年近 40，继续私企国企怎么选",
-    "summary_original": "80 尾的，现在在一个私企公司，目前 3w x 12 ，公司业务属于金融擦边性质，年初已经感觉到组织变化，已经没有什么上升空间了，被当做工具人使用，PUA 文化严重，价值观严重不一致，心累的一匹，一天工作强度在 10-11 小时。现在有个收入砍半的国企岗位，工作内容差不多算技术负责人，对接内部需求和外部服务商，朝九晚五，工作强度不大，业务相对稳定。各位怎么看？不想躺平，但是缺失了目标的感觉，近半年代码都是 ai 写，跑通了除需求之外的 方案设计、自动化单元测试、简单集成场景测试、自动化 cr 全流程。娃马上初中了，感觉整个小学阶段就没管过娃，有点愧疚",
+    "priority": 4,
+    "published": "2026-06-19T02:47:04",
+    "summary": "有分析指出，36氪获悉，据港交所文件，数说故事人工智能科技股份有限公司向港交所提交上市申请书，独家保荐人为中信建投国际。",
+    "collected_at": "2026-06-19T03:34:39.061077",
+    "title_original": "数说故事递表港交所",
+    "summary_original": "36氪获悉，据港交所文件，数说故事人工智能科技股份有限公司向港交所提交上市申请书，独家保荐人为中信建投国际。",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884523"
+    "rewritten_at": "2026-06-19T03:35:58.216026"
   },
   {
     "id": "221cd4605337",
@@ -770,37 +964,6 @@
     "summary_original": "https://x.com/i/status/2067802163498352929 13 个帖子 - 10 位参与者 阅读完整话题",
     "rewritten": true,
     "rewritten_at": "2026-06-19T10:18:29.950335"
-  },
-  {
-    "id": "e61ac7bb6fb2",
-    "title": "深度解读：数说故事递表港交所",
-    "url": "https://36kr.com/newsflashes/3859406436783112?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-06-19T02:47:04",
-    "summary": "有分析指出，36氪获悉，据港交所文件，数说故事人工智能科技股份有限公司向港交所提交上市申请书，独家保荐人为中信建投国际。",
-    "collected_at": "2026-06-19T03:34:39.061077",
-    "title_original": "数说故事递表港交所",
-    "summary_original": "36氪获悉，据港交所文件，数说故事人工智能科技股份有限公司向港交所提交上市申请书，独家保荐人为中信建投国际。",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216026"
-  },
-  {
-    "id": "0458d5b96086",
-    "title": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2433373",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-19T04:39:46",
-    "summary": "有分析指出，Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。",
-    "collected_at": "2026-06-19T10:16:56.503366",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433373",
-    "title_original": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心",
-    "summary_original": "Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。首个配套水疗中心将于 2027 年在旧金山开业，提供热水浴、桑拿和扫描服务。 公司计划 2028 年扩展至更多城市并推出第三代设备，目标 2031 年前在全球部署超 5 万台扫描仪，实现每月 10 亿次扫描容量。初期仅提供身体成分图，后续将向 FDA 提交结果以申请更多诊断功能。 Midjourney Medical 2 个帖子 - 2 位参与者 阅读完整话题",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950367"
   },
   {
     "id": "v2ex-1221491",
@@ -821,20 +984,20 @@
     "rewritten_at": "2026-06-19T10:18:29.950353"
   },
   {
-    "id": "c34fed8d9243",
-    "title": "突发：claude code 也可以交互了",
-    "url": "https://linux.do/t/topic/2433192",
+    "id": "0458d5b96086",
+    "title": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2433373",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T03:43:48",
-    "summary": "据报道，Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。 4 个帖子 - 3 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T10:16:56.503398",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433192",
-    "title_original": "claude code 也可以交互了",
-    "summary_original": "Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。 4 个帖子 - 3 位参与者 阅读完整话题",
+    "published": "2026-06-19T04:39:46",
+    "summary": "有分析指出，Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。",
+    "collected_at": "2026-06-19T10:16:56.503366",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433373",
+    "title_original": "Midjourney 宣布进军医疗领域，将推出超声波全身扫描仪与水疗中心",
+    "summary_original": "Midjourney 正在开发一款超声波全身扫描仪。用户走入浅水池后，由约 50 万个微型传感器发射并接收超声波，约 60 秒即可生成高精度 3D 身体图像，速度据称可达 MRI 的近百倍。首个配套水疗中心将于 2027 年在旧金山开业，提供热水浴、桑拿和扫描服务。 公司计划 2028 年扩展至更多城市并推出第三代设备，目标 2031 年前在全球部署超 5 万台扫描仪，实现每月 10 亿次扫描容量。初期仅提供身体成分图，后续将向 FDA 提交结果以申请更多诊断功能。 Midjourney Medical 2 个帖子 - 2 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T10:18:29.950375"
+    "rewritten_at": "2026-06-19T10:18:29.950367"
   },
   {
     "id": "b2bcb2e97ae1",
@@ -851,20 +1014,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216054"
   },
   {
-    "id": "d4f2db8f5a95",
-    "title": "突发：Google发表了一篇论文总结了TPU五代的发展历程",
-    "url": "https://linux.do/t/topic/2433044",
+    "id": "c34fed8d9243",
+    "title": "突发：claude code 也可以交互了",
+    "url": "https://linux.do/t/topic/2433192",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T03:12:55",
-    "summary": "有分析指出，arXiv.org Google's Training Supercomputers from TPU v2 to Ironwood: Architectural.",
-    "collected_at": "2026-06-19T03:34:40.660181",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433044",
-    "title_original": "Google发表了一篇论文总结了TPU五代的发展历程",
-    "summary_original": "arXiv.org Google's Training Supercomputers from TPU v2 to Ironwood: Architectural... This paper (to appear in the July/August 2026 issue of IEEE Micro magazine) summarizes five generations of Google s TPUs, from TPU v2 to Ironwood, highlighting their evolution as scalable, resilient, power-efficient",
+    "published": "2026-06-19T03:43:48",
+    "summary": "据报道，Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。 4 个帖子 - 3 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T10:16:56.503398",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433192",
+    "title_original": "claude code 也可以交互了",
+    "summary_original": "Claude Code对话直接生成可交互网页，最新版本接入了Artifacts。 4 个帖子 - 3 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216014"
+    "rewritten_at": "2026-06-19T10:18:29.950375"
   },
   {
     "id": "f7db370cf36f",
@@ -888,20 +1051,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216076"
   },
   {
-    "id": "b4e95cab250e",
-    "title": "深度解读：给他爱要来了！GTA6将于6月25日开启预购",
-    "url": "https://linux.do/t/topic/2432930",
+    "id": "d4f2db8f5a95",
+    "title": "突发：Google发表了一篇论文总结了TPU五代的发展历程",
+    "url": "https://linux.do/t/topic/2433044",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T02:50:15",
-    "summary": "据了解，Rockstar Games Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers.",
-    "collected_at": "2026-06-19T03:34:40.660253",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432930",
-    "title_original": "给他爱要来了！GTA6将于6月25日开启预购",
-    "summary_original": "Rockstar Games Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Add Grand Theft Auto VI to your wishlist today on the PlayStation Store or Microsoft Store to get",
+    "published": "2026-06-19T03:12:55",
+    "summary": "有分析指出，arXiv.org Google's Training Supercomputers from TPU v2 to Ironwood: Architectural.",
+    "collected_at": "2026-06-19T03:34:40.660181",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2433044",
+    "title_original": "Google发表了一篇论文总结了TPU五代的发展历程",
+    "summary_original": "arXiv.org Google's Training Supercomputers from TPU v2 to Ironwood: Architectural... This paper (to appear in the July/August 2026 issue of IEEE Micro magazine) summarizes five generations of Google s TPUs, from TPU v2 to Ironwood, highlighting their evolution as scalable, resilient, power-efficient",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216044"
+    "rewritten_at": "2026-06-19T03:35:58.216014"
   },
   {
     "id": "c7f03eb380cc",
@@ -925,20 +1088,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216100"
   },
   {
-    "id": "9577006e363c",
-    "title": "【不保真】红杉中国、真格、腾讯将联手回购 Manus，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2432891",
+    "id": "b4e95cab250e",
+    "title": "深度解读：给他爱要来了！GTA6将于6月25日开启预购",
+    "url": "https://linux.do/t/topic/2432930",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T02:41:57",
-    "summary": "据悉，https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ 5 个帖子 - 5 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T03:34:40.660335",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432891",
-    "title_original": "【不保真】红杉中国、真格、腾讯将联手回购 Manus",
-    "summary_original": "https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ 5 个帖子 - 5 位参与者 阅读完整话题",
+    "published": "2026-06-19T02:50:15",
+    "summary": "据了解，Rockstar Games Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers.",
+    "collected_at": "2026-06-19T03:34:40.660253",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432930",
+    "title_original": "给他爱要来了！GTA6将于6月25日开启预购",
+    "summary_original": "Rockstar Games Grand Theft Auto VI Pre-Orders Begin on June 25 - Rockstar Games Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Add Grand Theft Auto VI to your wishlist today on the PlayStation Store or Microsoft Store to get",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216064"
+    "rewritten_at": "2026-06-19T03:35:58.216044"
   },
   {
     "id": "8fd795d8c6da",
@@ -963,20 +1126,20 @@
     "rewritten_at": "2026-06-19T03:35:58.216114"
   },
   {
-    "id": "280bb1394246",
-    "title": "Claude Pro 额度偷偷涨了 50%？有人发现吗，这意味着什么？",
-    "url": "https://linux.do/t/topic/2432816",
+    "id": "9577006e363c",
+    "title": "【不保真】红杉中国、真格、腾讯将联手回购 Manus，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2432891",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T02:24:38",
-    "summary": "据报道，昨晚下班前，Claude Pro 周额度已经干到 100%，弹窗提示限制。 今天打开一看，客户端升级后额度显示 67% used 算了一下：已用量没变，占比从 100% 降到 67%，意味着总额度大约从原来的基数涨到了1.",
-    "collected_at": "2026-06-19T03:34:40.660384",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432816",
-    "title_original": "Claude Pro 额度偷偷涨了 50%？有人发现吗",
-    "summary_original": "昨晚下班前，Claude Pro 周额度已经干到 100%，弹窗提示限制。 今天打开一看，客户端升级后额度显示 67% used 算了一下：已用量没变，占比从 100% 降到 67%，意味着总额度大约从原来的基数涨到了1.5 倍左右 有没有其他 Pro 用户也注意到这个变化？有人一样吗？还是我被选中当测试用户了？ 11 个帖子 - 9 位参与者 阅读完整话题",
+    "published": "2026-06-19T02:41:57",
+    "summary": "据悉，https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ 5 个帖子 - 5 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T03:34:40.660335",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432891",
+    "title_original": "【不保真】红杉中国、真格、腾讯将联手回购 Manus",
+    "summary_original": "https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/ 5 个帖子 - 5 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216094"
+    "rewritten_at": "2026-06-19T03:35:58.216064"
   },
   {
     "id": "2446e599d34e",
@@ -1000,19 +1163,20 @@
     "rewritten_at": "2026-06-18T20:16:50.500072"
   },
   {
-    "id": "04bc2d9f81f0",
-    "title": "重磅！devin（windsurf）免费用glm5.2和kimi k2.7",
-    "url": "https://linux.do/t/topic/2432730",
+    "id": "280bb1394246",
+    "title": "Claude Pro 额度偷偷涨了 50%？有人发现吗，这意味着什么？",
+    "url": "https://linux.do/t/topic/2432816",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T02:05:47",
-    "summary": "如题，今天心血来潮看了下，发现这两个模型都是free 2 个帖子 - 2 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T03:34:40.660484",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432730",
-    "title_original": "devin（windsurf）免费用glm5.2和kimi k2.7",
+    "published": "2026-06-19T02:24:38",
+    "summary": "据报道，昨晚下班前，Claude Pro 周额度已经干到 100%，弹窗提示限制。 今天打开一看，客户端升级后额度显示 67% used 算了一下：已用量没变，占比从 100% 降到 67%，意味着总额度大约从原来的基数涨到了1.",
+    "collected_at": "2026-06-19T03:34:40.660384",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432816",
+    "title_original": "Claude Pro 额度偷偷涨了 50%？有人发现吗",
+    "summary_original": "昨晚下班前，Claude Pro 周额度已经干到 100%，弹窗提示限制。 今天打开一看，客户端升级后额度显示 67% used 算了一下：已用量没变，占比从 100% 降到 67%，意味着总额度大约从原来的基数涨到了1.5 倍左右 有没有其他 Pro 用户也注意到这个变化？有人一样吗？还是我被选中当测试用户了？ 11 个帖子 - 9 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216105"
+    "rewritten_at": "2026-06-19T03:35:58.216094"
   },
   {
     "id": "38e6e19ecfd2",
@@ -1033,19 +1197,19 @@
     "rewritten_at": "2026-06-18T14:54:31.249683"
   },
   {
-    "id": "3200ca13682f",
-    "title": "ollama cloud glm5.2容量增加一倍，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2432317",
+    "id": "04bc2d9f81f0",
+    "title": "重磅！devin（windsurf）免费用glm5.2和kimi k2.7",
+    "url": "https://linux.do/t/topic/2432730",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T23:11:28",
-    "summary": "（话题已被作者删除） 1 个帖子 - 1 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T03:34:40.660769",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432317",
-    "title_original": "ollama cloud glm5.2容量增加一倍",
+    "published": "2026-06-19T02:05:47",
+    "summary": "如题，今天心血来潮看了下，发现这两个模型都是free 2 个帖子 - 2 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T03:34:40.660484",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432730",
+    "title_original": "devin（windsurf）免费用glm5.2和kimi k2.7",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T03:35:58.216132"
+    "rewritten_at": "2026-06-19T03:35:58.216105"
   },
   {
     "id": "138478d8469e",
@@ -1064,6 +1228,21 @@
     "title_original": "当 Token 成为商品，AI 基础设施会怎么变化？",
     "rewritten": true,
     "rewritten_at": "2026-06-18T14:54:31.249910"
+  },
+  {
+    "id": "3200ca13682f",
+    "title": "ollama cloud glm5.2容量增加一倍，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2432317",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-18T23:11:28",
+    "summary": "（话题已被作者删除） 1 个帖子 - 1 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T03:34:40.660769",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2432317",
+    "title_original": "ollama cloud glm5.2容量增加一倍",
+    "rewritten": true,
+    "rewritten_at": "2026-06-19T03:35:58.216132"
   },
   {
     "id": "0a368702d056",
@@ -2166,19 +2345,18 @@
     "rewritten_at": "2026-06-18T10:12:05.861217"
   },
   {
-    "id": "8385ba4e30b7",
-    "title": "突发：北大科学家下场做脑机接口，种子轮融了近亿元",
-    "url": "https://36kr.com/p/3855480467543042?f=rss",
-    "source": "36氪",
+    "id": "v2ex-1221233",
+    "title": "重磅！618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
+    "url": "https://www.v2ex.com/t/1221233",
+    "source": "V2EX",
     "lang": "zh",
-    "priority": 4,
-    "published": "2026-06-18T01:34:22",
-    "summary": "有分析指出，文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。",
-    "collected_at": "2026-06-20T02:39:18.341578",
-    "title_original": "北大科学家下场做脑机接口，种子轮融了近亿元",
-    "summary_original": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。 芯生视界团队集合了多位国家“脑计划”脑机接口方向“青年首席”：创始人王茜来自北京大学心理与认知科学学院、IDG麦戈文脑科学研究所。联",
+    "published": "2026-06-18T01:32:16",
+    "summary": "据了解，跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.",
+    "collected_at": "2026-06-18T10:10:20.415191",
+    "title_original": "618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
+    "summary_original": "跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.5 Flash` / `DeepSeek-V4-Pro`/ `GLM-5.2` 等主流模型。图片视频也支持（`Seedance2`、`gpt-image-2`）。 注册**直接送**$5 ； V 友评论区跟帖留 ID 送$5 ；**邀请**好友充值每笔返 5%，上不封顶，直接划转到余额！ - 官网： https://nbility.dev - API： https://api.nbility.dev #### 价格 - Codex 低价分组 0.08x 倍率，纯血 pro 号",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884545"
+    "rewritten_at": "2026-06-18T10:12:05.861262"
   },
   {
     "id": "b8d27273d68c",
@@ -2194,35 +2372,6 @@
     "summary_original": "可能是逐步的，没有的大概需要等一段时间刷新或者更新app试试 13 个帖子 - 13 位参与者 阅读完整话题",
     "rewritten": true,
     "rewritten_at": "2026-06-18T10:12:05.861240"
-  },
-  {
-    "id": "v2ex-1221233",
-    "title": "重磅！618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
-    "url": "https://www.v2ex.com/t/1221233",
-    "source": "V2EX",
-    "lang": "zh",
-    "published": "2026-06-18T01:32:16",
-    "summary": "据了解，跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.",
-    "collected_at": "2026-06-18T10:10:20.415191",
-    "title_original": "618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣",
-    "summary_original": "跑了 3 个月，主打稳定实惠。支持 `GPT-5.5` / `Claude Opus 4.8` / `Gemini 3.5 Flash` / `DeepSeek-V4-Pro`/ `GLM-5.2` 等主流模型。图片视频也支持（`Seedance2`、`gpt-image-2`）。 注册**直接送**$5 ； V 友评论区跟帖留 ID 送$5 ；**邀请**好友充值每笔返 5%，上不封顶，直接划转到余额！ - 官网： https://nbility.dev - API： https://api.nbility.dev #### 价格 - Codex 低价分组 0.08x 倍率，纯血 pro 号",
-    "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861262"
-  },
-  {
-    "id": "88e9d85da1af",
-    "title": "重磅！Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
-    "url": "https://linux.do/t/topic/2427233",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-18T03:36:24",
-    "summary": "据了解，Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。",
-    "collected_at": "2026-06-18T10:10:19.645966",
-    "title_original": "Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
-    "summary_original": "Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。 Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google创办了Character.ai并担任CEO，直到2024年8月通过一项与Google的授权协议重新回归，出任工程副总裁并共同领导Gemini项目。 11 个帖子 - 10 位参与者 阅读完整话题",
-    "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861251"
   },
   {
     "id": "e304a2af2a1b",
@@ -2246,19 +2395,19 @@
     "rewritten_at": "2026-06-18T02:51:31.380228"
   },
   {
-    "id": "0c6ead8f2446",
-    "title": "claude design现在支持双向同步，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2427228",
+    "id": "88e9d85da1af",
+    "title": "重磅！Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
+    "url": "https://linux.do/t/topic/2427233",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T03:35:39",
-    "summary": "据报道，现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
-    "collected_at": "2026-06-18T10:10:19.646007",
-    "title_original": "claude design现在支持双向同步",
-    "summary_original": "现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
+    "published": "2026-06-18T03:36:24",
+    "summary": "据了解，Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。",
+    "collected_at": "2026-06-18T10:10:19.645966",
+    "title_original": "Gemini联合负责人、工程副总裁Noam Shazeer离开谷歌，加入OpenAI",
+    "summary_original": "Google Gemini联合负责人、工程副总裁Noam Shazeer在X平台宣布，他将离开Google加入OpenAI。他在帖文中称这是一个「艰难的决定」，但未透露其在OpenAI的具体职位。 Shazeer是Transformer架构奠基论文Attention is All You Need的联合作者之一，2000年起在Google担任软件工程师长达二十余年。2021年末他离开Google创办了Character.ai并担任CEO，直到2024年8月通过一项与Google的授权协议重新回归，出任工程副总裁并共同领导Gemini项目。 11 个帖子 - 10 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861269"
+    "rewritten_at": "2026-06-18T10:12:05.861251"
   },
   {
     "id": "d2c4be182e7f",
@@ -2280,19 +2429,19 @@
     "rewritten_at": "2026-06-18T02:51:31.380258"
   },
   {
-    "id": "ed18a776858d",
-    "title": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2427046",
+    "id": "0c6ead8f2446",
+    "title": "claude design现在支持双向同步，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2427228",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T03:17:00",
-    "summary": "消息称，中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。",
-    "collected_at": "2026-06-18T10:10:19.646054",
-    "title_original": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景",
-    "summary_original": "中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。 该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。 中国邮政 6 个帖子 - 6 位参与者 阅读完整话题",
+    "published": "2026-06-18T03:35:39",
+    "summary": "据报道，现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
+    "collected_at": "2026-06-18T10:10:19.646007",
+    "title_original": "claude design现在支持双向同步",
+    "summary_original": "现在可以直接在代码库中直接输入/design-sync同步你的UI颜色字体组件到claude design中(之前是需要GitHub授权,或者上传本地代码) 我试了下,只能web ui组件同步,不能实现app代码阅读渲染后转化为web UI组件 1 个帖子 - 1 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T10:12:05.861283"
+    "rewritten_at": "2026-06-18T10:12:05.861269"
   },
   {
     "id": "907aaa70549c",
@@ -2313,20 +2462,19 @@
     "rewritten_at": "2026-06-17T20:06:20.757448"
   },
   {
-    "id": "dab679d59359",
-    "title": "深度解读：Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
-    "url": "https://linux.do/t/topic/2426652",
+    "id": "ed18a776858d",
+    "title": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2427046",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T02:37:57",
-    "summary": "据了解，https://www.midjourney.com/medical/blogpost https://www.",
-    "collected_at": "2026-06-18T02:49:48.044549",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426652",
-    "title_original": "Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
-    "summary_original": "https://www.midjourney.com/medical/blogpost https://www.midjourney.com/medical 我们正在打造一种颠覆性的全新机器，以重新定义医疗健康的基石以及我们与自身身体的关系，我们曾梦想过一种既像核磁共振（MRI）一样强大，又像去水疗中心一样轻松惬意的体验。今天，我们正在开启通往这一愿景的道路。 我们认为，这种医学成像不仅可以变得普普通通，甚至能成为一种随意的、日常的、真正意义上“想用就用”的体验。它只需要声波、一池水和 60 秒的时间。 第一家水疗中心将于 2027 年在旧金山市中心开业。 看着还挺有科幻感的 1 个帖子 -",
+    "published": "2026-06-18T03:17:00",
+    "summary": "消息称，中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。",
+    "collected_at": "2026-06-18T10:10:19.646054",
+    "title_original": "中国邮政发行首套 AI 邮票，一套四枚展现人工智能发展图景",
+    "summary_original": "中国邮政于 6 月 18 日发行《人工智能》特种邮票，一套四枚，这是我国首套 AI 主题邮票。邮票图案分别为“智启纪元”“数智融合”“具身智能”“和谐共生”，对应 AI 起源、大模型、具身智能和人机共生四个主题。 该套邮票首次在油墨中融入硅基材料，并采用光彩光变、冷烫、击凸等工艺。邮票将在全国指定邮政网点和线上渠道出售，限期 6 个月。 中国邮政 6 个帖子 - 6 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380165"
+    "rewritten_at": "2026-06-18T10:12:05.861283"
   },
   {
     "id": "358e207ac3c7",
@@ -2350,20 +2498,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380309"
   },
   {
-    "id": "2d6444e1d92f",
-    "title": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2426456",
+    "id": "dab679d59359",
+    "title": "深度解读：Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
+    "url": "https://linux.do/t/topic/2426652",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T02:16:12",
-    "summary": "据了解，Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。",
-    "collected_at": "2026-06-18T02:49:48.044707",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426456",
-    "title_original": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI",
-    "summary_original": "Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。 Google 2024 年通过一笔约 27 亿美元的 Character.AI 交易，将 Noam Shazeer 及其团队重新纳入 DeepMind，随后担任 Gemini 联合负责人。如今仅两年后，他又宣布加入 OpenAI。 奥特曼发推表示从OpenAI创立之初就非常渴望与Noam合作 12 个帖子 - 10 位参与者 阅读完整话题",
+    "published": "2026-06-18T02:37:57",
+    "summary": "据了解，https://www.midjourney.com/medical/blogpost https://www.",
+    "collected_at": "2026-06-18T02:49:48.044549",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426652",
+    "title_original": "Midjourney 进军医学领域，推出 60s 超声水疗扫描功能",
+    "summary_original": "https://www.midjourney.com/medical/blogpost https://www.midjourney.com/medical 我们正在打造一种颠覆性的全新机器，以重新定义医疗健康的基石以及我们与自身身体的关系，我们曾梦想过一种既像核磁共振（MRI）一样强大，又像去水疗中心一样轻松惬意的体验。今天，我们正在开启通往这一愿景的道路。 我们认为，这种医学成像不仅可以变得普普通通，甚至能成为一种随意的、日常的、真正意义上“想用就用”的体验。它只需要声波、一池水和 60 秒的时间。 第一家水疗中心将于 2027 年在旧金山市中心开业。 看着还挺有科幻感的 1 个帖子 -",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380219"
+    "rewritten_at": "2026-06-18T02:51:31.380165"
   },
   {
     "id": "3d1666c95475",
@@ -2388,20 +2536,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380333"
   },
   {
-    "id": "45eb4d749d2f",
-    "title": "突发：腾讯新出为Agent 打造的专属邮箱服务",
-    "url": "https://linux.do/t/topic/2426264",
+    "id": "2d6444e1d92f",
+    "title": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2426456",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T01:55:34",
-    "summary": "有分析指出，agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。",
-    "collected_at": "2026-06-18T02:49:48.044766",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426264",
-    "title_original": "腾讯新出为Agent 打造的专属邮箱服务",
-    "summary_original": "agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。Agent 一键接入邮箱，请阅读 https://agent.qq.com/doc/cli-setup.md 文档，按照步骤为我安装并配置 Agently Mail CLI。 说实话，这个域名用在这儿有点浪费了，也可能这个邮箱产品只是个过渡，后面还有更大的招？ 接入很简单，就是会给你一段提示词，发给Agent就行了 安装结束，会有一个URL，你复制到浏览器，点击授权就行了，目前只试",
+    "published": "2026-06-18T02:16:12",
+    "summary": "据了解，Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。",
+    "collected_at": "2026-06-18T02:49:48.044707",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426456",
+    "title_original": "Gemini 联合负责人 Transformer 核心作者 Noam Shazeer 宣布加入 OpenAI",
+    "summary_original": "Noam Shazeer 是： Transformer 论文作者之一 MoE 路线开创者之一 Gemini 联合负责人 Google DeepMind VP 被认为是当前 AI 领域最有影响力的研究员之一。 Google 2024 年通过一笔约 27 亿美元的 Character.AI 交易，将 Noam Shazeer 及其团队重新纳入 DeepMind，随后担任 Gemini 联合负责人。如今仅两年后，他又宣布加入 OpenAI。 奥特曼发推表示从OpenAI创立之初就非常渴望与Noam合作 12 个帖子 - 10 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380244"
+    "rewritten_at": "2026-06-18T02:51:31.380219"
   },
   {
     "id": "c767b5e1d460",
@@ -2425,20 +2573,20 @@
     "rewritten_at": "2026-06-18T02:51:31.380348"
   },
   {
-    "id": "8b612cf5b5c7",
-    "title": "突发：黄仁勋：没有 AMD 就没英伟达今天",
-    "url": "https://linux.do/t/topic/2426229",
+    "id": "45eb4d749d2f",
+    "title": "突发：腾讯新出为Agent 打造的专属邮箱服务",
+    "url": "https://linux.do/t/topic/2426264",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T01:53:02",
-    "summary": "消息称，黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。",
-    "collected_at": "2026-06-18T02:49:48.044848",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426229",
-    "title_original": "黄仁勋：没有 AMD 就没英伟达今天",
-    "summary_original": "黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。他白天在 AMD 上班，晚上赶去上课，靠半工半读完成了硕士学位。 他把加入 AMD 视为人生关键选择，这段经历为他后来创办英伟达打下了技术与人力基础。如今英伟达已成为全球 AI 算力巨头。此外，AMD 现任 CEO 苏姿丰其实是他的远亲，但两人此前公开交集并不多。 快科技 黄仁勋：没有AMD就没英伟达今天 他们赞助我读硕士 快科技6月17日消息，近日黄仁勋在公开访谈中聊起了自己早年的求学往事，他坦言当年大学刚毕业的时候，根本负担不起继续读硕士的相关费用，是AMD资助他完成了硕士学业，",
+    "published": "2026-06-18T01:55:34",
+    "summary": "有分析指出，agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。",
+    "collected_at": "2026-06-18T02:49:48.044766",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426264",
+    "title_original": "腾讯新出为Agent 打造的专属邮箱服务",
+    "summary_original": "agent.qq.com Agently Mail Agently Mail，是 QQ 邮箱团队为 Agent 打造的专属邮箱服务。与个人邮箱隔离，原生适配 Agent，助力你安全、高效地使用 Agent 收发邮件。Agent 一键接入邮箱，请阅读 https://agent.qq.com/doc/cli-setup.md 文档，按照步骤为我安装并配置 Agently Mail CLI。 说实话，这个域名用在这儿有点浪费了，也可能这个邮箱产品只是个过渡，后面还有更大的招？ 接入很简单，就是会给你一段提示词，发给Agent就行了 安装结束，会有一个URL，你复制到浏览器，点击授权就行了，目前只试",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380269"
+    "rewritten_at": "2026-06-18T02:51:31.380244"
   },
   {
     "id": "9ef08ab1d787",
@@ -2463,20 +2611,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757714"
   },
   {
-    "id": "bc1f4ac72482",
-    "title": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2425787",
+    "id": "8b612cf5b5c7",
+    "title": "突发：黄仁勋：没有 AMD 就没英伟达今天",
+    "url": "https://linux.do/t/topic/2426229",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T00:45:56",
-    "summary": "据报道，Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken.",
-    "collected_at": "2026-06-18T02:49:48.045192",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425787",
-    "title_original": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。",
-    "summary_original": "Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken... By applying machine-learning models to single-cell brain recordings taken from humans in conversation, a research team identified both individual and collective neuronal activity that reflected",
+    "published": "2026-06-18T01:53:02",
+    "summary": "消息称，黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。",
+    "collected_at": "2026-06-18T02:49:48.044848",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2426229",
+    "title_original": "黄仁勋：没有 AMD 就没英伟达今天",
+    "summary_original": "黄仁勋近日在访谈中回忆，大学毕业后根本付不起硕士学费，是 AMD 给了他工作机会，并全额资助他到斯坦福大学读研。他白天在 AMD 上班，晚上赶去上课，靠半工半读完成了硕士学位。 他把加入 AMD 视为人生关键选择，这段经历为他后来创办英伟达打下了技术与人力基础。如今英伟达已成为全球 AI 算力巨头。此外，AMD 现任 CEO 苏姿丰其实是他的远亲，但两人此前公开交集并不多。 快科技 黄仁勋：没有AMD就没英伟达今天 他们赞助我读硕士 快科技6月17日消息，近日黄仁勋在公开访谈中聊起了自己早年的求学往事，他坦言当年大学刚毕业的时候，根本负担不起继续读硕士的相关费用，是AMD资助他完成了硕士学业，",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380291"
+    "rewritten_at": "2026-06-18T02:51:31.380269"
   },
   {
     "id": "81f02ed98f12",
@@ -2497,20 +2645,20 @@
     "rewritten_at": "2026-06-17T19:35:48.309329"
   },
   {
-    "id": "178cf71bdb60",
-    "title": "刚刚，两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
-    "url": "https://linux.do/t/topic/2425735",
+    "id": "bc1f4ac72482",
+    "title": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2425787",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-18T00:39:07",
-    "summary": "据报道，TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone.",
-    "collected_at": "2026-06-18T02:49:48.045339",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425735",
-    "title_original": "两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
-    "summary_original": "TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone... Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations,",
+    "published": "2026-06-18T00:45:56",
+    "summary": "据报道，Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken.",
+    "collected_at": "2026-06-18T02:49:48.045192",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425787",
+    "title_original": "利用神经元数据，AI 模型可以预测 言语 的语法、含义和语境。",
+    "summary_original": "Medical Xpress – 17 Jun 26 With neuronal data, AI models predict grammar, meaning and context of spoken... By applying machine-learning models to single-cell brain recordings taken from humans in conversation, a research team identified both individual and collective neuronal activity that reflected",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380303"
+    "rewritten_at": "2026-06-18T02:51:31.380291"
   },
   {
     "id": "1d907aaa2f0e",
@@ -2534,20 +2682,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757726"
   },
   {
-    "id": "c3522299a1d3",
-    "title": "库克：涨价不可避免，苹果计划上调产品价格。，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2425614",
+    "id": "178cf71bdb60",
+    "title": "刚刚，两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
+    "url": "https://linux.do/t/topic/2425735",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-17T23:52:18",
-    "summary": "有分析指出，苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。",
-    "collected_at": "2026-06-18T02:49:48.045470",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425614",
-    "title_original": "库克：涨价不可避免，苹果计划上调产品价格。",
-    "summary_original": "苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。 库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。 https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1 难道我的老设备要升值了？ 19 个帖子 - 19 位参与者 阅读完整话题",
+    "published": "2026-06-18T00:39:07",
+    "summary": "据报道，TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone.",
+    "collected_at": "2026-06-18T02:49:48.045339",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425735",
+    "title_original": "两名斯坦福大学毕业生筹集了1100万美元，用于研发一种非侵入式可穿戴激素追踪设备",
+    "summary_original": "TechCrunch – 17 Jun 26 Two Stanford grads raise $11M to build a noninvasive wearable for hormone... Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations,",
     "rewritten": true,
-    "rewritten_at": "2026-06-18T02:51:31.380343"
+    "rewritten_at": "2026-06-18T02:51:31.380303"
   },
   {
     "id": "df07fe6f5184",
@@ -2572,20 +2720,20 @@
     "rewritten_at": "2026-06-17T20:06:20.757745"
   },
   {
-    "id": "0edfac96a3c4",
-    "title": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国，这意味着什么？",
-    "url": "https://linux.do/t/topic/2425464",
+    "id": "c3522299a1d3",
+    "title": "库克：涨价不可避免，苹果计划上调产品价格。，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2425614",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-17T20:01:51",
-    "summary": "据悉，这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题",
-    "collected_at": "2026-06-17T20:04:57.366523",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425464",
-    "title_original": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国",
-    "summary_original": "这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题",
+    "published": "2026-06-17T23:52:18",
+    "summary": "有分析指出，苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。",
+    "collected_at": "2026-06-18T02:49:48.045470",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425614",
+    "title_original": "库克：涨价不可避免，苹果计划上调产品价格。",
+    "summary_original": "苹果 CEO 蒂姆·库克在接受《华尔街日报》独家采访时表示，由于内存与存储芯片成本激增，苹果计划上调产品价格。 库克称，公司此前一直努力缓解上游涨价压力并保护消费者，但当前形势已难以持续，涨价已“不可避免”。 https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1 难道我的老设备要升值了？ 19 个帖子 - 19 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-17T20:06:20.757692"
+    "rewritten_at": "2026-06-18T02:51:31.380343"
   },
   {
     "id": "a6c236be12e6",
@@ -2602,6 +2750,40 @@
     "content_chars": 5020,
     "content_excerpt": "整理 | 华卫\n近日，物理 AGI 全球领军企业极佳视界再获 10 亿元 B2 轮融资，本轮融资由新加坡顶级跨境投资机构狮城资本（多轮持续追投）、中国-比利时基金（中比基金）、建投投资、万向钱潮、复星锐正、华盖创赢、金创投、德屹资本、华仓资本、元石基金等全球顶级国家队基金、产业资本、财务机构、国资平台共同投资，国中资本、达晨财智、图灵资管等多个老股东持续超额加注；全球顶配资本阵容齐聚，市场投资意向远超原定募资目标。\n据悉，本轮融资将主要用于“双金字塔”数据与算法体系的持续投入、物理 AGI 基础模型的研发迭代，以及 C 端家庭场景与 B 端工业场景的规模化落地。全球顶级国家队基金、财务机构、产业资本与国资平台的共同选择，背后是对极佳视界“世界模型驱动物理 AGI 技术路线＋生产力级落地能力”的坚定看好。\n自成立起，极佳视界就坚信“世界模型是语言模型之后下一个最重要的事情”，坚持以基础模型为核心的物理 AGI 全栈路线，并加速生产力场景真实落地。此前 2026 年 3 月和 4 月，极佳视界已分别完成 10 亿元 Pre-B 轮和 15 亿元 B1 轮融资。\n“双金字塔”驱动双模型体系，系统化加速物理 AGI 突破\n过去 3 年多来，数字 AGI 的发展举世瞩目：从 GPT-3 的智能涌现，到 ChatGPT 让数字智能惠及全球亿万普通人，再到 Claude Code 带来专家级别的数字智能。数字 AGI 已经彻底改变了数字世界，释放出令人惊叹的数字生产力。而经过几十年的长期积累和近年的产业级探索，物理 AGI 的征程正沿着与数字 AGI 基本一致的路径展开。不同之处在于，物理 AGI 将把这场智能革命从数字世界带入物理世界，从无限的数字生产力走向无限的物理生产力。\n极佳视界创始人、CEO 黄冠表示，“GPT-3 时刻，实现了模型能力的智能涌现；ChatGPT 时刻，生产力惠及到了每一个普通人；Claude Code 时刻，数字智能模型能力达到了专业领域专家级别。作为在国内最早布局世界模型的物理 AGI 领先企业，极佳视界相信物理 AGI 未来也将经历类似阶段，不同之处在于，物理 AGI 将直接作用于真实的物理世界。它带来的不仅是信息效率的提升，更是生产与生活方式的重塑，因此对经济与社会的影响也将更为深远。”\n沿着这一判断，极佳视界正系统化加速物理 AGI 基础模型三个阶段的到来：从智能涌现，到普通技能，再到专业技能。智能涌现层面，未来 GigaBrain-3 有望在模型能力上实现 GPT-3 级别的进展；C 端普通技能普惠层面，首款面向家庭的产品拾光 S1 已在大众层面引发强烈反响，未来拾光 S2/S3 系列有望实现 C 端在技术与产品上的产业级突破；B 端专业领域技能层面，工业场景应用落地正在规模化展开，剑指物理智能在高级技能生产力场景的专家级突破。\n要让物理 AGI 走向产业爆发，先要回答一个根本问题：物理通用智能的 Scaling，究竟建立在什么之上？\n极佳视界给出的答案，是过去三年沉淀的物理 AGI 底层方法论：全球首个物理 AGI“双金字塔”体系。",
     "title_original": "极佳视界再获10亿元B2轮融资，首款家用机器人拾光S1引发强烈反响",
+    "rewritten": true,
+    "rewritten_at": "2026-06-17T19:35:48.309329"
+  },
+  {
+    "id": "0edfac96a3c4",
+    "title": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国，这意味着什么？",
+    "url": "https://linux.do/t/topic/2425464",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-17T20:01:51",
+    "summary": "据悉，这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题",
+    "collected_at": "2026-06-17T20:04:57.366523",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2425464",
+    "title_original": "Dario Amodei呼吁建立美国领导的AI联盟以排除中国",
+    "summary_original": "这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-17T20:06:20.757692"
+  },
+  {
+    "id": "a931b4f02ae4",
+    "title": "刚刚，“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
+    "url": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-06-17T18:01:54",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-06-17T11:23:20.046359",
+    "content_text": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。\n正如视频所见，整个过程并不优雅，甚至有点笨：角度偏一些、力度大一点，卡片就会滑落。但它会一次次试、一次次修正，\n最后总能找到更合适的着力点\n。\n对实验结果感到诧异的不只有你。就连橡木果机器人（Acorn Robot）的发起人姜峣（清华机械工程博士、哈佛大学神经科学博士后）都称之为“惊喜”。“它不是一次成功，”他回忆道，“但试了八九次之后，它竟然自己找到了办法。”\n谈及此处，姜峣的眼神里仍带着兴奋，像极了第一次在语言模型身上感受到智能涌现。他将机器人这套\n“靠自己摸索出来的策略”\n称之为\n“本能驱动下的行为涌现”\n；驱动它的，是橡木果的端侧自主决策模型 Natus。\n该模块是橡木果面向 B 端柔性制造场景的首款产品，目前已走完国内 Top1 化妆品企业的概念验证（POC）阶段，实现了规模化部署。\n在橡木果的研发管线里，还有更多形态的执行模块。它们每天孜孜不倦地练习抓取各种物品：从矿泉水瓶到橡胶软球，从香蕉到豆腐，以及异形不规则件。\n图注：橡木果冷启动自主探索抓取各类异形物体\n这些看似笨拙的试探，都指向了同一个发现：\n如果机器人在几乎没有“示范数据模板”的情况下，依然能靠实践摸索出有效策略，\n那执行层真正缺的，可能并不是更多的轨迹数据，\n而是一套能\n激发它“先动起来、先试起来”的底层机制\n。\n这也是姜峣面对当前主流具身路线最犀利的反思：VLA、世界模型、仿真学习并非毫无价值，但它们太容易在操作执行的“最后一厘米”掉链子。\n执行侧：具身智能最沉默的困局\n无论是试图端到端闭环的 VLA，还是推演物理未来的“世界模型”，本质上都带着语言模型“大力出奇迹”的惯性：以为只要看过的视频够多、数据喂得够足，操作智能就能自然涌现。但一旦涉足真实的物理交互，这套逻辑无疑将撞上两座大山：\n接触与本体\n。\n操作的本质是\n物理接触\n，摩擦、阻尼、力传导……这些现在世界里无处不在的变量，\n在世界模型却难以稳定建模\n。它或许能精准地生成一段“机器人抓取水杯”的预测视频，但却无法算出指尖与杯壁接触瞬间的相对摩擦，更无法预判玻璃滑落前那微小的形变。\n视觉上的“看起来会”，掩盖不了执行层的“做不到”。\n此外，操作必须通过具体的本体去执行，而每台机器人的关节磨损、装配松紧都有微小差异。橡木果团队做过对比实验：两台同款夹爪，采用同一套模型参数，\n仅仅是导轨松紧存在差异\n，在执行侧的效果也会大相径庭。\n接触的不可预测与本体的微小差异，注定了数据驱动的路线是个填不满的无底洞。\n行为模式难以穷尽，模型训练必须覆盖所有场景和硬件偏差\n，但哪怕全球最大的开源机器人数据集已达到百万回合的运动轨迹，\n依然无法激发出模型在执行层的泛化能力。\n图注：Open X-Embodiment (OXE) 目前全球最大的开源机器人数据集，包含来自全球 34 个研究实验室的 22 种不同机器人载体收集的超过一百万个机器人回合。\n更要命的是，在按秒计费的产线上，没人等得起大模型数秒才能走完的推理闭环，VLA 动辄数秒的延迟，连进场作业的资格都没有。\n这让姜峣坚信：\n没有绝对通用的最好模型，只有最适配这台机器的模型。\nVLA 想用数据解决操作问题，但采集成百上千小时的高质量遥操作数据，本身就需要极高的操作门槛。\n“操作一定要在实践中学习，但实践的前提是你必须先能够实践起来。”\n这是姜峣对于机器人执行的第二个关键判断，它揭示了 VLA 在执行侧的死穴，同时也是橡木果“另起炉灶”的起点。\n跨界学科撞出的无人区\n这套判断，并非从文献推导来的。\n在清华机械工程系读博期间，姜峣天天和阻抗控制、力学建模打交道，这让他对物理交互有着根深蒂固的直觉：\n操作的本质是力学行为，而非视觉问题\n。\n2016 年，他去哈佛做神经科学博士后，研究方向变成了人脑的运动控制。实验室做了大量感知干扰实验：屏蔽视觉、干扰触觉，观察人手操作的变化。他发现，无论怎么干扰，\n人类最基本的抓取动作始终不变。\n“那个永远不变的部分，就是本能，”\n姜峣意识到。语言没环境学不会，但没人教过婴儿怎么抓东西，全人类却抓得高度一致。这不是因为见过了足够多的场景，而是因为有一套基于触觉和力学的先天机制。\n两套看起来八竿子打不着的学科语言在姜峣身上对齐了：\n操作的本质不是拟合视觉轨迹，而是力学规律；人类的通用操作能力，源于本能，而非数据。\n把“本能”移植给机器人，这在当时是绝对的“无人区”。2018 年回国建实验室时，“具身智能”还没出圈，VLA 尚未大行其道，同行觉得他在讲玄学，投资人听不懂……\n姜峣没有急着说服外界，\n而是极其审慎地培养同路人\n：实验室会要求大二便进组观察，先看能力，更看“是否理解数据驱动解决不了执行侧死结、是否相信本能”。算法再强但不认同这一点的人，他不要。新成员进组，必须经实验室全体博士生认可。最长的一位，更是跟了他 10 年。\n2024 年创业时，\n组里 8 位博士一致选择加入了橡木果\n。更罕见的是，这些人私下有个共识：\n如果公司哪天不坚守“本能驱动”，他们就不继续效力。\n这不是创业故事里常见的情怀，而是认知共识在对抗行业惯性前，必须建立的防线。\n因为他们要找的，是“操作层面的万有引力”。\n是规律，不是规则\n这意味着必须放弃拟合轨迹的执念。牛顿没有穷尽每一条运动轨迹，而是用一条不含任何运动参数的万有引力定律，支配了所有运动。姜峣把同样的逻辑搬到了操作上：\nVLA 在学轨迹，橡木果在找规律。\n规则是把操作算法写死，而规律只给约束。基于对物理交互的下探，姜峣将这条规律提炼为三类操作本能：\n定向本能\n解决“去哪”——与视觉协同，指引末端向目标移动，就像婴儿看到移动物体时自然转头追随；\n探索本能\n解决“怎么碰”——这是最复杂、也最体现智能涌现的一环。接触发生后，机器人不依赖预设程序或模仿，而是沿物体表面自主试探，寻找稳定的接触构型；\n执行交互本能\n解决“怎么抓”——以“滑移最小化”为核心，实时调节抓取力度。抓豆腐时轻柔，抓锤子时紧实，装配时自适应阻力。所有调控全凭触觉实时反馈，无需任何训练数据。\n没有人告诉开篇的那个夹爪“从侧面撬卡片”，它只有“找到稳定接触”的底层期望，撬的动作便\n在物理约束下自然涌现\n。\n但要让这套本能真正闭环，必须跨过一个关键技术门槛：\n滑移感知\n。“就像你站在高铁上，想感知车厢和地面的相对速度，”姜峣解释，“你嵌在其中一方，几乎没有参照物。”\n团队花了 7 年，迭代十余版原型机，\n才把微米级滑移感知做到稳定可用\n。有了它，机器人遇到任何物体，都能在接触中实时感知“要滑了”并自动修正——不需要提前知道物体是什么。\n这也是零数据冷启动能够成立的物理基石。\n有了这三套“本能规律”，便可激发机器的无穷多行为。\nNatus 与 Magis：从本能到技能\n被 Natus 模型驱动的“行为涌现”，在端侧可实时控制：200Hz 响应，毫秒级延时，无云端依赖，出厂时针对具体硬件的力学特性单独适配。它的核心使命，就是解开前文那个“没能力就不能实践”的死结：\n让机器人“第一天上产线就能用”\n。\n但一直靠本能探索效率太低，这便是第二层模型 Magis 存在的意义。\nNatus 探索产生的数据，不是普通的视频轨迹，\n而是带有触觉语义的记录\n：视觉看到“一根香蕉”，触觉同步标注“重 120 克，质心偏左，表皮粗糙”。\n这类带力学标注的视觉数据送入 Magis 训练，得到的技能模型对物理世界的理解，远比纯视觉数据深得多——\n它知道怎么抓，而不只是看起来像在抓。\nMagis 成熟后，熟悉场景可直接调用技能，陌生场景则退回 Natus 探索，新数据再沉淀进 Magis。一方面本能持续涌现，可以兜底；另一方面技能越积越厚，不断进化。\n“我们颠覆了现在所有数据采集的方式，”姜峣说，“\n最好的数据来源不是仿真，不是人工遥操，而是产品自己在真实物理世界里跑出来的\n。”\n换产不停线：零数据的真实价码\n这套“自己跑出数据、自己长出技能”的能力，最迫切的场景在哪？\n橡木果选择了\n柔性制造\n，姜峣认为，\n这是权衡过执行侧门槛和市场痛点后最佳的交叉点。\n化妆品 ODM 行业是典型。SKU 超百种，几周一换，每次换产就要停线调参，\n它的痛点不是机器不够快，是机器认不出新物料\n。更棘手的是物料本身：粉饼极度易碎，稍用力就留印；香薰灯芯细软不均，力大了拔出，力小了拽不动。\n这类任务无法用规则覆盖，VLA 训练成本极高，传统自动化束手无策。\n但对 Natus 来说，换了 SKU，只需自己探索，不停线、不调参、不叫工程师，\n这才是“零数据冷启动”对产线的真实价值。\n据介绍，橡木果在国内头部化妆品企业完成 POC，从启动到验证不到两个月，随即进入规模化部署，在手订单突破 2000 万元。\n图注：具身智能的两条技术路径：自上而下数据拟合 vs 自下而上本能驱动\n对于技术路线更长期的判断，姜峣认为，\nNatus 和大模型从来不是竞争，而是分工\n：大模型负责理解任务、规划步骤，Natus/Magis 负责毫秒级的物理执行，\n一个做规划，一个做操作，接口协同，各司其职。\n这不是妥协，而是回归操作本质的必然。就像生物进化把操作反射交给了脊髓，而不是每次触觉都等大脑重新决策——这个判断，从他 8 年前在哈佛和清华的跨界碰撞中，就没变过。",
+    "content_source": "readability",
+    "content_chars": 4153,
+    "content_excerpt": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。",
+    "title_original": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
     "rewritten": true,
     "rewritten_at": "2026-06-17T19:35:48.309329"
   },
@@ -2626,24 +2808,6 @@
     "summary_original": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses",
     "rewritten": true,
     "rewritten_at": "2026-06-18T02:51:31.380359"
-  },
-  {
-    "id": "a931b4f02ae4",
-    "title": "刚刚，“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
-    "url": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-06-17T18:01:54",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-06-17T11:23:20.046359",
-    "content_text": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。\n正如视频所见，整个过程并不优雅，甚至有点笨：角度偏一些、力度大一点，卡片就会滑落。但它会一次次试、一次次修正，\n最后总能找到更合适的着力点\n。\n对实验结果感到诧异的不只有你。就连橡木果机器人（Acorn Robot）的发起人姜峣（清华机械工程博士、哈佛大学神经科学博士后）都称之为“惊喜”。“它不是一次成功，”他回忆道，“但试了八九次之后，它竟然自己找到了办法。”\n谈及此处，姜峣的眼神里仍带着兴奋，像极了第一次在语言模型身上感受到智能涌现。他将机器人这套\n“靠自己摸索出来的策略”\n称之为\n“本能驱动下的行为涌现”\n；驱动它的，是橡木果的端侧自主决策模型 Natus。\n该模块是橡木果面向 B 端柔性制造场景的首款产品，目前已走完国内 Top1 化妆品企业的概念验证（POC）阶段，实现了规模化部署。\n在橡木果的研发管线里，还有更多形态的执行模块。它们每天孜孜不倦地练习抓取各种物品：从矿泉水瓶到橡胶软球，从香蕉到豆腐，以及异形不规则件。\n图注：橡木果冷启动自主探索抓取各类异形物体\n这些看似笨拙的试探，都指向了同一个发现：\n如果机器人在几乎没有“示范数据模板”的情况下，依然能靠实践摸索出有效策略，\n那执行层真正缺的，可能并不是更多的轨迹数据，\n而是一套能\n激发它“先动起来、先试起来”的底层机制\n。\n这也是姜峣面对当前主流具身路线最犀利的反思：VLA、世界模型、仿真学习并非毫无价值，但它们太容易在操作执行的“最后一厘米”掉链子。\n执行侧：具身智能最沉默的困局\n无论是试图端到端闭环的 VLA，还是推演物理未来的“世界模型”，本质上都带着语言模型“大力出奇迹”的惯性：以为只要看过的视频够多、数据喂得够足，操作智能就能自然涌现。但一旦涉足真实的物理交互，这套逻辑无疑将撞上两座大山：\n接触与本体\n。\n操作的本质是\n物理接触\n，摩擦、阻尼、力传导……这些现在世界里无处不在的变量，\n在世界模型却难以稳定建模\n。它或许能精准地生成一段“机器人抓取水杯”的预测视频，但却无法算出指尖与杯壁接触瞬间的相对摩擦，更无法预判玻璃滑落前那微小的形变。\n视觉上的“看起来会”，掩盖不了执行层的“做不到”。\n此外，操作必须通过具体的本体去执行，而每台机器人的关节磨损、装配松紧都有微小差异。橡木果团队做过对比实验：两台同款夹爪，采用同一套模型参数，\n仅仅是导轨松紧存在差异\n，在执行侧的效果也会大相径庭。\n接触的不可预测与本体的微小差异，注定了数据驱动的路线是个填不满的无底洞。\n行为模式难以穷尽，模型训练必须覆盖所有场景和硬件偏差\n，但哪怕全球最大的开源机器人数据集已达到百万回合的运动轨迹，\n依然无法激发出模型在执行层的泛化能力。\n图注：Open X-Embodiment (OXE) 目前全球最大的开源机器人数据集，包含来自全球 34 个研究实验室的 22 种不同机器人载体收集的超过一百万个机器人回合。\n更要命的是，在按秒计费的产线上，没人等得起大模型数秒才能走完的推理闭环，VLA 动辄数秒的延迟，连进场作业的资格都没有。\n这让姜峣坚信：\n没有绝对通用的最好模型，只有最适配这台机器的模型。\nVLA 想用数据解决操作问题，但采集成百上千小时的高质量遥操作数据，本身就需要极高的操作门槛。\n“操作一定要在实践中学习，但实践的前提是你必须先能够实践起来。”\n这是姜峣对于机器人执行的第二个关键判断，它揭示了 VLA 在执行侧的死穴，同时也是橡木果“另起炉灶”的起点。\n跨界学科撞出的无人区\n这套判断，并非从文献推导来的。\n在清华机械工程系读博期间，姜峣天天和阻抗控制、力学建模打交道，这让他对物理交互有着根深蒂固的直觉：\n操作的本质是力学行为，而非视觉问题\n。\n2016 年，他去哈佛做神经科学博士后，研究方向变成了人脑的运动控制。实验室做了大量感知干扰实验：屏蔽视觉、干扰触觉，观察人手操作的变化。他发现，无论怎么干扰，\n人类最基本的抓取动作始终不变。\n“那个永远不变的部分，就是本能，”\n姜峣意识到。语言没环境学不会，但没人教过婴儿怎么抓东西，全人类却抓得高度一致。这不是因为见过了足够多的场景，而是因为有一套基于触觉和力学的先天机制。\n两套看起来八竿子打不着的学科语言在姜峣身上对齐了：\n操作的本质不是拟合视觉轨迹，而是力学规律；人类的通用操作能力，源于本能，而非数据。\n把“本能”移植给机器人，这在当时是绝对的“无人区”。2018 年回国建实验室时，“具身智能”还没出圈，VLA 尚未大行其道，同行觉得他在讲玄学，投资人听不懂……\n姜峣没有急着说服外界，\n而是极其审慎地培养同路人\n：实验室会要求大二便进组观察，先看能力，更看“是否理解数据驱动解决不了执行侧死结、是否相信本能”。算法再强但不认同这一点的人，他不要。新成员进组，必须经实验室全体博士生认可。最长的一位，更是跟了他 10 年。\n2024 年创业时，\n组里 8 位博士一致选择加入了橡木果\n。更罕见的是，这些人私下有个共识：\n如果公司哪天不坚守“本能驱动”，他们就不继续效力。\n这不是创业故事里常见的情怀，而是认知共识在对抗行业惯性前，必须建立的防线。\n因为他们要找的，是“操作层面的万有引力”。\n是规律，不是规则\n这意味着必须放弃拟合轨迹的执念。牛顿没有穷尽每一条运动轨迹，而是用一条不含任何运动参数的万有引力定律，支配了所有运动。姜峣把同样的逻辑搬到了操作上：\nVLA 在学轨迹，橡木果在找规律。\n规则是把操作算法写死，而规律只给约束。基于对物理交互的下探，姜峣将这条规律提炼为三类操作本能：\n定向本能\n解决“去哪”——与视觉协同，指引末端向目标移动，就像婴儿看到移动物体时自然转头追随；\n探索本能\n解决“怎么碰”——这是最复杂、也最体现智能涌现的一环。接触发生后，机器人不依赖预设程序或模仿，而是沿物体表面自主试探，寻找稳定的接触构型；\n执行交互本能\n解决“怎么抓”——以“滑移最小化”为核心，实时调节抓取力度。抓豆腐时轻柔，抓锤子时紧实，装配时自适应阻力。所有调控全凭触觉实时反馈，无需任何训练数据。\n没有人告诉开篇的那个夹爪“从侧面撬卡片”，它只有“找到稳定接触”的底层期望，撬的动作便\n在物理约束下自然涌现\n。\n但要让这套本能真正闭环，必须跨过一个关键技术门槛：\n滑移感知\n。“就像你站在高铁上，想感知车厢和地面的相对速度，”姜峣解释，“你嵌在其中一方，几乎没有参照物。”\n团队花了 7 年，迭代十余版原型机，\n才把微米级滑移感知做到稳定可用\n。有了它，机器人遇到任何物体，都能在接触中实时感知“要滑了”并自动修正——不需要提前知道物体是什么。\n这也是零数据冷启动能够成立的物理基石。\n有了这三套“本能规律”，便可激发机器的无穷多行为。\nNatus 与 Magis：从本能到技能\n被 Natus 模型驱动的“行为涌现”，在端侧可实时控制：200Hz 响应，毫秒级延时，无云端依赖，出厂时针对具体硬件的力学特性单独适配。它的核心使命，就是解开前文那个“没能力就不能实践”的死结：\n让机器人“第一天上产线就能用”\n。\n但一直靠本能探索效率太低，这便是第二层模型 Magis 存在的意义。\nNatus 探索产生的数据，不是普通的视频轨迹，\n而是带有触觉语义的记录\n：视觉看到“一根香蕉”，触觉同步标注“重 120 克，质心偏左，表皮粗糙”。\n这类带力学标注的视觉数据送入 Magis 训练，得到的技能模型对物理世界的理解，远比纯视觉数据深得多——\n它知道怎么抓，而不只是看起来像在抓。\nMagis 成熟后，熟悉场景可直接调用技能，陌生场景则退回 Natus 探索，新数据再沉淀进 Magis。一方面本能持续涌现，可以兜底；另一方面技能越积越厚，不断进化。\n“我们颠覆了现在所有数据采集的方式，”姜峣说，“\n最好的数据来源不是仿真，不是人工遥操，而是产品自己在真实物理世界里跑出来的\n。”\n换产不停线：零数据的真实价码\n这套“自己跑出数据、自己长出技能”的能力，最迫切的场景在哪？\n橡木果选择了\n柔性制造\n，姜峣认为，\n这是权衡过执行侧门槛和市场痛点后最佳的交叉点。\n化妆品 ODM 行业是典型。SKU 超百种，几周一换，每次换产就要停线调参，\n它的痛点不是机器不够快，是机器认不出新物料\n。更棘手的是物料本身：粉饼极度易碎，稍用力就留印；香薰灯芯细软不均，力大了拔出，力小了拽不动。\n这类任务无法用规则覆盖，VLA 训练成本极高，传统自动化束手无策。\n但对 Natus 来说，换了 SKU，只需自己探索，不停线、不调参、不叫工程师，\n这才是“零数据冷启动”对产线的真实价值。\n据介绍，橡木果在国内头部化妆品企业完成 POC，从启动到验证不到两个月，随即进入规模化部署，在手订单突破 2000 万元。\n图注：具身智能的两条技术路径：自上而下数据拟合 vs 自下而上本能驱动\n对于技术路线更长期的判断，姜峣认为，\nNatus 和大模型从来不是竞争，而是分工\n：大模型负责理解任务、规划步骤，Natus/Magis 负责毫秒级的物理执行，\n一个做规划，一个做操作，接口协同，各司其职。\n这不是妥协，而是回归操作本质的必然。就像生物进化把操作反射交给了脊髓，而不是每次触觉都等大脑重新决策——这个判断，从他 8 年前在哈佛和清华的跨界碰撞中，就没变过。",
-    "content_source": "readability",
-    "content_chars": 4153,
-    "content_excerpt": "用一只机械手拾起桌面上的银行卡，需要几个自由度？\n三个？五个？多数人的直觉都是越多越稳妥，最好再配上触觉、视觉、力控……毕竟，这活儿连人手也未必一次成功。\n但偏偏有一家清华系的机器人公司不信邪，\n把这套方案砍到了一个自由度。\n你看到的模块，甚至都谈不上机械手，更像是产线上最常见的工业\n夹爪：两块楔形黑色夹片，沿固定导轨运动，像鸟嘴一样咬合。\n夹片内侧被银色的触觉传感材料包裹。除此之外，\n没有外置摄像头，没有云端大脑，也没有学习过任何“示范性的轨迹数据”\n。一切都发生在端侧的本地。\n但它却能夹起那张厚度不到 1 毫米、平贴台面的白色卡片。更准确地说，它不是“夹”起，而是“撬”起：一侧夹片先压住卡片的边缘，以桌面当支点，另一端则被顶起；对应的夹片顺势合拢，两侧同时发力，将卡片整张提起。",
-    "title_original": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.309329"
   },
   {
     "id": "8b2d013a0637",
@@ -5369,129 +5533,6 @@
     "rewritten_at": "2026-06-17T19:35:48.310873"
   },
   {
-    "id": "1124afc5e505",
-    "title": "Update: YouTube will let you ask AI to make a custom video feed",
-    "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-28T08:49:07",
-    "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch.",
-    "collected_at": "2026-05-28T09:51:02.847348",
-    "content_text": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage — making it easy to jump back into the feed.\nYouTube will let you ask AI to make a custom video feed\nJust describe the kind of videos you want to see, from workout guides to hobby inspiration.\nJust describe the kind of videos you want to see, from workout guides to hobby inspiration.\nThis feature is currently rolling out with English language support to YouTube users in the US who are signed in on the YouTube mobile app or desktop. To access it, click on the “Your custom feed” tab at the top of the YouTube homepage and enter a prompt description into the AI text box. For example, you can ask the YouTube AI to “help me unwind with guided meditations under 10 minutes,” or for “deep-dive tech podcasts about AI,” and then receive a curated feed based on your request.\nIt’s similar to other AI-powered feed customization features we’ve seen from other platforms, including Spotify’s prompted playlists. Instagram also gave users more control over their Reels feed algorithm in December, though that uses topic lists rather than descriptive prompts.\nYouTube says that prompts can be edited at any time to “generate a brand new space” by selecting the text box at the top of your custom feed. To see the “Your custom feed” tab, YouTube says you need to ensure your search and watch history are enabled in your account settings. If the AI messes up your feed request, you can also report the issue to YouTube by clicking the 3-dot menu on the feature tab and selecting “Something wrong?” to leave feedback.",
-    "content_source": "trafilatura",
-    "content_chars": 1820,
-    "content_excerpt": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage — making it easy to jump back into the feed.\nYouTube will let you ask AI to make a custom video feed\nJust describe the kind of videos you want to see, from workout guides to hobby inspiration.\nJust describe the kind of videos you want to see, from workout guides to hobby inspiration.\nThis feature is currently rolling out with English language support to YouTube users in the US who are signed in on the YouTube mobile app or desktop. To access it, click on the “Your custom feed” tab at the top of the YouTube homepage and enter a prompt description into the AI text box. For example, you can ask the YouTube AI to “help me unwind with guided meditations under 10 minutes,” or for “deep-dive tech podcasts about AI,” and then receive a curated feed based on your request.\nIt’s similar to other AI-powered feed customization features we’ve seen from other platforms, including Spotify’s prompted playlists. Instagram also gave users more control over their Reels feed algorithm in December, though that uses topic lists rather than descriptive prompts.\nYouTube says that prompts can be edited at any time to “generate a brand new space” by selecting the text box at the top of your custom feed. To see the “Your custom feed” tab, YouTube says you need to ensure your search and watch history are enabled in your account settings. If the AI messes up your feed request, you can also report the issue to YouTube by clicking the 3-dot menu on the feature tab and selecting “Something wrong?” to leave feedback.",
-    "title_zh": "YouTube 将允许你要求 AI 制作自定义视频源",
-    "summary_zh": "YouTube 正在推出一项新的人工智能功能，可根据您想观看的内容的描述创建个性化视频源。 YouTube 在其公告中表示，可以围绕您的特定兴趣、心情或最喜欢的主题构建自定义内容提要，然后您可以将其固定到 YouTube 的顶部",
-    "ai_summary": "YouTube 正在推出一项新的人工智能功能，可根据您想观看的内容的描述创建个性化视频源。 YouTube 在其公告中表…",
-    "title_original": "YouTube will let you ask AI to make a custom video feed",
-    "summary_original": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTu",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "4828efff0295",
-    "title": "重磅！「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
-    "url": "https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-28T09:21:37",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-28T02:28:29.827840",
-    "title_original": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "bc86cc225459",
-    "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具，这意味着什么？",
-    "url": "https://www.qbitai.com/2026/05/426223.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-28T08:47:27",
-    "summary": "实现AI技术从“能力”到“价值”的转化",
-    "collected_at": "2026-05-28T15:32:18.586902",
-    "content_text": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具\n梦晨\n2026-05-28\n16:47:27\n来源：\n量子位\n允中 发自 凹非寺\n量子位 | 公众号 QbitAI\n5月28日，江苏沙钢钢铁有限公司（以下简称“沙钢”）与钉钉正式签署战略合作协议。双方将围绕全集团协同办公底座建设及AI场景应用落地展开深度合作，重点以钉钉悟空和一系列AI产品为核心引擎，推动AI在钢铁行业的规模化落地，助力沙钢全力打造AI时代的工作方式。沙钢集团常务执行董事、联席总裁陈少慧和钉钉、悟空创始人陈航出席签约仪式。\n沙钢创立于1975年，是中国规模最大的民营钢铁企业集团，年产钢规模位居全国前列，连续多年跻身中国企业500强，旗下员工数万人，业务覆盖全球多个国家和地区。近年来，沙钢将数字化、智能化转型列为企业发展的核心战略，持续加大在数字基础设施、智能制造及AI应用方面的投入，致力于打造世界一流的数智化钢铁企业。\n本次战略合作的核心，是双方以专属钉钉底座为基础，以悟空AI为智能引擎，围绕钢铁行业的实际业务痛点，共同打造全集团的协同办公平台，并推进落地七大AI创新智能场景，实现AI技术从“能力”到“价值”的转化。\n在协同办公底座层面，沙钢将基于专属钉钉数字底座，集成现有OA、HR、财务等核心业务系统，实现统一账号管理、单点登录与数据互通，并配套数据私有化混合存储、安全管控，为企业数字化转型夯实地基。\n在AI场景落地层面，沙钢还将全面引入钉钉智能体开发平台，为AI场景的规模化落地夯实扎实根基，并计划未来在全集团推广应用悟空，将其深度融入沙钢日常运营的各个环节，打造AI原生组织，激发组织力与员工个体创造力。例如双方共同打造的“KYT安全隐患自动检查助手”，能利用AI视觉识别技术对生产现场视频图像进行实时采集、审核，自动识别安全隐患，为钢铁生产安全提供智能防护。\n此外，双方还将共同推进沙钢AI人才梯队建设，通过系统性AI培训工作坊培养数智化先锋，打造并推广可复用的AI应用场景和标杆数智化应用。\n沙钢集团常务执行董事、联席总裁陈少慧表示：“此次与钉钉的战略合作，是沙钢智能化转型进程中的重要里程碑。钉钉在企业协同与AI应用领域的深厚积累，将为沙钢打造世界一流数智化钢铁企业提供强有力的支撑。期待通过钉钉、悟空的深度应用，让AI真正成为每一位沙钢员工的生产力工具，全面提升沙钢的管理效能与运营竞争力。”\n钉钉、悟空创始人陈航表示：“钢铁行业是中国制造业的脊梁，也是AI技术规模化落地的重要阵地。与沙钢的合作，是钉钉、悟空在重工业场景深度实践的重要里程碑。我们将把最前沿的AI能力与沙钢的实际业务深度融合，帮助沙钢打造真正可落地、可复用的行业AI标杆，为中国钢铁行业的数智化转型提供示范样本。”\n此次战略合作协议的签署，标志着钉钉与中国头部民营钢铁企业在AI应用领域的深度合作正式开启。未来，双方将持续深化以悟空为核心的智能化应用探索，不断拓展AI在钢铁生产、安全管理、供应链协同等更多场景的应用边界，共同为中国制造业的数智化转型树立可借鉴、可推广的行业新标杆。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 1419,
-    "content_excerpt": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具\n梦晨\n2026-05-28\n16:47:27\n来源：\n量子位\n允中 发自 凹非寺\n量子位 | 公众号 QbitAI\n5月28日，江苏沙钢钢铁有限公司（以下简称“沙钢”）与钉钉正式签署战略合作协议。双方将围绕全集团协同办公底座建设及AI场景应用落地展开深度合作，重点以钉钉悟空和一系列AI产品为核心引擎，推动AI在钢铁行业的规模化落地，助力沙钢全力打造AI时代的工作方式。沙钢集团常务执行董事、联席总裁陈少慧和钉钉、悟空创始人陈航出席签约仪式。\n沙钢创立于1975年，是中国规模最大的民营钢铁企业集团，年产钢规模位居全国前列，连续多年跻身中国企业500强，旗下员工数万人，业务覆盖全球多个国家和地区。近年来，沙钢将数字化、智能化转型列为企业发展的核心战略，持续加大在数字基础设施、智能制造及AI应用方面的投入，致力于打造世界一流的数智化钢铁企业。",
-    "title_original": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "bc5615db071b",
-    "title": "最新动态：「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
-    "url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-28T09:19:26",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-28T02:28:29.827867",
-    "title_original": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "c29e068f0ab4",
-    "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型，这一消息引发行业关注",
-    "url": "https://36kr.com/p/3820602297208966?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-05-28T08:20:12",
-    "summary": "有分析指出，文｜王欣逸 李嘉星 编辑｜周鑫雨 一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。",
-    "collected_at": "2026-05-28T09:51:14.698700",
-    "content_text": "文｜王欣逸 李嘉星\n编辑｜周鑫雨\n一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。\n2026年，随着Seedance 2.0、GPT Image 2.0等模型的爆火，多模态能力越来越成为行业内绕不开的关键词。5月19日，智象未来首届开放日上，智象未来给出了他们的判断和回答：“原生多模态是实现AGI的必经之路。”\n本场开放日活动主题为“Imaging the World”，不过，对于智象未来而言，「World」的重要性，几乎要放在「Video」和「Image」之前了。\n“我们的终极目标是打造世界模型。”智象未来CEO梅涛在活动中反复提及这一观点，在他的定义中，智象未来要做一家原生多模态大模型公司。\n在梅涛看来，一个真正的世界模型需要同时满足多个条件：掌握物理规律、解决长时间跨度的因果推理、实现全模态交互以及绝对的安全性。\n当下业界主流的世界模型训练路线可以分为李飞飞的“生成3D世界”一派，以及Yann LeCun的“自监督预测世界”一派。\n智象未来则做出了不同的选择——做算法和架构层的创新，从世界模型训练中最稀缺、成本最高的多模态数据入手，率先聚焦在视频、图像、3D交互等数据的生成上，用低成本的合成数据对抗行业数据稀缺瓶颈，并从中积累一些在世界模型上可复用的视觉模型能力。\n具体而言，他们要让多模态模型从构建之初就拥有理解真实世界规则的能力。原生全模态Unified Transformer（UiT）架构能做到“Any to Any”（任何形式输入支持任何形式输出），这也正是世界模型所需要的能力：在统一架构中理解、生成并预测现实世界的不同状态。\n过去一段时间，他们做出了从“模型即产品”到“做Agent平台”的转变。\n作为一家主要面向To B的公司，他们概括自己的打法是做一个“1+1+3”MaaS（软件即服务）平台，分别为底层的HiDream系列大模型、中间层的HiHarness企业服务平台，以及上层三大场景的应用：商业营销、影视创作、社媒创作。\n概念火热的同时，资本也在不断押注。继上个月拿到安徽省产投、东方富海等机构参投的5亿人民币B轮融资之后，智象未来又火速官宣了下一轮融资，两周内再次完成亿元级新一轮融资。\n一系列竞争也随之而来，当下的模型能力越来越强，在和海内外基模厂商争夺模型市场的同时，智象未来还要攥紧他们手中的新牌——MaaS平台，并瞄准视频生成领域的垂类赛道，开展和大公司的争夺战。\n在智象未来开放日结束后，《智能涌现》等媒体和智象未来CEO梅涛，以及其投资人东方富海合伙人王兵聊了聊，以下为对话实录（略经摘编）。\n很多具身智能公司低估了视频模型的重要性\n问：在大家的认知当中，智象未来之前做图像和视频比较多，从二维的图像、视频，到三维的物理世界，你们的战略转型是怎么发生的？\n梅涛：\n目前大家将市面上一些模型称之为世界模型还太早了。世界模型有不同的路径，未来可能也会有多种可能性。\n到今天为止，\n我们不会去对外声明我们目前是一家世界模型公司\n，我们更倾向于将智象未来定义为\n原生多模态大模型公司\n。\n智向未来更关注原生的全模态大模型及其应用领域，不过，原生多模态大模型公司在将来肯定会通往世界模型。\n问：现在很多公司都自称在做“世界模型”，但外界对这个概念的定义很模糊。您如何界定智象未来所追求的“世界模型”？\n梅涛：\n我们会非常严谨地认为智象未来做的是原生多模态的模型，在迈向世界模型的过程中，会比较聚焦在视频、图像、3D交互这些数据的生成上。\n问：智象未来从拼接式多模态升级为原生多模态，这在技术上出现了什么拐点？目前技术是否成熟？\n梅涛：\n多模态生成领域的技术尚未收敛，这正是创业公司的机会。如果技术完全收敛、统一采用DIT框架，我们也就没有空间了。\n正因为技术没有快速收敛，我们才能通过算法创新，以少量资源实现与大厂同等的效果，而非单纯去拼数据与算力。\n问：从全模态大模型到世界模型，需要还需要达成哪些成熟的技术条件？\n梅涛：\n第一是掌握物理规律，包括流体力学、固体力学、分子动力学和牛顿定律等，目前行业还难以全面枚举和掌控；\n第二是解决长上下文的因果关系问题；\n第三是实现与物理世界的全模态交互，比如机器人怎么拿起杯子、拧开盖子、倒水并判断用户需求，这离我们还有相当长的距离；\n第四是安全性，机器人如果进入家庭，必须保障百分之百的安全，避免对人身或贵重物品造成损害。\n我们现阶段更务实的选择是关注原生多模态问题，既能实现商业化落地，也能为未来迈向世界模型做好技术积淀。\n问：很多视频生成模型公司都在卷长视频、真实性，在迈向世界模型的过程中，这些指标会发生改变吗？\n梅涛：\n世界模型强调的是生成世界的能力，包括逻辑关系、视觉效果等。\n我们对自己的视频模型有三个维度的要求：\n第一是\n模型能力\n，即视觉内容的合理性、质量，与物理规律的符合度，在模型能力上我们必须瞄准天花板来做；\n第二是\n视频时长\n，我们目前能做到分钟级的生成，甚至在技术上可以做到3分钟、5分钟甚至无限长；\n第三是\n实时性与交互能力，\n当模型花1分钟就能生成出1分钟时长的视频，那基本就可以实现交互了。我希望我们的产品可以朝这个方向努力，比如通过算法提供低质量的预览，用户确认后再输出高精度的2K或4K视频。\n问：在训世界模型的过程中，数据是比较稀缺的资源。您认为世界模型的数据获取、清洗和标注策略，和之前训图像、视频模型相比有什么不同？\n梅涛：\n模型训练过程包含三个要素：算法、数据和算力。\n倘若算法框架固定下来，剩下的就是在比拼数据和算力了。举个例子，如果大家都在用DiT（Diffusion Transformer）架构做视频模型的话，数据的质量、分布以及数据标注的质量，对模型能力相当重要。\n不过，一旦算法和架构发生了变化，或者出现了新的架构和新的算法，数据的重要性就会弱一点。这也是创业公司的机会所在——我们不完全拼算力和数据，而是关注算法本身的创新。\n回到数据层面来看，为了获取高质量真实的数据和反馈，我们做了一套工具链条，用以收集、清洗和标注这些数据。\n我们拥有20万小时有影视版权的视频数据，和不少厂商保持着合作关系，同时也正寻求和头部拥有版权数据的影视公司的合作。\n世界模型的数据情况与视频模型有所不同，世界模型数采需要全方位多模态的数据，成本更高，且更为稀缺。因此，智象未来在做的是，将其他厂商采集到的毫米级真人实操数据，用视频模型生成万份级不同场景、肤色的真人数据，并用这些真实数据及机器合成数据训练VLA（Vision-Language-Action，视觉-语言-动作模型）和WAM（World Action Model，世界动作模型）。\n问：用纯真实数据训模型，和用机器合成数据训模型，效果会有所不同吗？\n梅涛：\n我们会进行小规模的验证，形成从数据到模型训练的闭环。具体来说，就是看用机器生成的数据对市面上普通的乃至最好的VLA和WAM模型有没有好处，反推去验证数据的有效性。\n问：您曾提到，很多具身智能公司低估了视频模型的重要性。您为什么认为没有视频模型，具身智能很难走远？\n梅涛：\n现在具身智能公司的模型规模普遍很小（不到100B）。如果真要承担类似世界模型的复杂任务，靠小模型和有限的数据采集，不太可能实现广泛的泛化。\n我们做的是全球唯三、能够达到千亿规模的多模态模型。如果没有一个坚实、厚重的底座模型，做具身智能很难实现很好的泛化，即便在特定场景里因为有数据采集能做一点，也很难扩展到其他场景。\n多模态模型Token的毛利率，远远高于大语言模型\n问：今年初，Sora的关停下架对国内视频领域的创业者产生了一定影响，这会影响投资人的投资决策吗？\n王兵：\n不会， 因为这是OpenAI的战略。目前在Coding领域，OpenAI被Anthropic压得很厉害。在有限的资源和竞争之下，OpenAI可能自然把短期内难以赚钱的图像、视频模型的优先级放低了。\n但从去年到今年，整个图像和视频模型行业的商业化进展非常快，比如可灵、Seedance 2.0等，在收入上表现是不错的。\n不过，视频生成赛道真实存在的可能是版权问题，这也是我们选择投智象未来的重要原因，智象的所有的数据都是合法、有版权的。\n在大模型特别烧钱的背景下，我们特别看中企业如何用最有效的方式和大公司进行差异化竞争。具体来说，一方面，企业怎样用较低的成本做出能力比肩头部大厂的基模，并做好研发效率和资金效率；另一方面，企业能利用先进技术，快速落地到不同的商业场景中，差异化做好B端场景服务。\n问：视频模型真的能赚钱吗？\n王兵：\n它一定会赚钱。\n第一是算力成本一定会指数级下降，英伟达每年推出的芯片算力都是上一代的5-10倍，但价格几乎没有涨太多，因此算力的平均价格每年都在下降。\n你今天看到不赚钱的项目，可能过两年就开始赚钱了，因为算力成本在不断下降。\n第二是，过去几年，图像和视频的生成效果无法达到商业化的水准，但今年，我们可以看见包括AI短剧、短视频、电商视频的质量几乎都能实现商业化。在影视、广告等几乎所有视频领域应用场景中，AI一定会取代绝大部分的人工。\n问：在视频生成行业做To B服务，毛利率能实现为正吗？\n梅涛：\nTo B的毛利率挺高的，同时，多模态模型Token的毛利率也远远高于大语言模型Token的毛利率。\n问：衡量视频赛道企业是否到达商业化的节点，有什么样的标准吗？\n王兵：\n我们观察了这个赛道很长时间，一直没有下手的原因是，我们还不清楚什么时间点品质和成本能够达到商业化水平。\n从去年开始，我就感觉那个“点”就快到了，同时我们也在等那个最合适商业化的转折点。这个“点”一定会来，而且就目前来看，它到来的时间比我们想象的要快。\n从具体对企业的衡量标准来看：第一个是团队技术背景，团队是该领域的开拓者且经历了很长时间的积累；第二个是稳定性，团队的人才密度很高，能持续保持稳定；第三个是资金效率、研发效率以及团队长期的专注力。\n问：您对视频生成赛道创业公司的商业化路径选择是怎么看的？\n王兵：\n在算力成本大幅下降之前，尽量不要在To C上和巨头公司打起来。\n以智象为代表的创业公司，先做To B肯定是对的，通过做To B，企业能提升产品的逻辑能力、场景落地的能力，在没有烧很多钱的同时还能实现一定的收入。\n问：平台与各大模型平台的合作模式与分成机制是什么？分佣比例方便透露吗？在电商、短剧上又存在什么样的合作模式？\n梅涛：\n行业共识是，没有一家厂商的模型能满足客户所有要求。所以我们打造了MaaS平台，既沉淀自研的多模态能力，也接入Deepseek等第三方大语言模型，满足客户端到端的需求。平台上沉淀了大量API与Skills，用户贡献行业技能，我们会与之分佣。\n在电商短视频广告上，我们有三种收费模式：一是按Token售卖工具；二是RaaS素材服务；三是按GMV分佣，比例在15%至 30%。\n短剧方面，我们现阶段主要是给承制方提供AI制作工具，目前不分佣。如果遇到一些精品短剧制作方，比如我们和安徽电视台、华策的合作，我们会联合承制和发行，这种模式下就会有分佣了。\n问：您之前提到，AI时代不卷是不行的。今年你们调整了公司的战略，要做“1+1+3”MaaS平台，是什么时间点或者市场体感推动您做出这样的决定？\n梅涛：\n我们是科学家创业背景，习惯脚踏实地做事。但真正对我们触动比较大的是Minimax、智谱等企业港股上市表现优异。在二级市场上，大家对中国AI公司的估值和信心很强，这让我们意识到需要提升品牌叙事能力。\n在一级市场的体感上，2023年大家更看重模型效果，但2024年底至2025年更看重商业化成绩，今年大家开始向海外对标模型能力。\n今年，一级市场和二级市场的投资人都开始转向模型能力本身，都意识到\n模型就是产品，产品就是商业化。\n我们一直都是同时做模型和商业化。很难说某一家公司的模型排名始终全球第一，如果没有及早建立商业化壁垒、没有用户心智和行业属性，模型能力上去了，商业化很难跟上。我认为模型和商业化需要两手抓。\n问：从卖通用工具转到开始卖端到端Agent，你们团队内部有没有battle过？\n梅涛：这个争论一直有。\n最开始我们觉得模型能力就是产品，因此我们把模型做成了一个简单的C端应用，结果发现并不是这样。除了开发者，普通B端用户不会自己写代码去调用模型，而是要有一个Agent作为中间层。\n所以从创业第一天起，我们就坚定要\n做B端的企业服务\n。关于商业化的大方向我们没有任何摇摆，To B、To C我们都做，但中间我们摇摆过到底是做SaaS还是做RaaS（内容即服务），包括为什么选择做内容电商，而不是传统的货架电商。\n我们踩过很多坑才发现，做货架电商其中的视频或图片可能很长时间不会更换，你很难证明其中的价值。但内容电商的客户每个月要消耗大几千条短视频，超级客户一年要几十、上千万条，这不可能都用人工来拍，这就是端到端Agent的价值所在。\n问：你们想做企业服务的模式是指什么？\n梅涛：\n首先，我们不做定制化。我们团队规模才两三百人，但已经服务4万家的中小型企业客户、4000万个人用户以及100多家头部客户。\n我们的企业服务主要包括三方面，一是直接做To 大B、To 小B或者To C模式的服务，二是和平台型企业合作，三是通过自己的平台，服务中小型客户。\n在AI行业，企业服务不同于传统的B端客户，我们提供标准化的产品和服务，这些客户更像是小B或大C，可能是一个团队，也可能是一个人。\n行业还没出现能一统天下的模型\n问：目前国内外大厂都在布局世界模型和视频模型，智象未来准备如何面对这些愈发激烈的竞争？\n梅涛：\n这个问题可以拆解为两个方面：\n第一，智象如何实现和大厂的共存？\n我们可以把整个行业分成三层，第一层是做C端流量入口的平台，如字节、阿里、Google等有流量分发能力的公司；第二层是做底层基座大模型的公司，如Anthropic、OpenAI、也包括字节、阿里；第三层的公司在市面上多如牛毛，包括很多做Agent的公司以及做应用的公司。\n我们位于第二层和第三层，既做模型，又做应用。\n我们不会和大的模型厂商直面竞争底座模型，但我们会做出一些差异化的竞争。比如，我们的图像开源模型能做到全球排名第一，闭源模型也正在冲榜的过程中，目标是全球前三。在视频领域，我们正在做营销、短剧等垂类应用场景的视频模型。\n第二，客户为什么和我们合作？我们是一个严肃认真做企业服务的公司，这也是客户选择我们的原因。很多人说我们公司有点像视频版的Anthropic，团队一直比较稳定，企业服务的基因也很强。\n我们想靠模型能力、产品能力和生态能力，在整个商业化环境里走的更远一些。\n问：在和大厂争夺获客的过程中，你们是怎么做的？\n梅涛：\n大公司平台不太会去做很深的应用和服务，但对于我们这类企业而言，首先要做是产品、服务，并形成闭环。例如，在商业短视频营销上，我们提供了HiBurst（智象未来的AI营销视频生产平台）服务加SaaS化（软件及服务）的工具。\n我们和大厂相比的优势和差异化在于以下几个方面：\n在图片领域，我们要成为客户的必选项；\n在视频领域，我们则倾向于深耕部分垂类场景：一是无限长视频的生成、长思考和长时长；二是营销场景，做好“人货场”（用户、商品、渠道）的交互；三是短剧领域，我们的MaaS（模型即服务）平台，能优化、编排自研和第三方模型。\n总体来看，在To B上，我们既做自己的产品，也做整个行业的生态。我们的策略是，在接入自家产品的同时，也接入第三方模型公司的产品，为用户提供一个端到端的产品和服务。\n问：您提到做平台是为了补齐短板，但相比于其他打出“降本”口号的平台，你们如何说服用户付费，并选择你们平台上的生态伙伴？\n梅涛：\n我们跟大厂在平台上竞争意义不大。首先，我们构建了完整的产品能力，能支撑业务快速迭代；其次，我们提供的是差异化模型能力，比如智象的图片模型在性价比上具备国际竞争力，在视频领域，无论是直播场景、漫剧还是特定内容创作，我们都有大厂覆盖不到的细分优势。目前行业还没出现能一统天下的模型，这给了我们差异化生存的空间。\n更关键的是，我们沉淀了大量Skills和行业Knowhow，这也是我们与客户共创的核心。特别是在短视频营销和AI短剧领域，我们通过分析特定区域、国家及类目的爆款逻辑，提供爆款创意裂变方案。这种对爆款规律的把控能力的价值，或许远远大于单纯的内容生产。",
-    "content_source": "readability",
-    "content_chars": 6738,
-    "content_excerpt": "文｜王欣逸 李嘉星\n编辑｜周鑫雨\n一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。\n2026年，随着Seedance 2.0、GPT Image 2.0等模型的爆火，多模态能力越来越成为行业内绕不开的关键词。5月19日，智象未来首届开放日上，智象未来给出了他们的判断和回答：“原生多模态是实现AGI的必经之路。”\n本场开放日活动主题为“Imaging the World”，不过，对于智象未来而言，「World」的重要性，几乎要放在「Video」和「Image」之前了。\n“我们的终极目标是打造世界模型。”智象未来CEO梅涛在活动中反复提及这一观点，在他的定义中，智象未来要做一家原生多模态大模型公司。\n在梅涛看来，一个真正的世界模型需要同时满足多个条件：掌握物理规律、解决长时间跨度的因果推理、实现全模态交互以及绝对的安全性。\n当下业界主流的世界模型训练路线可以分为李飞飞的“生成3D世界”一派，以及Yann LeCun的“自监督预测世界”一派。\n智象未来则做出了不同的选择——做算法和架构层的创新，从世界模型训练中最稀缺、成本最高的多模态数据入手，率先聚焦在视频、图像、3D交互等数据的生成上，用低成本的合成数据对抗行业数据稀缺瓶颈，并从中积累一些在世界模型上可复用的视觉模型能力。\n具体而言，他们要让多模态模型从构建之初就拥有理解真实世界规则的能力。原生全模态Unified Transformer（UiT）架构能做到“Any to Any”（任何形式输入支持任何形式输出），这也正是世界模型所需要的能力：在统一架构中理解、生成并预测现实世界的不同状态。",
-    "title_original": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
-    "summary_original": "文｜王欣逸 李嘉星 编辑｜周鑫雨 一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。 2026年，随着Seedance 2.0、GPT Image 2.0等模型的爆火，多模态能力越来越成为行业内绕不开的关键词。5月19日，智象未来首届开放日上，智象未来给出了他们的判断和回答：“原生多模态是实现AGI的必经之路。” 本场开放日活动主题为“Imaging the World”，不过，对于智象未来而言，「World」的重要性，几乎要放在「Video」和「Image」之前了。 “我们的终极目标是打造世界模型。”智象未来CEO梅涛在活动中反复提及这一观点，在他的定义中，智",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "c69f80506c39",
-    "title": "最新动态：Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
-    "url": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-28T09:15:19",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-28T02:28:29.827915",
-    "content_text": "Pullfrog\n是由\nColin McDonnell\n创建的一款开源 AI 驱动的 GitHub bot，目前处于 beta 阶段。它将自己定位为 CodeRabbit 的模型无关替代方案，并且完全运行在 GitHub Actions 内部。\nMcDonnell 最广为人知的身份，是\nZod\n的创建者。Zod 是一个 TypeScript 优先的 schema 验证库，在 GitHub 上拥有超过 42,000 个 star。他于 2026 年 5 月 12 日\n发布\n了 Pullfrog。该工具被设计为 GitHub 内部异步开发的编排层，可以监听 webhook，并根据可配置事件触发 AI agent 运行，例如新的 pull request、issue、CI 失败以及 review 提交。\n与 CodeRabbit 不同，后者是一个托管式 SaaS 平台，并使用自己的 AI 模型；Pullfrog 采用的是自带密钥（bring-your-own-key，BYOK）的方式。开发者可以连接任意 LLM 提供商，包括 Anthropic、OpenAI、Google、Mistral、DeepSeek 和 OpenRouter，并且只需修改一项配置，就可以在不同模型之间切换。所有 API key 都通过 GitHub 的 secret 管理系统存储，agent 运行则通过一个专用的 pullfrog.yml workflow 文件，在仓库自己的 GitHub Actions 环境中执行。\n开始使用 Pullfrog，需要先安装\nPullfrog GitHub App\n，并向仓库中添加 workflow 文件。\n之后，开发者可以在任何 issue、pull request 或评论中标记 @pullfrog 来触发一次 agent 运行，也可以在\nPullfrog 控制台\n中配置自动化触发器。完整的安装指南可以在\n官方文档中\n查看。\n该 agent 自带一个专门构建的 MCP server，用于执行 git 和 GitHub 操作，例如创建 pull request、留下 review、读取 CI 日志以及管理 issue。Shell 命令会在隔离的子进程中运行，无法访问敏感环境变量。它还内置了一个无头浏览器工具，使 agent 无需额外配置，就可以运行端到端测试、截图，并对 UI 进行迭代。\n近几个月，AI 代码审查领域的竞争格局已经明显扩大。自 2023 年以来，CodeRabbit 一直是专门代码审查工具中的既有领导者；而 GitHub Copilot 的代码审查能力于 2025 年 4 月\n推出\n，并凭借原生平台集成实现了快速采用。\nGreptile\n和\nBito\n等其他工具也在这一领域展开竞争。\nPullfrog 的差异化之处在于，它采用开源许可证，具备模型无关性，并且覆盖范围更广，不止于代码审查，还扩展到 issue 分流、CI 自动修复、合并冲突解决和计划生成。\n该发布在社区中引发了超过 50 条回复和超过 1,000 个点赞。一位用户问道：\n它能不能在本地运行，用于那些还没推送到 GitHub 或云端 Agent 的 Agentic 工作流？\n对此，McDonnell 回复道：\nPullfrog 是构建在 OpenCode 和 Claude Code 之上的一层运行框架，主要面向 CI 场景。\n如果是本地开发，你可以直接使用 OpenCode 或 Claude Code，并让它们访问 git 和 gh CLI。我们很快会推出一个 CLI，用来快速启动运行在 GitHub Actions 里的云端 Agent。不过，我们并不打算把 Pullfrog 做成一个本地开发时使用的 Agent。\nPullfrog 是由 Colin McDonnell 创建的一款开源 AI 驱动的 GitHub bot，McDonnell 最知名的身份是 Zod 的作者。它为 pull request review、issue 分流和 CI 修复提供模型无关、基于 agent 的自动化能力，并且完全运行在 GitHub Actions 中，而不需要依赖托管式第三方服务。自 2025 年底首次预览以来，该项目的\n源代码\n已经获得了超过 400 个 star。\n原文连接：\nhttps://www.infoq.com/news/2026/05/pullfrog-ai-github/",
-    "content_source": "readability",
-    "content_chars": 1863,
-    "content_excerpt": "Pullfrog\n是由\nColin McDonnell\n创建的一款开源 AI 驱动的 GitHub bot，目前处于 beta 阶段。它将自己定位为 CodeRabbit 的模型无关替代方案，并且完全运行在 GitHub Actions 内部。\nMcDonnell 最广为人知的身份，是\nZod\n的创建者。Zod 是一个 TypeScript 优先的 schema 验证库，在 GitHub 上拥有超过 42,000 个 star。他于 2026 年 5 月 12 日\n发布\n了 Pullfrog。该工具被设计为 GitHub 内部异步开发的编排层，可以监听 webhook，并根据可配置事件触发 AI agent 运行，例如新的 pull request、issue、CI 失败以及 review 提交。\n与 CodeRabbit 不同，后者是一个托管式 SaaS 平台，并使用自己的 AI 模型；Pullfrog 采用的是自带密钥（bring-your-own-key，BYOK）的方式。开发者可以连接任意 LLM 提供商，包括 Anthropic、OpenAI、Google、Mistral、DeepSeek 和 OpenRouter，并且只需修改一项配置，就可以在不同模型之间切换。所有 API key 都通过 GitHub 的 secret 管理系统存储，agent 运行则通过一个专用的 pullfrog.yml workflow 文件，在仓库自己的 GitHub Actions 环境中执行。",
-    "title_original": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "53c2c28b5e6a",
-    "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿，这一消息引发行业关注",
-    "url": "https://www.qbitai.com/2026/05/426198.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-28T08:11:40",
-    "summary": "8篇由同一个系统生成或形式化证明的数学论文",
-    "collected_at": "2026-05-28T09:48:47.369417",
-    "content_text": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿\n梦晨\n2026-05-28\n16:11:40\n来源：\n量子位\n梦晨 发自 凹非寺\n量子位 | 公众号 QbitAI\n数学论文预印本里，悄悄混进了8篇AI作品。\n更准确地说，是8篇由同一个系统生成或形式化证明的数学论文。\n初创公司Axiom Math宣布，他们从2026年2月开始提交的8篇论文，到5月28日有5篇已经通过同行评审，登上学术期刊。。\n创始人洪乐潼，2001年出生于广州，本科MIT三年拿下数学与物理双学位，还拿过北美数学本科生的最高荣誉罗德奖学金和摩根奖。\n在斯坦福读博期间，她退学了。\n退学的理由正是创办Axiom Math。\nAxiom在3月完成2亿美元（约13.56亿元人民币）融资，估值16亿美元（约108.46元人民币）。\n这批提交的论文横跨数论、组合、交换代数、代数几何/几何动力系统、表示论和Dyck path模型。\nAI证明，机器检查，人类审稿\n要理解Axiom Math做的是什么，这8篇论文是最好的切入点。\n其中一篇Reciprocals of Partition Polynomials，已被Annals of Acad. Rom. Sci.接收。\n这篇论文研究的是由partition subsum polynomials构造出reciprocal sums，目标是处理Ballantine、Beck、Feigon和 Maurischat 提出的10个猜想。\nAI证明了其中6个，还发现了一个原始命题里的反例。\n这个AI系统交AxiomProver ，产生的论文真没有停在自然语言，而是生成形式化证明。\n大模型可以写出很像证明的文字。\n但问题在于，自然语言证明再顺滑，也可能藏着逻辑缝隙。读者、审稿人和作者都要靠理解去判断哪里站得住。\nAxiomProver换了一种交付方式：\n研究者给出自然语言问题陈述，系统把问题翻译成Lean形式化证明。完成后，再由单独的检测器验证每一步。\n论文的文本仍然由人类数学家会把形式化证明配上学术解释。\n在这个实验中，AI没有代替人类，而是实践了一种新的人机协作模式。\nAI负责生成或形式化可检查证明，人类数学家负责问题表达、论文解释和审稿沟通。\nAxiom的创始数学家Ken Ono（小野健）表示，在某些情况下，系统被给定开放研究问题。会在大约 24 小时内生成完整、机器验证的证明。\n00后华人创办，布局可验证AI\n创始人洪乐潼，她自幼便展现出非凡的数学天赋，并在父母的支持下投身于数学竞赛。\n14岁时，她便在草稿纸上写下“MIT”以激励自己。\n高中时期，她就读于华南师范大学附属中学，进入广东省数学奥林匹克省队，在多项全国数学竞赛中获奖。\n2019年，17岁的洪乐潼考入MIT，仅用三年时间便完成了数学与物理双学位的学业，本科期间就发表了9篇学术论文。\n本科毕业后，她赴牛津大学攻读神经科学硕士学位，再次旗舰接触了人工智能和机器学习研究。\n随后她被斯坦福大学的数学博士和法学博士双学位录取。\n为了全身心投入创业，她于2024年秋季从斯坦福大学退学。\n她的创业合作伙伴Shubho Sengupta也从Meta辞职，两人从AI与数学推理的交叉可能性出发，决心解决AI的幻觉问题。\n后来知名数学家Ken Ono为此辞去了弗吉尼亚大学的终身教职，全职加入。\nAxiomProver在普特南数学竞赛拿下满分，还解决了两个困扰学界数十年的Erdős猜想。\n但“AI数学家”只是Axiom Math的第一步，他们的愿景是打造一个能够自我改进的超级智能推理器。\n不到一年，Axiom完成了6400万美元种子轮和2亿美元A轮融资，估值飙到16亿美元。\n投资人Matt Kraning如此评价这家公司：“AI将编写所有代码，但数学将证明其是否有效。”。\n如果一个 AI 系统能把数学证明交给机器逐步检查，那么同样的“生成、形式化、验证”闭环，也可能被拿去处理其他学科，以及高风险决策场景。\n5月27日，Axiom提交的最新一篇论文就跨界到了博弈论和经济学领域。\n与哈佛商学院教授Scott Duke Kominers合作，用Lean形式化证明Robert Aumann的经典定理。\n洪乐潼曾说创业者要选最难的问题，甚至需要5到10年才能解决的那种。\n现在看起来，她选的这条路同样也是最被关注的之一。\n参考链接：\n[1]\nhttps://x.com/axiommathai/status/2059640254341284320\n[2]\nhttps://axiommath.ai/papers\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 2047,
-    "content_excerpt": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿\n梦晨\n2026-05-28\n16:11:40\n来源：\n量子位\n梦晨 发自 凹非寺\n量子位 | 公众号 QbitAI\n数学论文预印本里，悄悄混进了8篇AI作品。\n更准确地说，是8篇由同一个系统生成或形式化证明的数学论文。",
-    "title_original": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
     "id": "hn-48292224",
     "title": "Report: I'm Tired of Talking to AI",
     "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
@@ -5500,28 +5541,10 @@
     "published": "2026-05-27T10:43:25Z",
     "summary": "I'm Tired of Talking to AI",
     "points": 2013,
-    "collected_at": "2026-06-20T02:39:20.211507",
+    "collected_at": "2026-06-20T08:45:47.730677",
     "title_original": "I'm Tired of Talking to AI",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884558"
-  },
-  {
-    "id": "0537cf16a66b",
-    "title": "最新动态：7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
-    "url": "https://www.qbitai.com/2026/05/426150.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-05-28T08:01:57",
-    "summary": "医学AI Agent到了关键拐点",
-    "collected_at": "2026-05-28T09:48:47.369455",
-    "content_text": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”\n听雨\n2026-05-28\n16:01:57\n来源：\n量子位\n上海创智学院 LeapQuest 团队 投稿\n量子位 | 公众号 QbitAI\n医学AI会写解释，但不代表它真的“看到”了关键证据。\n过去的医学多模态模型，大多是把一张影像或一段视频编码成视觉特征，然后让大模型生成答案与解释。\n但问题在于——一个微小病灶、一个边界变化、一段几秒钟的手术动作，往往就决定了答案是否成立。\n而模型“被动接收”视觉上下文时，很容易看错区域、漏看病灶。\n为应对这一问题，\n上海创智学院LeapQuest团队\n联合\n浙江大学、上海交通大学、复旦大学\n，一口气拿出了两篇\nICML 2026\n接收论文，首次把\nThink with Images/Think with Videos\n范式应用在医学AI领域：\n模型不再只是看完图像或视频后生成解释，而是在推理链中主动调用视觉工具，重新观察关键区域或关键时刻，并用新证据修正判断。\n这意味着，视觉不再只是输入，视觉证据本身成了模型思考过程的一部分。\n两篇工作的核心关键词如下：\n两篇工作不是孤立模型升级，而是共同提出医学AI的新范式：\n让视觉证据进入模型的中间思考过程，把“解释”从事后语言生成推进为推理过程中的证据查证。\n△\nOphiuchus：面向医学图像的tool-augmented Think with Images\n△\nMedScope：面向临床长视频的Think with Videos\n不是更会“写解释”，而是开始会“用视觉证据思考”\n医学AI过去最常见的工作方式，是把一张影像或一段视频编码成视觉特征，然后让大模型生成答案与解释。\n问题在于，\n解释看起来完整，并不代表模型真的看到了关键证据\n。尤其在医学场景里，一个微小病灶、一个边界变化、一段几秒钟的手术动作，往往就决定了答案是否成立。\nOphiuchus和MedScope共同把这个问题向前推进了一步：多模态模型不再只是“被动接收视觉上下文”，而是在推理过程中\n主动决定是否需要更多证据\n、\n应该看哪里\n、\n应该回看哪一段\n，并把工具返回的观察结果纳入后续推理。\n这就是医学AI领域首次被系统化提出的 “think with images/think with videos” 范式：视觉不再只是输入，视觉证据本身成为模型思考过程的一部分。\n△\nThink with Images\nThink with Images：让模型在图像诊断中“重新看一眼”\nOphiuchus的切入点非常直接：现有医学多模态大模型虽然能写出逐步推理，但遇到需要细粒度视觉证据的任务时，仍然容易“\n看错区域、漏看病灶、误把正常结构当异常\n”。\n这不是单纯语言能力不足，而是\n视觉交互机制不足\n。\n因此，Ophiuchus将大模型改造成一个能与医学图像工具协同的视觉智能体。\n它可以根据当前推理状态，决定是否调用外部视觉工具：用\nSAM2\n做精细分割，用\nBiomedParse\n根据文字提示定位医学结构，用\nZoom-in\n放大关键区域。\n工具调用后的输出不是孤立结果，而会以\nobservation\n的形式回到推理链，驱动下一步判断。\n更关键的是，Ophiuchus并不是把工具“外挂”在模型外面，而是\n让工具成为推理链的一部分\n。\n模型要学会何时调用工具、选择哪个工具、如何解释工具输出，以及当工具结果不可靠时如何修正策略。\n这使得模型从“会调用工具”走向“\n会用工具思考\n”。\n△\nOphiuchus 技术框架\nOphiuchus的价值不只是让医学大模型多了几个视觉工具，而是让模型学会在诊断过程中主动“看哪里、怎么看、看完如何修正”。\n从闭源SOTA到医学Agent：Ophiuchus用结果证明“看得更细”才是关键\n在同样外部工具配置下，\nOphiuchus-7B\n在8个VQA benchmark上取得\n68.0\n的平均分，高于\nOpenAI-o3的62.2\n、\nGemini 2.5 Pro的61.8\n和\nGPT-5的59.9。\n在工具使用准确性评估中，Ophiuchus达到\n97.9%\n的平均工具调用准确率。\n这些结果背后的含义，比“某个榜单第一”更重要：\n当问题真正依赖局部结构、病灶边界和细胞级证据时，模型大小或语言推理并不是唯一瓶颈。\n医学AI需要一种能让视觉证据不断进入推理过程的机制\n。\nThink with Videos：从“看图思考”走向“回看关键时刻”\n如果说Ophiuchus解决的是医学图像中的局部证据问题，那么MedScope则把这一范式推进到更难的长视频场景。\n长临床视频的挑战在于：\n关键证据不仅细，而且稀疏\n；不仅要看对内容，还要\n看对时间\n。\n一个手术动作、一个内镜视野变化、一个器械进入与离开的瞬间，可能只持续几秒，却决定模型是否真的理解了临床过程。\nMedScope 提出的 “\nthink with videos\n” 不是让模型把整段视频一次性压缩成上下文，而是模拟临床医生的观察方式：\n先快速建立全局理解，再回到可疑时间窗，用\ncrop_video\n截取片段，用\nget_frame\n获取关键帧，最后把这些局部观察结果整合进答案。\n△\nTextual CoT与 Visual CoT的差别\n这使MedScope的推理过程天然具备\n可审查性\n：模型为什么回答这个结果，不只看它“说了什么”，还可以看它“\n回看了哪一段视频、找到了哪些帧\n、这些证据是否支持结论”。\n△\nMedScope 框架\nClinVideoSuite与GA-GRPO：让视频模型学会“找证据”，而不只是“猜答案”\n为了让模型真正学会这种行为，MedScope构建了\nClinVideoSuite\n：包含\n635K\n时间戳密集 caption、\n254K\n证据关联QA、\n34K\n视觉CoT轨迹，以及用于强化学习的交互式训练环境。\n数据不是简单问答，而是强调问题必须依赖\n局部时间窗中的视觉证据\n。\n训练上，MedScope 采用\n三阶段路线\n——\n第一阶段\n进行临床推理warm-up，学习医学语义和长程视频理解；\n第二阶段\n用visual-CoT cold-start SFT教会模型何时需要更多证据、如何调用工具；\n第三阶段\n用GA-GRPO强化时序对齐的工具使用，通过grounding-aware reward和evidence-modulated advantage，让模型更偏向检索真正支持结论的视觉片段。\n△\nClinVideoSuite数据合成管线\n在SVU-31K、ClinVideo-Eval等评测中，MedScope在多粒度视频理解、细粒度时序推理和grounded VQA上取得开源模型中的\nSOTA\n。\n论文还显示，去掉\nevidence reward\n会显著降低定位质量，例如\nR@0.5从40.1下降到33.2\n，\nmIoU从4.3下降到38.8\n，说明答案级监督不足以教会模型可靠地选择证据。\n真正的范式变化：视觉从“输入”变成“思维过程”\n把两篇工作放在一起看，最重要的不是Ophiuchus处理图像、MedScope处理视频，而是它们共同定义了一种\n新的医学多模态智能范式\n：\n模型的推理过程不再只是语言token的展开，而是语言、工具、图像区域、视频片段和证据反馈之间的\n闭环交互\n。\n医学AI的下一个关键能力，不是生成更长的解释，而是在给出解释前主动寻找、验证并引用视觉证据。\nOphiuchus和MedScope把这一点从方法论变成了可训练、可评测、可扩展的技术路线。\n为什么这可能成为医学AI Agent的关键拐点\n医学任务与通用视觉问答最大的不同，是\n每一个结论都需要证据链\n。\n放射科医生会放大病灶边缘，病理医生会寻找细胞形态，外科医生会回看关键操作，内镜医生会追踪病灶在时间中的出现与消失。\n也就是说，临床视觉推理天然就是\n交互式、证据驱动和可复核\n的。\n“Think with Images/Videos”的意义，正是让医学AI向这种真实临床认知方式靠近。\n它不再满足于一次性预测，而是在模型内部建立“\n假设-查证-修正-回答\n”的循环。\n这为临床可信AI提供了三类重要能力：\n更少幻觉、更强可解释性、更适合复杂流程\n。\n医学AI开始真正“边看边想”\n从Ophiuchus到MedScope，可以看到医学多模态大模型正在发生一次\n底层范式转向\n：\n从看图、看视频，到在推理过程中持续地看；从输出答案，到主动寻找证据；从语言链条，到\n视觉证据参与的多模态思维链\n。\n这也解释了为什么“think with images/videos”值得被单独提出。\n它不是一个更花哨的工具调用框架，而是在医学AI里\n重新定义了“推理”的边界\n：推理不只是语言生成，而是围绕证据进行的\n动态视觉探索\n。\n当模型能够在思考中主动回看影像、放大病灶、截取视频、验证证据，医学AI才真正从“会回答问题”走向“会进行临床视觉推理”。\nLeapQuest［起跃界问］\n是上海创智学院面向下一代医学AI Agent、视觉推理与多模态大模型的青年交叉研究团队，聚焦Visual Reasoning、Agentic RL、Clinical Tools，推动模型从“生成答案”走向基于证据的观察、验证与行动。\n项目GitHub：\nMedScope｜Think with Videos：https://github.com/SII-WenjieLisjtu/MedScope\nOphiuchus｜Think with Images：https://github.com/SII-zyj/Ophiuchus\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 4138,
-    "content_excerpt": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”\n听雨\n2026-05-28\n16:01:57\n来源：\n量子位\n上海创智学院 LeapQuest 团队 投稿\n量子位 | 公众号 QbitAI\n医学AI会写解释，但不代表它真的“看到”了关键证据。\n过去的医学多模态模型，大多是把一张影像或一段视频编码成视觉特征，然后让大模型生成答案与解释。",
-    "title_original": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
+    "rewritten_at": "2026-06-20T08:47:04.851985"
   },
   {
     "id": "hn-48153379",
@@ -5532,11 +5555,11 @@
     "published": "2026-05-15T20:26:47Z",
     "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.",
     "points": 2105,
-    "collected_at": "2026-06-20T02:39:20.211472",
+    "collected_at": "2026-06-20T08:45:47.730642",
     "title_original": "I believe there are entire companies right now under AI psychosis",
     "summary_original": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884568"
+    "rewritten_at": "2026-06-20T08:47:04.851994"
   },
   {
     "id": "hn-48085821",
@@ -5547,10 +5570,10 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-06-20T02:39:20.211544",
+    "collected_at": "2026-06-20T08:45:47.730714",
     "title_original": "Local AI needs to be the norm",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884572"
+    "rewritten_at": "2026-06-20T08:47:04.851997"
   },
   {
     "id": "hn-48019219",
@@ -5561,11 +5584,11 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "",
     "points": 1755,
-    "collected_at": "2026-06-20T02:39:20.211572",
+    "collected_at": "2026-06-20T08:45:47.730741",
     "title_original": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "summary_original": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884578"
+    "rewritten_at": "2026-06-20T08:47:04.852003"
   },
   {
     "id": "hn-47679121",
@@ -5576,11 +5599,11 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.",
     "points": 1541,
-    "collected_at": "2026-06-20T02:39:20.211665",
+    "collected_at": "2026-06-20T08:45:47.730832",
     "title_original": "Project Glasswing: Securing critical software for the AI era",
     "summary_original": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884588"
+    "rewritten_at": "2026-06-20T08:47:04.852012"
   },
   {
     "id": "hn-47363754",
@@ -5591,10 +5614,10 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-06-20T02:39:20.211763",
+    "collected_at": "2026-06-20T08:45:47.730936",
     "title_original": "Can I run AI locally?",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884592"
+    "rewritten_at": "2026-06-20T08:47:04.852015"
   },
   {
     "id": "hn-47340079",
@@ -5605,11 +5628,11 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "",
     "points": 4229,
-    "collected_at": "2026-06-20T02:39:20.211330",
+    "collected_at": "2026-06-20T08:45:47.730503",
     "title_original": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "summary_original": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884597"
+    "rewritten_at": "2026-06-20T08:47:04.852020"
   },
   {
     "id": "hn-47225130",
@@ -5620,10 +5643,10 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-06-20T02:39:20.211818",
+    "collected_at": "2026-06-20T08:45:47.730990",
     "title_original": "Meta’s AI smart glasses and data privacy concerns",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884601"
+    "rewritten_at": "2026-06-20T08:47:04.852025"
   },
   {
     "id": "hn-47136179",
@@ -5634,10 +5657,10 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-06-20T02:39:20.211494",
+    "collected_at": "2026-06-20T08:45:47.730664",
     "title_original": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884606"
+    "rewritten_at": "2026-06-20T08:47:04.852029"
   },
   {
     "id": "hn-46990729",
@@ -5648,11 +5671,11 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.",
     "points": 2346,
-    "collected_at": "2026-06-20T02:39:20.211438",
+    "collected_at": "2026-06-20T08:45:47.730610",
     "title_original": "An AI agent published a hit piece on me",
     "summary_original": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884615"
+    "rewritten_at": "2026-06-20T08:47:04.852038"
   },
   {
     "id": "hn-45941596",
@@ -5663,10 +5686,10 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-06-20T02:39:20.211830",
+    "collected_at": "2026-06-20T08:45:47.731002",
     "title_original": "AirPods libreated from Apple's ecosystem",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884619"
+    "rewritten_at": "2026-06-20T08:47:04.852041"
   },
   {
     "id": "hn-44972151",
@@ -5677,11 +5700,11 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "",
     "points": 1697,
-    "collected_at": "2026-06-20T02:39:20.211597",
+    "collected_at": "2026-06-20T08:45:47.730767",
     "title_original": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "summary_original": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884624"
+    "rewritten_at": "2026-06-20T08:47:04.852046"
   },
   {
     "id": "hn-44396518",
@@ -5692,11 +5715,11 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on.",
     "points": 1539,
-    "collected_at": "2026-06-20T02:39:20.211733",
+    "collected_at": "2026-06-20T08:45:47.730904",
     "title_original": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
     "summary_original": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884634"
+    "rewritten_at": "2026-06-20T08:47:04.852055"
   },
   {
     "id": "hn-44314423",
@@ -5707,11 +5730,11 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "",
     "points": 1481,
-    "collected_at": "2026-06-20T02:39:20.211776",
+    "collected_at": "2026-06-20T08:45:47.730948",
     "title_original": "Andrej Karpathy: Software in the era of AI [video]",
     "summary_original": "Andrej Karpathy: Software in the era of AI [video]",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884639"
+    "rewritten_at": "2026-06-20T08:47:04.852060"
   },
   {
     "id": "hn-44163063",
@@ -5722,10 +5745,10 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-06-20T02:39:20.211377",
+    "collected_at": "2026-06-20T08:45:47.730585",
     "title_original": "My AI skeptic friends are all nuts",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884643"
+    "rewritten_at": "2026-06-20T08:47:04.852063"
   },
   {
     "id": "hn-42910910",
@@ -5736,10 +5759,10 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-06-20T02:39:20.211609",
+    "collected_at": "2026-06-20T08:45:47.730779",
     "title_original": "The young, inexperienced engineers aiding DOGE",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884646"
+    "rewritten_at": "2026-06-20T08:47:04.852066"
   },
   {
     "id": "hn-41392128",
@@ -5750,10 +5773,10 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-06-20T02:39:20.211520",
+    "collected_at": "2026-06-20T08:45:47.730690",
     "title_original": "Bypassing airport security via SQL injection",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884650"
+    "rewritten_at": "2026-06-20T08:47:04.852070"
   },
   {
     "id": "hn-41386319",
@@ -5764,10 +5787,10 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-06-20T02:39:20.211532",
+    "collected_at": "2026-06-20T08:45:47.730702",
     "title_original": "Air Con: $1697 for an on/off switch",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884653"
+    "rewritten_at": "2026-06-20T08:47:04.852073"
   },
   {
     "id": "hn-41046773",
@@ -5778,10 +5801,10 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-06-20T02:39:20.211364",
+    "collected_at": "2026-06-20T08:45:47.730572",
     "title_original": "Open source AI is the path forward",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884657"
+    "rewritten_at": "2026-06-20T08:47:04.852077"
   },
   {
     "id": "hn-39918245",
@@ -5792,11 +5815,11 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "",
     "points": 1418,
-    "collected_at": "2026-06-20T02:39:20.211843",
+    "collected_at": "2026-06-20T08:45:47.731014",
     "title_original": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "summary_original": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884662"
+    "rewritten_at": "2026-06-20T08:47:04.852081"
   },
   {
     "id": "hn-39526057",
@@ -5807,10 +5830,10 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-06-20T02:39:20.211350",
+    "collected_at": "2026-06-20T08:45:47.730526",
     "title_original": "Airfoil",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884665"
+    "rewritten_at": "2026-06-20T08:47:04.852085"
   },
   {
     "id": "hn-38544729",
@@ -5821,10 +5844,10 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-06-20T02:39:20.211452",
+    "collected_at": "2026-06-20T08:45:47.730622",
     "title_original": "Gemini AI",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884669"
+    "rewritten_at": "2026-06-20T08:47:04.852088"
   },
   {
     "id": "hn-37021160",
@@ -5835,11 +5858,11 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "",
     "points": 1581,
-    "collected_at": "2026-06-20T02:39:20.211633",
+    "collected_at": "2026-06-20T08:45:47.730803",
     "title_original": "Zoom terms now allow training AI on user content with no opt out",
     "summary_original": "Zoom terms now allow training AI on user content with no opt out",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884673"
+    "rewritten_at": "2026-06-20T08:47:04.852092"
   },
   {
     "id": "hn-31812259",
@@ -5850,10 +5873,10 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-06-20T02:39:20.211788",
+    "collected_at": "2026-06-20T08:45:47.730960",
     "title_original": "Contra Wirecutter on the IKEA air purifier",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884677"
+    "rewritten_at": "2026-06-20T08:47:04.852095"
   },
   {
     "id": "hn-18249755",
@@ -5864,10 +5887,10 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-06-20T02:39:20.211583",
+    "collected_at": "2026-06-20T08:45:47.730753",
     "title_original": "Paper Airplane Designs",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884681"
+    "rewritten_at": "2026-06-20T08:47:04.852099"
   },
   {
     "id": "hn-17022963",
@@ -5878,11 +5901,11 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "",
     "points": 1875,
-    "collected_at": "2026-06-20T02:39:20.211558",
+    "collected_at": "2026-06-20T08:45:47.730727",
     "title_original": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "summary_original": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884685"
+    "rewritten_at": "2026-06-20T08:47:04.852103"
   },
   {
     "id": "hn-15892066",
@@ -5893,11 +5916,11 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "",
     "points": 1535,
-    "collected_at": "2026-06-20T02:39:20.211751",
+    "collected_at": "2026-06-20T08:45:47.730923",
     "title_original": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "summary_original": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884691"
+    "rewritten_at": "2026-06-20T08:47:04.852108"
   },
   {
     "id": "hn-6830566",
@@ -5908,9 +5931,9 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-06-20T02:39:20.211854",
+    "collected_at": "2026-06-20T08:45:47.731025",
     "title_original": "Amazon Prime Air",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884695"
+    "rewritten_at": "2026-06-20T08:47:04.852112"
   }
 ]
