@@ -8497,5 +8497,37 @@
     "collected_at": "2026-05-26T02:32:18.544678",
     "display_priority": 263,
     "is_core": true
+  },
+  {
+    "id": "hf-OdaxAI--venice-h1",
+    "name": "OdaxAI/venice-h1",
+    "display_name": "venice-h1",
+    "url": "https://huggingface.co/OdaxAI/venice-h1",
+    "author": "OdaxAI",
+    "pipeline_tag": "image-segmentation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "pytorch",
+      "referring-image-segmentation",
+      "re-ranking",
+      "transformer",
+      "computer-vision",
+      "segmentation",
+      "post-hoc",
+      "failure-detection",
+      "image-segmentation",
+      "en",
+      "dataset:refcoco",
+      "dataset:refcocog",
+      "arxiv:2507.01738",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-06-21T13:38:24.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-06-21T13:53:12.110140",
+    "display_priority": 264,
+    "is_core": true
   }
 ]
