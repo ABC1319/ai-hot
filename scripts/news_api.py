@@ -161,7 +161,7 @@ def collect_api_news():
         item["published"] = normalize_published(item.get("published") or "")
 
     combined.sort(key=sort_key, reverse=True)
-    combined = combined[:500]
+    # 永久保留所有新闻，不再限制数量
 
     with open(news_path, "w", encoding="utf-8") as f:
         json.dump(combined, f, ensure_ascii=False, indent=2)

@@ -193,21 +193,15 @@ def generate_news_pages():
     news = json.loads(NEWS_JSON.read_text(encoding='utf-8'))
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
 
-    keep = {'_index.md'}
     generated = 0
     for index, item in enumerate(news):
         news_id = item.get('id') or slugify(item.get('title_zh') or item.get('title') or 'news')
         slug = item.get('slug') or news_id
         path = CONTENT_DIR / f'{slug}.md'
         path.write_text(build_page({**item, 'slug': slug}, list_page=(index // 10) + 1), encoding='utf-8')
-        keep.add(path.name)
         generated += 1
 
-    for path in CONTENT_DIR.glob('*.md'):
-        if path.name not in keep:
-            text = path.read_text(encoding='utf-8', errors='ignore')
-            if GENERATED_MARKER in text:
-                path.unlink()
+    # 永久保留所有新闻页面，不再删除
 
     return f'生成 {generated} 个站内新闻页'
 

@@ -128,20 +128,19 @@ def strip_html(text):
 
 def collect_rss_news():
     all_news = []
-    cutoff = datetime.now() - timedelta(days=3)  # 只保留3天内的
+    # 不再限制时间，永久保留所有新闻
     filtered_count = 0
 
     for source in RSS_SOURCES:
         try:
             feed = feedparser.parse(source["url"])
             count = 0
-            for entry in feed.entries[:20]:  # 增加到20条，因为要过滤
+            for entry in feed.entries[:30]:  # 每个源取30条
                 published = None
                 if hasattr(entry, "published_parsed") and entry.published_parsed:
                     published = datetime(*entry.published_parsed[:6])
 
-                if published and published < cutoff:
-                    continue
+                # 不再过滤时间，永久保留
 
                 title = strip_html(entry.get("title", ""))
                 if not title:
@@ -213,8 +212,7 @@ def collect_rss_news():
     ), reverse=False)
     combined.sort(key=lambda x: x.get("published") or "", reverse=True)
 
-    # 保留最近3天的
-    combined = combined[:300]
+    # 永久保留所有新闻，不再限制数量
 
     if recleaned_count > 0:
         print(f"  🧹 依据新规则额外清理 {recleaned_count} 条旧脏新闻")

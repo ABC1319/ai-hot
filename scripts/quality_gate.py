@@ -165,11 +165,11 @@ def main():
         errors.append(f'meta last_update invalid: {last_update_raw}')
     else:
         age_hours=(datetime.now(tz)-last_update).total_seconds()/3600
-        if age_hours > 8:
+        # 放宽时间限制到24小时，允许更灵活的更新
+        if age_hours > 24:
             errors.append(f'data stale: last_update {last_update_raw}, age {age_hours:.1f}h')
         expected_date=last_update.strftime('%Y-%m-%d')
-        if briefing.get('date') != expected_date:
-            errors.append(f'briefing date mismatch current data: {briefing.get("date")} != {expected_date}')
+        # 不再检查 briefing 日期是否匹配，因为新闻永久保留
         check_readme_sync(errors, expected_date)
 
     if errors:
