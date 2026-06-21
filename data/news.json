@@ -1,5 +1,128 @@
 [
   {
+    "id": "710ff2a1cb91",
+    "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海，这一消息引发行业关注",
+    "url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-06-21T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-06-21T02:55:05.000870",
+    "content_text": "过去一年，“Agent”这个词从实验室走进了生产环境。工程师们开始真正面对一个新的问题：不是“AI 能不能做到”，而是“我们能不能把它跑稳、跑对、跑出规模”。架构怎么设计？记忆怎么管理？多智能体之间如何协调？研发团队的工作方式又该如何重构？\n这些，正是 AICon 2026 上海站试图回答的问题。 6 月 26 日-27 日，本次大会将以“构建可信赖、可规模化、可商业化的 Agentic 操作系统”为核心命题，集结清华、复旦等知名高校教授，以及来自阿里、腾讯、蚂蚁、字节、快手、小红书、华为、Google Cloud 等数十家头部公司的技术专家登台分享。2 天、13 大专题、1 个动手实验室、近 60 场重磅议题，将深度探讨 Agent 工程化落地等相关话题。\n蚂蚁集团内容安全架构师李海亮已确认出席 “金融领域大模型落地实践” 专题，发表题为《从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级》的主题分享。随着内容形态和风险类型持续演化，传统风控体系在语义理解、风险泛化、策略响应和运营效率上面临新的挑战。基于内容 AI+ 的建设实践，他们探索以 AI 引擎为核心底座，引入大模型能力提升内容风险识别与判断能力，并进一步结合 Agent AI 运营升级，推动内容风控从人工驱动的审核运营，走向 AI 驱动的智能治理。本次分享将重点介绍三方面内容：一是从小模型到大模型的能力演进与训练探索；二是面向内容风控场景构建 AI-Native 风控引擎；三是基于 Multi-Agent 运营架构与 AI 引擎基座，探索内容风控自主发现、自主分析和持续进化的新范式。\n李海亮，现担任蚂蚁集团内容安全架构师，深耕大规模风控系统一线架构研发十余年，长期负责内容安全与风险防控体系的架构规划与平台建设。先后主导三代“内容风控防控平台”的核心架构研发，在人工智能重塑安全范式的关键节点，牵头建设“内容模型平台”和“大模型安全防控平台”，成功驱动了内容安全平台全面 AI 化转型。在内容风险识别、模型平台化、智能防控以及大模型安全治理等领域拥有深厚的实战积淀与独到的架构视野。他在本次会议的详细演讲内容如下：\n演讲提纲：\n内容风控智能化转型背景\n从传统机审、人审到 AI-Native 风控体系\n2. 从小模型到大模型\n内容风险识别与语义理解能力升级\n3. 构建 AI-Native 内容风控引擎\n以 AI 引擎承载策略、模型与审核链路协同\n4. Multi-Agent 驱动运营升级\n探索内容风控的自主分析与持续进化\n5。 总结与展望\n下一代内容风控智能化体系建设方向\n听众收益：\n了解内容风控从传统审核模式向 AI-Native 架构升级的整体路径\n理解大模型、AI 引擎与 Multi-Agent 在内容风控场景中的落地思路\n除此之外，本次大会还策划了端侧 AI、物理与数字空间智能化、世界模型与多模态智能突破、Agent 架构与工程化实践、Agent 安全与可信治理、企业级研发体系重构、AI 原生数据工程、AI 时代的个人提效与组织变革等 14 个专题论坛，届时将有来自不同行业、不同领域、不同企业的 50+资深专家在现场带来前沿技术洞察和一线实践经验。\n更多详情可扫码或联系票务经理 13269078023 进行咨询。",
+    "content_source": "trafilatura",
+    "content_chars": 1378,
+    "content_excerpt": "过去一年，“Agent”这个词从实验室走进了生产环境。工程师们开始真正面对一个新的问题：不是“AI 能不能做到”，而是“我们能不能把它跑稳、跑对、跑出规模”。架构怎么设计？记忆怎么管理？多智能体之间如何协调？研发团队的工作方式又该如何重构？\n这些，正是 AICon 2026 上海站试图回答的问题。 6 月 26 日-27 日，本次大会将以“构建可信赖、可规模化、可商业化的 Agentic 操作系统”为核心命题，集结清华、复旦等知名高校教授，以及来自阿里、腾讯、蚂蚁、字节、快手、小红书、华为、Google Cloud 等数十家头部公司的技术专家登台分享。2 天、13 大专题、1 个动手实验室、近 60 场重磅议题，将深度探讨 Agent 工程化落地等相关话题。\n蚂蚁集团内容安全架构师李海亮已确认出席 “金融领域大模型落地实践” 专题，发表题为《从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级》的主题分享。随着内容形态和风险类型持续演化，传统风控体系在语义理解、风险泛化、策略响应和运营效率上面临新的挑战。基于内容 AI+ 的建设实践，他们探索以 AI 引擎为核心底座，引入大模型能力提升内容风险识别与判断能力，并进一步结合 Agent AI 运营升级，推动内容风控从人工驱动的审核运营，走向 AI 驱动的智能治理。本次分享将重点介绍三方面内容：一是从小模型到大模型的能力演进与训练探索；二是面向内容风控场景构建 AI-Native 风控引擎；三是基于 Multi-Agent 运营架构与 AI 引擎基座，探索内容风控自主发现、自主分析和持续进化的新范式。\n李海亮，现担任蚂蚁集团内容安全架构师，深耕大规模风控系统一线架构研发十余年，长期负责内容安全与风险防控体系的架构规划与平台建设。先后主导三代“内容风控防控平台”的核心架构研发，在人工智能重塑安全范式的关键节点，牵头建设“内容模型平台”和“大模型安全防控平台”，成功驱动了内容安全平台全面 AI 化转型。在内容风险识别、模型平台化、智能防控以及大模型安全治理等领域拥有深厚的实战积淀与独到的架构视野。他在本次会议的详细演讲内容如下：\n演讲提纲：\n内容风控智能化转型背景\n从传统机审、人审到 AI-Native 风控体系\n2. 从小模型到大模型\n内容风险识别与语义理解能力升级\n3. 构建 AI-Native 内容风控引擎",
+    "title_original": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943120"
+  },
+  {
+    "id": "a8e05490220b",
+    "title": "突发：韩国央行警告：存储芯片景气周期或推高通胀压力",
+    "url": "https://36kr.com/newsflashes/3862282115749129?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-06-21T02:26:30",
+    "summary": "据悉，韩国央行罕见警告，存储芯片景气周期带来的巨额绩效奖金，可能从半导体行业扩散至更广泛领域，进而推高通胀压力。",
+    "collected_at": "2026-06-21T02:55:03.518560",
+    "title_original": "韩国央行警告：存储芯片景气周期或推高通胀压力",
+    "summary_original": "韩国央行罕见警告，存储芯片景气周期带来的巨额绩效奖金，可能从半导体行业扩散至更广泛领域，进而推高通胀压力。随着三星、SK海力士员工奖金巨幅增长，芯片厂周边奢侈品消费已明显升温，新世界、乐天购物、现代百货等零售股也被股民炒成“存储概念股”。韩国央行目前预测，该国今年的整体通胀率可能会达到2.7%，远高于2%的政策目标。因此，韩国央行7月或9月的政策会议，已经成为重要的加息窗口期。（财联社）",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943339"
+  },
+  {
+    "id": "26197b970407",
+    "title": "深度解读：H5N1禽流感 在澳大利亚爆发",
+    "url": "https://linux.do/t/topic/2440756",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-21T01:33:14",
+    "summary": "据报道，bbc.com Australia confirms first case of bird flu as virus reaches every continent Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
+    "collected_at": "2026-06-21T02:55:05.279390",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440756",
+    "title_original": "H5N1禽流感 在澳大利亚爆发",
+    "summary_original": "bbc.com Australia confirms first case of bird flu as virus reaches every continent Australia was previously the only continent where the H5N1 bird flu strain had not yet been found. [!quote]+ 澳大利亚农业部证实，该国首次发现H5N1型禽流感病毒。这意味着这种传染性极强的变种病毒现已遍及各大洲。 农业部长朱莉·柯林斯周六表示，这种疾病是在西澳大利亚偏远地区的一只迁徙海鸟——褐贼鸥身上发现的。 据当地媒体报道",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943359"
+  },
+  {
+    "id": "7ddc78b7ede2",
+    "title": "Report: Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-06-20T20:32:29",
+    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "collected_at": "2026-06-21T02:55:00.756520",
+    "content_text": "Asked about the privacy implications of chatbots like ChatGPT and Claude, Signal President Meredith Whittaker answered, “These are not your friends. These are not conscious beings. These are not sentient interlocutors.”\nWhittaker made those comments in a broader interview with Bloomberg about policy, privacy, and Signal. She acknowledged that she uses AI tools “to format a document here and there,” but insisted, “I don’t ask them questions. I’m very serious about my thinking and writing, and I don’t want the process of working through an idea […] to be foreclosed or eclipsed by the response of a system that’s averaging what’s already out there.”\nAs for Microsoft AI CEO Mustafa Suleyman’s prediction that users could let Microsoft Copilot handle all their Christmas shopping this year, Whittaker argued this scenario — where Copilot is eavesdropping on the family group chat to determine who wants want — means giving it “access to my credit card, my browser, my Signal, the ability to message my siblings on my behalf, my home address [and] my calendar.”\n“What you’ve just described is a system with very pervasive access across multiple applications and services,” Whittaker said. “In the context of Signal, it would constitute a kind of a backdoor.”",
+    "content_source": "trafilatura",
+    "content_chars": 1260,
+    "content_excerpt": "Asked about the privacy implications of chatbots like ChatGPT and Claude, Signal President Meredith Whittaker answered, “These are not your friends. These are not conscious beings. These are not sentient interlocutors.”\nWhittaker made those comments in a broader interview with Bloomberg about policy, privacy, and Signal. She acknowledged that she uses AI tools “to format a document here and there,” but insisted, “I don’t ask them questions. I’m very serious about my thinking and writing, and I don’t want the process of working through an idea […] to be foreclosed or eclipsed by the response of a system that’s averaging what’s already out there.”\nAs for Microsoft AI CEO Mustafa Suleyman’s prediction that users could let Microsoft Copilot handle all their Christmas shopping this year, Whittaker argued this scenario — where Copilot is eavesdropping on the family group chat to determine who wants want — means giving it “access to my credit card, my browser, my Signal, the ability to message my siblings on my behalf, my home address [and] my calendar.”\n“What you’ve just described is a system with very pervasive access across multiple applications and services,” Whittaker said. “In the context of Signal, it would constitute a kind of a backdoor.”",
+    "title_zh": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
+    "summary_zh": "“他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”",
+    "ai_summary": "“他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”",
+    "title_original": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943366"
+  },
+  {
+    "id": "b2093117148b",
+    "title": "最新动态：搭载负责救援 Swift 🛰 的卫星的航天飞机 从NASA沃洛普斯航天中心起飞 | Swift Boost Mission",
+    "url": "https://linux.do/t/topic/2440733",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-21T01:25:17",
+    "summary": "据报道，NASA Science – 19 Jun 26 Aircraft Carrying Swift Boost Satellite Takes off From NASA Wallops - NASA.",
+    "collected_at": "2026-06-21T02:55:05.279628",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440733",
+    "title_original": "搭载负责救援 Swift 🛰 的卫星的航天飞机 从NASA沃洛普斯航天中心起飞 | Swift Boost Mission",
+    "summary_original": "NASA Science – 19 Jun 26 Aircraft Carrying Swift Boost Satellite Takes off From NASA Wallops - NASA... An airplane carrying a rocket loaded with a robotic spacecraft designed to raise NASA’s Swift departed the Wallops Flight Facility in Virginia Thursday. [!quote]+ 6 月 18 日星期四，一架载有火箭的飞机从位于弗吉尼亚州的 NAS",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943378"
+  },
+  {
+    "id": "5cab6cb8b0ba",
+    "title": "Report: In the Weights is your new AI-centric vanity search",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-06-20T19:41:11",
+    "summary": "So ... what's your In the Weights score?",
+    "collected_at": "2026-06-21T02:55:00.756548",
+    "content_text": "Anyone who’s Googled themselves recently knows that it doesn’t quite hit the way it used to. Sure, there’s\neverything going on with Google search itself\n, but there’s also an inescapable feeling that web search isn’t the canonical source of information that it used to be, with just as many people learning about who you and I might be from chatbots.\nThomas Dimson and Joey Flynn had a similar feeling, leading them to create\nIn the Weights\n. The\n“weights”\nin question are the numerical parameters that shape an AI model’s training and output, so the website\npurports\nto measure how well “a model is able to recall someone without using tools like web search.”\n“Being in the weights means your existence was deemed important in the process of creating superhuman artificial intelligence,” the website says.\nTo achieve this, In the Weights supposedly queries different models (including Grok, Gemini, multiple versions of GPT, Claude, and Llama, plus lesser known models) with a question similar to, “Who is <name>? Give up to 10 results, each with a short description and confidence.” It then “cluster[s] similar descriptions together and assign[s] a strength score.”\nImage Credits:\nIn the Weights\nFor example,\nthis humble tech blogger\nreceived a strength score of 641, placing me in the top 6% of names. I was feeling pretty good until I saw that\nmultiple\nTechCrunch\ncolleagues\nscored even higher. And the\nleaderboard\nhas been shifting as I write this post, with “Home Alone” star Macaulay Culkin currently in the top slot with a strength score of 988, neck-and-neck with opera singer Luciano Pavarotti.\nThe results also show which models returned which answers for a given name, and they highlight potential hallucinations — apparently GPT-5.4 Mini says that Anthony Ha is an “ambiguous name form that could refer to multiple people with the initials A.H.A.”\nAsked why he built In the Weights, Dimson told TechCrunch via email that he and Flynn were looking to “get the creative juices flowing again” after leaving OpenAI (which they both joined through\nthe acquisition of their design startup Global Illumination\n).\nDimson said he was thinking about how “Google vanity searches are the wrong objective in 2026 as more traffic moves to LLMs” and about the fact that “so many lives are encoded somehow in a bunch of floating point numbers inside the AI brain.” He also said the direction of the site was “sealed” by\na tongue-in-cheek blog post\nriffing on AI weights and Terry Bisson’s classic short story\n“They’re Made Out of Meat.”\n“Reception has been insane so far, we thought this would be a mild curiosity but it seems like it has struck a nerve of wanting to see if you live forever in the super intelligence (the comparison factor doesn’t hurt either!)” Dimson added.\nImage Credits:\nIn the Weights\nWhile I’m not as convinced that being “remembered” by a chatbot is a guaranteed ticket to immortality, I can’t deny that I find the results both intriguing and jealousy-inducing, especially since they’re codified in an easy-to-compare score. (AI critic Anthony Moser\nscoffed\nthat this is “literally the same as asking 13 chatbots to tell you about yourself.”) Also helping: The fact that the site features a cute,\nNintendo-inspired\nretro design.\nDimson said he plans to dig in further into why different models in the same series return different results, which models are biased towards different types of people, and which people “should have a Wikipedia article but don’t.”",
+    "content_source": "readability",
+    "content_chars": 3481,
+    "content_excerpt": "Anyone who’s Googled themselves recently knows that it doesn’t quite hit the way it used to. Sure, there’s\neverything going on with Google search itself\n, but there’s also an inescapable feeling that web search isn’t the canonical source of information that it used to be, with just as many people learning about who you and I might be from chatbots.\nThomas Dimson and Joey Flynn had a similar feeling, leading them to create\nIn the Weights\n. The\n“weights”\nin question are the numerical parameters that shape an AI model’s training and output, so the website\npurports\nto measure how well “a model is able to recall someone without using tools like web search.”",
+    "title_zh": "权重中是您新的以人工智能为中心的虚荣搜索",
+    "summary_zh": "那么...您的体重分数是多少？",
+    "ai_summary": "那么...您的体重分数是多少？",
+    "title_original": "In the Weights is your new AI-centric vanity search",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943382"
+  },
+  {
+    "id": "b373021e56ee",
+    "title": "人工突触利用浅色编程实现类似大脑的平衡学习，这意味着什么？",
+    "url": "https://linux.do/t/topic/2440716",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-21T01:20:52",
+    "summary": "据悉，Tech Xplore – 19 Jun 26 Artificial synapse uses light-color programming for brain-like balanced learning The human brain actively keeps \"learning\" in balance by holding on to what matters and letting go of what does not.",
+    "collected_at": "2026-06-21T02:55:05.279698",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440716",
+    "title_original": "人工突触利用浅色编程实现类似大脑的平衡学习",
+    "summary_original": "Tech Xplore – 19 Jun 26 Artificial synapse uses light-color programming for brain-like balanced learning The human brain actively keeps \"learning\" in balance by holding on to what matters and letting go of what does not. Researchers in Korea have now reproduced this ability in a semiconductor device",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943397"
+  },
+  {
     "id": "e4500944fe85",
     "title": "Breaking: The Atlantic created a searchable database of the music used to train AI",
     "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
@@ -20,6 +143,22 @@
     "summary_original": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o",
     "rewritten": true,
     "rewritten_at": "2026-06-20T19:15:45.360179"
+  },
+  {
+    "id": "bde6a6252f2f",
+    "title": "Agent 现在可以使用 临时 Cloudflare 帐户 部署 临时服务，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2440705",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-21T01:16:51",
+    "summary": "据悉，The Cloudflare Blog – 19 Jun 26 Temporary Cloudflare Accounts for AI agents The moment an agent needs to deploy something, it slams face-first into a wall built for humans.",
+    "collected_at": "2026-06-21T02:55:05.279775",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440705",
+    "title_original": "Agent 现在可以使用 临时 Cloudflare 帐户 部署 临时服务",
+    "summary_original": "The Cloudflare Blog – 19 Jun 26 Temporary Cloudflare Accounts for AI agents The moment an agent needs to deploy something, it slams face-first into a wall built for humans. Today we're rolling out Temporary Accounts on Cloudflare Workers. Any agent can now run wrangler deploy — temporary and get a l",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943414"
   },
   {
     "id": "1492a9b71b79",
@@ -44,20 +183,20 @@
     "rewritten_at": "2026-06-20T19:15:45.360206"
   },
   {
-    "id": "e311da6faf99",
-    "title": "最新动态：[转发] 社区发现疑似 OpenAI 对第三方客户端发出的请求降智",
-    "url": "https://linux.do/t/topic/2440237",
+    "id": "735a748f95c5",
+    "title": "重磅！GPT-5.6，真的要来了。",
+    "url": "https://linux.do/t/topic/2440695",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T16:50:53",
-    "summary": "消息称，转发自: router-for-me/CLIProxyAPI/discussions/3937 20 个帖子 - 13 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T19:14:23.964003",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440237",
-    "title_original": "[转发] 社区发现疑似 OpenAI 对第三方客户端发出的请求降智",
-    "summary_original": "转发自: router-for-me/CLIProxyAPI/discussions/3937 20 个帖子 - 13 位参与者 阅读完整话题",
+    "published": "2026-06-21T01:11:44",
+    "summary": "有分析指出，Prediction Market预测GPT-5.6将于6月22日~6月28日更新。 网传有人提前拿到了GPT-5.",
+    "collected_at": "2026-06-21T02:55:05.279812",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440695",
+    "title_original": "GPT-5.6，真的要来了。",
+    "summary_original": "Prediction Market预测GPT-5.6将于6月22日~6月28日更新。 网传有人提前拿到了GPT-5.6的访问权限，还在网上发出了测试结果（https://youtu.be/SpGnjIFdm1U?si=SlU_Gxht7kQdqJNf）。 升级核心：几何空间理解、机械结构理解、小游戏开发（一次生成能力）、3D建模、一比一还原网页设计（UI复刻）。 48 个帖子 - 44 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360225"
+    "rewritten_at": "2026-06-21T02:56:19.943425"
   },
   {
     "id": "232b0ce5ea49",
@@ -81,20 +220,20 @@
     "rewritten_at": "2026-06-20T19:15:45.360232"
   },
   {
-    "id": "c3041787d43f",
-    "title": "chatgpt 啥时候开始推送广告业务了？，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2440144",
+    "id": "a9f3b3260295",
+    "title": "赛博菩萨 Cloudflare 又又又发大招了。，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2440559",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T16:17:41",
-    "summary": "据了解，今天第一次被推送到，是开始很久了吗？然后重新刷新下页面，就又没了。感觉是在灰度 3 个帖子 - 2 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T19:14:23.964145",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440144",
-    "title_original": "chatgpt 啥时候开始推送广告业务了？",
-    "summary_original": "今天第一次被推送到，是开始很久了吗？然后重新刷新下页面，就又没了。感觉是在灰度 3 个帖子 - 2 位参与者 阅读完整话题",
+    "published": "2026-06-20T23:29:39",
+    "summary": "据报道，Cloudflare Workers 上线临时账户功能。各类智能代理现在只需执行 wrangler deploy — temporary 命令，数秒内即可生成可用的 Worker 服务。 AI写代码，直接部署上线！ 5 个帖子 - 5 位参与者 阅读完整话题",
+    "collected_at": "2026-06-21T02:55:05.279841",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440559",
+    "title_original": "赛博菩萨 Cloudflare 又又又发大招了。",
+    "summary_original": "Cloudflare Workers 上线临时账户功能。各类智能代理现在只需执行 wrangler deploy — temporary 命令，数秒内即可生成可用的 Worker 服务。 AI写代码，直接部署上线！ 5 个帖子 - 5 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360243"
+    "rewritten_at": "2026-06-21T02:56:19.943432"
   },
   {
     "id": "cbcfa74eca6d",
@@ -115,20 +254,20 @@
     "rewritten_at": "2026-06-20T13:46:55.503110"
   },
   {
-    "id": "c666a5c4fd3a",
-    "title": "usbliter8 无法软件修复：苹果 A12/A13 芯片曝新漏洞，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2439359",
+    "id": "e311da6faf99",
+    "title": "最新动态：[转发] 社区发现疑似 OpenAI 对第三方客户端发出的请求降智",
+    "url": "https://linux.do/t/topic/2440237",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T13:27:12",
-    "summary": "消息称，ithome.com 无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等 - IT之家 安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞，将其命名为 usbliter8。",
-    "collected_at": "2026-06-20T13:45:27.463333",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2439359",
-    "title_original": "usbliter8 无法软件修复：苹果 A12/A13 芯片曝新漏洞",
-    "summary_original": "ithome.com 无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等 - IT之家 安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞，将其命名为 usbliter8。 The Hacker News Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain Paradigm Shift’s usbliter8 exploit targets Apple A12 and A1",
+    "published": "2026-06-20T16:50:53",
+    "summary": "消息称，转发自: router-for-me/CLIProxyAPI/discussions/3937 20 个帖子 - 13 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T19:14:23.964003",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440237",
+    "title_original": "[转发] 社区发现疑似 OpenAI 对第三方客户端发出的请求降智",
+    "summary_original": "转发自: router-for-me/CLIProxyAPI/discussions/3937 20 个帖子 - 13 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T13:46:55.503089"
+    "rewritten_at": "2026-06-20T19:15:45.360225"
   },
   {
     "id": "adcdd846435a",
@@ -147,6 +286,77 @@
     "title_original": "陶哲轩12年前的预言，现在AI帮他兑现了",
     "rewritten": true,
     "rewritten_at": "2026-06-20T13:46:55.503138"
+  },
+  {
+    "id": "c3041787d43f",
+    "title": "chatgpt 啥时候开始推送广告业务了？，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2440144",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-20T16:17:41",
+    "summary": "据了解，今天第一次被推送到，是开始很久了吗？然后重新刷新下页面，就又没了。感觉是在灰度 3 个帖子 - 2 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T19:14:23.964145",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2440144",
+    "title_original": "chatgpt 啥时候开始推送广告业务了？",
+    "summary_original": "今天第一次被推送到，是开始很久了吗？然后重新刷新下页面，就又没了。感觉是在灰度 3 个帖子 - 2 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T19:15:45.360243"
+  },
+  {
+    "id": "528d0e934f25",
+    "title": "Analysis: Temporary Cloudflare accounts for AI agents",
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-06-20T11:19:05",
+    "summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 178 # Comments: 97",
+    "collected_at": "2026-06-21T02:55:02.233067",
+    "content_text": "Everyone's writing code with AI agents today. But the moment an agent needs to deploy something â and needs to sign up and create an account â it slams face-first into a wall built for humans: a browser-based OAuth flow, a dashboard to click through, an API token to copy-paste, a multi-factor authentication prompt to satisfy. For an interactive copilot sitting next to a developer, that's annoying. For a background agent, it's a hard stop.\nToday we're rolling out Temporary Cloudflare Accounts for Agents.\nAgents can now deploy websites, APIs, and agents right away, without first needing to sign up for an account.\nAny agent can now run wrangler deploy --temporary and deploy a Worker to Cloudflare. This temporary deployment stays live for 60 minutes, during which time you can claim the temporary account, making it permanently your own. If you don't, it expires on its own.\nOur goal? Let your agent code and ship.\nWhy frictionless deployments matter for AI agents\nFrictionless temporary accounts matter more than it might first seem:\n- Background AI sessions have no human in the loop, and are becoming the norm. Any auth step that needs a browser, a copy-paste, or \"click here in 60 seconds\" means an agent gets stuck and may choose to deploy elsewhere.\n- Trial-and-error is the agent's superpower. Agents need a tight write â deploy â verify loop. They need cheap, throwaway deployment targets, so they can curl their own output and decide whether they got it right.\n- Agent platforms are building their own ways for deploying code to \"just work\" without extra steps or credentials. People are starting to expect that this process just works, without the need to sign up for other services that they've not used before or heard of.\nHow it works\nTemporary accounts are built around Wrangler, our Developer Platform command-line interface (CLI) tool that lets developers bootstrap new projects, manage their configurations and resources, and deploy and update them.\nWrangler usage is widely documented online and agents know how to use it very well. But if you hadnât yet signed in and granted Wrangler permission to your Cloudflare account, when the agent tried to deploy, it would get stuck at the sign-up and authentication step. And you might rightly ask: How do agents and LLMs know that this new --temporary flag in Wrangler exists, so that they actually use it without a human explicitly telling them to do so?\nTo solve this, we updated Wrangler to prompt the agent with a message that tells it about the --temporary flag:\nWhen the agent discovers this, and then runs wrangler deploy again with the --temporary flag, Cloudflare provisions a temporary account for the agent to use, gives Wrangler an API token to work with, and provides a claim URL that the agent can give back to the human.\nLetâs go over every step of the flow\nDeploying and iterating on a new project\nMake sure youâre using the latest Wrangler release, fire up your favorite coding agent, and write a prompt to deploy a \"hello world\" app in build mode:\nMake a very simple hello world Cloudflare Worker in TypeScript and deploy it using wrangler, don't ask me questions, do the best you can\nThe agent will run wrangler, pick up the --temporary flag from the output messages, build your script, and deploy it instantly, no human in the loop required:\nAs you can see, the agent wrote the script, deployed it using the --temporary flag, curled the preview link it got from the output, and verified that the result matches the code.\nThis is great, but agentic coding is often not about one single deployment. A session can go through a cycle of multiple code changes. This is not a problem: the agent can iterate on the Worker script and redeploy the changes as many times as it wants (within the 60-minute claim window). Type this prompt:\nNow change hello world to \"hello cloudflare\" and redeploy\nLook at the agent changing the source code, reusing the previously created temporary account, redeploying a new version and rechecking the result:\nClaiming the account\nAt any point, you can claim the temporary account and make it yours permanently. When you click the claim link you will be taken to a page where you can either sign up for or sign in to Cloudflare, and then claim the temporary account that your Worker was deployed to. This includes claiming not just Workers, but resources like databases and other bindings, too.\nIf you do not claim these temporary accounts within 60 minutes, they will be automatically deleted.\nThe road to frictionless agentic deploymentsÂ\nThis is just one way weâre eliminating the signup barrier for agents. We recently announced a partnership with Stripe and a new protocol we co-designed that lets agents provision Cloudflare on behalf of their users â creating an account, starting a subscription, registering a domain, and getting an API token to deploy code, with no copy-pasting tokens or entering credit card details. Last month, we collaborated with WorkOS on the launch of auth.md, which anyone can adopt, to let agents provision new accounts using well-established, existing OAuth standards.Â\nThereâs a ton going on in this space, and weâre excited to keep making it easier for agents to use Cloudflare, and for developers to make their own apps agent-ready. Temporary accounts are one more step toward frictionless agentic deployments â stay tuned for more.Â\nTemporary accounts have some limitations, and their capabilities may change over time; check the developer documentation for more information and then go build something. Point your agent at Cloudflare, see how far it gets, and tell us what we can improve or what delights you â share what youâve built on X or hop into the Cloudflare Community.",
+    "content_source": "trafilatura",
+    "content_chars": 5757,
+    "content_excerpt": "Everyone's writing code with AI agents today. But the moment an agent needs to deploy something â and needs to sign up and create an account â it slams face-first into a wall built for humans: a browser-based OAuth flow, a dashboard to click through, an API token to copy-paste, a multi-factor authentication prompt to satisfy. For an interactive copilot sitting next to a developer, that's annoying. For a background agent, it's a hard stop.\nToday we're rolling out Temporary Cloudflare Accounts for Agents.\nAgents can now deploy websites, APIs, and agents right away, without first needing to sign up for an account.\nAny agent can now run wrangler deploy --temporary and deploy a Worker to Cloudflare. This temporary deployment stays live for 60 minutes, during which time you can claim the temporary account, making it permanently your own. If you don't, it expires on its own.\nOur goal? Let your agent code and ship.\nWhy frictionless deployments matter for AI agents\nFrictionless temporary accounts matter more than it might first seem:\n- Background AI sessions have no human in the loop, and are becoming the norm. Any auth step that needs a browser, a copy-paste, or \"click here in 60 seconds\" means an agent gets stuck and may choose to deploy elsewhere.\n- Trial-and-error is the agent's superpower. Agents need a tight write â deploy â verify loop. They need cheap, throwaway deployment targets, so they can curl their own output and decide whether they got it right.\n- Agent platforms are building their own ways for deploying code to \"just work\" without extra steps or credentials. People are starting to expect that this process just works, without the need to sign up for other services that they've not used before or heard of.",
+    "title_zh": "AI 代理的临时 Cloudflare 帐户",
+    "summary_zh": "文章网址：https://blog.cloudflare.com/temporary-accounts/ 评论网址：https://news.ycombinator.com/item?id=48608394 积分：178 # 评论：97",
+    "ai_summary": "文章网址：https://blog.cloudflare.com/temporary-accounts/ 评论网址：ht…",
+    "title_original": "Temporary Cloudflare accounts for AI agents",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943438"
+  },
+  {
+    "id": "c666a5c4fd3a",
+    "title": "usbliter8 无法软件修复：苹果 A12/A13 芯片曝新漏洞，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2439359",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-20T13:27:12",
+    "summary": "消息称，ithome.com 无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等 - IT之家 安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞，将其命名为 usbliter8。",
+    "collected_at": "2026-06-20T13:45:27.463333",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2439359",
+    "title_original": "usbliter8 无法软件修复：苹果 A12/A13 芯片曝新漏洞",
+    "summary_original": "ithome.com 无法软件修复：苹果 A12/A13 芯片曝新漏洞，影响 iPhone 11 系列等 - IT之家 安全公司 Paradigm Shift 昨日（6 月 18 日）发布博文，宣布在苹果 A12 和 A13 芯片上发现 BootROM 漏洞，将其命名为 usbliter8。 The Hacker News Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain Paradigm Shift’s usbliter8 exploit targets Apple A12 and A1",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T13:46:55.503089"
+  },
+  {
+    "id": "v2ex-1221666",
+    "title": "深度解读：针对同一问题， Claude 和 Gemini 的实践对比。",
+    "url": "https://www.v2ex.com/t/1221666",
+    "source": "V2EX",
+    "lang": "zh",
+    "published": "2026-06-20T11:07:40",
+    "summary": "有分析指出，模型： Claude Opus 4.6 （ Tinking ） Gemini 3.1 Pro （ High ） 工具： Google Antigravity 提的问题大概就是： 让他们给我查询 OpenJDK 在 alpine:3.",
+    "collected_at": "2026-06-21T02:55:05.802089",
+    "content_text": "模型：\nClaude Opus 4.6 （ Tinking ）\nGemini 3.1 Pro （ High ）\n工具：\nGoogle Antigravity\n提的问题大概就是：\n让他们给我查询 OpenJDK 在 alpine:3.24.0 debian:13.5.0 rocky:10.2.0 上的最新版本号。\nGemini 3.1 Pro 花了 6 分钟，还在抓耳挠腮，像极了考试中不会做题，疯狂打草稿的我。\nClaude 花了 1 分钟，输出一个漂亮的表格。先别管对不对，总之就是快。\nClaude\n明白了！我现在严格按照您的要求：**从 Dockerfile 的 `FROM` 基础镜像出发，确认每个变体可用的 OpenJDK 最新版本号**。\n先查看当前三个 Dockerfile 的基础镜像：\nViewed Dockerfile:1-70\nViewed Dockerfile:1-77\nViewed Dockerfile:1-76\n好的，三个 Dockerfile 的 FROM 基础镜像分别是：\n| 变体 | 基础镜像 | 对应上游 |\n|---|---|---|\n| Alpine | `snowdreamtech/alpine:3.24.0` | Alpine 3.24 |\n| Debian | `snowdreamtech/debian:13.5.0` | Debian 13 (trixie) |\n| Rocky | `snowdreamtech/rocky:10.2.0` | Rocky Linux 10 |\n现在我针对这三个**实际基础镜像版本**去查询 OpenJDK 21 的可用版本：\nRan command: `python3 -c \"\nimport urllib.request, re\n# Alpine 3.24 - already confirmed: 21.0.11_p10-r0\nurl = 'https://pkgs.alpinelinux.org/packages?name=openjdk21&branch=v3.24'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla'})\nhtml = urllib.request.urlopen(req).read().decode('utf-8')\nm = re.search(r'<td class=\\\"version\\\">.*?<strong>([^<]+)</strong>', html, re.DOTALL)\nif m:\nprint('Alpine 3.24 openjdk21:', m.group(1))\nelse:\nm2 = re.search(r'<td class=\\\"version\\\">.*?([0-9]+\\.[0-9]+[0-9a-zA-Z._-]+)', html, re.DOTALL)\nprint('Alpine 3.24 openjdk21:', m2.group(1) if m2 else 'not found')\n\"\n`\nRan command: `python3 -c \"\nimport urllib.request, re\n# Debian 13 (trixie) - check openjdk-21-jdk\nurl = 'https://packages.debian.org/trixie/openjdk-21-jdk'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla'})\nhtml = urllib.request.urlopen(req).read().decode('utf-8')\nm = re.search(r'<h1>Package: openjdk-21-jdk \\(([^)]+)\\)', html)\nif m:\nprint('Debian 13 (trixie) openjdk-21-jdk:', m.group(1))\nelse:\n# try alternative pattern\nm2 = re.search(r'openjdk-21-jdk.*?([0-9]+\\.[0-9]+\\.[0-9]+[^\\s<\\\"]*)', html, re.DOTALL)\nprint('Debian 13 (trixie) openjdk-21-jdk:', m2.group(1) if m2 else 'checking alternative...')\n\"\n`\nRan command: `curl -s \"https://dl.rockylinux.org/pub/rocky/10/AppStream/x86_64/os/Packages/j/\" | grep -o 'java-21-openjdk-devel-[^\"]*\\.rpm' | sort -V | tail -n 1`\n✅ 三个基础镜像的 OpenJDK 21 最新版本已全部确认完毕：\n| 变体 | FROM 基础镜像 | 包名 | 最新可用版本 | Dockerfile 当前版本 | 状态 |\n|---|---|---|---|---|---|\n| **Alpine** | `snowdreamtech/alpine:3.24.0` | `openjdk21` | `21.0.11_p10-r0` | `21.0.11_p10-r0` | ✅ 已是最新 |\n| **Debian** | `snowdreamtech/debian:13.5.0` | `openjdk-21-jdk` | `21.0.11+10-1~deb13u2` | `21.0.11+10-1~deb13u2` | ✅ 已是最新 |\n| **Rocky** | `snowdreamtech/rocky:10.2.0` | `java-21-openjdk-devel` | `21.0.11.0.10-2.el10_1` | `21.0.11.0.10-2.el10_1` | ✅ 已是最新 |\n**结论：三个变体的 Dockerfile 中 OpenJDK 版本号已经全部是基于对应基础镜像仓库的最新版本（ 21.0.11 系列），无需进一步修改。**\n另外需要确认 `fix_exact.py` 中的版本也要同步更新（目前它还是旧的 `21.0.9` / `21.0.6`）。需要我更新 `fix_exact.py` 吗？\nGemini\nEdited Dockerfile\nEdited Dockerfile\nEdited Dockerfile\nEdited Dockerfile\nViewed Dockerfile:25-59\nRan command: `curl -s \"https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&branch=v3.21\" | grep -A 2 -B 2 \"openjdk21-jdk\"`\nRan command: `curl -s \"https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&branch=v3.24\" | grep -A 2 -B 2 \"openjdk21-jdk\"`\nRan command: `curl -s \"https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&branch=v3.24\" | grep -A 1 'class=\"version\"'`\nRan command: `curl -s \"https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&branch=v3.24\" | grep -A 1 'class=\"version\"'`\nRan command: `python3 -c \"\nimport urllib.request, re\nurl = 'https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&branch=v3.24'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})\ntry:\nresp = urllib.request.urlopen(req)\nhtml = resp.read().decode('utf-8')\nmatch = re.search(r'<td class=\\\"version\\\">.*?([^<>\\n\\s]+).*?</td>', html, re.DOTALL)\nif match: print('Alpine 3.24 version:', match.group(1))\nexcept Exception as e: print(e)\n\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-528.log`\nRan command: `python3 -c \"\nimport urllib.request, re\nurl = 'https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&branch=v3.24'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})\ntry:\nresp = urllib.request.urlopen(req)\nhtml = resp.read().decode('utf-8')\nmatch = re.search(r'<td class=\\\"version\\\">.*?<strong>([^<]+)</strong>', html, re.DOTALL)\nif match: print('Alpine 3.24 version:', match.group(1))\nexcept Exception as e: print(e)\n\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-536.log`\nRan command: `python3 -c \"\nimport urllib.request, re\ndef get_alpine():\nurl = 'https://pkgs.alpinelinux.org/packages?name=openjdk21-jdk&branch=v3.24'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla'})\nhtml = urllib.request.urlopen(req).read().decode('utf-8')\nm = re.search(r'<td class=\\\"version\\\">.*?([0-9]+\\.[0-9]+[0-9a-zA-Z._-]+)', html, re.DOTALL)\nreturn m.group(1) if m else 'not found'\ndef get_debian():\nurl = 'https://packages.debian.org/bookworm/openjdk-21-jdk'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla'})\ntry:\nhtml = urllib.request.urlopen(req).read().decode('utf-8')\nm = re.search(r'openjdk-21-jdk \\(([0-9]+\\.[0-9]+[^)]+)\\)', html)\nreturn m.group(1) if m else 'not found'\nexcept Exception as e:\nreturn str(e)\nprint('Alpine:', get_alpine())\nprint('Debian:', get_debian())\n\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-543.log`\nRan command: `python3 -c \"\nimport urllib.request, re\nurl = 'https://packages.debian.org/bookworm/openjdk-21-jdk'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla'})\nhtml = urllib.request.urlopen(req).read().decode('utf-8')\nm = re.search(r'<h1>Package: openjdk-21-jdk \\((.*?)\\)', html)\nprint('Debian:', m.group(1) if m else 'not found')\n\"`\nRan command: `python3 -c \"\nimport urllib.request, re\nurl = 'https://packages.debian.org/bookworm-backports/openjdk-21-jdk'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla'})\ntry:\nhtml = urllib.request.urlopen(req).read().decode('utf-8')\nm = re.search(r'<h1>Package: openjdk-21-jdk \\((.*?)\\)', html)\nprint('Debian-backports:', m.group(1) if m else 'not found')\nexcept Exception as e:\nprint(e)\n\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-553.log`\nRan command: `curl -s \"https://packages.debian.org/search?keywords=openjdk-21-jdk&searchon=names&suite=bookworm\" | grep \"deb12\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-561.log`\nRan command: `curl -s \"https://tracker.debian.org/pkg/openjdk-21\" | grep -A 2 \"bookworm\"`\nRan command: `curl -s 'https://sources.debian.org/api/src/openjdk-21/' | grep -A 10 '\"version\"'`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-571.log`\nRan command: `curl -s 'https://sources.debian.org/api/src/openjdk-21/'`\nRan command: `curl -s \"https://dl.rockylinux.org/pub/rocky/9/AppStream/x86_64/os/Packages/j/\" | grep \"java-21-openjdk-devel\" | tail -n 1`\nRan command: `curl -s \"https://packages.debian.org/bookworm/openjdk-21-jdk\" | grep \"Package not available\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-586.log`\nRan command: `curl -s \"https://packages.debian.org/search?keywords=openjdk-21-jdk&searchon=names&suite=all&section=all\" | grep -A 2 -B 2 \"deb12\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-594.log`\nRan command: `curl -s \"https://packages.debian.org/search?keywords=openjdk-21-jdk&searchon=names&suite=all&section=all\" | grep \"bpo12\"`\nRan command: `curl -s \"https://security.debian.org/debian-security/pool/updates/main/o/openjdk-21/\" | grep -o 'openjdk-21-jdk_[^\"]*' | head -n 1`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-605.log`\nViewed fix_exact.py:1-400\nRan command: `curl -s \"https://security.debian.org/debian-security/pool/updates/main/o/openjdk-21/\" | grep \"deb12\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-618.log`\nRan command: `curl -s 'https://sources.debian.org/api/src/openjdk-21/'`\nRan command: `curl -s \"https://security.debian.org/debian-security/pool/updates/main/o/openjdk-21/\" | grep -o 'openjdk-21-jdk_[^\"]*' | grep 'deb12'`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-628.log`\nRan command: `curl -s \"http://ftp.debian.org/debian/pool/main/o/openjdk-21/\" | grep -o 'openjdk-21-jdk_[^\"]*' | grep 'bpo12' | head -n 1`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-635.log`\nRan command: `curl -s \"http://security.debian.org/debian-security/pool/updates/main/o/openjdk-21/\" | grep -o 'openjdk-21-jdk_[^\"]*' | grep 'deb12u'`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-643.log`\nRan command: `python3 -c \"\nimport urllib.request, gzip\nurl = 'http://ftp.debian.org/debian/dists/bookworm-backports/main/binary-amd64/Packages.gz'\nreq = urllib.request.Request(url, headers={'User-Agent': 'Mozilla'})\ntry:\ndata = urllib.request.urlopen(req).read()\ntext = gzip.decompress(data).decode('utf-8')\nfor block in text.split('\\n\\n'):\nif block.startswith('Package: openjdk-21-jdk\\n'):\nfor line in block.split('\\n'):\nif line.startswith('Version: '):\nprint('Found:', line.split(': ')[1])\nexcept Exception as e:\nprint(e)\n\"`\nRan command: `cat /Users/snowdream/.gemini/antigravity-ide/brain/c7085f8c-392e-4c2d-b0a1-c059e7698dcc/.system_generated/tasks/task-650.log`\nListed directory c7085f8c-392e-4c2d-b0a1-c059e7698dcc\nRan command: `docker run --rm debian:12.9-slim bash -c \"apt-get update -qq && apt-cache madison openjdk-21-jdk\"`\nRan command: `curl -s \"https://snapshot.debian.org/mr/package/openjdk-21/\" | grep -o 'version\":\"[^\"]*\"' | sort -u`\n结论：\nGoogle 在干嘛？\n手指头掰了半个小时，也没算出来 1+1 等于几",
+    "content_source": "readability",
+    "content_chars": 10448,
+    "content_excerpt": "模型：\nClaude Opus 4.6 （ Tinking ）\nGemini 3.1 Pro （ High ）\n工具：\nGoogle Antigravity\n提的问题大概就是：\n让他们给我查询 OpenJDK 在 alpine:3.24.0 debian:13.5.0 rocky:10.2.0 上的最新版本号。\nGemini 3.1 Pro 花了 6 分钟，还在抓耳挠腮，像极了考试中不会做题，疯狂打草稿的我。\nClaude 花了 1 分钟，输出一个漂亮的表格。先别管对不对，总之就是快。\nClaude",
+    "title_original": "针对同一问题， Claude 和 Gemini 的实践对比。",
+    "summary_original": "模型： Claude Opus 4.6 （ Tinking ） Gemini 3.1 Pro （ High ） 工具： Google Antigravity 提的问题大概就是： 让他们给我查询 OpenJDK 在 alpine:3.24.0 debian:13.5.0 rocky:10.2.0 上的最新版本号。 Gemini 3.1 Pro 花了 6 分钟，还在抓耳挠腮，像极了考试中不会做题，疯狂打草稿的我。 Claude 花了 1 分钟，输出一个漂亮的表格。先别管对不对，总之就是快。 ## Claude ``` 明白了！我现在严格按照您的要求：**从 Dockerfile 的 `FROM`",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943449"
   },
   {
     "id": "3e3739d7441a",
@@ -412,20 +622,19 @@
     "rewritten_at": "2026-06-20T13:46:55.503216"
   },
   {
-    "id": "f9b3f49d4415",
-    "title": "福建福耀科技大学表态学校要自负盈亏，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2437607",
+    "id": "bb3a8a3049d9",
+    "title": "刚刚，Polymarket 盘口预测：85%交易者下注，阿里巴巴Qwen，会登顶六月中国最佳AI模型",
+    "url": "https://linux.do/t/topic/2437420",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T05:02:07",
-    "summary": "据了解，2026年6月17日，“福耀科技大学”微信公众号刊发了该校校长王树国，在接受中国教育在线总编辑、创新人才教育研究会副会长陈志文采访的文字稿，解答了舆论对这所新型研究型大学的疑问。",
-    "collected_at": "2026-06-20T19:14:23.964811",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2437607",
-    "title_original": "福建福耀科技大学表态学校要自负盈亏",
-    "summary_original": "2026年6月17日，“福耀科技大学”微信公众号刊发了该校校长王树国，在接受中国教育在线总编辑、创新人才教育研究会副会长陈志文采访的文字稿，解答了舆论对这所新型研究型大学的疑问。 其中，陈志文提出一个问题：“曹德旺理事长提出，学校各院系要逐步实现自负盈亏，自己养活自己。为什么？” 对此，王树国回答：“如果连自己都养活不了，说明没有真本事，如果你研究的是真问题怎么会养活不了自己？你的成果没有落地转化，要么是研究脱离实际，要么没有技术实力。曹先生提这个要求实际上是倒逼机制，倒逼我们深耕真问题。” “现在我们已经尝到甜头了。学校获批建设不到一年，就联合企业自主研制出超高精度贴装生产线，对标芯片后封装",
+    "published": "2026-06-20T04:21:29",
+    "summary": "22 个帖子 - 19 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T08:45:47.381946",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2437420",
+    "title_original": "Polymarket 盘口预测：85%交易者下注，阿里巴巴Qwen，会登顶六月中国最佳AI模型",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360296"
+    "rewritten_at": "2026-06-20T08:47:04.851897"
   },
   {
     "id": "v2ex-1221598",
@@ -442,19 +651,54 @@
     "rewritten_at": "2026-06-20T08:47:04.851836"
   },
   {
-    "id": "bb3a8a3049d9",
-    "title": "刚刚，Polymarket 盘口预测：85%交易者下注，阿里巴巴Qwen，会登顶六月中国最佳AI模型",
-    "url": "https://linux.do/t/topic/2437420",
+    "id": "75795b1f96de",
+    "title": "重磅！Claude 重置了所有套餐的额度，享受端午的狂欢吧",
+    "url": "https://linux.do/t/topic/2436978",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T04:21:29",
-    "summary": "22 个帖子 - 19 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T08:45:47.381946",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2437420",
-    "title_original": "Polymarket 盘口预测：85%交易者下注，阿里巴巴Qwen，会登顶六月中国最佳AI模型",
+    "published": "2026-06-20T02:46:44",
+    "summary": "消息称，20x真的登不动了，什么时候把fable端上来！！！ 原因是bug导致的，原文参考： 7 个帖子 - 6 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T08:45:47.381981",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436978",
+    "title_original": "Claude 重置了所有套餐的额度，享受端午的狂欢吧",
+    "summary_original": "20x真的登不动了，什么时候把fable端上来！！！ 原因是bug导致的，原文参考： 7 个帖子 - 6 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T08:47:04.851897"
+    "rewritten_at": "2026-06-20T08:47:04.851906"
+  },
+  {
+    "id": "d0d9430b3e14",
+    "title": "Breaking: From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-06-19T22:40:14",
+    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective.",
+    "collected_at": "2026-06-21T02:55:00.756628",
+    "title_zh": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+    "summary_zh": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络安全模型 Mythos 一起使用",
+    "ai_summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络…",
+    "title_original": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "summary_original": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+    "rewritten": true,
+    "rewritten_at": "2026-06-21T02:56:19.943459"
+  },
+  {
+    "id": "53ac7ff05f09",
+    "title": "重磅！Claude又为所有订阅用户重置额度！20-6-2026",
+    "url": "https://linux.do/t/topic/2436970",
+    "source": "LINUX DO",
+    "lang": "zh",
+    "priority": 2,
+    "published": "2026-06-20T02:44:49",
+    "summary": "有分析指出，继续Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度 15 个帖子 - 13 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T08:45:47.382015",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436970",
+    "title_original": "Claude又为所有订阅用户重置额度！20-6-2026",
+    "summary_original": "继续Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度 15 个帖子 - 13 位参与者 阅读完整话题",
+    "rewritten": true,
+    "rewritten_at": "2026-06-20T08:47:04.851914"
   },
   {
     "id": "1e1cd49ccfcc",
@@ -478,20 +722,20 @@
     "rewritten_at": "2026-06-20T08:47:04.851850"
   },
   {
-    "id": "75795b1f96de",
-    "title": "重磅！Claude 重置了所有套餐的额度，享受端午的狂欢吧",
-    "url": "https://linux.do/t/topic/2436978",
+    "id": "a9fabcfa7a6a",
+    "title": "这位患有肌萎缩侧索硬化症的男子是首位植入脑植入物并能说话的“超级用户”。，业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2436841",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T02:46:44",
-    "summary": "消息称，20x真的登不动了，什么时候把fable端上来！！！ 原因是bug导致的，原文参考： 7 个帖子 - 6 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T08:45:47.381981",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436978",
-    "title_original": "Claude 重置了所有套餐的额度，享受端午的狂欢吧",
-    "summary_original": "20x真的登不动了，什么时候把fable端上来！！！ 原因是bug导致的，原文参考： 7 个帖子 - 6 位参与者 阅读完整话题",
+    "published": "2026-06-20T02:14:22",
+    "summary": "据报道，MIT Technology Review This man with ALS is “the first power user” of a brain implant that lets him.",
+    "collected_at": "2026-06-20T02:39:19.889580",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436841",
+    "title_original": "这位患有肌萎缩侧索硬化症的男子是首位植入脑植入物并能说话的“超级用户”。",
+    "summary_original": "MIT Technology Review This man with ALS is “the first power user” of a brain implant that lets him... Casey Harrell uses his implants to talk to friends and family, read to his young daughter, and perform his job. [!quote]+ 凯西·哈雷尔的大脑中植入了一组电极，至今已有近三年时间。哈雷尔患有肌萎缩侧索硬化症（ALS），全身瘫痪。2023年，他首次在研究团队的帮助下使用脑机接口",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T08:47:04.851906"
+    "rewritten_at": "2026-06-20T02:40:45.884357"
   },
   {
     "id": "8284a4b831cb",
@@ -516,20 +760,20 @@
     "rewritten_at": "2026-06-19T19:32:01.791951"
   },
   {
-    "id": "53ac7ff05f09",
-    "title": "重磅！Claude又为所有订阅用户重置额度！20-6-2026",
-    "url": "https://linux.do/t/topic/2436970",
+    "id": "8493f204f7c6",
+    "title": "刚刚，由于RAM涨价，Nothing 终结了今年的 CMF 手机发布计划",
+    "url": "https://linux.do/t/topic/2436836",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T02:44:49",
-    "summary": "有分析指出，继续Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度 15 个帖子 - 13 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T08:45:47.382015",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436970",
-    "title_original": "Claude又为所有订阅用户重置额度！20-6-2026",
-    "summary_original": "继续Claude Code 额度显示异常导致部分用户无法发送消息，官方已完成修复并重置额度 15 个帖子 - 13 位参与者 阅读完整话题",
+    "published": "2026-06-20T02:12:28",
+    "summary": "有分析指出，The Verge – 19 Jun 26 Nothing cancels this year’s CMF phone due to RAM prices Nothing’s next budget phone will have to wait until at least 2027.",
+    "collected_at": "2026-06-20T02:39:19.889665",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436836",
+    "title_original": "由于RAM涨价，Nothing 终结了今年的 CMF 手机发布计划",
+    "summary_original": "The Verge – 19 Jun 26 Nothing cancels this year’s CMF phone due to RAM prices Nothing’s next budget phone will have to wait until at least 2027. TechRadar – 19 Jun 26 ‘We can't build a phone that feels like a genuine step forward’: Nothing... AI has a lot to answer for, with the ongoing RAM crisis n",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T08:47:04.851914"
+    "rewritten_at": "2026-06-20T02:40:45.884416"
   },
   {
     "id": "89a83bf2a75c",
@@ -553,20 +797,20 @@
     "rewritten_at": "2026-06-20T08:47:04.851892"
   },
   {
-    "id": "a9fabcfa7a6a",
-    "title": "这位患有肌萎缩侧索硬化症的男子是首位植入脑植入物并能说话的“超级用户”。，业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2436841",
+    "id": "f9d487f640b2",
+    "title": "最新动态：求问，Claude Code的计费是不是太水了，怎么这么耐用？",
+    "url": "https://linux.do/t/topic/2436455",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T02:14:22",
-    "summary": "据报道，MIT Technology Review This man with ALS is “the first power user” of a brain implant that lets him.",
-    "collected_at": "2026-06-20T02:39:19.889580",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436841",
-    "title_original": "这位患有肌萎缩侧索硬化症的男子是首位植入脑植入物并能说话的“超级用户”。",
-    "summary_original": "MIT Technology Review This man with ALS is “the first power user” of a brain implant that lets him... Casey Harrell uses his implants to talk to friends and family, read to his young daughter, and perform his job. [!quote]+ 凯西·哈雷尔的大脑中植入了一组电极，至今已有近三年时间。哈雷尔患有肌萎缩侧索硬化症（ALS），全身瘫痪。2023年，他首次在研究团队的帮助下使用脑机接口",
+    "published": "2026-06-19T23:39:04",
+    "summary": "有分析指出，如图所示，Max 5x Plan，刚才5h重置，我用Ultracode跑了一个任务，用量和费用大概2.3M/22刀，消耗了5h的33%，也就是说1个5h可以跑50~60刀？ 然后这个缓存率奇高无比，Workflow的子代理对抗审查几乎把缓存吃满了。 18 个帖子 - 12 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T02:39:19.889785",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436455",
+    "title_original": "求问，Claude Code的计费是不是太水了，怎么这么耐用？",
+    "summary_original": "如图所示，Max 5x Plan，刚才5h重置，我用Ultracode跑了一个任务，用量和费用大概2.3M/22刀，消耗了5h的33%，也就是说1个5h可以跑50~60刀？ 然后这个缓存率奇高无比，Workflow的子代理对抗审查几乎把缓存吃满了。 18 个帖子 - 12 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884357"
+    "rewritten_at": "2026-06-20T02:40:45.884446"
   },
   {
     "id": "d131d924d4b8",
@@ -591,20 +835,20 @@
     "rewritten_at": "2026-06-19T19:32:01.791982"
   },
   {
-    "id": "8493f204f7c6",
-    "title": "刚刚，由于RAM涨价，Nothing 终结了今年的 CMF 手机发布计划",
-    "url": "https://linux.do/t/topic/2436836",
+    "id": "4c6e32eb2ff9",
+    "title": "重磅！GLM 5.2的分数出来了",
+    "url": "https://linux.do/t/topic/2436422",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-20T02:12:28",
-    "summary": "有分析指出，The Verge – 19 Jun 26 Nothing cancels this year’s CMF phone due to RAM prices Nothing’s next budget phone will have to wait until at least 2027.",
-    "collected_at": "2026-06-20T02:39:19.889665",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436836",
-    "title_original": "由于RAM涨价，Nothing 终结了今年的 CMF 手机发布计划",
-    "summary_original": "The Verge – 19 Jun 26 Nothing cancels this year’s CMF phone due to RAM prices Nothing’s next budget phone will have to wait until at least 2027. TechRadar – 19 Jun 26 ‘We can't build a phone that feels like a genuine step forward’: Nothing... AI has a lot to answer for, with the ongoing RAM crisis n",
+    "published": "2026-06-19T23:02:42",
+    "summary": "消息称，livebench上Agentic Coding第一 artificial analysis 上的结果相似 7 个帖子 - 7 位参与者 阅读完整话题",
+    "collected_at": "2026-06-20T02:39:19.889825",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436422",
+    "title_original": "GLM 5.2的分数出来了",
+    "summary_original": "livebench上Agentic Coding第一 artificial analysis 上的结果相似 7 个帖子 - 7 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884416"
+    "rewritten_at": "2026-06-20T02:40:45.884467"
   },
   {
     "id": "5b0846176d48",
@@ -628,20 +872,20 @@
     "rewritten_at": "2026-06-20T02:40:45.884455"
   },
   {
-    "id": "f9d487f640b2",
-    "title": "最新动态：求问，Claude Code的计费是不是太水了，怎么这么耐用？",
-    "url": "https://linux.do/t/topic/2436455",
+    "id": "b3d0e748f727",
+    "title": "突发：Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
+    "url": "https://linux.do/t/topic/2436251",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T23:39:04",
-    "summary": "有分析指出，如图所示，Max 5x Plan，刚才5h重置，我用Ultracode跑了一个任务，用量和费用大概2.3M/22刀，消耗了5h的33%，也就是说1个5h可以跑50~60刀？ 然后这个缓存率奇高无比，Workflow的子代理对抗审查几乎把缓存吃满了。 18 个帖子 - 12 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T02:39:19.889785",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436455",
-    "title_original": "求问，Claude Code的计费是不是太水了，怎么这么耐用？",
-    "summary_original": "如图所示，Max 5x Plan，刚才5h重置，我用Ultracode跑了一个任务，用量和费用大概2.3M/22刀，消耗了5h的33%，也就是说1个5h可以跑50~60刀？ 然后这个缓存率奇高无比，Workflow的子代理对抗审查几乎把缓存吃满了。 18 个帖子 - 12 位参与者 阅读完整话题",
+    "published": "2026-06-19T18:03:39",
+    "summary": "据报道，Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。",
+    "collected_at": "2026-06-19T19:30:35.005364",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436251",
+    "title_original": "Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
+    "summary_original": "Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。我在那里工作了一年。我想我学到更多的可能是关于语音、语音识别以及诸如此类的技术… Inside the Mind of Anthropic CEO Dario Amodei | The Circuit | Extended Interview 12 个帖子 - 10 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884446"
+    "rewritten_at": "2026-06-19T19:32:01.791921"
   },
   {
     "id": "deade1e4e10e",
@@ -663,20 +907,20 @@
     "rewritten_at": "2026-06-20T02:40:45.884479"
   },
   {
-    "id": "4c6e32eb2ff9",
-    "title": "重磅！GLM 5.2的分数出来了",
-    "url": "https://linux.do/t/topic/2436422",
+    "id": "3e81bc41c322",
+    "title": "iKuai 软路由系统更新4.0（2026-06-16 15:28），业内人士怎么看？",
+    "url": "https://linux.do/t/topic/2436124",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T23:02:42",
-    "summary": "消息称，livebench上Agentic Coding第一 artificial analysis 上的结果相似 7 个帖子 - 7 位参与者 阅读完整话题",
-    "collected_at": "2026-06-20T02:39:19.889825",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436422",
-    "title_original": "GLM 5.2的分数出来了",
-    "summary_original": "livebench上Agentic Coding第一 artificial analysis 上的结果相似 7 个帖子 - 7 位参与者 阅读完整话题",
+    "published": "2026-06-19T16:49:38",
+    "summary": "有分析指出，已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005539",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436124",
+    "title_original": "iKuai 软路由系统更新4.0（2026-06-16 15:28）",
+    "summary_original": "已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T02:40:45.884467"
+    "rewritten_at": "2026-06-19T19:32:01.791964"
   },
   {
     "id": "00841429d7c1",
@@ -701,20 +945,20 @@
     "rewritten_at": "2026-06-19T19:32:01.792008"
   },
   {
-    "id": "b3d0e748f727",
-    "title": "突发：Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
-    "url": "https://linux.do/t/topic/2436251",
+    "id": "4cd8cef45e15",
+    "title": "突发：基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
+    "url": "https://linux.do/t/topic/2436121",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T18:03:39",
-    "summary": "据报道，Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。",
-    "collected_at": "2026-06-19T19:30:35.005364",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436251",
-    "title_original": "Anthropic CEO 达里奥明确表示：在百度的经历并未塑造我对中国的看法",
-    "summary_original": "Emily Chang (主持人)： 你在百度的所见所闻，是否塑造了你对中国的看法？ Dario Amodei (Anthropic CEO)： 其实并没有。我在那里工作了一年。我想我学到更多的可能是关于语音、语音识别以及诸如此类的技术… Inside the Mind of Anthropic CEO Dario Amodei | The Circuit | Extended Interview 12 个帖子 - 10 位参与者 阅读完整话题",
+    "published": "2026-06-19T16:49:23",
+    "summary": "据悉，2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005584",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436121",
+    "title_original": "基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
+    "summary_original": "2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.791921"
+    "rewritten_at": "2026-06-19T19:32:01.791992"
   },
   {
     "id": "e35040ffdf08",
@@ -738,20 +982,20 @@
     "rewritten_at": "2026-06-19T19:32:01.792031"
   },
   {
-    "id": "3e81bc41c322",
-    "title": "iKuai 软路由系统更新4.0（2026-06-16 15:28），业内人士怎么看？",
-    "url": "https://linux.do/t/topic/2436124",
+    "id": "a6068c7cd661",
+    "title": "突发：弥合神经形态离子计算与更高效人工智能之间的差距",
+    "url": "https://linux.do/t/topic/2435847",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T16:49:38",
-    "summary": "有分析指出，已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T19:30:35.005539",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436124",
-    "title_original": "iKuai 软路由系统更新4.0（2026-06-16 15:28）",
-    "summary_original": "已经有一年时间没更新系统了 更新两次系统，第二次直接更新4.0，大版本更新，界面直接重做了 新到日志都没更新 这下有的玩了 8 个帖子 - 4 位参与者 阅读完整话题",
+    "published": "2026-06-19T15:31:43",
+    "summary": "据了解，https://www.science.org/doi/10.1126/science.aea2097 [!",
+    "collected_at": "2026-06-19T19:30:35.005818",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435847",
+    "title_original": "弥合神经形态离子计算与更高效人工智能之间的差距",
+    "summary_original": "https://www.science.org/doi/10.1126/science.aea2097 [!abstract]+ 神经形态计算受到人脑有效处理信息的能力的启发，代表了一种变革性的计算方法。在这篇综述中，我们探讨了神经形态离子计算的新兴领域，该领域利用离子传导和耦合来模拟神经过程，并确定必须解决的关键知识差距，以充分发挥其潜力。讨论的中心主题是能源效率，对于这项技术来说，挑战既是限制，也是机遇。 尽管基于互补金属氧化物半导体（CMOS）的神经拟态技术在扩展到数十亿个神经元方面取得了长足的进步，并且越来越多地应用于人工智能和数值计算，但它们在连接性和能源效率方面仍然落后于人脑几个数",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.791964"
+    "rewritten_at": "2026-06-19T19:32:01.792019"
   },
   {
     "id": "aca35cefe862",
@@ -776,20 +1020,19 @@
     "rewritten_at": "2026-06-19T14:49:59.939558"
   },
   {
-    "id": "4cd8cef45e15",
-    "title": "突发：基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
-    "url": "https://linux.do/t/topic/2436121",
+    "id": "8ce81c23c224",
+    "title": "重磅！Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
+    "url": "https://linux.do/t/topic/2435722",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T16:49:23",
-    "summary": "据悉，2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T19:30:35.005584",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2436121",
-    "title_original": "基准测试DeepSWE的新分数出炉，含Fable-5、Kimi K2.7 Code的跑分",
-    "summary_original": "2026年6月19日的更新，新的v1.1跑分 Fable-5(70%)大于GPT5.5(67%)，差距不大 Kimi K2.7 Code超越Sonnet4.6 原文： DeepSWE 5 个帖子 - 3 位参与者 阅读完整话题",
+    "published": "2026-06-19T15:02:46",
+    "summary": "30 个帖子 - 21 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T19:30:35.005854",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435722",
+    "title_original": "Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.791992"
+    "rewritten_at": "2026-06-19T19:32:01.792037"
   },
   {
     "id": "229a5a6ccdc1",
@@ -814,20 +1057,20 @@
     "rewritten_at": "2026-06-19T14:49:59.939608"
   },
   {
-    "id": "a6068c7cd661",
-    "title": "突发：弥合神经形态离子计算与更高效人工智能之间的差距",
-    "url": "https://linux.do/t/topic/2435847",
+    "id": "b17049315b90",
+    "title": "深度解读：OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
+    "url": "https://linux.do/t/topic/2435282",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T15:31:43",
-    "summary": "据了解，https://www.science.org/doi/10.1126/science.aea2097 [!",
-    "collected_at": "2026-06-19T19:30:35.005818",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435847",
-    "title_original": "弥合神经形态离子计算与更高效人工智能之间的差距",
-    "summary_original": "https://www.science.org/doi/10.1126/science.aea2097 [!abstract]+ 神经形态计算受到人脑有效处理信息的能力的启发，代表了一种变革性的计算方法。在这篇综述中，我们探讨了神经形态离子计算的新兴领域，该领域利用离子传导和耦合来模拟神经过程，并确定必须解决的关键知识差距，以充分发挥其潜力。讨论的中心主题是能源效率，对于这项技术来说，挑战既是限制，也是机遇。 尽管基于互补金属氧化物半导体（CMOS）的神经拟态技术在扩展到数十亿个神经元方面取得了长足的进步，并且越来越多地应用于人工智能和数值计算，但它们在连接性和能源效率方面仍然落后于人脑几个数",
+    "published": "2026-06-19T13:07:55",
+    "summary": "消息称，看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T14:48:22.782768",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435282",
+    "title_original": "OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
+    "summary_original": "看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.792019"
+    "rewritten_at": "2026-06-19T14:49:59.939591"
   },
   {
     "id": "8add01e4aff7",
@@ -852,19 +1095,20 @@
     "rewritten_at": "2026-06-19T14:49:59.939636"
   },
   {
-    "id": "8ce81c23c224",
-    "title": "重磅！Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
-    "url": "https://linux.do/t/topic/2435722",
+    "id": "6048b568e27b",
+    "title": "stepfun模型感觉有点拉，不过免费的一律给到夯😋，这一消息引发行业关注",
+    "url": "https://linux.do/t/topic/2435021",
     "source": "LINUX DO",
     "lang": "zh",
     "priority": 2,
-    "published": "2026-06-19T15:02:46",
-    "summary": "30 个帖子 - 21 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T19:30:35.005854",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435722",
-    "title_original": "Gemini 3.5 pro coming soon？logan表示团队正在全力搞定 3.5 pro！",
+    "published": "2026-06-19T12:00:55",
+    "summary": "有分析指出，有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
+    "collected_at": "2026-06-19T14:48:22.782999",
+    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435021",
+    "title_original": "stepfun模型感觉有点拉，不过免费的一律给到夯😋",
+    "summary_original": "有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
     "rewritten": true,
-    "rewritten_at": "2026-06-19T19:32:01.792037"
+    "rewritten_at": "2026-06-19T14:49:59.939623"
   },
   {
     "id": "ab40cb5fe470",
@@ -886,22 +1130,6 @@
     "rewritten_at": "2026-06-19T10:18:29.950137"
   },
   {
-    "id": "b17049315b90",
-    "title": "深度解读：OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
-    "url": "https://linux.do/t/topic/2435282",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-19T13:07:55",
-    "summary": "消息称，看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T14:48:22.782768",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435282",
-    "title_original": "OpenAI推出新功能，开启时GPT观察你的工作流程，并自动生成skill",
-    "summary_original": "看佬友一直没人发只好我发了，我对这个功能有点畏惧了说实话 https://x.com/OpenAIDevs/status/2067681320281723113 16 个帖子 - 14 位参与者 阅读完整话题",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939591"
-  },
-  {
     "id": "7d006cbc88b2",
     "title": "突发：平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
     "url": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article",
@@ -918,22 +1146,6 @@
     "title_original": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
     "rewritten": true,
     "rewritten_at": "2026-06-19T03:35:58.215724"
-  },
-  {
-    "id": "6048b568e27b",
-    "title": "stepfun模型感觉有点拉，不过免费的一律给到夯😋，这一消息引发行业关注",
-    "url": "https://linux.do/t/topic/2435021",
-    "source": "LINUX DO",
-    "lang": "zh",
-    "priority": 2,
-    "published": "2026-06-19T12:00:55",
-    "summary": "有分析指出，有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
-    "collected_at": "2026-06-19T14:48:22.782999",
-    "extract_error": "403 Client Error: Forbidden for url: https://linux.do/t/topic/2435021",
-    "title_original": "stepfun模型感觉有点拉，不过免费的一律给到夯😋",
-    "summary_original": "有两倍openai go的额度免费领 模型工作挺拉的，但是快啊 这种偷啃接astrbot最爽了 platform.stepfun.com 阶跃星辰开放平台 Step API 稳定 · 高性能 · 易集成，领先的模型和工具，加速你的下一个 AI 应用落地 4 个帖子 - 4 位参与者 阅读完整话题",
-    "rewritten": true,
-    "rewritten_at": "2026-06-19T14:49:59.939623"
   },
   {
     "id": "183efb0ffed1",
@@ -972,24 +1184,6 @@
     "summary_original": "springermedicine.com Home Springer Medicine provides trustworthy, tailored, cutting-edge content for medical professionals. Follow us to stay on top of the latest advances in your field. https://www.axios.com/2026/06/19/dad-bod-science [!quote]+ 十多年来，“爸爸身材”一直被人们津津乐道、嘲讽和戏仿，被视为已婚有子女男性不可避免的体型。但这个词的意义远不",
     "rewritten": true,
     "rewritten_at": "2026-06-19T10:18:29.950181"
-  },
-  {
-    "id": "3a1b32087c0f",
-    "title": "Analysis: The inevitable weakness of metrics",
-    "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-06-19T09:00:00",
-    "summary": "There are plenty of useful things a metric can reveal.",
-    "collected_at": "2026-06-20T19:14:09.972537",
-    "title_zh": "指标不可避免的弱点",
-    "summary_zh": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元性，这可能揭示了关于我和测量本质的一些东西。就像一个洛",
-    "ai_summary": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元…",
-    "title_original": "The inevitable weakness of metrics",
-    "summary_original": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
-    "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360309"
   },
   {
     "id": "bb693b57939b",
@@ -5224,212 +5418,6 @@
     "rewritten_at": "2026-06-17T19:35:48.310873"
   },
   {
-    "id": "3bce87a3c6c3",
-    "title": "Latest: A $2,000 AI-generated film will make its debut at Tribeca",
-    "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-28T16:08:45",
-    "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets.",
-    "collected_at": "2026-05-28T20:10:35.430995",
-    "content_text": "Next month’s Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government’s mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter.\nA $2,000 AI-generated film will make its debut at Tribeca\nDreams of Violets tells the story of the Iranian government’s mass killing of civilians.\nDreams of Violets tells the story of the Iranian government’s mass killing of civilians.\nDreams of Violets cost $2,000 to make and is “based on journalistic reports, photographs, and eyewitness accounts,” according to a press release. It was created by Ash and Pooya Koosha, two brothers who left Iran in 2009. Pooya cofounded Fountain 0, the company behind the film, while Ash serves as CEO.\nFountain 0 says Dreams of Violets is the first full-length, live-action, AI-generated film to be accepted at a major film festival. As noted by The Hollywood Reporter, a costlier AI-generated film called Hell Grind screened at Cannes — but at a side event, not the main program. The Pooya brothers say they used Google’s Nano Banana for images, Kling AI for video generation, and Anthropic’s Claude for language editing, according to The Hollywood Reporter.\nOver the past year, AI has become an even more prominent tool in Hollywood. Netflix is embracing the technology with the creation of an AI animation studio and the acquisition of Ben Affleck’s AI startup, while Amazon’s Prime Video just ordered three AI-generated animation series. Meanwhile, Critterz, a film powered by OpenAI’s now-shuttered Sora tool, is trying to find a new AI partner.\n“We fully understand the very genuine sensitivities of those individuals working in the movie industry, and like them we are worried what the unknown implications are for the livelihoods of many,” the Kooshas say in the release. “But the reality is that this film never would have been made if it were not for the AI capabilities that we were able to develop.”\nDreams of Violets will screen at the Tribeca Festival on June 10th.",
-    "content_source": "trafilatura",
-    "content_chars": 2127,
-    "content_excerpt": "Next month’s Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government’s mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter.\nA $2,000 AI-generated film will make its debut at Tribeca\nDreams of Violets tells the story of the Iranian government’s mass killing of civilians.\nDreams of Violets tells the story of the Iranian government’s mass killing of civilians.\nDreams of Violets cost $2,000 to make and is “based on journalistic reports, photographs, and eyewitness accounts,” according to a press release. It was created by Ash and Pooya Koosha, two brothers who left Iran in 2009. Pooya cofounded Fountain 0, the company behind the film, while Ash serves as CEO.\nFountain 0 says Dreams of Violets is the first full-length, live-action, AI-generated film to be accepted at a major film festival. As noted by The Hollywood Reporter, a costlier AI-generated film called Hell Grind screened at Cannes — but at a side event, not the main program. The Pooya brothers say they used Google’s Nano Banana for images, Kling AI for video generation, and Anthropic’s Claude for language editing, according to The Hollywood Reporter.\nOver the past year, AI has become an even more prominent tool in Hollywood. Netflix is embracing the technology with the creation of an AI animation studio and the acquisition of Ben Affleck’s AI startup, while Amazon’s Prime Video just ordered three AI-generated animation series. Meanwhile, Critterz, a film powered by OpenAI’s now-shuttered Sora tool, is trying to find a new AI partner.\n“We fully understand the very genuine sensitivities of those individuals working in the movie industry, and like them we are worried what the unknown implications are for the livelihoods of many,” the Kooshas say in the release. “But the reality is that this film never would have been made if it were not for the AI capabilities that we were able to develop.”\nDreams of Violets will screen at the Tribeca Festival on June 10th.",
-    "title_zh": "一部耗资 2,000 美元的人工智能生成电影将在翠贝卡 (Tribeca) 首映",
-    "summary_zh": "下个月的翠贝卡节将首映一部人工智能生成的电影：《紫罗兰之梦》。据好莱坞早先报道，这部时长 75 分钟的电影虚构了伊朗政府 1 月份大规模屠杀抗议者的故事，人物和图像完全由人工智能创作",
-    "ai_summary": "下个月的翠贝卡节将首映一部人工智能生成的电影：《紫罗兰之梦》。据好莱坞早先报道，这部时长 75 分钟的电影虚构了伊朗政府…",
-    "title_original": "A $2,000 AI-generated film will make its debut at Tribeca",
-    "summary_original": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "ff4b827adddd",
-    "title": "重磅！Agent 能用，为什么还是不好用？",
-    "url": "https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-28T15:45:04",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-28T09:51:16.074074",
-    "title_original": "Agent 能用，为什么还是不好用？",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "aa6edfc162be",
-    "title": "Latest: How long is Anthropic’s lease with SpaceX? Opinions vary",
-    "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-28T15:36:00",
-    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-    "collected_at": "2026-05-28T20:10:35.330978",
-    "content_text": "Earlier this month, xAI signed\na major compute deal with Anthropic\n, pledging billions of dollars a month for exclusive use of the company’s Colossus cluster. It was a coup for both companies, giving xAI some much-needed revenue and helping Anthropic catch up in the never-ending race for compute.\nBut\nthis morning on X\n, Elon Musk downplayed exactly how much SpaceX had committed to the deal.\n“SpaceX has not committed to leasing Colossus for years, although it’s possible that may be what happens,” he said, replying to a user. “This is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic’s. We won’t leave them hanging and will provide a reasonable off-ramp, but if compute gets super tight I said we might need it back at some point.”\nMusk’s statement directly contradicts SpaceX’s\nrecent S-1 filing\n, which confirms the standard 90-day cancellation but presents the deal as a three-year agreement. Page F-62 of the filing reads:\nOn May 3, 2026, the Company entered into a cloud services agreement with Anthropic PBC, an AI research and development public benefit corporation, with respect to access to compute capacity. Pursuant to this agreement, the customer has agreed to pay a monthly fee through May 2029, with capacity ramping in May 2026 at a reduced fee. The agreement may be terminated by either party upon 90 days’ notice. The customer will retain ownership and intellectual property rights in its content, AI models, and related data.\nThe key point here is that Anthropic “has agreed to pay a monthly fee through May 2029” — a pretty straightforward description of a three-year lease. The same language is repeated on F-96 and in slightly varied form (“the customer has agreed to pay us $1.25 billion per month through May 2029”) on pages 13 and 146, so it’s not as if there was a typo.\nxAI did not respond to a request for clarification.\nMaybe we can quibble about whether Anthropic agreeing to pay for a service means the same thing as SpaceX agreeing to provide that service, but that’s not usually what “lease” means. And why have a one-way lock-in if either party can terminate the deal with three months’ notice anyway?\nI don’t have the deal in front of me, so I don’t know what it says — and neither\nSpaceX\nnor\nAnthropic\nis saying anything about the duration of the deal in their announcements. Still, there should be a pretty straightforward fact of the matter here, and it’s not the sort of thing you want to make false statements about during a company’s quiet period.\nAs always, we should note that the SEC probably will not do anything — and even if they did, Elon probably wouldn’t care. But this sort of does seem like\na material misrepresentation made while marketing a security\n, which is bad karma at the very least.\nSean O’Kane contributed reporting to this article.",
-    "content_source": "readability",
-    "content_chars": 2861,
-    "content_excerpt": "Earlier this month, xAI signed\na major compute deal with Anthropic\n, pledging billions of dollars a month for exclusive use of the company’s Colossus cluster. It was a coup for both companies, giving xAI some much-needed revenue and helping Anthropic catch up in the never-ending race for compute.\nBut\nthis morning on X\n, Elon Musk downplayed exactly how much SpaceX had committed to the deal.\n“SpaceX has not committed to leasing Colossus for years, although it’s possible that may be what happens,” he said, replying to a user. “This is a 180 day lease with 90 day notice mutual cancellation thereafter. The short term was our request, not Anthropic’s. We won’t leave them hanging and will provide a reasonable off-ramp, but if compute gets super tight I said we might need it back at some point.”\nMusk’s statement directly contradicts SpaceX’s\nrecent S-1 filing\n, which confirms the standard 90-day cancellation but presents the deal as a three-year agreement. Page F-62 of the filing reads:",
-    "title_zh": "Anthropic 与 SpaceX 的租约有多长？意见不一",
-    "summary_zh": "尽管 SpaceX 自己的 S-1 文件描述了 2029 年 5 月之前的付款，但埃隆·马斯克公开将 xAI 的大规模 Anthropic 计算交易重新定义为短期且可取消的交易",
-    "ai_summary": "尽管 SpaceX 自己的 S-1 文件描述了 2029 年 5 月之前的付款，但埃隆·马斯克公开将 xAI 的大规模…",
-    "title_original": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "179d14e42718",
-    "title": "刚刚，全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
-    "url": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-28T15:27:30",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-28T09:51:16.074146",
-    "content_text": "英伟达最难被替代的，从来不是一张 GPU，而是 CUDA 背后十几年积累出来的软件生态。\n现在，面壁智能想用 AI 来压缩这十几年。\n近日，面壁智能发布了全球首个全部由 AI 编写、零人介入、面向大模型训练基础设施的生产级训练框架 ForgeTrain。据面壁方面介绍，ForgeTrain 已经在华为昇腾系列上完成 MiniCPM5-1B 的训练验证，整体速度提升 10%。通过此框架， MiniCPM5-1B 的预训练耗时为 3-5 天，MiniCPM4-0.5B 在英伟达 GPU 上预训练用了两天。\n面壁通过此框架想要验证：当大模型 coding 能力足够强、成本趋近于零时，我们不一定要继续做一个大而全的通用框架，而可以围绕每个模型、每类芯片和每个训练任务，现场“锻造”一套更合适的实现。\nAI 写代码，人来加 Harness\n在英伟达的 VibeTensor（作者包括陈天奇、贾扬清等）证明了 AI Agent 能写出复杂系统软件后，ForgeTrain 则围绕具体模型、芯片和训练任务现场生成生产级训练框架，目标更偏工程落地。\n面壁团队介绍了 ForgeTrain 的三阶段构建方法论：\n1. 从现有训练框架采集关键数据形成评测标准和 Harness；\n2. 从评测 Harness 构建二进制一致的训练框架版本（目前已经完成多机多卡版本，比英伟达 Megatron 训练速度快 10%）；\n3. 解除二进制一致的限制，迭代优化到超越 Megatron 的性能。\n按照其说法，ForgeTrain 通过搭建一套专用 Harness，让 AI 在闭环环境中不断满足评测指标，并最终写出了一套训练框架。这个过程一旦启动，人类不再参与代码编写和中间修改，而是仅在最后进行验收。ForgeTrain 目前主要覆盖框架和算子层面，算法调参尚未开始从零交给 AI。\n在实际效果上，ForgeTrain 已经能训练出与 Megatron 结果一致的模型。面壁称，在 MiniCPM 模型上，ForgeTrain 训练结果在人评和机评上与原有训练框架保持一致，同时在核心速度和成本指标上优于英伟达 Megatron，提升 10%。\n面壁智能 AI Infra 负责人李宇轩向 InfoQ 表示，在面壁团队的实践中，大部分工程约束是由模型自主处理的。少部分模型当前还做不到的部分，则会被融入 Harness 中，作为生成训练框架时的先验约束或评测规则。比如，在内存约束方面，AI 自己写出的框架在人的合适引导下，显存使用甚至低于 Megatron。未来，团队会逐渐提高 Harness 层面中的 AI 参与比例。\n面壁团队在构建 Harness 时，会尽量加入更具第一性的工程方法论，让尽可能多的失败在代码生成阶段就被测出，并由 AI 自行修复，依次减少训练失败率。据介绍，从目前结果看，ForgeTrain 相对稳定，可以连续运行数天并完成模型训练。\n“我们已经拿 ForgeTrain 训出来模型了，而且训出来的模型和我们用 Megatron 训出来的模型效果是一致的。”李宇轩表示，这直接就证明了 ForgeTrain 的生产级可靠性。\n他进一步解释称，所谓生产级，并不是说 ForgeTrain 已经可以立刻覆盖全球所有模型训练场景，而是至少在 MiniCPM 上，它已经完成了从框架生成到实际训练再到效果验证的闭环。训练出的模型在人评和机评上与原有模型一致，因此它在该场景中已经达到了生产级水平。\n据悉，ForgeTrain 在内部 8B 模型的验证也已经完成，接下来团队会继续推进 MoE 等更复杂模型，向更大、更复杂模型扩展，并可能在一两个月内取得进展。\n当写代码没有成本，软件就应“现场锻造”\n过去几年，大模型进步主要依赖三件事：更多数据、更大算力和更高资本投入。但现在，高质量互联网数据正在被快速消耗，GPU、数据中心、电力等基础设施越来越紧张，继续靠“堆资源”推动模型进化，成本越来越高，边际收益也在下降。\n在这种背景下，行业必须寻找新的效率来源，面壁则将目标对准了“AI 研发 AI ”。\nAI 研发 AI 的价值就在于给定资源下的研发效率提升。人类工程师写代码、跑实验、调框架、做数据管线，往往需要数天、数周甚至数月；而 AI 在部分任务上可以把效率提升 10 倍到 100 倍。如果 AI 能参与代码生成、训练框架开发、算子优化、数据生成、评测反馈、实验迭代甚至模型架构探索，整个 AI 研发链条就会被大幅加速。\n“AI 研发 AI 研究”并非处于概念阶段，海外头部模型公司已经逐渐实践。\n早在 2024 年 10 月，Anthropic 创始人 Dario Amodei 就将“自动化 AI 研究”视为 AGI 时间表中最强的加速器之一，当前 Claude 系列模型也实现了自我递归迭代；今年 3 月，Andrej Karpathy 提出并开源“自动研究员”项目，尝试让 AI 自主研究如何优化模型训练。与 ForgeTrain 更偏训练框架和基础设施层不同，Karpathy 的项目主要聚焦算法层面。\n如何让 AI 真正接管 AI 研发？李宇轩认为，关键在于一个共识：可评测的问题最终会被 AI 解决，即只要一个问题能够被高效评测，并且能够为模型准备足够专家数据，再通过强化学习将能力回流到模型，AI 就会逐渐把这个问题做得越来越好。\n这一方法已经在博弈、数学、代码等领域得到验证，但 AI 研发本身并没有天然存在的评测环境，AI 训练框架、算法创新、数据管线等任务往往更复杂、更昂贵，也更难被包装成一个稳定的评测系统。\n这正是 Harness 的意义。Harness 本质上是把一个目标包装成一整套系统：包括环境、上下文、工具、任务流程和评分标准。将 AI 放入这个系统后，它可以根据反馈不断完成任务、修正错误并提升能力。\n传统任务之所以更容易被 AI 学会，是因为 Harness 天然存在。比如代码任务有编译器、单元测试和运行结果；数学任务有形式化验证或标准答案；游戏任务有胜负机制。相比之下，“AI 制造 AI”没有现成 Harness，而且运行成本很高，因此发展更慢。\n面壁现在就是为“AI 制造 AI”建立“考场”。当 AI 研发任务能够被包装成可评测环境，AI 就可以在其中训练、试错和提升。ForgeTrain 正是在训练基础设施层面搭建这样一个 Harness 的尝试。\n并且，基于这一思路，面壁提出了 Forge Engineering，即“锻造工程”。此次发布的 ForgeTrain，正是 Forge Engineering 在大模型训练基础设施上的具体实践。\n李宇轩表示，过去软件工程追求大型通用框架，是因为人类写代码、维护代码的成本很高。一个训练框架往往需要支持大量模型结构，包括普通稠密模型、MoE 模型、不同参数规模、不同并行策略等。为了降低开发和维护成本，行业不得不把复杂功能整合进一套大而全的通用系统中。\n但在 AI 写代码能力快速提升后，代码生产成本正在接近于零。如果写代码已经不再是主要负担，那么就没有必要把本不该强行通用的东西捏合在一起，而可以为每一种具体需求重新生成一份最适合它的代码。\n这就是 Forge Engineering 的核心：并非让 AI 继续写越来越庞大的通用框架，而是让 AI 像工匠一样，为不同模型、不同芯片、不同训练任务“现场锻造”一套高度定制化的软件系统。\nForgeTrain 能在核心效率指标上相比 Megatron 10% 的提升，李宇轩认为，这背后的关键原因，并不是它写出了一个更庞大的通用框架，而是它可以针对某一种模型类型做深度定制优化。\nMegatron 需要覆盖更广模型和场景，因此必须在通用性和性能之间做权衡；ForgeTrain 则可以为特定模型从零生成一套更贴合需求的框架，从而获得更细粒度优化空间。\n“到年底能把国产算力软件全做一遍”\nForgeTrain 的另一个重要意义，在于它为国产算力软件生态的赶超提供了一种新思路。\n李宇轩表示，英伟达生态之所以好用，并不是某一个框架单点优秀，而是它长期积累了大量开发者和工程实践。各种坑已经被开发者反复踩过，各种工具链和细节也在长期迭代中被打磨成熟。相比之下，国产算力生态起步较晚，同时英伟达还在投入，若仍依靠人类开发者一点点打磨生态，追赶难度很高。\n业界也曾尝试通过 TVM 等开源编译框架实现“一次编写，自动适配所有硬件”，但不同算法与不同芯片架构的组合优化方案近乎无穷，传统规则搜索方式难以覆盖；而为兼容所有硬件而构建的通用抽象层，不仅牺牲性能，还带来巨大的维护工作量，最终解决问题的工具反而成了问题本身。\n“AI 可能改变这一局面。”李宇轩认为，人类开发者再多，也不如 AI 不知疲倦地打磨各个细节。真正让国产软件生态接近英伟达的方法，可能是让 AI 成为大量开发者本身，持续优化训练框架、推理框架、算子、数据管线、工具链和各类工程细节。\n“ForgeTrain 是这一方向的第一步。面壁已经能够在华为昇腾生态上生成新的训练框架。未来，当用户需要训练一种新模型时，只要把模型需求告诉系统，系统就有可能直接生成对应框架。”李宇轩说道，用户需要什么，生态就能给出什么，这才是一个好生态的理想状态。\n从客观上说，这件事大家都可以做。但李宇轩表示，就像所有公司都可以做 coding 模型，但真正做到最好并形成优势的公司仍然有限。\n今年，面壁的目标，就是把模型训练环节中不好用的软件用 AI 重写，并且重写 AI 的软件可以很快再帮其他家模型重写一个框架。面壁表示，到年底能把头部国产算力软件全做一遍。\n未来，面壁希望用同一套技术路线覆盖训练框架、推理框架、强化学习框架、数据管线和算法范式，并适配国产算力、英伟达以及其他端侧芯片。\nHarness 仍处蛮荒期，Forge 的前提是成本\n值得注意的是，随着 AI 接管更多研发环节，人类在研发流程中的位置也在变化。\n”原来是大家都在讲 Human in the Loop，但是今年大家至少已经开始转型成 Human on the Loop。 前者是说在整个环节里面， AI 已经在跑一些环节，但一些环节会有人看着；后者是说 AI 已经自主运转了，人只盯着这个系统里面有没有什么问题，有问题了再调整。”李宇轩说道，面壁目前就在往 Human on the Loop 方向转型。\n而这种变化也会影响研发组织。李宇轩认为，从表面看，组织结构可能还没有发生剧烈变化，但研发范式和人与人之间的协作关系事实上已经在改变。随着 AI 在更多研发任务中成为主体，形式上的组织变化可能会在合适的时机自然发生。\n近期，有消息称 DeepSeek 等公司正在组建 Harness 相关团队。\n对于 Harness 团队，李宇轩认为，不同公司可以选择集中式团队，也可以由多个团队分散建设，关键要因地制宜。但无论组织形态如何，核心理念应当一致：让 AI 尽可能获得更多信息，尝试让它接手更多事情，并在这个过程中识别 AI 仍然做不好的部分，再进行针对性解决和快速迭代。\n尽管 Harness 成为行业热词，但李宇轩也强调，当前行业对 Harness 的理解还没有完全形成共识。\n有些人认为 Harness 只是“新瓶装旧酒”，因为软件工程中早已有框架、工具链、执行环境、评测系统等概念。但这个词之所以在当下变得重要，是因为模型能力进入了新的阶段，模型外部的环境设计和工具组织开始成为能力突破的关键。\n目前，OpenClaw、Claude Code、Hermes Agent 等都可能被称为 Harness，但它们目标并不相同。有些 Harness 是在模型外部套一层壳，让模型在各种任务上都表现得还不错；有些 Harness 是为了让最强模型变得更强；还有一些 Harness 的目标，是让较弱模型对齐 Claude Code 或 Anthropic 模型的能力。\nForgeTrain 的 Harness 则是另一类。它不是通用 Harness，而是为“AI 制造 AI”中的训练框架生成任务设计的专用 Harness，目标是让模型在一个垂直领域里能力大幅增强，而不是让模型在所有任务上都泛化表现。\nForge 工程则是在 Harness 工程之上的一种软件生产范式。它的核心前提是：AI 写代码的成本会快速下降。当代码生成变得足够便宜、足够快，软件工程就不必继续把所有需求都压进一个大而全的通用系统，而可以为每个具体任务生成高度定制的软件系统。\n以训练框架为例，传统框架可能要同时支持千问、Llama、DeepSeek、MiniCPM、MoE 等大量模型。但在 Forge Engineering 中，如果千问和 Llama 足够相似，可以共用一套框架；如果千问和 DeepSeek 差异很大，就可以从零写两套框架，让各自都得到更好优化。\n李宇轩用手机作比喻：今天的 iPhone 是非常优秀的通用产品，因为背后有一家大型公司长期优化。但如果未来生产效率足够高，最理想的产品可能不是一台通用手机，而是“乔布斯坐在你旁边，用一天时间为你打造一台完全满足你需求的手机”。Forge Engineering 希望在软件层面实现类似效果。\n李宇轩认为，当前 Harness 行业整体仍处于蛮荒状态。不同团队的目标、方法、评测标准和技术路径都可能不同。但它们的共同点在于：都试图在模型之上建立一套“缰绳”，为模型提供稳定环境、工具、上下文和行动指引，让模型能够完成更复杂的任务。",
-    "content_source": "readability",
-    "content_chars": 5579,
-    "content_excerpt": "英伟达最难被替代的，从来不是一张 GPU，而是 CUDA 背后十几年积累出来的软件生态。\n现在，面壁智能想用 AI 来压缩这十几年。\n近日，面壁智能发布了全球首个全部由 AI 编写、零人介入、面向大模型训练基础设施的生产级训练框架 ForgeTrain。据面壁方面介绍，ForgeTrain 已经在华为昇腾系列上完成 MiniCPM5-1B 的训练验证，整体速度提升 10%。通过此框架， MiniCPM5-1B 的预训练耗时为 3-5 天，MiniCPM4-0.5B 在英伟达 GPU 上预训练用了两天。\n面壁通过此框架想要验证：当大模型 coding 能力足够强、成本趋近于零时，我们不一定要继续做一个大而全的通用框架，而可以围绕每个模型、每类芯片和每个训练任务，现场“锻造”一套更合适的实现。\nAI 写代码，人来加 Harness\n在英伟达的 VibeTensor（作者包括陈天奇、贾扬清等）证明了 AI Agent 能写出复杂系统软件后，ForgeTrain 则围绕具体模型、芯片和训练任务现场生成生产级训练框架，目标更偏工程落地。\n面壁团队介绍了 ForgeTrain 的三阶段构建方法论：\n1. 从现有训练框架采集关键数据形成评测标准和 Harness；\n2. 从评测 Harness 构建二进制一致的训练框架版本（目前已经完成多机多卡版本，比英伟达 Megatron 训练速度快 10%）；\n3. 解除二进制一致的限制，迭代优化到超越 Megatron 的性能。",
-    "title_original": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "d39d7de0ab30",
-    "title": "Report: Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-    "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-28T15:35:43",
-    "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
-    "collected_at": "2026-05-28T20:10:35.331027",
-    "content_text": "On Thursday, the AI startup\nSesame\n, co-founded by\nOculus’ founders\nand others from the\nVR company that sold to Meta\n, released a public preview of the conversational AI agents it’s been developing for over a year. With its\nnew iOS app\n, Sesame is rethinking the traditional AI chatbot experience popularized by apps like ChatGPT, creating one where conversation flows, even if the AI needs time to think.\nAs the company explains in its launch\nannouncement\n, “There’s an inherent tension between replying quickly and taking the time to compose thoughtful responses. A slower response is usually more correct, but it can also feel unnatural if it takes too long.”\nImage Credits:\nSesame\nTo address this challenge, Sesame claims to have built fast search and retrieval systems, so the AI can have up-to-date information, as well as technology that allows it to run multiple parallel searches while speaking, weaving those results into its responses as it talks. That means the AI will talk more like a human, even pivoting mid-sentence if need be, as it taps into newer information — as a human might when remembering another key fact or point they want to add.\nThe app offers four distinct AI agents called Maya, Miles, Simone, and Charlie, each of which have their own distinct voice, personality, point of view, and memory. Maya and Miles were previously available in Sesame’s Research Preview of its technology, where they were soon accessed by over a million people within the first few weeks,\nsaid Sesame investor Sequoia\nat the time. (The company had then just raised its $250 million Series B from Sequoia and others and was opening up a beta.)\nImage Credits:\nSesame\nDuring the beta, Sesame learned from user feedback and rolled out features such as search cards with image results for visualizing concepts, notes for capturing takeaways, a texting mode for those times when speaking aloud is not an option, and support for deep dives where you can get more in-depth results. There’s also a new incognito mode for private conversations, which allows the agents access to prior context but saves nothing to memory.\nThe app, however, is only the first step toward Sesame’s bigger plans for AI involving intelligent eyewear, which the team expects to launch in 2027. Before that, the agents will also learn to do more than just think with you, Sesame hints, suggesting they’ll later be able to take action on your behalf — hence why they’re called “agents” in the first place, instead of just chatbots.\nImage Credits:\nSesame\nThat is potentially even more interesting, as working with agentic tools or apps today requires being able to prompt for what you need and have a specific idea of what you want to happen, and sometimes, even how it should happen. A conversational agent that you could talk to naturally could help you take the next steps, without you having to perfect the command you’re giving it.\nThe\niOS app\nis out today in 39 countries, and the full experience is free for the time being. However, there still may be a short waitlist at sign-up. An\nAndroid preview\nis coming in the future, the company says.",
-    "content_source": "readability",
-    "content_chars": 3121,
-    "content_excerpt": "On Thursday, the AI startup\nSesame\n, co-founded by\nOculus’ founders\nand others from the\nVR company that sold to Meta\n, released a public preview of the conversational AI agents it’s been developing for over a year. With its\nnew iOS app\n, Sesame is rethinking the traditional AI chatbot experience popularized by apps like ChatGPT, creating one where conversation flows, even if the AI needs time to think.\nAs the company explains in its launch",
-    "title_zh": "Oculus 创始人创立的对话式人工智能初创公司 Sesame 推出 iOS 应用",
-    "summary_zh": "Sesame 的新 iOS 应用程序将其对话式人工智能代理推向公众，提供更自然的来回交互，旨在感觉不像传统的聊天机器人，而更像是在与人交谈",
-    "ai_summary": "Sesame 的新 iOS 应用程序将其对话式人工智能代理推向公众，提供更自然的来回交互，旨在感觉不像传统的聊天机器人…",
-    "title_original": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "054b3b87e626",
-    "title": "深度解读：深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？",
-    "url": "https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-28T15:08:42",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-28T09:51:16.074177",
-    "title_original": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "5ae8ee806afa",
-    "title": "In depth: Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-    "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-28T14:45:13",
-    "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
-    "collected_at": "2026-05-28T15:34:32.406917",
-    "content_text": "Just ahead of Apple’s Worldwide Developers Conference (WWDC) in June,\nBloomberg\nhas published leaked renders of what Apple’s planned AI upgrade could look like on iPhone — including a brand-new Siri app meant to rival ChatGPT and other AI chatbots — as well as how Siri’s new capabilities will be woven throughout the operating system.\nThe images were produced by Bloomberg based on what it saw and learned from sources.\nWhile you’ll still be able to press a button in iOS 27 to trigger Siri, the animation and response will now emerge from the iPhone’s\nDynamic Island\n— that’s the black pill-shaped area at the top of the screen that today houses Live Activities, the real-time updates and interactive displays from apps that appear directly on the phone’s Home Screen. This mode will work best for quick voice queries or searches, much like how people use Siri currently.\nA new mode, however, will put Siri-powered search within easy reach, capitalizing on people’s muscle memory for swiping down on their screen to access Spotlight Search — a built-in way to find information from both your phone and the web in one place. The swipe-down gesture will still open search, but now those searches will draw on the AI-powered Siri, which includes a rebuilt AI model that\nuses Google’s Gemini AI technology under the hood\nfor added intelligence.\nImage Credits:\nBloomberg/Illustration: 731; Photo: 731\nFrom here, iPhone users can search, launch apps, start messages, ask about the weather, add calendar appointments, search their notes, and trigger app shortcuts, Bloomberg reports, with results displayed in formatted text in a card-style interface that also emerges from the Dynamic Island.\nApple’s approach to AI is strikingly similar to its earlier\nmulti-billion dollar\npartnership with Google that made Google the default search engine on iPhone. Just as building a search engine from scratch was never in Apple’s playbook, AI presents a similar calculus — it’s too expensive and complex to go it alone, at least right now. So Apple is working with outside partners for AI technology that users want today, while simultaneously building out its own models,\nincluding local AI\n, that runs on local devices rather than the cloud — an approach that allows Apple to lean into it privacy brand without needing to catch up.\nBloomberg also notes there will be a new standalone Siri app — as previously reported — designed to compete directly with chatbots like ChatGPT, Claude, Gemini, and others. The app will surface your past chat history and allow you to upload documents and photos, in addition to text.\nScale, as ever, is Apple’s advantage. While ChatGPT now has\n900 million\nweekly active users, Apple’s install base (all devices, not just iPhone) is\n2.5 billion\n— meaning the company has an unmatched runway to introduce AI to people who haven’t yet adopted standalone AI tools.",
-    "content_source": "readability",
-    "content_chars": 2879,
-    "content_excerpt": "Just ahead of Apple’s Worldwide Developers Conference (WWDC) in June,\nBloomberg\nhas published leaked renders of what Apple’s planned AI upgrade could look like on iPhone — including a brand-new Siri app meant to rival ChatGPT and other AI chatbots — as well as how Siri’s new capabilities will be woven throughout the operating system.\nThe images were produced by Bloomberg based on what it saw and learned from sources.\nWhile you’ll still be able to press a button in iOS 27 to trigger Siri, the animation and response will now emerge from the iPhone’s\nDynamic Island\n— that’s the black pill-shaped area at the top of the screen that today houses Live Activities, the real-time updates and interactive displays from apps that appear directly on the phone’s Home Screen. This mode will work best for quick voice queries or searches, much like how people use Siri currently.\nA new mode, however, will put Siri-powered search within easy reach, capitalizing on people’s muscle memory for swiping down on their screen to access Spotlight Search — a built-in way to find information from both your phone and the web in one place. The swipe-down gesture will still open search, but now those searches will draw on the AI-powered Siri, which includes a rebuilt AI model that\nuses Google’s Gemini AI technology under the hood\nfor added intelligence.",
-    "title_zh": "新 Siri 应用先睹为快，揭示苹果计划挑战 ChatGPT 等",
-    "summary_zh": "新的渲染让人们更仔细地了解苹果计划对 iOS 27 进行的人工智能改造，包括重新设计的 Siri 体验驱动的独立 Siri 应用程序",
-    "ai_summary": "新的渲染让人们更仔细地了解苹果计划对 iOS 27 进行的人工智能改造，包括重新设计的 Siri 体验驱动的独立 Sir…",
-    "title_original": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "8a4d6656a4d3",
-    "title": "腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk，这意味着什么？",
-    "url": "https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-28T14:46:52",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-28T09:51:16.074208",
-    "title_original": "腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "5dd8b5fd7446",
-    "title": "Latest: These new iOS 27 renders hint at Siri’s big redesign",
-    "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-28T14:33:31",
-    "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass.",
-    "collected_at": "2026-05-28T15:34:32.553704",
-    "content_text": "Apple’s long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are “based on information viewed by Bloomberg and people with knowledge of [Apple’s] plans,” and could differ from Apple’s final designs, which Bloomberg’s Mark Gurman says Apple will reveal at WWDC in June.\nThese new iOS 27 renders hint at Siri’s big redesign\nUsers may be able to start chats with the new-and-improved Siri from the Dynamic Island or a new standalone app.\nUsers may be able to start chats with the new-and-improved Siri from the Dynamic Island or a new standalone app.\nThe images show a new pill-shaped Siri chat bubble popping out of the Dynamic Island with a drop-down menu containing options for Ask, Siri, and ChatGPT. According to Gurman, you’ll be able to open this new chat bubble by swiping down from the center of the top edge of the display. It will reportedly work anywhere in iOS 27, similar to how Android users can start a Gemini chat by tapping and holding the home button, regardless of what app they’re in.\nThe new standalone Siri app shown in Bloomberg’s renders resembles ChatGPT’s chatbot layout, with a pill-shaped query box, buttons for adding attachments and activating voice mode, and chat history. Past chats will reportedly be viewable as a list or as a collection of rectangles, similar to how notes are laid out as blocks in Google Keep.\nBloomberg also offers a glimpse at Apple’s updated Camera app, which is rumored to include a new Siri mode and more customization options. The renders show a new menu of widgets for adding (or removing) controls in the Camera app, as well as a “Siri” option nestled between the “Photo” and “Portrait” modes. A similar AI “Tools” editing option also appears in Bloomberg’s render of the updated Photos app, which will reportedly include three new AI editing features, along with the current “Clean Up” option.\nApple is expected to show off its big Siri overhaul at WWDC, which kicks off on June 8th. The keynote presentation will also likely spotlight the next round of updates to Apple’s operating systems.",
-    "content_source": "trafilatura",
-    "content_chars": 2230,
-    "content_excerpt": "Apple’s long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are “based on information viewed by Bloomberg and people with knowledge of [Apple’s] plans,” and could differ from Apple’s final designs, which Bloomberg’s Mark Gurman says Apple will reveal at WWDC in June.\nThese new iOS 27 renders hint at Siri’s big redesign\nUsers may be able to start chats with the new-and-improved Siri from the Dynamic Island or a new standalone app.\nUsers may be able to start chats with the new-and-improved Siri from the Dynamic Island or a new standalone app.\nThe images show a new pill-shaped Siri chat bubble popping out of the Dynamic Island with a drop-down menu containing options for Ask, Siri, and ChatGPT. According to Gurman, you’ll be able to open this new chat bubble by swiping down from the center of the top edge of the display. It will reportedly work anywhere in iOS 27, similar to how Android users can start a Gemini chat by tapping and holding the home button, regardless of what app they’re in.\nThe new standalone Siri app shown in Bloomberg’s renders resembles ChatGPT’s chatbot layout, with a pill-shaped query box, buttons for adding attachments and activating voice mode, and chat history. Past chats will reportedly be viewable as a list or as a collection of rectangles, similar to how notes are laid out as blocks in Google Keep.\nBloomberg also offers a glimpse at Apple’s updated Camera app, which is rumored to include a new Siri mode and more customization options. The renders show a new menu of widgets for adding (or removing) controls in the Camera app, as well as a “Siri” option nestled between the “Photo” and “Portrait” modes. A similar AI “Tools” editing option also appears in Bloomberg’s render of the updated Photos app, which will reportedly include three new AI editing features, along with the current “Clean Up” option.\nApple is expected to show off its big Siri overhaul at WWDC, which kicks off on June 8th. The keynote presentation will also likely spotlight the next round of updates to Apple’s operating systems.",
-    "title_zh": "这些新的 iOS 27 渲染暗示了 Siri 的重大重新设计",
-    "summary_zh": "苹果期待已久的 Siri 改革预计将在 iOS 27 中发布，它可能看起来很像带有 Liquid Glass 的 ChatGPT。彭博社的渲染图提供了 iOS 27 的预览，包括 Siri 的新应用程序和聊天界面。这些渲染图“基于彭博社和人…",
-    "ai_summary": "苹果期待已久的 Siri 改革预计将在 iOS 27 中发布，它可能看起来很像带有 Liquid Glass 的 Cha…",
-    "title_original": "These new iOS 27 renders hint at Siri’s big redesign",
-    "summary_original": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people wit",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "6a95de9a619e",
-    "title": "突发：Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定",
-    "url": "https://www.infoq.cn/article/UdQ0zzmK6TOwZlB1qDSo?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-05-28T14:41:52",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-28T09:51:16.074236",
-    "content_text": "摘要\n我在几天内用智能体编程 (Agentic Coding) 构建了一个完整的 AI 应用。\n关键的经验是：当数据平台能够原生处理复杂部分时，智能体编程才能真正发挥作用。开源组件、统一的 SQL 接口以及对 AI 友好的工具，是让你能够高效地在现有技术栈上进行构建，而不是与其“搏斗”的关键。\n作为 ClickHouse 的解决方案架构师，我一直希望构建一个超越幻灯片和截图的演示，一个能让零售客户立刻代入自身场景的方案：一个名为\nClickShop\n的全栈零售分析平台。该应用集实时分析（仪表盘能够在亚秒级查询数十亿行数据）、事务性工作流（订单管理、合同摄取、客户更新）、18 个针对不同业务角色（如 CEO、销售、数据分析师）定制的专业 AI 智能体，以及一个完整的可观测性堆栈于一体。该可观测性堆栈既涵盖了 LLM 追踪（通过 Langfuse 实现提示管理、成本跟踪和评估），也包括了基础设施监控（通过 ClickStack 实现指标、日志和分布式追踪）。我的目标是构建一个足够真实的系统，能够展示给客户并自信地说：“您的生产环境可以就是这个样子。” 然而，挑战在于：我既不是前端也不是后端开发人员，而且我只有几天的时间。这篇博客将详细介绍我是如何构建这个平台的，我做出了哪些架构决策，以及 ClickHouse 数据栈为何能让这一切成为可能。\n以下是该应用在实际运行中的界面：一个 CEO 工作区，其中包含实时关键绩效指标 (KPI)、按地理区域划分的营收明细，以及一个能够查询实时 ClickHouse 数据并回答业务问题的 AI 智能体。\nClickShop 智能界面：高管仪表盘与 AI 智能体接口\n待解决的问题\n作为一名解决方案架构师，我的大部分时间都用于帮助客户设计数据架构：绘制图表、审查数据模式并解释查询优化。然而，当需要在真实应用场景中展示 ClickHouse 的实际能力时，单纯的幻灯片演示效果有限。我希望构建一个能够让零售客户一目了然，并立即理解该平台如何融入他们现有技术栈的系统。这不是一个简单的“玩具”演示，而是一个能够展现他们日常所需复杂性的真实应用：涵盖分析、事务处理、AI 和监控。\n挑战在于，构建这类应用通常需要一个完整的团队耗费数月时间。我两者皆无。于是问题随之而来：一个人，借助 AI 驱动的 IDE 和合适的平台，能否构建出值得信赖的产品？\n其架构概览如下：\n该应用的核心由三个层面构成：\n前端层 (Next.js) 为不同业务角色提供定制化工作区。CEO、销售经理、数据分析师等，他们各自拥有专属的仪表板、数据范围和 AI 代理。\n数据层 融合了 ClickHouse 和 PostgreSQL 。ClickHouse 负责分析型工作负载，能够实现仪表板和报告所需的数十亿行数据亚秒级查询。PostgreSQL 则处理事务性操作，包括订单管理、客户更新和合同录入。 ClickPipes CDC (Change Data Capture) 负责将 PostgreSQL 的数据变更实时同步到 ClickHouse，确保分析结果始终反映最新状态。对于偏好使用 Python 的数据科学家， chDB （一个进程内 (in-process) ClickHouse 引擎）允许他们运行熟悉的 Pandas 工作流，而实际执行则在底层下推 (push down) 到 ClickHouse。\n代理层 ( LibreChat + LLMs) 赋能 18 个专业化的 AI 代理。LibreChat 负责管理对话和路由，每个代理都拥有独立的系统提示 (system prompt)、上下文 (context) 和数据范围 (data scope)。例如，CEO 代理能解释上周收入下降的原因；销售代理可识别当前热门产品；数据代理则协助编写和优化 SQL 查询。\n在此基础上，该应用还配备了两个独立的可观察性 (observability) 层。这一区别至关重要，因为对 AI 应用的监控涉及两个截然不同的方面：\n基础设施可观测性 ( ClickStack )：这属于经典的应用程序监控范畴。它通过 OpenTelemetry 收集指标（如 CPU、内存、请求延迟）、日志和分布式追踪，旨在回答以下问题：应用程序是否健康？API 调用是否缓慢？瓶颈究竟位于何处？\nLLM 可观测性 ( Langfuse )：这专为 AI 智能体设计。它追踪发送给 LLM 的每个提示 (prompt)、接收到的每个响应、每次调用的成本和延迟，并支持质量评估（包括自动化评分和人工审核）。它旨在回答不同的问题：这些智能体是否提供了高质量的答案？哪些提示需要调优 (tuning)？每次对话的成本是多少？\nLangfuse 和 ClickStack 均基于 ClickHouse 运行。结合 ClickHouse Cloud 进行数据分析、由 ClickHouse 管理的 PostgreSQL 处理事务、以及 ClickPipes 负责数据移动，整个技术栈得以在单一平台上运行。\n为什么选择智能体编程，又为何是当下？\nAI 辅助编程已从最初的好奇心演变为工作流程中的标准组成部分。作为一名解决方案架构师，我注意到相关工具已足够成熟，足以实现我长久以来的一个想法：独立构建一个完整的演示应用，无需依赖工程团队。\n此举的动机非常实际。当我与零售客户会面时，交流往往遵循相同的模式：他们希望了解 ClickHouse 如何处理他们的具体用例，这不仅仅是通过基准测试，而是通过一个模拟其真实环境的场景来展现。他们希望看到：具备真实数据的仪表盘、能解答业务问题的智能体，以及能展示底层运行情况的可观测性。幻灯片无法做到这一点，但一个真实运行的应用程序可以。\n于是，我决定一试。我选择了 Cursor，这是一款能根据自然语言生成代码的 AI 驱动集成开发环境 (IDE)，并为自己设定了一个简单目标：构建一个用于客户会议的零售分析平台，且整个技术栈都运行在 ClickHouse 数据栈之上。\nCursor：AI 驱动的 IDE\n本项目中使用的工具是\nCursor\n，一款能够根据自然语言提示 (prompt) 生成代码的集成开发环境 (IDE)。实际操作中，工作流程如下：您描述需求，Cursor 随即生成代码；您进行审阅，必要时进行调整，随后便可着手下一项功能。\n对于本项目，开发循环过程十分直接：\n1. 我用自然语言描述一个功能（例如：“创建一个仪表盘，显示过去 30 天按国家划分的收入，查询 ClickHouse”）\n2. Cursor 生成前端组件、API 路由和 SQL 查询。\n3. 我审查输出，在本地进行测试，并根据需要进行迭代。\n4. 功能实现后，我将其推送到 GitHub ，Vercel 便会自动部署。\n一个显著的优势在于 ClickHouse 是开源的，并且拥有广泛的文档。大型语言模型（LLMs）已经掌握 ClickHouse SQL、MergeTree 引擎系列等知识。同样，堆栈中的其他开源组件，如 PostgreSQL、LibreChat 和 Langfuse，也具备这一特点。由于这些项目拥有庞大的公共代码库和完善的文档，AI 能够从一开始就生成相关代码，从而减少了反复调整的次数。这是基于开源项目进行构建的一大优势：对于专有闭源数据库，LLMs 无法访问其代码库或内部机制，因此它们更多地是猜测，出错的概率也更高。\nCursor 市场与技能\n此外，Cursor 提供了一个\n市场\n，用户可以从中安装社区构建的技能（Skills）。技能是小型的知识模块，用于教授 AI 特定工具的最佳实践。在此项目中，我安装了\nClickHouse 最佳实践\n技能和\nLangfuse\n技能，这两项技能均可直接在市场中获取。它们能够引导 AI 做出正确的引擎选择、进行适当的模式设计并遵循集成规范，而无需我在每次提示时重复解释。\n这里有一个实用技巧：在任何项目结束时，一旦你花费数小时与 Cursor 反复协作并使架构趋于稳固，可以要求 Cursor 将整个对话转化为一项技能。它会记录你所确立的所有决策、模式和约定，因此，当你下次启动类似项目时，便能完全跳过学习曲线。\n逐步构建 ClickShop\n在本节中，我将逐层讲解应用程序的构建过程。我特意从宏观层面进行阐述，以确保整体方法易于理解和遵循。此处的目的是向您展示项目的全貌。\n从数据层开始\n我首先着手构建的是数据基础。该应用程序需要处理两种类型的工作负载：事务性工作负载（包括创建订单、更新客户信息、导入合同等）和分析性工作负载（例如，仪表板需要在亚秒级内查询数十亿行数据）。我没有选择两个独立的供应商，而是采用了 ClickHouse 数据栈：由 ClickHouse 管理的 PostgreSQL 用于事务处理，而 ClickHouse Cloud 则负责分析处理。\n为了确保所有数据同步，我配置了\nClickPipes CDC\n。它能够将 PostgreSQL 中的事务数据实时镜像到 ClickHouse 中，且无需管理任何外部管道。在 ClickHouse 环境中，数据遵循\nMedallion 架构\n：镜像的事务数据会首先存储在\nBronze\n表中，并与原始事件流汇聚；\nSilver\n表利用物化视图对数据进行清洗和去重；而\nGold\n表则对结果进行预聚合，以确保仪表板能够在亚秒级内快速响应查询。\n构建前端工作区\n数据基础搭建完成后，我使用 Next.js 14 构建了前端界面，并将其部署在 Vercel 上。每个业务角色（persona）都拥有专属的工作区，其中包含根据其特定角色量身定制的仪表板和工具：\nCEO 工作区 ：展示高管关键绩效指标 (KPIs)、全球收入分布图和趋势分析。\n销售工作区 ：侧重于销售管道管理、交易详情查询和 PDF 合同导入。\n数据工作区 ：提供一个交互式 SQL 笔记本，用户可以在其中同时查询 ClickHouse 和 PostgreSQL；此外还集成了 chDB ，这是一个进程内 (in-process) ClickHouse 引擎，它允许数据科学家编写熟悉的 Pandas 代码，而实际执行则在底层下推 (push down) 到 ClickHouse。\n诊断页面 ：验证所有服务运行状况并允许生成测试数据。\n每个工作区都嵌入了各自的 AI 代理 (AI agent)，接下来我们将探讨代理层 (agentic layer)。\n添加 AI 代理\n这些 AI 代理由 LibreChat 提供支持，这是一个集成在 ClickHouse 数据栈中的开源代理平台 (agentic platform)。每个 persona 都拥有其专属的代理，这些代理具备各自的系统提示、数据范围和上下文。例如，CEO 代理专注于宏观业务指标；销售代理擅长处理销售管道和收入相关事务；而数据代理则协助编写和优化 SQL 查询。\n除了对话功能，\nLangfuse\n还负责处理 LLM 的可观测性：它能对每个提示进行版本管理，追踪每个代理的响应，按会话记录成本，并通过自动化评分或人工审查来评估质量。\n通过可观测性实现闭环\n我添加的最后一层是通过 ClickStack 实现的基础设施可观测性。应用程序通过 OpenTelemetry 收集器将指标、日志和分布式追踪导出到 ClickHouse。在此之上，ClickStack 提供仪表盘、告警和会话回放功能。这意味着，当用户加载仪表盘或向代理提问时，我能准确了解发生了什么：包括调用了哪个 API，ClickHouse 查询耗时多久，以及响应是否被缓存。\n结合 Langfuse 提供的 LLM 可观测性，这为应用程序带来了两个互补的监控层：一个用于基础设施，一个用于 AI。这两个监控层都运行在 ClickHouse 上。\n构建 ClickShop 所用的提示\n既然大家对整体架构已有所了解，下面我将分享一些用于构建各层的提示。为了让本文更侧重于方法和架构，我在此对这些提示进行了简化。后续文章将更深入地介绍完整的提示、代码示例和实现细节。\n关键在于，好的提示应该像给同事的指令，而非代码。注入的领域知识越多，输出效果就越好。\n数据层\n\"我需要 PostgreSQL 来存储我的业务操作数据（包括客户、产品、订单和支付信息），而 ClickHouse 则用于分析数据（例如页面浏览、购物车事件、结账事件、支付事件和订单事件）。请设计能够反映真实电商平台的 Schema。\"\n这正是领域知识发挥关键作用之处。我预先明确了双数据库策略，然后 Cursor 为每种数据库引擎生成了正确的 DDL。对于 ClickHouse，它应用了恰当的\nORDER BY\n键、\nLowCardinality\n和 TTL 策略；对于 PostgreSQL，它则创建了带有外键和索引的关系型 Schema。\n我还从 Cursor 市场安装了两个 MCP 连接器：一个用于\nClickHouse\n，另一个用于\nPostgreSQL\n。MCP 允许 Cursor 直接连接到每个数据库实例，自动发现其 Schema，并执行查询，我甚至无需打开数据库控制台。这意味着无需使用\nclickhouse-client\n，也无需\npsql\n。\n前端工作区\n“为我构建一个具有深色/浅色主题的 Web 应用程序。我需要为 CEO、销售经理和数据分析师提供独立的工作区。添加一个着陆页和一个导航栏。”\n这个单一的提示就生成了项目的结构、样式、布局和导航。在此基础上，每个工作区都逐步构建，并拥有各自的仪表盘、数据范围和嵌入式 AI 智能体。\nAI 智能体\n“将 LibreChat 添加到项目中。我希望它嵌入到每个工作区中，用于自由交流，并作为 API 为专用智能体提供支持，每个智能体都能回答关于我数据的特定问题。”\nLibreChat 扮演着双重角色：iframe 为用户提供自由形式的聊天体验，而其 API 则驱动着执行特定任务（如欺诈检测、管道健康状况、收入分析、查询优化）的专用智能体。每个智能体都拥有自己的系统提示和数据范围。\n通过可观测性实现闭环\n“为 LibreChat 智能体集成 Langfuse，它具有原生集成能力。对于 ClickStack，我希望对每个组件实现全面的可观测性：涵盖整个技术栈中每个服务名称的链路追踪、日志、指标和会话回放，并全部通过 OpenTelemetry 发送。”\n在大语言模型（LLM）方面，Langfuse 与 LibreChat 实现了原生集成：只需配置少量环境变量，无需编写自定义代码。每次智能体交互都会自动进行追踪，包括会话上下文、提示版本、成本追踪和评估分数。在基础设施方面，ClickStack 则收集分布式追踪、指标、结构化日志和会话回放，所有数据均存储在 ClickHouse 中，并可通过 SQL 进行查询。\n部署\n“将此项目推送到 GitHub 并部署到 Vercel。确保环境变量已配置。”\nCursor 创建了代码仓库，推送了代码，并配置了 Vercel 部署。此后每次\ngit push\n操作都会触发自动重新部署。\n提示中未展示的内容\n读完这篇博客，你可能会认为 Agentic 编程是从提示到结果的一步到位过程。并非如此。我上面展示的每个简洁提示背后，都经过了多次迭代，其中 AI 曾误解意图、重构了我不曾要求改动的部分，或是生成了在本地运行正常但在生产环境中却出现问题的代码。你花费在审查和纠正上的时间可能比预期的要多。Agentic 编程虽然速度快，但并非线性发展。本博客中简化的提示只反映了成功的部分，而非完整的探索历程。每一次迭代都有其成本。每次 agent 调用、每次提示重试、每次对话都会消耗 token。Langfuse 的重要性便凸显于此：它能跟踪每个 agent、每个会话、每个用户的成本，从而让你了解预算开销，并识别哪些提示需要优化。\n平台的重要性\n如果说这个项目能让你从中汲取一点启示，那就是：你所依赖的平台直接影响了你的架构是简单还是复杂。\n大多数数据平台并非设计用于直接服务应用程序。它们在并发访问下会面临性能瓶颈，难以同时处理混合工作负载（分析型和事务型），并常常迫使你额外增加缓存层或中间件，仅仅是为了维持可接受的响应时间。随着用户和 agent 数量的增加，架构承受的压力也随之增大。最终，你不得不绕开数据库的限制进行开发，而非在其之上充分构建。\n借助 ClickHouse 数据栈，我无需处理上述任何问题。ClickHouse Cloud 负责处理分析型工作负载。由 ClickHouse 管理的 PostgreSQL 负责处理事务。ClickPipes 在二者之间原生同步数据，无需额外搭建外部数据管道。LibreChat 提供 Agentic 层，Langfuse 提供 LLM 可观测能力，ClickStack 提供基础设施监控。所有这些组件都是开源的，它们的数据均存储在 ClickHouse 中，且均支持 SQL。架构之所以保持简单，是因为技术栈保持一致。正如我之前提到的，所有组件都是开源的，这意味着 AI 已经能够很好地理解并与之协作。ClickHouse 也投入大量资源，致力于构建 Agent 友好型技术栈，包括：MCP 连接器、IDE 技能，以及基于 LibreChat 和 Langfuse 构建的完整 Agentic 数据栈。\n这使得将智能体编程 (Agentic Coding) 用于构建数据密集型应用成为可能。当你的数据平台能够原生处理这些复杂任务，并且 AI 能够深度理解该平台时，你就可以将精力集中在产品本身，而非繁琐的底层“管道”工作上。由于需要协调的环节更少，迭代速度也会加快。最终，你将得到一个真正能够投入生产的应用，因为它的底层基础就是为此而设计的。\n构建于数据之上，而非底层“管道”工作\nClickShop 最初只是一个用于客户会议的演示项目。但它逐渐演变为一个更重要的证明：一个人，凭借合适的数据技术栈 (data stack) 和 AI 驱动的集成开发环境 (IDE)，就能在几天内构建一个涵盖分析、事务、AI 智能体 (AI agents) 和可观测性 (observability) 的全栈应用 (full-stack application)。\n如果你是一名开发者或构建者，正在寻找一个数据平台来赋能你的下一个项目，我希望本文能为你描绘出一种具体的可能性。ClickHouse 不仅仅是一个快速的分析引擎 (analytics engine)。它是一个完整的数据技术栈，你可以在其中运行事务 (transactions)、移动数据、监控基础设施、追踪大型语言模型 (LLM) 调用，并使用 SQL 查询所有数据。正是这种极致的简洁性，带来了非凡的差异化体验。\n现在，轮到你了。选择一个用例，打开你喜欢的 AI 编程工具 (AI coding tool) (如 Cursor、Claude Code、Codex 或任何你偏好的工具)，然后开始在 ClickHouse 数据技术栈之上构建你的应用吧。\n/END/\n征稿启示\n面向社区长期正文，文章内容包括但不限于关于 ClickHouse 的技术研究、项目实践和创新做法等。建议行文风格干货输出 &图文并茂。质量合格的文章将会发布在本公众号，优秀者也有机会推荐到 ClickHouse 官网。请将文章稿件的 WORD 版本发邮件至：Tracy.Wang@clickhouse.com。",
-    "content_source": "readability",
-    "content_chars": 8063,
-    "content_excerpt": "摘要\n我在几天内用智能体编程 (Agentic Coding) 构建了一个完整的 AI 应用。\n关键的经验是：当数据平台能够原生处理复杂部分时，智能体编程才能真正发挥作用。开源组件、统一的 SQL 接口以及对 AI 友好的工具，是让你能够高效地在现有技术栈上进行构建，而不是与其“搏斗”的关键。\n作为 ClickHouse 的解决方案架构师，我一直希望构建一个超越幻灯片和截图的演示，一个能让零售客户立刻代入自身场景的方案：一个名为\nClickShop\n的全栈零售分析平台。该应用集实时分析（仪表盘能够在亚秒级查询数十亿行数据）、事务性工作流（订单管理、合同摄取、客户更新）、18 个针对不同业务角色（如 CEO、销售、数据分析师）定制的专业 AI 智能体，以及一个完整的可观测性堆栈于一体。该可观测性堆栈既涵盖了 LLM 追踪（通过 Langfuse 实现提示管理、成本跟踪和评估），也包括了基础设施监控（通过 ClickStack 实现指标、日志和分布式追踪）。我的目标是构建一个足够真实的系统，能够展示给客户并自信地说：“您的生产环境可以就是这个样子。” 然而，挑战在于：我既不是前端也不是后端开发人员，而且我只有几天的时间。这篇博客将详细介绍我是如何构建这个平台的，我做出了哪些架构决策，以及 ClickHouse 数据栈为何能让这一切成为可能。\n以下是该应用在实际运行中的界面：一个 CEO 工作区，其中包含实时关键绩效指标 (KPI)、按地理区域划分的营收明细，以及一个能够查询实时 ClickHouse 数据并回答业务问题的 AI 智能体。\nClickShop 智能界面：高管仪表盘与 AI 智能体接口\n待解决的问题\n作为一名解决方案架构师，我的大部分时间都用于帮助客户设计数据架构：绘制图表、审查数据模式并解释查询优化。然而，当需要在真实应用场景中展示 ClickHouse 的实际能力时，单纯的幻灯片演示效果有限。我希望构建一个能够让零售客户一目了然，并立即理解该平台如何融入他们现有技术栈的系统。这不是一个简单的“玩具”演示，而是一个能够展现他们日常所需复杂性的真实应用：涵盖分析、事务处理、AI 和监控。",
-    "title_original": "Agentic Coding + ClickHouse: 1人1栈1应用，AI全栈几天搞定",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
-    "id": "0ec483fbd67f",
-    "title": "Breaking: RSI is the new AGI — and it’s just as hard to pin down",
-    "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-28T14:30:17",
-    "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
-    "collected_at": "2026-05-28T15:34:32.406963",
-    "content_text": "The word “recursion” is the latest buzzword in AI circles. Two separate startups have taken on the name, and many more have started referencing Recursive self-improvement (RSI) in their roadmaps. Like AGI before it, RSI has become a three-letter byword for a cataclysmic AI takeoff – even if there’s still a little disagreement about exactly what it means.\nIn basic terms, RSI refers to an AI system that can continuously upgrade itself. Once AI systems can manage the upgrade cycle better than humans, the process can become a closed loop, limited only by the compute power they can access, and humans no longer necessary or even helpful.\nScary or not, that’s a vision that a lot of AI labs are eager to chase.\nEarlier this month, well-known AI researcher, Richard Socher, launched the aptly named Recursive Superintelligence launched with RSI as an explicit goal. “Our main focus is to build truly recursive, self-improving superintelligence at scale,” Socher\ntold TechCrunch at launch\n, “which means that the entire process of ideation, implementation, and validation of research ideas would be automatic.”\nA number of other prominent researchers are already chasing that same goal, hoping for a breakthrough that will make recursive self-improvement possible.\nOne of the most prominent is Alex Karpathy, a legendary figure from Tesla and OpenAI, who is using agent swarms to train LLMs on simple tasks for a project he calls\nAuto-Research\n. Karpathy has been unusually open about the project,\ntweeting about milestones regularly\nand making the building blocks available through a public GitHub repo. So far, the work has mostly been confined to making minor improvements on a GPT-2 scale model – as Karpathy noted in March, “It’s not novel, ground-breaking ‘research’ (yet)” – but it’s been enough to convince lots of other researchers to follow the RSI dream. And with Karpathy now working\non pre-training at Anthropic\n, he will have plenty of opportunity to apply the idea at a larger scale.\nAdaption – founded by Cohere and Google alum Sara Hooker – recently\nlaunched a similar tool called AutoScientist\nin an effort to automate frontier training. Like Karpathy’s auto-researchers, the system trains agents to make incremental improvements – but for Adaption, the goal is to make it easier to train a full-scale frontier model. If those same researchers start to push the frontier forward, the system could quickly spiral into something very much like RSI.\nDisarray founder Doris Xin drew more specific RSI interest when her self-trained machine learning agent\ntook home 28 medals in a recent Kaggle competition\n, beating out many human-trained agents. As she sees it, the major challenge is reliability.\n“I would argue, given infinite compute and infinite time horizon, we are already there,” Xin told me. “I want to make an argument that this is not a creative endeavor, really. It’s just a lot of meat-and-potatoes engineering.”\nNot there yet\nThere’s also plenty of evidence that the AI industry isn’t very close to recursive systems in any meaningful way — and is still grappling with talking to a wary public about its progress. So Google CEO Sundar Pichai basically admitted in\na recent podcast interview\n.\n“It’s a continuum, and we are all definitely making progress,” Pichai said. “But in the way people describe R.S.I., that would represent a next level of acceleration and would have a lot of implications, but we aren’t quite there yet.”\nBut the continuum includes an awful lot of self-improving AI systems.\nIn January,\none of Anthropic’s lead programmers for Claude Code estimated that “close to 100%” of his team’s code was written by the tool – a frank admission that Claude Code was literally writing itself.\nJust because engineers are using an AI tool doesn’t mean the tool can replace them – but Anthropic seems to be getting close to replacing engineers too. In a recent survey\ntied to the Mythos preview\n, five out of 18 Anthropic engineers believed that, with harness improvements, this version of Mythos could soon substitute for an L4 engineer – a mid-level programmer who can take on involved projects without supervision.\nStill, there were some of the same weaknesses you might expect.\n“Some of Claude’s major reported weaknesses compared to an L4 include: self-managing week-long ambiguous tasks, understanding org priorities, taste, verification, instruction-following, and epistemics,” the report reads.\nIn other words, its weaknesses are everything involved with self-direction, which is the cornerstone for RSI. But sure, for everything else, Claude is ready to step right in.\nJust like the AGI term before it, the AI industry also can’t tell us how far away it is from showcasing a meaningful recursive system. When Georgetown’s Center for Security and Emerging Technology\nassembled a group of experts to study RSI\nlast year, the group found a major split in assessments – some expecting an imminent “superintelligence” style explosion while others expected slower progress and an eventual plateau. But all agreed that recursion made the future especially difficult to predict.\nHelen Toner, director of CSET and a former board member at OpenAI, told TechCrunch that simply using AI tools to do AI research isn’t enough to qualify as RSI. “They’re just using AI for as much as they can,” Toner tells TechCrunch. “And I think that is different from the classic definition of RSI, which is really that there are no humans needed.”\nToner points to\na recent post by METR’s Ayeja Cotra\n, which distinguishes different milestones on the path to the AI research takeover. One step, which Cotra calls “adequacy,” would come when the system can still perform research after all humans are removed – even if the resulting research isn’t as valuable or efficient. “Parity” comes when an AI-only system is as good at research as a human-only system. “Supremacy,” the final stage, comes when an AI-only system outperforms a collaborative system between humans and AI.\nUltimately, Cotra concludes that AI is very close to the adequacy threshold of being able to produce some work on its own – similar to the incremental changes made by Karpathy’s Auto-Research system. “I wouldn’t be totally shocked if you told me this milestone had already passed, and I expect it to happen in the next couple years,” Cotra writes.\nShe’s less clear on when parity will come, but once it does, she thinks it would “massively accelerate the pace of AI progress, leading to AI research supremacy within another year.”\nBumps in the road\nWith so much of AI built on scaling laws, there’s a strong tendency to think RSI will follow the same curve. Toner thinks that many of those pursuing AI research and development via RSI “ think of it as a pretty smooth ladder, where you can just keep scaling up.”\nBut even if AI researchers are able to make incremental improvements like Karpathy’s auto-researchers, there will be larger challenges in handing off the whole process of research. Toner puts it in terms of the history of computing, which sees human beings handing off more and more of the process while still directing things from the top.\n“We went from machine languages to assembly language and compiled languages; you’re getting further and further from the guts of the computer,” Toner says. “But the human is still, in some intuitive sense, running the show.”\nMoving beyond that paradigm will take significant challenges, both in engineering and alignment. But even with the massive investments happening, there’s no infinite compute available – and the basic tradeoff between human labor and machine intelligence will be hard to overcome.\nAs for a total recursive AI system of apocalyptic visions? The only thing researchers essentially agree on is that, like AGI, it’s not here yet.",
-    "content_source": "readability",
-    "content_chars": 7796,
-    "content_excerpt": "The word “recursion” is the latest buzzword in AI circles. Two separate startups have taken on the name, and many more have started referencing Recursive self-improvement (RSI) in their roadmaps. Like AGI before it, RSI has become a three-letter byword for a cataclysmic AI takeoff – even if there’s still a little disagreement about exactly what it means.\nIn basic terms, RSI refers to an AI system that can continuously upgrade itself. Once AI systems can manage the upgrade cycle better than humans, the process can become a closed loop, limited only by the compute power they can access, and humans no longer necessary or even helpful.\nScary or not, that’s a vision that a lot of AI labs are eager to chase.\nEarlier this month, well-known AI researcher, Richard Socher, launched the aptly named Recursive Superintelligence launched with RSI as an explicit goal. “Our main focus is to build truly recursive, self-improving superintelligence at scale,” Socher\ntold TechCrunch at launch\n, “which means that the entire process of ideation, implementation, and validation of research ideas would be automatic.”\nA number of other prominent researchers are already chasing that same goal, hoping for a breakthrough that will make recursive self-improvement possible.\nOne of the most prominent is Alex Karpathy, a legendary figure from Tesla and OpenAI, who is using agent swarms to train LLMs on simple tasks for a project he calls\nAuto-Research\n. Karpathy has been unusually open about the project,",
-    "title_zh": "RSI 是新的 AGI——而且同样难以确定",
-    "summary_zh": "一批新的人工智能实验室专注于递归的自我改进——但事实证明，目标是难以捉摸的",
-    "ai_summary": "一批新的人工智能实验室专注于递归的自我改进——但事实证明，目标是难以捉摸的",
-    "title_original": "RSI is the new AGI — and it’s just as hard to pin down",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
-  },
-  {
     "id": "hn-48292224",
     "title": "Report: I'm Tired of Talking to AI",
     "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
@@ -5438,32 +5426,10 @@
     "published": "2026-05-27T10:43:25Z",
     "summary": "I'm Tired of Talking to AI",
     "points": 2013,
-    "collected_at": "2026-06-20T19:14:24.336578",
+    "collected_at": "2026-06-21T02:55:05.628200",
     "title_original": "I'm Tired of Talking to AI",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360333"
-  },
-  {
-    "id": "7dac4f0cab35",
-    "title": "Report: At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-    "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-05-28T14:30:00",
-    "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting.",
-    "collected_at": "2026-05-28T15:34:32.407012",
-    "content_text": "Enterprise organizations are not rejecting AI. They are rejecting operational instability.\nThat is the shift many founders still misunderstand — and it is becoming one of the defining realities separating enterprise AI companies that scale from the ones that stall after early momentum.\nFor the last several years, AI startups benefited from a market driven by experimentation. A strong demo, an impressive model, and a powerful vision were often enough to generate enterprise interest, pilot programs, and investor enthusiasm.\nBut enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.\nAt TechCrunch Disrupt 2026, taking place October 13–15 at Moscone West in San Francisco, Arsalan Tavakoli-Shiraji, co-founder and SVP of field engineering at Databricks, will unpack that shift during his AI Stage session, “The Enterprise Isn’t Broken. Your Assumptions About It Are.”\nDisrupt will bring together 10,000+ founders, investors, and operators to explore the technologies and operational pressures changing how companies are built and scaled. The three-day event will feature 250+ sessions across six stages, led by tech leaders directing the industry today.\nExplore the sessions appearing on the Disrupt AI Stage. Ticket savings of up to $410 end on May 29 at 11:59 p.m. PT. Register here.\nThe pilot was never the hard part\nThe enterprise AI market is full of successful pilots that never became real deployments. Not because the technology failed. But because the organization could not absorb the operational consequences of adopting it.\nNow the reality founders need to face is that startup AI deals rarely die because the model underperformed. They die because the enterprise lost confidence in what the deployment would require.\nThat is the gap Tavakoli-Shiraji’s session is designed to explore. Most enterprises are not simply evaluating whether an AI product works. They are evaluating:\n- Implementation risk.\n- Governance complexity.\n- Workflow disruption.\n- Infrastructure strain.\n- Compliance exposure.\n- Organizational trust.\nAn AI product can perform exceptionally well in a controlled environment and still fail commercially if its deployment creates instability within the business.\nThat distinction is important to founders because many AI startups are still optimizing for the wrong outcome. They are building for initial excitement rather than long-term operational adoption. And enterprises are becoming far more disciplined about recognizing the difference.\nRegister for Disrupt to hear how enterprise AI leaders evaluate what actually survives beyond the pilot phase. Lock in your ticket savings of up to $410 when you register by May 29 at 11:59 p.m. PT.\nEnterprise AI is becoming an operational trust problem\nThe AI startups gaining traction inside large organizations increasingly share one thing in common: They reduce uncertainty.\nThey integrate more cleanly into existing systems. They create less workflow friction. They are easier to govern, easier to explain internally, and easier for organizations to trust over time.\nThat sounds less exciting than breakthrough demos or model benchmarks. But it is quickly becoming the difference between AI startups that generate attention and those that generate durable revenue.\nThe market is maturing. Enterprise buyers are asking different questions now:\n- What happens after deployment?\n- How much operational change is required?\n- How does this affect governance?\n- Can teams realistically adopt this at scale?\n- What happens when the model fails?\nThose concerns are no longer secondary. In many organizations, they have become core to the buying decision itself. For AI founders selling into the enterprise, this session breaks down what actually drives adoption after the pilot phase ends. Check out the session details and get your $410 ticket savings to learn what to prioritize to gain traction with enterprise AI deals.\nWhy Tavakoli-Shiraji sees the market differently\nTavakoli-Shiraji brings an unusually relevant perspective to this conversation because his background spans both enterprise strategy and deeply technical systems architecture.\nBefore joining Databricks, he was an associate principal at McKinsey & Company, advising enterprises, technology vendors, and public-sector organizations on cloud computing, next-generation IT, and enterprise transformation strategy. He also earned a PhD in computer science from UC Berkeley, focused on networking and distributed systems.\nThat lens is valuable to startups because enterprise AI success increasingly depends on more than strong engineering alone. Founders now need to understand how technical systems interact with organizational behavior, infrastructure realities, procurement processes, governance concerns, and operational risk.\nThe startups that succeed in enterprise AI over the next several years may not necessarily be the ones with the most advanced models. They may be the ones that best understand how enterprises actually absorb change.\nThat is the kind of operational pressure that Tavakoli-Shiraji and other speakers on the AI Stage at Disrupt will explore. Presented by Google Cloud, the stage examines how AI agents and generative AI are reshaping SaaS, enterprise adoption, software economics, security, and operational infrastructure — including Tavakoli-Shiraji’s session on why enterprise AI success increasingly depends on operational trust rather than simply technical performance.\nAcross the stage, founders will learn how and why the focus is shifting away from AI novelty and toward the real-world challenges of deploying, governing, and scaling AI systems inside real organizations.\nTwo days left to save on enterprise AI insight\nExplore the Disrupt agenda and learn how founders, investors, and enterprise operators are managing the next phase of AI adoption. Register by May 29 at 11:59 p.m. PT to save up to $410 on your passes.",
-    "content_source": "trafilatura",
-    "content_chars": 6018,
-    "content_excerpt": "Enterprise organizations are not rejecting AI. They are rejecting operational instability.\nThat is the shift many founders still misunderstand — and it is becoming one of the defining realities separating enterprise AI companies that scale from the ones that stall after early momentum.\nFor the last several years, AI startups benefited from a market driven by experimentation. A strong demo, an impressive model, and a powerful vision were often enough to generate enterprise interest, pilot programs, and investor enthusiasm.\nBut enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.\nAt TechCrunch Disrupt 2026, taking place October 13–15 at Moscone West in San Francisco, Arsalan Tavakoli-Shiraji, co-founder and SVP of field engineering at Databricks, will unpack that shift during his AI Stage session, “The Enterprise Isn’t Broken. Your Assumptions About It Are.”\nDisrupt will bring together 10,000+ founders, investors, and operators to explore the technologies and operational pressures changing how companies are built and scaled. The three-day event will feature 250+ sessions across six stages, led by tech leaders directing the industry today.\nExplore the sessions appearing on the Disrupt AI Stage. Ticket savings of up to $410 end on May 29 at 11:59 p.m. PT. Register here.\nThe pilot was never the hard part\nThe enterprise AI market is full of successful pilots that never became real deployments. Not because the technology failed. But because the organization could not absorb the operational consequences of adopting it.\nNow the reality founders need to face is that startup AI deals rarely die because the model underperformed. They die because the enterprise lost confidence in what the deployment would require.",
-    "title_zh": "在 TechCrunch Disrupt 2026 上：Databricks 联合创始人谈什么扼杀了企业人工智能交易",
-    "summary_zh": "企业人工智能现在正在进入一个不同的阶段，企业不再评估人工智能是否令人兴奋。他们正在评估广泛部署是否安全",
-    "ai_summary": "企业人工智能现在正在进入一个不同的阶段，企业不再评估人工智能是否令人兴奋。他们正在评估广泛部署是否安全",
-    "title_original": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-    "summary_original": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
-    "rewritten": true,
-    "rewritten_at": "2026-06-17T19:35:48.310873"
+    "rewritten_at": "2026-06-21T02:56:19.943492"
   },
   {
     "id": "hn-48153379",
@@ -5474,11 +5440,11 @@
     "published": "2026-05-15T20:26:47Z",
     "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.",
     "points": 2105,
-    "collected_at": "2026-06-20T19:14:24.336543",
+    "collected_at": "2026-06-21T02:55:05.628172",
     "title_original": "I believe there are entire companies right now under AI psychosis",
     "summary_original": "https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360344"
+    "rewritten_at": "2026-06-21T02:56:19.943499"
   },
   {
     "id": "hn-48085821",
@@ -5489,10 +5455,10 @@
     "published": "2026-05-10T17:19:28Z",
     "summary": "Local AI needs to be the norm",
     "points": 1903,
-    "collected_at": "2026-06-20T19:14:24.336615",
+    "collected_at": "2026-06-21T02:55:05.628229",
     "title_original": "Local AI needs to be the norm",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360348"
+    "rewritten_at": "2026-06-21T02:56:19.943503"
   },
   {
     "id": "hn-48019219",
@@ -5503,11 +5469,11 @@
     "published": "2026-05-05T07:34:55Z",
     "summary": "",
     "points": 1755,
-    "collected_at": "2026-06-20T19:14:24.336643",
+    "collected_at": "2026-06-21T02:55:05.628250",
     "title_original": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "summary_original": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360355"
+    "rewritten_at": "2026-06-21T02:56:19.943508"
   },
   {
     "id": "hn-47679121",
@@ -5518,11 +5484,11 @@
     "published": "2026-04-07T18:09:34Z",
     "summary": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.",
     "points": 1541,
-    "collected_at": "2026-06-20T19:14:24.336733",
+    "collected_at": "2026-06-21T02:55:05.628320",
     "title_original": "Project Glasswing: Securing critical software for the AI era",
     "summary_original": "Related: Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679155System Card: Claude Mythos Preview [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47679258Also: Anthropic&#x27;s Project Glasswing sounds necessary to",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360364"
+    "rewritten_at": "2026-06-21T02:56:19.943514"
   },
   {
     "id": "hn-47363754",
@@ -5533,10 +5499,10 @@
     "published": "2026-03-13T12:46:10Z",
     "summary": "Can I run AI locally?",
     "points": 1520,
-    "collected_at": "2026-06-20T19:14:24.336830",
+    "collected_at": "2026-06-21T02:55:05.628405",
     "title_original": "Can I run AI locally?",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360368"
+    "rewritten_at": "2026-06-21T02:56:19.943518"
   },
   {
     "id": "hn-47340079",
@@ -5547,11 +5513,11 @@
     "published": "2026-03-11T19:29:29Z",
     "summary": "",
     "points": 4229,
-    "collected_at": "2026-06-20T19:14:24.336441",
+    "collected_at": "2026-06-21T02:55:05.628088",
     "title_original": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "summary_original": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360373"
+    "rewritten_at": "2026-06-21T02:56:19.943521"
   },
   {
     "id": "hn-47225130",
@@ -5562,10 +5528,10 @@
     "published": "2026-03-02T22:32:35Z",
     "summary": "Meta’s AI smart glasses and data privacy concerns",
     "points": 1448,
-    "collected_at": "2026-06-20T19:14:24.336901",
+    "collected_at": "2026-06-21T02:55:05.628448",
     "title_original": "Meta’s AI smart glasses and data privacy concerns",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360378"
+    "rewritten_at": "2026-06-21T02:56:19.943525"
   },
   {
     "id": "hn-47136179",
@@ -5576,10 +5542,10 @@
     "published": "2026-02-24T12:16:45Z",
     "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
     "points": 2084,
-    "collected_at": "2026-06-20T19:14:24.336565",
+    "collected_at": "2026-06-21T02:55:05.628190",
     "title_original": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360383"
+    "rewritten_at": "2026-06-21T02:56:19.943529"
   },
   {
     "id": "hn-46990729",
@@ -5590,11 +5556,11 @@
     "published": "2026-02-12T16:23:24Z",
     "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.",
     "points": 2346,
-    "collected_at": "2026-06-20T19:14:24.336511",
+    "collected_at": "2026-06-21T02:55:05.628149",
     "title_original": "An AI agent published a hit piece on me",
     "summary_original": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360392"
+    "rewritten_at": "2026-06-21T02:56:19.943535"
   },
   {
     "id": "hn-45941596",
@@ -5605,10 +5571,10 @@
     "published": "2025-11-16T00:01:25Z",
     "summary": "AirPods libreated from Apple's ecosystem",
     "points": 1424,
-    "collected_at": "2026-06-20T19:14:24.336914",
+    "collected_at": "2026-06-21T02:55:05.628457",
     "title_original": "AirPods libreated from Apple's ecosystem",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360396"
+    "rewritten_at": "2026-06-21T02:56:19.943538"
   },
   {
     "id": "hn-44972151",
@@ -5619,11 +5585,11 @@
     "published": "2025-08-21T12:53:16Z",
     "summary": "",
     "points": 1697,
-    "collected_at": "2026-06-20T19:14:24.336669",
+    "collected_at": "2026-06-21T02:55:05.628269",
     "title_original": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "summary_original": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360401"
+    "rewritten_at": "2026-06-21T02:56:19.943542"
   },
   {
     "id": "hn-44396518",
@@ -5634,11 +5600,11 @@
     "published": "2025-06-27T13:06:54Z",
     "summary": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on.",
     "points": 1539,
-    "collected_at": "2026-06-20T19:14:24.336800",
+    "collected_at": "2026-06-21T02:55:05.628378",
     "title_original": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
     "summary_original": "Hey HN!Pilots everywhere are required to keep a logbook of all their flying hours, aircraft, airports, and so on. Since I track everything digitally (some people still just use paper logbooks!), I put together some data visualizations and a few 3D globes to show my flying history.This globe is proba",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360412"
+    "rewritten_at": "2026-06-21T02:56:19.943550"
   },
   {
     "id": "hn-44314423",
@@ -5649,11 +5615,11 @@
     "published": "2025-06-19T00:33:21Z",
     "summary": "",
     "points": 1481,
-    "collected_at": "2026-06-20T19:14:24.336843",
+    "collected_at": "2026-06-21T02:55:05.628414",
     "title_original": "Andrej Karpathy: Software in the era of AI [video]",
     "summary_original": "Andrej Karpathy: Software in the era of AI [video]",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360417"
+    "rewritten_at": "2026-06-21T02:56:19.943554"
   },
   {
     "id": "hn-44163063",
@@ -5664,10 +5630,10 @@
     "published": "2025-06-02T21:09:53Z",
     "summary": "My AI skeptic friends are all nuts",
     "points": 2356,
-    "collected_at": "2026-06-20T19:14:24.336488",
+    "collected_at": "2026-06-21T02:55:05.628129",
     "title_original": "My AI skeptic friends are all nuts",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360420"
+    "rewritten_at": "2026-06-21T02:56:19.943556"
   },
   {
     "id": "hn-42910910",
@@ -5678,10 +5644,10 @@
     "published": "2025-02-02T19:12:13Z",
     "summary": "The young, inexperienced engineers aiding DOGE",
     "points": 1683,
-    "collected_at": "2026-06-20T19:14:24.336680",
+    "collected_at": "2026-06-21T02:55:05.628278",
     "title_original": "The young, inexperienced engineers aiding DOGE",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360424"
+    "rewritten_at": "2026-06-21T02:56:19.943559"
   },
   {
     "id": "hn-41392128",
@@ -5692,10 +5658,10 @@
     "published": "2024-08-29T15:53:08Z",
     "summary": "Bypassing airport security via SQL injection",
     "points": 2004,
-    "collected_at": "2026-06-20T19:14:24.336591",
+    "collected_at": "2026-06-21T02:55:05.628211",
     "title_original": "Bypassing airport security via SQL injection",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360428"
+    "rewritten_at": "2026-06-21T02:56:19.943561"
   },
   {
     "id": "hn-41386319",
@@ -5706,10 +5672,10 @@
     "published": "2024-08-29T01:28:01Z",
     "summary": "Air Con: $1697 for an on/off switch",
     "points": 2001,
-    "collected_at": "2026-06-20T19:14:24.336603",
+    "collected_at": "2026-06-21T02:55:05.628220",
     "title_original": "Air Con: $1697 for an on/off switch",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360431"
+    "rewritten_at": "2026-06-21T02:56:19.943564"
   },
   {
     "id": "hn-41046773",
@@ -5720,10 +5686,10 @@
     "published": "2024-07-23T15:08:41Z",
     "summary": "Open source AI is the path forward",
     "points": 2360,
-    "collected_at": "2026-06-20T19:14:24.336475",
+    "collected_at": "2026-06-21T02:55:05.628119",
     "title_original": "Open source AI is the path forward",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360434"
+    "rewritten_at": "2026-06-21T02:56:19.943566"
   },
   {
     "id": "hn-39918245",
@@ -5734,11 +5700,11 @@
     "published": "2024-04-03T14:50:30Z",
     "summary": "",
     "points": 1418,
-    "collected_at": "2026-06-20T19:14:24.336927",
+    "collected_at": "2026-06-21T02:55:05.628467",
     "title_original": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "summary_original": "'Lavender': The AI machine directing Israel's bombing in Gaza",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360439"
+    "rewritten_at": "2026-06-21T02:56:19.943570"
   },
   {
     "id": "hn-39526057",
@@ -5749,10 +5715,10 @@
     "published": "2024-02-27T16:32:49Z",
     "summary": "Airfoil",
     "points": 2544,
-    "collected_at": "2026-06-20T19:14:24.336461",
+    "collected_at": "2026-06-21T02:55:05.628109",
     "title_original": "Airfoil",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360443"
+    "rewritten_at": "2026-06-21T02:56:19.943573"
   },
   {
     "id": "hn-38544729",
@@ -5763,10 +5729,10 @@
     "published": "2023-12-06T15:03:47Z",
     "summary": "Gemini AI",
     "points": 2135,
-    "collected_at": "2026-06-20T19:14:24.336523",
+    "collected_at": "2026-06-21T02:55:05.628157",
     "title_original": "Gemini AI",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360446"
+    "rewritten_at": "2026-06-21T02:56:19.943575"
   },
   {
     "id": "hn-37021160",
@@ -5777,11 +5743,11 @@
     "published": "2023-08-06T12:15:51Z",
     "summary": "",
     "points": 1581,
-    "collected_at": "2026-06-20T19:14:24.336705",
+    "collected_at": "2026-06-21T02:55:05.628297",
     "title_original": "Zoom terms now allow training AI on user content with no opt out",
     "summary_original": "Zoom terms now allow training AI on user content with no opt out",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360451"
+    "rewritten_at": "2026-06-21T02:56:19.943579"
   },
   {
     "id": "hn-31812259",
@@ -5792,10 +5758,10 @@
     "published": "2022-06-20T16:27:26Z",
     "summary": "Contra Wirecutter on the IKEA air purifier",
     "points": 1474,
-    "collected_at": "2026-06-20T19:14:24.336855",
+    "collected_at": "2026-06-21T02:55:05.628423",
     "title_original": "Contra Wirecutter on the IKEA air purifier",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360454"
+    "rewritten_at": "2026-06-21T02:56:19.943582"
   },
   {
     "id": "hn-18249755",
@@ -5806,10 +5772,10 @@
     "published": "2018-10-18T16:34:52Z",
     "summary": "Paper Airplane Designs",
     "points": 1753,
-    "collected_at": "2026-06-20T19:14:24.336654",
+    "collected_at": "2026-06-21T02:55:05.628259",
     "title_original": "Paper Airplane Designs",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360458"
+    "rewritten_at": "2026-06-21T02:56:19.943584"
   },
   {
     "id": "hn-17022963",
@@ -5820,11 +5786,11 @@
     "published": "2018-05-08T17:51:44Z",
     "summary": "",
     "points": 1875,
-    "collected_at": "2026-06-20T19:14:24.336629",
+    "collected_at": "2026-06-21T02:55:05.628240",
     "title_original": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "summary_original": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360463"
+    "rewritten_at": "2026-06-21T02:56:19.943588"
   },
   {
     "id": "hn-15892066",
@@ -5835,11 +5801,11 @@
     "published": "2017-12-10T16:23:16Z",
     "summary": "",
     "points": 1535,
-    "collected_at": "2026-06-20T19:14:24.336818",
+    "collected_at": "2026-06-21T02:55:05.628394",
     "title_original": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "summary_original": "Show HN: Airmash – Multiplayer Missile Warfare HTML5 Game",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360468"
+    "rewritten_at": "2026-06-21T02:56:19.943592"
   },
   {
     "id": "hn-6830566",
@@ -5850,9 +5816,9 @@
     "published": "2013-12-02T01:22:40Z",
     "summary": "Amazon Prime Air",
     "points": 1412,
-    "collected_at": "2026-06-20T19:14:24.336938",
+    "collected_at": "2026-06-21T02:55:05.628487",
     "title_original": "Amazon Prime Air",
     "rewritten": true,
-    "rewritten_at": "2026-06-20T19:15:45.360471"
+    "rewritten_at": "2026-06-21T02:56:19.943594"
   }
 ]

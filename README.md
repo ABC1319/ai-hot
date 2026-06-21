@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-21 03:15:45
+🕐 **最近更新**：2026-06-21 10:56:20
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,9 +16,9 @@
 
 ## 🔥 今日热点
 
-1. [美国政府的人为禁令是否无意中帮助了该品牌？](https://aihot.bt199.com/news/d131d924d4b8/)
-   - 就在上周结束时，美国政府以国家安全为由，迫使 Anthropic 下架了两款最新游戏《神鬼寓言 5》和《神话 5》，原因…
-   - `TechCrunch AI · 2026-06-19`
+1. [Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”](https://aihot.bt199.com/news/7ddc78b7ede2/)
+   - “他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”
+   - `TechCrunch AI · 2026-06-20`
 
 2. [《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库](https://aihot.bt199.com/news/e4500944fe85/)
    - 《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…
@@ -40,7 +40,11 @@
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
    - `Ars Technica AI · 2026-06-17`
 
-7. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
+7. [权重中是您新的以人工智能为中心的虚荣搜索](https://aihot.bt199.com/news/5cab6cb8b0ba/)
+   - 那么...您的体重分数是多少？
+   - `TechCrunch AI · 2026-06-20`
+
+8. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
    - 具有先进黑客能力的人工智能模型很快将成为常态
    - `Ars Technica AI · 2026-06-17`
 
@@ -127,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
