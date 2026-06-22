@@ -3538,12 +3538,12 @@
       },
       "pricing": {
         "prompt": "0.00000066",
-        "completion": "0.0000035",
-        "input_cache_read": "0.00000033"
+        "completion": "0.00000341",
+        "input_cache_read": "0.000000144"
       },
       "top_provider": {
         "context_length": 262144,
-        "max_completion_tokens": 65535,
+        "max_completion_tokens": 262144,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -5376,12 +5376,12 @@
       },
       "pricing": {
         "prompt": "0.00000066",
-        "completion": "0.0000035",
-        "input_cache_read": "0.00000033"
+        "completion": "0.00000341",
+        "input_cache_read": "0.000000144"
       },
       "top_provider": {
         "context_length": 262144,
-        "max_completion_tokens": 65535,
+        "max_completion_tokens": 262144,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -27066,5 +27066,5 @@
       }
     }
   ],
-  "updated_at": "2026-06-22T02:58:38.173842+00:00"
+  "updated_at": "2026-06-22T11:40:42.914245+00:00"
 }

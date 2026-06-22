@@ -4217,6 +4217,35 @@
     "is_core": true
   },
   {
+    "id": "hf-baidu--Unlimited-OCR",
+    "name": "baidu/Unlimited-OCR",
+    "display_name": "Unlimited-OCR",
+    "url": "https://huggingface.co/baidu/Unlimited-OCR",
+    "author": "baidu",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 55,
+    "downloads": 47,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "unlimited-ocr",
+      "image-feature-extraction",
+      "baidu",
+      "vision-language",
+      "ocr",
+      "custom_code",
+      "image-text-to-text",
+      "multilingual",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-06-19T09:40:33.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-06-22T11:40:01.601853",
+    "display_priority": 115,
+    "is_core": true
+  },
+  {
     "id": "hf-joyfox--LTX2.3-ICEdit-Insight",
     "name": "joyfox/LTX2.3-ICEdit-Insight",
     "display_name": "LTX2.3-ICEdit-Insight",
@@ -4248,7 +4277,7 @@
     "created_at": "2026-04-23T10:09:22.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-12T02:14:25.384156",
-    "display_priority": 115,
+    "display_priority": 116,
     "is_core": true
   },
   {
@@ -4281,7 +4310,7 @@
     "created_at": "2026-04-16T13:58:07.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-02T18:52:15.612275",
-    "display_priority": 116,
+    "display_priority": 117,
     "is_core": true
   },
   {
@@ -4309,7 +4338,7 @@
     "created_at": "2026-06-17T11:28:29.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-20T13:45:32.097781",
-    "display_priority": 117,
+    "display_priority": 118,
     "is_core": true
   },
   {
@@ -4353,7 +4382,7 @@
     "created_at": "2026-05-20T13:09:50.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-19T03:34:45.896747",
-    "display_priority": 118,
+    "display_priority": 119,
     "is_core": true
   },
   {
@@ -4394,7 +4423,7 @@
     "created_at": "2026-04-16T13:54:19.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-01T02:19:40.311428",
-    "display_priority": 119,
+    "display_priority": 120,
     "is_core": true
   },
   {
@@ -4437,7 +4466,7 @@
     "created_at": "2026-05-05T15:00:16.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-18T20:15:23.806267",
-    "display_priority": 120,
+    "display_priority": 121,
     "is_core": true
   },
   {
@@ -4466,7 +4495,7 @@
     "created_at": "2026-05-19T08:58:01.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-25T02:42:48.443062",
-    "display_priority": 121,
+    "display_priority": 122,
     "is_core": true
   },
   {
@@ -4494,7 +4523,7 @@
     "created_at": "2026-05-25T15:32:15.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-28T15:34:46.979068",
-    "display_priority": 122,
+    "display_priority": 123,
     "is_core": true
   },
   {
@@ -4533,7 +4562,7 @@
     "created_at": "2026-04-29T07:46:41.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-21T02:37:42.027416",
-    "display_priority": 123,
+    "display_priority": 124,
     "is_core": true
   },
   {
@@ -4618,31 +4647,6 @@
     "created_at": "2026-04-20T15:15:55.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T13:31:26.989174",
-    "display_priority": 124,
-    "is_core": true
-  },
-  {
-    "id": "hf-internlm--Intern-S2-Preview",
-    "name": "internlm/Intern-S2-Preview",
-    "display_name": "Intern-S2-Preview",
-    "url": "https://huggingface.co/internlm/Intern-S2-Preview",
-    "author": "internlm",
-    "pipeline_tag": "image-text-to-text",
-    "likes": 46,
-    "downloads": 564,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "intern_s2_preview",
-      "image-text-to-text",
-      "conversational",
-      "custom_code",
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-05-15T03:49:25.000Z",
-    "source": "hf-trending",
-    "collected_at": "2026-05-16T07:54:46.509121",
     "display_priority": 125,
     "is_core": true
   },
