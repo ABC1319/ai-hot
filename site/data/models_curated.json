@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T16:42:55.811170",
-  "total": 35,
+  "updated_at": "2026-06-22T20:38:50.444969",
+  "total": 36,
   "categories": [
     {
       "id": "top",
@@ -18,7 +18,7 @@
       "id": "multimodal",
       "name": "👁️ 多模态主力模型",
       "subtitle": "图文理解、视觉问答、复杂输入处理的主力模型",
-      "count": 3
+      "count": 4
     },
     {
       "id": "image",
@@ -260,6 +260,24 @@
         "图像"
       ],
       "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64"
+    },
+    {
+      "category": "multimodal",
+      "source": "OpenRouter",
+      "name": "GLM 5V Turbo",
+      "provider": "Z.ai",
+      "url": "https://openrouter.ai/z-ai/glm-5v-turbo",
+      "freshness": "2026-04-01",
+      "badge": "视觉国产主力",
+      "why": "国产视觉多模态里很值得关注",
+      "meta": "202K 上下文",
+      "tags": [
+        "多模态",
+        "文本",
+        "图像",
+        "视频"
+      ],
+      "icon_url": "https://www.google.com/s2/favicons?domain=z.ai&sz=64"
     },
     {
       "category": "multimodal",

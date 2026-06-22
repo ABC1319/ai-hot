@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-23 00:43:34
+🕐 **最近更新**：2026-06-23 04:39:41
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [当特朗普政府打压 Anthropic 时，谁受益？](https://aihot.bt199.com/news/a96480a97656/)
-   - 在新一期的 Equity 节目中，我们讨论了究竟是什么促使政府针对 Anthropic 采取最新行动，以及这对人工智能生…
-   - `TechCrunch AI · 2026-06-21`
+1. [AI 芯片制造商 Groq 确认筹集 6.5 亿美元资金，并在 Nvidia 完成 200 亿美元非收购聘用交易后进行人员重组](https://aihot.bt199.com/news/a9ba7814c8ed/)
+   - 在完成一项非收购雇佣交易后，人工智能公司会做什么？ Groq 筹集了资金，正在向 Neocloud 业务倾斜，并正在招聘…
+   - `TechCrunch AI · 2026-06-22`
 
-2. [超越 Siri：以下是 iOS 27 中 iPhone 的实用人工智能功能](https://aihot.bt199.com/news/b893e7b70421/)
-   - Siri 的人工智能改革可能已经成为 WWDC 的头条新闻，但苹果一些最有用的人工智能功能正在 iOS 27 的其他地方…
-   - `TechCrunch AI · 2026-06-21`
+2. [英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同](https://aihot.bt199.com/news/e14ed19e3b39/)
+   - 英伟达宣布推出一种新的冷却系统，可以减少数据中心内的用水量。但它对解决人工智能最大的用水问题——化石燃料发电厂没有任何作…
+   - `TechCrunch AI · 2026-06-22`
 
-3. [下载：破纪录的海底隧道和灵活的数据中心](https://aihot.bt199.com/news/7e4268ecef5a/)
+3. [人工智能正在诅咒租房者，承诺提供不可能的房屋](https://aihot.bt199.com/news/07c54cecb789/)
+   - 乔伊斯是土生土长的纽约人，她认为在这座城市找到她的第一套独立公寓并不容易。但她也不认为那会是“地狱”。在参观了许多她称之…
+   - `The Verge AI · 2026-06-22`
+
+4. [Anthropic 与政府的最新争执中值得关注的三件事](https://aihot.bt199.com/news/e5321e5c15e4/)
+   - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。对于那些正在享受…
+   - `MIT Tech Review · 2026-06-22`
+
+5. [下载：破纪录的海底隧道和灵活的数据中心](https://aihot.bt199.com/news/7e4268ecef5a/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。在世界上最深、最长的海底公路隧道——…
    - `MIT Tech Review · 2026-06-22`
 
-4. [《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库](https://aihot.bt199.com/news/e4500944fe85/)
+6. [《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库](https://aihot.bt199.com/news/e4500944fe85/)
    - 《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…
    - `The Verge AI · 2026-06-20`
-
-5. [关于山姆·奥特曼的电影已被亚马逊米高梅公司下架](https://aihot.bt199.com/news/aca35cefe862/)
-   - 据报道，卢卡·瓜达尼诺 (Luca Guadagnino) 执导的关于 OpenAI 首席执行官山姆·奥尔特曼 (Sam…
-   - `The Verge AI · 2026-06-19`
-
-6. [下载：人工智能瓶颈争论，BCI 试验开始](https://aihot.bt199.com/news/229a5a6ccdc1/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它突破了阻碍法学硕士…
-   - `MIT Tech Review · 2026-06-19`
 
 7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
