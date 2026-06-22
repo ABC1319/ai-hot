@@ -26,6 +26,8 @@ def clean_title_zh(title_zh: str, title_en: str) -> str:
 
 def esc(value: str) -> str:
     value = '' if value is None else str(value)
+    # Filter control chars except CR LF TAB and DEL
+    value = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', value)
     return value.replace('\\', '\\\\').replace('"', '\\"')
 
 
