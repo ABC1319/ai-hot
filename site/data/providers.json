@@ -75,12 +75,12 @@
       "Claude Opus 4.8 (Fast)",
       "Claude Opus 4.8"
     ],
-    "model_count": 16,
+    "model_count": 15,
     "last_updated": "2026-06-09",
     "modalities": [
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 16 个该作者/厂商相关模型，最近更新为 Claude Fable 5",
+    "live_summary": "OpenRouter 已收录 15 个该作者/厂商相关模型，最近更新为 Claude Fable 5",
     "provider_kind": "model_author",
     "icon_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=64"
   },
@@ -1174,5 +1174,31 @@
     "last_updated": "",
     "modalities": [],
     "live_summary": "站内手工维护，待补充实时模型索引"
+  },
+  {
+    "id": "nex-agi",
+    "name": "Nex AGI",
+    "url": "https://openrouter.ai/nex-agi",
+    "logo": "🆕",
+    "icon_url": "https://www.google.com/s2/favicons?domain=nex-agi.com&sz=64",
+    "models": [
+      "Nex AGI: Nex-N2-Pro (free)",
+      "Nex AGI: Nex-N2-Pro"
+    ],
+    "type": "国际",
+    "pricing": "按量计费",
+    "api": true,
+    "provider_kind": "manual",
+    "source": "openrouter",
+    "latest_models": [
+      "Nex AGI: Nex-N2-Pro (free)",
+      "Nex AGI: Nex-N2-Pro"
+    ],
+    "model_count": 2,
+    "last_updated": "2026-06-08",
+    "modalities": [
+      "多模态"
+    ],
+    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 Nex AGI: Nex-N2-Pro (free)"
   }
 ]
