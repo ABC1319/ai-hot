@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-23 04:39:41
+🕐 **最近更新**：2026-06-23 10:34:31
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,13 +16,13 @@
 
 ## 🔥 今日热点
 
-1. [AI 芯片制造商 Groq 确认筹集 6.5 亿美元资金，并在 Nvidia 完成 200 亿美元非收购聘用交易后进行人员重组](https://aihot.bt199.com/news/a9ba7814c8ed/)
-   - 在完成一项非收购雇佣交易后，人工智能公司会做什么？ Groq 筹集了资金，正在向 Neocloud 业务倾斜，并正在招聘…
-   - `TechCrunch AI · 2026-06-22`
+1. [最新清单：2026 年主要科技公司裁员，雇主提到人工智能](https://aihot.bt199.com/news/44208f99c618/)
+   - 按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素
+   - `TechCrunch AI · 2026-06-23`
 
-2. [英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同](https://aihot.bt199.com/news/e14ed19e3b39/)
-   - 英伟达宣布推出一种新的冷却系统，可以减少数据中心内的用水量。但它对解决人工智能最大的用水问题——化石燃料发电厂没有任何作…
-   - `TechCrunch AI · 2026-06-22`
+2. [英伟达表示，其人工智能数据中心设计运行温度更高，可减少用水量](https://aihot.bt199.com/news/9a78d8672dc2/)
+   - 公众对数据中心的反对强调了它们的水和能源消耗，现在英伟达强调其声称，全液冷数据中心的 Rubin 一代参考设计已经“消除…
+   - `The Verge AI · 2026-06-22`
 
 3. [人工智能正在诅咒租房者，承诺提供不可能的房屋](https://aihot.bt199.com/news/07c54cecb789/)
    - 乔伊斯是土生土长的纽约人，她认为在这座城市找到她的第一套独立公寓并不容易。但她也不认为那会是“地狱”。在参观了许多她称之…
@@ -36,13 +36,13 @@
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。在世界上最深、最长的海底公路隧道——…
    - `MIT Tech Review · 2026-06-22`
 
-6. [《大西洋月刊》创建了一个可搜索的用于训练人工智能的音乐数据库](https://aihot.bt199.com/news/e4500944fe85/)
-   - 《大西洋月刊》记者 Alex Reisner 最近发现了四个用于训练人工智能模型的音乐数据集，并使它们完全可供公众搜索…
-   - `The Verge AI · 2026-06-20`
-
-7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
+6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
    - `Ars Technica AI · 2026-06-17`
+
+7. [OpenAI 推出新举措帮助查找和修补开源错误](https://aihot.bt199.com/news/8bdf35b5ee90/)
+   - OpenAI 正在尝试解决开源软件社区的安全问题
+   - `TechCrunch AI · 2026-06-23`
 
 8. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
    - 具有先进黑客能力的人工智能模型很快将成为常态
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

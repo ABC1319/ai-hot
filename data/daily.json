@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-06-22T20:38:50.643782",
-  "date": "2026-06-22",
+  "updated_at": "2026-06-23T02:33:42.762960",
+  "date": "2026-06-23",
   "spotlight": {
-    "name": "ChatDev",
-    "url": "https://github.com/OpenBMB/ChatDev",
+    "name": "AutoGen",
+    "url": "https://github.com/microsoft/autogen",
     "type": "agent",
-    "description": "清华出品，模拟软件开发公司的多Agent框架",
+    "description": "微软多Agent对话框架，支持复杂任务协作",
     "pricing": "开源免费",
     "category": "多 Agent"
   },
   "alternates": [
     {
-      "name": "Pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
+      "name": "Agent Skills",
+      "url": "https://github.com/addyosmani/agent-skills",
       "type": "agent",
-      "description": "面向渗透测试的自主 AI Agent 系统，可自动拆解安全测试任务并执行复杂攻防流程。",
+      "description": "为 AI 编程 Agent 准备的工程技能库，沉淀可复用的开发、调试和交付流程。",
       "pricing": "开源免费",
-      "category": "自动化 Agent"
+      "category": "编程 Agent"
     },
     {
-      "id": "可灵",
-      "name": "可灵 AI",
-      "url": "https://klingai.com",
+      "id": "pika",
+      "name": "Pika",
+      "url": "https://pika.art",
       "type": "tool",
-      "description": "快手出品的 AI 视频生成工具，国产最强",
-      "pricing": "免费 + 会员",
+      "description": "AI 视频生成工具，简单易用",
+      "pricing": "免费 + 付费",
       "category": "视频"
     },
     {
-      "name": "AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "name": "BabyAGI",
+      "url": "https://github.com/yoheinakajima/babyagi",
       "type": "agent",
-      "description": "最早爆火的自主AI Agent框架",
+      "description": "轻量级自主AI Agent框架",
       "pricing": "开源免费",
       "category": "自动化 Agent"
     }
