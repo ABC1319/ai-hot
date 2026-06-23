@@ -2404,6 +2404,35 @@
     "is_core": true
   },
   {
+    "id": "hf-Lykon--DreamShaper",
+    "name": "Lykon/DreamShaper",
+    "display_name": "DreamShaper",
+    "url": "https://huggingface.co/Lykon/DreamShaper",
+    "author": "Lykon",
+    "pipeline_tag": "text-to-image",
+    "likes": 1010,
+    "downloads": 213109,
+    "tags": [
+      "diffusers",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "text-to-image",
+      "art",
+      "artistic",
+      "anime",
+      "en",
+      "doi:10.57967/hf/0453",
+      "license:other",
+      "diffusers:StableDiffusionPipeline",
+      "region:us"
+    ],
+    "created_at": "2023-01-12T09:14:06.000Z",
+    "source": "hf-text-to-image",
+    "collected_at": "2026-06-23T09:26:55.711376",
+    "display_priority": 79,
+    "is_core": true
+  },
+  {
     "id": "hf-k2-fsa--OmniVoice",
     "name": "k2-fsa/OmniVoice",
     "display_name": "OmniVoice",
@@ -3075,7 +3104,7 @@
     "created_at": "2026-03-30T13:43:33.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-21T13:07:47.733900",
-    "display_priority": 79,
+    "display_priority": 80,
     "is_core": true
   },
   {
@@ -3100,7 +3129,7 @@
     "created_at": "2024-02-16T18:46:17.000Z",
     "source": "hf-text-to-image",
     "collected_at": "2026-06-19T10:17:03.174196",
-    "display_priority": 80,
+    "display_priority": 81,
     "is_core": true
   },
   {
@@ -3132,7 +3161,7 @@
     "created_at": "2026-06-02T07:49:31.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-17T11:23:27.131840",
-    "display_priority": 81,
+    "display_priority": 82,
     "is_core": true
   },
   {
@@ -3159,7 +3188,7 @@
     "created_at": "2026-03-30T19:45:54.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-21T13:07:47.733916",
-    "display_priority": 82,
+    "display_priority": 83,
     "is_core": true
   },
   {
@@ -3180,7 +3209,7 @@
     "created_at": "2026-03-05T15:20:18.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-08T13:15:04.246373",
-    "display_priority": 83,
+    "display_priority": 84,
     "is_core": true
   },
   {
@@ -3203,7 +3232,7 @@
     "created_at": "2023-07-31T05:20:51.000Z",
     "source": "hf-text-to-image",
     "collected_at": "2026-05-28T15:34:47.284171",
-    "display_priority": 84,
+    "display_priority": 85,
     "is_core": true
   },
   {
@@ -3222,7 +3251,7 @@
     "created_at": "2026-03-24T10:54:10.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-06T19:28:23.277960",
-    "display_priority": 85,
+    "display_priority": 86,
     "is_core": true
   },
   {
@@ -3247,35 +3276,6 @@
     "created_at": "2026-05-04T19:45:38.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-20T20:06:23.430988",
-    "display_priority": 86,
-    "is_core": true
-  },
-  {
-    "id": "hf-cagliostrolab--animagine-xl-4.0",
-    "name": "cagliostrolab/animagine-xl-4.0",
-    "display_name": "animagine-xl-4.0",
-    "url": "https://huggingface.co/cagliostrolab/animagine-xl-4.0",
-    "author": "cagliostrolab",
-    "pipeline_tag": "text-to-image",
-    "likes": 436,
-    "downloads": 245915,
-    "tags": [
-      "diffusers",
-      "safetensors",
-      "text-to-image",
-      "stable-diffusion",
-      "stable-diffusion-xl",
-      "en",
-      "base_model:stabilityai/stable-diffusion-xl-base-1.0",
-      "base_model:finetune:stabilityai/stable-diffusion-xl-base-1.0",
-      "license:openrail++",
-      "endpoints_compatible",
-      "diffusers:StableDiffusionXLPipeline",
-      "region:us"
-    ],
-    "created_at": "2025-01-10T17:51:13.000Z",
-    "source": "hf-text-to-image",
-    "collected_at": "2026-06-19T10:17:03.174202",
     "display_priority": 87,
     "is_core": true
   },

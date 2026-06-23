@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-23 10:34:31
+🕐 **最近更新**：2026-06-23 17:28:39
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -20,20 +20,20 @@
    - 按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素
    - `TechCrunch AI · 2026-06-23`
 
-2. [英伟达表示，其人工智能数据中心设计运行温度更高，可减少用水量](https://aihot.bt199.com/news/9a78d8672dc2/)
+2. [大象警报！人工智能预警系统旨在避免致命冲突](https://aihot.bt199.com/news/ec7786d60a02/)
+   - 据环境、森林和气候变化部称，印度拥有世界上约 60% 的野生亚洲象，而这些动物的栖息地约 80% 位于保护区之外。这使得…
+   - `MIT Tech Review · 2026-06-23`
+
+3. [英伟达表示，其人工智能数据中心设计运行温度更高，可减少用水量](https://aihot.bt199.com/news/9a78d8672dc2/)
    - 公众对数据中心的反对强调了它们的水和能源消耗，现在英伟达强调其声称，全液冷数据中心的 Rubin 一代参考设计已经“消除…
    - `The Verge AI · 2026-06-22`
 
-3. [人工智能正在诅咒租房者，承诺提供不可能的房屋](https://aihot.bt199.com/news/07c54cecb789/)
+4. [人工智能正在诅咒租房者，承诺提供不可能的房屋](https://aihot.bt199.com/news/07c54cecb789/)
    - 乔伊斯是土生土长的纽约人，她认为在这座城市找到她的第一套独立公寓并不容易。但她也不认为那会是“地狱”。在参观了许多她称之…
    - `The Verge AI · 2026-06-22`
 
-4. [Anthropic 与政府的最新争执中值得关注的三件事](https://aihot.bt199.com/news/e5321e5c15e4/)
+5. [Anthropic 与政府的最新争执中值得关注的三件事](https://aihot.bt199.com/news/e5321e5c15e4/)
    - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。对于那些正在享受…
-   - `MIT Tech Review · 2026-06-22`
-
-5. [下载：破纪录的海底隧道和灵活的数据中心](https://aihot.bt199.com/news/7e4268ecef5a/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。在世界上最深、最长的海底公路隧道——…
    - `MIT Tech Review · 2026-06-22`
 
 6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
