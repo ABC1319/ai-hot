@@ -8328,6 +8328,31 @@
     "is_core": true
   },
   {
+    "id": "hf-MdMahamudulHasan--chili-leaf-detection",
+    "name": "MdMahamudulHasan/chili-leaf-detection",
+    "display_name": "chili-leaf-detection",
+    "url": "https://huggingface.co/MdMahamudulHasan/chili-leaf-detection",
+    "author": "MdMahamudulHasan",
+    "pipeline_tag": "object-detection",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "object-detection",
+      "yolo",
+      "yolov11",
+      "chili",
+      "leaf-disease",
+      "en",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-06-23T19:49:28.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-06-23T19:53:37.486288",
+    "display_priority": 257,
+    "is_core": true
+  },
+  {
     "id": "hf-opentargets--locus_to_gene_26.03-test-full-l2g-trainset-1",
     "name": "opentargets/locus_to_gene_26.03-test-full-l2g-trainset-1",
     "display_name": "locus_to_gene_26.03-test-full-l2g-trainset-1",
@@ -8349,7 +8374,7 @@
     "created_at": "2026-05-12T13:54:39.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T14:02:35.800235",
-    "display_priority": 257,
+    "display_priority": 258,
     "is_core": true
   },
   {
@@ -8381,7 +8406,7 @@
     "created_at": "2026-05-19T19:40:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-19T19:47:09.469929",
-    "display_priority": 258,
+    "display_priority": 259,
     "is_core": true
   },
   {
@@ -8406,7 +8431,7 @@
     "created_at": "2026-05-22T19:20:43.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-22T19:31:36.998019",
-    "display_priority": 259,
+    "display_priority": 260,
     "is_core": true
   },
   {
@@ -8431,7 +8456,7 @@
     "created_at": "2026-05-27T09:28:09.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-27T09:34:19.222108",
-    "display_priority": 260,
+    "display_priority": 261,
     "is_core": true
   },
   {
@@ -8459,7 +8484,7 @@
     "created_at": "2026-05-15T08:28:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-15T08:42:52.479853",
-    "display_priority": 261,
+    "display_priority": 262,
     "is_core": true
   },
   {
@@ -8479,7 +8504,7 @@
     "created_at": "2026-05-27T14:44:18.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-27T15:01:21.549237",
-    "display_priority": 262,
+    "display_priority": 263,
     "is_core": true
   },
   {
@@ -8499,7 +8524,7 @@
     "created_at": "2026-05-27T14:37:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-27T15:01:21.549290",
-    "display_priority": 263,
+    "display_priority": 264,
     "is_core": true
   },
   {
@@ -8523,7 +8548,7 @@
     "created_at": "2026-05-20T02:33:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-20T02:36:23.493951",
-    "display_priority": 264,
+    "display_priority": 265,
     "is_core": true
   },
   {
@@ -8547,7 +8572,7 @@
     "created_at": "2026-05-20T02:25:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-20T02:36:23.494009",
-    "display_priority": 265,
+    "display_priority": 266,
     "is_core": true
   },
   {
@@ -8572,7 +8597,7 @@
     "created_at": "2026-06-19T19:24:55.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-19T19:30:41.092946",
-    "display_priority": 266,
+    "display_priority": 267,
     "is_core": true
   },
   {
@@ -8611,7 +8636,7 @@
     "created_at": "2026-05-24T08:13:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-24T08:22:04.330518",
-    "display_priority": 267,
+    "display_priority": 268,
     "is_core": true
   },
   {
@@ -8635,7 +8660,7 @@
     "created_at": "2026-05-26T02:29:06.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-26T02:32:18.544678",
-    "display_priority": 268,
+    "display_priority": 269,
     "is_core": true
   },
   {
@@ -8667,7 +8692,7 @@
     "created_at": "2026-06-21T13:38:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-21T13:53:12.110140",
-    "display_priority": 269,
+    "display_priority": 270,
     "is_core": true
   },
   {
@@ -8698,7 +8723,7 @@
     "created_at": "2026-06-23T02:21:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-23T02:32:58.759214",
-    "display_priority": 270,
+    "display_priority": 271,
     "is_core": true
   }
 ]

@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-23 22:35:05
+🕐 **最近更新**：2026-06-24 03:55:12
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [Fika Jobs 筹集了 400 万美元，用于建立一个视频优先的招聘平台，人工智能代理可以在这里面试候选人](https://aihot.bt199.com/news/6ad2703ed5c3/)
+1. [Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息](https://aihot.bt199.com/news/492604e8457d/)
+   - Anthropic 的新 Claude Tag 为 Slack 带来了一位永远在线的 AI 队友。但除了生产力之外，该功…
+   - `TechCrunch AI · 2026-06-23`
+
+2. [Fika Jobs 筹集了 400 万美元，用于建立一个视频优先的招聘平台，人工智能代理可以在这里面试候选人](https://aihot.bt199.com/news/6ad2703ed5c3/)
    - 总部位于斯德哥尔摩的初创公司 Fika Jobs 正在构建一个视频优先的招聘平台，将人工智能面试代理与简短的视频简介相结…
    - `TechCrunch AI · 2026-06-23`
 
-2. [最新清单：2026 年主要科技公司裁员，雇主提到人工智能](https://aihot.bt199.com/news/44208f99c618/)
-   - 按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素
-   - `TechCrunch AI · 2026-06-23`
+3. [为什么企业人工智能超级政治行动委员会在地方选举上花费了 2700 万美元](https://aihot.bt199.com/news/3eba7d9d34da/)
+   - 大家好，欢迎来到 Regulator，这是为 Verge 订阅者提供的时事通讯，记录了他们最喜欢的科技霸主和华盛顿沼泽生…
+   - `The Verge AI · 2026-06-23`
 
-3. [下载：芯片制造的未来和 Anthropic 的政府冲突](https://aihot.bt199.com/news/7d4f2561bb64/)
+4. [Midjourney 向人体扫描仪转型的过程中出现了一些问题](https://aihot.bt199.com/news/2424a18111c2/)
+   - 上周，以图像生成器而闻名的人工智能初创公司 Midjourney 做出了一个不同寻常的转型：医学成像。该公司推出了一款未…
+   - `The Verge AI · 2026-06-23`
+
+5. [下载：芯片制造的未来和 Anthropic 的政府冲突](https://aihot.bt199.com/news/7d4f2561bb64/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。价值 4 亿美元的机器为芯片制造的未…
    - `MIT Tech Review · 2026-06-23`
 
-4. [大象警报！人工智能预警系统旨在避免致命冲突](https://aihot.bt199.com/news/ec7786d60a02/)
+6. [大象警报！人工智能预警系统旨在避免致命冲突](https://aihot.bt199.com/news/ec7786d60a02/)
    - 据环境、森林和气候变化部称，印度拥有世界上约 60% 的野生亚洲象，而这些动物的栖息地约 80% 位于保护区之外。这使得…
    - `MIT Tech Review · 2026-06-23`
-
-5. [英伟达表示，其人工智能数据中心设计运行温度更高，可减少用水量](https://aihot.bt199.com/news/9a78d8672dc2/)
-   - 公众对数据中心的反对强调了它们的水和能源消耗，现在英伟达强调其声称，全液冷数据中心的 Rubin 一代参考设计已经“消除…
-   - `The Verge AI · 2026-06-22`
-
-6. [人工智能正在诅咒租房者，承诺提供不可能的房屋](https://aihot.bt199.com/news/07c54cecb789/)
-   - 乔伊斯是土生土长的纽约人，她认为在这座城市找到她的第一套独立公寓并不容易。但她也不认为那会是“地狱”。在参观了许多她称之…
-   - `The Verge AI · 2026-06-22`
 
 7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
