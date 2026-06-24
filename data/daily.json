@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-06-23T19:54:17.198919",
-  "date": "2026-06-23",
+  "updated_at": "2026-06-24T02:34:29.453303",
+  "date": "2026-06-24",
   "spotlight": {
-    "name": "AutoGen",
-    "url": "https://github.com/microsoft/autogen",
+    "name": "LangGraph",
+    "url": "https://github.com/langchain-ai/langgraph",
     "type": "agent",
-    "description": "微软多Agent对话框架，支持复杂任务协作",
+    "description": "LangChain出品的有状态Agent编排框架",
     "pricing": "开源免费",
     "category": "多 Agent"
   },
   "alternates": [
     {
-      "name": "Agent Skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "name": "Cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
       "type": "agent",
-      "description": "为 AI 编程 Agent 准备的工程技能库，沉淀可复用的开发、调试和交付流程。",
+      "description": "面向 AI 编程工作流的 macOS 终端工具，支持纵向标签页和任务通知，方便同时管理多个 Agent。",
       "pricing": "开源免费",
       "category": "编程 Agent"
     },
     {
-      "id": "pika",
-      "name": "Pika",
-      "url": "https://pika.art",
+      "id": "sora",
+      "name": "Sora",
+      "url": "https://sora.com",
       "type": "tool",
-      "description": "AI 视频生成工具，简单易用",
-      "pricing": "免费 + 付费",
+      "description": "OpenAI 视频生成模型，效果惊人",
+      "pricing": "ChatGPT Pro $200/月",
       "category": "视频"
     },
     {
-      "name": "BabyAGI",
-      "url": "https://github.com/yoheinakajima/babyagi",
+      "name": "AgentGPT",
+      "url": "https://agentgpt.reworkd.ai",
       "type": "agent",
-      "description": "轻量级自主AI Agent框架",
-      "pricing": "开源免费",
+      "description": "浏览器内直接使用的AI Agent平台",
+      "pricing": "免费 + Pro",
       "category": "自动化 Agent"
     }
   ]

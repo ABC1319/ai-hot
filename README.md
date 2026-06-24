@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-24 03:55:12
+🕐 **最近更新**：2026-06-24 10:35:12
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,37 +16,33 @@
 
 ## 🔥 今日热点
 
-1. [Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息](https://aihot.bt199.com/news/492604e8457d/)
+1. [印度 MoEngage 押注营销的未来在于数百万人工智能代理](https://aihot.bt199.com/news/41e29831de85/)
+   - 此次全现金交易使 MoEngage 能够获得为个人客户分配人工智能代理的技术
+   - `TechCrunch AI · 2026-06-23`
+
+2. [Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息](https://aihot.bt199.com/news/492604e8457d/)
    - Anthropic 的新 Claude Tag 为 Slack 带来了一位永远在线的 AI 队友。但除了生产力之外，该功…
    - `TechCrunch AI · 2026-06-23`
 
-2. [Fika Jobs 筹集了 400 万美元，用于建立一个视频优先的招聘平台，人工智能代理可以在这里面试候选人](https://aihot.bt199.com/news/6ad2703ed5c3/)
-   - 总部位于斯德哥尔摩的初创公司 Fika Jobs 正在构建一个视频优先的招聘平台，将人工智能面试代理与简短的视频简介相结…
-   - `TechCrunch AI · 2026-06-23`
+3. [游戏中的头](https://aihot.bt199.com/news/9ab4e89c7489/)
+   - 2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…
+   - `MIT Tech Review · 2026-06-23`
 
-3. [为什么企业人工智能超级政治行动委员会在地方选举上花费了 2700 万美元](https://aihot.bt199.com/news/3eba7d9d34da/)
+4. [分享对微积分的热爱](https://aihot.bt199.com/news/d5c7b562dcef/)
+   - 目前，关于教育价值的全国性讨论主要是对人工智能的风险和积极潜力的猜测。 无论你对这场辩论持什么观点，我希望你会很高兴知道…
+   - `MIT Tech Review · 2026-06-23`
+
+5. [为什么企业人工智能超级政治行动委员会在地方选举上花费了 2700 万美元](https://aihot.bt199.com/news/3eba7d9d34da/)
    - 大家好，欢迎来到 Regulator，这是为 Verge 订阅者提供的时事通讯，记录了他们最喜欢的科技霸主和华盛顿沼泽生…
    - `The Verge AI · 2026-06-23`
 
-4. [Midjourney 向人体扫描仪转型的过程中出现了一些问题](https://aihot.bt199.com/news/2424a18111c2/)
-   - 上周，以图像生成器而闻名的人工智能初创公司 Midjourney 做出了一个不同寻常的转型：医学成像。该公司推出了一款未…
-   - `The Verge AI · 2026-06-23`
-
-5. [下载：芯片制造的未来和 Anthropic 的政府冲突](https://aihot.bt199.com/news/7d4f2561bb64/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。价值 4 亿美元的机器为芯片制造的未…
-   - `MIT Tech Review · 2026-06-23`
-
-6. [大象警报！人工智能预警系统旨在避免致命冲突](https://aihot.bt199.com/news/ec7786d60a02/)
-   - 据环境、森林和气候变化部称，印度拥有世界上约 60% 的野生亚洲象，而这些动物的栖息地约 80% 位于保护区之外。这使得…
-   - `MIT Tech Review · 2026-06-23`
-
-7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
+6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
    - `Ars Technica AI · 2026-06-17`
 
-8. [“危险”的人工智能模型无论如何都会到来](https://aihot.bt199.com/news/8b2d013a0637/)
-   - 具有先进黑客能力的人工智能模型很快将成为常态
-   - `Ars Technica AI · 2026-06-17`
+7. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
+   - 甲骨文正在数据中心基础设施上花费数十亿美元来支持人工智能
+   - `Ars Technica AI · 2026-06-23`
 
 
 ## 🤖 AI 简报
@@ -131,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
