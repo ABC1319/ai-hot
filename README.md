@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-24 22:13:59
+🕐 **最近更新**：2026-06-25 03:31:08
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,31 +16,35 @@
 
 ## 🔥 今日热点
 
-1. [印度 MoEngage 押注营销的未来在于数百万人工智能代理](https://aihot.bt199.com/news/41e29831de85/)
-   - 此次全现金交易使 MoEngage 能够获得为个人客户分配人工智能代理的技术
-   - `TechCrunch AI · 2026-06-23`
+1. [Facebook 为创作者推出人工智能伴侣应用](https://aihot.bt199.com/news/e56119b650d5/)
+   - 这款新应用程序目前正在与选定的创作者进行测试，其中将内置 Facebook 最近推出的人工智能创作者助手
+   - `TechCrunch AI · 2026-06-24`
 
-2. [Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息](https://aihot.bt199.com/news/492604e8457d/)
-   - Anthropic 的新 Claude Tag 为 Slack 带来了一位永远在线的 AI 队友。但除了生产力之外，该功…
-   - `TechCrunch AI · 2026-06-23`
+2. [Agility Robotics 计划通过 SPAC 以 2.5B 美元的交易上市](https://aihot.bt199.com/news/97c642dd855a/)
+   - Agility Robotics 是一家人形机器人初创公司，于 2015 年从俄勒冈州立大学分离出来，预计将产生 6.2…
+   - `TechCrunch AI · 2026-06-24`
 
-3. [谷歌家庭扬声器听起来不错，看起来也很棒——但它很挑剔](https://aihot.bt199.com/news/3a7dd2fd1f04/)
-   - 新的谷歌家庭音箱开箱即通过了几项重要的测试。即使音量开到 100%，扬声器里传出刺耳的音乐，每次我说“嘿，谷歌”时，它都…
+3. [艾尔联盟围绕亚历克斯·博雷斯 (Alex Bores) 的 2700 万美元代理人战争以平局告终](https://aihot.bt199.com/news/2420478b93bb/)
+   - Anthropic 和 OpenAI 之间耗资 2700 万美元的政治代理人战争昨晚打成了平局，纽约州议员 Alex B…
    - `The Verge AI · 2026-06-24`
 
-4. [下载：介绍工程问题](https://aihot.bt199.com/news/77540ffebad8/)
+4. [Figma 现在拥有 AI 动态图形和着色器工具](https://aihot.bt199.com/news/cfd2abd6965b/)
+   - Figma 在其年度 Config 会议上公布了一些新的设计和编码产品更新，旨在帮助创意人员“进一步推动他们的想法”并利…
+   - `The Verge AI · 2026-06-24`
+
+5. [欧洲极端高温导致发电厂关闭](https://aihot.bt199.com/news/4bfd31e826e6/)
+   - 欧洲正处于创纪录的热浪之中，随着人们转向风扇和空调来保持凉爽，电网正被推向极限。一些发电厂不会上线来帮助处理负载。 6…
+   - `MIT Tech Review · 2026-06-24`
+
+6. [下载：介绍工程问题](https://aihot.bt199.com/news/77540ffebad8/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。简介：工程问题我们无法解决所有问题…
    - `MIT Tech Review · 2026-06-24`
 
-5. [Stripe、Anthropic 和 OpenAI 支持阻止呼吸道感染的努力](https://aihot.bt199.com/news/63a3868fbdf0/)
-   - 普通感冒对我们所有人来说都是如此——通常每年不止一次。并且没有办法阻止它。您能做的最好的事情就是服用维生素 C，并远离流…
-   - `MIT Tech Review · 2026-06-24`
-
-6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
+7. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
    - `Ars Technica AI · 2026-06-17`
 
-7. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
+8. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
    - 甲骨文正在数据中心基础设施上花费数十亿美元来支持人工智能
    - `Ars Technica AI · 2026-06-23`
 
@@ -127,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
