@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-24 16:58:58
+🕐 **最近更新**：2026-06-24 22:13:59
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,17 +24,17 @@
    - Anthropic 的新 Claude Tag 为 Slack 带来了一位永远在线的 AI 队友。但除了生产力之外，该功…
    - `TechCrunch AI · 2026-06-23`
 
-3. [分享对微积分的热爱](https://aihot.bt199.com/news/d5c7b562dcef/)
-   - 目前，关于教育价值的全国性讨论主要是对人工智能的风险和积极潜力的猜测。 无论你对这场辩论持什么观点，我希望你会很高兴知道…
-   - `MIT Tech Review · 2026-06-23`
+3. [谷歌家庭扬声器听起来不错，看起来也很棒——但它很挑剔](https://aihot.bt199.com/news/3a7dd2fd1f04/)
+   - 新的谷歌家庭音箱开箱即通过了几项重要的测试。即使音量开到 100%，扬声器里传出刺耳的音乐，每次我说“嘿，谷歌”时，它都…
+   - `The Verge AI · 2026-06-24`
 
-4. [超声波成像将机器人手变成熟练的模仿者](https://aihot.bt199.com/news/f1b89e0e6dff/)
-   - 我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…
-   - `MIT Tech Review · 2026-06-23`
+4. [下载：介绍工程问题](https://aihot.bt199.com/news/77540ffebad8/)
+   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。简介：工程问题我们无法解决所有问题…
+   - `MIT Tech Review · 2026-06-24`
 
-5. [为什么企业人工智能超级政治行动委员会在地方选举上花费了 2700 万美元](https://aihot.bt199.com/news/3eba7d9d34da/)
-   - 大家好，欢迎来到 Regulator，这是为 Verge 订阅者提供的时事通讯，记录了他们最喜欢的科技霸主和华盛顿沼泽生…
-   - `The Verge AI · 2026-06-23`
+5. [Stripe、Anthropic 和 OpenAI 支持阻止呼吸道感染的努力](https://aihot.bt199.com/news/63a3868fbdf0/)
+   - 普通感冒对我们所有人来说都是如此——通常每年不止一次。并且没有办法阻止它。您能做的最好的事情就是服用维生素 C，并远离流…
+   - `MIT Tech Review · 2026-06-24`
 
 6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
