@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-24 10:35:12
+🕐 **最近更新**：2026-06-24 16:58:58
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,12 +24,12 @@
    - Anthropic 的新 Claude Tag 为 Slack 带来了一位永远在线的 AI 队友。但除了生产力之外，该功…
    - `TechCrunch AI · 2026-06-23`
 
-3. [游戏中的头](https://aihot.bt199.com/news/9ab4e89c7489/)
-   - 2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…
+3. [分享对微积分的热爱](https://aihot.bt199.com/news/d5c7b562dcef/)
+   - 目前，关于教育价值的全国性讨论主要是对人工智能的风险和积极潜力的猜测。 无论你对这场辩论持什么观点，我希望你会很高兴知道…
    - `MIT Tech Review · 2026-06-23`
 
-4. [分享对微积分的热爱](https://aihot.bt199.com/news/d5c7b562dcef/)
-   - 目前，关于教育价值的全国性讨论主要是对人工智能的风险和积极潜力的猜测。 无论你对这场辩论持什么观点，我希望你会很高兴知道…
+4. [超声波成像将机器人手变成熟练的模仿者](https://aihot.bt199.com/news/f1b89e0e6dff/)
+   - 我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…
    - `MIT Tech Review · 2026-06-23`
 
 5. [为什么企业人工智能超级政治行动委员会在地方选举上花费了 2700 万美元](https://aihot.bt199.com/news/3eba7d9d34da/)
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

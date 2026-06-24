@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T02:35:12.186257",
+  "updated_at": "2026-06-24T08:58:58.097668",
   "total": 7,
   "hot_list": [
     {
@@ -39,24 +39,6 @@
       "type_label": "📰 新闻"
     },
     {
-      "title": "游戏中的头",
-      "name": "游戏中的头",
-      "title_zh": "游戏中的头",
-      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-      "type": "news",
-      "source": "MIT Tech Review",
-      "score": 13,
-      "detail": "2026-06-23",
-      "time": "2026-06-23",
-      "description": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "subtitle": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "ai_summary": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "category": "资讯",
-      "news_id": "9ab4e89c7489",
-      "internal_url": "https://aihot.bt199.com/news/9ab4e89c7489/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "分享对微积分的热爱",
       "name": "分享对微积分的热爱",
       "title_zh": "分享对微积分的热爱",
@@ -72,6 +54,24 @@
       "category": "资讯",
       "news_id": "d5c7b562dcef",
       "internal_url": "https://aihot.bt199.com/news/d5c7b562dcef/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "超声波成像将机器人手变成熟练的模仿者",
+      "name": "超声波成像将机器人手变成熟练的模仿者",
+      "title_zh": "超声波成像将机器人手变成熟练的模仿者",
+      "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-06-23",
+      "time": "2026-06-23",
+      "description": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "subtitle": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "ai_summary": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "category": "资讯",
+      "news_id": "f1b89e0e6dff",
+      "internal_url": "https://aihot.bt199.com/news/f1b89e0e6dff/",
       "type_label": "📰 新闻"
     },
     {
@@ -167,24 +167,6 @@
       "type_label": "📰 新闻"
     },
     {
-      "title": "游戏中的头",
-      "name": "游戏中的头",
-      "title_zh": "游戏中的头",
-      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-      "type": "news",
-      "source": "MIT Tech Review",
-      "score": 13,
-      "detail": "2026-06-23",
-      "time": "2026-06-23",
-      "description": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "subtitle": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "ai_summary": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "category": "资讯",
-      "news_id": "9ab4e89c7489",
-      "internal_url": "https://aihot.bt199.com/news/9ab4e89c7489/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "分享对微积分的热爱",
       "name": "分享对微积分的热爱",
       "title_zh": "分享对微积分的热爱",
@@ -200,6 +182,24 @@
       "category": "资讯",
       "news_id": "d5c7b562dcef",
       "internal_url": "https://aihot.bt199.com/news/d5c7b562dcef/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "超声波成像将机器人手变成熟练的模仿者",
+      "name": "超声波成像将机器人手变成熟练的模仿者",
+      "title_zh": "超声波成像将机器人手变成熟练的模仿者",
+      "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-06-23",
+      "time": "2026-06-23",
+      "description": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "subtitle": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "ai_summary": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "category": "资讯",
+      "news_id": "f1b89e0e6dff",
+      "internal_url": "https://aihot.bt199.com/news/f1b89e0e6dff/",
       "type_label": "📰 新闻"
     },
     {
@@ -301,24 +301,6 @@
       "type_label": "📰 新闻"
     },
     {
-      "title": "游戏中的头",
-      "name": "游戏中的头",
-      "title_zh": "游戏中的头",
-      "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
-      "type": "news",
-      "source": "MIT Tech Review",
-      "score": 13,
-      "detail": "2026-06-23",
-      "time": "2026-06-23",
-      "description": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "subtitle": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "ai_summary": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局…",
-      "category": "资讯",
-      "news_id": "9ab4e89c7489",
-      "internal_url": "https://aihot.bt199.com/news/9ab4e89c7489/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "分享对微积分的热爱",
       "name": "分享对微积分的热爱",
       "title_zh": "分享对微积分的热爱",
@@ -334,6 +316,24 @@
       "category": "资讯",
       "news_id": "d5c7b562dcef",
       "internal_url": "https://aihot.bt199.com/news/d5c7b562dcef/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "超声波成像将机器人手变成熟练的模仿者",
+      "name": "超声波成像将机器人手变成熟练的模仿者",
+      "title_zh": "超声波成像将机器人手变成熟练的模仿者",
+      "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+      "type": "news",
+      "source": "MIT Tech Review",
+      "score": 13,
+      "detail": "2026-06-23",
+      "time": "2026-06-23",
+      "description": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "subtitle": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "ai_summary": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势…",
+      "category": "资讯",
+      "news_id": "f1b89e0e6dff",
+      "internal_url": "https://aihot.bt199.com/news/f1b89e0e6dff/",
       "type_label": "📰 新闻"
     },
     {

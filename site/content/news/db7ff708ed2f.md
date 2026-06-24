@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notifica..."
 summary_zh = ""
 tags = []
-list_page = 50
+list_page = 52
 +++
 
 <!-- AUTO-GENERATED: news page -->
