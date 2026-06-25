@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-06-24T19:30:18.941285",
-  "date": "2026-06-24",
+  "updated_at": "2026-06-25T02:36:25.552172",
+  "date": "2026-06-25",
   "spotlight": {
-    "name": "LangGraph",
-    "url": "https://github.com/langchain-ai/langgraph",
+    "name": "Browser Use",
+    "url": "https://github.com/browser-use/browser-use",
     "type": "agent",
-    "description": "LangChain出品的有状态Agent编排框架",
+    "description": "让AI控制浏览器的Agent框架，Python实现",
     "pricing": "开源免费",
-    "category": "多 Agent"
+    "category": "浏览器 Agent"
   },
   "alternates": [
     {
-      "name": "Cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
+      "name": "Figma Context Mcp",
+      "url": "https://github.com/GLips/Figma-Context-MCP",
       "type": "agent",
-      "description": "面向 AI 编程工作流的 macOS 终端工具，支持纵向标签页和任务通知，方便同时管理多个 Agent。",
+      "description": "把 Figma 设计稿上下文提供给 Cursor 等 AI 编程 Agent 的 MCP 服务，方便按设计还原页面。",
       "pricing": "开源免费",
       "category": "编程 Agent"
     },
     {
-      "id": "sora",
-      "name": "Sora",
-      "url": "https://sora.com",
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com",
       "type": "tool",
-      "description": "OpenAI 视频生成模型，效果惊人",
-      "pricing": "ChatGPT Pro $200/月",
-      "category": "视频"
+      "description": "最流行的 AI 对话工具，OpenAI 出品",
+      "pricing": "免费 + Plus $20/月",
+      "category": "对话"
     },
     {
-      "name": "AgentGPT",
-      "url": "https://agentgpt.reworkd.ai",
+      "name": "SuperAGI",
+      "url": "https://github.com/TransformerOptimus/SuperAGI",
       "type": "agent",
-      "description": "浏览器内直接使用的AI Agent平台",
-      "pricing": "免费 + Pro",
+      "description": "开发者优先的开源自主AI Agent框架",
+      "pricing": "开源免费",
       "category": "自动化 Agent"
     }
   ]
