@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-25 22:10:54
+🕐 **最近更新**：2026-06-26 03:55:14
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [Adobe 收购图像和视频增强工具制造商 Topaz Labs](https://aihot.bt199.com/news/1ef1bcd1b824/)
-   - Adobe 表示，它将在其应用程序中集成 Topaz Labs 的工具
+1. [Anthropic 的 Claude 正在赢得付费消费者的青睐，这是 ChatGPT 拥有的市场](https://aihot.bt199.com/news/8778afccd777/)
+   - 数据显示，尽管 ChatGPT 占据市场主导地位，但为人工智能付费的消费者越来越多地选择 Anthropic 的 Cla…
    - `TechCrunch AI · 2026-06-25`
 
-2. [亚马逊加大对印度的投资，投资 13B 美元人工智能基础设施](https://aihot.bt199.com/news/c06892b974a0/)
-   - 亚马逊在印度的最新投资正值全球科技公司竞相扩大印度的人工智能基础设施之际
+2. [General Intuition 的 2.3B 美元赌注是视频游戏可以为现实世界训练人工智能代理](https://aihot.bt199.com/news/eb1c42e24d9c/)
+   - General Intuition 已筹集 3.2 亿美元，用于扩展经过数百万小时游戏训练的人工智能，押注动作数据可以帮…
    - `TechCrunch AI · 2026-06-25`
 
-3. [下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律](https://aihot.bt199.com/news/0b81bf46c6a0/)
+3. [人工智能时代重新定位零售业](https://aihot.bt199.com/news/21b4b9b70216/)
+   - 人工智能正在迅速重塑零售业，但其方式并非以消费者可能立即注意到的方式。最大的转变可能不是华而不实的虚拟试穿或聊天机器人购…
+   - `MIT Tech Review · 2026-06-25`
+
+4. [下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律](https://aihot.bt199.com/news/0b81bf46c6a0/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。欧洲极端高温导致发电厂关闭 欧洲正处…
    - `MIT Tech Review · 2026-06-25`
 
-4. [福特不得不重新聘请前工程师来修复其自动化系统所犯的错误](https://aihot.bt199.com/news/1d6d9742c4a6/)
+5. [福特不得不重新聘请前工程师来修复其自动化系统所犯的错误](https://aihot.bt199.com/news/1d6d9742c4a6/)
    - 为了庆祝其在 JD Power 的主流汽车制造商初始质量排名中排名第一的新地位，福特公开了近年来面临的挑战，特别是在生产…
    - `The Verge AI · 2026-06-25`
 
-5. [IBM 推出芯片技术，有助于将摩尔定律再延长十年](https://aihot.bt199.com/news/6a7b51bea549/)
-   - IBM 在指甲盖大小的区域上构建了一种新型原型芯片，其中包含约 1000 亿个晶体管，其密度是该公司之前于 2021 年…
-   - `MIT Tech Review · 2026-06-25`
-
-6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
-   - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
-   - `Ars Technica AI · 2026-06-17`
+6. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
+   - 概念是“全力以赴使用代理来运行您的收件箱”
+   - `Ars Technica AI · 2026-06-25`
 
 7. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
    - 甲骨文正在数据中心基础设施上花费数十亿美元来支持人工智能
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

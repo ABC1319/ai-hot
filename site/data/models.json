@@ -3727,6 +3727,30 @@
     "is_core": true
   },
   {
+    "id": "hf-Boogu--Boogu-Image-0.1-Edit",
+    "name": "Boogu/Boogu-Image-0.1-Edit",
+    "display_name": "Boogu-Image-0.1-Edit",
+    "url": "https://huggingface.co/Boogu/Boogu-Image-0.1-Edit",
+    "author": "Boogu",
+    "pipeline_tag": "",
+    "likes": 123,
+    "downloads": 824,
+    "tags": [
+      "diffusers",
+      "safetensors",
+      "en",
+      "zh",
+      "license:apache-2.0",
+      "diffusers:BooguImagePipeline",
+      "region:us"
+    ],
+    "created_at": "2026-06-16T06:40:58.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-06-25T19:53:52.442937",
+    "display_priority": 101,
+    "is_core": true
+  },
+  {
     "id": "hf-inclusionAI--LLaDA2.0-Uni",
     "name": "inclusionAI/LLaDA2.0-Uni",
     "display_name": "LLaDA2.0-Uni",
@@ -3761,7 +3785,7 @@
     "created_at": "2026-04-22T17:10:47.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-23T13:09:14.937690",
-    "display_priority": 101,
+    "display_priority": 102,
     "is_core": true
   },
   {
@@ -3780,7 +3804,7 @@
     "created_at": "2026-06-09T17:24:08.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-17T11:23:27.131913",
-    "display_priority": 102,
+    "display_priority": 103,
     "is_core": true
   },
   {
@@ -3808,26 +3832,6 @@
     "created_at": "2026-04-13T09:12:47.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-11T19:31:24.390358",
-    "display_priority": 103,
-    "is_core": true
-  },
-  {
-    "id": "hf-Comfy-Org--Krea-2",
-    "name": "Comfy-Org/Krea-2",
-    "display_name": "Krea-2",
-    "url": "https://huggingface.co/Comfy-Org/Krea-2",
-    "author": "Comfy-Org",
-    "pipeline_tag": "",
-    "likes": 107,
-    "downloads": 10,
-    "tags": [
-      "comfyui",
-      "license:other",
-      "region:us"
-    ],
-    "created_at": "2026-06-16T22:31:20.000Z",
-    "source": "hf-trending",
-    "collected_at": "2026-06-25T14:09:19.939787",
     "display_priority": 104,
     "is_core": true
   },
