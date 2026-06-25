@@ -3812,6 +3812,26 @@
     "is_core": true
   },
   {
+    "id": "hf-Comfy-Org--Krea-2",
+    "name": "Comfy-Org/Krea-2",
+    "display_name": "Krea-2",
+    "url": "https://huggingface.co/Comfy-Org/Krea-2",
+    "author": "Comfy-Org",
+    "pipeline_tag": "",
+    "likes": 107,
+    "downloads": 10,
+    "tags": [
+      "comfyui",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-06-16T22:31:20.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-06-25T14:09:19.939787",
+    "display_priority": 104,
+    "is_core": true
+  },
+  {
     "id": "hf-Zyphra--ZONOS2",
     "name": "Zyphra/ZONOS2",
     "display_name": "ZONOS2",
@@ -3829,30 +3849,6 @@
     "created_at": "2026-06-11T02:20:46.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-17T11:23:27.131896",
-    "display_priority": 104,
-    "is_core": true
-  },
-  {
-    "id": "hf-Boogu--Boogu-Image-0.1-Edit",
-    "name": "Boogu/Boogu-Image-0.1-Edit",
-    "display_name": "Boogu-Image-0.1-Edit",
-    "url": "https://huggingface.co/Boogu/Boogu-Image-0.1-Edit",
-    "author": "Boogu",
-    "pipeline_tag": "",
-    "likes": 101,
-    "downloads": 473,
-    "tags": [
-      "diffusers",
-      "safetensors",
-      "en",
-      "zh",
-      "license:apache-2.0",
-      "diffusers:BooguImagePipeline",
-      "region:us"
-    ],
-    "created_at": "2026-06-16T06:40:58.000Z",
-    "source": "hf-trending",
-    "collected_at": "2026-06-23T02:32:58.662226",
     "display_priority": 105,
     "is_core": true
   },

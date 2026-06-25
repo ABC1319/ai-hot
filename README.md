@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-25 16:53:29
+🕐 **最近更新**：2026-06-25 22:10:54
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [Cerebras 股价在盈利后暴跌，首席执行官表示利润前景被误解](https://aihot.bt199.com/news/b33a37220fba/)
-   - 在上市以来的首份收益报告中，这家人工智能芯片制造商预测其核心业务的毛利率将收窄，这让投资者感到恐慌
-   - `TechCrunch AI · 2026-06-24`
+1. [Adobe 收购图像和视频增强工具制造商 Topaz Labs](https://aihot.bt199.com/news/1ef1bcd1b824/)
+   - Adobe 表示，它将在其应用程序中集成 Topaz Labs 的工具
+   - `TechCrunch AI · 2026-06-25`
 
-2. [国会女议员否认工作人员使用人工智能撰写国防资金修正案](https://aihot.bt199.com/news/618f67acd3fe/)
-   - 佛罗里达州共和党众议员安娜·保琳娜·卢纳 (Anna Paulina Luna) 表示，她的工作人员在一项重大国防法案的…
-   - `The Verge AI · 2026-06-24`
+2. [亚马逊加大对印度的投资，投资 13B 美元人工智能基础设施](https://aihot.bt199.com/news/c06892b974a0/)
+   - 亚马逊在印度的最新投资正值全球科技公司竞相扩大印度的人工智能基础设施之际
+   - `TechCrunch AI · 2026-06-25`
 
-3. [艾尔联盟围绕亚历克斯·博雷斯 (Alex Bores) 的 2700 万美元代理人战争以平局告终](https://aihot.bt199.com/news/2420478b93bb/)
-   - Anthropic 和 OpenAI 之间耗资 2700 万美元的政治代理人战争昨晚打成了平局，纽约州议员 Alex B…
-   - `The Verge AI · 2026-06-24`
+3. [下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律](https://aihot.bt199.com/news/0b81bf46c6a0/)
+   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。欧洲极端高温导致发电厂关闭 欧洲正处…
+   - `MIT Tech Review · 2026-06-25`
 
-4. [欧洲极端高温导致发电厂关闭](https://aihot.bt199.com/news/4bfd31e826e6/)
-   - 欧洲正处于创纪录的热浪之中，随着人们转向风扇和空调来保持凉爽，电网正被推向极限。一些发电厂不会上线来帮助处理负载。 6…
-   - `MIT Tech Review · 2026-06-24`
+4. [福特不得不重新聘请前工程师来修复其自动化系统所犯的错误](https://aihot.bt199.com/news/1d6d9742c4a6/)
+   - 为了庆祝其在 JD Power 的主流汽车制造商初始质量排名中排名第一的新地位，福特公开了近年来面临的挑战，特别是在生产…
+   - `The Verge AI · 2026-06-25`
 
-5. [下载：介绍工程问题](https://aihot.bt199.com/news/77540ffebad8/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。简介：工程问题我们无法解决所有问题…
-   - `MIT Tech Review · 2026-06-24`
+5. [IBM 推出芯片技术，有助于将摩尔定律再延长十年](https://aihot.bt199.com/news/6a7b51bea549/)
+   - IBM 在指甲盖大小的区域上构建了一种新型原型芯片，其中包含约 1000 亿个晶体管，其密度是该公司之前于 2021 年…
+   - `MIT Tech Review · 2026-06-25`
 
 6. [由于 Broadcom 的“滥用行为”，Tesco 将 40,000 个服务器工作负载从 VMware 中移走](https://aihot.bt199.com/news/c767b5e1d460/)
    - Tesco 在英国法庭文件中声称 Broadcom 将其 VMware 价格提高了约 175%
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
