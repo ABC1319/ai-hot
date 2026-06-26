@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-26 03:55:14
+🕐 **最近更新**：2026-06-26 10:39:20
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,31 +16,35 @@
 
 ## 🔥 今日热点
 
-1. [Anthropic 的 Claude 正在赢得付费消费者的青睐，这是 ChatGPT 拥有的市场](https://aihot.bt199.com/news/8778afccd777/)
-   - 数据显示，尽管 ChatGPT 占据市场主导地位，但为人工智能付费的消费者越来越多地选择 Anthropic 的 Cla…
+1. [出于安全考虑，白宫要求 OpenAI 放慢新模型的发布速度](https://aihot.bt199.com/news/7d96e7dab588/)
+   - 据报道，penAI 计划与一组选定的合作伙伴而不是向更广泛的公众分享其最新模型 GPT 5.6。原因是：特朗普政府告诉它…
    - `TechCrunch AI · 2026-06-25`
 
-2. [General Intuition 的 2.3B 美元赌注是视频游戏可以为现实世界训练人工智能代理](https://aihot.bt199.com/news/eb1c42e24d9c/)
-   - General Intuition 已筹集 3.2 亿美元，用于扩展经过数百万小时游戏训练的人工智能，押注动作数据可以帮…
+2. [Patronus AI 获得 5000 万美元投资，用于构建对 AI 代理进行压力测试的“数字世界”](https://aihot.bt199.com/news/7f5ba665e4de/)
+   - 由前 Meta AI 研究人员创立的代理测试初创公司 Patronus AI 的投资者表示，其需求几乎无法满足
    - `TechCrunch AI · 2026-06-25`
 
-3. [人工智能时代重新定位零售业](https://aihot.bt199.com/news/21b4b9b70216/)
+3. [应特朗普政府要求，OpenAI 将推迟 GPT-5.6](https://aihot.bt199.com/news/cfac8b7094d3/)
+   - 据报道，由于担心潜在的安全问题，特朗普政府已要求 OpenAI 错开发布其下一个高价模型 GPT-5.6。 The In…
+   - `The Verge AI · 2026-06-25`
+
+4. [人工智能时代重新定位零售业](https://aihot.bt199.com/news/21b4b9b70216/)
    - 人工智能正在迅速重塑零售业，但其方式并非以消费者可能立即注意到的方式。最大的转变可能不是华而不实的虚拟试穿或聊天机器人购…
    - `MIT Tech Review · 2026-06-25`
 
-4. [下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律](https://aihot.bt199.com/news/0b81bf46c6a0/)
+5. [下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律](https://aihot.bt199.com/news/0b81bf46c6a0/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。欧洲极端高温导致发电厂关闭 欧洲正处…
    - `MIT Tech Review · 2026-06-25`
 
-5. [福特不得不重新聘请前工程师来修复其自动化系统所犯的错误](https://aihot.bt199.com/news/1d6d9742c4a6/)
+6. [福特不得不重新聘请前工程师来修复其自动化系统所犯的错误](https://aihot.bt199.com/news/1d6d9742c4a6/)
    - 为了庆祝其在 JD Power 的主流汽车制造商初始质量排名中排名第一的新地位，福特公开了近年来面临的挑战，特别是在生产…
    - `The Verge AI · 2026-06-25`
 
-6. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
+7. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
    - 概念是“全力以赴使用代理来运行您的收件箱”
    - `Ars Technica AI · 2026-06-25`
 
-7. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
+8. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
    - 甲骨文正在数据中心基础设施上花费数十亿美元来支持人工智能
    - `Ars Technica AI · 2026-06-23`
 
@@ -127,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

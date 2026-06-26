@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-06-25T19:54:42.756338",
-  "date": "2026-06-25",
+  "updated_at": "2026-06-26T02:38:38.888485",
+  "date": "2026-06-26",
   "spotlight": {
-    "name": "Browser Use",
-    "url": "https://github.com/browser-use/browser-use",
+    "name": "WebVoyager",
+    "url": "https://github.com/MinorJerry/WebVoyager",
     "type": "agent",
-    "description": "让AI控制浏览器的Agent框架，Python实现",
+    "description": "基于GPT-4V的网页浏览Agent，视觉理解网页内容",
     "pricing": "开源免费",
     "category": "浏览器 Agent"
   },
   "alternates": [
     {
-      "name": "Figma Context Mcp",
-      "url": "https://github.com/GLips/Figma-Context-MCP",
+      "name": "Ai Website Cloner Template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "type": "agent",
-      "description": "把 Figma 设计稿上下文提供给 Cursor 等 AI 编程 Agent 的 MCP 服务，方便按设计还原页面。",
+      "description": "用 AI 编程 Agent 一条命令克隆网页的模板项目，适合快速复刻页面结构和样式。",
       "pricing": "开源免费",
       "category": "编程 Agent"
     },
     {
-      "id": "chatgpt",
-      "name": "ChatGPT",
-      "url": "https://chat.openai.com",
+      "id": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai",
       "type": "tool",
-      "description": "最流行的 AI 对话工具，OpenAI 出品",
-      "pricing": "免费 + Plus $20/月",
+      "description": "Anthropic 出品的 AI 对话工具，长文本能力强",
+      "pricing": "免费 + Pro $20/月",
       "category": "对话"
     },
     {
-      "name": "SuperAGI",
-      "url": "https://github.com/TransformerOptimus/SuperAGI",
+      "name": "CrewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
       "type": "agent",
-      "description": "开发者优先的开源自主AI Agent框架",
-      "pricing": "开源免费",
-      "category": "自动化 Agent"
+      "description": "角色扮演式多Agent协作框架，Agent可分工合作",
+      "pricing": "开源 + Pro",
+      "category": "多 Agent"
     }
   ]
 }

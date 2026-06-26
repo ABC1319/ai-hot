@@ -3789,21 +3789,22 @@
     "is_core": true
   },
   {
-    "id": "hf-RazzzHF--Realism_Engine_Ideogram_4",
-    "name": "RazzzHF/Realism_Engine_Ideogram_4",
-    "display_name": "Realism_Engine_Ideogram_4",
-    "url": "https://huggingface.co/RazzzHF/Realism_Engine_Ideogram_4",
-    "author": "RazzzHF",
+    "id": "hf-Comfy-Org--Krea-2",
+    "name": "Comfy-Org/Krea-2",
+    "display_name": "Krea-2",
+    "url": "https://huggingface.co/Comfy-Org/Krea-2",
+    "author": "Comfy-Org",
     "pipeline_tag": "",
-    "likes": 108,
-    "downloads": 0,
+    "likes": 119,
+    "downloads": 10,
     "tags": [
-      "license:unknown",
+      "comfyui",
+      "license:other",
       "region:us"
     ],
-    "created_at": "2026-06-09T17:24:08.000Z",
+    "created_at": "2026-06-16T22:31:20.000Z",
     "source": "hf-trending",
-    "collected_at": "2026-06-17T11:23:27.131913",
+    "collected_at": "2026-06-26T02:38:00.351146",
     "display_priority": 103,
     "is_core": true
   },
@@ -8995,6 +8996,75 @@
     "source": "hf-newest",
     "collected_at": "2026-06-24T14:12:24.113118",
     "display_priority": 280,
+    "is_core": true
+  },
+  {
+    "id": "hf-Jinstudio--TRELLIS-text-xlarge",
+    "name": "Jinstudio/TRELLIS-text-xlarge",
+    "display_name": "TRELLIS-text-xlarge",
+    "url": "https://huggingface.co/Jinstudio/TRELLIS-text-xlarge",
+    "author": "Jinstudio",
+    "pipeline_tag": "text-to-3d",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "trellis",
+      "text-to-3d",
+      "en",
+      "arxiv:2412.01506",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-06-26T02:20:40.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-06-26T02:38:00.461908",
+    "display_priority": 281,
+    "is_core": true
+  },
+  {
+    "id": "hf-Jinstudio--TRELLIS-text-large",
+    "name": "Jinstudio/TRELLIS-text-large",
+    "display_name": "TRELLIS-text-large",
+    "url": "https://huggingface.co/Jinstudio/TRELLIS-text-large",
+    "author": "Jinstudio",
+    "pipeline_tag": "text-to-3d",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "trellis",
+      "text-to-3d",
+      "en",
+      "arxiv:2412.01506",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-06-26T02:20:34.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-06-26T02:38:00.461914",
+    "display_priority": 282,
+    "is_core": true
+  },
+  {
+    "id": "hf-Jinstudio--TRELLIS-text-base",
+    "name": "Jinstudio/TRELLIS-text-base",
+    "display_name": "TRELLIS-text-base",
+    "url": "https://huggingface.co/Jinstudio/TRELLIS-text-base",
+    "author": "Jinstudio",
+    "pipeline_tag": "text-to-3d",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "trellis",
+      "text-to-3d",
+      "en",
+      "arxiv:2412.01506",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-06-26T02:20:25.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-06-26T02:38:00.461916",
+    "display_priority": 283,
     "is_core": true
   }
 ]

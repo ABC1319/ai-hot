@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T19:54:42.555006+00:00",
-  "window_days": 14,
+  "updated_at": "2026-06-26T02:38:38.755540+00:00",
+  "window_days": 30,
   "candidate_count": 1,
   "items": [
     {
@@ -11,8 +11,8 @@
       "type": "project",
       "stars": 56440,
       "created_at": "2026-06-12T00:52:37Z",
-      "window_days": 14,
-      "score": 6985.5326187684495,
+      "window_days": 30,
+      "score": 7098.316639352142,
       "reason": "最近讨论度很高的开源 AI 项目"
     },
     {
@@ -23,7 +23,7 @@
       "type": "agent",
       "stars": 362093,
       "score": 362093,
-      "window_days": 14,
+      "window_days": 30,
       "reason": "你的个人AI助手，跨平台、全功能。Any OS, Any Platform"
     }
   ]
