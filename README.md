@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-26 16:57:05
+🕐 **最近更新**：2026-06-26 22:10:47
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,20 +24,20 @@
    - 由前 Meta AI 研究人员创立的代理测试初创公司 Patronus AI 的投资者表示，其需求几乎无法满足
    - `TechCrunch AI · 2026-06-25`
 
-3. [应特朗普政府要求，OpenAI 将推迟 GPT-5.6](https://aihot.bt199.com/news/cfac8b7094d3/)
+3. [Anthropic 的神话混乱只会变得更糟](https://aihot.bt199.com/news/3f864cb93a38/)
+   - 在特朗普政府周五晚上发出最后通牒后，Anthropic 将其 Mythos 级模型下线已有两周了。该公司立即采取行动，派…
+   - `The Verge AI · 2026-06-26`
+
+4. [下载：烧脑的热浪和前所未有的 OpenAI 限制](https://aihot.bt199.com/news/9ae9fea2130b/)
+   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。热浪扰乱你的大脑。科学家们正在试图找…
+   - `MIT Tech Review · 2026-06-26`
+
+5. [热浪扰乱你的大脑。科学家们正在试图找出原因。](https://aihot.bt199.com/news/e24e3fb017cf/)
+   - 本周伦敦天气很热。真的很热。危险的热浪袭击了西欧。昨天，英国录得 36.1 °C（约 97 °F）的 6 月最高气温。但…
+   - `MIT Tech Review · 2026-06-26`
+
+6. [应特朗普政府要求，OpenAI 将推迟 GPT-5.6](https://aihot.bt199.com/news/cfac8b7094d3/)
    - 据报道，由于担心潜在的安全问题，特朗普政府已要求 OpenAI 错开发布其下一个高价模型 GPT-5.6。 The In…
-   - `The Verge AI · 2026-06-25`
-
-4. [人工智能时代重新定位零售业](https://aihot.bt199.com/news/21b4b9b70216/)
-   - 人工智能正在迅速重塑零售业，但其方式并非以消费者可能立即注意到的方式。最大的转变可能不是华而不实的虚拟试穿或聊天机器人购…
-   - `MIT Tech Review · 2026-06-25`
-
-5. [下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律](https://aihot.bt199.com/news/0b81bf46c6a0/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。欧洲极端高温导致发电厂关闭 欧洲正处…
-   - `MIT Tech Review · 2026-06-25`
-
-6. [福特不得不重新聘请前工程师来修复其自动化系统所犯的错误](https://aihot.bt199.com/news/1d6d9742c4a6/)
-   - 为了庆祝其在 JD Power 的主流汽车制造商初始质量排名中排名第一的新地位，福特公开了近年来面临的挑战，特别是在生产…
    - `The Verge AI · 2026-06-25`
 
 7. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
