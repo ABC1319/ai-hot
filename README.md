@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-27 21:18:42
+🕐 **最近更新**：2026-06-28 03:09:43
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,35 +16,31 @@
 
 ## 🔥 今日热点
 
-1. [随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型](https://aihot.bt199.com/news/4209c1889e4c/)
-   - 新型号正在亚洲推出，承诺具有神话般的功能，而无需担心出口禁令。美国人工智能实验室可能永远无法恢复这个巨大的市场
+1. [房间里最健康的创始人得了癌症。以下是他如何利用人工智能进行反击。](https://aihot.bt199.com/news/d032b792729f/)
+   - 当面对癌症时，康纳·克里斯图将与他的治疗相关的所有内容——血液结果、扫描数据、可穿戴输出、日记条目——输入给克劳德
    - `TechCrunch AI · 2026-06-27`
 
-2. [特朗普政府发布人择神话供 100 多家美国公司、机构使用](https://aihot.bt199.com/news/b18057ca1428/)
-   - 据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，其中包括其非美国员工
-   - `TechCrunch AI · 2026-06-27`
-
-3. [Anthropic 的神话 5 回来了](https://aihot.bt199.com/news/59859df9563e/)
-   - 根据 The Verge 看到的政府给 Anthropic 的一封信，在与特朗普政府经历了持续两周的过山车式谈判过程后…
+2. [玛格丽特·阿特伍德表示人工智能的问题是“垃圾进，垃圾出”](https://aihot.bt199.com/news/299a59cd3d90/)
+   - 《使女的故事》和《盲刺客》的传奇作者玛拉吉特·阿特伍德在葡萄牙波尔图举行的巴贝尔文学文化节上接受了采访。正如在这些事情上…
    - `The Verge AI · 2026-06-27`
 
-4. [OpenAI 在美国人工智能监管大戏中推出 GPT-5.6](https://aihot.bt199.com/news/522a607f3975/)
-   - 在 OpenAI 将应特朗普政府的要求错开下一个模型发布的消息传出后不到 24 小时，该模型 GPT-5.6 就出现了…
-   - `The Verge AI · 2026-06-26`
+3. [为什么苹果要求我为大型科技公司对人工智能的痴迷支付更多费用？](https://aihot.bt199.com/news/d3cecd4bbd6e/)
+   - 蒂姆·库克最近表示，涨价是“不可避免的”，并称该公司的定价“不可持续”。 16 英寸 MacBook Pro 的价格上涨…
+   - `The Verge AI · 2026-06-27`
 
-5. [下载：烧脑的热浪和前所未有的 OpenAI 限制](https://aihot.bt199.com/news/9ae9fea2130b/)
+4. [下载：烧脑的热浪和前所未有的 OpenAI 限制](https://aihot.bt199.com/news/9ae9fea2130b/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。热浪扰乱你的大脑。科学家们正在试图找…
    - `MIT Tech Review · 2026-06-26`
 
-6. [热浪扰乱你的大脑。科学家们正在试图找出原因。](https://aihot.bt199.com/news/e24e3fb017cf/)
+5. [热浪扰乱你的大脑。科学家们正在试图找出原因。](https://aihot.bt199.com/news/e24e3fb017cf/)
    - 本周伦敦天气很热。真的很热。危险的热浪袭击了西欧。昨天，英国录得 36.1 °C（约 97 °F）的 6 月最高气温。但…
    - `MIT Tech Review · 2026-06-26`
 
-7. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
+6. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
    - 概念是“全力以赴使用代理来运行您的收件箱”
    - `Ars Technica AI · 2026-06-25`
 
-8. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
+7. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
    - 甲骨文正在数据中心基础设施上花费数十亿美元来支持人工智能
    - `Ars Technica AI · 2026-06-23`
 
@@ -131,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
