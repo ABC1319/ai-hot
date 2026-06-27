@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-27 03:33:26
+🕐 **最近更新**：2026-06-27 10:32:41
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,20 +16,20 @@
 
 ## 🔥 今日热点
 
-1. [OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态](https://aihot.bt199.com/news/f9c0cbd38e55/)
+1. [特朗普政府发布人择神话供 100 多家美国公司、机构使用](https://aihot.bt199.com/news/b18057ca1428/)
+   - 据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，其中包括其非美国员工
+   - `TechCrunch AI · 2026-06-27`
+
+2. [OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态](https://aihot.bt199.com/news/f9c0cbd38e55/)
    - OpenAI 表示：“我们认为这种政府准入流程不应成为长期默认做法。” “它为用户、开发者、企业、网络防御者和需要它们的…
    - `TechCrunch AI · 2026-06-26`
 
-2. [OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场](https://aihot.bt199.com/news/aea0b75b5039/)
-   - 此次招聘标志着 OpenAI 进军印度的最新举措，扩大了办事处、合作伙伴关系和招聘规模
-   - `TechCrunch AI · 2026-06-26`
+3. [Anthropic 的神话 5 回来了](https://aihot.bt199.com/news/59859df9563e/)
+   - 根据 The Verge 看到的政府给 Anthropic 的一封信，在与特朗普政府经历了持续两周的过山车式谈判过程后…
+   - `The Verge AI · 2026-06-27`
 
-3. [OpenAI 在美国人工智能监管大戏中推出 GPT-5.6](https://aihot.bt199.com/news/522a607f3975/)
+4. [OpenAI 在美国人工智能监管大戏中推出 GPT-5.6](https://aihot.bt199.com/news/522a607f3975/)
    - 在 OpenAI 将应特朗普政府的要求错开下一个模型发布的消息传出后不到 24 小时，该模型 GPT-5.6 就出现了…
-   - `The Verge AI · 2026-06-26`
-
-4. [Anthropic 的神话混乱只会变得更糟](https://aihot.bt199.com/news/3f864cb93a38/)
-   - 在特朗普政府周五晚上发出最后通牒后，Anthropic 将其 Mythos 级模型下线已有两周了。该公司立即采取行动，派…
    - `The Verge AI · 2026-06-26`
 
 5. [下载：烧脑的热浪和前所未有的 OpenAI 限制](https://aihot.bt199.com/news/9ae9fea2130b/)
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
