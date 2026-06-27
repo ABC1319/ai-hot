@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-27 16:31:33
+🕐 **最近更新**：2026-06-27 21:18:42
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,13 +16,13 @@
 
 ## 🔥 今日热点
 
-1. [特朗普政府发布人择神话供 100 多家美国公司、机构使用](https://aihot.bt199.com/news/b18057ca1428/)
-   - 据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，其中包括其非美国员工
+1. [随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型](https://aihot.bt199.com/news/4209c1889e4c/)
+   - 新型号正在亚洲推出，承诺具有神话般的功能，而无需担心出口禁令。美国人工智能实验室可能永远无法恢复这个巨大的市场
    - `TechCrunch AI · 2026-06-27`
 
-2. [OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态](https://aihot.bt199.com/news/f9c0cbd38e55/)
-   - OpenAI 表示：“我们认为这种政府准入流程不应成为长期默认做法。” “它为用户、开发者、企业、网络防御者和需要它们的…
-   - `TechCrunch AI · 2026-06-26`
+2. [特朗普政府发布人择神话供 100 多家美国公司、机构使用](https://aihot.bt199.com/news/b18057ca1428/)
+   - 据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，其中包括其非美国员工
+   - `TechCrunch AI · 2026-06-27`
 
 3. [Anthropic 的神话 5 回来了](https://aihot.bt199.com/news/59859df9563e/)
    - 根据 The Verge 看到的政府给 Anthropic 的一封信，在与特朗普政府经历了持续两周的过山车式谈判过程后…
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
