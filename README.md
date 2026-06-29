@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-29 18:29:53
+🕐 **最近更新**：2026-06-29 23:36:44
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [人工智能不足后，福特重新雇用“灰胡子”工程师](https://aihot.bt199.com/news/66a122702bc0/)
-   - “我们错误地认为，只要引入人工智能……就能生产出高质量的产品。”
-   - `TechCrunch AI · 2026-06-28`
+1. [机器人手公司就特斯拉商业秘密诉讼达成和解并宣布融资 1100 万美元](https://aihot.bt199.com/news/d847e44ff01a/)
+   - 这家初创公司 Proception 正在采用一种独特的方法来收集训练数据，以解决机器人技术中最困难的问题之一：手
+   - `TechCrunch AI · 2026-06-29`
 
-2. [为什么华尔街认为美国内存制造商美光是下一个英伟达](https://aihot.bt199.com/news/c954eb691633/)
-   - 华尔街投资者渴望找到更多与英伟达一样出色的人工智能相关上市公司，他们认为美光是他们的赢家
-   - `TechCrunch AI · 2026-06-28`
+2. [Omen AI优化数据中心的计划全部落空](https://aihot.bt199.com/news/85c3f90dcf40/)
+   - Omen AI 筹集了 3100 万美元的 A 轮融资，用于监控芯片冷却剂并阻止数据中心的细菌爆发
+   - `TechCrunch AI · 2026-06-29`
 
-3. [中国的Z.ai声称它可以在网络安全方面与Mythos相媲美](https://aihot.bt199.com/news/4cd6d8f79d5e/)
+3. [代理商对技术前沿的信心](https://aihot.bt199.com/news/90763c99a9ca/)
+   - 企业对人工智能的投资正在蓬勃发展。 Gartner 称 2026 年是组织将其人工智能项目与战略业务目标结合起来的“拐点…
+   - `MIT Tech Review · 2026-06-29`
+
+4. [下载：指标弱点和人工智能大象警告](https://aihot.bt199.com/news/664c8715096e/)
+   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。指标不可避免的弱点指标可以揭示很多有…
+   - `MIT Tech Review · 2026-06-29`
+
+5. [中国的Z.ai声称它可以在网络安全方面与Mythos相媲美](https://aihot.bt199.com/news/4cd6d8f79d5e/)
    - 中国的智普人工智能（Z.ai）发布了其开放权重GLM-5.2，一些研究人员声称它在某些错误查找和网络安全场景中与Myth…
    - `The Verge AI · 2026-06-28`
 
-4. [Suno推出Spark孵化器计划，为独立艺术家提供人工智能机器](https://aihot.bt199.com/news/863beb6b5eb1/)
+6. [Suno推出Spark孵化器计划，为独立艺术家提供人工智能机器](https://aihot.bt199.com/news/863beb6b5eb1/)
    - Suno 的雄心不仅仅是成为一个生产 AI 垃圾的玩具，它还希望成为一个流媒体目的地并发掘新艺术家。 Spark 是他们…
    - `The Verge AI · 2026-06-28`
-
-5. [下载：烧脑的热浪和前所未有的 OpenAI 限制](https://aihot.bt199.com/news/9ae9fea2130b/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。热浪扰乱你的大脑。科学家们正在试图找…
-   - `MIT Tech Review · 2026-06-26`
-
-6. [热浪扰乱你的大脑。科学家们正在试图找出原因。](https://aihot.bt199.com/news/e24e3fb017cf/)
-   - 本周伦敦天气很热。真的很热。危险的热浪袭击了西欧。昨天，英国录得 36.1 °C（约 97 °F）的 6 月最高气温。但…
-   - `MIT Tech Review · 2026-06-26`
 
 7. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
    - 概念是“全力以赴使用代理来运行您的收件箱”
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
