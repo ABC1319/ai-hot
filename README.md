@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-29 03:08:35
+🕐 **最近更新**：2026-06-29 10:45:56
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,13 +24,13 @@
    - 华尔街投资者渴望找到更多与英伟达一样出色的人工智能相关上市公司，他们认为美光是他们的赢家
    - `TechCrunch AI · 2026-06-28`
 
-3. [检察官在 Palisades 火灾审判中使用 ChatGPT 日志作为证据](https://aihot.bt199.com/news/6e7f4c864b7c/)
-   - 乔纳森·林德克内西特 (Jonathan Rinderknecht) 因在 2025 年元旦纵火而面临纵火指控，这场火灾…
+3. [中国的Z.ai声称它可以在网络安全方面与Mythos相媲美](https://aihot.bt199.com/news/4cd6d8f79d5e/)
+   - 中国的智普人工智能（Z.ai）发布了其开放权重GLM-5.2，一些研究人员声称它在某些错误查找和网络安全场景中与Myth…
    - `The Verge AI · 2026-06-28`
 
-4. [玛格丽特·阿特伍德表示人工智能的问题是“垃圾进，垃圾出”](https://aihot.bt199.com/news/299a59cd3d90/)
-   - 《使女的故事》和《盲刺客》的传奇作者玛拉吉特·阿特伍德在葡萄牙波尔图举行的巴贝尔文学文化节上接受了采访。正如在这些事情上…
-   - `The Verge AI · 2026-06-27`
+4. [Suno推出Spark孵化器计划，为独立艺术家提供人工智能机器](https://aihot.bt199.com/news/863beb6b5eb1/)
+   - Suno 的雄心不仅仅是成为一个生产 AI 垃圾的玩具，它还希望成为一个流媒体目的地并发掘新艺术家。 Spark 是他们…
+   - `The Verge AI · 2026-06-28`
 
 5. [下载：烧脑的热浪和前所未有的 OpenAI 限制](https://aihot.bt199.com/news/9ae9fea2130b/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。热浪扰乱你的大脑。科学家们正在试图找…
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
