@@ -266,13 +266,13 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000095",
+        "prompt": "0.00000094",
         "completion": "0.000003",
         "input_cache_read": "0.00000018"
       },
       "top_provider": {
         "context_length": 1048576,
-        "max_completion_tokens": 32768,
+        "max_completion_tokens": null,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -3274,7 +3274,7 @@
       },
       "supported_voices": null,
       "knowledge_cutoff": null,
-      "expiration_date": null,
+      "expiration_date": "9999-01-01",
       "links": {
         "details": "/api/v1/models/poolside/laguna-xs.2-20260421/endpoints"
       },
@@ -27334,5 +27334,5 @@
       }
     }
   ],
-  "updated_at": "2026-06-29T15:35:49.598237+00:00"
+  "updated_at": "2026-06-29T19:48:04.610878+00:00"
 }

@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-29 23:36:44
+🕐 **最近更新**：2026-06-30 03:48:42
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [机器人手公司就特斯拉商业秘密诉讼达成和解并宣布融资 1100 万美元](https://aihot.bt199.com/news/d847e44ff01a/)
-   - 这家初创公司 Proception 正在采用一种独特的方法来收集训练数据，以解决机器人技术中最困难的问题之一：手
+1. [Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude](https://aihot.bt199.com/news/a4fc79ea8f5a/)
+   - 随着 Anthropic 与加利福尼亚州建立更密切的关系，联邦政府已经将 OpenAI 竞争对手视为敌人
    - `TechCrunch AI · 2026-06-29`
 
-2. [Omen AI优化数据中心的计划全部落空](https://aihot.bt199.com/news/85c3f90dcf40/)
-   - Omen AI 筹集了 3100 万美元的 A 轮融资，用于监控芯片冷却剂并阻止数据中心的细菌爆发
+2. [韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题](https://aihot.bt199.com/news/cb6836702442/)
+   - 随着韩国将自己定位为人工智能技术强国，全球最大的两家存储芯片公司誓言要建造更多存储实验室工厂
    - `TechCrunch AI · 2026-06-29`
 
-3. [代理商对技术前沿的信心](https://aihot.bt199.com/news/90763c99a9ca/)
+3. [OpenAI 正在为 Codex 测试新硬件](https://aihot.bt199.com/news/d4377941c232/)
+   - OpenAI 将于 7 月 15 日发布某种与其人工智能驱动的编码工具 Codex 相关的设备。在周一发布到 X 的视频…
+   - `The Verge AI · 2026-06-29`
+
+4. [人工智能代理不是你的“同事”](https://aihot.bt199.com/news/70b9fae892c6/)
+   - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。想象一下，你上班…
+   - `MIT Tech Review · 2026-06-29`
+
+5. [立法者希望禁止人工智能公司出售你的健康数据](https://aihot.bt199.com/news/bc0bf62a89e2/)
+   - 一项新提案将禁止向数据经纪人出售美国人的健康和位置信息，包括人们向 ChatGPT 或 Claude 等人工智能聊天机器…
+   - `The Verge AI · 2026-06-29`
+
+6. [代理商对技术前沿的信心](https://aihot.bt199.com/news/90763c99a9ca/)
    - 企业对人工智能的投资正在蓬勃发展。 Gartner 称 2026 年是组织将其人工智能项目与战略业务目标结合起来的“拐点…
    - `MIT Tech Review · 2026-06-29`
-
-4. [下载：指标弱点和人工智能大象警告](https://aihot.bt199.com/news/664c8715096e/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。指标不可避免的弱点指标可以揭示很多有…
-   - `MIT Tech Review · 2026-06-29`
-
-5. [中国的Z.ai声称它可以在网络安全方面与Mythos相媲美](https://aihot.bt199.com/news/4cd6d8f79d5e/)
-   - 中国的智普人工智能（Z.ai）发布了其开放权重GLM-5.2，一些研究人员声称它在某些错误查找和网络安全场景中与Myth…
-   - `The Verge AI · 2026-06-28`
-
-6. [Suno推出Spark孵化器计划，为独立艺术家提供人工智能机器](https://aihot.bt199.com/news/863beb6b5eb1/)
-   - Suno 的雄心不仅仅是成为一个生产 AI 垃圾的玩具，它还希望成为一个流媒体目的地并发掘新艺术家。 Spark 是他们…
-   - `The Verge AI · 2026-06-28`
 
 7. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
    - 概念是“全力以赴使用代理来运行您的收件箱”
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
