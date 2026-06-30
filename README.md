@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-30 17:02:34
+🕐 **最近更新**：2026-06-30 22:04:37
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -20,21 +20,21 @@
    - 一份新报告发现，“高强度人工智能采用者”的人数增加了 10.2%。在这些公司中，初级员工数量增加了 12%，反驳了人工智…
    - `TechCrunch AI · 2026-06-30`
 
-2. [Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它](https://aihot.bt199.com/news/6e0dbec31b28/)
+2. [下载：人工智能“同事”和平流层互联网](https://aihot.bt199.com/news/ecf57bff995b/)
+   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。人工智能代理不是你的“同事”想象一下…
+   - `MIT Tech Review · 2026-06-30`
+
+3. [来认识一下两次击败埃隆·马斯克的律师](https://aihot.bt199.com/news/c6680161de80/)
+   - 在马斯克诉奥特曼案中，看到埃隆·马斯克对比尔·萨维特进行猛烈抨击——在该案中，马斯克起诉山姆·奥特曼和 OpenAI，而…
+   - `The Verge AI · 2026-06-30`
+
+4. [农业已为人工智能做好准备，但其数据还没有](https://aihot.bt199.com/news/76712e6d8486/)
+   - 人工智能正在改变农业的可能性，但行业领导者在没有先奠定基础的情况下投资人工智能应谨慎。 这些用例很有前景，特别是对于一个…
+   - `MIT Tech Review · 2026-06-30`
+
+5. [Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它](https://aihot.bt199.com/news/6e0dbec31b28/)
    - 今天，Tidal 分享了有关人工智能生成音乐的新政策，以及该平台计划如何“保护艺术家”和“告知听众”。从 7 月 15…
    - `The Verge AI · 2026-06-29`
-
-3. [OpenAI 正在为 Codex 测试新硬件](https://aihot.bt199.com/news/d4377941c232/)
-   - OpenAI 将于 7 月 15 日发布某种与其人工智能驱动的编码工具 Codex 相关的设备。在周一发布到 X 的视频…
-   - `The Verge AI · 2026-06-29`
-
-4. [人工智能代理不是你的“同事”](https://aihot.bt199.com/news/70b9fae892c6/)
-   - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。想象一下，你上班…
-   - `MIT Tech Review · 2026-06-29`
-
-5. [代理商对技术前沿的信心](https://aihot.bt199.com/news/90763c99a9ca/)
-   - 企业对人工智能的投资正在蓬勃发展。 Gartner 称 2026 年是组织将其人工智能项目与战略业务目标结合起来的“拐点…
-   - `MIT Tech Review · 2026-06-29`
 
 6. [加密货币交易所 OKX 希望人工智能代理相互雇佣并支付报酬](https://aihot.bt199.com/news/b5ec53d600c1/)
    - OKX 正在将支付、身份和声誉整合到人工智能代理市场中
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
