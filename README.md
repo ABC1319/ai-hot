@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-30 10:40:30
+🕐 **最近更新**：2026-06-30 17:02:34
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [随着人工智能初创公司寻求防御性，Vibe 编码平台 Base44 推出自己的模型](https://aihot.bt199.com/news/0c981188ab6a/)
-   - Wix 旗下的氛围编码平台 Base44 已开始推出自己的人工智能模型，希望它最终能超越前沿模型
+1. [人工智能就业辩论变得更加混乱](https://aihot.bt199.com/news/e2142c8f1032/)
+   - 一份新报告发现，“高强度人工智能采用者”的人数增加了 10.2%。在这些公司中，初级员工数量增加了 12%，反驳了人工智…
    - `TechCrunch AI · 2026-06-30`
 
-2. [Gemini 的个性化 AI 图像生成现已免费向美国用户开放](https://aihot.bt199.com/news/6e26addce97b/)
-   - 谷歌正在将 Gemini 的个性化人工智能图像生成扩展到美国符合条件的免费用户，允许聊天机器人根据您的兴趣和来自连接的谷…
-   - `TechCrunch AI · 2026-06-29`
-
-3. [Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它](https://aihot.bt199.com/news/6e0dbec31b28/)
+2. [Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它](https://aihot.bt199.com/news/6e0dbec31b28/)
    - 今天，Tidal 分享了有关人工智能生成音乐的新政策，以及该平台计划如何“保护艺术家”和“告知听众”。从 7 月 15…
    - `The Verge AI · 2026-06-29`
 
-4. [OpenAI 正在为 Codex 测试新硬件](https://aihot.bt199.com/news/d4377941c232/)
+3. [OpenAI 正在为 Codex 测试新硬件](https://aihot.bt199.com/news/d4377941c232/)
    - OpenAI 将于 7 月 15 日发布某种与其人工智能驱动的编码工具 Codex 相关的设备。在周一发布到 X 的视频…
    - `The Verge AI · 2026-06-29`
 
-5. [人工智能代理不是你的“同事”](https://aihot.bt199.com/news/70b9fae892c6/)
+4. [人工智能代理不是你的“同事”](https://aihot.bt199.com/news/70b9fae892c6/)
    - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。想象一下，你上班…
    - `MIT Tech Review · 2026-06-29`
 
-6. [代理商对技术前沿的信心](https://aihot.bt199.com/news/90763c99a9ca/)
+5. [代理商对技术前沿的信心](https://aihot.bt199.com/news/90763c99a9ca/)
    - 企业对人工智能的投资正在蓬勃发展。 Gartner 称 2026 年是组织将其人工智能项目与战略业务目标结合起来的“拐点…
    - `MIT Tech Review · 2026-06-29`
+
+6. [加密货币交易所 OKX 希望人工智能代理相互雇佣并支付报酬](https://aihot.bt199.com/news/b5ec53d600c1/)
+   - OKX 正在将支付、身份和声誉整合到人工智能代理市场中
+   - `TechCrunch AI · 2026-06-30`
 
 7. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
    - 概念是“全力以赴使用代理来运行您的收件箱”
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
