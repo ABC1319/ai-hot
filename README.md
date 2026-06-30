@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-30 03:48:42
+🕐 **最近更新**：2026-06-30 10:40:30
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,25 +16,25 @@
 
 ## 🔥 今日热点
 
-1. [Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude](https://aihot.bt199.com/news/a4fc79ea8f5a/)
-   - 随着 Anthropic 与加利福尼亚州建立更密切的关系，联邦政府已经将 OpenAI 竞争对手视为敌人
+1. [随着人工智能初创公司寻求防御性，Vibe 编码平台 Base44 推出自己的模型](https://aihot.bt199.com/news/0c981188ab6a/)
+   - Wix 旗下的氛围编码平台 Base44 已开始推出自己的人工智能模型，希望它最终能超越前沿模型
+   - `TechCrunch AI · 2026-06-30`
+
+2. [Gemini 的个性化 AI 图像生成现已免费向美国用户开放](https://aihot.bt199.com/news/6e26addce97b/)
+   - 谷歌正在将 Gemini 的个性化人工智能图像生成扩展到美国符合条件的免费用户，允许聊天机器人根据您的兴趣和来自连接的谷…
    - `TechCrunch AI · 2026-06-29`
 
-2. [韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题](https://aihot.bt199.com/news/cb6836702442/)
-   - 随着韩国将自己定位为人工智能技术强国，全球最大的两家存储芯片公司誓言要建造更多存储实验室工厂
-   - `TechCrunch AI · 2026-06-29`
+3. [Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它](https://aihot.bt199.com/news/6e0dbec31b28/)
+   - 今天，Tidal 分享了有关人工智能生成音乐的新政策，以及该平台计划如何“保护艺术家”和“告知听众”。从 7 月 15…
+   - `The Verge AI · 2026-06-29`
 
-3. [OpenAI 正在为 Codex 测试新硬件](https://aihot.bt199.com/news/d4377941c232/)
+4. [OpenAI 正在为 Codex 测试新硬件](https://aihot.bt199.com/news/d4377941c232/)
    - OpenAI 将于 7 月 15 日发布某种与其人工智能驱动的编码工具 Codex 相关的设备。在周一发布到 X 的视频…
    - `The Verge AI · 2026-06-29`
 
-4. [人工智能代理不是你的“同事”](https://aihot.bt199.com/news/70b9fae892c6/)
+5. [人工智能代理不是你的“同事”](https://aihot.bt199.com/news/70b9fae892c6/)
    - 这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。想象一下，你上班…
    - `MIT Tech Review · 2026-06-29`
-
-5. [立法者希望禁止人工智能公司出售你的健康数据](https://aihot.bt199.com/news/bc0bf62a89e2/)
-   - 一项新提案将禁止向数据经纪人出售美国人的健康和位置信息，包括人们向 ChatGPT 或 Claude 等人工智能聊天机器…
-   - `The Verge AI · 2026-06-29`
 
 6. [代理商对技术前沿的信心](https://aihot.bt199.com/news/90763c99a9ca/)
    - 企业对人工智能的投资正在蓬勃发展。 Gartner 称 2026 年是组织将其人工智能项目与战略业务目标结合起来的“拐点…
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
