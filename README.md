@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-06-30 22:04:37
+🕐 **最近更新**：2026-07-01 03:47:40
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [人工智能就业辩论变得更加混乱](https://aihot.bt199.com/news/e2142c8f1032/)
-   - 一份新报告发现，“高强度人工智能采用者”的人数增加了 10.2%。在这些公司中，初级员工数量增加了 12%，反驳了人工智…
+1. [谷歌推出了更快、更便宜的图像生成器 Nano Banana 2 Lite](https://aihot.bt199.com/news/9e47277c200d/)
+   - 谷歌正在更新其图像生成器，使其更快、更便宜，使其成为希望制作人工智能内容的创作者更有用的工具
    - `TechCrunch AI · 2026-06-30`
 
-2. [下载：人工智能“同事”和平流层互联网](https://aihot.bt199.com/news/ecf57bff995b/)
+2. [Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元](https://aihot.bt199.com/news/ffde7cf4c112/)
+   - Nvidia AI 芯片竞争对手 Etched 表示，它已经根据合同预订了 10 亿美元，用于由其芯片驱动的推理系统
+   - `TechCrunch AI · 2026-06-30`
+
+3. [圆桌会议：长寿的下一个前沿：“重新编程”你的身体](https://aihot.bt199.com/news/790e38572d63/)
+   - 收听会议或观看下面的视频，科学家们正在探索使细胞恢复年轻状态的方法，数十亿美元正在投入到逆转衰老的努力中。但这些实验性疗…
+   - `MIT Tech Review · 2026-06-30`
+
+4. [Libby 会过滤掉人工智能内容](https://aihot.bt199.com/news/0460f8f816b6/)
+   - 这是 Janko Roettgers 撰写的《Lowpass》，是一份关于不断发展的科技与娱乐交叉点的时事通讯，每周只为…
+   - `The Verge AI · 2026-06-30`
+
+5. [下载：人工智能“同事”和平流层互联网](https://aihot.bt199.com/news/ecf57bff995b/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。人工智能代理不是你的“同事”想象一下…
    - `MIT Tech Review · 2026-06-30`
 
-3. [来认识一下两次击败埃隆·马斯克的律师](https://aihot.bt199.com/news/c6680161de80/)
-   - 在马斯克诉奥特曼案中，看到埃隆·马斯克对比尔·萨维特进行猛烈抨击——在该案中，马斯克起诉山姆·奥特曼和 OpenAI，而…
-   - `The Verge AI · 2026-06-30`
-
-4. [农业已为人工智能做好准备，但其数据还没有](https://aihot.bt199.com/news/76712e6d8486/)
-   - 人工智能正在改变农业的可能性，但行业领导者在没有先奠定基础的情况下投资人工智能应谨慎。 这些用例很有前景，特别是对于一个…
-   - `MIT Tech Review · 2026-06-30`
-
-5. [Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它](https://aihot.bt199.com/news/6e0dbec31b28/)
+6. [Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它](https://aihot.bt199.com/news/6e0dbec31b28/)
    - 今天，Tidal 分享了有关人工智能生成音乐的新政策，以及该平台计划如何“保护艺术家”和“告知听众”。从 7 月 15…
    - `The Verge AI · 2026-06-29`
-
-6. [加密货币交易所 OKX 希望人工智能代理相互雇佣并支付报酬](https://aihot.bt199.com/news/b5ec53d600c1/)
-   - OKX 正在将支付、身份和声誉整合到人工智能代理市场中
-   - `TechCrunch AI · 2026-06-30`
 
 7. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
    - 概念是“全力以赴使用代理来运行您的收件箱”
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

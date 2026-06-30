@@ -5064,6 +5064,35 @@
     "is_core": true
   },
   {
+    "id": "hf-WillNuyen228--auramask-marker",
+    "name": "WillNuyen228/auramask-marker",
+    "display_name": "auramask-marker",
+    "url": "https://huggingface.co/WillNuyen228/auramask-marker",
+    "author": "WillNuyen228",
+    "pipeline_tag": "image-to-image",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "keras",
+      "tflite",
+      "adversarial",
+      "aesthetic",
+      "quality",
+      "filter",
+      "image-to-image",
+      "dataset:logasja/FDF",
+      "base_model:logasja/ArcFace",
+      "base_model:finetune:logasja/ArcFace",
+      "license:gpl-3.0",
+      "region:us"
+    ],
+    "created_at": "2026-06-30T19:41:51.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-06-30T19:46:24.754445",
+    "display_priority": 139,
+    "is_core": true
+  },
+  {
     "id": "hf-pharmacypractice16--Wan2.1-T2V-1.3B-Diffusers",
     "name": "pharmacypractice16/Wan2.1-T2V-1.3B-Diffusers",
     "display_name": "Wan2.1-T2V-1.3B-Diffusers",
@@ -5087,7 +5116,7 @@
     "created_at": "2026-05-01T12:57:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T13:13:50.687297",
-    "display_priority": 139,
+    "display_priority": 140,
     "is_core": true
   },
   {
@@ -5111,7 +5140,7 @@
     "created_at": "2026-06-20T13:37:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-20T13:45:32.150438",
-    "display_priority": 140,
+    "display_priority": 141,
     "is_core": true
   },
   {
@@ -5136,7 +5165,7 @@
     "created_at": "2026-04-29T19:02:58.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T19:15:02.966320",
-    "display_priority": 141,
+    "display_priority": 142,
     "is_core": true
   },
   {
@@ -5163,7 +5192,7 @@
     "created_at": "2026-05-15T13:45:54.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-15T13:49:28.031352",
-    "display_priority": 142,
+    "display_priority": 143,
     "is_core": true
   },
   {
@@ -5187,7 +5216,7 @@
     "created_at": "2026-05-28T02:08:34.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-28T02:28:34.830474",
-    "display_priority": 143,
+    "display_priority": 144,
     "is_core": true
   },
   {
@@ -5212,7 +5241,7 @@
     "created_at": "2026-06-20T13:25:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-20T13:45:32.150493",
-    "display_priority": 144,
+    "display_priority": 145,
     "is_core": true
   },
   {
@@ -5235,7 +5264,7 @@
     "created_at": "2026-06-20T13:22:52.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-20T13:45:32.150506",
-    "display_priority": 145,
+    "display_priority": 146,
     "is_core": true
   },
   {
@@ -5260,7 +5289,7 @@
     "created_at": "2026-06-22T20:28:20.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-22T20:38:11.031359",
-    "display_priority": 146,
+    "display_priority": 147,
     "is_core": true
   },
   {
@@ -5284,7 +5313,7 @@
     "created_at": "2026-06-18T09:59:12.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-18T10:10:25.731004",
-    "display_priority": 147,
+    "display_priority": 148,
     "is_core": true
   },
   {
@@ -5405,7 +5434,7 @@
     "created_at": "2026-04-23T07:12:51.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-23T07:27:21.081938",
-    "display_priority": 148,
+    "display_priority": 149,
     "is_core": true
   },
   {
@@ -5451,7 +5480,7 @@
     "created_at": "2026-05-05T07:58:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-05T07:59:44.389103",
-    "display_priority": 149,
+    "display_priority": 150,
     "is_core": true
   },
   {
@@ -5476,7 +5505,7 @@
     "created_at": "2026-05-15T02:18:12.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-15T02:29:36.559931",
-    "display_priority": 150,
+    "display_priority": 151,
     "is_core": true
   },
   {
@@ -5496,7 +5525,7 @@
     "created_at": "2026-06-20T08:34:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-20T08:45:51.379730",
-    "display_priority": 151,
+    "display_priority": 152,
     "is_core": true
   },
   {
@@ -5523,7 +5552,7 @@
     "created_at": "2026-04-24T01:54:37.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-24T01:57:38.434958",
-    "display_priority": 152,
+    "display_priority": 153,
     "is_core": true
   },
   {
@@ -5546,7 +5575,7 @@
     "created_at": "2026-05-22T19:19:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-22T19:31:36.998028",
-    "display_priority": 153,
+    "display_priority": 154,
     "is_core": true
   },
   {
@@ -5574,7 +5603,7 @@
     "created_at": "2026-05-27T14:42:01.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-27T15:01:21.549250",
-    "display_priority": 154,
+    "display_priority": 155,
     "is_core": true
   },
   {
@@ -5603,7 +5632,7 @@
     "created_at": "2026-05-28T09:48:33.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-28T09:51:23.325604",
-    "display_priority": 155,
+    "display_priority": 156,
     "is_core": true
   },
   {
@@ -5627,7 +5656,7 @@
     "created_at": "2026-05-19T14:39:28.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-19T14:43:29.561461",
-    "display_priority": 156,
+    "display_priority": 157,
     "is_core": true
   },
   {
@@ -5649,7 +5678,7 @@
     "created_at": "2026-05-23T01:51:51.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-23T02:15:28.734508",
-    "display_priority": 157,
+    "display_priority": 158,
     "is_core": true
   },
   {
@@ -5675,7 +5704,7 @@
     "created_at": "2026-05-28T19:56:00.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-28T20:10:46.543611",
-    "display_priority": 158,
+    "display_priority": 159,
     "is_core": true
   },
   {
@@ -5702,7 +5731,7 @@
     "created_at": "2026-06-21T09:26:13.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-21T09:40:33.701507",
-    "display_priority": 159,
+    "display_priority": 160,
     "is_core": true
   },
   {
@@ -5728,7 +5757,7 @@
     "created_at": "2026-06-23T02:25:33.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-23T02:32:58.759183",
-    "display_priority": 160,
+    "display_priority": 161,
     "is_core": true
   },
   {
@@ -5758,7 +5787,7 @@
     "created_at": "2026-06-23T02:13:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-23T02:32:58.759244",
-    "display_priority": 161,
+    "display_priority": 162,
     "is_core": true
   },
   {
@@ -5788,34 +5817,6 @@
     "created_at": "2026-06-23T02:12:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-23T02:32:58.759252",
-    "display_priority": 162,
-    "is_core": true
-  },
-  {
-    "id": "hf-Jinstudio--stable-diffusion-xl-refiner-1.0",
-    "name": "Jinstudio/stable-diffusion-xl-refiner-1.0",
-    "display_name": "stable-diffusion-xl-refiner-1.0",
-    "url": "https://huggingface.co/Jinstudio/stable-diffusion-xl-refiner-1.0",
-    "author": "Jinstudio",
-    "pipeline_tag": "image-to-image",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "diffusers",
-      "safetensors",
-      "stable-diffusion",
-      "image-to-image",
-      "arxiv:2307.01952",
-      "arxiv:2211.01324",
-      "arxiv:2108.01073",
-      "arxiv:2112.10752",
-      "license:openrail++",
-      "diffusers:StableDiffusionXLImg2ImgPipeline",
-      "region:us"
-    ],
-    "created_at": "2026-06-24T13:54:11.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-06-24T14:12:24.113191",
     "display_priority": 163,
     "is_core": true
   },
