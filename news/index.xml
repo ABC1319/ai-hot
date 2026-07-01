@@ -473,7 +473,10 @@ ChatGPT’s growth has been impressive.&lt;/p&gt;</description></item><item><tit
 &lt;a href="https://www.v2ex.com/t/1223397"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Claude Science 是 Anthropic 的最新旗舰产品</title><link>https://aihot.bt199.com/news/78c501247f18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/78c501247f18/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering.&lt;/p&gt;
 &lt;p&gt;Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access to tools that make it particularly useful for research in computational biology and drug development.&lt;/p&gt;</description></item><item><title>Cloudflare解决AI自动化被认证打断工作流：允许无认证匿名直接部署服务，60分钟内认领，业内人士怎么看？</title><link>https://aihot.bt199.com/news/776725854a23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/776725854a23/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;消息称，原文：Temporary Cloudflare Accounts for AI agents 大善人真是能解决实际问题的，方法也并不是靠什么高科技，而是简单粗暴：先上车，再限时补票 以前在cloudflare部署服务，你需要登录CF账号，解决各种认证问题后，AI才能顺利跑通流程。&lt;/p&gt;</description></item><item><title>Codex 实时语音要重做了，业内人士怎么看？</title><link>https://aihot.bt199.com/news/a8acd9d95c63/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a8acd9d95c63/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;消息称，原文：Temporary Cloudflare Accounts for AI agents 大善人真是能解决实际问题的，方法也并不是靠什么高科技，而是简单粗暴：先上车，再限时补票 以前在cloudflare部署服务，你需要登录CF账号，解决各种认证问题后，AI才能顺利跑通流程。&lt;/p&gt;</description></item><item><title>Cloudflare新政策推动AI公司为出版商的内容付费</title><link>https://aihot.bt199.com/news/af371092847a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/af371092847a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Cloudflare has just issued the AI industry a new deadline to separate the web crawlers used for traditional search purposes, like Google Search, from those used for AI agents and training.&lt;/p&gt;
+&lt;p&gt;Starting on September 15, 2026, Cloudflare’s default settings will block “mixed-use” crawlers from any pages that host ads, the company announced on Wednesday.
+That means that the crawlers that blend search, agent use, and training will be blocked from crawling these sites by default, unless the site owner adjusts the settings otherwise.&lt;/p&gt;</description></item><item><title>Codex 实时语音要重做了，业内人士怎么看？</title><link>https://aihot.bt199.com/news/a8acd9d95c63/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a8acd9d95c63/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据报道，刚看到消息，OpenAI 正在给 Codex 测试新的努力选择器 UI，改成滑条形式了。&lt;/p&gt;
 &lt;p&gt;另外实时语音支持似乎要被彻底重写，之前可用的组件已经被移除，改动应该不小。&lt;/p&gt;</description></item><item><title>Codex 最新的 Commit 已经添加了 GPT-5.6 三个模型，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/946555464651/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/946555464651/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，github.com/openai/codex feat: add GPT-5.6 variants to Bedrock catalog (#30285) 已提交 08:33PM - 26 Jun 26 UTC celia-oai +95 -23 ## Summary - add Sol (`openai.&lt;/p&gt;
@@ -1213,7 +1216,18 @@ so that editing markdown files feels like editing a Google Doc or Notion page.&l
 &lt;p&gt;Asked about the privacy implications of chatbots like ChatGPT and Claude, Signal President Meredith Whittaker answered, “These are not your friends.&lt;/p&gt;
 &lt;p&gt;These are not conscious beings.&lt;/p&gt;
 &lt;p&gt;These are not sentient interlocutors.”
-Whittaker made those comments in a broader interview with Bloomberg about policy, privacy, and Signal.&lt;/p&gt;</description></item><item><title>SpaceX 与开源人工智能实验室 Reflection AI 签署计算协议</title><link>https://aihot.bt199.com/news/f7ef68bb6a12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/f7ef68bb6a12/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Whittaker made those comments in a broader interview with Bloomberg about policy, privacy, and Signal.&lt;/p&gt;</description></item><item><title>SpaceX 有一个人工智能设备原型，听起来确实像手机</title><link>https://aihot.bt199.com/news/cba85e1be003/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/cba85e1be003/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Elon Musk
+’s SpaceX has shown investors a prototype of a “handset-like” AI device,
+reports The Wall Street Journal
+.
+The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it’s something between a small touchscreen phone and a
+Rabbit R1
+.&lt;/p&gt;
+&lt;p&gt;SpaceX reportedly showed the device to investors and stakeholders before it went public, and told them it’s at an early enough stage that the design could still change.
+Musk has denied the reporting, calling it “
+utterly false
+.”&lt;/p&gt;</description></item><item><title>SpaceX 与开源人工智能实验室 Reflection AI 签署计算协议</title><link>https://aihot.bt199.com/news/f7ef68bb6a12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/f7ef68bb6a12/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;First came
 Anthropic
 , then
@@ -1357,7 +1371,11 @@ MCP, for context, is an open standard that defines a common way for AI models to
 &lt;p&gt;有分析指出，OpenAI Codex 支持自定义第三方模型提供者 OpenAI Codex 现在允许用户通过自定义模型提供者接入第三方模型。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://linux.do/t/topic/2431294"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>艾尔联盟围绕亚历克斯·博雷斯 (Alex Bores) 的 2700 万美元代理人战争以平局告终</title><link>https://aihot.bt199.com/news/2420478b93bb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2420478b93bb/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://linux.do/t/topic/2431294"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>阿什顿·库彻 (Ashton Kutcher) 离开 Sound Ventures，与摩根·贝勒 (Morgan Beller) 共同创办新的风险投资公司</title><link>https://aihot.bt199.com/news/aeca795eedce/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/aeca795eedce/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Ashton Kutcher is stepping away from Sound Ventures — the firm he co-founded with Guy Oseary 11 years ago — to start a separate VC fund, the Wall Street Journal
+reported
+.&lt;/p&gt;
+&lt;p&gt;The actor and investor’s new firm is being co-founded with Morgan Beller, who until recently was a general partner at seed-focused VC outfit NFX and previously co-led cryptocurrency project Libra at Meta.&lt;/p&gt;</description></item><item><title>艾尔联盟围绕亚历克斯·博雷斯 (Alex Bores) 的 2700 万美元代理人战争以平局告终</title><link>https://aihot.bt199.com/news/2420478b93bb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2420478b93bb/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York’s 12th Congressional district.
 The $27 million Al proxy war over Alex Bores ends in a draw
 Anthropic didn’t get Bores elected to Congress in the NY-12 primary— but OpenAI didn’t crush him, either.
@@ -2344,7 +2362,7 @@ In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay
 &lt;p&gt;做了个 AI 投研系统，4 个 Agent 互相挑刺，结果比我自己分析靠谱多了
 你直接问 Claude&amp;quot;帮我分析拼多多值不值得买&amp;quot;，它会给你一篇&amp;quot;一方面&amp;hellip;另一方面&amp;hellip;&amp;ldquo;的平衡文。&lt;/p&gt;</description></item><item><title>两年砸10亿，北森宣布All in AI：上线15个AI HR专家，造了一个“数字人事部”，这意味着什么？</title><link>https://aihot.bt199.com/news/c7b622675807/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c7b622675807/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;6 月 24 日，国内领先的 AI HR 科技公司北森宣布一项里程碑式的战略转型：将从传统“HR 软件”厂商全面升级为 HR 领域的“AI 应用”公司，并重磅推出国内首个一站式 AI HR 专家平台 Mavens，定义真人 HR 和数字 HR 的协作范式。&lt;/p&gt;</description></item><item><title>聊聊个人微信小游戏的“窒息感”：手搓了一款消消乐，发布后喜提 0 流量，业内人士怎么看？</title><link>https://aihot.bt199.com/news/v2ex-1224059/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224059/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;据了解，最近业余时间用 AI 写了一款微信消消乐小游戏，名字叫 &lt;strong&gt;《消灭麻将吧》&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;最近业余时间用 AI 写了一款微信消消乐小游戏，名字叫 《消灭麻将吧》。&lt;/p&gt;
 &lt;p&gt;代码敲完、测试通过、顺利上线，本以为万里长征走完了最难的一步，结果现实狠狠给了我一巴掌：发布这么多天了，后台的流量图平得像心电图停跳一样，基本全是自己和朋友贡献的。&lt;/p&gt;</description></item><item><title>另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/d478eadb3533/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/d478eadb3533/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，另类资管巨头 Blackstone（黑石）总裁兼首席运营官 Jonathan Gray 近日在接受《日经》采访时表示，该企业计划在未来 3~5 年内在日本 AI 数据中心领域投资 300 亿美元。&lt;/p&gt;</description></item><item><title>马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max，业内人士怎么看？</title><link>https://aihot.bt199.com/news/6e64db707bc3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6e64db707bc3/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据报道，当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBook Pro将在今年晚些时候或2027年初发布，首发搭载现役M5 Pro及M5 Max芯片。&lt;/p&gt;</description></item><item><title>马来西亚人工智能代理驱动的消息应用 Respond.io 融资 6250 万美元，计划进行收购</title><link>https://aihot.bt199.com/news/a399e347cca7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a399e347cca7/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -2707,11 +2725,9 @@ Rayfin
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://www.v2ex.com/t/1223526"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>深度解读：[抽 3 个永久授权] Termark：一个按自己习惯做出来的 SSH 客户端</title><link>https://aihot.bt199.com/news/v2ex-1224199/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224199/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;有分析指出，Termark 不是因为市面上没有 SSH 客户端才做的。&lt;/p&gt;
+&lt;p&gt;Termark 不是因为市面上没有 SSH 客户端才做的。&lt;/p&gt;
 &lt;p&gt;恰好相反，这类工具已经非常多了，能连服务器、传文件、开隧道的基本都有。&lt;/p&gt;
-&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
-&lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.v2ex.com/t/1224199"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>深度解读：[或许是慢讯]deepseek将发布新计费方式</title><link>https://aihot.bt199.com/news/16b9837eb953/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/16b9837eb953/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;只是我用了不少之后，总觉得都是差点意思，能用但不好用。&lt;/p&gt;</description></item><item><title>深度解读：[或许是慢讯]deepseek将发布新计费方式</title><link>https://aihot.bt199.com/news/16b9837eb953/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/16b9837eb953/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;33 个帖子 - 21 位参与者 阅读完整话题&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
