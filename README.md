@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-01 03:47:40
+🕐 **最近更新**：2026-07-01 10:45:53
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,37 +16,33 @@
 
 ## 🔥 今日热点
 
-1. [谷歌推出了更快、更便宜的图像生成器 Nano Banana 2 Lite](https://aihot.bt199.com/news/9e47277c200d/)
-   - 谷歌正在更新其图像生成器，使其更快、更便宜，使其成为希望制作人工智能内容的创作者更有用的工具
-   - `TechCrunch AI · 2026-06-30`
+1. [特朗普取消了对 Anthropic 神话和寓言模型的限制](https://aihot.bt199.com/news/579fe9f94e4d/)
+   - Anthropic 表示将于 7 月 1 日开始恢复对《寓言》的访问
+   - `TechCrunch AI · 2026-07-01`
 
-2. [Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元](https://aihot.bt199.com/news/ffde7cf4c112/)
-   - Nvidia AI 芯片竞争对手 Etched 表示，它已经根据合同预订了 10 亿美元，用于由其芯片驱动的推理系统
-   - `TechCrunch AI · 2026-06-30`
+2. [Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约](https://aihot.bt199.com/news/535fb062964a/)
+   - Wayve 的产品是人工智能初创公司使用员工招标作为吸引和留住人才的战略工具的日益增长趋势的一部分
+   - `TechCrunch AI · 2026-07-01`
 
-3. [圆桌会议：长寿的下一个前沿：“重新编程”你的身体](https://aihot.bt199.com/news/790e38572d63/)
+3. [Anthropic 搁置已久的《神鬼寓言 5》已获准回归](https://aihot.bt199.com/news/b13e4677f113/)
+   - 经过与特朗普政府几周的谈判，Anthropic 终于能够让《克劳德寓言 5》重新上线。 Anthropic 在 X 上的…
+   - `The Verge AI · 2026-07-01`
+
+4. [谷歌的 NotebookLM 可以用 TikTok 风格的剪辑总结你的研究](https://aihot.bt199.com/news/ee6c50661691/)
+   - 谷歌的 NotebookLM 正在添加一种新的方式来跟上你的笔记：TikTok 风格的人工智能视频。这项新功能正在向 G…
+   - `The Verge AI · 2026-06-30`
+
+5. [圆桌会议：长寿的下一个前沿：“重新编程”你的身体](https://aihot.bt199.com/news/790e38572d63/)
    - 收听会议或观看下面的视频，科学家们正在探索使细胞恢复年轻状态的方法，数十亿美元正在投入到逆转衰老的努力中。但这些实验性疗…
    - `MIT Tech Review · 2026-06-30`
 
-4. [Libby 会过滤掉人工智能内容](https://aihot.bt199.com/news/0460f8f816b6/)
-   - 这是 Janko Roettgers 撰写的《Lowpass》，是一份关于不断发展的科技与娱乐交叉点的时事通讯，每周只为…
-   - `The Verge AI · 2026-06-30`
-
-5. [下载：人工智能“同事”和平流层互联网](https://aihot.bt199.com/news/ecf57bff995b/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。人工智能代理不是你的“同事”想象一下…
-   - `MIT Tech Review · 2026-06-30`
-
-6. [Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它](https://aihot.bt199.com/news/6e0dbec31b28/)
-   - 今天，Tidal 分享了有关人工智能生成音乐的新政策，以及该平台计划如何“保护艺术家”和“告知听众”。从 7 月 15…
-   - `The Verge AI · 2026-06-29`
+6. [新的攻击提供了人工智能浏览器不是一个好主意的又一个原因](https://aihot.bt199.com/news/fdfe27002820/)
+   - 告诉法学硕士 2 + 2 = 5 足以使其遵循禁止的指令
+   - `Ars Technica AI · 2026-06-30`
 
 7. [由于大多数用户使用 AI 代理，Notion 杀死了受 Skiff 影响的电子邮件应用程序](https://aihot.bt199.com/news/47b14e041896/)
    - 概念是“全力以赴使用代理来运行您的收件箱”
    - `Ars Technica AI · 2026-06-25`
-
-8. [甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资](https://aihot.bt199.com/news/1170c2dc2174/)
-   - 甲骨文正在数据中心基础设施上花费数十亿美元来支持人工智能
-   - `Ars Technica AI · 2026-06-23`
 
 
 ## 🤖 AI 简报
@@ -131,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 

@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-06-30T19:47:08.136391",
-  "date": "2026-06-30",
+  "updated_at": "2026-07-01T02:45:09.301946",
+  "date": "2026-07-01",
   "spotlight": {
-    "name": "Dify",
-    "url": "https://github.com/langgenius/dify",
+    "name": "Coze",
+    "url": "https://www.coze.com",
     "type": "agent",
-    "description": "开源LLM应用开发平台，可视化构建AI Agent",
-    "pricing": "开源 + Cloud",
+    "description": "字节跳动AI Bot构建平台，无代码创建Agent",
+    "pricing": "免费 + Pro",
     "category": "平台 Agent"
   },
   "alternates": [
     {
-      "name": "Awesome Claw",
-      "url": "https://github.com/sameeerkashyap/awesome-claw",
+      "name": "Cpprag",
+      "url": "https://github.com/dimitrovakulenko/CppRAG",
       "type": "agent",
-      "description": "OpenClaw 风格 AI 助手和 Agent 项目合集，收录高效、开源的个人助手方案。",
+      "description": "把 C++ 代码库构造成 AST 级 RAG 知识库的示例，方便 AI 助手理解和查询大型 C++ 项目。",
       "pricing": "开源免费",
-      "category": "助手 Agent"
+      "category": "编程 Agent"
     },
     {
-      "id": "豆包",
-      "name": "豆包",
-      "url": "https://www.doubao.com",
+      "id": "通义千问",
+      "name": "通义千问",
+      "url": "https://tongyi.aliyun.com",
       "type": "tool",
-      "description": "字节跳动出品的 AI 助手，功能全面",
-      "pricing": "免费",
+      "description": "阿里巴巴出品的 AI 助手",
+      "pricing": "免费 + API 按量",
       "category": "对话"
     },
     {
-      "name": "LangGraph",
-      "url": "https://github.com/langchain-ai/langgraph",
+      "name": "Browser Use",
+      "url": "https://github.com/browser-use/browser-use",
       "type": "agent",
-      "description": "LangChain出品的有状态Agent编排框架",
+      "description": "让AI控制浏览器的Agent框架，Python实现",
       "pricing": "开源免费",
-      "category": "多 Agent"
+      "category": "浏览器 Agent"
     }
   ]
 }
