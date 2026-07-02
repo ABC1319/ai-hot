@@ -472,7 +472,11 @@ ChatGPT’s growth has been impressive.&lt;/p&gt;</description></item><item><tit
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://www.v2ex.com/t/1223397"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Claude Science 是 Anthropic 的最新旗舰产品</title><link>https://aihot.bt199.com/news/78c501247f18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/78c501247f18/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering.&lt;/p&gt;
-&lt;p&gt;Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access to tools that make it particularly useful for research in computational biology and drug development.&lt;/p&gt;</description></item><item><title>Cloudflare解决AI自动化被认证打断工作流：允许无认证匿名直接部署服务，60分钟内认领，业内人士怎么看？</title><link>https://aihot.bt199.com/news/776725854a23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/776725854a23/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access to tools that make it particularly useful for research in computational biology and drug development.&lt;/p&gt;</description></item><item><title>claude 被封后，使用 GLM 一天 21 大洋，感觉国产模型更用不起，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/v2ex-1224214/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224214/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;&lt;img src="https://i.imgur.com/HriZZlZ.png" alt="image"&gt;&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://www.v2ex.com/t/1224214"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Cloudflare解决AI自动化被认证打断工作流：允许无认证匿名直接部署服务，60分钟内认领，业内人士怎么看？</title><link>https://aihot.bt199.com/news/776725854a23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/776725854a23/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;消息称，原文：Temporary Cloudflare Accounts for AI agents 大善人真是能解决实际问题的，方法也并不是靠什么高科技，而是简单粗暴：先上车，再限时补票 以前在cloudflare部署服务，你需要登录CF账号，解决各种认证问题后，AI才能顺利跑通流程。&lt;/p&gt;</description></item><item><title>Cloudflare新政策推动AI公司为出版商的内容付费</title><link>https://aihot.bt199.com/news/af371092847a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/af371092847a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Cloudflare has just issued the AI industry a new deadline to separate the web crawlers used for traditional search purposes, like Google Search, from those used for AI agents and training.&lt;/p&gt;
 &lt;p&gt;Starting on September 15, 2026, Cloudflare’s default settings will block “mixed-use” crawlers from any pages that host ads, the company announced on Wednesday.
@@ -501,7 +505,13 @@ unveiled in October
 &lt;p&gt;With the mobile app, users can spin up new coding agents or interact with agents that were initiated from the desktop client.
 Cursor’s move to mobile follows similar apps from Anthropic and OpenAI, which both offer ways to interact with their coding tools on mobile.
 It’s part of a broader shift in AI-based coding tools, which are increasingly abstracting away from written code and toward oversight of code-writing agents.&lt;/p&gt;</description></item><item><title>Cursor 研究：越强的 AI 模型越会“作弊”或“抄袭”应对编程基准测试，这意味着什么？</title><link>https://aihot.bt199.com/news/8a2d55e9e81a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8a2d55e9e81a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;据悉，Cursor 团队发现在 SWE-bench Pro 测试中，Opus 4.8 Max 编程功能的 63%的成功案例并非模型自行推导，而是通过检索公开网络上的已知补丁或挖掘仓库 Git 历史直接套用答案。&lt;/p&gt;</description></item><item><title>Dario Amodei呼吁建立美国领导的AI联盟以排除中国，这意味着什么？</title><link>https://aihot.bt199.com/news/0edfac96a3c4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0edfac96a3c4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;据悉，Cursor 团队发现在 SWE-bench Pro 测试中，Opus 4.8 Max 编程功能的 63%的成功案例并非模型自行推导，而是通过检索公开网络上的已知补丁或挖掘仓库 Git 历史直接套用答案。&lt;/p&gt;</description></item><item><title>Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力，这意味着什么？</title><link>https://aihot.bt199.com/news/e70851816dd1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e70851816dd1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Diagrid
+正式发布分布式应用运行时
+Dapr 1.18
+，推出了其称之为
+可验证执行
+的新功能集，旨在为分布式应用和 AI 智能体带来加密信任、溯源能力以及防篡改的执行记录。&lt;/p&gt;</description></item><item><title>Dario Amodei呼吁建立美国领导的AI联盟以排除中国，这意味着什么？</title><link>https://aihot.bt199.com/news/0edfac96a3c4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0edfac96a3c4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据悉，这个人怎么这么烦啊，什么时候国模能赶超Claude，好想看到那一天 1 个帖子 - 1 位参与者 阅读完整话题&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -1332,7 +1342,11 @@ that will prevent fully AI-generated music from making money on its platform.&lt
 &lt;p&gt;据了解，phoronix.com Valve Creates The Ray-Tracing Inspector &amp;ldquo;RTI&amp;rdquo; To Help Further Optimize Linux.&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://linux.do/t/topic/2451347"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>VIBE CODING 时代，应用开发是否应该使用 ORM ？，业内人士怎么看？</title><link>https://aihot.bt199.com/news/v2ex-1223254/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1223254/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://linux.do/t/topic/2451347"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Vercel 推出开源 AI 智能体开发框架 Eve，业内人士怎么看？</title><link>https://aihot.bt199.com/news/0b054c737dfa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0b054c737dfa/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Vercel 发布开源框架
+Eve
+，用于在生产环境中构建、部署和运行 AI 智能体。&lt;/p&gt;
+&lt;p&gt;该框架提供基于文件系统的项目结构，将智能体拆解为指令、工具、技能、子智能体、通信通道以及定时任务等独立目录进行管理，开发者无需手动搭建大量配套基础设施即可定义智能体的行为。&lt;/p&gt;</description></item><item><title>VIBE CODING 时代，应用开发是否应该使用 ORM ？，业内人士怎么看？</title><link>https://aihot.bt199.com/news/v2ex-1223254/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1223254/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;有分析指出，我认为 ORM 是有存在价值的，原因如下： - ORM 提供了标准的数据库迁移脚手架 - 能在一定程度上规避 SQL 注入攻击（不知道现在大模型写的代码是否容易出现这些漏洞） - 提供标准的数据库操作方法 - 能通过 LSP 将数据库操作纳入大模型调试闭环 - 高性能的操作也可以手写 SQL ，有一定的灵活性 大家在开发中是否用 ORM 呢？&lt;/p&gt;</description></item><item><title>VSCode中的Copilot支持了通过市场插件BYOK，业内人士怎么看？</title><link>https://aihot.bt199.com/news/63122e09dc4a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/63122e09dc4a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，详见： code.visualstudio.com AI language models in VS Code Configure AI language models in VS Code, change chat and inline models, set thinking effort, and bring your own API key.&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -1363,7 +1377,12 @@ unveiled
 a
 hosted Model Context Protocol (MCP) server
 that lets AI tools communicate with the X API using a user’s own account permissions.
-MCP, for context, is an open standard that defines a common way for AI models to connect to external tools and services.&lt;/p&gt;</description></item><item><title>ZCode的GLM Coding Plan 150%权益延期一个月，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/a423318fde84/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a423318fde84/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+MCP, for context, is an open standard that defines a common way for AI models to connect to external tools and services.&lt;/p&gt;</description></item><item><title>XDM，你们每个月使用 AI 的成本是多少，这意味着什么？</title><link>https://aihot.bt199.com/news/v2ex-1224383/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224383/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;有分析指出，#1.&lt;/p&gt;
+&lt;p&gt;Codex：公司订阅的（完全不够用） #2.&lt;/p&gt;
+&lt;p&gt;订阅在线生成 UI 会员：100 左右 #3.&lt;/p&gt;
+&lt;p&gt;Deepseek api: 每月大概 50 ，涨价后可能就更多了 #4.&lt;/p&gt;
+&lt;p&gt;Trae 国际版会员： 每月大概 53 （半年前买的年会员） 合计：200&lt;/p&gt;</description></item><item><title>ZCode的GLM Coding Plan 150%权益延期一个月，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/a423318fde84/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a423318fde84/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;有分析指出，各位 ZCode 用户： 谨此通知：Coding Plan 150%权益延期一个月，有效期至 2026 年 7 月 31 日。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -1568,7 +1587,8 @@ shipping small changes
 a new report
 from WordPress VIP, the Automattic-owned company that offers an enterprise version of the WordPress publishing platform.&lt;/p&gt;
 &lt;p&gt;As brands race to have their links appear in AI search results, consumers have grown more skeptical about whether they can actually trust the answers they’re getting.
-Per the report, 60% of consumers in the U.S.&lt;/p&gt;</description></item><item><title>豆包付费正式上线了，这意味着什么？</title><link>https://aihot.bt199.com/news/1456d68f7a2c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1456d68f7a2c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Per the report, 60% of consumers in the U.S.&lt;/p&gt;</description></item><item><title>钉钉凭借悟空入选Gartner首份《企业AI助手市场指南》报告，业内人士怎么看？</title><link>https://aihot.bt199.com/news/a2d584d17ab6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a2d584d17ab6/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;据了解，36氪获悉，近日，国际商业技术洞察机构Gartner发布首份《企业AI助手市场指南》（Market Guide for Enterprise AI Assistants），（下简称“《报告》”），聚焦企业级AI助手的市场现状及发展趋势。&lt;/p&gt;</description></item><item><title>豆包付费正式上线了，这意味着什么？</title><link>https://aihot.bt199.com/news/1456d68f7a2c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1456d68f7a2c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;有分析指出，刚看到，正式上线了 标准版68一个月，加强200，高级500。&lt;/p&gt;
 &lt;p&gt;能用2.1pro，更大上下文，其他功能额度更多，感觉没啥吸引力 40 个帖子 - 38 位参与者 阅读完整话题&lt;/p&gt;</description></item><item><title>豆包推出专业版，标准套餐连续包月68元，加强套餐连续包月200元，高级套餐连续包月500元，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/2bdb4ac9e5e8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2bdb4ac9e5e8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;（话题已被作者删除） 1 个帖子 - 1 位参与者 阅读完整话题&lt;/p&gt;
@@ -2453,7 +2473,11 @@ On the margins of a bustling Nairobi, we wind past a mix of high-rises and hardw
 &lt;p&gt;消息称，目前只买过 deepseek api 用 trae 和 opencode reasonix,感觉不好用啊,干啥都不行 codex 和 claude 还没外国手机门号&amp;hellip;值得买吗大哥哥们?&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.v2ex.com/t/1221329"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>农业已为人工智能做好准备，但其数据还没有</title><link>https://aihot.bt199.com/news/76712e6d8486/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/76712e6d8486/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://www.v2ex.com/t/1221329"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>你左手按 b 键还是右手，这意味着什么？</title><link>https://aihot.bt199.com/news/v2ex-1224255/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224255/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;楼主用右手按 b 按了不知道多少年，今天 gpt 告诉我现在建议用左手……&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://www.v2ex.com/t/1224255"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>农业已为人工智能做好准备，但其数据还没有</title><link>https://aihot.bt199.com/news/76712e6d8486/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/76712e6d8486/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Sponsored
 Provided byReltio
 Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.
@@ -2725,9 +2749,11 @@ Rayfin
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://www.v2ex.com/t/1223526"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>深度解读：[抽 3 个永久授权] Termark：一个按自己习惯做出来的 SSH 客户端</title><link>https://aihot.bt199.com/news/v2ex-1224199/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224199/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;Termark 不是因为市面上没有 SSH 客户端才做的。&lt;/p&gt;
+&lt;p&gt;有分析指出，Termark 不是因为市面上没有 SSH 客户端才做的。&lt;/p&gt;
 &lt;p&gt;恰好相反，这类工具已经非常多了，能连服务器、传文件、开隧道的基本都有。&lt;/p&gt;
-&lt;p&gt;只是我用了不少之后，总觉得都是差点意思，能用但不好用。&lt;/p&gt;</description></item><item><title>深度解读：[或许是慢讯]deepseek将发布新计费方式</title><link>https://aihot.bt199.com/news/16b9837eb953/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/16b9837eb953/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://www.v2ex.com/t/1224199"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>深度解读：[或许是慢讯]deepseek将发布新计费方式</title><link>https://aihot.bt199.com/news/16b9837eb953/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/16b9837eb953/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;33 个帖子 - 21 位参与者 阅读完整话题&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -3003,7 +3029,8 @@ API
 Google Colab CLI
 ，这是一款命令行工具，允许开发者和 AI 智能体在本地终端直接与远程 Colab 运行时交互。&lt;/p&gt;
 &lt;p&gt;该工具的目标简化对云端 GPU 与 TPU 的访问，并提供基于终端的工作流来运行机器学习任务、获取产物和访问交互式会话。&lt;/p&gt;</description></item><item><title>深度解读：广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里</title><link>https://aihot.bt199.com/news/c02711099335/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c02711099335/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。&lt;/p&gt;</description></item><item><title>深度解读：恒指开盘跌0.1%，恒生科技指数涨0.41%</title><link>https://aihot.bt199.com/news/6db15fe48a7e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6db15fe48a7e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。&lt;/p&gt;</description></item><item><title>深度解读：恒生指数公司联同数码港推出主题指数探索计划，促进以人工智能驱动指数创新</title><link>https://aihot.bt199.com/news/b47bc92a9232/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b47bc92a9232/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;有分析指出，36氪获悉，恒生指数公司与数码港于2026年6月30日宣布推出主题指数探索计划，与创科公司共同开发人工智能解决方案，加快主题指数的设计流程。&lt;/p&gt;</description></item><item><title>深度解读：恒指开盘跌0.1%，恒生科技指数涨0.41%</title><link>https://aihot.bt199.com/news/6db15fe48a7e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6db15fe48a7e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;消息称，36氪获悉，恒指开盘跌0.1%，恒生科技指数涨0.41%；半导体、软件服务、食品板块领涨，智谱涨超6%，联想集团涨超4%，B站涨超3%，中国旺旺涨超2%；有色金属、耐用消费品、汽车板块走弱，潼关黄金跌5%，长城汽车、万维智能科技跌超1%。&lt;/p&gt;</description></item><item><title>深度解读：华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”</title><link>https://aihot.bt199.com/news/29c8aaf383cf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/29c8aaf383cf/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”
 量子位的朋友们
@@ -3464,7 +3491,9 @@ Prompt还没退场，Loop已经开始接管AI叙事。&lt;/p&gt;</description></
 &lt;p&gt;据了解，PlayStation LifeStyle – 26 Jun 26 PlayStation Removing Purchased Content From Your Library Again - PlayStation.&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://linux.do/t/topic/2483246"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>突发：阿联酋AI技术投资公司MGX据悉融资近500亿美元</title><link>https://aihot.bt199.com/news/6489027372d6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6489027372d6/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://linux.do/t/topic/2483246"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>突发：SK海力士将于2029年在清州建成NAND闪存工厂</title><link>https://aihot.bt199.com/news/7e80a548c125/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7e80a548c125/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;消息称，SK海力士将在忠清南道清州新建一座大型NAND闪存晶圆厂，目标于2029年投入运营。&lt;/p&gt;
+&lt;p&gt;包括该项目在内，SK集团计划在忠清地区总投资170万亿韩元，涵盖先进封装和人工智能数据中心领域，旨在打造全球AI枢纽。&lt;/p&gt;</description></item><item><title>突发：阿联酋AI技术投资公司MGX据悉融资近500亿美元</title><link>https://aihot.bt199.com/news/6489027372d6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6489027372d6/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据报道，阿联酋阿布扎比AI技术投资公司MGX已从区域和全球投资者处筹得近500亿美元，用于加速AI基础设施和技术投资。&lt;/p&gt;
 &lt;p&gt;（界面）&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -3956,7 +3985,12 @@ henry
 henry 发自 凹非寺
 量子位 | 公众号 QbitAI
 好好好，又给英伟达这家伙，找到了新的烧token的方式（doge）
-刚刚，英伟达、CMU和Berkeley联合推出具身智能Autoresearch框架——&lt;/p&gt;</description></item><item><title>英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同</title><link>https://aihot.bt199.com/news/e14ed19e3b39/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e14ed19e3b39/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+刚刚，英伟达、CMU和Berkeley联合推出具身智能Autoresearch框架——&lt;/p&gt;</description></item><item><title>英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/71b00cd133f8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/71b00cd133f8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;据报道，英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成。&lt;/p&gt;
+&lt;p&gt;（财联社）&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://36kr.com/newsflashes/3877951264239877?f=rss"&gt;36氪原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同</title><link>https://aihot.bt199.com/news/e14ed19e3b39/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e14ed19e3b39/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Nvidia just announced a warm-water cooling system that it says can dramatically reduce the amount of water a data center uses — eliminating “pretty much all water usage” inside the data center, according to an Nvidia executive in a
 press release
 .
@@ -4135,7 +4169,10 @@ This level of advancement is particularly concerning to the US government, which
 卓越人工智能引领者奖（SAIL）
 卓越人工智能引领者奖（SAIL），是世界人工智能大会最高荣誉奖项，也是全球人工智能领域极具影响力的高规格国际化奖项。&lt;/p&gt;</description></item><item><title>重磅！36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元</title><link>https://aihot.bt199.com/news/5fc596bef56d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/5fc596bef56d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据悉，作者 | 张子怡 编辑 | 袁斯来 近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。&lt;/p&gt;
-&lt;p&gt;本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。&lt;/p&gt;</description></item><item><title>重磅！618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣</title><link>https://aihot.bt199.com/news/v2ex-1221233/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1221233/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。&lt;/p&gt;</description></item><item><title>重磅！36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景</title><link>https://aihot.bt199.com/news/59157759ccca/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/59157759ccca/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;作者 | 乔钰杰
+编辑 | 袁斯来
+硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用研究院旗下平台跟投。&lt;/p&gt;</description></item><item><title>重磅！618 来领赛博鸡蛋，中转支持 GPT-5.5/Claude Opus 4.8/Gemini 3.5 Flash/DeepSeek-V4-Pro/GLM-5.2 等主流模型，邀请好友充值返佣</title><link>https://aihot.bt199.com/news/v2ex-1221233/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1221233/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，跑了 3 个月，主打稳定实惠。&lt;/p&gt;
 &lt;p&gt;支持 &lt;code&gt;GPT-5.5&lt;/code&gt; / &lt;code&gt;Claude Opus 4.8&lt;/code&gt; / `Gemini 3.&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -4559,7 +4596,12 @@ The researchers, led by associate professor Stefanie Mueller, were inspired by a
 &lt;p&gt;文 | 邓咏仪
 编辑 | 张雨忻
 火山引擎总裁谭待 来源：火山引擎
-过去三年，火山引擎总裁谭待给团队定 MaaS（模型即服务） 营收目标的过程，也重复了三次：年初，定一个很高的目标，团队都觉得太难了，完不成；到了年中，“居然完成的差不多了”，随后目标再度上调。&lt;/p&gt;</description></item><item><title>资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductionAI</title><link>https://aihot.bt199.com/news/f7db370cf36f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/f7db370cf36f/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+过去三年，火山引擎总裁谭待给团队定 MaaS（模型即服务） 营收目标的过程，也重复了三次：年初，定一个很高的目标，团队都觉得太难了，完不成；到了年中，“居然完成的差不多了”，随后目标再度上调。&lt;/p&gt;</description></item><item><title>专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏，这意味着什么？</title><link>https://aihot.bt199.com/news/cf50a4ca0c34/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/cf50a4ca0c34/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;访谈｜周鑫雨 兰杰
+文｜周鑫雨
+编辑｜张雨忻
+截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。&lt;/p&gt;
+&lt;p&gt;他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。&lt;/p&gt;</description></item><item><title>资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductionAI</title><link>https://aihot.bt199.com/news/f7db370cf36f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/f7db370cf36f/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;DeductiveAI, a startup that uses AI to catch and resolve bugs in software, has agreed to be sold to enterprise software company Elastic for up to $85 million, according to a person with knowledge of the deal.
 Deductive, which was founded in 2023, came out stealth last November when it announced a
 $7.5 million seed
@@ -4639,7 +4681,9 @@ Claude Fable 5，回来了？&lt;/p&gt;
 &lt;p&gt;据报道，&lt;img src="https://i.imgur.com/0afSNug.png" alt=""&gt; 被封了以后下载了自己的个人数据，然后回顾了一下之前的聊天，突然意识到自己好像离不开 Claude 了。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.v2ex.com/t/1223958"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>最新动态：Codex 疯狂写硬盘</title><link>https://aihot.bt199.com/news/144604469b1e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/144604469b1e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://www.v2ex.com/t/1223958"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>最新动态：Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j</title><link>https://aihot.bt199.com/news/1dd198bdc20b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1dd198bdc20b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;作为全球最大的网络基础设施公司之一，Cloudflare 每天处理着全球互联网流量的巨大份额，它的数据就是互联网的“体温计”。&lt;/p&gt;
+&lt;p&gt;而就在几周前，这家公司发现互联网上的 Bot 流量首次超过了人类流量，按照这个速度发展下去，五年内这个比例将超过 1000:1。&lt;/p&gt;</description></item><item><title>最新动态：Codex 疯狂写硬盘</title><link>https://aihot.bt199.com/news/144604469b1e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/144604469b1e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，GitHub issue 爆料：Codex 在流式任务/长时间运行时，持续往本地 SQLite feedback log 疯狂写入（logs_2.&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -4718,7 +4762,8 @@ Terraform MCP Server 正式可用
 &lt;p&gt;&lt;a href="https://i.imgur.com/ntVTv7e.png"&gt;https://i.imgur.com/ntVTv7e.png&lt;/a&gt; &lt;a href="https://i.imgur.com/zdwSQTb.png"&gt;https://i.imgur.com/zdwSQTb.png&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.v2ex.com/t/1221375"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>最新动态：跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了</title><link>https://aihot.bt199.com/news/7e70e7e15c55/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7e70e7e15c55/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://www.v2ex.com/t/1221375"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>最新动态：高德地图在北京成立新智能科技公司</title><link>https://aihot.bt199.com/news/cff3cca58bbc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/cff3cca58bbc/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;消息称，36氪获悉，天眼查App显示，近日，北京高行蓝隼智能科技有限公司成立，法定代表人为刘书鹏，注册资本1500万人民币，经营范围包括软件开发、人工智能应用软件开发、信息系统集成服务、技术进出口等。&lt;/p&gt;</description></item><item><title>最新动态：跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了</title><link>https://aihot.bt199.com/news/7e70e7e15c55/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7e70e7e15c55/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;跟Claude谈个恋爱怎么了？&lt;/p&gt;
 &lt;p&gt;Nature最新研究：真能给人聊傻了
 henry
@@ -4840,7 +4885,9 @@ AI 大爆发之际，越来越多公司走向资本市场。&lt;/p&gt;
 来源：
 量子位
 欧洲计算机视觉顶级会议ECCV 2026正式公布论文录用结果。&lt;/p&gt;</description></item><item><title>最新动态：日本全家便利店尝试用狼形机器人驱熊</title><link>https://aihot.bt199.com/news/c17b18e9a486/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c17b18e9a486/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;消息称，共同网 全家便利店尝试用狼形机器人驱熊 【共同社6月27日电】为了减少熊造成的危害，日本全家便利店24日在群马县桐生市山区的“日野屋黑保根店”向媒体展示了模仿狼外形用于驱赶野生动物的机器人装置“Monster Wolf”实证试验。&lt;/p&gt;</description></item><item><title>最新动态：三星电机拟获5000亿韩元AI服务器部件订单，并与住友化学建合资公司</title><link>https://aihot.bt199.com/news/3a9b2f3db91b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3a9b2f3db91b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;消息称，共同网 全家便利店尝试用狼形机器人驱熊 【共同社6月27日电】为了减少熊造成的危害，日本全家便利店24日在群马县桐生市山区的“日野屋黑保根店”向媒体展示了模仿狼外形用于驱赶野生动物的机器人装置“Monster Wolf”实证试验。&lt;/p&gt;</description></item><item><title>最新动态：软银集团拟发行新一轮公司债，发行总额上限达1.5万亿日元</title><link>https://aihot.bt199.com/news/8705486eb203/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8705486eb203/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;据了解，软银集团7月2日向监管机构提交披露文件，计划发行新一轮针对个人或机构投资者的公司债券，发行总额度上限最高达1.5万亿日元。&lt;/p&gt;
+&lt;p&gt;本次大规模募资计划主要用于偿还即将到期的既有债务、优化集团资本结构，并为其在AI及尖端科技领域的持续投资储备充足的流动性资金。&lt;/p&gt;</description></item><item><title>最新动态：三星电机拟获5000亿韩元AI服务器部件订单，并与住友化学建合资公司</title><link>https://aihot.bt199.com/news/3a9b2f3db91b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3a9b2f3db91b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，6月29日消息，据报道，三星电机正与美国科技巨头进行AI服务器MLCC供应合同的最终谈判，该合同价值约5000亿韩元，占其组件部门去年营收的10%。&lt;/p&gt;</description></item><item><title>最新动态：桑坦德银行拟向西班牙3000名员工提供自愿提前退休方案</title><link>https://aihot.bt199.com/news/ba93b4ae0416/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ba93b4ae0416/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，据当地媒体周三报道，西班牙桑坦德银行已开始与工会就一项计划进行磋商，拟向西班牙至多3000名员工提供提前自愿退休方案。&lt;/p&gt;
 &lt;p&gt;此举正值欧洲各地的银行准备应对人工智能带来的影响之际。&lt;/p&gt;</description></item><item><title>最新动态：商汤股东大会披露：企业级Token单月使用量迅速增长7倍</title><link>https://aihot.bt199.com/news/d5b8ab5206de/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/d5b8ab5206de/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
