@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-02 22:14:41
+🕐 **最近更新**：2026-07-03 03:40:19
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,20 +16,20 @@
 
 ## 🔥 今日热点
 
-1. [微软承诺投入 25 亿美元成立自己的人工智能部署公司](https://aihot.bt199.com/news/86d262543960/)
-   - 继亚马逊、OpenAI 和 Anthropic 之后，微软也推出了新的人工智能部署团队
+1. [Meta 悄然推出 vivi 编码游戏应用程序 Pocket](https://aihot.bt199.com/news/a37f0922b867/)
+   - Meta 悄然推出了 Pocket，这是一款实验性人工智能应用程序，可让用户使用文本提示生成和共享交互式迷你游戏
    - `TechCrunch AI · 2026-07-02`
 
-2. [是的，我们现在正在使用 OpenClaw](https://aihot.bt199.com/news/cdac07352f7e/)
-   - Ben Guez “在他的私信中拥有一群潜在的国际妻子”，这要归功于他使用 OpenClaw、Claude 代码和 In…
+2. [Anthropic 正在与三星讨论新的定制芯片](https://aihot.bt199.com/news/bb53a1477cfb/)
+   - 这一消息发布大约一周前，OpenAI 宣布与博通合作推出自己的定制人工智能芯片
    - `TechCrunch AI · 2026-07-02`
 
-3. [教人工智能与涡轮机一起运行](https://aihot.bt199.com/news/76da70e4f32f/)
-   - 人工智能可能通过聊天机器人和图像生成器吸引了公众的想象力，但其一些最重要的用例正在远离面向消费者的工具。在物理基础设施、…
+3. [利用人工智能实现卓越运营](https://aihot.bt199.com/news/47a875ddb175/)
+   - 精益六西格码和业务流程管理 (BPM) 等框架首先受到关注，因为它们承诺在混乱中保持清晰——一种为混乱、庞大的运营带来秩…
    - `MIT Tech Review · 2026-07-02`
 
-4. [下载：一家初创公司为人工智能的群体思维问题找到了解决方案](https://aihot.bt199.com/news/0c578b2b9174/)
-   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。法学硕士陷入了群体思维的困境。这家初…
+4. [教人工智能与涡轮机一起运行](https://aihot.bt199.com/news/76da70e4f32f/)
+   - 人工智能可能通过聊天机器人和图像生成器吸引了公众的想象力，但其一些最重要的用例正在远离面向消费者的工具。在物理基础设施、…
    - `MIT Tech Review · 2026-07-02`
 
 5. [OpenAI 上市，特朗普政府可从人工智能热潮中分得 5%](https://aihot.bt199.com/news/3afaca491ac0/)
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
