@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-03 11:41:12
+🕐 **最近更新**：2026-07-03 17:29:04
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -24,12 +24,12 @@
    - 为了好玩，我看了一下 Jersey Mike 的 IPO 文件。一家三明治店当然不需要提到人工智能。但你瞧
    - `TechCrunch AI · 2026-07-02`
 
-3. [利用人工智能实现卓越运营](https://aihot.bt199.com/news/47a875ddb175/)
-   - 精益六西格码和业务流程管理 (BPM) 等框架首先受到关注，因为它们承诺在混乱中保持清晰——一种为混乱、庞大的运营带来秩…
-   - `MIT Tech Review · 2026-07-02`
+3. [英国的代际烟草禁令可能行不通。无论如何我都支持它。](https://aihot.bt199.com/news/21fa08f8f90b/)
+   - 作为两个小女孩的父母，我经常思考她们的童年与我的童年有何不同。这个七岁的孩子正在学校学习人工智能。这个五岁的孩子每周都会…
+   - `MIT Tech Review · 2026-07-03`
 
-4. [教人工智能与涡轮机一起运行](https://aihot.bt199.com/news/76da70e4f32f/)
-   - 人工智能可能通过聊天机器人和图像生成器吸引了公众的想象力，但其一些最重要的用例正在远离面向消费者的工具。在物理基础设施、…
+4. [利用人工智能实现卓越运营](https://aihot.bt199.com/news/47a875ddb175/)
+   - 精益六西格码和业务流程管理 (BPM) 等框架首先受到关注，因为它们承诺在混乱中保持清晰——一种为混乱、庞大的运营带来秩…
    - `MIT Tech Review · 2026-07-02`
 
 5. [OpenAI 上市，特朗普政府可从人工智能热潮中分得 5%](https://aihot.bt199.com/news/3afaca491ac0/)
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 

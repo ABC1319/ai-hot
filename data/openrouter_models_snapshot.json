@@ -5004,13 +5004,13 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.000000089",
+        "prompt": "0.00000009",
         "completion": "0.00000018",
         "input_cache_read": "0.000000018"
       },
       "top_provider": {
         "context_length": 1048576,
-        "max_completion_tokens": null,
+        "max_completion_tokens": 16384,
         "is_moderated": false
       },
       "per_request_limits": null,
@@ -11066,6 +11066,7 @@
       "supported_parameters": [
         "frequency_penalty",
         "include_reasoning",
+        "logprobs",
         "max_tokens",
         "min_p",
         "presence_penalty",
@@ -11080,6 +11081,7 @@
         "tools",
         "top_a",
         "top_k",
+        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {
@@ -18998,6 +19000,7 @@
       "supported_parameters": [
         "frequency_penalty",
         "include_reasoning",
+        "logprobs",
         "max_tokens",
         "min_p",
         "presence_penalty",
@@ -19012,6 +19015,7 @@
         "tools",
         "top_a",
         "top_k",
+        "top_logprobs",
         "top_p"
       ],
       "default_parameters": {
@@ -27745,5 +27749,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-03T03:40:21.557503+00:00"
+  "updated_at": "2026-07-03T09:27:45.478772+00:00"
 }
