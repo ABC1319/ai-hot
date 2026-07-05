@@ -9474,6 +9474,38 @@
     "is_core": true
   },
   {
+    "id": "hf-IOTEverythin--grounded-pointer-qa",
+    "name": "IOTEverythin/grounded-pointer-qa",
+    "display_name": "grounded-pointer-qa",
+    "url": "https://huggingface.co/IOTEverythin/grounded-pointer-qa",
+    "author": "IOTEverythin",
+    "pipeline_tag": "question-answering",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "pytorch",
+      "extractive-qa",
+      "grounded-qa",
+      "hallucination-free",
+      "selective-prediction",
+      "abstention",
+      "rag",
+      "question-answering",
+      "en",
+      "dataset:rajpurkar/squad_v2",
+      "base_model:FacebookAI/roberta-base",
+      "base_model:finetune:FacebookAI/roberta-base",
+      "license:mit",
+      "model-index",
+      "region:us"
+    ],
+    "created_at": "2026-07-05T03:35:02.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-07-05T03:50:35.468038",
+    "display_priority": 293,
+    "is_core": true
+  },
+  {
     "id": "hf-Jinstudio--TRELLIS-text-xlarge",
     "name": "Jinstudio/TRELLIS-text-xlarge",
     "display_name": "TRELLIS-text-xlarge",
@@ -9493,7 +9525,7 @@
     "created_at": "2026-06-26T02:20:40.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461908",
-    "display_priority": 293,
+    "display_priority": 294,
     "is_core": true
   },
   {
@@ -9516,7 +9548,7 @@
     "created_at": "2026-06-26T02:20:34.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461914",
-    "display_priority": 294,
+    "display_priority": 295,
     "is_core": true
   },
   {
@@ -9539,7 +9571,7 @@
     "created_at": "2026-06-26T02:20:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461916",
-    "display_priority": 295,
+    "display_priority": 296,
     "is_core": true
   }
 ]
