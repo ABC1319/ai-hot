@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-07 22:49:09
+🕐 **最近更新**：2026-07-08 04:04:58
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,8 +16,8 @@
 
 ## 🔥 今日热点
 
-1. [Savi 的应用程序旨在保护消费者免受现实的人工智能诈骗，例如绑匪索要赎金](https://aihot.bt199.com/news/e2c62726c581/)
-   - 该公司刚刚筹集了 700 万美元的种子资金，并将于周二推出适用于 iPhone 和 Android 的应用程序
+1. [Discord 承认人工智能审核错误错误地禁止用户查看无害图像](https://aihot.bt199.com/news/0a5053c71615/)
+   - 该公司证实，该问题自 5 月份以来一直影响着账户，在其团队发现并解决该问题之前，周末又禁止了 200 名用户
    - `TechCrunch AI · 2026-07-07`
 
 2. [Solos 推出了更轻的无摄像头智能眼镜版本](https://aihot.bt199.com/news/c4d5624322a5/)
@@ -32,9 +32,9 @@
    - 随着人工智能功能的快速进步和向代理系统的转变，随着技术的不断发展，组织正在扩大其用例。这种不断的演变也带来了风险，让 I…
    - `MIT Tech Review · 2026-07-07`
 
-5. [一些国家的富人正在让人工智能教他们的孩子](https://aihot.bt199.com/news/f4dfdde345c5/)
-   - 大多数美国人不信任人工智能。事实证明，它不知道什么是安全的披萨配料。人们甚至不想听人工智能音乐。但对于一些美国富人来说…
-   - `The Verge AI · 2026-07-05`
+5. [微软更多地依赖自有模型加入人工智能成本削减趋势](https://aihot.bt199.com/news/6d46c33e5722/)
+   - 微软是最新一家削减人工智能支出的硅谷巨头
+   - `TechCrunch AI · 2026-07-07`
 
 6. [新的攻击提供了人工智能浏览器不是一个好主意的又一个原因](https://aihot.bt199.com/news/fdfe27002820/)
    - 告诉法学硕士 2 + 2 = 5 足以使其遵循禁止的指令
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
