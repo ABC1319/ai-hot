@@ -9280,6 +9280,29 @@
     "is_core": true
   },
   {
+    "id": "hf-bn22--siglip_openclip_experiment_s_16_new_unsafe",
+    "name": "bn22/siglip_openclip_experiment_s_16_new_unsafe",
+    "display_name": "siglip_openclip_experiment_s_16_new_unsafe",
+    "url": "https://huggingface.co/bn22/siglip_openclip_experiment_s_16_new_unsafe",
+    "author": "bn22",
+    "pipeline_tag": "zero-shot-image-classification",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "open_clip",
+      "safetensors",
+      "clip",
+      "zero-shot-image-classification",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-07-08T19:39:00.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-07-08T19:40:38.538429",
+    "display_priority": 291,
+    "is_core": true
+  },
+  {
     "id": "hf-Satyawan1--praxis-timbre",
     "name": "Satyawan1/praxis-timbre",
     "display_name": "praxis-timbre",
@@ -9315,7 +9338,7 @@
     "created_at": "2026-05-24T08:13:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-24T08:22:04.330518",
-    "display_priority": 291,
+    "display_priority": 292,
     "is_core": true
   },
   {
@@ -9339,7 +9362,7 @@
     "created_at": "2026-05-26T02:29:06.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-26T02:32:18.544678",
-    "display_priority": 292,
+    "display_priority": 293,
     "is_core": true
   },
   {
@@ -9371,7 +9394,7 @@
     "created_at": "2026-06-21T13:38:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-21T13:53:12.110140",
-    "display_priority": 293,
+    "display_priority": 294,
     "is_core": true
   },
   {
@@ -9402,7 +9425,7 @@
     "created_at": "2026-06-23T02:21:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-23T02:32:58.759214",
-    "display_priority": 294,
+    "display_priority": 295,
     "is_core": true
   },
   {
@@ -9428,7 +9451,7 @@
     "created_at": "2026-06-24T14:07:55.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-24T14:12:24.113118",
-    "display_priority": 295,
+    "display_priority": 296,
     "is_core": true
   },
   {
@@ -9460,7 +9483,7 @@
     "created_at": "2026-07-05T03:35:02.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-05T03:50:35.468038",
-    "display_priority": 296,
+    "display_priority": 297,
     "is_core": true
   },
   {
@@ -9483,7 +9506,7 @@
     "created_at": "2026-06-26T02:20:40.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461908",
-    "display_priority": 297,
+    "display_priority": 298,
     "is_core": true
   },
   {
@@ -9506,7 +9529,7 @@
     "created_at": "2026-06-26T02:20:34.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461914",
-    "display_priority": 298,
+    "display_priority": 299,
     "is_core": true
   },
   {
@@ -9529,7 +9552,7 @@
     "created_at": "2026-06-26T02:20:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461916",
-    "display_priority": 299,
+    "display_priority": 300,
     "is_core": true
   }
 ]
