@@ -5467,6 +5467,34 @@
     "collected_at": "2026-04-20T18:54:53.609652"
   },
   {
+    "id": "github-1290068976",
+    "name": "ashutosh-rath02/atrophy",
+    "display_name": "atrophy",
+    "url": "https://github.com/ashutosh-rath02/atrophy",
+    "description": "Measure what your brain is losing while AI does your work - unaided-skill baselines, decay curves, reliance drills",
+    "stars": 20,
+    "forks": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "cli",
+      "deliberate-practice",
+      "developer-tools",
+      "elo-rating",
+      "local-first",
+      "nodejs",
+      "skill-assessment",
+      "skill-decay",
+      "typescript"
+    ],
+    "created_at": "2026-07-05T14:45:19Z",
+    "updated_at": "2026-07-08T08:25:11Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-07-08T08:37:30.851199"
+  },
+  {
     "id": "github-1268356440",
     "name": "amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
     "display_name": "AI-Voice-Changer-Real-Time-Desktop",
