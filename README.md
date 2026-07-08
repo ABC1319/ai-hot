@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-08 04:04:58
+🕐 **最近更新**：2026-07-08 11:18:19
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,12 +16,12 @@
 
 ## 🔥 今日热点
 
-1. [Discord 承认人工智能审核错误错误地禁止用户查看无害图像](https://aihot.bt199.com/news/0a5053c71615/)
-   - 该公司证实，该问题自 5 月份以来一直影响着账户，在其团队发现并解决该问题之前，周末又禁止了 200 名用户
+1. [为什么开源人工智能的兴起还没有伤害 Anthropic……](https://aihot.bt199.com/news/ac26af5ade46/)
+   - 开源模型的成功并不以牺牲前沿实验室为代价。相反，它们似乎都捕获了同一生命周期的两个阶段
    - `TechCrunch AI · 2026-07-07`
 
-2. [Solos 推出了更轻的无摄像头智能眼镜版本](https://aihot.bt199.com/news/c4d5624322a5/)
-   - Solos 宣布推出新版 AirGo 智能眼镜，该眼镜放弃了摄像头，采用更时尚的设计，并配备了依赖语音交互的人工智能助手…
+2. [Meta的新Muse Image模型可以将其他Instagram用户拉入AI照片中](https://aihot.bt199.com/news/041d3e03c54a/)
+   - Meta 正在推出由其超级智能实验室部门制作的第一个人工智能图像生成模型。根据周二的公告，Muse Image 模型现已…
    - `The Verge AI · 2026-07-07`
 
 3. [下载：您在 OpenAI 中的股份以及财政部的人工智能警告](https://aihot.bt199.com/news/0e5ebf4a584e/)
@@ -32,8 +32,8 @@
    - 随着人工智能功能的快速进步和向代理系统的转变，随着技术的不断发展，组织正在扩大其用例。这种不断的演变也带来了风险，让 I…
    - `MIT Tech Review · 2026-07-07`
 
-5. [微软更多地依赖自有模型加入人工智能成本削减趋势](https://aihot.bt199.com/news/6d46c33e5722/)
-   - 微软是最新一家削减人工智能支出的硅谷巨头
+5. [Meta 刚刚推出了一款新的人工智能生成器 Muse Image，用户已经开始拒绝使用他们的照片](https://aihot.bt199.com/news/43c24424eacf/)
+   - 新的图像生成模型有许多用例，包括广告、装饰和基于创作者的机会
    - `TechCrunch AI · 2026-07-07`
 
 6. [新的攻击提供了人工智能浏览器不是一个好主意的又一个原因](https://aihot.bt199.com/news/fdfe27002820/)
@@ -127,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
