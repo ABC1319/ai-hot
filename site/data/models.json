@@ -4491,6 +4491,36 @@
     "is_core": true
   },
   {
+    "id": "hf-CohereLabs--cohere-transcribe-arabic-07-2026",
+    "name": "CohereLabs/cohere-transcribe-arabic-07-2026",
+    "display_name": "cohere-transcribe-arabic-07-2026",
+    "url": "https://huggingface.co/CohereLabs/cohere-transcribe-arabic-07-2026",
+    "author": "CohereLabs",
+    "pipeline_tag": "automatic-speech-recognition",
+    "likes": 53,
+    "downloads": 27,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "cohere_asr",
+      "automatic-speech-recognition",
+      "audio",
+      "speech-recognition",
+      "transcription",
+      "arabic",
+      "ar",
+      "en",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-06-18T19:44:59.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-07-08T14:25:26.808763",
+    "display_priority": 121,
+    "is_core": true
+  },
+  {
     "id": "hf-Lightricks--LTX-2.3-22b-IC-LoRA-Ingredients",
     "name": "Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients",
     "display_name": "LTX-2.3-22b-IC-LoRA-Ingredients",
@@ -4515,7 +4545,7 @@
     "created_at": "2026-06-17T11:28:29.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-20T13:45:32.097781",
-    "display_priority": 121,
+    "display_priority": 122,
     "is_core": true
   },
   {
@@ -4559,7 +4589,7 @@
     "created_at": "2026-05-20T13:09:50.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-19T03:34:45.896747",
-    "display_priority": 122,
+    "display_priority": 123,
     "is_core": true
   },
   {
@@ -4600,7 +4630,7 @@
     "created_at": "2026-04-16T13:54:19.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-01T02:19:40.311428",
-    "display_priority": 123,
+    "display_priority": 124,
     "is_core": true
   },
   {
@@ -4643,7 +4673,7 @@
     "created_at": "2026-05-05T15:00:16.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-18T20:15:23.806267",
-    "display_priority": 124,
+    "display_priority": 125,
     "is_core": true
   },
   {
@@ -4672,7 +4702,7 @@
     "created_at": "2026-05-19T08:58:01.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-25T02:42:48.443062",
-    "display_priority": 125,
+    "display_priority": 126,
     "is_core": true
   },
   {
@@ -4706,7 +4736,7 @@
     "created_at": "2026-06-26T13:44:18.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-27T08:30:02.553676",
-    "display_priority": 126,
+    "display_priority": 127,
     "is_core": true
   },
   {
@@ -4736,7 +4766,7 @@
     "created_at": "2026-07-05T18:53:37.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-08T08:37:34.265936",
-    "display_priority": 127,
+    "display_priority": 128,
     "is_core": true
   },
   {
@@ -4775,7 +4805,7 @@
     "created_at": "2026-04-29T07:46:41.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-21T02:37:42.027416",
-    "display_priority": 128,
+    "display_priority": 129,
     "is_core": true
   },
   {
@@ -4860,7 +4890,7 @@
     "created_at": "2026-04-20T15:15:55.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T13:31:26.989174",
-    "display_priority": 129,
+    "display_priority": 130,
     "is_core": true
   },
   {
@@ -4889,7 +4919,7 @@
     "created_at": "2026-04-23T06:30:09.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T10:16:49.982171",
-    "display_priority": 130,
+    "display_priority": 131,
     "is_core": true
   },
   {
@@ -4922,7 +4952,7 @@
     "created_at": "2026-06-29T20:09:50.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-03T14:17:39.310541",
-    "display_priority": 131,
+    "display_priority": 132,
     "is_core": true
   },
   {
@@ -4949,7 +4979,7 @@
     "created_at": "2026-07-03T10:56:01.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-05T13:50:34.932803",
-    "display_priority": 132,
+    "display_priority": 133,
     "is_core": true
   },
   {
@@ -4982,7 +5012,7 @@
     "created_at": "2026-05-09T04:20:48.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-15T13:49:27.928797",
-    "display_priority": 133,
+    "display_priority": 134,
     "is_core": true
   },
   {
@@ -5003,7 +5033,7 @@
     "created_at": "2026-04-30T10:18:49.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-13T14:16:25.219466",
-    "display_priority": 134,
+    "display_priority": 135,
     "is_core": true
   },
   {
@@ -5041,7 +5071,7 @@
     "created_at": "2026-04-16T13:55:49.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-03T07:52:24.422760",
-    "display_priority": 135,
+    "display_priority": 136,
     "is_core": true
   },
   {
@@ -5067,7 +5097,7 @@
     "created_at": "2026-05-13T15:12:13.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-19T02:35:51.388166",
-    "display_priority": 136,
+    "display_priority": 137,
     "is_core": true
   },
   {
@@ -5094,7 +5124,7 @@
     "created_at": "2026-05-18T11:14:09.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-20T08:57:46.994012",
-    "display_priority": 137,
+    "display_priority": 138,
     "is_core": true
   },
   {
@@ -5135,7 +5165,7 @@
     "created_at": "2026-03-10T12:21:20.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-05T13:21:22.339381",
-    "display_priority": 138,
+    "display_priority": 139,
     "is_core": true
   },
   {
@@ -5159,7 +5189,7 @@
     "created_at": "2026-06-30T08:46:20.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T09:00:51.850200",
-    "display_priority": 139,
+    "display_priority": 140,
     "is_core": true
   },
   {
@@ -5184,7 +5214,7 @@
     "created_at": "2026-07-03T09:08:28.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-03T09:27:06.599447",
-    "display_priority": 140,
+    "display_priority": 141,
     "is_core": true
   },
   {
@@ -5208,7 +5238,7 @@
     "created_at": "2026-06-30T08:42:01.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T09:00:51.850237",
-    "display_priority": 141,
+    "display_priority": 142,
     "is_core": true
   },
   {
@@ -5233,7 +5263,7 @@
     "created_at": "2026-07-03T09:20:29.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-03T09:27:06.599390",
-    "display_priority": 142,
+    "display_priority": 143,
     "is_core": true
   },
   {
@@ -5257,7 +5287,7 @@
     "created_at": "2026-06-30T08:44:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T09:00:51.850221",
-    "display_priority": 143,
+    "display_priority": 144,
     "is_core": true
   },
   {
@@ -5286,7 +5316,7 @@
     "created_at": "2026-06-30T19:41:51.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T19:46:24.754445",
-    "display_priority": 144,
+    "display_priority": 145,
     "is_core": true
   },
   {
@@ -5313,7 +5343,7 @@
     "created_at": "2026-05-01T12:57:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T13:13:50.687297",
-    "display_priority": 145,
+    "display_priority": 146,
     "is_core": true
   },
   {
@@ -5337,7 +5367,7 @@
     "created_at": "2026-06-20T13:37:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-20T13:45:32.150438",
-    "display_priority": 146,
+    "display_priority": 147,
     "is_core": true
   },
   {
@@ -5361,7 +5391,7 @@
     "created_at": "2026-07-06T10:24:12.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-06T10:46:50.486824",
-    "display_priority": 147,
+    "display_priority": 148,
     "is_core": true
   },
   {
@@ -5386,7 +5416,7 @@
     "created_at": "2026-04-29T19:02:58.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-29T19:15:02.966320",
-    "display_priority": 148,
+    "display_priority": 149,
     "is_core": true
   },
   {
@@ -5413,7 +5443,7 @@
     "created_at": "2026-05-15T13:45:54.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-15T13:49:28.031352",
-    "display_priority": 149,
+    "display_priority": 150,
     "is_core": true
   },
   {
@@ -5437,7 +5467,7 @@
     "created_at": "2026-05-28T02:08:34.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-28T02:28:34.830474",
-    "display_priority": 150,
+    "display_priority": 151,
     "is_core": true
   },
   {
@@ -5462,7 +5492,7 @@
     "created_at": "2026-06-20T13:25:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-20T13:45:32.150493",
-    "display_priority": 151,
+    "display_priority": 152,
     "is_core": true
   },
   {
@@ -5485,7 +5515,7 @@
     "created_at": "2026-06-20T13:22:52.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-20T13:45:32.150506",
-    "display_priority": 152,
+    "display_priority": 153,
     "is_core": true
   },
   {
@@ -5510,127 +5540,6 @@
     "created_at": "2026-06-22T20:28:20.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-22T20:38:11.031359",
-    "display_priority": 153,
-    "is_core": true
-  },
-  {
-    "id": "hf-l1yuan--faster-whisper-small",
-    "name": "l1yuan/faster-whisper-small",
-    "display_name": "faster-whisper-small",
-    "url": "https://huggingface.co/l1yuan/faster-whisper-small",
-    "author": "l1yuan",
-    "pipeline_tag": "automatic-speech-recognition",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "ctranslate2",
-      "audio",
-      "automatic-speech-recognition",
-      "en",
-      "zh",
-      "de",
-      "es",
-      "ru",
-      "ko",
-      "fr",
-      "ja",
-      "pt",
-      "tr",
-      "pl",
-      "ca",
-      "nl",
-      "ar",
-      "sv",
-      "it",
-      "id",
-      "hi",
-      "fi",
-      "vi",
-      "he",
-      "uk",
-      "el",
-      "ms",
-      "cs",
-      "ro",
-      "da",
-      "hu",
-      "ta",
-      "no",
-      "th",
-      "ur",
-      "hr",
-      "bg",
-      "lt",
-      "la",
-      "mi",
-      "ml",
-      "cy",
-      "sk",
-      "te",
-      "fa",
-      "lv",
-      "bn",
-      "sr",
-      "az",
-      "sl",
-      "kn",
-      "et",
-      "mk",
-      "br",
-      "eu",
-      "is",
-      "hy",
-      "ne",
-      "mn",
-      "bs",
-      "kk",
-      "sq",
-      "sw",
-      "gl",
-      "mr",
-      "pa",
-      "si",
-      "km",
-      "sn",
-      "yo",
-      "so",
-      "af",
-      "oc",
-      "ka",
-      "be",
-      "tg",
-      "sd",
-      "gu",
-      "am",
-      "yi",
-      "lo",
-      "uz",
-      "fo",
-      "ht",
-      "ps",
-      "tk",
-      "nn",
-      "mt",
-      "sa",
-      "lb",
-      "my",
-      "bo",
-      "tl",
-      "mg",
-      "as",
-      "tt",
-      "haw",
-      "ln",
-      "ha",
-      "ba",
-      "jw",
-      "su",
-      "license:mit",
-      "region:us"
-    ],
-    "created_at": "2026-04-23T07:12:51.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-23T07:27:21.081938",
     "display_priority": 154,
     "is_core": true
   },
@@ -9268,6 +9177,36 @@
     "is_core": true
   },
   {
+    "id": "hf-Malfaro43--Realtime-REUSE-whisper-finetune",
+    "name": "Malfaro43/Realtime-REUSE-whisper-finetune",
+    "display_name": "Realtime-REUSE-whisper-finetune",
+    "url": "https://huggingface.co/Malfaro43/Realtime-REUSE-whisper-finetune",
+    "author": "Malfaro43",
+    "pipeline_tag": "audio-to-audio",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "mamba-ssm",
+      "safetensors",
+      "speech-enhancement",
+      "universal-speech-enhancement",
+      "real-time-speech-enhancement",
+      "whisper-finetuned",
+      "multiple-input-sampling-rates",
+      "language-agnostic",
+      "audio-to-audio",
+      "arxiv:2603.02641",
+      "arxiv:2606.25621",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-07-08T14:13:16.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-07-08T14:25:26.909326",
+    "display_priority": 287,
+    "is_core": true
+  },
+  {
     "id": "hf-V4ldeLund--clip-vit-large-patch14-real-top80-da-lora-rT24-rI8-e8",
     "name": "V4ldeLund/clip-vit-large-patch14-real-top80-da-lora-rT24-rI8-e8",
     "display_name": "clip-vit-large-patch14-real-top80-da-lora-rT24-rI8-e8",
@@ -9288,7 +9227,7 @@
     "created_at": "2026-05-20T02:33:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-20T02:36:23.493951",
-    "display_priority": 287,
+    "display_priority": 288,
     "is_core": true
   },
   {
@@ -9312,7 +9251,7 @@
     "created_at": "2026-05-20T02:25:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-20T02:36:23.494009",
-    "display_priority": 288,
+    "display_priority": 289,
     "is_core": true
   },
   {
@@ -9337,7 +9276,7 @@
     "created_at": "2026-06-19T19:24:55.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-19T19:30:41.092946",
-    "display_priority": 289,
+    "display_priority": 290,
     "is_core": true
   },
   {
@@ -9376,7 +9315,7 @@
     "created_at": "2026-05-24T08:13:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-24T08:22:04.330518",
-    "display_priority": 290,
+    "display_priority": 291,
     "is_core": true
   },
   {
@@ -9400,7 +9339,7 @@
     "created_at": "2026-05-26T02:29:06.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-26T02:32:18.544678",
-    "display_priority": 291,
+    "display_priority": 292,
     "is_core": true
   },
   {
@@ -9432,7 +9371,7 @@
     "created_at": "2026-06-21T13:38:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-21T13:53:12.110140",
-    "display_priority": 292,
+    "display_priority": 293,
     "is_core": true
   },
   {
@@ -9463,7 +9402,7 @@
     "created_at": "2026-06-23T02:21:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-23T02:32:58.759214",
-    "display_priority": 293,
+    "display_priority": 294,
     "is_core": true
   },
   {
@@ -9489,7 +9428,7 @@
     "created_at": "2026-06-24T14:07:55.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-24T14:12:24.113118",
-    "display_priority": 294,
+    "display_priority": 295,
     "is_core": true
   },
   {
@@ -9521,7 +9460,7 @@
     "created_at": "2026-07-05T03:35:02.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-05T03:50:35.468038",
-    "display_priority": 295,
+    "display_priority": 296,
     "is_core": true
   },
   {
@@ -9544,7 +9483,7 @@
     "created_at": "2026-06-26T02:20:40.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461908",
-    "display_priority": 296,
+    "display_priority": 297,
     "is_core": true
   },
   {
@@ -9567,7 +9506,7 @@
     "created_at": "2026-06-26T02:20:34.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461914",
-    "display_priority": 297,
+    "display_priority": 298,
     "is_core": true
   },
   {
@@ -9590,7 +9529,7 @@
     "created_at": "2026-06-26T02:20:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461916",
-    "display_priority": 298,
+    "display_priority": 299,
     "is_core": true
   }
 ]
