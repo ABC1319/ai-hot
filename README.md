@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-09 23:21:50
+🕐 **最近更新**：2026-07-10 03:55:14
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,35 +16,31 @@
 
 ## 🔥 今日热点
 
-1. [Anthropic 的克劳德新功能正在悄悄向你推销 AI](https://aihot.bt199.com/news/78b4dd47066f/)
-   - Claude 的新 Reflect 仪表板不仅仅可视化您如何使用人工智能。它还巧妙地强化了您现在的日常工作在多大程度上依…
+1. [《纽约时报》称 OpenAI 在 ChatGPT 版权审判中隐藏了证据](https://aihot.bt199.com/news/1db8020f654e/)
+   - 新闻出版商表示，OpenAI 隐藏了可以识别 ChatGPT 输出中受版权保护的新闻的工具和数据集，通过一项新的制裁动议…
    - `TechCrunch AI · 2026-07-09`
 
-2. [Anthropic、OpenAI 和 SpaceX 规模超过过去 25 年的科技退出规模](https://aihot.bt199.com/news/24accd016592/)
-   - 三场大型人工智能 IPO 产生的价值将超过 2000 年以来所有美国风险投资支持的退出
-   - `TechCrunch AI · 2026-07-09`
+2. [微软周二的补丁将会变得更大](https://aihot.bt199.com/news/5744fb497d4b/)
+   - Windows 11 更新可能很快就会包含更多安全问题的修复。微软在周四的一篇博客文章中表示，它现在正在使用人工智能“更…
+   - `The Verge AI · 2026-07-09`
 
-3. [下载：核里程碑，中国关注英伟达芯片](https://aihot.bt199.com/news/c3749aa35f8d/)
+3. [OpenAI 在政府批准后推出 GPT-5.6，并宣布“ChatGPT Work”](https://aihot.bt199.com/news/7f68bb355a3f/)
+   - OpenAI 的 GPT-5.6 陷入监管困境（在“有限预览”期间仅向政府批准的组织推出）大约两周后，该公司获得了特朗普…
+   - `The Verge AI · 2026-07-09`
+
+4. [下载：核里程碑，中国关注英伟达芯片](https://aihot.bt199.com/news/c3749aa35f8d/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。四个核反应堆在美国实现了一个重大里程…
    - `MIT Tech Review · 2026-07-09`
 
-4. [ChatGPT升级语音模式更能闭嘴](https://aihot.bt199.com/news/4fa3484613a6/)
-   - OpenAI 正在用一种新模型彻底改革 ChatGPT 的语音模式，据称该模型更像是“与另一个人交谈”。新的 GPT-L…
-   - `The Verge AI · 2026-07-08`
-
-5. [Meta的新Muse Image模型可以将其他Instagram用户拉入AI照片中](https://aihot.bt199.com/news/041d3e03c54a/)
-   - Meta 正在推出由其超级智能实验室部门制作的第一个人工智能图像生成模型。根据周二的公告，Muse Image 模型现已…
-   - `The Verge AI · 2026-07-07`
-
-6. [由于国内需求缓慢显现，美国稀土流向亚洲](https://aihot.bt199.com/news/1cb749a35d19/)
+5. [由于国内需求缓慢显现，美国稀土流向亚洲](https://aihot.bt199.com/news/1cb749a35d19/)
    - 得到特朗普政府支持的矿工。尽管大力发展国内供应链，但仍销往日本、韩国
    - `Ars Technica AI · 2026-07-08`
 
-7. [EmTech AI 2026：人工智能平台的崛起](https://aihot.bt199.com/news/df693c770abf/)
+6. [EmTech AI 2026：人工智能平台的崛起](https://aihot.bt199.com/news/df693c770abf/)
    - EmTech AI 2026：人工智能平台的崛起
    - `MIT Tech Review · 2026-07-08`
 
-8. [谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元](https://aihot.bt199.com/news/d7ac7d2c33e1/)
+7. [谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元](https://aihot.bt199.com/news/d7ac7d2c33e1/)
    - 这两个漏洞都允许不受信任的用户获得 root 权限
    - `Ars Technica AI · 2026-07-08`
 
@@ -131,6 +127,8 @@
 ---
 
 MIT License
+
+
 
 
 
