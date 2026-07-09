@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-07-08T19:41:57.010989",
+  "updated_at": "2026-07-09T03:42:44.947755",
   "total": 8,
   "hot_list": [
+    {
+      "title": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "name": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "title_zh": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-07-08",
+      "time": "2026-07-08",
+      "description": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "subtitle": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "ai_summary": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "category": "资讯",
+      "news_id": "16f0c7d55a20",
+      "internal_url": "https://aihot.bt199.com/news/16f0c7d55a20/",
+      "type_label": "📰 新闻"
+    },
     {
       "title": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
       "name": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
@@ -18,24 +36,6 @@
       "category": "资讯",
       "news_id": "e265f51e2cb7",
       "internal_url": "https://aihot.bt199.com/news/e265f51e2cb7/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "name": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "title_zh": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-07-08",
-      "time": "2026-07-08",
-      "description": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "subtitle": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "ai_summary": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "category": "资讯",
-      "news_id": "9c57f755e180",
-      "internal_url": "https://aihot.bt199.com/news/9c57f755e180/",
       "type_label": "📰 新闻"
     },
     {
@@ -111,24 +111,6 @@
       "type_label": "📰 新闻"
     },
     {
-      "title": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "name": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "title_zh": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "type": "news",
-      "source": "Ars Technica AI",
-      "score": 11,
-      "detail": "2026-07-08",
-      "time": "2026-07-08",
-      "description": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "subtitle": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "ai_summary": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "category": "资讯",
-      "news_id": "f56b56f54774",
-      "internal_url": "https://aihot.bt199.com/news/f56b56f54774/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "EmTech AI 2026：人工智能平台的崛起",
       "name": "EmTech AI 2026：人工智能平台的崛起",
       "title_zh": "EmTech AI 2026：人工智能平台的崛起",
@@ -144,11 +126,47 @@
       "category": "资讯",
       "news_id": "df693c770abf",
       "internal_url": "https://aihot.bt199.com/news/df693c770abf/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "name": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "title_zh": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "type": "news",
+      "source": "Ars Technica AI",
+      "score": 6,
+      "detail": "2026-07-08",
+      "time": "2026-07-08",
+      "description": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "subtitle": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "ai_summary": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "category": "资讯",
+      "news_id": "d7ac7d2c33e1",
+      "internal_url": "https://aihot.bt199.com/news/d7ac7d2c33e1/",
       "type_label": "📰 新闻"
     }
   ],
   "top_20": [
     {
+      "title": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "name": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "title_zh": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-07-08",
+      "time": "2026-07-08",
+      "description": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "subtitle": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "ai_summary": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "category": "资讯",
+      "news_id": "16f0c7d55a20",
+      "internal_url": "https://aihot.bt199.com/news/16f0c7d55a20/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
       "name": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
       "title_zh": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
@@ -164,24 +182,6 @@
       "category": "资讯",
       "news_id": "e265f51e2cb7",
       "internal_url": "https://aihot.bt199.com/news/e265f51e2cb7/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "name": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "title_zh": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-07-08",
-      "time": "2026-07-08",
-      "description": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "subtitle": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "ai_summary": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "category": "资讯",
-      "news_id": "9c57f755e180",
-      "internal_url": "https://aihot.bt199.com/news/9c57f755e180/",
       "type_label": "📰 新闻"
     },
     {
@@ -257,24 +257,6 @@
       "type_label": "📰 新闻"
     },
     {
-      "title": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "name": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "title_zh": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "type": "news",
-      "source": "Ars Technica AI",
-      "score": 11,
-      "detail": "2026-07-08",
-      "time": "2026-07-08",
-      "description": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "subtitle": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "ai_summary": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "category": "资讯",
-      "news_id": "f56b56f54774",
-      "internal_url": "https://aihot.bt199.com/news/f56b56f54774/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "EmTech AI 2026：人工智能平台的崛起",
       "name": "EmTech AI 2026：人工智能平台的崛起",
       "title_zh": "EmTech AI 2026：人工智能平台的崛起",
@@ -290,6 +272,24 @@
       "category": "资讯",
       "news_id": "df693c770abf",
       "internal_url": "https://aihot.bt199.com/news/df693c770abf/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "name": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "title_zh": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "type": "news",
+      "source": "Ars Technica AI",
+      "score": 6,
+      "detail": "2026-07-08",
+      "time": "2026-07-08",
+      "description": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "subtitle": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "ai_summary": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "category": "资讯",
+      "news_id": "d7ac7d2c33e1",
+      "internal_url": "https://aihot.bt199.com/news/d7ac7d2c33e1/",
       "type_label": "📰 新闻"
     }
   ],
@@ -301,6 +301,24 @@
   },
   "items": [
     {
+      "title": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "name": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "title_zh": "谷歌的深度伪造检测系统用于揭穿麦康奈尔骗局图片",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "type": "news",
+      "source": "TechCrunch AI",
+      "score": 15,
+      "detail": "2026-07-08",
+      "time": "2026-07-08",
+      "description": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "subtitle": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "ai_summary": "本周早些时候，一张照片似乎显示肯塔基州参议员米奇·麦康奈尔(Mitch McConnell)躺在医院病床上，处于极度痛苦…",
+      "category": "资讯",
+      "news_id": "16f0c7d55a20",
+      "internal_url": "https://aihot.bt199.com/news/16f0c7d55a20/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
       "name": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
       "title_zh": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
@@ -316,24 +334,6 @@
       "category": "资讯",
       "news_id": "e265f51e2cb7",
       "internal_url": "https://aihot.bt199.com/news/e265f51e2cb7/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "name": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "title_zh": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "type": "news",
-      "source": "TechCrunch AI",
-      "score": 15,
-      "detail": "2026-07-08",
-      "time": "2026-07-08",
-      "description": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "subtitle": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "ai_summary": "General Intuition 押注数百万小时的视频游戏数据可以训练物理人工智能的基础模型，从而更容易用最少的现实世…",
-      "category": "资讯",
-      "news_id": "9c57f755e180",
-      "internal_url": "https://aihot.bt199.com/news/9c57f755e180/",
       "type_label": "📰 新闻"
     },
     {
@@ -409,24 +409,6 @@
       "type_label": "📰 新闻"
     },
     {
-      "title": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "name": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "title_zh": "黑客可以使用 9 种最流行的人工智能工具来组装大规模僵尸网络",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "type": "news",
-      "source": "Ars Technica AI",
-      "score": 11,
-      "detail": "2026-07-08",
-      "time": "2026-07-08",
-      "description": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "subtitle": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "ai_summary": "“HalluSquatting”武器化了法学硕士无法说“我不知道”的情况",
-      "category": "资讯",
-      "news_id": "f56b56f54774",
-      "internal_url": "https://aihot.bt199.com/news/f56b56f54774/",
-      "type_label": "📰 新闻"
-    },
-    {
       "title": "EmTech AI 2026：人工智能平台的崛起",
       "name": "EmTech AI 2026：人工智能平台的崛起",
       "title_zh": "EmTech AI 2026：人工智能平台的崛起",
@@ -442,6 +424,24 @@
       "category": "资讯",
       "news_id": "df693c770abf",
       "internal_url": "https://aihot.bt199.com/news/df693c770abf/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "name": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "title_zh": "谷歌为允许客户虚拟机逃逸的 Linux 漏洞支付了 25 万美元",
+      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "type": "news",
+      "source": "Ars Technica AI",
+      "score": 6,
+      "detail": "2026-07-08",
+      "time": "2026-07-08",
+      "description": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "subtitle": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "ai_summary": "这两个漏洞都允许不受信任的用户获得 root 权限",
+      "category": "资讯",
+      "news_id": "d7ac7d2c33e1",
+      "internal_url": "https://aihot.bt199.com/news/d7ac7d2c33e1/",
       "type_label": "📰 新闻"
     }
   ]
