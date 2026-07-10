@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "据报道，7月7日，蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型LingBot-Depth 2.0。该模型基于1."
 summary_zh = ""
 tags = []
-list_page = 15
+list_page = 18
 +++
 
 <!-- AUTO-GENERATED: news page -->
