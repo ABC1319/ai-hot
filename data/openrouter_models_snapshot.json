@@ -1598,9 +1598,9 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.00000042",
-        "completion": "0.00000132",
-        "input_cache_read": "0.000000078"
+        "prompt": "0.000000406",
+        "completion": "0.000001276",
+        "input_cache_read": "0.0000000754"
       },
       "top_provider": {
         "context_length": 1048576,
@@ -1815,8 +1815,8 @@
       },
       "pricing": {
         "prompt": "0.00000072",
-        "completion": "0.00000349",
-        "input_cache_read": "0.000000159"
+        "completion": "0.0000035",
+        "input_cache_read": "0.00000015"
       },
       "top_provider": {
         "context_length": 262144,
@@ -6022,9 +6022,9 @@
         "instruct_type": null
       },
       "pricing": {
-        "prompt": "0.000000084",
-        "completion": "0.000000168",
-        "input_cache_read": "0.0000000168"
+        "prompt": "0.000000077",
+        "completion": "0.000000154",
+        "input_cache_read": "0.0000000154"
       },
       "top_provider": {
         "context_length": 1024000,
@@ -18351,7 +18351,7 @@
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": "2025-09-30",
-      "expiration_date": null,
+      "expiration_date": "2026-07-19",
       "links": {
         "details": "/api/v1/models/qwen/qwen3-next-80b-a3b-instruct-2509/endpoints"
       }
@@ -20780,7 +20780,7 @@
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": "2025-06-30",
-      "expiration_date": null,
+      "expiration_date": "2026-07-19",
       "links": {
         "details": "/api/v1/models/qwen/qwen3-coder-480b-a35b-07-25/endpoints"
       },
@@ -21274,7 +21274,7 @@
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": "2024-04-30",
-      "expiration_date": null,
+      "expiration_date": "2026-07-19",
       "links": {
         "details": "/api/v1/models/venice/uncensored/endpoints"
       }
@@ -25765,7 +25765,7 @@
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": "2023-12-31",
-      "expiration_date": null,
+      "expiration_date": "2026-07-19",
       "links": {
         "details": "/api/v1/models/meta-llama/llama-3.3-70b-instruct/endpoints"
       },
@@ -26602,7 +26602,7 @@
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": "2023-12-31",
-      "expiration_date": null,
+      "expiration_date": "2026-07-19",
       "links": {
         "details": "/api/v1/models/meta-llama/llama-3.2-3b-instruct/endpoints"
       }
@@ -26963,7 +26963,7 @@
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": "2023-12-31",
-      "expiration_date": null,
+      "expiration_date": "2026-07-19",
       "links": {
         "details": "/api/v1/models/nousresearch/hermes-3-llama-3.1-405b/endpoints"
       }
@@ -28492,5 +28492,5 @@
       }
     }
   ],
-  "updated_at": "2026-07-11T02:57:44.997122+00:00"
+  "updated_at": "2026-07-11T08:04:53.508785+00:00"
 }
