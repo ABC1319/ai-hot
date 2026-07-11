@@ -9443,6 +9443,32 @@
     "is_core": true
   },
   {
+    "id": "hf-JohnNguyen001--unet-with-metadata",
+    "name": "JohnNguyen001/unet-with-metadata",
+    "display_name": "unet-with-metadata",
+    "url": "https://huggingface.co/JohnNguyen001/unet-with-metadata",
+    "author": "JohnNguyen001",
+    "pipeline_tag": "image-segmentation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "segmentation-models-pytorch",
+      "safetensors",
+      "model_hub_mixin",
+      "pytorch_model_hub_mixin",
+      "semantic-segmentation",
+      "pytorch",
+      "image-segmentation",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-07-11T02:47:37.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-07-11T02:57:08.837129",
+    "display_priority": 296,
+    "is_core": true
+  },
+  {
     "id": "hf-zxb111--colpali-v1.3",
     "name": "zxb111/colpali-v1.3",
     "display_name": "colpali-v1.3",
@@ -9470,7 +9496,7 @@
     "created_at": "2026-06-23T02:21:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-23T02:32:58.759214",
-    "display_priority": 296,
+    "display_priority": 297,
     "is_core": true
   },
   {
@@ -9496,7 +9522,7 @@
     "created_at": "2026-06-24T14:07:55.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-24T14:12:24.113118",
-    "display_priority": 297,
+    "display_priority": 298,
     "is_core": true
   },
   {
@@ -9528,7 +9554,7 @@
     "created_at": "2026-07-05T03:35:02.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-05T03:50:35.468038",
-    "display_priority": 298,
+    "display_priority": 299,
     "is_core": true
   },
   {
@@ -9551,7 +9577,7 @@
     "created_at": "2026-06-26T02:20:40.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461908",
-    "display_priority": 299,
+    "display_priority": 300,
     "is_core": true
   },
   {
@@ -9574,7 +9600,7 @@
     "created_at": "2026-06-26T02:20:34.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461914",
-    "display_priority": 300,
+    "display_priority": 301,
     "is_core": true
   },
   {
@@ -9597,7 +9623,7 @@
     "created_at": "2026-06-26T02:20:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461916",
-    "display_priority": 301,
+    "display_priority": 302,
     "is_core": true
   }
 ]
