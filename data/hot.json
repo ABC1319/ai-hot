@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T08:27:05.531316",
+  "updated_at": "2026-07-12T13:32:45.676377",
   "total": 8,
   "hot_list": [
     {
@@ -39,6 +39,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "对抗人工智能数据中心的战斗才刚刚开始",
+      "name": "对抗人工智能数据中心的战斗才刚刚开始",
+      "title_zh": "对抗人工智能数据中心的战斗才刚刚开始",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-12",
+      "time": "2026-07-12",
+      "description": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "subtitle": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "ai_summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "category": "资讯",
+      "news_id": "5478e49d29a9",
+      "internal_url": "https://aihot.bt199.com/news/5478e49d29a9/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
       "name": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
       "title_zh": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
@@ -54,24 +72,6 @@
       "category": "资讯",
       "news_id": "c5c58f59ae8d",
       "internal_url": "https://aihot.bt199.com/news/c5c58f59ae8d/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "name": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "title_zh": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-10",
-      "time": "2026-07-10",
-      "description": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "subtitle": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "ai_summary": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "category": "资讯",
-      "news_id": "82c4cd266998",
-      "internal_url": "https://aihot.bt199.com/news/82c4cd266998/",
       "type_label": "📰 新闻"
     },
     {
@@ -185,6 +185,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "对抗人工智能数据中心的战斗才刚刚开始",
+      "name": "对抗人工智能数据中心的战斗才刚刚开始",
+      "title_zh": "对抗人工智能数据中心的战斗才刚刚开始",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-12",
+      "time": "2026-07-12",
+      "description": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "subtitle": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "ai_summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "category": "资讯",
+      "news_id": "5478e49d29a9",
+      "internal_url": "https://aihot.bt199.com/news/5478e49d29a9/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
       "name": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
       "title_zh": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
@@ -200,24 +218,6 @@
       "category": "资讯",
       "news_id": "c5c58f59ae8d",
       "internal_url": "https://aihot.bt199.com/news/c5c58f59ae8d/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "name": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "title_zh": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-10",
-      "time": "2026-07-10",
-      "description": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "subtitle": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "ai_summary": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "category": "资讯",
-      "news_id": "82c4cd266998",
-      "internal_url": "https://aihot.bt199.com/news/82c4cd266998/",
       "type_label": "📰 新闻"
     },
     {
@@ -337,6 +337,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "对抗人工智能数据中心的战斗才刚刚开始",
+      "name": "对抗人工智能数据中心的战斗才刚刚开始",
+      "title_zh": "对抗人工智能数据中心的战斗才刚刚开始",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-12",
+      "time": "2026-07-12",
+      "description": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "subtitle": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "ai_summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关数据中心建设的更多信息，请关注 Em…",
+      "category": "资讯",
+      "news_id": "5478e49d29a9",
+      "internal_url": "https://aihot.bt199.com/news/5478e49d29a9/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
       "name": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
       "title_zh": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
@@ -352,24 +370,6 @@
       "category": "资讯",
       "news_id": "c5c58f59ae8d",
       "internal_url": "https://aihot.bt199.com/news/c5c58f59ae8d/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "name": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "title_zh": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-10",
-      "time": "2026-07-10",
-      "description": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "subtitle": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "ai_summary": "苹果起诉 OpenAI，指控工程师窃取苹果机密以推进这家人工智能初创公司的硬件计划。苹果在诉状中表示，它发现了“苹果前…",
-      "category": "资讯",
-      "news_id": "82c4cd266998",
-      "internal_url": "https://aihot.bt199.com/news/82c4cd266998/",
       "type_label": "📰 新闻"
     },
     {
