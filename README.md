@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-13 17:38:45
+🕐 **最近更新**：2026-07-13 22:46:57
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,29 +16,29 @@
 
 ## 🔥 今日热点
 
-1. [随着 ChatGPT 深入家庭，OpenAI 押注家庭](https://aihot.bt199.com/news/b9b468358fa6/)
+1. [位智添加了新的人工智能功能和定制更新](https://aihot.bt199.com/news/e05cb5c1953d/)
+   - 一些新功能由谷歌的 Gemini AI 助手提供支持，这反映出这家科技巨头更广泛地推动将 Gemini 集成到其产品中…
+   - `TechCrunch AI · 2026-07-13`
+
+2. [随着 ChatGPT 深入家庭，OpenAI 押注家庭](https://aihot.bt199.com/news/b9b468358fa6/)
    - 根据招聘信息，ChatGPT 正在招聘一名专门的产品经理，为家庭、护理人员和老年人打造体验
    - `TechCrunch AI · 2026-07-11`
 
-2. [强烈反对后，Meta 删除了 Instagram 上有争议的人工智能功能](https://aihot.bt199.com/news/312c742d69a6/)
-   - 该公司在一篇博客文章中表示：“我们的目的是提供一个有用的创意工具，让人们控制他们的公开内容是否可以通过这种方式引用。”…
-   - `TechCrunch AI · 2026-07-10`
+3. [下载：捐赠者受孕上限和人工智能世界模型](https://aihot.bt199.com/news/9b905ecd94cb/)
+   - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。欧洲生育组织 Ties van de…
+   - `MIT Tech Review · 2026-07-13`
 
-3. [Waze 获得了一系列新的人工智能功能](https://aihot.bt199.com/news/b395493f3c08/)
+4. [Waze 获得了一系列新的人工智能功能](https://aihot.bt199.com/news/b395493f3c08/)
    - Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…
    - `The Verge AI · 2026-07-13`
 
-4. [洛德表示雷朋 Meta AI 眼镜“并不性感”](https://aihot.bt199.com/news/dd4ae4b81f35/)
+5. [洛德表示雷朋 Meta AI 眼镜“并不性感”](https://aihot.bt199.com/news/dd4ae4b81f35/)
    - 周四，洛德在马德里的 Real Cool 音乐节上表演，并在演出期间花了一些时间公开反对人工智能眼镜。虽然她没有具体指定…
    - `The Verge AI · 2026-07-12`
 
-5. [下载：Claude 的内部运作和 OpenAI 的“超级应用程序”](https://aihot.bt199.com/news/8e9121e5dcc9/)
+6. [下载：Claude 的内部运作和 OpenAI 的“超级应用程序”](https://aihot.bt199.com/news/8e9121e5dcc9/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。 Anthropic 发现了一个隐藏…
    - `MIT Tech Review · 2026-07-10`
-
-6. [人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑](https://aihot.bt199.com/news/a90a0d3e9300/)
-   - 人工智能公司 Anthropic 开发了一种技术，可以让人们最清晰地了解大型语言模型在回答问题或执行任务时内部到底发生了…
-   - `MIT Tech Review · 2026-07-09`
 
 7. [由于国内需求缓慢显现，美国稀土流向亚洲](https://aihot.bt199.com/news/1cb749a35d19/)
    - 得到特朗普政府支持的矿工。尽管大力发展国内供应链，但仍销往日本、韩国
@@ -131,6 +131,8 @@
 ---
 
 MIT License
+
+
 
 
 
