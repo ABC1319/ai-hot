@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T03:27:30.235937",
+  "updated_at": "2026-07-13T09:38:44.870811",
   "total": 8,
   "hot_list": [
     {
@@ -39,6 +39,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "Waze 获得了一系列新的人工智能功能",
+      "name": "Waze 获得了一系列新的人工智能功能",
+      "title_zh": "Waze 获得了一系列新的人工智能功能",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-13",
+      "time": "2026-07-13",
+      "description": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "subtitle": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "ai_summary": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "category": "资讯",
+      "news_id": "b395493f3c08",
+      "internal_url": "https://aihot.bt199.com/news/b395493f3c08/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
       "name": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
       "title_zh": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
@@ -54,24 +72,6 @@
       "category": "资讯",
       "news_id": "dd4ae4b81f35",
       "internal_url": "https://aihot.bt199.com/news/dd4ae4b81f35/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "name": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "title_zh": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-12",
-      "time": "2026-07-12",
-      "description": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "subtitle": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "ai_summary": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "category": "资讯",
-      "news_id": "8f4dc6d90b88",
-      "internal_url": "https://aihot.bt199.com/news/8f4dc6d90b88/",
       "type_label": "📰 新闻"
     },
     {
@@ -185,6 +185,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "Waze 获得了一系列新的人工智能功能",
+      "name": "Waze 获得了一系列新的人工智能功能",
+      "title_zh": "Waze 获得了一系列新的人工智能功能",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-13",
+      "time": "2026-07-13",
+      "description": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "subtitle": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "ai_summary": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "category": "资讯",
+      "news_id": "b395493f3c08",
+      "internal_url": "https://aihot.bt199.com/news/b395493f3c08/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
       "name": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
       "title_zh": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
@@ -200,24 +218,6 @@
       "category": "资讯",
       "news_id": "dd4ae4b81f35",
       "internal_url": "https://aihot.bt199.com/news/dd4ae4b81f35/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "name": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "title_zh": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-12",
-      "time": "2026-07-12",
-      "description": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "subtitle": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "ai_summary": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "category": "资讯",
-      "news_id": "8f4dc6d90b88",
-      "internal_url": "https://aihot.bt199.com/news/8f4dc6d90b88/",
       "type_label": "📰 新闻"
     },
     {
@@ -337,6 +337,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "Waze 获得了一系列新的人工智能功能",
+      "name": "Waze 获得了一系列新的人工智能功能",
+      "title_zh": "Waze 获得了一系列新的人工智能功能",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-13",
+      "time": "2026-07-13",
+      "description": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "subtitle": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "ai_summary": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
+      "category": "资讯",
+      "news_id": "b395493f3c08",
+      "internal_url": "https://aihot.bt199.com/news/b395493f3c08/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
       "name": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
       "title_zh": "洛德表示雷朋 Meta AI 眼镜“并不性感”",
@@ -352,24 +370,6 @@
       "category": "资讯",
       "news_id": "dd4ae4b81f35",
       "internal_url": "https://aihot.bt199.com/news/dd4ae4b81f35/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "name": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "title_zh": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-12",
-      "time": "2026-07-12",
-      "description": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "subtitle": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "ai_summary": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意…",
-      "category": "资讯",
-      "news_id": "8f4dc6d90b88",
-      "internal_url": "https://aihot.bt199.com/news/8f4dc6d90b88/",
       "type_label": "📰 新闻"
     },
     {
