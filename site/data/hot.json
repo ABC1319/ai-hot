@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T02:53:11.646577",
+  "updated_at": "2026-07-14T08:17:28.538822",
   "total": 7,
   "hot_list": [
     {
@@ -18,6 +18,24 @@
       "category": "资讯",
       "news_id": "1445c1679aea",
       "internal_url": "https://aihot.bt199.com/news/1445c1679aea/",
+      "type_label": "📰 新闻"
+    },
+    {
+      "title": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "name": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "title_zh": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-13",
+      "time": "2026-07-13",
+      "description": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "subtitle": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "ai_summary": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "category": "资讯",
+      "news_id": "795b5c34bb1b",
+      "internal_url": "https://aihot.bt199.com/news/795b5c34bb1b/",
       "type_label": "📰 新闻"
     },
     {
@@ -72,24 +90,6 @@
       "category": "资讯",
       "news_id": "9b905ecd94cb",
       "internal_url": "https://aihot.bt199.com/news/9b905ecd94cb/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Waze 获得了一系列新的人工智能功能",
-      "name": "Waze 获得了一系列新的人工智能功能",
-      "title_zh": "Waze 获得了一系列新的人工智能功能",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-13",
-      "time": "2026-07-13",
-      "description": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "subtitle": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "ai_summary": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "category": "资讯",
-      "news_id": "b395493f3c08",
-      "internal_url": "https://aihot.bt199.com/news/b395493f3c08/",
       "type_label": "📰 新闻"
     },
     {
@@ -149,6 +149,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "name": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "title_zh": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-13",
+      "time": "2026-07-13",
+      "description": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "subtitle": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "ai_summary": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "category": "资讯",
+      "news_id": "795b5c34bb1b",
+      "internal_url": "https://aihot.bt199.com/news/795b5c34bb1b/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
       "name": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
       "title_zh": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
@@ -200,24 +218,6 @@
       "category": "资讯",
       "news_id": "9b905ecd94cb",
       "internal_url": "https://aihot.bt199.com/news/9b905ecd94cb/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Waze 获得了一系列新的人工智能功能",
-      "name": "Waze 获得了一系列新的人工智能功能",
-      "title_zh": "Waze 获得了一系列新的人工智能功能",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-13",
-      "time": "2026-07-13",
-      "description": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "subtitle": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "ai_summary": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "category": "资讯",
-      "news_id": "b395493f3c08",
-      "internal_url": "https://aihot.bt199.com/news/b395493f3c08/",
       "type_label": "📰 新闻"
     },
     {
@@ -283,6 +283,24 @@
       "type_label": "📰 新闻"
     },
     {
+      "title": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "name": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "title_zh": "Siri AI 已经在改变我使用 iPhone 的方式",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "type": "news",
+      "source": "The Verge AI",
+      "score": 13,
+      "detail": "2026-07-13",
+      "time": "2026-07-13",
+      "description": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "subtitle": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "ai_summary": "iOS 27 今天随着第一个公开测试版的推出而脱离了开发者世界。自 6 月初以来，我一直在测试新操作系统，寻找怪异之处…",
+      "category": "资讯",
+      "news_id": "795b5c34bb1b",
+      "internal_url": "https://aihot.bt199.com/news/795b5c34bb1b/",
+      "type_label": "📰 新闻"
+    },
+    {
       "title": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
       "name": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
       "title_zh": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
@@ -334,24 +352,6 @@
       "category": "资讯",
       "news_id": "9b905ecd94cb",
       "internal_url": "https://aihot.bt199.com/news/9b905ecd94cb/",
-      "type_label": "📰 新闻"
-    },
-    {
-      "title": "Waze 获得了一系列新的人工智能功能",
-      "name": "Waze 获得了一系列新的人工智能功能",
-      "title_zh": "Waze 获得了一系列新的人工智能功能",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "type": "news",
-      "source": "The Verge AI",
-      "score": 13,
-      "detail": "2026-07-13",
-      "time": "2026-07-13",
-      "description": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "subtitle": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "ai_summary": "Waze 正在进行人工智能改造。谷歌正在将其旗舰人工智能助手 Gemini 集成到驾驶应用程序中，目的是让用户更加个性化…",
-      "category": "资讯",
-      "news_id": "b395493f3c08",
-      "internal_url": "https://aihot.bt199.com/news/b395493f3c08/",
       "type_label": "📰 新闻"
     },
     {

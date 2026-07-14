@@ -5345,6 +5345,30 @@
     "is_core": true
   },
   {
+    "id": "hf-ToolathlonBot--MyAwesomeModel-TestRepo",
+    "name": "ToolathlonBot/MyAwesomeModel-TestRepo",
+    "display_name": "MyAwesomeModel-TestRepo",
+    "url": "https://huggingface.co/ToolathlonBot/MyAwesomeModel-TestRepo",
+    "author": "ToolathlonBot",
+    "pipeline_tag": "feature-extraction",
+    "likes": 0,
+    "downloads": 2446,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "bert",
+      "feature-extraction",
+      "license:mit",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-07-14T07:58:09.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-07-14T08:15:49.274351",
+    "display_priority": 145,
+    "is_core": true
+  },
+  {
     "id": "hf-kushwanth222--sms-spam-detector-distilbert-nagur",
     "name": "kushwanth222/sms-spam-detector-distilbert-nagur",
     "display_name": "sms-spam-detector-distilbert-nagur",
@@ -5366,7 +5390,7 @@
     "created_at": "2026-07-03T09:20:29.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-03T09:27:06.599390",
-    "display_priority": 145,
+    "display_priority": 146,
     "is_core": true
   },
   {
@@ -5390,7 +5414,7 @@
     "created_at": "2026-06-30T08:44:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T09:00:51.850221",
-    "display_priority": 146,
+    "display_priority": 147,
     "is_core": true
   },
   {
@@ -5419,7 +5443,7 @@
     "created_at": "2026-06-30T19:41:51.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T19:46:24.754445",
-    "display_priority": 147,
+    "display_priority": 148,
     "is_core": true
   },
   {
@@ -5447,7 +5471,7 @@
     "created_at": "2026-07-11T13:16:37.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-11T13:29:41.169559",
-    "display_priority": 148,
+    "display_priority": 149,
     "is_core": true
   },
   {
@@ -5474,7 +5498,7 @@
     "created_at": "2026-05-01T12:57:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T13:13:50.687297",
-    "display_priority": 149,
+    "display_priority": 150,
     "is_core": true
   },
   {
@@ -5498,30 +5522,6 @@
     "created_at": "2026-06-20T13:37:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-20T13:45:32.150438",
-    "display_priority": 150,
-    "is_core": true
-  },
-  {
-    "id": "hf-sddsdf44--MyAwesomeModel-TestRepo",
-    "name": "sddsdf44/MyAwesomeModel-TestRepo",
-    "display_name": "MyAwesomeModel-TestRepo",
-    "url": "https://huggingface.co/sddsdf44/MyAwesomeModel-TestRepo",
-    "author": "sddsdf44",
-    "pipeline_tag": "feature-extraction",
-    "likes": 1,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "pytorch",
-      "bert",
-      "feature-extraction",
-      "license:mit",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-07-06T10:24:12.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-07-06T10:46:50.486824",
     "display_priority": 151,
     "is_core": true
   },
