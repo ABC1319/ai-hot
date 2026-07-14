@@ -3888,6 +3888,31 @@
     "is_core": true
   },
   {
+    "id": "hf-conradlocke--krea2-identity-edit",
+    "name": "conradlocke/krea2-identity-edit",
+    "display_name": "krea2-identity-edit",
+    "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+    "author": "conradlocke",
+    "pipeline_tag": "",
+    "likes": 258,
+    "downloads": 0,
+    "tags": [
+      "image-editing",
+      "lora",
+      "comfyui",
+      "krea-2",
+      "base_model:krea/Krea-2-Raw",
+      "base_model:adapter:krea/Krea-2-Raw",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-07-07T14:28:55.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-07-14T02:49:11.855161",
+    "display_priority": 102,
+    "is_core": true
+  },
+  {
     "id": "hf-ByteDance--Bernini-R",
     "name": "ByteDance/Bernini-R",
     "display_name": "Bernini-R",
@@ -3907,7 +3932,7 @@
     "created_at": "2026-06-01T03:04:03.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-17T11:23:27.131949",
-    "display_priority": 102,
+    "display_priority": 103,
     "is_core": true
   },
   {
@@ -3929,7 +3954,7 @@
     "created_at": "2026-04-20T10:43:41.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-07T08:22:33.650143",
-    "display_priority": 103,
+    "display_priority": 104,
     "is_core": true
   },
   {
@@ -3949,34 +3974,6 @@
     "created_at": "2026-06-16T22:31:20.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-01T14:47:08.222507",
-    "display_priority": 104,
-    "is_core": true
-  },
-  {
-    "id": "hf-Cactus-Compute--needle",
-    "name": "Cactus-Compute/needle",
-    "display_name": "needle",
-    "url": "https://huggingface.co/Cactus-Compute/needle",
-    "author": "Cactus-Compute",
-    "pipeline_tag": "",
-    "likes": 207,
-    "downloads": 235,
-    "tags": [
-      "jax",
-      "safetensors",
-      "needle",
-      "function-calling",
-      "tool-use",
-      "encoder-decoder",
-      "edge",
-      "on-device",
-      "flax",
-      "license:mit",
-      "region:us"
-    ],
-    "created_at": "2026-03-16T04:01:31.000Z",
-    "source": "hf-trending",
-    "collected_at": "2026-07-13T19:29:28.130156",
     "display_priority": 105,
     "is_core": true
   },
@@ -9508,6 +9505,56 @@
     "is_core": true
   },
   {
+    "id": "hf-baby2008--u2net-onnx",
+    "name": "baby2008/u2net-onnx",
+    "display_name": "u2net-onnx",
+    "url": "https://huggingface.co/baby2008/u2net-onnx",
+    "author": "baby2008",
+    "pipeline_tag": "image-segmentation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "onnx",
+      "image-segmentation",
+      "salient-object-detection",
+      "background-removal",
+      "u2net",
+      "en",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-07-14T02:33:54.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-07-14T02:49:11.937078",
+    "display_priority": 297,
+    "is_core": true
+  },
+  {
+    "id": "hf-baby2008--RMBG-2.0-ONNX",
+    "name": "baby2008/RMBG-2.0-ONNX",
+    "display_name": "RMBG-2.0-ONNX",
+    "url": "https://huggingface.co/baby2008/RMBG-2.0-ONNX",
+    "author": "baby2008",
+    "pipeline_tag": "image-segmentation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "onnx",
+      "birefnet",
+      "background-removal",
+      "remove-background",
+      "image-segmentation",
+      "custom_code",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ],
+    "created_at": "2026-07-14T02:32:40.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-07-14T02:49:11.937088",
+    "display_priority": 298,
+    "is_core": true
+  },
+  {
     "id": "hf-zxb111--colpali-v1.3",
     "name": "zxb111/colpali-v1.3",
     "display_name": "colpali-v1.3",
@@ -9535,7 +9582,7 @@
     "created_at": "2026-06-23T02:21:15.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-23T02:32:58.759214",
-    "display_priority": 297,
+    "display_priority": 299,
     "is_core": true
   },
   {
@@ -9561,7 +9608,7 @@
     "created_at": "2026-06-24T14:07:55.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-24T14:12:24.113118",
-    "display_priority": 298,
+    "display_priority": 300,
     "is_core": true
   },
   {
@@ -9593,7 +9640,7 @@
     "created_at": "2026-07-05T03:35:02.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-05T03:50:35.468038",
-    "display_priority": 299,
+    "display_priority": 301,
     "is_core": true
   },
   {
@@ -9616,7 +9663,7 @@
     "created_at": "2026-06-26T02:20:40.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461908",
-    "display_priority": 300,
+    "display_priority": 302,
     "is_core": true
   },
   {
@@ -9639,7 +9686,7 @@
     "created_at": "2026-06-26T02:20:34.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461914",
-    "display_priority": 301,
+    "display_priority": 303,
     "is_core": true
   },
   {
@@ -9662,7 +9709,7 @@
     "created_at": "2026-06-26T02:20:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-26T02:38:00.461916",
-    "display_priority": 302,
+    "display_priority": 304,
     "is_core": true
   },
   {
@@ -9682,7 +9729,7 @@
     "created_at": "2026-07-13T02:59:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-13T03:24:58.996401",
-    "display_priority": 303,
+    "display_priority": 305,
     "is_core": true
   },
   {
@@ -9714,7 +9761,7 @@
     "created_at": "2026-07-13T19:10:29.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-13T19:29:28.234031",
-    "display_priority": 304,
+    "display_priority": 306,
     "is_core": true
   }
 ]
