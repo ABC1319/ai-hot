@@ -642,7 +642,10 @@ Competitive with top open models at an equivalent scale of 8B and 70B parameters
 &lt;p&gt;据悉，刚才我调用 OpenAI 的 Responses API 时发现响应中多了一个参数：reasoning.&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://linux.do/t/topic/2482678"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Apple产品全面涨价，这意味着什么？</title><link>https://aihot.bt199.com/news/1beb7e7672c0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1beb7e7672c0/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://linux.do/t/topic/2482678"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Apple Intelligence 获准与阿里巴巴 Qwen AI 一起在中国推出</title><link>https://aihot.bt199.com/news/d3f280f36006/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/d3f280f36006/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Apple Intelligence, the iPhone maker’s generative AI offering, is coming to China.&lt;/p&gt;
+&lt;p&gt;On Wednesday, Reuters reported that China’s regulator, the Cyberspace Administration of China, approved Apple’s AI services in the country, on the back of a deal to integrate Alibaba’s Qwen AI model into Apple’s operating systems, including iOS, iPadOS, macOS, and visionOS.
+The deal, which was rumored to be in the works last year, marks an important step for Apple’s AI ambitions in a key market.&lt;/p&gt;</description></item><item><title>Apple产品全面涨价，这意味着什么？</title><link>https://aihot.bt199.com/news/1beb7e7672c0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1beb7e7672c0/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，iPad Pro：10799 起 iPad Air：5999 起 MacBook Neo：5499 起 MacBook Air：9999 起 MacBook Pro：15999 起 HomePod：2699 HomePod mini：999 iPhone 目前暂无涨价 4 个帖子 - 3 位参与者 &amp;hellip;&lt;/p&gt;</description></item><item><title>Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务</title><link>https://aihot.bt199.com/news/917b29e0a7c1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/917b29e0a7c1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Just eight months after launching its commercial service, AI leaderboard provider
 Arena
@@ -1269,7 +1272,14 @@ xAI正式成为Amazon Bedrock的模型供应商之一
 &lt;p&gt;有分析指出，今天凌晨收到Groq发的邮件，将要升级云服务。&lt;/p&gt;
 &lt;p&gt;groq目前都是些小参数模型，最新的是qwen3.6-27b，groq的优点就是快，但是tpm很低，没法在agent使用。&lt;/p&gt;</description></item><item><title>GTLC 杭州站回顾｜AI 创业进入深水区，技术领导者都在关注什么？，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/2b28bdf2e44b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2b28bdf2e44b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;2026 年 6 月 27 日，TGO 杭州十周年庆 · GTLC 全球科技领导力大会·杭州站圆满举办！&lt;/p&gt;
-&lt;p&gt;本次大会以“新十年一起，做 AI 做的事”为主题，既是对 TGO 鲲鹏会（杭州）走过十年历程的深情回望，更是对下一个十年与 AI 同行的共同宣言。&lt;/p&gt;</description></item><item><title>Hermes 代理制造商 Nous Research 正在以 1.5B 美元估值洽谈新融资</title><link>https://aihot.bt199.com/news/102e5c971823/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/102e5c971823/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;本次大会以“新十年一起，做 AI 做的事”为主题，既是对 TGO 鲲鹏会（杭州）走过十年历程的深情回望，更是对下一个十年与 AI 同行的共同宣言。&lt;/p&gt;</description></item><item><title>Hack 建议 AI 音乐生成器 Suno 抓取 YouTube 上的训练数据</title><link>https://aihot.bt199.com/news/ed41beb09c12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ed41beb09c12/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;The AI music generator Suno was hacked, according to a report from
+404 Media
+.
+The hacker told the publication that they used a supply chain attack in November to access an employee’s credentials, allowing them to then access source code showing how Suno allegedly scraped decades of audio from YouTube Music, Deezer, Genius, stock music libraries, and podcast RSS feeds.
+Suno previously
+admitted
+that it trains its AI on “publicly available music files” on the open internet, arguing that it can train on copyrighted material under the fair use doctrine, a subjective carve-out of copyright law.&lt;/p&gt;</description></item><item><title>Hermes 代理制造商 Nous Research 正在以 1.5B 美元估值洽谈新融资</title><link>https://aihot.bt199.com/news/102e5c971823/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/102e5c971823/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Nous Research, the startup behind the open-source Hermes agent, is finalizing a new round of funding led by Robot Ventures, with significant participation from USV and other prominent investors at a $1.5 billion valuation, according to three sources with knowledge of the deal.&lt;/p&gt;
 &lt;p&gt;The company is raising at least $75 million, and fielded a high level of interest from investors, according to the people.
 Nous Research declined to comment.&lt;/p&gt;</description></item><item><title>Hinge 创始人筹集了 1800 万美元来打造新的人工智能约会服务 Overtone</title><link>https://aihot.bt199.com/news/41138521bbab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/41138521bbab/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -1346,14 +1356,28 @@ His new startup,
 Hang Ten Systems
 , has raised a $32 million seed round led by Mayfield,
 it said Wednesday
-, with a strategic investment from Aramco Ventures and participation from angel investors.&lt;/p&gt;</description></item><item><title>Instagram 的 Adam Mosseri：如果你不喜欢人工智能，“那么你就不应该把它放在你的动态中”</title><link>https://aihot.bt199.com/news/25a8c727f0cd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/25a8c727f0cd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+, with a strategic investment from Aramco Ventures and participation from angel investors.&lt;/p&gt;</description></item><item><title>Inkling – Open-Weights 975B 参数法学硕士</title><link>https://aihot.bt199.com/news/fde0fb398fa4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/fde0fb398fa4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Inkling
+Open weights, ready to tinker
+An efficient open model for text, images, and audio, available to fine-tune.
+Model at a glance
+975B total, 41B active
+Parameters
+Mixture of Experts
+Architecture
+1M tokens
+Context window&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://thinkingmachines.ai/inkling/"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Instagram 的 Adam Mosseri：如果你不喜欢人工智能，“那么你就不应该把它放在你的动态中”</title><link>https://aihot.bt199.com/news/25a8c727f0cd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/25a8c727f0cd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Though Instagram head Adam Mosseri doesn’t want to filter out AI content on the platform, he argues that you “shouldn’t have it in your feed” if you don’t like it.&lt;/p&gt;
 &lt;p&gt;“I don’t think we should filter out AI content,” Mosseri said during an interview on Lenny Rachitsky’s podcast.&lt;/p&gt;</description></item><item><title>Instagram 用户：以下是如何阻止 Meta 的 AI 使用您的照片</title><link>https://aihot.bt199.com/news/21a90f4f28e4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/21a90f4f28e4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;On Tuesday, Meta launched “Muse Image,” a new AI image-generation feature that allows users to create original images, edit existing photos, and even generate custom ads directly within its apps.
 But one capability has quickly become the center of controversy.
 Muse Image allows users to generate AI images using photos from public Instagram accounts.&lt;/p&gt;
 &lt;p&gt;As long as a person’s profile is public, another user can tag that account and use their images as part of an AI-generated creation.&lt;/p&gt;</description></item><item><title>iOS 27 Beta 2 固件代码出现百度视觉搜索，业内人士怎么看？</title><link>https://aihot.bt199.com/news/22a1c33bd86b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/22a1c33bd86b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;有分析指出，ithome.com 苹果 iOS 27 Beta 2 固件代码曝光，百度视觉搜索组件现身 - IT之家 苹果 iOS 27 Beta 2 固件代码中新增了名为“SearchPartnerInferenceProvider”的组件，明确提及“Baidu Visual Search”。&lt;/p&gt;</description></item><item><title>IT 领导者需要扩展的 AI 架构的基本元素</title><link>https://aihot.bt199.com/news/34dc6f6de3b4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/34dc6f6de3b4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;有分析指出，ithome.com 苹果 iOS 27 Beta 2 固件代码曝光，百度视觉搜索组件现身 - IT之家 苹果 iOS 27 Beta 2 固件代码中新增了名为“SearchPartnerInferenceProvider”的组件，明确提及“Baidu Visual Search”。&lt;/p&gt;</description></item><item><title>IPO前夜，阶跃星辰想用一款 Agent 手机给市场吃一颗定心丸，业内人士怎么看？</title><link>https://aihot.bt199.com/news/648ccb8efac0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/648ccb8efac0/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;7 月 13 日晚，上海花园礼堂，阶跃星辰一口气发布了终端品牌 STEPX、智能体操作系统 Step AOS、个人智能体 Amoo，并让首款智能体手机 STEPX Neo 公开亮相。&lt;/p&gt;</description></item><item><title>IT 领导者需要扩展的 AI 架构的基本元素</title><link>https://aihot.bt199.com/news/34dc6f6de3b4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/34dc6f6de3b4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Sponsored
 In partnership withElastic
 With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow.&lt;/p&gt;
@@ -1642,7 +1666,17 @@ AI时代苟日新，日日新，又日新，
 数据库&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.qbitai.com/2026/07/441386.html"&gt;量子位原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>OfficeCLI：供 AI 代理读取和编辑 Microsoft Office 文件的 Office 套件</title><link>https://aihot.bt199.com/news/c7871622e500/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c7871622e500/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://www.qbitai.com/2026/07/441386.html"&gt;量子位原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Ode with Anthropic 内部，这家初创公司押注人工智能服务是企业的未来</title><link>https://aihot.bt199.com/news/abe5db521872/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/abe5db521872/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman &amp;amp; Friedman, Goldman Sachs and others.
+On this episode of TechCrunch’s
+Equity
+podcast, Rebecca Bellan sits down with Ode’s leaders
+Chris Taylor
+and
+Eddie Siegel,
+who founded Fractional AI, the applied AI services startup that Ode
+acquired earlier this year
+to serve as the new venture’s core.&lt;/p&gt;</description></item><item><title>OfficeCLI：供 AI 代理读取和编辑 Microsoft Office 文件的 Office 套件</title><link>https://aihot.bt199.com/news/c7871622e500/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c7871622e500/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;OfficeCLI is the world&amp;rsquo;s first and the best Office suite designed for AI agents.
 Give any AI agent full control over Word, Excel, and PowerPoint — in one line of code.
 Open-source.&lt;/p&gt;
@@ -1801,7 +1835,14 @@ video-generation tool Sora
 OpenAI is teasing new hardware… for Codex
 A new video shows a Codex-focused device built in collaboration with Work Louder.
 A new video shows a Codex-focused device built in collaboration with Work Louder.
-This isn’t the mysterious AI-powered device OpenAI is working on with former Apple designer Jony Ive, however.&lt;/p&gt;</description></item><item><title>OpenAI：对其他公司的商业秘密不感兴趣，仍专注于打造创新技术，这意味着什么？</title><link>https://aihot.bt199.com/news/2ca83485770c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2ca83485770c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+This isn’t the mysterious AI-powered device OpenAI is working on with former Apple designer Jony Ive, however.&lt;/p&gt;</description></item><item><title>OpenAI 终于为 Codex 推出了硬件</title><link>https://aihot.bt199.com/news/ff658b1af0b4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ff658b1af0b4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;OpenAI is finally releasing some hardware.&lt;/p&gt;
+&lt;p&gt;No, it isn’t the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.&lt;/p&gt;
+&lt;p&gt;Instead, it’s a product designed to be used with its coding platform, Codex.
+OpenAI finally launches hardware… for Codex
+The collaboration with Work Louder is separate from OpenAI’s main hardware project, rumored to be some kind of smart speaker.
+The collaboration with Work Louder is separate from OpenAI’s main hardware project, rumored to be some kind of smart speaker.
+The device, a square-shaped block of buttons called Codex Micro, is a collaboration between the AI company and keyboard maker Work Louder.&lt;/p&gt;</description></item><item><title>OpenAI：对其他公司的商业秘密不感兴趣，仍专注于打造创新技术，这意味着什么？</title><link>https://aihot.bt199.com/news/2ca83485770c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2ca83485770c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，OpenAI回应苹果就硬件商业机密提起的诉讼，称对其他公司的商业秘密不感兴趣，OpenAI仍专注于打造创新技术。&lt;/p&gt;
 &lt;p&gt;（财联社）&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -2092,7 +2133,13 @@ Spanning 538,000 square feet, Station F is often described as a co-working space
 &lt;p&gt;The common cold comes for us all—often more than once a year.&lt;/p&gt;
 &lt;p&gt;And there is no way to prevent it.&lt;/p&gt;
 &lt;p&gt;The best you can do is take vitamin C and stay away from people with the sniffles.
-Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new $500-million nonprofit whose goal is preventing both the common cold and the flu.&lt;/p&gt;</description></item><item><title>Suno推出Spark孵化器计划，为独立艺术家提供人工智能机器</title><link>https://aihot.bt199.com/news/863beb6b5eb1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/863beb6b5eb1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new $500-million nonprofit whose goal is preventing both the common cold and the flu.&lt;/p&gt;</description></item><item><title>Suno 从 YouTube、Genius 和 Deezer 抢走了数百万首歌曲</title><link>https://aihot.bt199.com/news/615f90691be9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/615f90691be9/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports.&lt;/p&gt;
+&lt;p&gt;Given that Suno has avoided revealing what’s in its training datasets and how they were acquired, this a rare glimpse into what Suno has actually been taking from online platforms.
+Suno snatched millions of songs from YouTube, Genius, and Deezer
+Hacked files reportedly show that Suno ripped decades of audio from protected platforms.
+Hacked files reportedly show that Suno ripped decades of audio from protected platforms.
+That’s relevant because Suno has been the subject of several lawsuits that allege it used copyrighted materials to train its AI models.&lt;/p&gt;</description></item><item><title>Suno推出Spark孵化器计划，为独立艺术家提供人工智能机器</title><link>https://aihot.bt199.com/news/863beb6b5eb1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/863beb6b5eb1/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists.&lt;/p&gt;
 &lt;p&gt;Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support.
 Suno launches Spark incubator program to feed independent artists to its AI machine
@@ -2109,7 +2156,12 @@ Superhuman
 is launching a new version of its auto-draft feature that identifies important emails and creates draft replies that sound less robotic.
 Superhuman has attempted this in the past with features like instant replies and follow-up auto-drafts.&lt;/p&gt;</description></item><item><title>Team_创建codex accesstoken，这意味着什么？</title><link>https://aihot.bt199.com/news/e2eb3ba707fb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e2eb3ba707fb/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据悉，team不用接码了以后 一年登陆一次网页端就行 team颁发token &amp;ndash;&amp;gt;最长一年 &amp;ndash;&amp;gt;需要允许用户创建访问令牌（创建访问令牌） 导出CPA /** * ChatGPT Codex Access Token 导出脚本 * * 使用方法： * 1.&lt;/p&gt;</description></item><item><title>The Information: Anthropic Mythos 吓到了 DeepSeek，促使其融资，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/2f71971e4ea7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/2f71971e4ea7/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;有分析指出，https://www.theinformation.com/articles/anthropics-mythos-spooked-deepseek-prompting-7-4-billion-fundraising Silicon Report – 26 Jun 26 DeepSeek targets $7.&lt;/p&gt;</description></item><item><title>Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它</title><link>https://aihot.bt199.com/news/6e0dbec31b28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6e0dbec31b28/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;有分析指出，https://www.theinformation.com/articles/anthropics-mythos-spooked-deepseek-prompting-7-4-billion-fundraising Silicon Report – 26 Jun 26 DeepSeek targets $7.&lt;/p&gt;</description></item><item><title>Thinking Machines 通过其第一个开放模型 Inkling 加大了对通用人工智能的赌注</title><link>https://aihot.bt199.com/news/be5f4e7765aa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/be5f4e7765aa/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, released its first in-house AI model Wednesday morning, called
+Inkling
+.&lt;/p&gt;
+&lt;p&gt;And unlike the flagship models from OpenAI, Anthropic, or Google, it’s open-weight, meaning outside developers and companies can download it and modify it directly.
+Inkling is a mixture-of-experts system with 975 billion total parameters, though it only draws on a fraction of that — about 41 billion — for any given task, a common design that keeps very large models faster and cheaper to run.&lt;/p&gt;</description></item><item><title>Tidal 不会为人工智能生成的音乐支付版税，但不会彻底禁止它</title><link>https://aihot.bt199.com/news/6e0dbec31b28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6e0dbec31b28/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Tidal shared its new policies regarding AI-generated music today and how the platform plans to “protect artists” and “inform listeners.” Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon.&lt;/p&gt;</description></item><item><title>TIDAL通过切断货币化来打击人工智能音乐</title><link>https://aihot.bt199.com/news/8bd89edfd996/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8bd89edfd996/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Music streaming service
 TIDAL
@@ -2244,7 +2296,16 @@ This is Wayve’s second employee liquidity event.&lt;/p&gt;</description></item
 Waze is getting a bunch of new AI-powered features
 The driving app is getting help from Google’s flagship AI assistant.
 The driving app is getting help from Google’s flagship AI assistant.
-Of the four new updates, only two are being described as involving Gemini.&lt;/p&gt;</description></item><item><title>WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter，业内人士怎么看？</title><link>https://aihot.bt199.com/news/72935b68c74f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/72935b68c74f/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Of the four new updates, only two are being described as involving Gemini.&lt;/p&gt;</description></item><item><title>Whatnot 收购 Shaped 以支持实时购物推荐</title><link>https://aihot.bt199.com/news/e8dd50de2f6d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e8dd50de2f6d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Livestream shopping app
+Whatnot
+announced Wednesday that it has acquired
+Shaped
+, a machine learning company that specializes in real-time recommendation and search systems.&lt;/p&gt;
+&lt;p&gt;The deal is meant to strengthen Whatnot’s discovery and personalization capabilities as the platform continues to expand across new product categories and millions of buyers.
+According to the company, the acquisition helps Whatnot continue its investment in AI as it looks to solve one of live commerce’s biggest challenges: helping shoppers find the right products while inventory, auctions, and buyer demand change in real time.
+Unlike traditional e-commerce platforms, where product catalogs remain relatively stable, Whatnot’s marketplace is constantly evolving, and live auctions can end within minutes or last for hours.
+“By combining Shaped’s technology with Whatnot’s existing systems, we can make recommendations faster, more responsive, and more personalized,” Emmanuel Fuentes, VP of Data and AI at Whatnot, told TechCrunch.&lt;/p&gt;</description></item><item><title>WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter，业内人士怎么看？</title><link>https://aihot.bt199.com/news/72935b68c74f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/72935b68c74f/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter
 量子位的朋友们
 2026-07-03
@@ -4379,7 +4440,11 @@ now viral post on X
 量子位
 人在Meta，因为休个病假/产假，然后……工作就没了？&lt;/p&gt;
 &lt;p&gt;？&lt;/p&gt;
-&lt;p&gt;更离谱的是，裁掉你的不是直属上司，是AI。&lt;/p&gt;</description></item><item><title>日本最高法院规定人工智能不能被列为专利申请发明人</title><link>https://aihot.bt199.com/news/72121830b2b5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/72121830b2b5/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;更离谱的是，裁掉你的不是直属上司，是AI。&lt;/p&gt;</description></item><item><title>认识一下 GPT-Red：LLM 超级黑客 OpenAI，旨在使其模型更安全</title><link>https://aihot.bt199.com/news/0081d2e6c395/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0081d2e6c395/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks.&lt;/p&gt;
+&lt;p&gt;Last week the company released the latest version of its flagship LLM, GPT-5.6.&lt;/p&gt;
+&lt;p&gt;OpenAI says that training it against GPT-Red made the model its most robust release yet.
+GPT-Red automates a type of safety evaluation for software systems known as red-teaming, which is typically done by a team of human testers.&lt;/p&gt;</description></item><item><title>日本最高法院规定人工智能不能被列为专利申请发明人</title><link>https://aihot.bt199.com/news/72121830b2b5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/72121830b2b5/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;文章网址：https://japannews.yomiuri.co.jp/science-nature/technolo…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -4453,7 +4518,11 @@ Devin Desktop
 。&lt;/p&gt;
 &lt;p&gt;同一天，微软在 Build 2026 大会上介绍了
 Rayfin
-。&lt;/p&gt;</description></item><item><title>三瑞智能：预计上半年度净利润同比增长51.63%-89.07%，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/341c988c1036/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/341c988c1036/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+。&lt;/p&gt;</description></item><item><title>三秒盗窃：为何人工智能语音欺诈胜过一切防御</title><link>https://aihot.bt199.com/news/4152da991986/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/4152da991986/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence
+Sharon Brightwell heard her daughter crying down the line, and that was the end of any defence she might have mounted.&lt;/p&gt;
+&lt;p&gt;The voice belonged to April, or so every instinct insisted: the same timbre, the same broken rhythm of a young woman in distress.&lt;/p&gt;
+&lt;p&gt;The voice said she had been texting while driving, that she had hit a pregnant woman, that her phone had been seized by police.&lt;/p&gt;</description></item><item><title>三瑞智能：预计上半年度净利润同比增长51.63%-89.07%，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/341c988c1036/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/341c988c1036/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;有分析指出，36氪获悉，三瑞智能公告，预计2026年半年度归属于上市公司股东的净利润为2.43亿元-3.03亿元，同比增长51.63%-89.07%。&lt;/p&gt;</description></item><item><title>三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》</title><link>https://aihot.bt199.com/news/a0dd5a22c5b6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a0dd5a22c5b6/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
@@ -5965,7 +6034,12 @@ openai 就是 纯血 pro ，pro plus team 等混合。&lt;/p&gt;</description></
 &lt;p&gt;据报道，36氪获悉，据网信中国，促进生成式人工智能服务创新发展和规范应用，网信部门会同有关部门按照《生成式人工智能服务管理暂行办法》要求，有序开展生成式人工智能服务备案工作，现将新增的“Apple智能”等7款提供手机端侧生成式人工智能服务备案信息予以公告。&lt;/p&gt;</description></item><item><title>微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好</title><link>https://aihot.bt199.com/news/963a38bbce8b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/963a38bbce8b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;As a fun personal project, I have been working on a chatbot for answering general questions about my household on anything from maintenance questions to doctor’s appointments.
 The general idea is that the chatbot will get its household knowledge through RAG from querying a vector database, but for better results I have made the vector searches metadata aware.
-Basically, I am running questions through a pre-processing step to categorize questions into known metadata categories (e.g.&lt;/p&gt;</description></item><item><title>微软承诺投入 25 亿美元成立自己的人工智能部署公司</title><link>https://aihot.bt199.com/news/86d262543960/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/86d262543960/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Basically, I am running questions through a pre-processing step to categorize questions into known metadata categories (e.g.&lt;/p&gt;</description></item><item><title>微软补丁记录了安全漏洞的数量，理由是其使用了人工智能</title><link>https://aihot.bt199.com/news/ec46a9e54745/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ec46a9e54745/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Microsoft released a record number of security patches for Windows, Office, and other tech product lines this week, citing the use of AI to aid the discovery of code vulnerabilities.
+The technology and cloud giant issued patches for 570 security flaws on Tuesday as part of its monthly scheduled release of fixes, which security researchers have long dubbed “Patch Tuesday.”
+At least two of the vulnerabilities are classified as
+zero-days
+, meaning that they were exploited before Microsoft was made aware of them.&lt;/p&gt;</description></item><item><title>微软承诺投入 25 亿美元成立自己的人工智能部署公司</title><link>https://aihot.bt199.com/news/86d262543960/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/86d262543960/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;On Thursday, Microsoft announced a new operating business called Microsoft Frontier company, focused on delivering successful enterprise AI deployments with Microsoft’s existing AI tools.&lt;/p&gt;
 &lt;p&gt;The project will be backed by a $2.5 billion investment from Microsoft, as well as 6,000 industry and engineering experts.
 In a statement announcing the venture, Microsoft’s Commercial Business CEO Judson Althoff resisted the Forward Deployed Engineer (FDE) label that is often applied to these ventures.&lt;/p&gt;</description></item><item><title>微软的安全启动已经被破解十年了，直到现在才被人注意到</title><link>https://aihot.bt199.com/news/a708c7931fbd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a708c7931fbd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -7305,7 +7379,17 @@ OpenJDK
 GraalVM
 的
 Coding Assistants 政策
-则允许这类贡献。&lt;/p&gt;</description></item><item><title>重磅！完了，到 2031 年，内存可能都不会降价。</title><link>https://aihot.bt199.com/news/v2ex-1224905/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224905/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+则允许这类贡献。&lt;/p&gt;</description></item><item><title>重磅！推广一下自建最开始和朋友自用现在几十用户的一个小中转</title><link>https://aihot.bt199.com/news/v2ex-1227376/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1227376/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;从开放注册到现在一个多月了，站内大概有几十个稳定用户，小站稳定绿首字，充值 1 比 1
+claude openai grok ，生图的模型都有
+gpt-plus 有 0.08x 分组 和 0.10 分组, 后者要稳定一点，这两个分组现在限时 0.07x 和 0.09x 倍率
+然后 gpt pro 和 plus 混合号池倍率 0.12x, 纯 pro 0.16x
+价格都很优惠， 站里大部分用户也是使用 gpt 的
+claude ccmax 分组 0.85x 倍率，因为号少防封只能在 cc 使用，今天也是限时 0.75x 倍率
+低价的 kiro 0.12x 倍率，缓存大概 90 左右
+生图支持 1 ，2k 和原生 4k ，分别是 5 分，6 分，1 毛
+新用户可以加群，群里不定时送额度兑换码
+v 站用户可以在评论区发注册后的 id/用户名/邮箱 ，送体验额度，欢迎各位佬来体验&lt;/p&gt;</description></item><item><title>重磅！完了，到 2031 年，内存可能都不会降价。</title><link>https://aihot.bt199.com/news/v2ex-1224905/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224905/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;镁光被 16 家包了 5 年，价格不低于现在。&lt;/p&gt;
 &lt;p&gt;Micron CEO, president and chairman Sanjay Mehrotra explained the SCAs in prepared remarks delivered during the company’s Q3 earnings call.&lt;/p&gt;
 &lt;p&gt;He explained that Micron has signed 16 SCAs, most of them covering 2026 to 2030, and that they involve a commitment to buy a certain quantity of product and pay for it in a pricing band that has a floor and a ceiling price.&lt;/p&gt;</description></item><item><title>重磅！微信AI助手“小微”小范围灰度上线</title><link>https://aihot.bt199.com/news/6993f2d65537/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6993f2d65537/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
