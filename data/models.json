@@ -4003,27 +4003,30 @@
     "is_core": true
   },
   {
-    "id": "hf-LiconStudio--LTX-2.3-Multiple-Subject-Reference",
-    "name": "LiconStudio/LTX-2.3-Multiple-Subject-Reference",
-    "display_name": "LTX-2.3-Multiple-Subject-Reference",
-    "url": "https://huggingface.co/LiconStudio/LTX-2.3-Multiple-Subject-Reference",
-    "author": "LiconStudio",
+    "id": "hf-Cactus-Compute--needle",
+    "name": "Cactus-Compute/needle",
+    "display_name": "needle",
+    "url": "https://huggingface.co/Cactus-Compute/needle",
+    "author": "Cactus-Compute",
     "pipeline_tag": "",
-    "likes": 226,
-    "downloads": 26284,
+    "likes": 254,
+    "downloads": 874,
     "tags": [
-      "diffusers",
-      "video-generation",
-      "multi-reference",
-      "LTX-2.3",
-      "base_model:Lightricks/LTX-2.3",
-      "base_model:finetune:Lightricks/LTX-2.3",
-      "license:apache-2.0",
+      "jax",
+      "safetensors",
+      "needle",
+      "function-calling",
+      "tool-use",
+      "encoder-decoder",
+      "edge",
+      "on-device",
+      "flax",
+      "license:mit",
       "region:us"
     ],
-    "created_at": "2026-06-01T11:14:36.000Z",
+    "created_at": "2026-03-16T04:01:31.000Z",
     "source": "hf-trending",
-    "collected_at": "2026-07-17T13:48:26.543326",
+    "collected_at": "2026-07-17T19:18:08.081902",
     "display_priority": 105,
     "is_core": true
   },
@@ -4690,6 +4693,35 @@
     "is_core": true
   },
   {
+    "id": "hf-ai-sage--GigaAM-Multilingual",
+    "name": "ai-sage/GigaAM-Multilingual",
+    "display_name": "GigaAM-Multilingual",
+    "url": "https://huggingface.co/ai-sage/GigaAM-Multilingual",
+    "author": "ai-sage",
+    "pipeline_tag": "automatic-speech-recognition",
+    "likes": 51,
+    "downloads": 2399,
+    "tags": [
+      "pytorch",
+      "gigaam",
+      "automatic-speech-recognition",
+      "custom_code",
+      "ru",
+      "en",
+      "kk",
+      "ky",
+      "uz",
+      "arxiv:2607.10371",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-07-14T05:15:37.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-07-17T19:18:08.082230",
+    "display_priority": 125,
+    "is_core": true
+  },
+  {
     "id": "hf-CohereLabs--cohere-transcribe-arabic-07-2026",
     "name": "CohereLabs/cohere-transcribe-arabic-07-2026",
     "display_name": "cohere-transcribe-arabic-07-2026",
@@ -4716,7 +4748,7 @@
     "created_at": "2026-06-18T19:44:59.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-08T14:25:26.808763",
-    "display_priority": 125,
+    "display_priority": 126,
     "is_core": true
   },
   {
@@ -4751,7 +4783,7 @@
     "created_at": "2026-07-14T06:35:39.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-15T08:22:45.546719",
-    "display_priority": 126,
+    "display_priority": 127,
     "is_core": true
   },
   {
@@ -4779,7 +4811,7 @@
     "created_at": "2026-06-17T11:28:29.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-20T13:45:32.097781",
-    "display_priority": 127,
+    "display_priority": 128,
     "is_core": true
   },
   {
@@ -4823,7 +4855,7 @@
     "created_at": "2026-05-20T13:09:50.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-19T03:34:45.896747",
-    "display_priority": 128,
+    "display_priority": 129,
     "is_core": true
   },
   {
@@ -4864,7 +4896,7 @@
     "created_at": "2026-04-16T13:54:19.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-01T02:19:40.311428",
-    "display_priority": 129,
+    "display_priority": 130,
     "is_core": true
   },
   {
@@ -4907,7 +4939,7 @@
     "created_at": "2026-05-05T15:00:16.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-18T20:15:23.806267",
-    "display_priority": 130,
+    "display_priority": 131,
     "is_core": true
   },
   {
@@ -4936,7 +4968,7 @@
     "created_at": "2026-05-19T08:58:01.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-25T02:42:48.443062",
-    "display_priority": 131,
+    "display_priority": 132,
     "is_core": true
   },
   {
@@ -4970,7 +5002,7 @@
     "created_at": "2026-06-26T13:44:18.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-27T08:30:02.553676",
-    "display_priority": 132,
+    "display_priority": 133,
     "is_core": true
   },
   {
@@ -5000,7 +5032,7 @@
     "created_at": "2026-07-05T18:53:37.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-08T08:37:34.265936",
-    "display_priority": 133,
+    "display_priority": 134,
     "is_core": true
   },
   {
@@ -5039,7 +5071,7 @@
     "created_at": "2026-04-29T07:46:41.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-21T02:37:42.027416",
-    "display_priority": 134,
+    "display_priority": 135,
     "is_core": true
   },
   {
@@ -5124,7 +5156,7 @@
     "created_at": "2026-04-20T15:15:55.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-30T13:31:26.989174",
-    "display_priority": 135,
+    "display_priority": 136,
     "is_core": true
   },
   {
@@ -5153,7 +5185,7 @@
     "created_at": "2026-04-23T06:30:09.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-28T10:16:49.982171",
-    "display_priority": 136,
+    "display_priority": 137,
     "is_core": true
   },
   {
@@ -5186,7 +5218,7 @@
     "created_at": "2026-06-29T20:09:50.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-03T14:17:39.310541",
-    "display_priority": 137,
+    "display_priority": 138,
     "is_core": true
   },
   {
@@ -5213,7 +5245,7 @@
     "created_at": "2026-07-03T10:56:01.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-05T13:50:34.932803",
-    "display_priority": 138,
+    "display_priority": 139,
     "is_core": true
   },
   {
@@ -5246,7 +5278,7 @@
     "created_at": "2026-05-09T04:20:48.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-15T13:49:27.928797",
-    "display_priority": 139,
+    "display_priority": 140,
     "is_core": true
   },
   {
@@ -5267,44 +5299,6 @@
     "created_at": "2026-04-30T10:18:49.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-13T14:16:25.219466",
-    "display_priority": 140,
-    "is_core": true
-  },
-  {
-    "id": "hf-ibm-granite--granite-speech-4.1-2b-plus",
-    "name": "ibm-granite/granite-speech-4.1-2b-plus",
-    "display_name": "granite-speech-4.1-2b-plus",
-    "url": "https://huggingface.co/ibm-granite/granite-speech-4.1-2b-plus",
-    "author": "ibm-granite",
-    "pipeline_tag": "automatic-speech-recognition",
-    "likes": 41,
-    "downloads": 1809,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "granite_speech_plus",
-      "automatic-speech-recognition",
-      "multilingual",
-      "en",
-      "fr",
-      "de",
-      "es",
-      "pt",
-      "arxiv:2604.11269",
-      "arxiv:2604.22817",
-      "arxiv:2604.12398",
-      "arxiv:2505.08699",
-      "arxiv:2603.11243",
-      "arxiv:2603.08397",
-      "base_model:ibm-granite/granite-4.0-1b-base",
-      "base_model:finetune:ibm-granite/granite-4.0-1b-base",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-16T13:55:49.000Z",
-    "source": "hf-trending",
-    "collected_at": "2026-05-03T07:52:24.422760",
     "display_priority": 141,
     "is_core": true
   },
