@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T02:56:30.811105",
-  "total_keywords": 960,
+  "updated_at": "2026-07-17T08:18:20.741692",
+  "total_keywords": 962,
   "hot_keywords": [
     "ai绘画",
     "豆包",
@@ -20,8 +20,8 @@
         "source": "baidu_suggestion",
         "seed": "AI绘画",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 1032
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 1036
       }
     ],
     [
@@ -30,8 +30,8 @@
         "source": "baidu_suggestion",
         "seed": "DeepSeek",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 790
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 793
       }
     ],
     [
@@ -40,8 +40,8 @@
         "source": "baidu_suggestion",
         "seed": "Claude",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 705
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 707
       }
     ],
     [
@@ -50,8 +50,8 @@
         "source": "baidu_suggestion",
         "seed": "Claude Code",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 649
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 651
       }
     ],
     [
@@ -60,8 +60,8 @@
         "source": "baidu_suggestion",
         "seed": "通义千问",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 521
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 523
       }
     ],
     [
@@ -70,8 +70,8 @@
         "source": "baidu_suggestion",
         "seed": "DeepSeek",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 520
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 522
       }
     ],
     [
@@ -80,8 +80,8 @@
         "source": "baidu_suggestion",
         "seed": "Kimi",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 520
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 522
       }
     ],
     [
@@ -90,8 +90,8 @@
         "source": "baidu_suggestion",
         "seed": "AI Agent",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 520
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 522
       }
     ],
     [
@@ -100,8 +100,8 @@
         "source": "baidu_suggestion",
         "seed": "AI教程",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 520
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 522
       }
     ],
     [
@@ -110,8 +110,8 @@
         "source": "baidu_suggestion",
         "seed": "Cursor",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 520
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 522
       }
     ],
     [
@@ -120,8 +120,8 @@
         "source": "baidu_suggestion",
         "seed": "ChatGPT",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 519
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 521
       }
     ],
     [
@@ -130,8 +130,8 @@
         "source": "baidu_suggestion",
         "seed": "Claude",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 519
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 521
       }
     ],
     [
@@ -140,8 +140,8 @@
         "source": "baidu_suggestion",
         "seed": "AI搜索",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 518
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 520
       }
     ],
     [
@@ -150,8 +150,8 @@
         "source": "baidu_suggestion",
         "seed": "AI聊天",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 517
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 519
       }
     ],
     [
@@ -160,8 +160,8 @@
         "source": "baidu_suggestion",
         "seed": "AI助手",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 517
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 519
       }
     ],
     [
@@ -170,8 +170,8 @@
         "source": "baidu_suggestion",
         "seed": "Copilot",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 516
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 518
       }
     ],
     [
@@ -180,8 +180,8 @@
         "source": "baidu_suggestion",
         "seed": "AI绘画",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 514
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 516
       }
     ],
     [
@@ -190,8 +190,8 @@
         "source": "baidu_suggestion",
         "seed": "AI绘画",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 514
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 516
       }
     ],
     [
@@ -200,8 +200,8 @@
         "source": "baidu_suggestion",
         "seed": "AI绘画",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 514
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 516
       }
     ],
     [
@@ -210,8 +210,8 @@
         "source": "baidu_suggestion",
         "seed": "AI绘画",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 514
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 516
       }
     ],
     [
@@ -220,8 +220,8 @@
         "source": "baidu_suggestion",
         "seed": "AI编程",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 514
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 516
       }
     ],
     [
@@ -230,8 +230,8 @@
         "source": "baidu_suggestion",
         "seed": "AI翻译",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 513
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 515
       }
     ],
     [
@@ -240,8 +240,8 @@
         "source": "baidu_suggestion",
         "seed": "AI写作",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 510
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 512
       }
     ],
     [
@@ -250,8 +250,8 @@
         "source": "baidu_suggestion",
         "seed": "AI工具",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 508
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 510
       }
     ],
     [
@@ -260,8 +260,8 @@
         "source": "baidu_suggestion",
         "seed": "AI网站",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 508
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 510
       }
     ],
     [
@@ -270,8 +270,8 @@
         "source": "baidu_suggestion",
         "seed": "Claude",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 386
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 388
       }
     ],
     [
@@ -280,8 +280,8 @@
         "source": "baidu_suggestion",
         "seed": "AI绘画",
         "first_seen": "2026-05-02T09:54:07.468966",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 349
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 351
       }
     ],
     [
@@ -300,8 +300,8 @@
         "source": "baidu_suggestion",
         "seed": "AI平台",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 300
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 301
       }
     ],
     [
@@ -315,6 +315,496 @@
       }
     ],
     [
+      "chatgpt入口",
+      {
+        "source": "baidu_suggestion",
+        "seed": "ChatGPT",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "deepseek官网",
+      {
+        "source": "baidu_suggestion",
+        "seed": "DeepSeek",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "大模型",
+      {
+        "source": "baidu_suggestion",
+        "seed": "大模型",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "大模型是什么意思",
+      {
+        "source": "baidu_suggestion",
+        "seed": "大模型",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "大模型有哪些",
+      {
+        "source": "baidu_suggestion",
+        "seed": "大模型",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "大模型与人工智能区别",
+      {
+        "source": "baidu_suggestion",
+        "seed": "大模型",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "大模型 ai",
+      {
+        "source": "baidu_suggestion",
+        "seed": "大模型",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "文心一言",
+      {
+        "source": "baidu_suggestion",
+        "seed": "文心一言",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "文心一言官网",
+      {
+        "source": "baidu_suggestion",
+        "seed": "文心一言",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "文心一言在线使用",
+      {
+        "source": "baidu_suggestion",
+        "seed": "文心一言",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "通义千问官网入口",
+      {
+        "source": "baidu_suggestion",
+        "seed": "通义千问",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "通义千问网页版",
+      {
+        "source": "baidu_suggestion",
+        "seed": "通义千问",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "通义千问官网",
+      {
+        "source": "baidu_suggestion",
+        "seed": "通义千问",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "通义千问下载app",
+      {
+        "source": "baidu_suggestion",
+        "seed": "通义千问",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "通义千问app",
+      {
+        "source": "baidu_suggestion",
+        "seed": "通义千问",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "通义千问app下载官网",
+      {
+        "source": "baidu_suggestion",
+        "seed": "通义千问",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "kimi官网",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Kimi",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "kimi人工智能官网",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Kimi",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "kimi是什么",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Kimi",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai agent概念",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI Agent",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai agent框架",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI Agent",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "人工智能中agent指什么",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI Agent",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "agent和大模型的区别",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI Agent",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai智能体",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI智能体",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai智能体是什么",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI智能体",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai智能体软件",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI智能体",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai智能体工程师",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI智能体",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "创建ai智能体",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI智能体",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "免费ai",
+      {
+        "source": "baidu_suggestion",
+        "seed": "免费AI",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "免费爱情聊天软件",
+      {
+        "source": "baidu_suggestion",
+        "seed": "免费AI",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "免费的ai人工智能软件",
+      {
+        "source": "baidu_suggestion",
+        "seed": "免费AI",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "有免费的ai工具吗",
+      {
+        "source": "baidu_suggestion",
+        "seed": "免费AI",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai替代",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI替代",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai替代哪些工作岗位",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI替代",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai替代人类失业的人会造成社会危机吗",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI替代",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "code",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Claude Code",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "cursor官网",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Cursor",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "cursor翻译",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Cursor",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "cursory",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Cursor",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "klaxon",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Cursor",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "copilot怎么用",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Copilot",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "copilot下载",
+      {
+        "source": "baidu_suggestion",
+        "seed": "Copilot",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 261
+      }
+    ],
+    [
+      "ai搜索引擎",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI搜索",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
+      }
+    ],
+    [
+      "ai搜索智能问答",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI搜索",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
+      }
+    ],
+    [
+      "ai搜索助手",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI搜索",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
+      }
+    ],
+    [
+      "百度ai搜索",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI搜索",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
+      }
+    ],
+    [
+      "ai聊天机器人",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI聊天",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
+      }
+    ],
+    [
+      "ai聊天模拟器",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI聊天",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
+      }
+    ],
+    [
+      "ai聊天助手",
+      {
+        "source": "baidu_suggestion",
+        "seed": "AI聊天",
+        "first_seen": "2026-04-20T14:22:30.668487",
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
+      }
+    ],
+    [
       "chatgpt国内能用吗",
       {
         "source": "baidu_suggestion",
@@ -325,503 +815,13 @@
       }
     ],
     [
-      "chatgpt入口",
-      {
-        "source": "baidu_suggestion",
-        "seed": "ChatGPT",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "deepseek官网",
-      {
-        "source": "baidu_suggestion",
-        "seed": "DeepSeek",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "大模型",
-      {
-        "source": "baidu_suggestion",
-        "seed": "大模型",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "大模型是什么意思",
-      {
-        "source": "baidu_suggestion",
-        "seed": "大模型",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "大模型有哪些",
-      {
-        "source": "baidu_suggestion",
-        "seed": "大模型",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "大模型与人工智能区别",
-      {
-        "source": "baidu_suggestion",
-        "seed": "大模型",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "大模型 ai",
-      {
-        "source": "baidu_suggestion",
-        "seed": "大模型",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "文心一言",
-      {
-        "source": "baidu_suggestion",
-        "seed": "文心一言",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "文心一言官网",
-      {
-        "source": "baidu_suggestion",
-        "seed": "文心一言",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "文心一言在线使用",
-      {
-        "source": "baidu_suggestion",
-        "seed": "文心一言",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "通义千问官网入口",
-      {
-        "source": "baidu_suggestion",
-        "seed": "通义千问",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "通义千问网页版",
-      {
-        "source": "baidu_suggestion",
-        "seed": "通义千问",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "通义千问官网",
-      {
-        "source": "baidu_suggestion",
-        "seed": "通义千问",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "通义千问下载app",
-      {
-        "source": "baidu_suggestion",
-        "seed": "通义千问",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "通义千问app",
-      {
-        "source": "baidu_suggestion",
-        "seed": "通义千问",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "通义千问app下载官网",
-      {
-        "source": "baidu_suggestion",
-        "seed": "通义千问",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "kimi官网",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Kimi",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "kimi人工智能官网",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Kimi",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "kimi是什么",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Kimi",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai agent概念",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI Agent",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai agent框架",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI Agent",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "人工智能中agent指什么",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI Agent",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "agent和大模型的区别",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI Agent",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai智能体",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI智能体",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai智能体是什么",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI智能体",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai智能体软件",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI智能体",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai智能体工程师",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI智能体",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "创建ai智能体",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI智能体",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "免费ai",
-      {
-        "source": "baidu_suggestion",
-        "seed": "免费AI",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "免费爱情聊天软件",
-      {
-        "source": "baidu_suggestion",
-        "seed": "免费AI",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "免费的ai人工智能软件",
-      {
-        "source": "baidu_suggestion",
-        "seed": "免费AI",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "有免费的ai工具吗",
-      {
-        "source": "baidu_suggestion",
-        "seed": "免费AI",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai替代",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI替代",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai替代哪些工作岗位",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI替代",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai替代人类失业的人会造成社会危机吗",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI替代",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "code",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Claude Code",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "cursor官网",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Cursor",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "cursor翻译",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Cursor",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "cursory",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Cursor",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "klaxon",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Cursor",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "copilot怎么用",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Copilot",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "copilot下载",
-      {
-        "source": "baidu_suggestion",
-        "seed": "Copilot",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 260
-      }
-    ],
-    [
-      "ai搜索引擎",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI搜索",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
-      }
-    ],
-    [
-      "ai搜索智能问答",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI搜索",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
-      }
-    ],
-    [
-      "ai搜索助手",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI搜索",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
-      }
-    ],
-    [
-      "百度ai搜索",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI搜索",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
-      }
-    ],
-    [
-      "ai聊天机器人",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI聊天",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
-      }
-    ],
-    [
-      "ai聊天模拟器",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI聊天",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
-      }
-    ],
-    [
-      "ai聊天助手",
-      {
-        "source": "baidu_suggestion",
-        "seed": "AI聊天",
-        "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
-      }
-    ],
-    [
       "文心一言网页版入口",
       {
         "source": "baidu_suggestion",
         "seed": "文心一言",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
       }
     ],
     [
@@ -830,8 +830,8 @@
         "source": "baidu_suggestion",
         "seed": "文心一言",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
       }
     ],
     [
@@ -840,8 +840,8 @@
         "source": "baidu_suggestion",
         "seed": "豆包",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
       }
     ],
     [
@@ -850,8 +850,8 @@
         "source": "baidu_suggestion",
         "seed": "Kimi",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
       }
     ],
     [
@@ -860,8 +860,8 @@
         "source": "baidu_suggestion",
         "seed": "Kimi",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
       }
     ],
     [
@@ -870,8 +870,8 @@
         "source": "baidu_suggestion",
         "seed": "Kimi",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
       }
     ],
     [
@@ -880,8 +880,8 @@
         "source": "baidu_suggestion",
         "seed": "AI智能体",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
       }
     ],
     [
@@ -890,8 +890,8 @@
         "source": "baidu_suggestion",
         "seed": "Copilot",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 259
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 260
       }
     ],
     [
@@ -900,8 +900,8 @@
         "source": "baidu_suggestion",
         "seed": "AI设计",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 258
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 259
       }
     ],
     [
@@ -910,8 +910,8 @@
         "source": "baidu_suggestion",
         "seed": "AI设计",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 258
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 259
       }
     ],
     [
@@ -920,8 +920,8 @@
         "source": "baidu_suggestion",
         "seed": "文心一言",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 258
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 259
       }
     ],
     [
@@ -930,8 +930,8 @@
         "source": "baidu_suggestion",
         "seed": "AI助手",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 258
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 259
       }
     ],
     [
@@ -940,8 +940,8 @@
         "source": "baidu_suggestion",
         "seed": "AI助手",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 258
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 259
       }
     ],
     [
@@ -950,8 +950,8 @@
         "source": "baidu_suggestion",
         "seed": "AI编程",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 257
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 258
       }
     ],
     [
@@ -960,8 +960,8 @@
         "source": "baidu_suggestion",
         "seed": "AI编程",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 257
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 258
       }
     ],
     [
@@ -970,8 +970,8 @@
         "source": "baidu_suggestion",
         "seed": "AI编程",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 257
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 258
       }
     ],
     [
@@ -980,8 +980,8 @@
         "source": "baidu_suggestion",
         "seed": "AI编程",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 257
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 258
       }
     ],
     [
@@ -990,8 +990,8 @@
         "source": "baidu_suggestion",
         "seed": "AI编程",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 257
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 258
       }
     ],
     [
@@ -1000,8 +1000,8 @@
         "source": "baidu_suggestion",
         "seed": "AI视频",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 257
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 258
       }
     ],
     [
@@ -1010,8 +1010,8 @@
         "source": "baidu_suggestion",
         "seed": "AI视频",
         "first_seen": "2026-04-20T14:22:30.668487",
-        "last_seen": "2026-07-17T02:56:30.811105",
-        "count": 257
+        "last_seen": "2026-07-17T08:18:20.741692",
+        "count": 258
       }
     ]
   ],
@@ -1020,43 +1020,43 @@
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai工具软件排名前十": {
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 508
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 510
     },
     "ai工具软件有哪些": {
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai工具集": {
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai工具有哪些": {
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai工具网": {
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 105
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 106
     },
     "ai工具软件": {
       "source": "baidu_suggestion",
@@ -1076,8 +1076,8 @@
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 249
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 250
     },
     "ai工具库": {
       "source": "baidu_suggestion",
@@ -1090,50 +1090,50 @@
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 238
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 239
     },
     "ai软件": {
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai软件都有哪些": {
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai软件哪个版本最好用": {
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai软件下载": {
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai软件生成图片": {
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 230
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 231
     },
     "ai软件全称": {
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai软件是干啥用的": {
       "source": "baidu_suggestion",
@@ -1146,8 +1146,8 @@
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 128
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 129
     },
     "ai软件图标": {
       "source": "baidu_suggestion",
@@ -1174,15 +1174,15 @@
       "source": "baidu_suggestion",
       "seed": "AI网站",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 508
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 510
     },
     "ai网站绘图": {
       "source": "baidu_suggestion",
       "seed": "AI网站",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 253
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 254
     },
     "novalAI网站": {
       "source": "baidu_suggestion",
@@ -1244,43 +1244,43 @@
       "source": "baidu_suggestion",
       "seed": "AI平台",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "ai平台都有哪些": {
       "source": "baidu_suggestion",
       "seed": "AI平台",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "百度ai平台": {
       "source": "baidu_suggestion",
       "seed": "AI平台",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "英伟达ai平台": {
       "source": "baidu_suggestion",
       "seed": "AI平台",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "人工智能ai软件": {
       "source": "baidu_suggestion",
       "seed": "AI平台",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 300
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 301
     },
     "ai写作": {
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 510
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 512
     },
     "ai写作免费一键生成": {
       "source": "baidu_suggestion",
@@ -1300,8 +1300,8 @@
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 255
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 256
     },
     "ai写作和人工写作的区别": {
       "source": "baidu_suggestion",
@@ -1321,15 +1321,15 @@
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 255
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 256
     },
     "ai写作怎么赚钱": {
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 226
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 227
     },
     "ai写作能被检测出来吗": {
       "source": "baidu_suggestion",
@@ -1349,29 +1349,29 @@
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 1032
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 1036
     },
     "ai绘画免费图生图": {
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 514
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 516
     },
     "ai绘画软件": {
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 514
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 516
     },
     "ai绘画网站": {
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 514
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 516
     },
     "ai绘画作品": {
       "source": "baidu_suggestion",
@@ -1384,8 +1384,8 @@
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 514
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 516
     },
     "ai绘画模型": {
       "source": "baidu_suggestion",
@@ -1405,8 +1405,8 @@
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 150
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 152
     },
     "ai绘画是什么时候出来的": {
       "source": "baidu_suggestion",
@@ -1419,43 +1419,43 @@
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 514
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 516
     },
     "ai编程软件": {
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai编程零基础知识": {
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai编程软件下载": {
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "爱编程": {
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai编程用什么语言": {
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "猿编程": {
       "source": "baidu_suggestion",
@@ -1489,15 +1489,15 @@
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai视频生成": {
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai视频生成软件哪个好用": {
       "source": "baidu_suggestion",
@@ -1510,8 +1510,8 @@
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai视频如何制作": {
       "source": "baidu_suggestion",
@@ -1524,64 +1524,64 @@
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai视频换脸手机软件有免费的吗": {
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai视频编辑软件哪个好": {
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai视频创作软件哪个好": {
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai视频翻译工具": {
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 255
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 256
     },
     "ai音乐": {
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai音乐学园": {
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai音乐制作软件": {
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai音乐创作软件": {
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai音乐生成器": {
       "source": "baidu_suggestion",
@@ -1601,8 +1601,8 @@
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai音乐学院官网下载": {
       "source": "baidu_suggestion",
@@ -1615,8 +1615,8 @@
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 179
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 180
     },
     "爱音乐的人的优美句子": {
       "source": "baidu_suggestion",
@@ -1629,15 +1629,15 @@
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 158
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 159
     },
     "ai翻译": {
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 513
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 515
     },
     "ai翻译助手": {
       "source": "baidu_suggestion",
@@ -1650,15 +1650,15 @@
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai翻译成中文是什么意思": {
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 256
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 257
     },
     "ai翻译神器": {
       "source": "baidu_suggestion",
@@ -1671,57 +1671,57 @@
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 256
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 257
     },
     "ai翻译工具": {
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 86
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 87
     },
     "ai翻译中文是什么意思": {
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 128
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 129
     },
     "爱翻译成英文": {
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 254
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 255
     },
     "爱翻译": {
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 229
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 230
     },
     "ai办公": {
       "source": "baidu_suggestion",
       "seed": "AI办公",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "爱办公pc端官网登录": {
       "source": "baidu_suggestion",
       "seed": "AI办公",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 156
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 157
     },
     "爱办公": {
       "source": "baidu_suggestion",
       "seed": "AI办公",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "爱办公官网登录": {
       "source": "baidu_suggestion",
@@ -1734,29 +1734,29 @@
       "source": "baidu_suggestion",
       "seed": "AI办公",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai设计": {
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 258
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 259
     },
     "ai设计软件": {
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 258
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 259
     },
     "ai设计图生成": {
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 255
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 256
     },
     "ai设计室内设计": {
       "source": "baidu_suggestion",
@@ -1769,15 +1769,15 @@
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 225
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 226
     },
     "ai设计效果图软件": {
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 256
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 257
     },
     "ai设计师": {
       "source": "baidu_suggestion",
@@ -1790,8 +1790,8 @@
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai设计海报": {
       "source": "baidu_suggestion",
@@ -1818,43 +1818,43 @@
       "source": "baidu_suggestion",
       "seed": "AI搜索",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 518
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 520
     },
     "ai搜索引擎": {
       "source": "baidu_suggestion",
       "seed": "AI搜索",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "ai搜索智能问答": {
       "source": "baidu_suggestion",
       "seed": "AI搜索",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "ai搜索助手": {
       "source": "baidu_suggestion",
       "seed": "AI搜索",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "百度ai搜索": {
       "source": "baidu_suggestion",
       "seed": "AI搜索",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "ai聊天": {
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 517
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 519
     },
     "ai聊天没有屏蔽字": {
       "source": "baidu_suggestion",
@@ -1867,8 +1867,8 @@
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 170
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 171
     },
     "ai聊天软件破解版": {
       "source": "baidu_suggestion",
@@ -1881,22 +1881,22 @@
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "ai聊天机器人": {
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "ai聊天模拟器": {
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "ai聊天回复神器": {
       "source": "baidu_suggestion",
@@ -1909,22 +1909,22 @@
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "爱聊天": {
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 207
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 208
     },
     "chatgpt": {
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 519
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 521
     },
     "chatgpt下载": {
       "source": "baidu_suggestion",
@@ -1937,15 +1937,15 @@
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 230
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 231
     },
     "chatgpt是什么意思": {
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-09T09:54:21.030182",
-      "count": 52
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 53
     },
     "chatgpt国内能用吗": {
       "source": "baidu_suggestion",
@@ -1965,22 +1965,22 @@
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "chatgpt怎么下载": {
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 240
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 241
     },
     "chatgpt怎么读": {
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-16T14:03:56.871053",
-      "count": 150
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 151
     },
     "chatgpt app": {
       "source": "baidu_suggestion",
@@ -1993,29 +1993,29 @@
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 705
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 707
     },
     "claude下载": {
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 223
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 224
     },
     "claude官网中文版": {
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 386
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 388
     },
     "claude是哪家公司的": {
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 519
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 521
     },
     "claude怎么读": {
       "source": "baidu_suggestion",
@@ -2028,15 +2028,15 @@
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-16T19:19:59.504291",
-      "count": 249
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 250
     },
     "claude什么意思": {
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 256
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 257
     },
     "claude是什么": {
       "source": "baidu_suggestion",
@@ -2063,8 +2063,8 @@
       "source": "baidu_suggestion",
       "seed": "DeepSeek",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 520
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 522
     },
     "deepseekv4将发布": {
       "source": "baidu_suggestion",
@@ -2084,36 +2084,36 @@
       "source": "baidu_suggestion",
       "seed": "DeepSeek",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "豆包": {
       "source": "baidu_suggestion",
       "seed": "DeepSeek",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 790
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 793
     },
     "大模型": {
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "大模型是什么意思": {
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "大模型有哪些": {
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "大模型排名": {
       "source": "baidu_suggestion",
@@ -2126,29 +2126,29 @@
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "大模型 ai": {
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "大模型股票龙头": {
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 257
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 258
     },
     "大模型训练流程或步骤": {
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 146
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 147
     },
     "大模型应用开发": {
       "source": "baidu_suggestion",
@@ -2168,50 +2168,50 @@
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-16T19:19:59.504291",
-      "count": 87
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 88
     },
     "文心一言": {
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "文心一言官网": {
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "文心一言网页版入口": {
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "文心一言在线使用": {
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "文心一言app": {
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 258
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 259
     },
     "文心一言官网入口": {
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "文心一言和豆包谁厉害": {
       "source": "baidu_suggestion",
@@ -2224,15 +2224,15 @@
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 256
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 257
     },
     "文心一言是干什么的": {
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 110
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 111
     },
     "文心一言是什么": {
       "source": "baidu_suggestion",
@@ -2245,64 +2245,64 @@
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 171
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 172
     },
     "通义千问": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 521
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 523
     },
     "通义千问官网入口": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "通义千问网页版": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "通义千问官网": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "通义千问下载app": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "通义千问app": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "通义千问app下载官网": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "通义千问官网首页": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 232
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 233
     },
     "通义千问入口": {
       "source": "baidu_suggestion",
@@ -2343,8 +2343,8 @@
       "source": "baidu_suggestion",
       "seed": "豆包",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 229
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 230
     },
     "豆包官方下载": {
       "source": "baidu_suggestion",
@@ -2357,22 +2357,22 @@
       "source": "baidu_suggestion",
       "seed": "豆包",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 253
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 254
     },
     "豆包有什么用途和作用": {
       "source": "baidu_suggestion",
       "seed": "豆包",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "豆包视频": {
       "source": "baidu_suggestion",
       "seed": "豆包",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 255
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 256
     },
     "豆包图片": {
       "source": "baidu_suggestion",
@@ -2385,57 +2385,57 @@
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 520
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 522
     },
     "kimi官网": {
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "kimi人工智能官网": {
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "kimi是什么软件": {
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "kimi是什么": {
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "kimi人工智能": {
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "kimi ai": {
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "kimi怎么读": {
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-16T08:23:38.016676",
-      "count": 225
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 226
     },
     "kimi小时候照片": {
       "source": "baidu_suggestion",
@@ -2455,64 +2455,64 @@
       "source": "baidu_suggestion",
       "seed": "AI Agent",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 520
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 522
     },
     "ai agent概念": {
       "source": "baidu_suggestion",
       "seed": "AI Agent",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai agent框架": {
       "source": "baidu_suggestion",
       "seed": "AI Agent",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "agent怎么读": {
       "source": "baidu_suggestion",
       "seed": "AI Agent",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 212
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 213
     },
     "Agent": {
       "source": "baidu_suggestion",
       "seed": "AI Agent",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 248
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 249
     },
     "人工智能中agent指什么": {
       "source": "baidu_suggestion",
       "seed": "AI Agent",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "agent和大模型的区别": {
       "source": "baidu_suggestion",
       "seed": "AI Agent",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai智能体": {
       "source": "baidu_suggestion",
       "seed": "AI智能体",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai智能体是什么": {
       "source": "baidu_suggestion",
       "seed": "AI智能体",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai智能体正式进工厂": {
       "source": "baidu_suggestion",
@@ -2525,43 +2525,43 @@
       "source": "baidu_suggestion",
       "seed": "AI智能体",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai智能体设定描述": {
       "source": "baidu_suggestion",
       "seed": "AI智能体",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "ai智能体工程师": {
       "source": "baidu_suggestion",
       "seed": "AI智能体",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "创建ai智能体": {
       "source": "baidu_suggestion",
       "seed": "AI智能体",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai助手": {
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 517
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 519
     },
     "ai助手哪个好用": {
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 258
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 259
     },
     "ai助手免费版": {
       "source": "baidu_suggestion",
@@ -2581,15 +2581,15 @@
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 232
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 233
     },
     "ai助手ppt制作": {
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 258
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 259
     },
     "ai助手下载": {
       "source": "baidu_suggestion",
@@ -2602,8 +2602,8 @@
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 240
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 241
     },
     "ai助手入口": {
       "source": "baidu_suggestion",
@@ -2623,22 +2623,22 @@
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "免费爱情聊天软件": {
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "免费爱奇艺下载": {
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 167
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 168
     },
     "免费爱奇艺会员账号密码大全": {
       "source": "baidu_suggestion",
@@ -2651,8 +2651,8 @@
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 161
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 162
     },
     "免费的换脸软件app": {
       "source": "baidu_suggestion",
@@ -2665,15 +2665,15 @@
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "有免费的ai工具吗": {
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "aippt制作免费": {
       "source": "baidu_suggestion",
@@ -2693,29 +2693,29 @@
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 147
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 148
     },
     "ai替代": {
       "source": "baidu_suggestion",
       "seed": "AI替代",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai替代哪些工作岗位": {
       "source": "baidu_suggestion",
       "seed": "AI替代",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai替代人类失业的人会造成社会危机吗": {
       "source": "baidu_suggestion",
       "seed": "AI替代",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "ai替代的职业": {
       "source": "baidu_suggestion",
@@ -2777,92 +2777,92 @@
       "source": "baidu_suggestion",
       "seed": "AI教程",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 520
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 522
     },
     "claude code": {
       "source": "baidu_suggestion",
       "seed": "Claude Code",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 649
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 651
     },
     "code": {
       "source": "baidu_suggestion",
       "seed": "Claude Code",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "cursor": {
       "source": "baidu_suggestion",
       "seed": "Cursor",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 520
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 522
     },
     "cursor官网": {
       "source": "baidu_suggestion",
       "seed": "Cursor",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "cursor是什么意思": {
       "source": "baidu_suggestion",
       "seed": "Cursor",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 256
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 257
     },
     "cursor翻译": {
       "source": "baidu_suggestion",
       "seed": "Cursor",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "cursor怎么使用": {
       "source": "baidu_suggestion",
       "seed": "Cursor",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 256
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 257
     },
     "cursory": {
       "source": "baidu_suggestion",
       "seed": "Cursor",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "klaxon": {
       "source": "baidu_suggestion",
       "seed": "Cursor",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "copilot": {
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 516
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 518
     },
     "copilot怎么读": {
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 255
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 256
     },
     "copilot什么软件": {
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 259
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 260
     },
     "copilot安卓版下载": {
       "source": "baidu_suggestion",
@@ -2882,29 +2882,29 @@
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "copilot下载": {
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 260
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 261
     },
     "copilot国内能用吗": {
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 202
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 203
     },
     "copilot歌曲": {
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-20T14:22:30.668487",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 135
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 136
     },
     "copilot有什么用": {
       "source": "baidu_suggestion",
@@ -2931,8 +2931,8 @@
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-20T18:54:57.108706",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 75
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 76
     },
     "ppt制作ai工具": {
       "source": "baidu_suggestion",
@@ -3043,8 +3043,8 @@
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-21T07:26:36.761714",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 21
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 22
     },
     "deepseek v4": {
       "source": "baidu_suggestion",
@@ -3085,8 +3085,8 @@
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-21T13:07:48.066949",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 95
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 96
     },
     "ai网站聊天": {
       "source": "baidu_suggestion",
@@ -3148,15 +3148,15 @@
       "source": "baidu_suggestion",
       "seed": "豆包",
       "first_seen": "2026-04-21T13:07:48.066949",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 251
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 252
     },
     "ai心理咨询免费": {
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-04-21T13:07:48.066949",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 134
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 135
     },
     "ai替代率": {
       "source": "baidu_suggestion",
@@ -3190,8 +3190,8 @@
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-21T13:07:48.066949",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 215
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 216
     },
     "chatgpt是什么": {
       "source": "baidu_suggestion",
@@ -3211,8 +3211,8 @@
       "source": "baidu_suggestion",
       "seed": "豆包",
       "first_seen": "2026-04-21T19:03:19.304535",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 130
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 131
     },
     "ai工具箱aibox": {
       "source": "baidu_suggestion",
@@ -3253,8 +3253,8 @@
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-04-22T13:10:24.924034",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 184
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 185
     },
     "百度ai编程": {
       "source": "baidu_suggestion",
@@ -3267,29 +3267,29 @@
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-22T13:10:24.924034",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 120
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 121
     },
     "ai设计软件全称英文": {
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-22T13:10:24.924034",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 52
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 53
     },
     "大模型龙头股票有哪些": {
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-04-22T13:10:24.924034",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 106
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 107
     },
     "通义千问收费吗": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-04-22T13:10:24.924034",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 213
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 214
     },
     "kimik2.6进入长程执行时代": {
       "source": "baidu_suggestion",
@@ -3309,8 +3309,8 @@
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-04-22T13:10:24.924034",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 206
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 207
     },
     "Ai替代": {
       "source": "baidu_suggestion",
@@ -3393,8 +3393,8 @@
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-23T07:27:21.290047",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 143
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 144
     },
     "Ai网站写作": {
       "source": "baidu_suggestion",
@@ -3421,15 +3421,15 @@
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-23T07:27:21.290047",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 146
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 147
     },
     "爱办公自动续费怎么退费啊": {
       "source": "baidu_suggestion",
       "seed": "AI办公",
       "first_seen": "2026-04-23T07:27:21.290047",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 190
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 191
     },
     "爱设计官网": {
       "source": "baidu_suggestion",
@@ -3477,8 +3477,8 @@
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-04-24T01:57:38.668885",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 113
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 114
     },
     "claudeai新增spotify等应用": {
       "source": "baidu_suggestion",
@@ -3540,22 +3540,22 @@
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-04-24T09:21:27.795627",
-      "last_seen": "2026-07-16T19:19:59.504291",
-      "count": 73
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 74
     },
     "百度ai工具": {
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-04-24T09:41:03.177900",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 43
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 44
     },
     "ai聊天人设模板": {
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-04-24T09:41:03.177900",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 239
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 240
     },
     "chatgpt 官网": {
       "source": "baidu_suggestion",
@@ -3568,8 +3568,8 @@
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-04-24T10:08:16.207307",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 238
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 239
     },
     "ai软件怎么抠图": {
       "source": "baidu_suggestion",
@@ -3610,22 +3610,22 @@
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-04-28T10:16:50.411118",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 234
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 235
     },
     "矮翻译": {
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-04-28T10:16:50.411118",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 147
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 148
     },
     "ai设计专业有哪些科目": {
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-04-28T10:16:50.411118",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 114
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 115
     },
     "deepseekv4引爆": {
       "source": "baidu_suggestion",
@@ -3659,15 +3659,15 @@
       "source": "baidu_suggestion",
       "seed": "AI智能体",
       "first_seen": "2026-04-28T10:16:50.411118",
-      "last_seen": "2026-06-25T14:09:20.119124",
-      "count": 10
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 11
     },
     "百度ai助手": {
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-04-28T10:16:50.411118",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 130
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 131
     },
     "爱思助手下载苹果版手机": {
       "source": "baidu_suggestion",
@@ -3736,8 +3736,8 @@
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-04-28T19:29:47.155298",
-      "last_seen": "2026-04-28T19:29:47.155298",
-      "count": 1
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 2
     },
     "chat gpt官网免费版": {
       "source": "baidu_suggestion",
@@ -3785,8 +3785,8 @@
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-04-29T08:05:56.565920",
-      "last_seen": "2026-07-16T19:19:59.504291",
-      "count": 53
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 54
     },
     "agent": {
       "source": "baidu_suggestion",
@@ -3806,8 +3806,8 @@
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-04-29T13:34:26.318642",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 216
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 217
     },
     "ai绘画怎么弄": {
       "source": "baidu_suggestion",
@@ -3904,8 +3904,8 @@
       "source": "baidu_suggestion",
       "seed": "AI网站",
       "first_seen": "2026-04-30T08:14:19.838494",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 91
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 92
     },
     "艾编程": {
       "source": "baidu_suggestion",
@@ -3995,8 +3995,8 @@
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-05-01T08:06:10.971442",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 193
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 194
     },
     "AI替代员工工资危机": {
       "source": "baidu_suggestion",
@@ -4037,8 +4037,8 @@
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-05-02T09:54:07.468966",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 349
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 351
     },
     "claude风控被骂上热搜": {
       "source": "baidu_suggestion",
@@ -4142,8 +4142,8 @@
       "source": "baidu_suggestion",
       "seed": "AI网站",
       "first_seen": "2026-05-02T12:58:31.377012",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 77
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 78
     },
     "chat人工智能免费入口": {
       "source": "baidu_suggestion",
@@ -4156,8 +4156,8 @@
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-05-02T12:58:31.377012",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 53
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 54
     },
     "大模型公司": {
       "source": "baidu_suggestion",
@@ -4303,8 +4303,8 @@
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-05-04T08:22:33.326158",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 114
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 115
     },
     "百度翻译": {
       "source": "baidu_suggestion",
@@ -4401,8 +4401,8 @@
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-05-05T13:21:22.523233",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 178
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 179
     },
     "claude翻译": {
       "source": "baidu_suggestion",
@@ -4569,8 +4569,8 @@
       "source": "baidu_suggestion",
       "seed": "Copilot",
       "first_seen": "2026-05-07T08:22:34.067999",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 109
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 110
     },
     "deepseek获450亿美元估值": {
       "source": "baidu_suggestion",
@@ -4681,8 +4681,8 @@
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-05-08T19:08:44.667614",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 47
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 48
     },
     "claude如何使用": {
       "source": "baidu_suggestion",
@@ -4702,8 +4702,8 @@
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-05-08T19:08:44.667614",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 31
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 32
     },
     "deepseek服务已恢复": {
       "source": "baidu_suggestion",
@@ -4751,8 +4751,8 @@
       "source": "baidu_suggestion",
       "seed": "Claude Code",
       "first_seen": "2026-05-11T02:28:59.090156",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 130
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 131
     },
     "copilot多少钱": {
       "source": "baidu_suggestion",
@@ -4779,8 +4779,8 @@
       "source": "baidu_suggestion",
       "seed": "AI平台",
       "first_seen": "2026-05-11T09:29:33.109312",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 161
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 162
     },
     "python ai编程": {
       "source": "baidu_suggestion",
@@ -4849,8 +4849,8 @@
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-05-11T14:34:18.158626",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 42
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 43
     },
     "ai聊天机器人或模糊现实与幻想": {
       "source": "baidu_suggestion",
@@ -4982,8 +4982,8 @@
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-05-12T19:32:10.041673",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 33
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 35
     },
     "ai绘画头像": {
       "source": "baidu_suggestion",
@@ -5241,8 +5241,8 @@
       "source": "baidu_suggestion",
       "seed": "AI聊天",
       "first_seen": "2026-05-17T13:04:19.115043",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 59
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 60
     },
     "爱音乐彩铃电信官网": {
       "source": "baidu_suggestion",
@@ -5836,8 +5836,8 @@
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-06-17T11:23:27.543726",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 18
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 20
     },
     "ai绘画免费软件哪个好用": {
       "source": "baidu_suggestion",
@@ -5850,8 +5850,8 @@
       "source": "baidu_suggestion",
       "seed": "AI视频",
       "first_seen": "2026-06-17T11:23:27.543726",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 118
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 119
     },
     "爱视频": {
       "source": "baidu_suggestion",
@@ -5885,15 +5885,15 @@
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-06-17T11:23:27.543726",
-      "last_seen": "2026-06-23T14:33:21.739472",
-      "count": 6
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 7
     },
     "claude官网下载": {
       "source": "baidu_suggestion",
       "seed": "Claude",
       "first_seen": "2026-06-17T11:23:27.543726",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 124
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 125
     },
     "deepseek完成首次融资": {
       "source": "baidu_suggestion",
@@ -5913,8 +5913,8 @@
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-06-17T11:23:27.543726",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 80
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 81
     },
     "豆包日收入数据": {
       "source": "baidu_suggestion",
@@ -5934,8 +5934,8 @@
       "source": "baidu_suggestion",
       "seed": "豆包",
       "first_seen": "2026-06-17T11:23:27.543726",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 79
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 80
     },
     "kimi k2.7": {
       "source": "baidu_suggestion",
@@ -5955,8 +5955,8 @@
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-06-17T11:23:27.543726",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 68
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 69
     },
     "ai助手怎么打开": {
       "source": "baidu_suggestion",
@@ -5997,8 +5997,8 @@
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-06-17T14:57:02.155031",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 110
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 111
     },
     "豆包每日收入": {
       "source": "baidu_suggestion",
@@ -6039,8 +6039,8 @@
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-06-18T02:49:55.103476",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 97
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 98
     },
     "claude语音模式酝酿升级": {
       "source": "baidu_suggestion",
@@ -6074,8 +6074,8 @@
       "source": "baidu_suggestion",
       "seed": "AI工具",
       "first_seen": "2026-06-18T14:53:05.078335",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 115
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 116
     },
     "ai网站编程开发": {
       "source": "baidu_suggestion",
@@ -6165,8 +6165,8 @@
       "source": "baidu_suggestion",
       "seed": "AI编程",
       "first_seen": "2026-06-19T03:34:46.229147",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 29
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 30
     },
     "deepseek获510亿融资": {
       "source": "baidu_suggestion",
@@ -6179,8 +6179,8 @@
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-06-19T10:17:03.181435",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 51
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 52
     },
     "ai视频剪辑软件哪个好用": {
       "source": "baidu_suggestion",
@@ -6277,8 +6277,8 @@
       "source": "baidu_suggestion",
       "seed": "文心一言",
       "first_seen": "2026-06-20T08:45:51.495681",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 106
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 107
     },
     "kimi创始人归国": {
       "source": "baidu_suggestion",
@@ -6354,8 +6354,8 @@
       "source": "baidu_suggestion",
       "seed": "大模型",
       "first_seen": "2026-06-23T14:33:21.739472",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 24
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 25
     },
     "ai助手画图": {
       "source": "baidu_suggestion",
@@ -6382,8 +6382,8 @@
       "source": "baidu_suggestion",
       "seed": "AI翻译",
       "first_seen": "2026-06-23T19:53:37.801769",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 24
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 25
     },
     "chatgpt怎么注册": {
       "source": "baidu_suggestion",
@@ -6403,8 +6403,8 @@
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-06-23T19:53:37.801769",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 94
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 95
     },
     "免费爱情测试题": {
       "source": "baidu_suggestion",
@@ -7019,8 +7019,8 @@
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-07-02T14:13:00.828992",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 59
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 60
     },
     "ai agent引爆营销革命": {
       "source": "baidu_suggestion",
@@ -7306,15 +7306,15 @@
       "source": "baidu_suggestion",
       "seed": "免费AI",
       "first_seen": "2026-07-09T15:20:09.419745",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 11
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 12
     },
     "chatgpt注册": {
       "source": "baidu_suggestion",
       "seed": "ChatGPT",
       "first_seen": "2026-07-10T03:42:32.452612",
-      "last_seen": "2026-07-10T03:42:32.452612",
-      "count": 1
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 2
     },
     "产品ai设计": {
       "source": "baidu_suggestion",
@@ -7439,22 +7439,22 @@
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-07-12T19:12:38.722035",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 17
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 18
     },
     "ai音乐乐园app下载": {
       "source": "baidu_suggestion",
       "seed": "AI音乐",
       "first_seen": "2026-07-12T19:12:38.722035",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 17
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 18
     },
     "阿里云通义千问": {
       "source": "baidu_suggestion",
       "seed": "通义千问",
       "first_seen": "2026-07-12T19:12:38.722035",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 11
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 12
     },
     "ai智能体主战场落子成都": {
       "source": "baidu_suggestion",
@@ -7530,8 +7530,8 @@
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-07-13T19:29:28.482032",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 13
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 14
     },
     "文心一言好用吗": {
       "source": "baidu_suggestion",
@@ -7551,8 +7551,8 @@
       "source": "baidu_suggestion",
       "seed": "豆包",
       "first_seen": "2026-07-14T19:27:14.855782",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 10
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 11
     },
     "deepseek启动ipo筹备": {
       "source": "baidu_suggestion",
@@ -7614,8 +7614,8 @@
       "source": "baidu_suggestion",
       "seed": "AI软件",
       "first_seen": "2026-07-15T19:19:54.489896",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 6
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 7
     },
     "ai写作文会不会重复": {
       "source": "baidu_suggestion",
@@ -7628,8 +7628,8 @@
       "source": "baidu_suggestion",
       "seed": "AI绘画",
       "first_seen": "2026-07-15T19:19:54.489896",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 12
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 14
     },
     "ai视频制作工具": {
       "source": "baidu_suggestion",
@@ -7677,8 +7677,8 @@
       "source": "baidu_suggestion",
       "seed": "Kimi",
       "first_seen": "2026-07-16T02:54:07.944845",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 5
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 6
     },
     "deepseek被曝筹备ipo": {
       "source": "baidu_suggestion",
@@ -7712,8 +7712,8 @@
       "source": "baidu_suggestion",
       "seed": "AI写作",
       "first_seen": "2026-07-16T19:19:59.504291",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 2
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 3
     },
     "豆包ai角落下线": {
       "source": "baidu_suggestion",
@@ -7726,14 +7726,28 @@
       "source": "baidu_suggestion",
       "seed": "AI助手",
       "first_seen": "2026-07-16T19:19:59.504291",
-      "last_seen": "2026-07-17T02:56:30.811105",
-      "count": 2
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 3
     },
     "ai设计师助力零食风靡全球": {
       "source": "baidu_suggestion",
       "seed": "AI设计",
       "first_seen": "2026-07-17T02:56:30.811105",
-      "last_seen": "2026-07-17T02:56:30.811105",
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 2
+    },
+    "deepseek股市": {
+      "source": "baidu_suggestion",
+      "seed": "DeepSeek",
+      "first_seen": "2026-07-17T08:18:20.741692",
+      "last_seen": "2026-07-17T08:18:20.741692",
+      "count": 1
+    },
+    "豆包手机二代": {
+      "source": "baidu_suggestion",
+      "seed": "豆包",
+      "first_seen": "2026-07-17T08:18:20.741692",
+      "last_seen": "2026-07-17T08:18:20.741692",
       "count": 1
     }
   }

@@ -20,7 +20,7 @@ ai_summary = "文章网址：https://blog.greg.technology/2026/07/14/llm-network
 summary = "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik."
 summary_zh = "文章网址：https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html 评论网址：https://news.ycombinator.com/item?id…"
 tags = []
-list_page = 8
+list_page = 9
 +++
 
 <!-- AUTO-GENERATED: news page -->
