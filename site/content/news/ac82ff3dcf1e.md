@@ -20,7 +20,7 @@ ai_summary = "文章网址：https://the-decoder.com/german-ai-consortium-releas
 summary = "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: https://news."
 summary_zh = "文章网址：https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-englis…"
 tags = []
-list_page = 8
+list_page = 10
 +++
 
 <!-- AUTO-GENERATED: news page -->
