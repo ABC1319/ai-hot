@@ -4025,6 +4025,31 @@
     "is_core": true
   },
   {
+    "id": "hf-conradlocke--krea2-identity-edit",
+    "name": "conradlocke/krea2-identity-edit",
+    "display_name": "krea2-identity-edit",
+    "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+    "author": "conradlocke",
+    "pipeline_tag": "",
+    "likes": 404,
+    "downloads": 0,
+    "tags": [
+      "image-editing",
+      "lora",
+      "comfyui",
+      "krea-2",
+      "base_model:krea/Krea-2-Raw",
+      "base_model:adapter:krea/Krea-2-Raw",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-07-07T14:28:55.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-07-19T08:26:50.544915",
+    "display_priority": 104,
+    "is_core": true
+  },
+  {
     "id": "hf-datalab-to--chandra-ocr-2",
     "name": "datalab-to/chandra-ocr-2",
     "display_name": "chandra-ocr-2",
@@ -4051,7 +4076,7 @@
     "created_at": "2026-03-16T20:47:07.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-21T13:07:47.733938",
-    "display_priority": 104,
+    "display_priority": 105,
     "is_core": true
   },
   {
@@ -4071,7 +4096,7 @@
     "created_at": "2026-06-16T22:31:20.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-14T19:27:14.631053",
-    "display_priority": 105,
+    "display_priority": 106,
     "is_core": true
   },
   {
@@ -4095,7 +4120,7 @@
     "created_at": "2026-03-05T16:04:16.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-21T13:07:47.733940",
-    "display_priority": 106,
+    "display_priority": 107,
     "is_core": true
   },
   {
@@ -4123,31 +4148,6 @@
     "created_at": "2026-03-16T04:01:31.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-18T19:12:44.132163",
-    "display_priority": 107,
-    "is_core": true
-  },
-  {
-    "id": "hf-LiconStudio--LTX-2.3-Multiple-Subject-Reference",
-    "name": "LiconStudio/LTX-2.3-Multiple-Subject-Reference",
-    "display_name": "LTX-2.3-Multiple-Subject-Reference",
-    "url": "https://huggingface.co/LiconStudio/LTX-2.3-Multiple-Subject-Reference",
-    "author": "LiconStudio",
-    "pipeline_tag": "",
-    "likes": 232,
-    "downloads": 26801,
-    "tags": [
-      "diffusers",
-      "video-generation",
-      "multi-reference",
-      "LTX-2.3",
-      "base_model:Lightricks/LTX-2.3",
-      "base_model:finetune:Lightricks/LTX-2.3",
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-06-01T11:14:36.000Z",
-    "source": "hf-trending",
-    "collected_at": "2026-07-19T03:19:01.857636",
     "display_priority": 108,
     "is_core": true
   },
@@ -5434,6 +5434,30 @@
     "is_core": true
   },
   {
+    "id": "hf-ToddBB--MyAwesomeModel-TestRepo",
+    "name": "ToddBB/MyAwesomeModel-TestRepo",
+    "display_name": "MyAwesomeModel-TestRepo",
+    "url": "https://huggingface.co/ToddBB/MyAwesomeModel-TestRepo",
+    "author": "ToddBB",
+    "pipeline_tag": "feature-extraction",
+    "likes": 0,
+    "downloads": 5770,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "bert",
+      "feature-extraction",
+      "license:mit",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-07-19T08:04:48.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-07-19T08:26:50.587594",
+    "display_priority": 146,
+    "is_core": true
+  },
+  {
     "id": "hf-dongbobo--MyAwesomeModel-TestRepo",
     "name": "dongbobo/MyAwesomeModel-TestRepo",
     "display_name": "MyAwesomeModel-TestRepo",
@@ -5454,7 +5478,7 @@
     "created_at": "2026-06-30T08:46:20.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T09:00:51.850200",
-    "display_priority": 146,
+    "display_priority": 147,
     "is_core": true
   },
   {
@@ -5479,7 +5503,7 @@
     "created_at": "2026-07-03T09:08:28.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-03T09:27:06.599447",
-    "display_priority": 147,
+    "display_priority": 148,
     "is_core": true
   },
   {
@@ -5503,7 +5527,7 @@
     "created_at": "2026-06-30T08:42:01.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T09:00:51.850237",
-    "display_priority": 148,
+    "display_priority": 149,
     "is_core": true
   },
   {
@@ -5527,7 +5551,7 @@
     "created_at": "2026-07-14T07:58:09.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-14T08:15:49.274351",
-    "display_priority": 149,
+    "display_priority": 150,
     "is_core": true
   },
   {
@@ -5552,7 +5576,7 @@
     "created_at": "2026-07-03T09:20:29.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-03T09:27:06.599390",
-    "display_priority": 150,
+    "display_priority": 151,
     "is_core": true
   },
   {
@@ -5576,7 +5600,7 @@
     "created_at": "2026-06-30T08:44:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T09:00:51.850221",
-    "display_priority": 151,
+    "display_priority": 152,
     "is_core": true
   },
   {
@@ -5605,7 +5629,7 @@
     "created_at": "2026-06-30T19:41:51.000Z",
     "source": "hf-newest",
     "collected_at": "2026-06-30T19:46:24.754445",
-    "display_priority": 152,
+    "display_priority": 153,
     "is_core": true
   },
   {
@@ -5633,7 +5657,7 @@
     "created_at": "2026-07-11T13:16:37.000Z",
     "source": "hf-newest",
     "collected_at": "2026-07-11T13:29:41.169559",
-    "display_priority": 153,
+    "display_priority": 154,
     "is_core": true
   },
   {
@@ -5660,30 +5684,6 @@
     "created_at": "2026-05-01T12:57:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T13:13:50.687297",
-    "display_priority": 154,
-    "is_core": true
-  },
-  {
-    "id": "hf-hdqtoolathlon--MyAwesomeModel-TestRepo",
-    "name": "hdqtoolathlon/MyAwesomeModel-TestRepo",
-    "display_name": "MyAwesomeModel-TestRepo",
-    "url": "https://huggingface.co/hdqtoolathlon/MyAwesomeModel-TestRepo",
-    "author": "hdqtoolathlon",
-    "pipeline_tag": "feature-extraction",
-    "likes": 1,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "pytorch",
-      "bert",
-      "feature-extraction",
-      "license:mit",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-06-20T13:37:45.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-06-20T13:45:32.150438",
     "display_priority": 155,
     "is_core": true
   },
