@@ -20,7 +20,7 @@ ai_summary = ""
 summary = "有分析指出，近日，“迈巨微电子”完成数千万元融资，由华宝新能领投，老股东欣旺达、启赋资本持续加注，资金将主要用于智能单电芯级多维监测传感器芯片MagiCell™的量产导入、MagicFETs™与MagicAFE™系列产品线的迭代扩产，以及面向工商业储能和汽车电子市场的研发与市场拓展。"
 summary_zh = ""
 tags = []
-list_page = 67
+list_page = 69
 +++
 
 <!-- AUTO-GENERATED: news page -->
