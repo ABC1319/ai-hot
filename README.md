@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-20 11:34:37
+🕐 **最近更新**：2026-07-20 17:25:55
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -20,20 +20,20 @@
    - 在最新一期的《Equity》节目中，我们讨论了苹果的诉讼是否会影响 OpenAi 备受讨论的进军硬件和上市的计划
    - `TechCrunch AI · 2026-07-19`
 
-2. [我讨厌我不讨厌这首和Suno一起做的歌](https://aihot.bt199.com/news/b76bec5ff62b/)
+2. [人工智能在招聘时比人类更有可能形成偏见](https://aihot.bt199.com/news/d213c30d2534/)
+   - 下次你申请工作时，人工智能可能会在任何人看到之前筛选你的简历。但我们有充分的理由质疑人工智能是否会公平地评判你。研究人员…
+   - `MIT Tech Review · 2026-07-20`
+
+3. [我讨厌我不讨厌这首和Suno一起做的歌](https://aihot.bt199.com/news/b76bec5ff62b/)
    - 我绝不会说人工智能在音乐中没有立足之地（毕竟我是 Holly Herndon 的粉丝）。但我普遍认为用生成式人工智能制作…
    - `The Verge AI · 2026-07-19`
 
-3. [Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”](https://aihot.bt199.com/news/5476eaca52d0/)
+4. [Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”](https://aihot.bt199.com/news/5476eaca52d0/)
    - 去年，Sam Altman 邀请作家 Dave Eggers 为大约 200 名 OpenAI 员工发表演讲。他写了无数…
    - `The Verge AI · 2026-07-18`
 
-4. [下载：围绝经期错误信息和中国最新的人工智能飞跃](https://aihot.bt199.com/news/6d08c5b7cd5a/)
+5. [下载：围绝经期错误信息和中国最新的人工智能飞跃](https://aihot.bt199.com/news/6d08c5b7cd5a/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。关于围绝经期有很多炒作。不要买它。围…
-   - `MIT Tech Review · 2026-07-17`
-
-5. [天气数据遭到破坏的风险正在上升](https://aihot.bt199.com/news/5777494d3bc5/)
-   - 每天早上，世界各地的航空公司调度员、电网运营商和农民都会根据同一件事做出决策：天气预报。虽然大多数人只看一眼这些预测两秒…
    - `MIT Tech Review · 2026-07-17`
 
 6. [人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度](https://aihot.bt199.com/news/308c77cdd950/)
@@ -139,6 +139,8 @@
 ---
 
 MIT License
+
+
 
 
 
