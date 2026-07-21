@@ -6,7 +6,7 @@
 
 🌐 **在线网站**：https://aihot.bt199.com/  
 🔍 **站内搜索**：https://aihot.bt199.com/search/  
-🕐 **最近更新**：2026-07-21 22:05:12
+🕐 **最近更新**：2026-07-22 03:40:59
 
 **提供商直达：** [🟠 小米 MiMo](https://platform.xiaomimimo.com?ref=A3JKSD) · [⚡️ ZenMux｜免费调用 DeepSeek V4 API，上手零门槛](https://zenmux.ai/invite/16U6FF) · [硅基流动](https://cloud.siliconflow.cn/i/Ngl1oB14) · [火山引擎](https://volcengine.com/L/A3Cm9GB_3J4/)  
 
@@ -16,43 +16,39 @@
 
 ## 🔥 今日热点
 
-1. [音乐流媒体 Deezer 表示，超过 50% 的每日上传内容是人工智能生成的](https://aihot.bt199.com/news/a70f755423c2/)
-   - Deezer 表示，6 月份每天有超过 90,000 首人工智能生成的曲目上传到该平台
+1. [美国威胁对中国人工智能模型实施知识产权盗窃制裁](https://aihot.bt199.com/news/be406df3fd99/)
+   - 美国财政部长斯科特·贝森特表示，美国可能会因涉嫌盗窃知识产权而制裁中国开放人工智能模型，从而扩大特朗普政府减缓中国人工智…
    - `TechCrunch AI · 2026-07-21`
 
-2. [Anthropic 里程碑式的 1.5B 美元版权和解协议获得批准](https://aihot.bt199.com/news/683e474adcf4/)
-   - 最终的批准解决了一个案件，但并没有解决使用受版权保护的作品训练人工智能模型的更广泛的问题
-   - `TechCrunch AI · 2026-07-21`
+2. [Substack 添加了一个 AI 检测器，以帮助发现无人撰写的博客](https://aihot.bt199.com/news/479948011bc9/)
+   - Substack 现在将帮助用户确定他们正在阅读的内容是否是由人工智能编写的。据 publis 发布的博客文章称，该平台…
+   - `The Verge AI · 2026-07-21`
 
-3. [下载：中国人工智能分裂白宫，版权支出创纪录](https://aihot.bt199.com/news/4f2427b73e96/)
+3. [Anthropic 15 亿美元的图书盗版和解协议获得法官批准](https://aihot.bt199.com/news/9e86e0fbb2cf/)
+   - 据路透社早些时候报道，一位联邦法官已签署了 Anthropic 与作者签署的 15 亿美元集体诉讼和解协议，这些作者指控…
+   - `The Verge AI · 2026-07-21`
+
+4. [下载：中国人工智能分裂白宫，版权支出创纪录](https://aihot.bt199.com/news/4f2427b73e96/)
    - 这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。中国的人工智能模型让特朗普的人工智能…
    - `MIT Tech Review · 2026-07-21`
-
-4. [美国需要停止对中国人工智能感到震惊](https://aihot.bt199.com/news/e9faa71a5160/)
-   - 上周，两家中国人工智能公司推出了他们认为可以与 OpenAI 和 Anthropic 的最佳系统相媲美的模型。反应迅速且…
-   - `The Verge AI · 2026-07-21`
 
 5. [通过材料科学创新推进下一代人工智能](https://aihot.bt199.com/news/6d5a86555da5/)
    - 关于人工智能的讨论通常集中在算法、计算能力或对新半导体制造工厂和超大规模数据中心的巨额投资上。但在每一项进步的背后，还有…
    - `MIT Tech Review · 2026-07-21`
 
-6. [以下是索尼起诉 Udio 人工智能音乐生成器的 30,000 首歌曲](https://aihot.bt199.com/news/612445dbd724/)
-   - 索尼音乐娱乐公司又对 Udio 提起诉讼，指控人工智能音乐生成器侵犯了其 30,000 多首歌曲的版权，其中包括埃尔维斯…
-   - `The Verge AI · 2026-07-20`
-
-7. [人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度](https://aihot.bt199.com/news/308c77cdd950/)
+6. [人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度](https://aihot.bt199.com/news/308c77cdd950/)
    - 在 107 家企业中，人工智能基础设施支出的加速增长远远超过了观察或引导其经济的能力。大多数组织都在熟悉的超大规模和模型…
    - `VentureBeat AI · 2026-07-16`
 
-8. [代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证](https://aihot.bt199.com/news/e1584d598002/)
+7. [代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证](https://aihot.bt199.com/news/e1584d598002/)
    - 在 107 家企业中，人工智能代理能够真正访问系统和数据，但遏制它们的控制措施却滞后。超过一半的人已经确认发生过特工安全…
    - `VentureBeat AI · 2026-07-16`
 
-9. [随着投资者寻找利用人工智能热潮的方法，能源首次公开募股激增](https://aihot.bt199.com/news/3b5274402cd7/)
+8. [随着投资者寻找利用人工智能热潮的方法，能源首次公开募股激增](https://aihot.bt199.com/news/3b5274402cd7/)
    - 上市公司正在以本世纪最快的速度筹集资金
    - `Ars Technica AI · 2026-07-16`
 
-10. [Sheetz 退出 VMware，迁移 11,000 台虚拟机](https://aihot.bt199.com/news/62bd02127289/)
+9. [Sheetz 退出 VMware，迁移 11,000 台虚拟机](https://aihot.bt199.com/news/62bd02127289/)
    - 这家连锁便利店将改用 StorMagic
    - `Ars Technica AI · 2026-07-15`
 
@@ -139,6 +135,8 @@
 ---
 
 MIT License
+
+
 
 
 
