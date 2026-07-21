@@ -20,7 +20,7 @@ ai_summary = "文章网址：https://www.kaggle.com/competitions/kaggle-measurin
 summary = "Article URL: https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423 Comments URL: https://news."
 summary_zh = "文章网址：https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423 评论网址：https://news.ycombinator.co…"
 tags = []
-list_page = 22
+list_page = 23
 +++
 
 <!-- AUTO-GENERATED: news page -->
