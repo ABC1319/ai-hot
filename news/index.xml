@@ -646,7 +646,15 @@ We’ll begin restoring access tomorrow, and will share an update soon.
 We’re grateful to our users for their patience, and to everyone who worked with us on redeploying the models.
 In early June, Anthropic sidelined Fable 5 — its consumer-facing model built the same underlying technology as Anthropic’s Mythos 5, but with more safeguards — after a Friday evening ultimatum from the Trump administration.&lt;/p&gt;</description></item><item><title>Anthropic 开始对印度进行 Claude 定价本地化，印度是其继美国之后的最大市场</title><link>https://aihot.bt199.com/news/cda1dfeab597/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/cda1dfeab597/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Anthropic has started localizing Claude’s pricing in India, its biggest market outside the U.S., as global AI companies increasingly tailor their offerings to win users in the world’s most populous nation.
-Local pricing has begun to appear for some users in India on Claude’s website and mobile apps.&lt;/p&gt;</description></item><item><title>Anthropic 受到没人理解的出口规则的打击</title><link>https://aihot.bt199.com/news/df07fe6f5184/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/df07fe6f5184/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Local pricing has begun to appear for some users in India on Claude’s website and mobile apps.&lt;/p&gt;</description></item><item><title>Anthropic 里程碑式的 1.5B 美元版权和解协议获得批准</title><link>https://aihot.bt199.com/news/683e474adcf4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/683e474adcf4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Anthropic can finally start cutting checks to a group of authors and book publishers that sued the AI lab over copyright infringement.&lt;/p&gt;
+&lt;p&gt;A federal judge gave final approval Monday of Anthropic’s landmark $1.5 billion settlement of a class action copyright lawsuit,
+Reuters reported
+.
+Judge William Alsup of the U.S.&lt;/p&gt;
+&lt;p&gt;District Court for the Northern District of California issued a preliminary approval of the settlement last year, after ruling that Anthropic had illegally downloaded and stored millions of copyrighted books.
+Alsup has since retired and Judge Araceli Martinez-Olguin signed off on the settlement on Monday.
+The payout will deliver $3,000 per work across an estimated 500,000 works, shared among the authors and publishers who hold rights to them.&lt;/p&gt;</description></item><item><title>Anthropic 受到没人理解的出口规则的打击</title><link>https://aihot.bt199.com/news/df07fe6f5184/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/df07fe6f5184/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone.
 Anthropic got hit by export rules nobody understands
 Governing AI through opaque, ad hoc interventions is unsustainable, experts warn.
@@ -1941,7 +1949,10 @@ Expands OpenAI’s full-stack platform, from products to models and now to chips
 To be deployed at gigawatt scale with data center partners, over multiple generations
 OpenAI and Broadcom (NASDAQ: AVGO) today unveiled Jalapeño, OpenAI’s first Intelligence Processor: an accelerator architected around OpenAI’s vision for the future of LLM inference, and the first AI accelerator in a multi-generation compute platform the companies are building together to make advanced AI faster, more reliable, and more accessible to more people.
 Jalapeño was delivered to OpenAI CEO Sam Altman and President Greg Brockman by Broadcom President and CEO Hock Tan and President Charlie Kawwas, marking an important step in OpenAI’s strategy to build the full stack behind its models and products.
-OpenAI designed the chip from scratch around its deep understanding of LLM fundamentals, informed by its roadmap of models, kernels, serving systems, and product needs, with partners Broadcom and Celestica, helping industrialize the platform through chip implementation, board, rack system integration, high-performance networking, and scalable production systems.&lt;/p&gt;</description></item><item><title>OpenAI 今年可能会推出 ChatGPT 智能音箱</title><link>https://aihot.bt199.com/news/ac05241f6ebb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ac05241f6ebb/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+OpenAI designed the chip from scratch around its deep understanding of LLM fundamentals, informed by its roadmap of models, kernels, serving systems, and product needs, with partners Broadcom and Celestica, helping industrialize the platform through chip implementation, board, rack system integration, high-performance networking, and scalable production systems.&lt;/p&gt;</description></item><item><title>OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/b0c6f55147e0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b0c6f55147e0/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;OpenAI 的工程师们花了数周时间，试图解释 Rockset 中那些神秘的崩溃问题。&lt;/p&gt;
+&lt;p&gt;Rockset 是一款 C++ 数据基础设施服务，为 ChatGPT 的搜索和数据插件提供支持。&lt;/p&gt;
+&lt;p&gt;函数似乎会返回错误的内存地址，栈指针在执行过程中似乎会偏移 8 个字节。&lt;/p&gt;</description></item><item><title>OpenAI 今年可能会推出 ChatGPT 智能音箱</title><link>https://aihot.bt199.com/news/ac05241f6ebb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ac05241f6ebb/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;OpenAI’s first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg.&lt;/p&gt;
 &lt;p&gt;The device apparently won’t have a screen, but will use a camera and additional sensors to “understand” your environment.
 OpenAI may announce a ChatGPT smart speaker this year
@@ -3208,7 +3219,10 @@ Jay 发自 凹非寺
 &lt;p&gt;作者 | 乔钰杰
 编辑 | 袁斯来
 硬氪获悉，雪梦未来（SnowOrigin）团队获得龚虹嘉、陆奇及海外机构投资。&lt;/p&gt;
-&lt;p&gt;这支北大背景团队以sEMG（表面肌电）运动神经信号解码技术为切入点，通过神经腕带、第一视角采集设备以及自研NMH（Neural Math Hybrid）AI解码模型，构建新一代面向具身智能的人类操控数据采集方案。&lt;/p&gt;</description></item><item><title>刚刚，920 亿参数，华为 openPangu-2.0-Flash 模型正式开源上线</title><link>https://aihot.bt199.com/news/29cc7d503d9f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/29cc7d503d9f/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;这支北大背景团队以sEMG（表面肌电）运动神经信号解码技术为切入点，通过神经腕带、第一视角采集设备以及自研NMH（Neural Math Hybrid）AI解码模型，构建新一代面向具身智能的人类操控数据采集方案。&lt;/p&gt;</description></item><item><title>刚刚，6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察</title><link>https://aihot.bt199.com/news/a2456832ba67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a2456832ba67/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;作者 | 黄楠
+编辑 | 袁斯来
+在旗下App每年创造数亿元营收、日均百万用户打开量的时候，心言集团创始人兼CEO任永亮做了一个令所有人都觉得“不理性”的决定：把AI情感陪伴能力塞进一个硬件的模具里——造机器人。&lt;/p&gt;</description></item><item><title>刚刚，920 亿参数，华为 openPangu-2.0-Flash 模型正式开源上线</title><link>https://aihot.bt199.com/news/29cc7d503d9f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/29cc7d503d9f/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据悉，IT之家 6 月 30 日消息，华为官方宣布，华为开源盘古 920 亿参数的 openPangu-2.0-Flash 模型今天（30 日）正式开源上线。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -4108,7 +4122,13 @@ on Wednesday.&lt;/p&gt;
 &lt;p&gt;The feature is powered by
 Gemini Omni,
 Google’s recently released model that promises to “create anything from any input.”
-The launch is Google’s latest push to bring more generative AI tools into its consumer apps as it continues to compete with companies like Apple, OpenAI, and Adobe.&lt;/p&gt;</description></item><item><title>谷歌支持修改邮箱前缀，这意味着什么？</title><link>https://aihot.bt199.com/news/v2ex-1222135/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1222135/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+The launch is Google’s latest push to bring more generative AI tools into its consumer apps as it continues to compete with companies like Apple, OpenAI, and Adobe.&lt;/p&gt;</description></item><item><title>谷歌正在开发一款新的人工智能芯片，旨在提高 Gemini 的效率</title><link>https://aihot.bt199.com/news/20d9bcdf5693/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/20d9bcdf5693/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Alphabet, Google’s parent company, is designing a new server chip to help its in-house Gemini models operate more efficiently.
+The new chip, internally dubbed “Frozen v2,” is slated to be released sometime in 2028, The Information
+reported
+, citing anonymous sources.&lt;/p&gt;
+&lt;p&gt;According to the report, the chip could be between six and 10 times more efficient than Google’s existing AI chips, measured by the number of tokens generated per unit of power.
+In a response to TechCrunch, the company didn’t directly confirm the report.&lt;/p&gt;</description></item><item><title>谷歌支持修改邮箱前缀，这意味着什么？</title><link>https://aihot.bt199.com/news/v2ex-1222135/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1222135/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;有分析指出，以前是支持美区，现在也支持其他区了 &lt;a href="http://myaccount.google.com/google-account-email"&gt;http://myaccount.google.com/google-account-email&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -4376,7 +4396,17 @@ When he reported the case to high-ranking officials at Brown, he got a cold reac
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://www.qbitai.com/2026/07/449979.html"&gt;量子位原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>阶跃与上海期智研究院共建智能体前沿研究院，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/dfe24bec3b70/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/dfe24bec3b70/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;据了解，据阶跃官微消息，7月18日，阶跃星辰与上海期智研究院宣布正式达成合作，双方将共同设立智能体前沿研究院，围绕智能体网络及经济原理、AI Safety等方向开展联合研究，探索Agent时代的基础理论、核心技术、标准体系与产业范式。&lt;/p&gt;</description></item><item><title>今年您需要的唯一人工智能术语表</title><link>https://aihot.bt199.com/news/eeb0f69b3cf9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/eeb0f69b3cf9/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;据了解，据阶跃官微消息，7月18日，阶跃星辰与上海期智研究院宣布正式达成合作，双方将共同设立智能体前沿研究院，围绕智能体网络及经济原理、AI Safety等方向开展联合研究，探索Agent时代的基础理论、核心技术、标准体系与产业范式。&lt;/p&gt;</description></item><item><title>解释说 SpaceX 在你的指数基金中</title><link>https://aihot.bt199.com/news/3353d192712a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3353d192712a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Index funds are touted as one of the safest ways to invest.&lt;/p&gt;
+&lt;p&gt;Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole.&lt;/p&gt;
+&lt;p&gt;So what happens when a company like SpaceX — a
+giant gamble
+, and, in my opinion,
+terribly overpriced
+— is fast-tracked into the Nasdaq-100? Does it suddenly threaten the stability of index funds based on the Nasdaq-100?
+Can a $1.77 trillion IPO
+crater the retirement funds of regular people who would ordinarily have no interest in investing in Elon Musk’s meme stock?
+The answer has less to do with SpaceX and more to do with index funds — how they work, their history, and why they’ve been treated as one of the least risky ways to interact with the stock market.&lt;/p&gt;</description></item><item><title>今年您需要的唯一人工智能术语表</title><link>https://aihot.bt199.com/news/eeb0f69b3cf9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/eeb0f69b3cf9/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Artificial intelligence is rewriting the world, and simultaneously inventing a whole new language to describe how it’s doing it.&lt;/p&gt;
 &lt;p&gt;Sit in on any product meeting, pitch, or panel these days, and you’ll hear people toss around LLMs, RAG, RLHF, and a dozen other terms that can make even very smart people in the tech world feel a little insecure.&lt;/p&gt;</description></item><item><title>今日职场 PUA 大赏，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/v2ex-1227077/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1227077/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;有分析指出，背景： 5 人团队 2 个领导 一个领导是老板的同学，一来就把 40 人团队带到只剩 5 个人，走的走开的开，完全不和传话筒以下的职位的人说话。&lt;/p&gt;</description></item><item><title>京东：推出京麦AI经营中心，这意味着什么？</title><link>https://aihot.bt199.com/news/fec7a9bee53d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/fec7a9bee53d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -5247,7 +5277,12 @@ That possibility is a growing concern for medical specialists, computer scientis
 &lt;p&gt;文章网址：https://trakkr.ai/bias 评论网址：https://news.ycombinator.co…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://trakkr.ai/bias"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑</title><link>https://aihot.bt199.com/news/a90a0d3e9300/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a90a0d3e9300/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://trakkr.ai/bias"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>人工智能最重要的协议变得更容易使用</title><link>https://aihot.bt199.com/news/9afbcd831bf6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/9afbcd831bf6/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services.&lt;/p&gt;
+&lt;p&gt;It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection.&lt;/p&gt;
+&lt;p&gt;Next week, that protocol is getting a significant update, and while it might not be noticeable to end users, it could make a big difference in how the ecosystem develops.
+The official spec for the new version has been public since May, but we got an unusually clear explanation of the changes Monday morning from the folks at Arcade — a two-year-old startup that’s built its entire business around the work of getting AI agents to actually function inside real companies, letting them securely connect to and act on tools like Gmail, Slack, and Salesforce.
+Arcade raised $60 million in June based on the idea that most AI agents don’t fail because the underlying models are weak but because the infrastructure around them isn’t ready yet, and that’s what this update is trying to address.&lt;/p&gt;</description></item><item><title>人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑</title><link>https://aihot.bt199.com/news/a90a0d3e9300/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a90a0d3e9300/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks.&lt;/p&gt;
 &lt;p&gt;What they found ranges from the mundane to the unnerving.
 Researchers at the company built a tool called the Jacobian lens (or J-lens) and used it to uncover a hidden area, which they named the J-space, inside Claude Opus 4.6, a version of Anthropic’s flagship LLM released in February.
@@ -6024,7 +6059,11 @@ AICon全球人工智能开发与应用大会
 &lt;p&gt;作者｜黄楠
 编辑｜袁斯来
 硬氪获悉，感知纪元科技有限公司（以下简称“感知纪元”）近日完成千万级天使轮融资，本轮由松禾资本领衔投资。&lt;/p&gt;
-&lt;p&gt;融资资金将主要用于中试产线搭建、核心产品迭代升级及团队扩充，加速推进多模态智能触觉电子皮肤从研发走向量产。&lt;/p&gt;</description></item><item><title>深度解读：随着AI相关担忧重燃，欧元信用违约掉期成本上升</title><link>https://aihot.bt199.com/news/0a967fe1b82a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0a967fe1b82a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;融资资金将主要用于中试产线搭建、核心产品迭代升级及团队扩充，加速推进多模态智能触觉电子皮肤从研发走向量产。&lt;/p&gt;</description></item><item><title>深度解读：速腾聚创第二代全固态感知平台发布，要做物理AI数据入口｜最前线</title><link>https://aihot.bt199.com/news/42b34f5abb4a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/42b34f5abb4a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;作者｜黄楠
+编辑｜袁斯来
+当下具身智能赛道正完成一轮关键转型。&lt;/p&gt;
+&lt;p&gt;此前行业大量研发、展示集中在人形、四足机器人舞台演示，如今产业评判标准落地到工厂、园区、家庭等真实场景的长期稳定作业能力。&lt;/p&gt;</description></item><item><title>深度解读：随着AI相关担忧重燃，欧元信用违约掉期成本上升</title><link>https://aihot.bt199.com/news/0a967fe1b82a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0a967fe1b82a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;有分析指出，随着对AI公司估值的担忧导致市场情绪恶化，欧元计价信用债的违约保护成本上升。&lt;/p&gt;
 &lt;p&gt;德意志银行策略师在一份报告中表示，对科技领域的担忧压倒了投资者对美伊谈判进展的乐观情绪。&lt;/p&gt;</description></item><item><title>深度解读：索尼停止在日本销售机器狗 aibo</title><link>https://aihot.bt199.com/news/a9f6c464b9a7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/a9f6c464b9a7/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，Japan Today Sony discontinues Japan sales of robot puppy aibo Sony is halting sales of its robotic puppy &amp;ldquo;aibo&amp;rdquo; in Japan, the company said, eight years after the latest model of its interactive android pet became an instant hit.&lt;/p&gt;
@@ -6420,7 +6459,15 @@ It is now allowing Anthropic to make Mythos 5 available to more than 100 specifi
 Semafor
 and
 Reuters
-report.&lt;/p&gt;</description></item><item><title>腾讯 TokenPlan 企业版本上线 glm 5.2，这意味着什么？</title><link>https://aihot.bt199.com/news/4b85538312fd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/4b85538312fd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+report.&lt;/p&gt;</description></item><item><title>特朗普最新的人工智能沙皇已经辞职</title><link>https://aihot.bt199.com/news/79729dbd9369/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/79729dbd9369/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Chris Fall, the director of the Center for AI Standards and Innovation (CAISI), has resigned, the agency
+confirmed
+to multiple news outlets.
+He was appointed just three months ago after the last appointee, Collin Burns, left in less than a week, The
+Washington Post reported
+at the time.&lt;/p&gt;
+&lt;p&gt;Burns was reportedly “pushed out” of the job in April because he previously worked for Anthropic and the Trump administration had been battling with the company, sources told the Post.
+No reason was given for Fall’s departure.&lt;/p&gt;</description></item><item><title>腾讯 TokenPlan 企业版本上线 glm 5.2，这意味着什么？</title><link>https://aihot.bt199.com/news/4b85538312fd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/4b85538312fd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，文档没有及时更新 大模型服务平台 TokenHub Token Plan 企业版快 3 个帖子 - 3 位参与者 阅读完整话题&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -7621,7 +7668,8 @@ confidential paperwork for an IPO
 first-ever profitable quarter
 .
 Then on Friday, the Trump administration renewed its war on the model maker by sending a letter demanding it ban non-Americans, including Anthropic’s employees, from accessing its state-of-the-art models: the limited-release Mythos 5 and the more guarded version of Mythos
-released to the public three days earlier, called Fable 5&lt;/p&gt;</description></item><item><title>小小农民新开中转站，欢迎来踩，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/v2ex-1226359/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1226359/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+released to the public three days earlier, called Fable 5&lt;/p&gt;</description></item><item><title>小米上调手机出货目标至1.1亿部，增幅约16%，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/b80067f4c6de/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b80067f4c6de/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;消息称，从供应链获悉，小米已将2026年全年智能手机出货目标从约9000万部上调至1.1亿部，增幅约16%，上调的增量部分主要来自低端机型。&lt;/p&gt;</description></item><item><title>小小农民新开中转站，欢迎来踩，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/v2ex-1226359/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1226359/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;消息称，新开中转站，注册送 10 额度 如何得到 10 额度：注册送 1 ，评论留账户+9 记得码账户 0.1 倍率混池 支持最新 5.6 模型 &lt;a href="https://flowai.cyou"&gt;https://flowai.cyou&lt;/a&gt; 支持 gpt ，claude&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -7788,7 +7836,13 @@ He’s not alone in making that kind of move.&lt;/p&gt;</description></item><ite
 作者：肖松
 西门子中国董事长、总裁兼CEO
 国际智能制造联盟副主席
-今年以来，以深度融合人工智能与物理世界为特征的“物理AI”，成为全球科技和产业发展的热点。&lt;/p&gt;</description></item><item><title>亿道信息：预计上半年净利润同比增长1442.02%-1792.48%，业内人士怎么看？</title><link>https://aihot.bt199.com/news/d220f5d3af30/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/d220f5d3af30/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+今年以来，以深度融合人工智能与物理世界为特征的“物理AI”，成为全球科技和产业发展的热点。&lt;/p&gt;</description></item><item><title>以下是索尼起诉 Udio 人工智能音乐生成器的 30,000 首歌曲</title><link>https://aihot.bt199.com/news/612445dbd724/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/612445dbd724/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley’s Hound Dog to Beyoncé’s Say My Name, and Harry Styles’ As It Was.&lt;/p&gt;
+&lt;p&gt;The lawsuit, filed in a New York court on Monday, claims that this list represents “only a small portion of Plaintiffs’ works that Udio infringed,” as reported earlier by Music Business Worldwide.
+Here are the 30,000 songs Sony is suing Udio’s AI music generator over
+Songs from Beyoncé, Britney Spears, Johnny Cash, Harry Styles, and many more are on the list.
+Songs from Beyoncé, Britney Spears, Johnny Cash, Harry Styles, and many more are on the list.
+In 2024, Sony, along with Universal Music Group and Warner Records, filed a lawsuit against Udio and the AI music-maker Suno.&lt;/p&gt;</description></item><item><title>亿道信息：预计上半年净利润同比增长1442.02%-1792.48%，业内人士怎么看？</title><link>https://aihot.bt199.com/news/d220f5d3af30/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/d220f5d3af30/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，36氪获悉，亿道信息公告，预计2026年上半年归属于上市公司股东的净利润为1.76亿元-2.16亿元，比上年同期的1141.&lt;/p&gt;</description></item><item><title>亿万富翁安巴尼希望人工智能渗透到每一个通话、应用程序和家庭中</title><link>https://aihot.bt199.com/news/e35040ffdf08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e35040ffdf08/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;As India searches for a homegrown contender in the global artificial intelligence race, billionaire Mukesh Ambani is positioning Reliance Industries as a national champion, rolling out AI services for phone calls, mobile apps, and connected homes.
 At its
