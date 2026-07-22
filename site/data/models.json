@@ -3698,6 +3698,24 @@
     "is_core": true
   },
   {
+    "id": "hf-reteetzad--Kimi-K3",
+    "name": "reteetzad/Kimi-K3",
+    "display_name": "Kimi-K3",
+    "url": "https://huggingface.co/reteetzad/Kimi-K3",
+    "author": "reteetzad",
+    "pipeline_tag": "",
+    "likes": 722,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-07-21T13:10:05.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-07-22T08:36:42.817287",
+    "display_priority": 99,
+    "is_core": true
+  },
+  {
     "id": "hf-facebook--tribev2",
     "name": "facebook/tribev2",
     "display_name": "tribev2",
@@ -3713,7 +3731,7 @@
     "created_at": "2026-03-24T10:54:10.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-06T19:28:23.277960",
-    "display_priority": 99,
+    "display_priority": 100,
     "is_core": true
   },
   {
@@ -3738,7 +3756,7 @@
     "created_at": "2026-05-04T19:45:38.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-20T20:06:23.430988",
-    "display_priority": 100,
+    "display_priority": 101,
     "is_core": true
   },
   {
@@ -3868,7 +3886,7 @@
     "created_at": "2026-06-04T05:37:32.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-03T03:39:38.221766",
-    "display_priority": 101,
+    "display_priority": 102,
     "is_core": true
   },
   {
@@ -3998,7 +4016,7 @@
     "created_at": "2026-06-04T05:37:32.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-17T11:23:27.131880",
-    "display_priority": 102,
+    "display_priority": 103,
     "is_core": true
   },
   {
@@ -4027,7 +4045,7 @@
     "created_at": "2026-06-11T03:04:32.000Z",
     "source": "hf-trending",
     "collected_at": "2026-06-17T11:23:27.131849",
-    "display_priority": 103,
+    "display_priority": 104,
     "is_core": true
   },
   {
@@ -4047,7 +4065,7 @@
     "created_at": "2026-04-29T17:08:26.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-17T08:14:02.161538",
-    "display_priority": 104,
+    "display_priority": 105,
     "is_core": true
   },
   {
@@ -4072,7 +4090,7 @@
     "created_at": "2026-07-07T14:28:55.000Z",
     "source": "hf-trending",
     "collected_at": "2026-07-19T08:26:50.544915",
-    "display_priority": 105,
+    "display_priority": 106,
     "is_core": true
   },
   {
@@ -4102,26 +4120,6 @@
     "created_at": "2026-03-16T20:47:07.000Z",
     "source": "hf-trending",
     "collected_at": "2026-04-21T13:07:47.733938",
-    "display_priority": 106,
-    "is_core": true
-  },
-  {
-    "id": "hf-Comfy-Org--Krea-2",
-    "name": "Comfy-Org/Krea-2",
-    "display_name": "Krea-2",
-    "url": "https://huggingface.co/Comfy-Org/Krea-2",
-    "author": "Comfy-Org",
-    "pipeline_tag": "",
-    "likes": 316,
-    "downloads": 10,
-    "tags": [
-      "comfyui",
-      "license:other",
-      "region:us"
-    ],
-    "created_at": "2026-06-16T22:31:20.000Z",
-    "source": "hf-trending",
-    "collected_at": "2026-07-14T19:27:14.631053",
     "display_priority": 107,
     "is_core": true
   },
