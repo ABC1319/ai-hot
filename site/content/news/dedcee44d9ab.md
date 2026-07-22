@@ -20,7 +20,7 @@ ai_summary = "文章网址：https://twitter.com/kimi_moonshot/status/2078855608
 summary = "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news."
 summary_zh = "文章网址：https://twitter.com/kimi_moonshot/status/2078855608565207130 评论网址：https://news.ycombinator.com/item?id=48969291 积分…"
 tags = []
-list_page = 15
+list_page = 17
 +++
 
 <!-- AUTO-GENERATED: news page -->
