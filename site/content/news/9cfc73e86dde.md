@@ -20,7 +20,7 @@ ai_summary = "文章网址：https://localnewsmatters.org/2026/07/15/kaiser-nurs
 summary = "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news."
 summary_zh = "文章网址：https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-病人-ca…"
 tags = []
-list_page = 38
+list_page = 39
 +++
 
 <!-- AUTO-GENERATED: news page -->

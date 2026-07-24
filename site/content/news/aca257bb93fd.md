@@ -20,7 +20,7 @@ ai_summary = "https://littletech.org/https://static.politico.com/4a/bf/9c4…"
 summary = "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0."
 summary_zh = "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... 评论网址：https://news.ycombinator.com…"
 tags = []
-list_page = 5
+list_page = 7
 +++
 
 <!-- AUTO-GENERATED: news page -->
