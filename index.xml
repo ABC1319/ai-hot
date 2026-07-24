@@ -788,7 +788,8 @@ One of those businesses now has a name: Ode with Anthropic is the $1.5-billion, 
 Anthropic wants to develop its own drugs
 The AI drug boom has a long way to go before reaching patients.
 Anthropic also went a step further, saying it would develop drugs of its own.&lt;/p&gt;</description></item><item><title>Anthropic与美政府谈判中 达里奥被踢出局，这意味着什么？</title><link>https://aihot.bt199.com/news/53876f9260f9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/53876f9260f9/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;消息称，ishare.ifeng.com 美媒：Anthropic CEO成美国模型管制谈判障碍 被指“怪人”遭替换 Anthropic何时能够重新部署Fable 5模型仍不确定。&lt;/p&gt;</description></item><item><title>Apertus – 主权人工智能的开放基础模型</title><link>https://aihot.bt199.com/news/ea5a45c3af5b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ea5a45c3af5b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;消息称，ishare.ifeng.com 美媒：Anthropic CEO成美国模型管制谈判障碍 被指“怪人”遭替换 Anthropic何时能够重新部署Fable 5模型仍不确定。&lt;/p&gt;</description></item><item><title>AnySearch 面向全球推出 “学生与开发者成长计划”，这意味着什么？</title><link>https://aihot.bt199.com/news/59eebb798430/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/59eebb798430/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student &amp;amp; Developer Program）。&lt;/p&gt;</description></item><item><title>Apertus – 主权人工智能的开放基础模型</title><link>https://aihot.bt199.com/news/ea5a45c3af5b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ea5a45c3af5b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Apertus Mini
 A set of 16 small language models released to demonstrate distillation and quantization techniques.
 Training data, code, weights, methods, and alignment principles — all documented and reproducible.&lt;/p&gt;
@@ -2181,7 +2182,12 @@ a “highly isolated environment,” allowing a testing sandbox that should have
 Dan Guido, the founder of cybersecurity research startup Trail of Bits called the mistake “a containment failure with the safeties turned off.”
 In its blog post detailing the incident
 , OpenAI said that the test that led to the Hugging Face breach was set up to run in “a highly isolated environment, with network access constrained to the ability to install packages through an internally hosted third-party software that acts as a proxy and cache for package registries.”
-The model was able to escape the sandboxed testing environment thanks to a previously undisclosed vulnerability in the package-installation system, a critical first step in the eventual hack on Hugging Face, according to OpenAI.&lt;/p&gt;</description></item><item><title>OpenAI 发布首款自研 AI 芯片 Jalapeño，用于 ChatGPT、Codex 和 API 推理，这意味着什么？</title><link>https://aihot.bt199.com/news/ac1246d3f8fa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ac1246d3f8fa/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+The model was able to escape the sandboxed testing environment thanks to a previously undisclosed vulnerability in the package-installation system, a critical first step in the eventual hack on Hugging Face, according to OpenAI.&lt;/p&gt;</description></item><item><title>OpenAI 的新语音模式已登陆 ChatGPT 桌面应用程序</title><link>https://aihot.bt199.com/news/28465398b019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/28465398b019/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;OpenAI on Thursday said it has updated its ChatGPT desktop app to add support for ChatGPT Voice, allowing users to talk to the app to control AI agents and perform tasks on their computer.
+The new feature taps
+OpenAI’s new family of voice models called ChatGPT-Live
+, which it launched earlier this month.
+OpenAI said ChatGPT Voice works with both ChatGPT Work and Codex, and can also tap computer use skills to look up websites and apps.&lt;/p&gt;</description></item><item><title>OpenAI 发布首款自研 AI 芯片 Jalapeño，用于 ChatGPT、Codex 和 API 推理，这意味着什么？</title><link>https://aihot.bt199.com/news/ac1246d3f8fa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ac1246d3f8fa/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据报道，OpenAI 官方宣布推出首款自研 AI 芯片 Jalapeño，由 OpenAI 从零设计，并与 Broadcom 合作推进到生产阶段。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -2612,7 +2618,11 @@ ServiceNow’s investment reflects BusinessNext’s growing profile beyond India
 &lt;p&gt;Operating in a 24/7/365 retail environment meant that minimizing business disruption was critical.&lt;/p&gt;
 &lt;p&gt;It required meticulous planning and heavy automation to ensure our store operations ran as smoothly as possible throughout the entire transition.
 SvHCI product maturity in relation to APIs meant it was a small amount of extra work, and the main challenge of the migration was [finding] the time available to do it, for the scale of the environment.&lt;/p&gt;</description></item><item><title>Shopify AI</title><link>https://aihot.bt199.com/tools/shopify-ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/tools/shopify-ai/</guid><description>&lt;!-- AUTO-GENERATED: tool page --&gt;
-&lt;p&gt;Shopify AI 是一款偏 电商 场景的 AI 工具。这里整理了它的价格、免费额度、优缺点、适合人群和替代方案，方便直接判断是否值得用。&lt;/p&gt;</description></item><item><title>Show HN：OpenKnowledge – Obsidian/Notion 的开源 AI 优先替代品</title><link>https://aihot.bt199.com/news/0c62baeff9bd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0c62baeff9bd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;Shopify AI 是一款偏 电商 场景的 AI 工具。这里整理了它的价格、免费额度、优缺点、适合人群和替代方案，方便直接判断是否值得用。&lt;/p&gt;</description></item><item><title>Show HN：OneCLI – OSS 凭证网关，可向 AI 代理保密</title><link>https://aihot.bt199.com/news/761ce3ae5641/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/761ce3ae5641/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;嘿 HN，这里是 Jonathan 和 Guy，他们是 OneCLI (&lt;a href="https://onecli.sh/"&gt;https://onecli.sh/&lt;/a&gt;) 的创建者…&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://github.com/onecli/onecli"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Show HN：OpenKnowledge – Obsidian/Notion 的开源 AI 优先替代品</title><link>https://aihot.bt199.com/news/0c62baeff9bd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0c62baeff9bd/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;OpenKnowledge is a beautiful, local-first markdown editor and LLM wiki with integrations for Claude, Codex, and other harnesses.
 Available as
 macOS app
@@ -3702,7 +3712,8 @@ At such a critical moment in US history, we need reporters on the ground.&lt;/p&
 &lt;p&gt;26 个帖子 - 16 位参与者 阅读完整话题&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://linux.do/t/topic/2448175"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>刚刚，[OneDayAI] 先送后卖，新老用户留言即送一周套餐，每 20 楼抽 20 刀充值额度</title><link>https://aihot.bt199.com/news/v2ex-1224726/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224726/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://linux.do/t/topic/2448175"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>刚刚，[Bool 中转] 满血 GPT0.05x Grok0.05x 本帖留言送 10 刀 新人加群再送 5 刀 原生满血性能随意测试</title><link>https://aihot.bt199.com/news/v2ex-1229621/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1229621/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;据了解，官网:booltoken.com 全系列 gpt 模型 grok 模型 0.05x 不掺水不降智不套壳 随意测试验证 本帖子留言注册送 10 刀额度 新人注册加群再送 5 刀额度 q 群 101548083 有建议欢迎随时提 不懂的随时问 高强度在线&lt;/p&gt;</description></item><item><title>刚刚，[OneDayAI] 先送后卖，新老用户留言即送一周套餐，每 20 楼抽 20 刀充值额度</title><link>https://aihot.bt199.com/news/v2ex-1224726/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1224726/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;距离上次推广已过去三个月，我们还在且一如既往保持
 兼容+稳定+性价比+低试错
 。&lt;/p&gt;
@@ -5175,8 +5186,11 @@ As founder Peter Elias (pictured above) puts it, the company’s goal is to prev
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://linux.do/t/topic/2457051"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>可能重塑纽约电网的输电线遇到了障碍</title><link>https://aihot.bt199.com/news/31cc69d5f18c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/31cc69d5f18c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day.
-Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).&lt;/p&gt;</description></item><item><title>克劳德的语音模式现在可用于 Opus 和 Sonnet</title><link>https://aihot.bt199.com/news/f7a651ced671/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/f7a651ced671/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;7月3日，随着热浪席卷该地区，纽约州电网从加拿大进口了52吉瓦时的电力，足以满足当天约9%的总电力需求。&lt;/p&gt;
+&lt;p&gt;其中一些电力通过…&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/"&gt;MIT Tech Review原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>克劳德的语音模式现在可用于 Opus 和 Sonnet</title><link>https://aihot.bt199.com/news/f7a651ced671/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/f7a651ced671/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Until now, voice mode has only been available on Claude Haiku, Anthropic’s faster but less powerful model.&lt;/p&gt;
 &lt;p&gt;Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva.
 Claude’s voice mode is now available for Opus and Sonnet
@@ -5436,7 +5450,9 @@ might accidentally be good for the company&lt;/p&gt;</description></item><item><
 &lt;p&gt;如果你要核对细节，可以再看原文：
 &lt;a href="https://linux.do/t/topic/2500614"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>美银预计SK海力士至2028年实际可新增产能仅为原计划的六分之一，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/acba58d6d0f7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/acba58d6d0f7/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据报道，美国银行最新分析显示，SK海力士至2028年实际可新增的存储芯片产能，可能仅为原计划的六分之一，这一判断不仅令韩国政府的产能扩张蓝图大打折扣，更为正在进行中的DRAM价格操纵集体诉讼提供了关键佐证。&lt;/p&gt;</description></item><item><title>妹妹高考分数出了，求大学专业、学校推荐，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/v2ex-1222707/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1222707/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;据报道，前文介绍：亲妹妹，江苏人，家境一般偏下，一个哥哥姐姐在南京，没什么特别爱好特长、对专业也没啥要求，没特别感兴趣（高中生的迷茫），地区不大限制，她偏向江苏或者周边的学校。&lt;/p&gt;</description></item><item><title>秘塔 AI 搜索</title><link>https://aihot.bt199.com/tools/%E7%A7%98%E5%A1%94%E6%90%9C%E7%B4%A2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/tools/%E7%A7%98%E5%A1%94%E6%90%9C%E7%B4%A2/</guid><description>&lt;!-- AUTO-GENERATED: tool page --&gt;
+&lt;p&gt;据报道，前文介绍：亲妹妹，江苏人，家境一般偏下，一个哥哥姐姐在南京，没什么特别爱好特长、对专业也没啥要求，没特别感兴趣（高中生的迷茫），地区不大限制，她偏向江苏或者周边的学校。&lt;/p&gt;</description></item><item><title>孟加拉推进总投资10亿美元造船枢纽项目，这意味着什么？</title><link>https://aihot.bt199.com/news/377594507dc0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/377594507dc0/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;据报道，孟加拉国已初步批准在新兴的马塔尔巴里深水港片区，建设一座由社会资本全额出资、总投资额10亿美元的现代化修造船综合园区。&lt;/p&gt;
+&lt;p&gt;投资方拟定为澳大利亚AIS海洋投资公司，中国港湾工程有限责任公司出任项目技术合作方；目前官方尚未公布项目施工时间表以及特许经营年限。&lt;/p&gt;</description></item><item><title>秘塔 AI 搜索</title><link>https://aihot.bt199.com/tools/%E7%A7%98%E5%A1%94%E6%90%9C%E7%B4%A2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/tools/%E7%A7%98%E5%A1%94%E6%90%9C%E7%B4%A2/</guid><description>&lt;!-- AUTO-GENERATED: tool page --&gt;
 &lt;p&gt;秘塔 AI 搜索 是一款偏 搜索 场景的 AI 工具。这里整理了它的价格、免费额度、优缺点、适合人群和替代方案，方便直接判断是否值得用。&lt;/p&gt;</description></item><item><title>秘塔写作猫</title><link>https://aihot.bt199.com/tools/%E7%A7%98%E5%A1%94%E5%86%99%E4%BD%9C%E7%8C%AB/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/tools/%E7%A7%98%E5%A1%94%E5%86%99%E4%BD%9C%E7%8C%AB/</guid><description>&lt;!-- AUTO-GENERATED: tool page --&gt;
 &lt;p&gt;秘塔写作猫 是一款偏 写作 场景的 AI 工具。这里整理了它的价格、免费额度、优缺点、适合人群和替代方案，方便直接判断是否值得用。&lt;/p&gt;</description></item><item><title>妙啊！无人机直连卫星传Token，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/31b4107f1213/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/31b4107f1213/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;妙啊！&lt;/p&gt;
@@ -5485,7 +5501,13 @@ On the margins of a bustling Nairobi, we wind past a mix of high-rises and hardw
 &lt;p&gt;In late May, Neil Rimer said something during a sit-down I had with him in Athens that I haven’t been able to shake.&lt;/p&gt;
 &lt;p&gt;At a vibrant new
 tech festival
-in the city, talking about the wealth piling up around AI, he said he has “a strong sense that there will be some sort of a redistribution.” He continued on.&lt;/p&gt;</description></item><item><title>你们用啥 ai 编程工具可以当生产力?，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/v2ex-1221329/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1221329/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+in the city, talking about the wealth piling up around AI, he said he has “a strong sense that there will be some sort of a redistribution.” He continued on.&lt;/p&gt;</description></item><item><title>你的下一位面试官，可能不是人，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/1f58c1527b7e/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1f58c1527b7e/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;谁能保证超级数字员工不是下一个AI落地的窗口
+撰文 | 李嘉星
+编辑 | 张薇
+封面来源 | 元企AI
+七月初，秋招开始预热。&lt;/p&gt;
+&lt;p&gt;你投出去的下一份简历，可能不是先被HR看到，而是先被一个AI员工读完。&lt;/p&gt;</description></item><item><title>你们用啥 ai 编程工具可以当生产力?，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/v2ex-1221329/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1221329/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;消息称，目前只买过 deepseek api 用 trae 和 opencode reasonix,感觉不好用啊,干啥都不行 codex 和 claude 还没外国手机门号&amp;hellip;值得买吗大哥哥们?&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -5720,7 +5742,16 @@ Drawing on more than a decade spent helping build some of the world’s most inf
 &lt;p&gt;The feature, which was rolled out earlier this week along with a batch of other AI tools, “missed the mark” and is no longer available, according to the company.
 Earlier this week, Meta
 announced
-Muse Image, a new AI image generator built by Meta Superintelligence Labs, its dedicated AI unit.&lt;/p&gt;</description></item><item><title>抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重，业内人士怎么看？</title><link>https://aihot.bt199.com/news/e942446e4dbe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e942446e4dbe/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Muse Image, a new AI image generator built by Meta Superintelligence Labs, its dedicated AI unit.&lt;/p&gt;</description></item><item><title>抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录，业内人士怎么看？</title><link>https://aihot.bt199.com/news/e5a4f03981f3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e5a4f03981f3/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;抢跑！&lt;/p&gt;
+&lt;p&gt;全球化新品牌进入AI时刻，何以定胜负？&lt;/p&gt;
+&lt;p&gt;| 2026全球化新品牌AI竞争力大会实录
+量子位的朋友们
+2026-07-24
+17:57:35
+来源：
+量子位
+中国品牌全球化发展的下一个高能杠杆点是什么？&lt;/p&gt;</description></item><item><title>抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重，业内人士怎么看？</title><link>https://aihot.bt199.com/news/e942446e4dbe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e942446e4dbe/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;减重1亿斤，是什么概念？&lt;/p&gt;
 &lt;p&gt;简单算一笔“热量账”。&lt;/p&gt;
 &lt;p&gt;按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。&lt;/p&gt;</description></item><item><title>侵入大气层：地球工程得到现实检验</title><link>https://aihot.bt199.com/news/8ee7ec35dcf5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8ee7ec35dcf5/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -5841,7 +5872,11 @@ I have to confess that I was late to the party.&lt;/p&gt;</description></item><i
 &lt;p&gt;文章网址：https://lcamt​​uf.substack.com/p/the-100000-whys-of-ai…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://lcamtuf.substack.com/p/the-100000-whys-of-ai"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>人工智能改变了软件重写的经济性</title><link>https://aihot.bt199.com/news/1ac44c409b46/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1ac44c409b46/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://lcamtuf.substack.com/p/the-100000-whys-of-ai"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>人工智能赌注出了岔子：甲骨文解雇了 21,000 名员工</title><link>https://aihot.bt199.com/news/c307a1d41140/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c307a1d41140/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;文章网址：https://www.msn.com/en-us/money/economy/ai-bet-goes-awr…&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>人工智能改变了软件重写的经济性</title><link>https://aihot.bt199.com/news/1ac44c409b46/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/1ac44c409b46/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;文章网址：https://thetruthaseeitnow.com/ai-slop-starts-with-the-c…&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -6136,7 +6171,8 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 &lt;p&gt;三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.qbitai.com/2026/06/438658.html"&gt;量子位原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>桑达尔·皮查伊 (Sundar Pichai) 在斯坦福大学毕业典礼上因谷歌与以色列和 ICE 的关系而面临嘘声和退场</title><link>https://aihot.bt199.com/news/ea8ad6c2bdaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ea8ad6c2bdaa/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://www.qbitai.com/2026/06/438658.html"&gt;量子位原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>三星、SK海力士据悉将与美国企业签署大额芯片供应协议，这意味着什么？</title><link>https://aihot.bt199.com/news/dacf7133778d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/dacf7133778d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;消息称，韩国总统室政策室长金容范7月23日透露，三星电子和SK海力士预计将在韩国总统李在明访问硅谷期间，与美国主要科技企业公布涉及“大规模金额”的合作协议，相关协议可能包括长期存储芯片供应协议、战略投资合作以及谅解备忘录，但未透露具体金额。&lt;/p&gt;</description></item><item><title>桑达尔·皮查伊 (Sundar Pichai) 在斯坦福大学毕业典礼上因谷歌与以色列和 ICE 的关系而面临嘘声和退场</title><link>https://aihot.bt199.com/news/ea8ad6c2bdaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ea8ad6c2bdaa/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;人工智能再次成为大学毕业抗议的核心——这次是因为该技术在谷歌国防合同中的使用&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -6177,7 +6213,8 @@ Sharon Brightwell heard her daughter crying down the line, and that was the end 
 &lt;p&gt;小米、应用宝都像机器一样，冷冰冰的，回复就是 AI ，让等三天，所有的字段，带 * 的就是必填项，不管你什么情况。&lt;/p&gt;</description></item><item><title>社交媒体上人工智能内容无处不在，尤其是 LinkedIn</title><link>https://aihot.bt199.com/news/8b4777dba609/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/8b4777dba609/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;Two months ago, we launched our Chrome extension to help combat the rising slop problem on social media.&lt;/p&gt;
 &lt;p&gt;It lets users scan posts on social media as they scroll, flagging AI-generated content so they can make informed decisions about how they spend their attention.
-Pangram is a research-first company, not just for our industry-leading AI detection algorithms, but for tracking the risk and prevalence of AI-generated content.&lt;/p&gt;</description></item><item><title>深度解读：“鹰瞰智翼”完成数千万元A轮融资</title><link>https://aihot.bt199.com/news/bc4f9c775377/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/bc4f9c775377/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Pangram is a research-first company, not just for our industry-leading AI detection algorithms, but for tracking the risk and prevalence of AI-generated content.&lt;/p&gt;</description></item><item><title>深度解读：“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持</title><link>https://aihot.bt199.com/news/6a91ec5db6d5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6a91ec5db6d5/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;今天，国际数学联盟（IMU）正式公布了 2026 年菲尔兹奖的获奖名单，四位青年数学家邓煜（Yu Deng）、约翰·帕登（John Pardon）、雅各布·齐默曼（Jacob Tsimerman）以及王虹（Hong Wang）凭借在各自研究领域的杰出贡献与突破性成果摘得这一数学界最高荣誉。&lt;/p&gt;</description></item><item><title>深度解读：“鹰瞰智翼”完成数千万元A轮融资</title><link>https://aihot.bt199.com/news/bc4f9c775377/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/bc4f9c775377/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据报道，36氪获悉，具身智能仿生扑翼飞行机器人公司“鹰瞰智翼”已于近期完成数千万元A轮融资。&lt;/p&gt;
 &lt;p&gt;本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。&lt;/p&gt;</description></item><item><title>深度解读：[HappyCode] 稳定高性价比 API 中转站， V 站拉新送福利**总计$200 **连送 7 日免费体验额度**</title><link>https://aihot.bt199.com/news/v2ex-1223526/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1223526/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;消息称，## HappyCode： &lt;a href="https://happycode.vip"&gt;https://happycode.vip&lt;/a&gt; HappyCode 是一个面向大众用户的 API 中转服务，拥有自建账号池，提供多种稳定的模型分组。&lt;/p&gt;
@@ -6767,7 +6804,10 @@ Google Colab CLI
 &lt;a href="https://linux.do/t/topic/2443620"&gt;LINUX DO原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>深度解读：拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河</title><link>https://aihot.bt199.com/news/7180bd0cd389/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7180bd0cd389/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;OpenAI 刚刚把第一颗自研推理芯片推到台前，Anthropic 也被曝开始接触三星，探索围绕自研 AI 芯片展开合作。&lt;/p&gt;
 &lt;p&gt;两个最受关注的大模型公司，几乎在同一时间把手伸向了芯片。&lt;/p&gt;</description></item><item><title>深度解读：卡塔尔赠送的新空军一号飞机抵达安德鲁斯联合基地，开始试飞</title><link>https://aihot.bt199.com/news/3e3739d7441a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/3e3739d7441a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;有分析指出，https://www.af.mil/News/Article-Display/Article/4522274/vc-25b-bridge-aircraft-arrives-at-joint-base-andrews-begins-commissioning-fligh/ [!&lt;/p&gt;</description></item><item><title>深度解读：氪星晚报 ｜苹果折叠屏已在量产；潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资</title><link>https://aihot.bt199.com/news/5f8586f2257a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/5f8586f2257a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;有分析指出，https://www.af.mil/News/Article-Display/Article/4522274/vc-25b-bridge-aircraft-arrives-at-joint-base-andrews-begins-commissioning-fligh/ [!&lt;/p&gt;</description></item><item><title>深度解读：氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争</title><link>https://aihot.bt199.com/news/882d65ab23a7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/882d65ab23a7/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;大公司：
+字节跳动在中卫成立朔方星河科技公司，注册资本24亿
+36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等。&lt;/p&gt;</description></item><item><title>深度解读：氪星晚报 ｜苹果折叠屏已在量产；潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资</title><link>https://aihot.bt199.com/news/5f8586f2257a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/5f8586f2257a/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;大公司：
 网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言
 36氪获悉，近日，有网民发布题为《7月1日新规正式落地！&lt;/p&gt;
@@ -6836,7 +6876,13 @@ vm: ubuntu server *2 24 小时待机
 &lt;p&gt;6 月 26 日-27 日，
 AICon全球人工智能开发与应用大会
 即将在上海举行。&lt;/p&gt;
-&lt;p&gt;本次大会将以“构建可信赖、可规模化、可商业化的 Agentic 操作系统”为核心命题，集结清华、复旦等知名高校教授，以及来自阿里、腾讯、蚂蚁、字节、快手、小红书、华为、Google Cloud 等数十家头部公司的技术专家登台分享。&lt;/p&gt;</description></item><item><title>深度解读：深度原理AI科学家平台获WAIC 2026 SAIL之星奖</title><link>https://aihot.bt199.com/news/6f88b69e5f1d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6f88b69e5f1d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;本次大会将以“构建可信赖、可规模化、可商业化的 Agentic 操作系统”为核心命题，集结清华、复旦等知名高校教授，以及来自阿里、腾讯、蚂蚁、字节、快手、小红书、华为、Google Cloud 等数十家头部公司的技术专家登台分享。&lt;/p&gt;</description></item><item><title>深度解读：深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？</title><link>https://aihot.bt199.com/news/78e3be532d78/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/78e3be532d78/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;深度解读：深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？&lt;/p&gt;
+&lt;p&gt;。&lt;/p&gt;
+&lt;p&gt;来源：InfoQ AI。&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&amp;amp;utm_medium=article"&gt;InfoQ AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>深度解读：深度原理AI科学家平台获WAIC 2026 SAIL之星奖</title><link>https://aihot.bt199.com/news/6f88b69e5f1d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6f88b69e5f1d/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;有分析指出，7月17日，2026世界人工智能大会（WAIC）主论坛在上海世博中心举行，并揭晓SAIL奖及SAIL之星获奖项目。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -7111,7 +7157,17 @@ Microsoft.App/SandboxGroups
 &lt;a href="https://htmx.org/essays/working-with-ai/"&gt;Hacker News AI原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>世界领导人想要美国的人工智能。他们只是不希望美国能够将其关闭。</title><link>https://aihot.bt199.com/news/9ef08ab1d787/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/9ef08ab1d787/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;At the G7 Summit on Wednesday, world leaders like French President Emmanuel Macron and Indian Prime Minister Narendra Modi voiced concerns that the U.S.&lt;/p&gt;
 &lt;p&gt;could cut off their countries’ access to top American AI models at any time.
-Macron warned G7 leaders and top AI executives — including Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman, and President Donald Trump — over lunch that if the U.S.&lt;/p&gt;</description></item><item><title>世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/e4debdefe3f8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e4debdefe3f8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+Macron warned G7 leaders and top AI executives — including Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman, and President Donald Trump — over lunch that if the U.S.&lt;/p&gt;</description></item><item><title>世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/ae7d62b07275/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ae7d62b07275/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;世界模型“六小龙”在WAIC吵起来了！&lt;/p&gt;
+&lt;p&gt;行业红利就在非共识里
+林, 方舟
+2026-07-24
+15:29:57
+来源：
+量子位
+林方舟 发自 凹非寺
+量子位 | 公众号 QbitAI
+世界模型，是当前AI圈最火、也最没有共识的领域之一。&lt;/p&gt;</description></item><item><title>世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互，这一消息引发行业关注</title><link>https://aihot.bt199.com/news/e4debdefe3f8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/e4debdefe3f8/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;世界模型首次迎来“小时级”生成！&lt;/p&gt;
 &lt;p&gt;蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互
 量子位的朋友们
@@ -7687,7 +7743,9 @@ Prompt还没退场，Loop已经开始接管AI叙事。&lt;/p&gt;</description></
 目前离职证明还没拿到，解除劳动合同签了，跟人事约了周一下午继续谈一下
 我想问问，假如我走投诉渠道去社保局和公积金中心，这笔钱我能拿到吗，就是打到我相应的账户里，我自己也补钱，再一个投诉渠道会不会给公司造成压力，公司会不会想跟我私下补一笔钱和解（不包含 n+1 ）
 杭州，国企性质，老板有编制，大家有类似的处理经验吗？&lt;/p&gt;</description></item><item><title>突发：瓷瓷乐玩 ：当传统文化遇上新消费浪潮 | 36氪WAVES2026新浪潮</title><link>https://aihot.bt199.com/news/7d7e1f5b41a3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/7d7e1f5b41a3/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
-&lt;p&gt;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。&lt;/p&gt;</description></item><item><title>突发：从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”</title><link>https://aihot.bt199.com/news/c4cbe2189248/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c4cbe2189248/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。&lt;/p&gt;</description></item><item><title>突发：从“卷模型”到“算总账”：AI 产业竞争开始拼什么 | 请回答 WAIC 2026</title><link>https://aihot.bt199.com/news/059d50548e2c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/059d50548e2c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;WAIC 2026 的大幕已经拉上，行业群里的讨论热度却一点没降。&lt;/p&gt;
+&lt;p&gt;过去几天，世博展览馆每个会议室和展位都塞满了人，Demo 体验区拐着弯排长队，社交平台上带 WAIC 话题的帖子频频出圈——这届大会的热度，肉眼可见地又攀上了一个新高峰。&lt;/p&gt;</description></item><item><title>突发：从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”</title><link>https://aihot.bt199.com/news/c4cbe2189248/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/c4cbe2189248/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”
 “共识与非共识”的深度思辨
 6月30日，由联想控股微空间、联想之星和融科资讯中心共同发起的“科技有「联想」”线下沙龙首场活动“硅基进化论”在京举行。&lt;/p&gt;</description></item><item><title>突发：从看见问题到解决问题，Agent 正重新定义可观测？</title><link>https://aihot.bt199.com/news/423d973bb671/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/423d973bb671/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
@@ -8508,7 +8566,11 @@ Europe is in the middle of a record-breaking heat wave, and the grid is being pu
 Inside the world’s deepest and longest subsea road tunnel
 —Niall Firth
 I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave.&lt;/p&gt;
-&lt;p&gt;It smells weird.&lt;/p&gt;</description></item><item><title>下载：人工智能“同事”和平流层互联网</title><link>https://aihot.bt199.com/news/ecf57bff995b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ecf57bff995b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;It smells weird.&lt;/p&gt;</description></item><item><title>下载：器官移植突破和国产芯片</title><link>https://aihot.bt199.com/news/6f3dc14cb11c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/6f3dc14cb11c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;This is today&amp;rsquo;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;rsquo;s going on in the world of technology.
+Supercooled kidneys have been transplanted into pigs in a “landmark achievement”
+When it comes to organ donation, time is everything.&lt;/p&gt;
+&lt;p&gt;As soon as an organ has been removed from a donor’s body, it starts to deteriorate.&lt;/p&gt;</description></item><item><title>下载：人工智能“同事”和平流层互联网</title><link>https://aihot.bt199.com/news/ecf57bff995b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/ecf57bff995b/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;This is today&amp;rsquo;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;rsquo;s going on in the world of technology.
 AI agents are not your “coworkers”
 Imagine coming in to work to learn that a new underling will report to you.&lt;/p&gt;
@@ -8633,7 +8695,11 @@ wherein a brainwashed character is hypnotized into taking actions by the phrase 
 &lt;p&gt;据报道，月初开始在新家坡老板开的一家儿童智能手表兼职做客服，因为跑 Python 脚本下载历史工单喂 AI 被威胁开除。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
-&lt;a href="https://www.v2ex.com/t/1225425"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>新浪微博推出 CLI 服务，业内人士怎么看？</title><link>https://aihot.bt199.com/news/0c595d2c65e4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0c595d2c65e4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;a href="https://www.v2ex.com/t/1225425"&gt;V2EX原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>新晋菲尔兹奖得主雅各布宣布加入OpenAI，业内人士怎么看？</title><link>https://aihot.bt199.com/news/b694133c3893/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/b694133c3893/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;据报道，新晋菲尔兹奖得主之一雅各布·齐默曼在费城接受了数学界的最高荣誉后，立即宣布他将加入OpenAI，专注于人工智能安全领域。&lt;/p&gt;
+&lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
+&lt;p&gt;如果你要核对细节，可以再看原文：
+&lt;a href="https://36kr.com/newsflashes/3909592817833349?f=rss"&gt;36氪原文链接&lt;/a&gt;&lt;/p&gt;</description></item><item><title>新浪微博推出 CLI 服务，业内人士怎么看？</title><link>https://aihot.bt199.com/news/0c595d2c65e4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/0c595d2c65e4/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据了解，让 AI 智能体可以通过 CLI 直接与微博进行交互，可以批量发布内容、查询内容、使用 AI 给用户评论进行回复等。&lt;/p&gt;
 &lt;h2 id="-原始来源"&gt;🔗 原始来源&lt;/h2&gt;
 &lt;p&gt;如果你要核对细节，可以再看原文：
@@ -10261,7 +10327,9 @@ Ask DoorDash
 专用 AI 代理
 、基于模型上下文协议（MCP）的工具、持久化用户记忆以及
 基础设施评估自动化
-构建了该系统，从而在生产环境中运行基于 AI 的用户体验。&lt;/p&gt;</description></item><item><title>最新动态：Gmail改名后，使用旧地址发邮件，【会暴露新、旧地址】</title><link>https://aihot.bt199.com/news/64598eabf34c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/64598eabf34c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+构建了该系统，从而在生产环境中运行基于 AI 的用户体验。&lt;/p&gt;</description></item><item><title>最新动态：GKE 安全蓝图加入云厂商 AI 安全框架阵营</title><link>https://aihot.bt199.com/news/aefb871aaa28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/aefb871aaa28/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
+&lt;p&gt;谷歌云发布了一份新的安全蓝图，介绍企业应如何保护运行在 Google Kubernetes Engine（GKE） 上的人工智能工作负载。&lt;/p&gt;
+&lt;p&gt;谷歌认为，AI 应用从原型阶段走向生产环境的速度，已经超过了传统安全模型的适应能力。&lt;/p&gt;</description></item><item><title>最新动态：Gmail改名后，使用旧地址发邮件，【会暴露新、旧地址】</title><link>https://aihot.bt199.com/news/64598eabf34c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/64598eabf34c/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据报道，刚才更换了gmail的地址，然后测试了一下旧地址发送邮件的效果，发给了自己的163邮箱，可以看到新、旧两个地址。&lt;/p&gt;
 &lt;p&gt;过两天再试一下，问了gemini，回复说可能过一段时间就不显示了。&lt;/p&gt;</description></item><item><title>最新动态：GPT 今天是不是特别慢？和最近取消 5 小时限额有关吗？</title><link>https://aihot.bt199.com/news/v2ex-1227176/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aihot.bt199.com/news/v2ex-1227176/</guid><description>&lt;!-- AUTO-GENERATED: news page --&gt;
 &lt;p&gt;据报道，今天用 GPT 感觉特别慢，经常要等很久才开始响应，生成过程中也会卡顿。&lt;/p&gt;
