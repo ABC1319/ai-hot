@@ -20,7 +20,7 @@ ai_summary = "文章网址：https://www.redfin.com/news/ai-data-centers-opposit
 summary = "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news."
 summary_zh = "文章网址：https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ 评论网址：https://news.ycombinator.com/item?id…"
 tags = []
-list_page = 8
+list_page = 10
 +++
 
 <!-- AUTO-GENERATED: news page -->
